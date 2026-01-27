@@ -1,0 +1,317 @@
+[Oportunidade 1]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates either in Latin America, Africa, or Eastern Europe who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+
+
+Responsibilities
+
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java or Groovy or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice-to-have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on NoSQL technologies
+Hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+You can start as soon as possible, ideally immediately
+You are located in either Latin America, Africa, or Eastern Europe
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+Hiring Manager (client) interview (30 min)
+Design & development competency check interview (client) (about 45 minutes)
+Final (client) interview (30 min)
+ 
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+
+ What we offer
+
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates in Latin America who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+
+
+Responsibilities
+
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java, or Groovy, or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice to have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on either SQL or NoSQL technologies
+ If you have experience with NoSQL technologies, then we would be looking for hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+If you have experience with SQL technologies, we need you to have in-depth experience building and maintaining services with SQL databases.
+You can start as soon as possible
+You are located in Latin America
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Experience with Amazon Athena
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+(Client) Hiring Manager interview (30 min)
+(Client) Design & development competency check interview (about 45 minutes)
+(Client) Final interview (30 min)
+
+
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+ 
+What we offer
+
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Especialista
+
+Sobre a vaga
+A Foursys nasceu em 2000 com o propósito de revolucionar o mercado de TI e promover soluções inovadoras. Atendemos grandes clientes nacionais e internacionais através de nossos escritórios no Brasil e nos Estados Unidos.
+
+• Somos GPTW pelo segundo ano consecutivo
+• Estamos sempre abertos a novas ideias e promovemos um ambiente de inclusão, diversidade e respeito.
+
+• E temos também o Clube da Four que oferece ótimas vantagens! 👇
+
+🩺 Assistência médica;
+🍲 VR e VA flexível;
+🏋️ Gympass e Wellz;
+⚽ Parceria com o SESC;
+🍣 Descontos em restaurantes;
+📚 Descontos em cursos técnicos e de ensinos superior;
+🧠 Descontos em escolas e plataformas de idiomas
+
+Que tal se juntar a nós e se tornar um(a) #FourTalent?
+
+Então se liga nessa oportunidade incrível: 👇
+
+Descrição da vaga: Engenheiro de Dados Especialista
+
+Responsabilidades
+
+Gerenciamento eficaz de informações e dados, garantindo integridade, segurança e qualidade.
+Desenvolvimento e implementação de processos para a ingestão, manipulação e transformação de dados.
+Colaboração com equipes técnicas e de negócios na definição de esquemas de dados e escolha de formatos adequados.
+Utilização de ferramentas de manipulação e qualidade de dados para garantir consistência e confiabilidade.
+Execução de consultas SQL para análises ad hoc e geração de insights relevantes.
+Identificação e resolução de problemas relacionados aos dados, visando melhorias contínuas nos processos e qualidade dos dados.
+
+Conhecimento Técnico
+
+Imprescindível domício com Java 17, Python 3.9+, Apache Beam, Apache Spark, GCP
+Experiência com Dataflow/Dataproc, Scala, Spark SQL, Modelagem Para NoSQL, Modelagem para SQL.
+
+Formação Acadêmica
+
+Ciências da computação, Sistemas de Informação, Engenharia da computação ou afins;
+
+Local de Trabalho
+
+Barueri - Híbrido (Imprescindível residir em São Paulo)
+
+Idioma
+
+Inglês - Imprescindível fluência.
+
+Aceita o desafio? Então conclua sua inscrição
+
+#VemSerFoursys!
+
+Boa sorte! 🍀
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Pessoa Engenheira de Dados Pleno
+
+Sobre a vaga
+#Nosso jeito de fazer história:
+Entre para a história de construção do maior Hub de Dados e Analytics do Brasil.
+Além de você contribuir diretamente neste objetivo, você estará se desenvolvendo constantemente, por meio de grandes desafios de negócio, junto a um time de alto impacto. Na Neoway, acreditamos em fazer as coisas de forma inovadora, colaborativa, responsável e com foco no cliente.
+
+Sobre a Engenharia de Dados:
+Somos a área responsável pela coleta, tratamento, organização e disponibilização dos dados nas soluções e API da Neoway. Nossa área está organizada por pacotes de contextos de dados e cada pacote possui um time específico, composto por: uma pessoa Data Owner, responsável por fazer a ponte entre os times de dados e o time de produtos, definir o backlog e as prioridades do seu respectivo time; pessoas Engenheiras de Dados, responsáveis pelo desenvolvimento e configuração de todas as etapas do fluxo da operação e produção de dados.
+
+Como será o seu dia a dia no time:
+Desenvolvimento de web crawling para coleta de dados;
+Fornecimento de dados em APIs;
+Tratamento, higienização e agregação de dados;
+Monitoramento dos serviços de produção;
+Evolução e manutenção de serviços de coleta, tratamento e agregação;
+Fornecimento de dados como serviços para a Plataforma Neoway.
+
+Seguimos práticas básicas de desenvolvimento: 
+Testes unitários, integração, e em alguns casos, sistema.
+Projeto de infraestrutura como código.
+Usamos CI do gitlab, para automatizar a maior parte de rotinas (testes, release). 
+Nos preocupamos com um código limpo e bem estruturado. 
+Fazemos Code Review. Nenhuma mudança vai para a operação sem o time aprovar. Seja via thumbs up do Gitlab ou durante uma discussão da daily. 
+Todo desenvolvimento de uma nova fonte é baseado em especificações que são escritas pela nossa pessoa Data Owner. Nela temos as definições de inputs e outputs, regras de negócio e resultados esperados. A especificação técnica fica sob responsabilidade do desenvolvedor que tem total abertura para decidir a melhor forma de desenvolvimento em conjunto com os demais colegas de time.
+
+#Requisitos e qualificações para o cargo:
+Desenvolvimento e manutenção de APIs;
+Linguagem de programação Golang ou Python;
+MongoDB, Kafka, RabbitMQ, SQL;
+Parser de HTML, JSON, PDF, entre outros;
+Conhecimento em qualidade de dados e desenvolvimento orientado a testes.
+
+#NeoJourney l Cardápio de Benefícios:
+🍲 Vale Alimentação/Refeição;
+🚘 Auxílio transporte;
+🩺Plano de Assistência médica e odontológica;
+👨‍👩‍👦 Licença Maternidade e paternidade estendida;
+💳PPR (Programa de participação de resultados);
+🏋️‍♀️Gympass - plataforma que te dá acesso a mais de 18 mil academias no Brasil. Nas academias conveniadas são oferecidas mais de 700 modalidades esportivas;
+💛 Wellz - plataforma de saúde mental e bem estar, com terapia gratuita e muito mais;
+🙆🏽Ginástica Laboral (presencial) 1x na semana;
+🧘🏻Quick Massagem (presencial) 2x mês;
+👶🏽Auxílio Creche;
+🎈Day off no aniversário;
+🚑 Seguro de Vida;
+📚 Parcerias Educacionais com Faculdades e Escolas de Ensino.
+
+Mais sobre o Universo Neoway:
+Unimos forças com a B3, a maior potência de dados do país. Nossa meta é entrar para a história, e o capítulo deste ano é sobre acelerar.
+Todos e todas do time são essenciais para escrevermos este capítulo! Entendemos que as jornadas na Neoway são únicas, feitas pela soma do DNA Neoway + o potencial de cada colaborador(a).
+
+#Somos Mudança
+Acreditamos na potência da diversidade. Sabemos que temos um longo caminho pela frente, por isso estamos constantemente aprendendo e criando iniciativas para fortalecer a diversidade e inclusão. E essa jornada conta com o apoio dos nossos grupos de afinidade: #NeoLadies #NeoOba e #NeoPride, todos com o propósito de traduzir nossas mudanças internas em responsabilidade como cidadãos.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Profissional Engenheiro de Soluções - Java Pleno
+
+Sobre a vaga
+Código da vaga: 35408
+
+Sobre a BRQ Digital
+Há 31 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+Vamos transformar juntos! Vem ser fera com a gente.
+
+Ei Engenheiro de Software, venha fazer parte de uma das maiores empresas de transformação digital do país!
+
+- O que procuramos?
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+Elaborar e conduzir refinamentos técnicos de demandas trazidas pelo time de produtos;
+Atuar na manutenção da saúde e qualidade do codebase, equilibrando novas funcionalidades com resolução de débitos técnicos;
+Desenvolver soluções escaláveis e que irão ser utilizadas por milhões de usuários;
+Ser crítico em relação a Observabilidade; -Atuar na manutenção dos testes automatizados, incluindo criação de novos;
+Orientar desenvolvedores de menor senioridade e auxiliar no desenvolvimento destes; - Elaboração de documentação técnica de novas funcionalidades;
+Traduzir designs em código de alta qualidade;
+Participar das cerimônias junto com os demais integrantes da equipe Requisitos e Qualificações - Experiência com Java 17 (11, 8), Spring Boot e Hibernate; -
+Experiência Bancos de Dados (SQL e NoSQL), Oracle , MongoDB, RDS
+Compreensão e entendimento de arquitetura de micro serviços.
+Experiência com Design de APIs REST;
+Experiência com Testes Unitários (jUnit 5), Integração e Contrato; -
+Experiência com Axway - API Gateway; -
+Experiência com Git e Versionamento de Código; -
+Experiência com comunicação por mensageria (RabbitMQ e SQS);
+Experiência com Grafana e Dynatrace;
+Conhecimento de Clean Code, Clean Architecture e Modularização;
+Boas práticas de código, documentação e desenvolvimento de telas e componentes;
+Experiência com em metodologias ágeis;
+Experiência com Selenium + Cucumber ou framework semelhante para testes automatizados; - Excelentes habilidades para resolução de problemas e atenção aos detalhes;
+Estar disposto a buscar novos conhecimentos e encarar novos desafios;
+
+CLT pela BRQ + pacote de beneficios
+
+- O que temos pra te oferecer?
+Mais do que um plano de carreira!
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+- E os benefícios?
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Home Office; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+- Como é trabalhar na BRQ?
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------

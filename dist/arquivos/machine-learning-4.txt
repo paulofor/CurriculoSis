@@ -1,0 +1,251 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+A Soutag é uma startup que nasceu em BH, e nossa missão é levar economia e vantagens para os motoristas profissionais, principalmente nos combustíveis. O que nos move é o impacto financeiro e social que nosso produto leva para as famílias desses e dessas motoristas de aplicativo, taxistas, caminhoneiros, e demais categorias que ganham a vida dirigindo.
+
+Já contamos com milhares de usuários na plataforma e dezenas de postos em Minas Gerais, e estamos próximos de iniciarmos nossa expansão nacional, bem como a operação de uma carteira digital.
+
+Precisamos de pessoas com muita energia e disposição para nos ajudar na construção do negócio. A vaga é para um "full-stack", que consiga assumir toda a jornada de dados do negócio. As principais responsabilidades dessa vaga são:
+
+- Projetar, desenvolver e manter pipelines de dados escaláveis para processar consultas SQL dos nossos bancos de dados.
+- Integrar e gerenciar dados de várias fontes, garantindo alta qualidade e consistência.
+- Desenvolver e automatizar processos ETL
+- Criar e manter dashboards e relatórios para visualizar insights de dados e apoiar a tomada de decisões.
+- Implementar boas práticas de governança e segurança de dados.
+- Realizar análises para apoiar as áreas de negócios.
+
+Qualificações necessárias:
+- Experiência comprovada como Engenheiro de Dados, Analista de Dados ou função semelhante em ambiente de startup.
+- Proficiência em SQL e experiência com bancos de dados relacionais (ex PostgreSQL).
+- Experiência com ferramentas de integração de dados e ETL.
+- Proficiência em ferramentas de visualização de dados (ex Looker, Power BI, etc).
+- Familiaridade com linguagens de script (ex Python) para processamento e análise de dados.
+- Compreensão de conceitos e boas práticas de data warehousing.
+- Capacidade de trabalhar de forma independente e tomar decisões sobre ferramentas, orçamento e estratégias.
+- Excelentes habilidades de resolução de problemas.
+- Bacharelado em Ciência da Computação, Engenharia, Ciência de Dados ou uma área relacionada é desejável, mas não obrigatório.
+
+E aqui você vai encontrar:
+- Remuneração competitiva;
+- Gympass;
+- Caju benefícios;
+- Vale transporte;
+- Local de trabalho dinâmico e empreendedor (WeWork);
+- E mais benefícios que estão por vir;
+
+Venha crescer junto com a gente, fazendo parte de um ambiente inspirador e rico em aprendizados, e trabalhando por um propósito que está impactando a vida de muitas pessoas!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Desenvolvedora Machine Learning III
+
+Sobre a vaga
+O Inatel está recrutando Especialista para atuar com pessoa desenvolvedora de Machine Learning Sênior, para atuar com projetos de ponta, no ICC - Inatel Competence Center.
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+Desenvolver modelos estatísticos e de aprendizado de máquina usando técnicas modernas de ciência de dados e machine learning;
+Desenvolver aplicações para plataformas que podem envolver IA/ML;
+Conceber soluções inovadoras para plataformas Network as a Service (NaaS);
+Realizar estudos e análises de estruturas, dados, plataformas e ferramentas de IA/ML;
+Elaborar documentação técnica sobre as soluções propostas/adotadas;
+Prover suporte ao time de QA;
+Revisar código desenvolvido conforme boas práticas da tecnologia;
+Elaborar documentação técnica;
+Atuar como agente multiplicador de conhecimentos, prestando suporte técnico a seus pares.
+
+REQUISITOS E QUALIFICAÇÕES
+
+Ensino Superior Completo, preferencialmente em cursos de Computação, Engenharia, Sistemas de Informação ou Ciência da Computação;
+
+Sólida experiência em: 
+Linguagem de programação Python ou Go;
+Métodos estatísticos para análise de dados;
+Desenvolvimento de algoritmos de Machine Learning/Deep Learning;
+Arquitetura em microserviços;
+Desenvolvimento de aplicações web modernas;
+Banco de dados de alto volume (relacional, não relacional, data lake ou data warehouse);
+Conhecimento em Keras, PyTorch e TensorFlow
+MLOps;
+Plataformas Cloud (AWS ou Azure);
+CI/CD;
+Melhores práticas de desenvolvimento;
+Metodologias ágeis.
+
+Seria interessante se você tivesse ou soubesse:
+
+Conhecimento em soluções SDN;
+Prática em projetos com equipes multidisciplinares;
+Conhecimento em: Big Data, Data Science, gRPC, banco de dados temporal e mock de dados;
+Inglês avançado para leitura e escrita e intermediário para conversação.
+
+INFORMAÇÕES ADICIONAIS
+
+Horário de trabalho: de segunda à sexta-feira, das 8h as 12h e das 13h30 as 17h30.
+Local de trabalho: as atividades serão realizadas em regime de Teletrabalho "Home Office".
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Sr. Machine Learning Engineer - IBP
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Actively contribute to code development in projects and services, leading and coaching ML engineers and data scientists.
+Act as a contributor in innovation activities.
+Work with data scientists, IBP process leads, and BU subject matter experts to identify data clusters for optimal forecasting performance.
+Partner with data scientists on discovery, prototypes, and pilot projects, focusing on experiment tracking and translating business models to ML/statistical models.
+Collaborate with IBP market deploy and sustain teams to design, implement, and test pre-processing and post-processing modules for improved demand forecasts.
+Work with data engineers to ensure proper data access and preparation for model consumption.
+Partner with ML engineers and data scientists on industrialization efforts.
+Drive the use of the Platform toolset and demonstrate 'the art of the possible' to the business.
+Communicate with business stakeholders during service design, training, and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Research state-of-the-art methodologies and techniques for feature engineering and model data preprocessing.
+
+Qualifications
+
+What you will need to succeed
+
+4+ years working in a team to deliver production level analytic solutions - Fluent in git (version control) and with Docker.
+4+ years’ experience in ETL and/or data wrangling techniques - Fluent in SQL syntaxis.
+4+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. 
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or Scala development.
+Effective business storytelling and communicating data insights in business consumable format - Fluent in one Visualization tool.
+Experience with Agile methodology for team work and analytics ‘product’ creation - Fluent in Jira, Confluence.
+On-the-job experience with Azure cloud services is essential.
+
+Additional qualifications that will make you stand out for this position
+
+Experiences with Deep Learning are a plus.
+experience building solutions in the revenue management or in the supply chain space.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Cientista de Dados - Produtos de Crédito e Investimentos
+
+Sobre a vaga
+Quais serão suas principais atividades como Cientista de Dados aqui na Efí?
+
+Ampliar a capacidade de dados da Companhia, qualificando a informação tanto com dados externos, quanto com dados internos;
+Desenvolver e implementar modelos matemáticos que normalmente incluem programação linear/não linear, machine learning, simulação, previsão, técnicas estatísticas e/ou teorias de otimização;
+Os modelos são aplicados para as diversas áreas dentro da companhia e apoiam as decisões de negócio relacionadas ao Ciclo de Vida do cliente (exemplo: LTV/CLTV e Churn), a Propensão, a Recomendação (NBO (Next Best Offer), NBA (Next Best Action)) e Anomalia (Fraudes, Ciclo de crédito e afins).
+
+Responsabilidades:
+Liderar análises aprofundadas por meio do desenho e construção de features para toda a companhia;
+Mapear necessidades das áreas de negócios, avaliar necessidades de dados, construir códigos analíticos e acompanhar a implementação das análises;
+Identificar padrões e tendências para otimização de receita, P&L, volume capturado pelos clientes, alavancas de churn, entre outros indicadores financeiros e de negócio;
+Aplicar conhecimentos estatísticos, de otimização, analíticos e/ou de machine learning em insights e hipóteses acionáveis;
+Trabalhar em conjunto com engenheiros e arquitetos de dados na criação de Datasets e construir fortes relacionamentos com diversas áreas internas de modo a garantir o entendimento e utilização das análises e ferramentas;
+Comunicar os resultados por meio de apresentações executivas e relatórios com mensagens claras e impactantes.
+
+Requisitos:
+Formação superior completa em disciplina quantitativa como Estatística, Matemática, Ciência de Dados, Economia, Finanças, Engenharia, Ciência da Computação, Física e afins;
+Ampla experiência como Cientista de Dados ou função semelhante envolvendo extração de dados, análise, modelagem estatística e visualização de dados;
+Ampla experiência utilizando linguagens de consulta de dados e lógica de programação (exemplo: SQL, Python, R, PySpark, entre outras linguagens);
+Análise estatística prática com uma sólida compreensão e utilização dos fundamentos de análise descritiva, probabilidade, regressão, inferência, testes de hipóteses, modelos de otimização e métodos quantitativos e/ou machine learning;
+Perfil analítico, raciocínio lógico e de resolução de problemas, com grande capacidade de manipular e interpretar dados, formular hipóteses e testá-las quantitativamente.
+
+Nível das vagas: Sênior
+
+Benefícios para você e sua família:
+Semana de 4 dias. Nossa jornada de trabalho é de 4 dias! Isso mesmo, temos uma carga horária de 32 horas semanais!
+Plano de saúde Unimed coparticipativo para colaboradores e dependentes (regional, estadual ou nacional);
+Plano odontológico coparticipativo - MetLife ou OdontoPrev - para colaboradores e dependentes;
+Um dia de folga para celebrar o seu aniversário com o benefício #SeuDiaEfí;
+Cartão Eva Card de benefícios flexíveis no valor de R$ 840,00 mensais na categoria alimentação e R$33,70 por dia útil na categoria refeição ou alimentação na empresa;
+Auxílio home-office de R$ 140,00 mensais. Para os colaboradores em regime híbrido, esta ajuda de custo é proporcional.
+Universidade Corporativa;
+Bolsa de estudos para colaboradores e dependentes de até 17 anos, com subsídio de até 70% do valor, conforme política da empresa;
+Bolsa de idiomas para colaboradores, com subsídio de 40 a 70% do valor, conforme política da empresa;
+Licença maternidade estendida de 7 meses e licença paternidade estendida de 30 dias, acolhendo também mães e pais adotivos;
+Seguro de vida;
+Wellhub: (Gympass agora é Wellhub!) Plataforma corporativa de atividade física, com foco na qualidade de vida e bem-estar, que permite acesso à academias e estúdios parceiros para colaboradores e dependentes;
+Clude: Fale com um médico qualquer hora, em qualquer lugar! Com o clude você tem acesso a atendimento digital e outras soluções de saúde de forma online.
+
+Além disso, oferecemos também:
+Programa de saúde emocional e desconto em atendimento psicológico para colaboradores e dependentes, por meio da plataforma Moodar;
+Clube de Vantagens com descontos e parcerias exclusivas para colaboradores Efí;
+Cultura humanizada e colaborativa, permitindo que nossos colaboradores se sintam em casa, por meio de um ambiente de trabalho descontraído e propício ao aprendizado!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Missão:
+Somos um time de dados composto por profissionais especialistas em engenharia e plataforma de dados, analytics, ciência de dados e machine learning, comprometida em utilizar tecnologia de ponta para impulsionar soluções inovadoras e apoiar o negócio. Somos apaixonados por transformar dados em insights acionáveis e trabalhamos na construção e otimização de plataformas de dados e analytics, potencializando a cultura data driven.
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será o seu dia a dia:
+Projetar, desenvolver e manter arquiteturas de dados escaláveis e eficientes para suportar as necessidades de análise e processamento de dados da empresa;
+Colaborar com equipes multidisciplinares para entender os requisitos de dados e propor soluções técnicas adequadas;
+Desenvolver pipelines de dados robustos e confiáveis, garantindo a integridade, segurança e desempenho dos dados em Real Time e Batch;
+Identificar e implementar melhorias contínuas na infraestrutura de dados, visando aprimorar a eficiência, confiabilidade e escalabilidade;
+Avaliar e adotar tecnologias emergentes para melhorar as capacidades da plataforma de dados e manter a relevância tecnológica da empresa;
+Liderar iniciativas de governança de dados, garantindo qualidade, rastreamento de dados e catálogo de metadados;
+Projetar, desenvolver e manter camada semântica de dados e ambiente Lakehouse;
+Ajudar no desenvolvimento de plataforma orientada a eventos e arquitetura de dados em tempo real;
+Compartilhar conhecimento e contribuir para o desenvolvimento e evolução do time em matérias de dados e tecnologia;
+Contribuir ativamente para o Roadmap de dados.
+
+REQUISITOS E QUALIFICAÇÕES
+O que buscamos:
+Experiência com desenvolvimento e implantação de plataformas de dados resilientes e escaláveis;
+Experiência comprovada em engenharia de dados, incluindo design, desenvolvimento e manutenção de pipelines de dados escaláveis e confiáveis;
+Profundo conhecimento em tecnologias de Big Data, Google Cloud e Open Source;
+Experiência prática com ferramentas de orquestração de dados, como Airflow e/ou similares;
+Forte experiência em linguagens de programação como Python, Java ou Scala;
+Experiência em trabalhar em ambientes de nuvem (GCP) e em arquiteturas de microsserviços (Kubernetes);
+Conhecimento em IaC e DevOps;
+Excelentes habilidades analíticas e capacidade de traduzir requisitos de negócios em soluções técnicas;
+Experiência em liderar equipes técnicas e projetos complexos;
+Conhecimento em bancos de dados, NoSQL, armazenamento distribuído e Data Lake.
+
+INFORMAÇÕES ADICIONAIS
+Benefícios:
+Plano de Saúde;
+Plano Dental;
+Psicoterapia Online;
+Gympass;
+Seguro de Vida;
+Vale Alimentação e Vale Refeição (VA/VR);
+Parcerias de Desconto (Universidade e Escolas de Idiomas);
+Despreocupe-se - Seguros Diversos;
+No dress code;
+Remoto.
+ #VEMPRACONTABILIZEI 💙
+
+Cultura e Desenvolvimento = Construímos Juntos e Juntas 🚀
+
+Acreditando que o sucesso de pessoas empreendedoras é o nosso sucesso, Guardiões e Guardiãs de nossa cultura constroem todos os dias o melhor lugar para se trabalhar. Crescendo com a Contabilizei e contando suas próprias histórias!
+ Buscar ser 1% melhor todos os dias é um valor importante no foguete. Um dos pilares para o encorajamento ao protagonismo dos nossos Guardiões e Guardiãs é feito através do Ciclo de Performance, com possibilidades de Carreira em Y, Cultura de Feedback (1:1) e ferramentas que ajudam entender oportunidades de desenvolvimento e evolução constante de nossos valores.
+ É importante que saiba, você pode ser quem é! Estamos conscientizando e construindo um ambiente psicologicamente seguro com iniciativas de Diversidade e Inclusão. Somos verdadeiros(as) e acreditamos que essa seja uma responsabilidade de todos os Guardiões e Guardiãs! Todas as nossas oportunidades estão abertas para pessoas diversas em identidade de gênero, cor e etnia, orientação sexual, origem, pessoas com deficiência (PcD), e todas as interseccionalidades possíveis.
+-----------------------------------------------------------------------------------

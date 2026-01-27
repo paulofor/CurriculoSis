@@ -1,0 +1,349 @@
+[Oportunidade 1]
+Oportunidade: Pessoa Engenheira de Machine Learning Sênior - Data & AI
+
+Sobre a vaga
+Job Description
+
+O Hub Digital faz parte da área de Tecnologia da Globo e tem papel central na nossa transformação em uma empresa media tech e D2C. Aqui cuidamos da gestão de dados e do desenvolvimento dos produtos digitais — como Globoplay, Globo.com, G1, GE, Gshow e Cartola — com foco na melhor experiência de consumo, interação e relacionamento com os nossos usuários.
+
+Sobre a área de Data & AI
+
+Nossa frente de Data & AI desenvolve plataformas de dados, experimentação, machine learning, recomendação e segmentação de audiência para os produtos digitais da Globo. Também criamos e evoluímos modelos de predição de churn, prospecção, afinidade e anomalias; modelos de extração de metadados para publicidade contextual; otimização de inventário e cache; inferência de relações e sistemas de recomendação de conteúdo.
+
+Neste contexto, buscamos uma pessoa para atuar como Machine Learning Sênior na Home da Globo.com, com foco no aprimoramento dos modelos de recomendações da Home da Globo.com por meio de soluções baseadas em inteligência artificial.
+
+Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação.
+
+Modelo de trabalho: Híbrido (Rio de Janeiro, São Paulo ou Porto Alegre)
+
+Responsibilities and assignments
+
+Como será seu dia a dia:
+
+Atuar em um time multidisciplinar ao lado de cientistas de dados, engenheiros de ML, engenheiros de dados, desenvolvedores e POs, contribuindo para a formulação e validação de hipóteses baseadas em dados;
+Construir, produtizar, monitorar e manter modelos com foco em engajamento, retenção e personalização de conteúdo;
+Explorar e implementar ferramentas e frameworks para desenvolvimento de workflows de IA e sistemas de recomendação;
+Promover boas práticas de engenharia e infraestrutura para projetos de ML em produção;
+Contribuir com soluções escaláveis e sustentáveis em IA, antecipando impactos no negócio;
+Impactar positivamente a experiência de milhões de usuários da Home da Globo.com.
+
+
+Requirements And Qualifications
+
+Do que você precisa:
+
+Proficiência em Python e SQL para análise e modelagem de dados;
+Experiência com frameworks de ML como TensorFlow, Keras, Scikit-learn e PyTorch;
+Conhecimento de boas práticas de desenvolvimento de software e arquitetura de sistemas;
+Familiaridade com pipelines de ML e produtização de modelos;
+Experiência com cloud computing (preferencialmente GCP);
+Prática com ferramentas de versionamento (Git) e CI/CD;
+Proatividade na adoção de novas tecnologias;
+Interesse em arquiteturas envolvendo LLMs e IA Generativa.
+
+
+ Conhecimentos que te destacam:
+
+Experiência com sistemas de recomendação em larga escala;
+Familiaridade com arquiteturas de Deep Learning (Transformers, CNNs, RNNs, Autoencoders, LLMs);
+Vivência com pipelines baseados em RAG (Retrieval-Augmented Generation);
+Experiência com frameworks para agentes LLM;
+Conhecimento em bancos de dados vetoriais;
+Desenvolvimento de APIs de predição em tempo real;
+Manipulação de grandes volumes de dados (big data);
+Prática com MLOps: Docker, Kubernetes, Vertex AI Pipelines, monitoramento de modelos, Continuous Training.
+
+
+Additional information
+
+Por que vir para Globo:
+
+Vem e vamos criar histórias e tecnologias juntos.
+
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.
+
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.
+
+Aqui, cada um faz a transformação acontecer.
+
+Nossos processos seletivos estão acontecendo de forma 100% remota. #vempraglobo
+
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação. 
+
+Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes:
+
+https://www.linkedin.com/company/globo
+
+https://www.instagram.com/vempraglobo
+
+https://www.youtube.com/c/VemPraGlobo/
+
+Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://vempraglobo.g.globo/files/politica_de_privacidade.pdf
+
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos.
+
+✨somos globo✨
+
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação. 
+
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles. 
+
+Aqui, cada um faz a transformação acontecer. 
+
+Quer fazer parte dessa transformação também?
+
+#VemPraGlobo ;)
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Software Engineer
+
+Sobre a vaga
+We are seeking a Senior Data Software Engineer to join our team in building a data integration solution. The Senior Data Software Engineer will take responsibility for the development and execution of the data engineering strategy, working closely with data scientists and other stakeholders to ensure that data is transformed into valuable insights. The ideal candidate will have a strong background in data engineering, machine learning, and software development.
+
+Responsibilities
+
+
+Collaborate with data scientists to build and deploy machine learning models in production
+Design and develop data pipelines, data processing systems, and APIs for data integration and analysis
+Optimize data pipelines for performance and scalability
+Ensure data quality, accuracy, and consistency through data validation and testing
+Develop and implement MLOps processes to monitor and maintain machine learning models
+Work with stakeholders to understand data requirements and provide solutions to meet their needs
+Design and implement data security and privacy measures to protect sensitive data
+Stay up-to-date with emerging trends and technologies in data engineering and machine learning
+Provide technical guidance and mentorship to junior team members
+
+
+Requirements
+
+
+Minimum 3+ years of experience in data engineering or software development roles
+Proficiency in Apache Spark, Microsoft Azure, and Databricks for data processing and management
+Expertise in Python programming language and associated data science libraries such as Pandas and NumPy
+Experience in building forecasting models, statistical models, and machine learning models
+Strong knowledge of MLOps and deploying machine learning models in production
+Experience with Git for version control and team collaboration
+Good understanding of Azure concepts such as clouds, regions, and compute
+Ability to work in a fast-paced environment and deliver results under tight deadlines
+Excellent English communication skills, both written and verbal, for effective global collaboration (B2+)
+
+
+Nice to have
+
+
+Experience with SQL and relational databases for data management
+Familiarity with cloud-based data warehousing solutions such as Azure Data Lake Storage (ADLS)
+Knowledge of other machine learning tools and platforms such as TensorFlow and PyTorch
+Experience with data visualization tools such as Tableau and Power BI
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Especialista - Engenheiro de dados II
+
+Sobre a vaga
+Job Description
+
+Buscamos alguém com disciplina e foco para atuar nas verticais de Controladoria e FP&A Corporativo do grupo. Como especialista, terá (e será esperado) bastante autonomia e organização, e fará parte do time e também um trusted advisor das áreas de negócio na disciplina de engenharia de dados, uma BAITA responsabilidade.
+
+Baseado no roadmap que será desenvolvido a partir da estratégia da organização, você será responsável por realizar a ingestão de dados das plataformas de FP&A e Controladoria, modelar dados baseado na necessidade de dados e negócio desenvolvendo camadas bronze, silver e gold, atuando muito próximo e de forma proativa junto às áreas para transformar estes dados em insights e valor de negócio junto às demais competências de dados.
+
+Buscamos alguém com habilidades em engenharia de dados mas, além disso, também seja capaz de ter uma visão além do alcance, visando sempre melhorar a experiência dos nossos clientes e buscando meios para alavancar receita, otimizar despesas e custos e entregar valor constantemente. Também será muito importante a organização e gestão dos custos destas integrações. Falamos de uma quantidade imensa de dados, então uma estratégia técnica para o bom gerenciamento destes custos e transformação em valor de negócio será essencial.
+
+Responsibilities and assignments
+
+Organização de roadmap de demandas e atuação junto a áreas de FP&A e Controladoria. 
+Atuação com autonomia, sendo o principal ponto focal da iniciativa para o negócio. 
+Desenho e desenvolvimento de novas arquiteturas para ingestão de dados às áreas da companhia, sobretudo em FP&A e Controladoria;
+Atuar no backend de dados, apoiando times de negócio para desenhar e implementar as melhores soluções;
+Eventualmente, desenvolver orquestrações com o azure datafactory;
+Construir modelagens de dados baseado nas melhores práticas (e inclusive ajudar a construir as melhores práticas);
+Apoiar o time de BI na modelagem e construção dos datasets para as visualizações projetadas;
+Desenvolver as integrações sob responsabilidade de engenharia de dados seguindo as políticas e diretrizes da Governança de Dados das Lojas Renner SA;
+
+Requirements And Qualifications
+
+Organização de roadmap, gestão de expectativa de entregas e de fluxo de trabalho com diversos áreas clientes internas. 
+Experiência com processamento massivo de dados em ambientes distribuídos;
+Experiência com Modelagem de Dados;
+Conhecimento excepcional em Azure, Databricks e Data Factory;
+Conhecimento excepcional em SQL e Python;
+Conhecimento em Data Lakehouse;
+Experiência com integrações de sistemas corporativos, contábeis e financeiros para Datalake;
+
+Diferencial
+
+Pós-gradução em engenharia de dados/ciência de dados ou áreas correlacionadas;
+
+Inglês intermediário;
+
+Experiência em DevOps;
+
+Já ter atuado com agilidade;
+
+Conhecimento em Synapse, Power BI, e ODI;
+
+Additional information
+
+O prazo de inscrições para os candidatos internos é até 12/06.
+
+Local: São Paulo/SP e Porto Alegre/RS - Híbrido
+
+Demais localidades Remoto.
+
+Comunidade ENCANTECH. Dados, Digital e Tech.
+
+Desafios aplicados na realidade.
+
+Códigos que ganham vida e viram experiências.
+
+Ferramentas de ponta a nível mundial.
+
+Desafios para aprender, crescer e transformar.
+
+O que te faz vibrar? Aqui na Lojas Renner SA, nós vibramos quando encantamos.
+
+Seja por aprender algo novo no meio da rotina de trabalho ou por lançar uma nova solução que impacta de forma relevante a vida dos nossos clientes.
+
+Somos a união e conexão das áreas de Dados, Canais Digitais e T.I. 🚀
+
+Juntos, somos a Comunidade Encantech. Uma comunidade plural de pessoas apaixonadas por superar expectativas.
+
+Com uma cultura orientada a dados e a diferentes metodologias e frameworks, utilizamos a transformação digital para construir o maior Ecossistema de Moda e Lifestyle das Américas.
+
+Somos comprometidos com tecnologia, inovação, dados, sustentabilidade.
+
+Somos comprometidos com o futuro.
+
+Porque aqui suas ideias geram impacto real na vida das pessoas e valor ao negócio.
+
+E assim te fazemos um convite: Construa com a gente, o futuro da moda HOJE!
+
+Vem transformar! Vem encantar e ser encantado junto com a gente.
+
+Vem as áreas de tecnologia, dados e digital da Lojas Renner S.A! 😍
+
+#OQueTeEncantaNosEncanta
+
+#Encantech
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Lead/ Staff Data Scientist (Bangkok based, relocation provided)
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with a global network of 4.7M hotels and holiday properties worldwide, plus flights, activities, and more . Based in Asia and part of Booking Holdings, our 7,100+ employees representing 95+ nationalities in 27 markets foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know Our Team
+
+The Data department , based in Bangkok , oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+The Opportunity
+
+Please note -The role will be based in Bangkok. 
+
+We are looking for ambitious and agile data scientists that would like to seize the opportunity to work on some of the most challenging productive machine learning and big data platforms worldwide, processing some 600B events every day and making some 5B predictions.
+
+As part of the Data Science and Machine Learning (AI/ML) team you will be exposed to real-world challenges such as: dynamic pricing, predicting customer intents in real time, ranking search results to maximize lifetime value, classifying and deep learning content and personalization signals from unstructured data such as images and text, making personalized recommendations, innovating algorithm-supported promotions and products for supply partners, discovering insights from big data, and innovating the user experience. To tackle these challenges, you will have the opportunity to work on one of the world’s largest ML infrastructure employing dozens of GPUs working in parallel, 30K+ CPU cores and 150TB of memory.
+
+In This Role, You’ll Get to
+
+Design, code, experiment and implement models and algorithms to maximize customer experience, supply side value, business outcomes, and infrastructure readiness
+Mine a big data of hundreds of millions of customers and more than 600M daily user generated events, supplier and pricing data, and discover actionable insights to drive improvements and innovation
+Work with developers and a variety of business owners to deliver daily results with the best quality
+Research discover and harness new ideas that can make a difference
+
+What You’ll Need To Succeed
+
+4+ years hands-on data science experience
+Excellent understanding of AI/ML/DL and Statistics, as well as coding proficiency using related open source libraries and frameworks
+Significant proficiency in SQL and languages like Python, PySpark and/or Scala
+Can lead, work independently as well as play a key role in a team
+Good communication and interpersonal skills for working in a multicultural work environment
+
+It’s Great if You Have
+
+PhD or MSc in Computer Science / Operations Research / Statistics or other quantitative fields
+Experience in NLP, image processing and/or recommendation systems
+Hands on experience in data engineering, working with big data framework like Spark/Hadoop
+Experience in data science for e-commerce and/or OTA
+
+We welcome both local and international applications for this role. Full visa sponsorship and relocation assistance available for eligible candidates.
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #mumbai #bengalulu #hyderabad #pune # #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+Disclaimer
+
+We do not accept any terms or conditions, nor do we recognize any agency’s representation of a candidate, from unsolicited third-party or agency submissions. If we receive unsolicited or speculative CVs, we reserve the right to contact and hire the candidate directly without any obligation to pay a recruitment fee.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro(a) de Software Sênior Python | IT Performance
+
+Sobre a vaga
+Estamos em busca de um(a) Desenvolverdor Sênior para atuar no time de Performance e Consolidação. Buscamos uma pessoa proativa, com boa comunicação, que tenha facilidade para cálculos matemáticos e um rápido aprendizado sobre produtos financeiros.
+
+Requisitos
+
+Experiência sólida em Python, com foco em boas práticas de programação (SOLID, Clean Code).
+Proficiência em AWS (AppSync, Lambda, Mensageria AWS, entre outros serviços essenciais para projetos escaláveis com AWS).
+Capacidade de atuar em projetos grandes e distribuídos, garantindo performance e escalabilidade.
+Boa comunicação e trabalho em equipe para interagir com áreas diversas.
+Rápida adaptação e capacidade de aprender novos produtos e conceitos financeiros.
+Disponibilidade para atuar de forma híbrida(3x) na Faria Lima em São Paulo
+Projetos no mercado de investimentos (integrações, dados de custódia, relatórios, etc.)
+
+Diferenciais
+
+Conhecimento em JavaScript/.NET
+Experiência prévia no mercado financeiro ou entendimento de conceitos de rentabilidade e investimentos
+Experiência em criar um projeto escalável do início, para tratar grande volume de dados
+Desejável: atuação em consolidação de investimentos e cálculo de performance (TWR, MWR, IRR)
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------

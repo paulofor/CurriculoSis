@@ -1,0 +1,275 @@
+[Oportunidade 1]
+Oportunidade: Sr Developer Analyst (Java | Spring | API Open Finance)
+
+Sobre a vaga
+Seu dia a dia na Topaz:
+
+O desenvolvedor Backend Java atua no time de Produtos, com foco no desenvolvimento e implantação do produto de Canais Digitais com soluções de Open Finance.
+É responsável por construir o produto, integrar sistemas parceiros e apoiar sua implantação em clientes nacionais e internacionais, contribuindo com visão técnica, espírito colaborativo e mentalidade voltada para inovação e transformação digital. Entre suas atividades, estão:
+
+- Construir APIs e regras de negócio (pipelines) para as jornadas do Open Finance;
+- Desenvolver integrações com sistemas parceiros e apoiar a definição de requisitos não funcionais;
+- Atuar como referência técnica nas fases de implantação e pós-implantação do produto;
+- Apoiar o Project Lead e colaborar com o time de Arquitetura no planejamento e execução das entregas;
+- Propor soluções técnicas alinhadas ao negócio, garantindo boas práticas de qualidade de código;
+- Realizar alinhamentos técnicos com clientes e apresentar soluções de forma clara e objetiva;
+- Contribuir para a definição de escopo e interações entre aplicações;
+- Aplicar práticas regulatórias relacionadas ao Open Finance.
+
+O que você precisa conhecer para ser parte da Topaz?
+- Formação completa em Análise de Sistemas, Ciência da Computação ou áreas correlatas;
+- Experiência com Java e Spring Boot;
+- Arquitetura de microsserviços e uso de filas (RabbitMQ, Kafka);
+- Testes automatizados (Jest ou similares);
+- API Gateway, Kubernetes, Docker;
+- Bancos de dados relacionais e não relacionais (incluindo Redis e Elasticsearch);
+- CI/CD com Jenkins;
+- Metodologias ágeis.
+
+Diferenciais:
+- Experiência com APIs de Open Finance;
+- Atuação anterior em bancos ou cooperativas de crédito;
+- Conhecimento em soluções SaaS e canais financeiros.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Staff Data Scientist / ML Engineer
+
+Sobre a vaga
+Data Scientist / ML Engineer (Staff)
+
+Who We Are
+
+Welcome to TELUS Digital, where innovation meets impact. As an award-winning digital product consultancy, we're shaping the future of digital experiences through cutting-edge technology, agile thinking, and a culture that puts people first.
+
+We are the global digital section of TELUS, one of Canada’s largest telecommunications providers. Our global teams deliver transformative digital solutions and customer experiences for industry leaders in consumer electronics, finance, telecommunications, and utilities. With robust multi-shore delivery capabilities, multi-language programs, and secure infrastructure, we ensure exceptional service backed by our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+As a Data Scientist / Machine Learning Engineer on our team, you'll design, develop, and deliver machine learning solutions, decipher loosely defined problems using complex datasets, and determine appropriate analytical and modeling techniques. You'll analyze structured and unstructured data, establish automated processes for large-scale modeling, perform exploratory analysis, and collaborate with peers on data acquisition and exploration, demonstrating a strong sense of ownership and urgency.
+
+Responsibilities
+
+Work on all aspects of the design, development and delivery of machine learning enabled solutions for our clients;
+Come up with solutions to loosely defined business problems by leveraging pattern detection over complex datasets across multiple platforms;
+Establish efficient, automated processes for large-scale modeling;
+Become part of a highly skilled and geographically distributed team;
+Collaborate with peers on problem definitions, data acquisition, data exploration, visualization as well as building the tools that support this process;
+Strong sense of ownership, urgency and drive.
+
+Qualifications
+
+Relevant experience in data science/ machine learning development
+Bachelor and/or Master degree in Statistics, Mathematics, Physics, Computer Science or other related subject.
+Proficiency in Python.
+Experience with machine learning frameworks (like Keras, TensorFlow, or PyTorch) and libraries (like scikit-learn).
+Strong understanding of machine learning algorithms, processes, tools and platforms.
+Ability to work on distributed cloud platforms
+Fluent English
+
+Bonus Points
+
+Experience with container management and machine learning deployment frameworks, such as Kubernetes, Kubeflow and MLFlow.
+Software development experience from scoping, requirements design, development, integration, testing, go live to PROD (vs internal research work)
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that Information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheira de Dados Cloud Pleno (Afirmativa para Mulheres)
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você. Afinal, It’s yours to build.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Engenheira de Dados Cloud você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de dados voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você é apaixonado(a) por dados, colaboração e tem as seguintes qualificações, queremos você em nossa equipe:
+
+Ensino superior em Estatística, Ciência da Computação, Engenharia de Software, Sistemas de Informação, Física ou cursos afins.
+Experiência comprovada como Engenheiro de Dados.
+Proficiência em Pyspark, SQL, Databricks, Git, Hive, Hadoop e Azure.
+Experiência com práticas e ferramentas DevOps.
+Habilidade para trabalhar em conjunto com o cliente na migração de processos legado (SAS e Teradata) do on-premise para a Cloud (Azure, Databricks), aplicando práticas de governança de dados robustas, preferencialmente com ferramentas IBM.
+
+Desejável:
+
+Vivência na área financeira.
+Conhecimento em SAS, Hbase, Bitbucket.
+
+Principais Responsabilidades:
+
+Acompanhamento da estabilização do pipeline em Produção. 
+Sustentação pós-implantação (Durante período de garantia - 90 dias). 
+Acompanhamento da Implantação. Construir pipelines de dados, desde a extração nas diversas fontes de dados disponíveis (Arquivos de plataforma Baixa (TXT, CSV, ORC), Bancos de Dados (HBASE, BEELINE, SAS) até a ingestão e estruturação dos dados no Data Lake corporativo e DB2. 
+Criação de jobs Pyspark para processamento de dados. Registro de Atividades nas Ferramentas oficiais do Cliente (Jira, Confluence, Bitbucket).
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro a de dados remoto
+
+Sobre a vaga
+A Recrutify é uma consultoria especializada em Recrutamento e Seleção, conectando empresas aos melhores talentos do mercado com agilidade, precisão e foco em resultados.
+
+Estamos em busca de um(a) Engenheiro(a) de Dados Sênior para compor o time de dados de uma das maiores corretora de investimento (já são Mais de 80 mil clientes e 40 bi de ativos sob custódia).
+
+Vai atuar na construção, transformação e orquestração de pipelines escaláveis, com foco em Databricks e SQL.
+
+Responsabilidades
+
+Projetar, desenvolver e manter pipelines de ingestão, tratamento e transformação de dados em larga escala;
+Atuar fortemente com SQL para modelagem e transformação de dados;
+Desenvolver soluções eficientes e escaláveis em Databricks, utilizando principalmente PySpark;
+Integrar múltiplas fontes de dados (estruturadas e semi-estruturadas) e garantir a qualidade da informação entregue;
+Participar da definição e implementação da arquitetura de dados e boas práticas de engenharia;
+Monitorar e otimizar performance de pipelines e consultas;
+Se familiarizar ou atuar com DBT para modelagem modular de dados (diferencial).
+
+Requisitos
+
+Experiência sólida (5 ou + anos) como engenheiro(a) de dados, com domínio em SQL avançado;
+Experiência prática com Databricks e PySpark;
+Experiência em arquitetura de dados e construção de pipelines escaláveis;
+Vivência com cloud computing (preferência para Azure ou AWS);
+Familiaridade com conceitos de data lake, data warehouse e orquestração de dados;
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: ENGENHEIRO DE DADOS SR
+
+Sobre a vaga
+Nosso time é formado por excelentes profissionais da área da tecnologia.
+
+Colaboração e comprometimento fazem parte do nosso dia-a-dia, quando desenvolvemos novas funcionalidades, construindo um produto robusto e escalável.
+
+Fazendo parte de nossa equipe, seu trabalho irá impactar em milhares de usuários que utilizam nossa solução diariamente.
+
+Responsabilidades e atribuições
+
+Atividades
+
+Aplicar conhecimentos estatísticos e probabilísticos na elaboração de modelos e soluções analíticas para identificar e obter valor em iniciativas de Analytics. 
+ Usar com destreza ferramentas de Analytics para elaboração de modelos e soluções analíticas, análise de dados e elaboração de painéis ou dashboards, Python, SQL, Power BI, Spotfire, Json, experiência com análise, preparo e modelagem de dados, experiência prática em inteligência artificial - definição e elaboração/otimização de modelos para análise preditiva, capacidade de elaborar apresentações de dados, com domínio conceitual de storytelling com dados.
+
+
+Requisitos e qualificações
+
+Requisitos e Qualificações
+
+Formação: Formação de nível superior na área de Estatística, Economia, Ciências Atuariais, Matemática, Engenharia, Ciência da Computação ou áreas afins.
+
+Conhecimento Técnico e experiência exigida: 
+
+Perfil do Engenheiro de Dados Sênior:
+
+Conhecimento técnico e comportamental esperados
+
+Engenheiro de Dados com conhecimentos sólidos em desenvolvimento Python. Desejável conhecimento básico de serviços cloud Microsoft Azure e Power BI.
+
+Habilidades Técnicas:
+
+Linguagens de Programação: Python, pandas para manipulação e análise de dados, incluindo operações de limpeza, transformação e agregação de dados; NumPy para operações matemáticas e estatísticas. Processamento de Dados: ETL (Extract, Transform, Load) no desenvolvimento de pipelines de dados para extrair, transformar e carregar dados de diversas fontes. Automatização de Tarefas com uso de scripts Python para automatizar processos repetitivos e otimizar fluxos de trabalho.
+Ferramentas de Visualização: Power BI. Modelagem de Dados: Criação de modelos de dados robustos e eficientes, garantindo a integridade e a performance das consultas. DAX (Data Analysis Expressions): Desenvolvimento de fórmulas complexas para análises avançadas. Power Query: Transformação e limpeza de dados para prepará-los para análise. Design de Dashboards: Aplicação de melhores práticas de design para criar dashboards intuitivos e visualmente atraentes. Integração de Dados: Conexão e integração de dados de diversas fontes, como bancos de dados SQL, arquivos Excel, APIs, entre outros. Segurança e Governança: Implementação de políticas de segurança e governança de dados dentro do Power BI.
+Bancos de Dados: MSSQL Server (Banco de Dados Estruturados).
+Capacidade de desenvolvimento e adequação de scripts Python com ênfase na execução de processos de ETL; 
+Capacidade de construção de consultas a bancos de dados SQL; 
+Proatividade para a resolução de desafios;
+Capacidade de auto-desenvolvimento para desenvolvimento de soluções que ainda não conhece; 
+Capacidade de entendimento rápido de modelos de dados existentes em bancos de dados;
+Iniciativa para buscar o contato com os líderes técnicos do cliente quando necessário (eliminação de obstáculos, apresentação de soluções parciais etc.
+Conhecimentos em ferramentas bigdata e bancos de dados no-sql (Hive) são desejáveis; 
+Conhecimentos da ferramenta Power BI são desejáveis.
+
+
+Habilidades pessoais:
+
+Proatividade: Capacidade de identificar e resolver problemas de forma independente.
+Adaptabilidade: Flexibilidade para se ajustar a novas ferramentas e metodologias rapidamente.
+Comunicação: Habilidades interpessoais para colaborar eficazmente com equipes multidisciplinares.
+Resolução de Problemas: Abordagem analítica para solucionar desafios complexos.
+
+
+Experiência Profissional esperada:
+
+Atuou no desenvolvimento de pipelines de dados eficientes utilizando Python e SQL.
+Atuou na implementação de dashboards interativos no Power BI para monitoramento de KPIs com uso intensivo de drill-down.
+Atuou na automatização de processos de ETL complexos, contemplando a implantação em produção e o monitoramento.
+Atuou na construção de modelos de Entidade-Relacionamento, identificação de Dados Mestres, modelagem multidimensional e mapeamento de fluxo de dados e catálogo de dados.
+
+
+Certificação:
+
+ Não é exigida 
+
+
+Informações adicionais
+
+Nossos benefícios:
+
+Plano de Saúde;
+Plano Odontológico;
+Seguro Prudential: é concedido ao colaborador, de forma gratuita o seguro de vida, auxílio funeral e cesta natalidade, conforme regras específicas da seguradora;
+Vale Refeição ou Vale Alimentação;
+Vale Transporte: é concedido ao colaborador, para uso no trajeto residência – trabalho – residência, e será descontado mensalmente o percentual de 6% sob o valor do salário, limitado ao valor do benefício (opcional);
+Day off: será concedido ao colaborador folga em virtude do dia do aniversário, devendo este ser usufruído na mesma data e/ou no mês do aniversário;
+Empréstimo Consignado;
+Convênios e Parcerias (Instituições de Ensino, Academias, Cursos de Idiomas entre outros);
+Ginástica Laboral.
+-----------------------------------------------------------------------------------

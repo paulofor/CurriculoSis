@@ -1,0 +1,224 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor Inteligência Artificial jr/pleno
+
+Sobre a vaga
+Estamos em busca de um Desenvolvedor de IA apaixonado por tecnologia e inovação para se juntar à nossa equipe dinâmica. O profissional será responsável pelo desenvolvimento de plataformas digitais que integram soluções de inteligência artificial, com foco em processamento de linguagem natural (NLP), IA generativa e aprendizado de máquina. Se você possui experiência com as principais ferramentas e linguagens do setor e está disposto a enfrentar novos desafios, queremos conhecê-lo!
+
+Responsabilidades:
+- Projetar, desenvolver e implementar soluções de software utilizando tecnologias de inteligência artificial.
+- Trabalhar com algoritmos e técnicas específicas de IA, incluindo NLP e aprendizado de máquina.
+- Implementar soluções de IA utilizando linguagens de programação como Python, JavaScript/TypeScript/Node.js.
+- Utilizar frameworks de IA, como PyTorch, Scikit-Learn e Langchain, para desenvolver soluções escaláveis.
+- Implementar soluções de NLP com ferramentas como NLTK, spaCy e Hugging Face Transformers.
+- Realizar pré-processamento de texto, incluindo tokenização, criação de embeddings e remoção de stop words.
+- Trabalhar com Modelos de Linguagem de Grande Porte (LLMs), como GPT e Llama, aplicando melhores práticas de arquitetura de software.
+- Desenvolver aplicações web utilizando frameworks como FastAPI e React (NextJS).
+- Colaborar na implementação de soluções utilizando MLOps, Docker e Kubernetes para a implantação de modelos de IA.
+- Participar de processos de HAG (Hiper-Agilidade) para garantir entregas rápidas e eficientes.
+- Integrar e otimizar embeddings para melhorar a performance das soluções de IA.
+
+Requisitos:
+- Experiência com N8N
+- Experiência com RAG (Retrieval-Augmented Generation) e otimização de embeddings.
+- Experiência sólida no desenvolvimento de software para aplicações de inteligência artificial.
+- Proficiência em linguagens de programação: Python, JavaScript/TypeScript/Node.js.
+- Experiência com frameworks de IA, como PyTorch, Scikit-Learn e Langchain.
+- Conhecimento em bibliotecas de NLP, como NLTK, spaCy e Hugging Face Transformers.
+- Experiência em pré-processamento de texto e implementação de LLMs.
+- Vivência em arquiteturas de software escaláveis e de alto desempenho voltadas para IA.
+- Conhecimento em desenvolvimento web com FastAPI e React (NextJS).
+- Experiência com MLOps, Docker e Kubernetes para implantação de modelos de IA.
+- Habilidade de trabalho em equipe e boa comunicação.
+
+
+🥳 Benefícios:
+• Vale Refeição/Vale Alimentação
+• Assistência médica
+• Assistência odontológica
+• Day Off
+• Gympass
+• Auxílio Creche
+• Assistência Pet
+• Auxílio Combustível
+• Auxílio Home Office
+• Reembolso Educacional
+• E-learning - Academia Stefanini com diversos cursos
+• Mentoring - Plataforma de Mentoria (Essa é uma oportunidade para conhecer pessoas, desenvolver habilidades e compartilhar experiências.)
+• Descontos em instituições para Graduação, Pós Graduação, Idiomas e Cursos
+• Vantagens e descontos nos melhores estabelecimentos
+• Programa de Formação de Líderes
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Java Data Engineer
+
+Sobre a vaga
+NEORIS é uma acelerador Digital que ajuda empresas a entrar no futuro, temos mais de 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Somos mais de 4.000 profissionais em 11 países, temos uma cultura de startup multicultural onde cultivamos inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes.
+Procuramos: Java Data Engineer - Inglês Avançado - Vaga Híbrida
+
+Principais Responsabilidades
+Desenvolver e manter pipelines de dados utilizando Apache Beam, executados no Google Cloud Dataflow.
+Garantir a qualidade e performance dos dados aplicando boas práticas de codificação, testes automatizados e revisões de código rigorosas.
+Colaborar estreitamente com equipes de engenharia, produto e dados para entregar soluções escaláveis, seguras e eficientes na nuvem (GCP). 
+
+Requisitos
+Domínio avançado em Java, incluindo Core Java, Collections, Concorrência, e ferramentas de build como Maven ou Gradle.
+Experiência prática com Apache Beam e Dataflow, incluindo transformações como DoFn, ParDo, GroupByKey, além de monitoramento de jobs no Dataflow.
+Conhecimento sólido dos fundamentos do Google Cloud Platform, especialmente Cloud Storage, Pub/Sub, IAM e melhores práticas de segurança.
+Habilidade para garantir qualidade através da escrita de testes unitários com JUnit e participação ativa em code reviews.
+Inglês avançado (nível B2/C1) para comunicação fluente e colaborativa.
+Disponibilidade para trabalhar no modelo híbrido, com presença no escritório em São Paulo (mínimo 2 a 3 dias por semana). 
+
+Oferecemos
+Vale Refeição e Vale Alimentação: Benefícios mensais para suas despesas com alimentação, dentro e fora de casa.
+Previdência Privada: Planejamento de futuro com contribuição complementar à aposentadoria.
+Plano de Saúde: Cobertura médica de alta qualidade para você e seu dependente legal.
+Plano Odontológico: Cuidados odontológicos completos, com ampla rede de atendimento.
+Seguro de Vida: Proteção e segurança para você e seus entes queridos.
+Aulas de Inglês/Espanhol: Incentivo ao aprendizado de idiomas.
+Wellhub: Benefícios e descontos em academias e programas de bem-estar.
+Auxílio Creche: Suporte financeiro para despesas com educação infantil.
+Neoris Global Campus: Plataforma de desenvolvimento com oportunidades contínuas de aprendizado e crescimento profissional. 
+
+Te convidamos a nos conhecer em http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvimento Java Sênior
+
+Sobre a vaga
+O que buscamos:
+Profissional de nível Sênior que atue com desenvolvimento Java.
+
+Requisitos técnicos: 
+Experiência com Java 17 (ou superior)
+Spring Boot (domínio na construção de APIs e microsserviços)
+Desenvolvimento assíncrono (mensageria)
+Testes automatizados (JUnit, Postman)
+JDBC, Spring Data, JPA
+Banco de dados Oracle
+Experiência com cloud provider (desejável OCI)
+Conhecimento em arquitetura de microsserviços
+Kafka
+Containers
+
+Desejáveis:
+Experiência com OCI
+GitHub e GitHub Copilot
+Implementações com Inteligência Artificial.
+
+Descrição comportamental:
+Procuramos uma pessoa que:
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+Tenha habilidades de resolução de problemas;
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+
+
+Big enough to deliver – small enough to care.
+#VempraGFT
+#VamosVoarJuntos
+#ProudToBeGFT
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Software Sênior – TI – Corporativo RJ/SP
+
+Sobre a vaga
+Requisitos: 
+→ Superior completo em Tecnologia;
+→ Experiência comprovada em desenvolvimento de APIs REST, microsserviços, transformação de dados e serviços AWS, em especial: API Gateway; Lambda; S3; SQS; SNS; DynamoDB; DMS e Athena;
+→ Profundo domínio em linguagens de programação, com destaque para JavaScript ou Python;
+→ Profundo entendimento de padrões de design de software, práticas de design orientado a eventos e AWS Well-Architect Framework;
+→ Ampla experiência com DevOps e linguagens para IaC, preferencialmente Terraform;
+→ Sólida experiência com bancos de dados relacionais e NoSQL;
+→ Conhecimento avançado em metodologias ágeis de desenvolvimento de software como Scrum, Kanban, SAFe ou outras metodologias relevantes;
+→ Extensas experiências práticas com plataformas e protocolos de versionamento de código (por exemplo, git);
+→ Experiência robusta com desenvolvimento orientado a testes e em processos de integração e entrega contínua de software;
+→ Capacidade de tomar decisões arquiteturais importantes e resolver problemas complexos relacionados a performance, segurança e custo;
+→ Experiência com análise de requisitos não funcionais e contornos de restrições de arquitetura.
+Desejável:
+→ Proficiência em tecnologias associadas a infraestrutura como Docker e K8S.
+→ Conhecimento aprofundado sobre padrões e processos abertos de comunicação e segurança como OpenAPI 3.0, OAuth 2.0, Kerberos.
+→ Fluência em inglês, tanto escrita quanto falada.
+→ Certificações em linguagens de programação (Python, Java) e em soluções de nuvem AWS.
+Atividades:
+→ Compreender as necessidades do cliente e do negócio para projetar soluções de software eficientes, escaláveis e financeiramente viáveis;
+→ Analisar requisitos técnicos e funcionais para garantir a qualidade, velocidade e viabilidade do projeto;
+→ Colaborar com outras equipes para garantir que a solução atenda às necessidades do cliente;
+→ Colaborar com a elaboração de cronogramas;
+→ Prover manutenção e suporte a sistemas e plataformas em produção;
+→ Desenvolver e manter documentações sólidas, completas e compreensíveis sobre os sistemas em desenvolvimento e legados;
+→ Participar no planejamento de projetos, fornecer estimativas de tempo e recursos necessários para a conclusão das tarefas de desenvolvimento;
+→ Liderar equipes de desenvolvimento;
+→ Tomar decisões arquiteturais críticas e contribuir para a definição de padrões e melhores práticas da empresa;
+→ Realizar análise de requisitos não funcionais e tomar decisões relacionadas a aspectos como performance, segurança e custo;
+→ Apoiar nos testes e homologação de soluções;
+→ Manter-se atualizado com as tendências e tecnologias emergentes do setor, aplicando-as quando relevante.
+Outras informações:
+- Local de trabalho: Av. JK – Itaim bibi/SP;
+- Escala de trabalho: 5x2 - Seg a Qui das 08 às 18 h, sex. 08 às 17 h;
+- Atuação híbrida, sendo 2x na semana presencial;
+- Remuneração: Salário + Ass. Médica + Ass. Odontológica + Vale Refeição + Seguro de vida + Clube de parcerias + bonus de acordo com atigimento de metas da Cia, e da área.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Back End Java | Inglês Avançado | Remoto
+
+Sobre a vaga
+SOBRE A CAPCO 
+
+A Capco é uma consultoria global de tecnologia e gestão especializada na transformação digital, oferecendo soluções inovadoras e orientadas por dados para um portfólio crescente de mais de 100 clientes globais, entre eles bancos, pagamentos, mercados de capitais, gestão de patrimônio e ativos, seguros e setor de energia. Nos destacamos pela abordagem personalizada, focada na construção de parcerias estratégicas de longo prazo e na aceleração de iniciativas digitais. Nossa expertise ganha vida por meio dos Innovation Labs e da cultura premiada #BeYourselfAtWork, que valoriza a diversidade e o talento. Com presença global nos principais centros financeiros - temos 40 escritórios nas Américas, Europa e Ásia-Pacífico - estamos comprometidos em oferecer soluções práticas e integradas, promovendo colaboração e confiança em cada projeto. Se criatividade e inovação são sua paixão, a Capco é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira!
+
+Estamos procurando um(a) Desenvolvedor(a) Java com experiência em Spring Boot para atuar na construção e manutenção de aplicações backend escaláveis, seguras e de alto desempenho. O profissional fará parte de um time ágil, contribuindo para o desenvolvimento de soluções robustas para nossos clientes.
+
+Responsabilidades
+
+Desenvolver e manter APIs e microsserviços utilizando Java + Spring Boot 
+Projetar, implementar e otimizar funcionalidades para aplicações backend 
+Integrar serviços com bancos de dados SQL e NoSQL 
+Participar da definição da arquitetura e das boas práticas de desenvolvimento 
+Escrever testes unitários e de integração (JUnit, Mockito) 
+Realizar revisões de código e colaborar com a equipe para melhorias contínuas 
+Trabalhar com Docker e Kubernetes para implantação e escalabilidade 
+Garantir segurança e desempenho nas aplicações 
+
+Requisitos
+
+Experiência em Back End 
+Experiência comprovada em desenvolvimento com Java 8 ou superior 
+Sólido conhecimento no Spring Framework (Spring Boot, Spring Data, Spring Security) 
+Experiência com APIs RESTful 
+Familiaridade com JPA/Hibernate 
+Experiência com bancos de dados PostgreSQL, MySQL ou MongoDB 
+Controle de versão com Git 
+Conhecimento em mensageria (RabbitMQ, Kafka) 
+Experiência com testes automatizados 
+Boas práticas de Clean Code e princípios SOLID 
+Formação em TI ou áreas relacionadas 
+Inglês avançado
+
+Diferenciais
+
+Experiência com AWS, Azure ou GCP 
+Conhecimento em CI/CD (Jenkins, GitLab CI) 
+Experiência com arquitetura de microsserviços 
+Familiaridade com Quarkus 
+Conhecimento em ferramentas de infraestrutura como código (Terraform) 
+Certificação em Java ou Cloud 
+Experiência em consultoria 
+
+Por Que Capco
+
+Juntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente!
+
+Próximos Passos
+
+O objetivo da Capco é conduzir um processo flexível e alinhado às necessidades de cada oportunidade e talento.
+
+Etapa 1: Entrevista comportamental.
+Etapa 2: Entrevista técnica.
+Etapa 3: Conversa com time de Projeto/ Delivery.
+Etapa 4: Conversa com cliente.
+Etapa 5: Proposta ou feedback.
+
+As etapas do nosso processo seletivo descritas são essenciais para garantir uma avaliação completa e assertiva. Contudo, elas podem ser ajustadas dependendo da senioridade do(a) candidato(a), da área de atuação e do formato do projeto.
+-----------------------------------------------------------------------------------

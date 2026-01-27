@@ -1,0 +1,328 @@
+[Oportunidade 1]
+Oportunidade: Senior Backend Engineer in Sustainable Agtech & AI @ Adaviv -an MIT Spinoff
+
+Sobre a vaga
+Where would you work?
+Adaviv, spun off from MIT, offers the world's first farmer-centric AI platform for greenhouse and controlled farms. Our AI mentor empowers farm managers and upskills workers, providing real-time insights to enhance productivity, retention, and operational efficiency. Based at Greentown Labs, Somerville, MA, Adaviv serves leading greenhouse and indoor farms globally. We boost yields by up to 31% and cut losses by 45%, saving managers hours each week for critical decisions like worker feedback, treatment optimization, and crop planning. We're growing and seeking passionate, mission-driven individuals with a growth mindset to join our team.
+
+What would you be doing?
+As a Senior Backend Application Engineer at Adaviv, you will be working with our engineering team as well as Product Lead, CTO, Frontend engineers and our UI/UX designers to advance our CI/CD pipeline and implement new data pipelines and APIs for our beta and production-level mobile and web apps towards supporting a growing pool of clients across the Americas and building game-changing products for sustainable Agriculture. You will work on building, maintaining and improving our cloud tech stack. You will also work with the software team to create and maintain an optimized data schema for these new features using google cloud and AWS infrastructure.
+
+You’ll have the opportunity to make a big impact on both the company and our customers. We bring design-to-value thinking to all dimensions of our product development and believe in designing highly intuitive experiences that make our end customer’s job easier. You'll be in charge of quickly improving performance and developing high-impact features, while also keeping one eye on scalability and security of backend services as we grow. At Adaviv, we value continuous learning and adaptability, encouraging you to explore new technologies and methodologies in our fast-paced environment.
+
+We thrive on cross-functional collaboration and communication, with our engineers working closely with product leads, designers, and front-end developers to deliver seamless solutions. For example, we involve engineers in customer workshops and are highly collaborative as we design and refine features like our AI-powered insight delivery.
+
+Who are we looking for?
+We are seeking a passionate individual with 3+ years of engineering experience in industrial production settings, a proven track record of consistently achieving engineering milestones and KPIs and a can-do-will-do mindset to build and grow with our company at a fast, but rewarding pace. One of your super powers is your ability to quickly turn business requirements into high quality implementations of backend application services that support our mobile and web-based apps, while collaborating and communicating effectively with our front-end engineers and UI/UX designer. It would be necessary for this role to have excellent communication skills.
+
+Agile software development is fundamental to your work and you possess a solid toolset for API and data pipeline/analytics development. You keep the end-user front of mind and will help us cultivate empathy for our customers and for fellow team members.
+
+Degree Requirement:
+
+B.Sc or M.Sc in Computer Science, Software Engineering or a relevant field (not a must but strongly preferred).
+
+Required Skills and Qualifications:
+
+5+ years experience in back-end/API software development in an industrial setting (production level contribution).
+5+ years industry experience developing, deploying, and maintaining APIs, relational databases and data pipelines is a must.
+Expertise in in one of the programming languages used to develop cloud tech stack for backend services, savvy in useful libraries, tools, platforms, and development environments that are widely used.
+Experience building and deploying APIs that are used commercially.
+Expertise in agile and continuous software development.
+Strong background in Test-Driven Development and ability to independently carry out all phases of a software development process.
+Demonstrated aptitude in current state-of-the-art developments of cloud applications and rapid development frameworks.
+
+Preferred but not Required Skills:
+
+Fluency in Python, Typescript
+Dual degrees in relevant fields of CS, Software Engineering, Design, math etc.
+Experience building software products for traditional industries like agriculture, manufacturing, supply chain, energy or adjacent fields.
+Familiarity with User-Centric Design (UI/UX theory) and first-hand experience surveying customer feedback.
+Full-stack development experience (Python, AWS ecosystem - data orchestration tools)
+Fundamental knowledge of data engineering and algorithm principles
+
+Additional Details:
+
+This role requires full-time engagement.
+Remote or hybrid remote-in-person flexible.
+Annual salary. We offer an opportunity for equity ownership, with a clear vesting schedule and the potential for significant growth as the company scales.
+
+Final Words. 
+Principles of sustainability are at our core. We value integrity, excellence, hard work, respect, and collaboration. You'll operate as a member of a fun, diverse team (6 nationalities!) and work both independently and collaboratively. We promote and foster diversity of people and ideas, while cultivating empathy for our customers and team members.
+
+We are committed to your professional growth, offering access to conferences, workshops, and continued education support. Adaviv also provides flexible remote or hybrid work options to help you balance your professional and personal life effectively.
+
+Want to be a part of our team? If Adaviv sounds like the type of company you’d like to be a part of and want to help us change how we grow food and medicines for the better, then please apply!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Coordenador(a) de Engenharia de Dados
+
+Sobre a vaga
+Quais são os desafios da área e do cargo:
+A área de Digital do Grupo Fleury desempenha um papel crucial na identificação das necessidades dos usuários e das áreas de negócios, mapeando a experiência, e na construção e sustentação de produtos digitais alinhados à jornada do usuário. Além disso, atua como facilitadora na adoção de inovações nos serviços digitais para fortalecer a presença da marca na vida dos clientes.
+
+A pessoa que assumir essa posição será responsável por criar soluções baseadas na modelagem de quaisquer estruturas de dados, explorando técnicas atuais para construção de robustos modelos de dados que apoiem os analistas e cientistas no desenvolvimento de projetos. Modelar problemas complexos, definir requisitos de sistema e garantir a qualidade e integridade dos dados.
+
+Principais atividades:
+Gerir, mentorar e guiar engenheiros de dados juniores, plenos e seniors.
+Garantir padronização técnica e qualidade dos dados produzido pelos squads.
+Assegurar alinhamento entre entregas técnicas de múltiplos squads, utilizando framework ágil escalado nas entregas;
+Avaliar e incorporar novas tecnologias e metodologias.
+Mentorar e guiar engenheiros de dados juniores, plenos e seniors.
+Definir estratégias de engenharia de dados e moldar a direção técnica.
+Resolver desafios excepcionalmente complexos e inovadores.
+Estabelecer parcerias estratégicas e liderar iniciativas de pesquisa.
+Fomentar a disseminação do conhecimento em engenharia de dados na empresa e na comunidade.
+Revisar a documentação de todo o processo parametrizado em sistema, para evitar perda de conhecimento.
+Elaborar relatórios gerenciais e apresentar para stakeholders.
+
+Buscamos um profissional que apresente: 
+Necessário graduação completa;
+Necessário experiência na liderança de squads como Tech Leader;
+Necessário experiência em ferramenta de ETL (SSIS, Integration Services) e domínio na criação e deploy de pipeline de dados;
+Necessário experiência em bancos de dados relacional, DW, DATALAKE. Domínio em modelagem de dados dimensional;
+Necessário experiência em Databricks;
+Necessário experiência em Cloud (GCP, AWS e AZURE). Experiência em criação e manutenção de pipelines de dados via código. Monitoramento dos valores e serviços implementados;
+Necessário experiência em linguagens de programação (Python), domínio na criação de API's e transformação de dados;
+Necessário experiência em SQL server;
+
+O que esperamos? 
+Nossa essência inspira nosso dia a dia, por isso, buscamos um profissional alinhado ao propósito de cuidar das pessoas;
+Alguém que zele por cuidado e empatia durante toda a jornada, trazendo o cliente sempre para o centro das ações, buscando a excelência; que lidere com empatia e construa relações de confiança, perfil colaborativo e interdependente, e que tenha bom nível de comunicação
+Desejo de aprender, valorização do trabalho em equipe e troca de conhecimento.
+
+Modelo de Trabalho:
+Modelo de trabalho: Remoto
+Carga horária mensal: 220 horas
+Horários: 08h00 às 17h48
+
+O que oferecemos:
+🩺 Assistência Médica;
+🦷 Assistência odontológica;
+🛒 Vale alimentação;
+🍽️ Vale refeição;
+🏫 Auxílio creche;
+🏥 Seguro de vida;
+💪 Gympass;
+💰 Participação nos Lucros;
+📄 Previdência privada;
+🧬 Benefícios exclusivos para promover a saúde e bem-estar dos colaboradores e seus dependentes.
+
+Trabalhamos para promover a cultura inclusiva que busca a equidade e valoriza as diferenças.
+Para conhecer mais sobre o Grupo Fleury, acesse o site: http://www.grupofleury.com.br
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Applied Scientist, NLP
+
+Sobre a vaga
+Are you excited about working at the forefront of applied research in an industry setting? Thomson Reuters Labs in São Paulo is seeking scientists with a passion for solving problems using state-of-the-art information retrieval, natural language processing and generative AI.
+
+What does Thomson Reuters Labs do? We experiment, we build, we deliver. We support the organization and our customers through applied research in informational retrieval and natural language processing. We work closely with product and domain experts to identify compelling solutions at the intersection of user need and technical feasibility.
+
+About The Role
+
+As an Applied Scientist, you will:
+
+Experiment and Develop: You will execute the entire model development lifecycle, from prototype to delivery, while applying best practices for reproducible research and well-managed software delivery.
+Collaborate: Working on a collaborative cross-functional team, you will share information, value diverse ideas, and partner effectively with colleagues across the globe.
+Deliver: You will be accountable for timely, well-managed deliverables.
+Innovate: You will be empowered to try new approaches and learn new technologies. You will implement innovative ideas to solve real-world challenges.
+Inspire: You will be a proactive communicator who is excited to share your work. You will be articulate and compelling in describing ideas to both technical and non-technical audiences. 
+
+
+About You
+
+You’re a fit for the role of Applied Scientist, NLP if your background includes:
+
+Basic Qualifications
+
+PhD in a relevant discipline or Master’s plus a comparable level of experience.
+At least one year industry experience building IR/NLP/ML systems
+Solid software engineering skills for prototyping
+Outstanding communication and data analysis skills
+
+
+Preferred Qualifications
+
+5+ years practical experience building IR, ML or NLP systems in academia or industry
+Experience designing and implementing solutions with large language models
+Relevant publications at ACL, EMNLP, NAACL, NeurIPS, ICLR, SIGIR, KDD, or similar.
+Advanced proficiency in Python, Java, or Scala
+Experience writing production quality code and contributing to well-managed software delivery.
+
+
+What’s in it For You?
+
+You will join our inclusive culture of world-class talent, where we are committed to your
+
+personal and professional growth through:
+
+Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more
+Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: company-wide Mental Health Days Off; Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing
+Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking
+Social Impact: Eight employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact
+Purpose Driven Work: We have a superpower that we have never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth, and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.
+
+
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we’ve been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world’s most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility 
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+Protect yourself from fraudulent job postings click here to know more.
+
+More information about Thomson Reuters can be found on https://thomsonreuters.com.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Staff Software Engineer [Data Platform]
+
+Sobre a vaga
+Job Description
+
+Como é a nossa área de Plataforma de Dados? 
+
+Somos o Time Que Impulsiona a Tomada De Decisões No Will Por Meio Da Simplificação Da Construção e Consumo De Dados Através Da Nossa Plataforma. Nosso Time é Dividido Em
+
+Plataforma de Ingestão: Responsável por garantir a ingestão eficiente dos dados, desde suas fontes até a camada bronze do Data Lake. Nossos principais clientes são desenvolvedores ingerindo dados de seus microserviços e fornecedores;
+
+Plataforma de Processamento e Consumo: Encarregada de criar uma infraestrutura que permite a transformação e o acesso aos dados de forma ágil e intuitiva.
+
+Plataforma de MLOps: Proporciona um ambiente integrado para cientistas de dados, capacitando-os a entregar modelos em produção de forma autônoma.
+
+Estamos focados em desenvolver uma plataforma robusta que capacite os times multidisciplinares da empresa a executarem esses processos com facilidade. Se você está pronto para enfrentar o desafio de escalar uma plataforma de dados com mais de 500 usuários mensais e tem interesse em simplificar o dia a dia dos profissionais que lidam com dados, este é o lugar certo para você!
+
+Responsibilities and assignments
+
+ Quais serão os seus desafios?
+
+Projetar e desenvolver soluções para uma plataforma de dados escalável e robusta, com foco na otimização de custos, segurança, governança e observabilidade
+Promover a cultura de plataforma, compreendendo as necessidades dos times multidisciplinares, auxiliando na definição de prioridades e no desenho de soluções eficazes, visando à autonomia desses times
+Exercer liderança técnica de modo consistente, influenciando decisões e estratégias em nível organizacional nos assuntos relacionados a dados
+Participar ativamente do planejamento e decisões dentro e fora do círculo de influência, contribuindo para o direcionamento estratégico do will
+Identificar e liderar iniciativas de grande impacto, desenvolvendo estratégias e planos de ação para atingir objetivos organizacionais e de negócio
+Colaborar com outras áreas do willbank, promovendo a integração e a colaboração, impulsionando a adesão da plataforma e o evangelizando o uso de boas práticas
+Atuar como mentor técnico, desenvolvendo e capacitando outros líderes e membros do time
+Liderar processos de melhoria contínua, identificando oportunidades de otimização e promovendo mudanças positivas 
+
+Requirements And Qualifications
+
+ Para isso, você vai precisar ter:
+
+Vasta atuação em times de plataforma 
+Alta capacidade de resolução de problemas, utilizando tecnologia como meio para solucionar uma necessidade de negócio
+Experiência em liderança técnica, demonstrando habilidades para influenciar e inspirar outros além do próprio time
+Excelente habilidade de comunicação e negociação, com capacidade para construir relacionamentos sólidos e influenciar decisões em diferentes níveis hierárquicos
+Visão estratégica e capacidade analítica para identificar oportunidades de melhoria e desenvolver planos de ação eficazes
+Profundo entendimento do negócio e dos desafios organizacionais, com capacidade para alinhar as iniciativas técnicas aos objetivos de negócio do will 
+Experiência em liderar iniciativas de grande escala e alto impacto, com foco em resultados tangíveis e mensuráveis.
+
+Additional information
+
+Gostou? Isso porque você ainda não viu os benefícios de ser um willer:
+
+ Cartão Flash para seus gastos flexíveis: Com valores compatíveis com o mercado, destinados a Vale Alimentação/Refeição, home office, parte totalmente flexível para uso em aplicativos de mobilidade, farmácias, cultura, educação, alimentação e refeições.
+ Saúde de qualidade com a Amil: Tenha acesso a uma rede de saúde e odontológica de primeira linha através da Amil Saúde.
+ Benefícios que fazem a diferença: Oferecemos seguro de vida, auxílio creche, auxílio para dependentes com deficiência, um dia de folga especial no seu aniversário, além de descontos em farmácias e parcerias com o Sesc em todo o Brasil.
+ Bem-Estar é prioridade: Cuide da sua saúde mental e física com as parcerias que temos. Acesse serviços profissionais de psicologia com o C4life e Psicologia Viva, e tenha acesso a academias e aulas online através do Wellhub e Totalpass.
+ Educação é essencial: Descontos em instituições de ensino, como SkillHub, Faculdade São Judas, Estácio de Sá, Ibemec, EnglishBay, LingoPass e muito mais.
+ Programa Distribuwill: Faça parte do nosso Programa de Participação nos Resultados, o Distribuwill!
+ Inclusão e diversidade: Oferecemos reembolso para a retificação de nomes para pessoas trans, e acreditamos em uma licença parental de 180 dias para um cuidado igualitário em todas as configurações familiares.
+ Clube will by coClub: Participe do Clube will, uma plataforma exclusiva que conecta nossa comunidade com interesses em comum, desafios, benefícios, experiências e celebrações!
+
+Confira nossas outras oportunidades :)
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: First Chat2First Chat
+Step 3: Coding Skills3Coding Skills
+Step 4: System Design4System Design
+Step 5: Papo com a Liderança 5Papo com a Liderança 
+Step 6: Papo com Talent 6Papo com Talent 
+Step 7: Proposta7Proposta
+Step 8: Hiring8Hiring
+
+olá,
+
+E aí, tudo bem?
+
+Primeiro eu vou me apresentar! Eu sou um banco digital, mas pode me chamar de will. Sou a segunda maior instituição de pagamento do Brasil com mais de cinco milhões de clientes! Nasci com um propósito muito claro: democratizar o mundo financeiro e mostrar que crédito é um voto de confiança que todos e todas merecem, e podem ter.
+
+Eu tenho como intenção dar a possibilidade de todas as pessoas nesse Brasil terem direito ao crédito. Você tem noção que a maioria das pessoas nem tem acesso a instituições financeiras? Eu tô aqui pra mudar isso! Quero tornar o mundo financeiro mais simples e mais acessível. 
+
+E para multiplicar o crédito e conquistar esse sonho, precisamos de pessoas que multipliquem o melhor delas. E para isso é preciso ter atitudes multiplicadoras. As pessoas que trabalham comigo são Willers. Já são mais de 1300 que estão espalhadas e espalhados pelos quatro cantos do Brasil. Isso mesmo, atuamos em regime de trabalho remoto e temos um pilar cultural focado em multiplicar o melhor das pessoas.
+
+Multiplicar o melhor de mim é multiplicar o will, multiplicar o will é multiplicar o melhor de mim. 
+
+Busco Atrair Pessoas Que Estão Dispostas a Crescer Comigo, Porque Aqui Não Existe Crescimento Do Negócio Sem o Crescimento Das Pessoas. E Para Isso Acredito Que Cinco Atitudes Podem Ajudar a Multiplicar o Seu Melhor Por Aqui
+
+Assumir a responsa
+
+Agir com empatia
+
+Jogar Junto
+
+Mexer o ponteiro
+
+Comunicar de forma assertiva
+
+Já são mais de 1300 que estão espalhadas e espalhados pelos quatro cantos do Brasil multiplicando o melhor deles e delas. E além disso, estamos caminhando para atingir os dados demográficos que representam a população brasileira, onde 57% da população se declara como negra. Hoje, +44% de willers que se autodeclaram pessoas não brancas e 51% são mulheres. Eu quero ser tão diverso como o Brasil, sei que é desafiador, mas eu não tô nessa sozinho, tem um monte de gente me ajudando a chegar lá.
+
+E aí, me curtiu? Corre pra ver as minhas vagas e fazer parte dessa história de democratizacão do crédito! #VemSerWill
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Data Engineer, Full Stack
+
+Sobre a vaga
+About Us
+
+WEX is a global leader in financial technology solutions, based in Portland, Maine, United States, with over 6,000 WEXers distributed in over 40 countries. We simplify the complexities of payment systems across continents and industries like Fleet, Corporate Payments, and Benefits. We look to manage employee benefits, streamline how companies pay and get paid by suppliers, save on fuel costs, or modernize how companies manage their fleet, WEX solutions reduce the administrative burdens.
+
+About The Opportunity
+
+We are seeking an experienced Data Engineer to play a critical role in the development of WEX's enterprise data & analytics capabilities. You will be part of an organization focusing on the development and delivery of data solutions and capabilities for WEX’s data platform. The successful candidate is motivated by thinking big data, technically proficient, and enjoys working in a fast paced environment.
+
+You Will Be Expected To
+
+At WEX, we treat data and data artifacts as first-class citizens. They form our backbone and drive the business insight we generate. We are looking for an experienced Qlik Replicate Administrator to join our Data Engineering & Operations team. You’ll work with on-premise and cloud databases to configure source/target end points and create high performing data replication tasks. You’ll be part of a team that is also responsible for:
+
+Continuously training our SRE team to handle L1 and L2 production support issues
+Monitoring production servers, scheduled jobs, and incident management
+Developing standards, best practices, and how-to guides
+Mentoring other Data Engineers to create robust tasks
+Understanding Qlik’s product roadmap, including depreciated/new features, patch & version releases, and QCDI, to make adjustments to our data pipelines
+Working with DBAs to configure source databases and Qlik endpoints
+Working with DevOps to address network changes (VPC peering, subnets, firewalls, etc.)
+
+You’ll be part of a collaborative scrum team that consists of an Agility Engineer, Technical Program Manager, Data Engineers, QA, and DevOps. You’ll also be supported by a manager that is here to listen and help you grow.
+
+We Are Looking For a Professional Who Has
+
+You care deeply about the veracity (i.e. consistency, accuracy, quality, and trustworthiness) of data. You enjoy designing, maintaining, and optimizing data pipelines & infrastructure, for data collection, management, transformation, and access. In addition, you:
+
+Are a strong critical thinker with analytical and problem-solving abilities
+Are self motivated and able to work independently with minimum supervision
+Bring thought leadership to your area of responsibility and enjoy staying ahead in your field
+
+This position requires you to collaborate across multiple groups at WEX, so you are someone with excellent communication skills and persuasive power. You can make rational arguments for action to evoke positive responses.
+
+Skills
+
+Our core stack for this position consists of Qlik Replicate, Snowflake, AWS Services, and various RDBMS. You possess the following skills and experiences:
+
+Advanced knowledge of Qlik Replicate and Enterprise Manager, managing endpoints and streaming CDC (change data capture) tasks
+Solid SQL skills and understanding of query optimization strategies in Snowflake; plus, ability to monitor, visualize and optimize the end-to-end database execution flow with a keen focus on performance and correctness
+Fundamental understanding of the following AWS services:
+Elastic Compute Cloud (EC2) - performance monitoring & optimization and knowledge of instance types
+Virtual Private Cloud (VPC) - provisioning of virtual networks and all its basic components (security group, network access control list, route tables, subnet, etc.)
+S3, IAM, Secrets Manager, AWS CLI
+Mastery of RDBMS concepts, specifically the mechanics of transaction logs, RBAC, standby configuration/availability groups, encryption, and datatypes
+
+Bonus: You have successfully implemented CI/CD of Qlik Replicate tasks in a production environment.
+
+If you are looking for a growing career – come be part of WEX today!
+-----------------------------------------------------------------------------------

@@ -1,0 +1,274 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Descrição da vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsabilidades:
+Atuar no desenvolvimento, implementação e manutenção de soluções de Data Warehouse;
+Realizar integração, transformação e análise de dados a partir de diferentes fontes;
+Participar do desenho e evolução da arquitetura de dados, com foco em arquitetura em camadas/medalhão;
+Garantir a qualidade, integridade e a disponibilidade dos dados para diferentes áreas de negócio.
+Requisitos:
+Sólida experiência em projetos de Data Warehouse;
+Conhecimento avançado em Snowflake e SQL Server;
+Domínio de SQL avançado para manipulação e consulta de dados;
+Experiência na arquitetura em camadas (medalhão: Bronze, Silver e Gold);
+Capacidade de atuar de forma autônoma e colaborativa em ambiente remoto.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: ENGENHEIRO DE DADOS SR
+
+Sobre a vaga
+Nosso time é formado por excelentes profissionais da área da tecnologia.
+
+Colaboração e comprometimento fazem parte do nosso dia-a-dia, quando desenvolvemos novas funcionalidades, construindo um produto robusto e escalável.
+
+Fazendo parte de nossa equipe, seu trabalho irá impactar em milhares de usuários que utilizam nossa solução diariamente.
+
+Responsabilidades e atribuições
+
+Atividades
+
+Aplicar conhecimentos estatísticos e probabilísticos na elaboração de modelos e soluções analíticas para identificar e obter valor em iniciativas de Analytics. 
+ Usar com destreza ferramentas de Analytics para elaboração de modelos e soluções analíticas, análise de dados e elaboração de painéis ou dashboards, Python, SQL, Power BI, Spotfire, Json, experiência com análise, preparo e modelagem de dados, experiência prática em inteligência artificial - definição e elaboração/otimização de modelos para análise preditiva, capacidade de elaborar apresentações de dados, com domínio conceitual de storytelling com dados.
+
+
+Requisitos e qualificações
+
+Requisitos e Qualificações
+
+Formação: Formação de nível superior na área de Estatística, Economia, Ciências Atuariais, Matemática, Engenharia, Ciência da Computação ou áreas afins.
+
+Conhecimento Técnico e experiência exigida: 
+
+Perfil do Engenheiro de Dados Sênior:
+
+Conhecimento técnico e comportamental esperados
+
+Engenheiro de Dados com conhecimentos sólidos em desenvolvimento Python. Desejável conhecimento básico de serviços cloud Microsoft Azure e Power BI.
+
+Habilidades Técnicas:
+
+Linguagens de Programação: Python, pandas para manipulação e análise de dados, incluindo operações de limpeza, transformação e agregação de dados; NumPy para operações matemáticas e estatísticas. Processamento de Dados: ETL (Extract, Transform, Load) no desenvolvimento de pipelines de dados para extrair, transformar e carregar dados de diversas fontes. Automatização de Tarefas com uso de scripts Python para automatizar processos repetitivos e otimizar fluxos de trabalho.
+Ferramentas de Visualização: Power BI. Modelagem de Dados: Criação de modelos de dados robustos e eficientes, garantindo a integridade e a performance das consultas. DAX (Data Analysis Expressions): Desenvolvimento de fórmulas complexas para análises avançadas. Power Query: Transformação e limpeza de dados para prepará-los para análise. Design de Dashboards: Aplicação de melhores práticas de design para criar dashboards intuitivos e visualmente atraentes. Integração de Dados: Conexão e integração de dados de diversas fontes, como bancos de dados SQL, arquivos Excel, APIs, entre outros. Segurança e Governança: Implementação de políticas de segurança e governança de dados dentro do Power BI.
+Bancos de Dados: MSSQL Server (Banco de Dados Estruturados).
+Capacidade de desenvolvimento e adequação de scripts Python com ênfase na execução de processos de ETL; 
+Capacidade de construção de consultas a bancos de dados SQL; 
+Proatividade para a resolução de desafios;
+Capacidade de auto-desenvolvimento para desenvolvimento de soluções que ainda não conhece; 
+Capacidade de entendimento rápido de modelos de dados existentes em bancos de dados;
+Iniciativa para buscar o contato com os líderes técnicos do cliente quando necessário (eliminação de obstáculos, apresentação de soluções parciais etc.
+Conhecimentos em ferramentas bigdata e bancos de dados no-sql (Hive) são desejáveis; 
+Conhecimentos da ferramenta Power BI são desejáveis.
+
+
+Habilidades pessoais:
+
+Proatividade: Capacidade de identificar e resolver problemas de forma independente.
+Adaptabilidade: Flexibilidade para se ajustar a novas ferramentas e metodologias rapidamente.
+Comunicação: Habilidades interpessoais para colaborar eficazmente com equipes multidisciplinares.
+Resolução de Problemas: Abordagem analítica para solucionar desafios complexos.
+
+
+Experiência Profissional esperada:
+
+Atuou no desenvolvimento de pipelines de dados eficientes utilizando Python e SQL.
+Atuou na implementação de dashboards interativos no Power BI para monitoramento de KPIs com uso intensivo de drill-down.
+Atuou na automatização de processos de ETL complexos, contemplando a implantação em produção e o monitoramento.
+Atuou na construção de modelos de Entidade-Relacionamento, identificação de Dados Mestres, modelagem multidimensional e mapeamento de fluxo de dados e catálogo de dados.
+
+
+Certificação:
+
+ Não é exigida 
+
+
+Informações adicionais
+
+Nossos benefícios:
+
+Plano de Saúde;
+Plano Odontológico;
+Seguro Prudential: é concedido ao colaborador, de forma gratuita o seguro de vida, auxílio funeral e cesta natalidade, conforme regras específicas da seguradora;
+Vale Refeição ou Vale Alimentação;
+Vale Transporte: é concedido ao colaborador, para uso no trajeto residência – trabalho – residência, e será descontado mensalmente o percentual de 6% sob o valor do salário, limitado ao valor do benefício (opcional);
+Day off: será concedido ao colaborador folga em virtude do dia do aniversário, devendo este ser usufruído na mesma data e/ou no mês do aniversário;
+Empréstimo Consignado;
+Convênios e Parcerias (Instituições de Ensino, Academias, Cursos de Idiomas entre outros);
+Ginástica Laboral.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Engineer, Brazil - X Delivery
+
+Sobre a vaga
+Locations: São Paulo | Rio de Janeiro
+
+Who We Are
+
+Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact.
+
+To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive.
+
+We Are BCG X
+
+We’re a diverse team of more than 3,000 tech experts united by a drive to make a difference. Working across industries and disciplines, we combine our experience and expertise to tackle the biggest challenges faced by society today. We go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. Leveraging BCG’s global network and partnerships with leading organizations, BCG X provides a stable ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions.
+
+What You'll Do
+
+Join the BCG X Delivery team and immerse yourself in cutting-edge projects alongside our consulting units. Your role will be pivotal in employing data engineering methodologies to enhance the capabilities of both BCG Consulting and BCG X teams, across various domains. You'll be the go-to expert for data engineering, offering accelerated execution support to bring visions to life. Your collaboration will be key in understanding project requirements, leading the design, development, delivery, and support of solutions tailored to client needs. Expect to dive deep into tools and processes, ensuring the delivery of high-quality and efficient technology solutions. Whether it's short-term prototypes or long-term enterprise-grade developments, your contribution will significantly impact our project outcomes and organizational goals.
+
+What You'll Bring
+
+Technical Skills - Knowledge And Experience With
+
+Unix-based command line & development tools
+Version control (e.g. Git)
+Python
+Charting libraries (e.g. HighCharts, D3.js, Recharts, Plotly, Altair)
+Cloud computing platforms (e.g. AWS, Azure, Google Cloud, etc.)
+Containerization (Docker, Kubernetes, etc.)
+Relational databases (e.g. PostgreSQL, MariaDB, MySQL, etc.)
+NoSQL databases (e.g. MongoDB, Neo4j, Redis, etc)
+Spark or other distributed big data systems (e.g. Hadoop, Pig, Hive, etc.)
+Stream-processing frameworks (e.g. Kafka)
+Data pipeline orchestration tools (e.g. Airflow, Prefect, Dagster, etc.)
+
+Job Requirements
+
+Bachelor's / Master's in Computer Science, a related field, or equivalent work experience 
+Fluency in Portuguese and English
+Experience in Data Engineering across various industries, demonstrating a track record of delivering analytics solutions in commercial environments
+
+Core Attributes
+
+Harness Big Data tools and frameworks to fulfill specific requirements.
+Implement ETL processes across diverse architectures, ensuring optimal performance and advising on infrastructure enhancements.
+Collaborate with case and proposal teams to define analytics outcomes, select methodologies, and deliver unique insights.
+Lead analytics modules, establishing trust through expertise in analytics and effective communication of findings.
+Integrate learnings into new best practices, manage content confidentiality, and maintain stakeholder relationships for project security.
+Guide junior team members, contribute to intellectual property, and conduct technical training.
+Exhibit strong communication skills, both written and verbal, for clear message delivery.
+Utilize analytical skills throughout the analytics lifecycle, providing advice and expanding knowledge in advanced analytics.
+
+Additional info
+
+Please apply for the positions equivalent to your previous work experiences. The seniority will be evaluated according to your experience and career structure at BCG X during the process.
+
+Even if you don't meet all these requirements, we encourage you to apply if this job description excites you.
+
+Note: For this position, we are considering applicants from São Paulo and Rio de Janeiro, including both the capital cities and the surrounding areas within a 150km radius of the capitals.
+
+#BCGXjob
+
+Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.
+
+BCG is an E - Verify Employer. Click here  for more information on E-Verify.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados Senior
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Desenvolvedor de Dados você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Curso superior na área de tecnologia da informação;
+Experiência com Python: Para manipulação de dados, automação de processos e desenvolvimento de pipelines.
+Java/Scala: ferramentas como Apache Spark. PySpark: A API do Apache Spark para Python, permitindo processamento de dados em larga escala e análise de dados distribuídos.
+Bancos de Dados SQL
+NoSQL (MongoDB, Cassandra)
+Plataformas de Big Data: Databricks
+
+Principais responsabilidades:
+
+Desenvolvimento de Pipelines de Dados: Projetar, construir e manter pipelines de dados eficientes para a extração, transformação e carga (ETL) de dados de diversas fontes.
+Integração de Dados: Integrar dados de diferentes sistemas e fontes, garantindo a qualidade e a consistência dos dados.
+Modelagem de Dados: Criar e manter modelos de dados que suportem as necessidades de análise e relatórios da equipe de Finanças.
+Otimização de Performance: Monitorar e otimizar o desempenho dos pipelines de dados e das consultas em bancos de dados, garantindo eficiência e rapidez no processamento.
+Trabalho com Big Data: Utilizar ferramentas de Big Data, como Apache Spark e Databricks, para processar grandes volumes de dados em tempo real.
+Garantia de Qualidade dos Dados: Implementar processos de validação e limpeza de dados para garantir a integridade e a precisão das informações.
+Colaboração com Equipes Multifuncionais: Trabalhar em estreita colaboração com cientistas de dados, analistas de negócios e outras partes interessadas para entender as necessidades de dados e fornecer soluções adequadas.
+Documentação: Documentar processos, pipelines e modelos de dados para garantir que as informações sejam acessíveis e compreensíveis para outros membros da equipe.
+Segurança e Conformidade: Garantir que as práticas de manipulação de dados estejam em conformidade com as políticas de segurança e regulatórias, especialmente em um ambiente financeiro.
+Atualização e Aprendizado Contínuo: Manter-se atualizado sobre as últimas tendências e tecnologias em engenharia de dados, Big Data e ferramentas de análise.
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Consultor de dados
+
+Sobre a vaga
+Quem Somos
+“A DEXIAN é uma consultoria global de origem Americana focada em talentos para complementar a equipe de tecnologia da informação de nossos clientes. Estamos presente em 10 países, com 45 escritórios ao redor do mundo. Por mais de 25 anos, a DEXIAN® atende indústrias e clientes globais, em diversas áreas, com a missão de atrair e reter os maiores talentos do mundo.
+
+Hoje somos orgulhosamente reconhecidos como uma das maiores empresas de “staffing augmentation” dos Estados Unidos pela Staffing Industry Analysts (SIA). Também somos uma Minority Owner Company e nos sentimos orgulhosos de termos nascido na diversidade.
+
+No Brasil, chegamos em 2007 e de lá para cá, conquistamos mais de 50 clientes de diferentes setores da economia.
+
+O que esperar de nós
+É importante que você saiba que por trás de cada movimento DEXIAN existem cinco valores fundamentais: colaboração, respeito, justiça, comprometimento e engenhosidade. Colaboração, justiça e respeito não são apenas palavras; comprometimento não é só um pensamento; e engenhosidade vai além de aspiração. Essas qualidades nos definem em todos os níveis, todas as parcerias e na forma como trabalhamos todos os dias. Compartilha dos mesmos valores, aqui é seu lugar! Que tal desenvolver sua carreira conosco?
+
+A DEXIAN do Brasil incentiva a DIVERSIDADE. Nossas oportunidades também estão disponíveis para candidatura de pessoas com deficiência e reabilitados.
+
+Nosso Cliente
+Essa vaga irá atender nosso cliente no segmento de Telecomunicações.
+
+O que esperar do seu dia a dia de trabalho
+• Desenvolver e manter pipelines de dados em ambientes AWS e Google Cloud;
+• Realizar ingestão e tratamento de dados em larga escala utilizando serviços como S3, Lambda, Glue, BigQuery e Cloud Functions;
+• Criar e manter tabelas, views e estruturas otimizadas no BigQuery;
+• Colaborar com times de engenharia e analytics para garantir a governança dos dados;
+• Documentar processos e fluxos de dados;
+• Participar da sustentação e melhorias contínuas das arquiteturas existentes
+
+O que você precisa ter:
+Requisitos:
+• Experiência prática com AWS (especialmente S3, Lambda, Glue, Athena, IAM);
+• Conhecimento em BigQuery e ferramentas da Google Cloud Platform;
+• Domínio de SQL avançado;
+• Experiência com versionamento (Git);
+• Conhecimentos em Python para manipulação de dados;
+• Boa comunicação para interagir com áreas de negócios e squads técnicos.
+Cloud: AWS & Google Cloud (BigQuery)
+
+Onde você vai trabalhar?
+Regime hibrido 2x por semana na Henry Dunant.
+-----------------------------------------------------------------------------------

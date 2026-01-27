@@ -1,0 +1,295 @@
+[Oportunidade 1]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+As a Data Engineer part of our growing Data Science team, you will be responsible for designing, implementing, and maintaining robust and scalable data pipelines, enabling efficient data integration, storage, and processing across our various data sources. You will collaborate with cross-functional teams, including Data Scientists, Software Engineers, and other technical stakeholders, to ensure data quality and support data-driven decision-making.
+
+Responsibilities
+
+Develop and optimize scalable, high-performing, secure, and reliable data pipelines that address diverse business needs and considerations
+Identify opportunities to enhance internal processes, implement automation to streamline manual tasks, and contribute to infrastructure redesign 
+Act as a guide and mentor to junior engineers, supporting their professional growth and fostering an inclusive working environment
+Collaborate with cross-functional teams to ensure data quality and support data-driven decision-making to strive for greater functionality in our data systems
+Collaborate with project managers and product owners to assist in prioritizing, estimating, and planning development tasks
+Provide constructive feedback, and share expertise with fellow team members, fostering mutual growth and learning
+Engage in ongoing research and adoption of new technologies, libraries, frameworks, and best practices to enhance the capabilities of the data team
+Demonstrate a commitment to accessibility and ensure that your work considers and positively impacts others
+
+Qualifications
+
+BSc, MSc, and/or PhD in Statistics, Mathematics, Physics, CS, or another related subject
+Experience in technology-related fields, which can be industry and/or academic research (e.g. BI, Software, Data Science, Data Engineering)
+At least 3 years of experience as Data Engineer
+Have actively participated in the design and development of data architectures
+Hands-on experience in developing and optimizing data pipelines
+Experience working with databases and data modeling projects, as well as practical experience utilizing SQL
+Effective English communication - able to explain technical and non-technical concepts to different audiences
+Experience with a general-purpose programming language such as Python or Scala
+Ability to work well in teams and interact effectively with others
+Ability to work independently and manage multiple tasks simultaneously while meeting deadlines
+
+Bonus Points
+
+Cloud platforms and services, such as AWS, GCP, or Azure
+Big data tools such as Hadoop, Spark or Kafka
+Orchestration tools such as Airflow
+NoSQL databases
+Containerization technologies such as Docker and Kubernetes
+Agile development environment and familiarity with Agile methodologies
+
+Why TELUS Digital?
+
+At TELUS Digital, you’ll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenharia de Dados AWS Sênior - ID 123360
+
+Sobre a vaga
+Sobre a vaga
+
+Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil.
+Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos.
+Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital.
+
+O que estamos buscando?
+
+Engenharia de Dados AWS Sênior - ID 123360
+
+Requisitos:
+Linguagem de Programação: Python, SQL, Scala, Pyspark, Shell Script. Fundamentos: DataMesh, Database SQL e NoSQL, Hadoop Ecossistema, Engenharia de Software, Privacidade e Segurança. Engenharia de Dados: Data Ingestion, Data Stream, PRocessamento Paralelo, Processamento Massivo. Arquitetura de Dados: ETL vs ELT, Modelagem tradicional, Dimensional e Hibrido, Estruturado / Não Estruturado, Camada de Dados Brutos (SOR), Camada de Dados Harmonizados (SOT), Camada de Dados Especializados (SPEC), Data Analytics, Data Viz, Data Storytelling. Experiencia com processamento distribuído e de grandes volumes de dados. Vivência em Pipelines CI/CD (codepipeline / githubactions); Conhecimento nos serviços primários da AWS (Storage Gateway, Direct Connect, DMS, Lambda, Glue, RDS, API Gateway)
+
+Descrição comportamental: 
+Procuramos uma pessoa que:
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+Tenha habilidades de resolução de problemas;
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+
+O que oferecemos:
+
+Cartão multi-benefícios – você escolhe como e onde utilizar;
+Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas;
+Programas de incentivo à Certificações;
+Horário de trabalho flexível;
+Plano personalizado de carreira e possibilidade de carreira internacional;
+Salários competitivos;
+Avaliação de desempenho anual com possibilidade de bonificação;
+Gympass;
+Previdência Privada;
+Auxílio-Creche;
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+
+Big enough to deliver – small enough to care.
+#VempraGFT
+#VamosVoarJuntos
+#ProudToBeGFT
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados - Sênior
+
+Sobre a vaga
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você.
+
+Em Tech Consulting, estamos construindo um mundo de negócios melhor ajudando empresas a entenderem os impactos e oportunidades apresentados pelo cenário digital em rápida evolução. Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, alavancando tecnologias como cybersecurity, e-commerce, mobile, inteligência artificial, Blockchain, data & analytics e muito mais.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Data Enginering - Sênior, você fará parte de equipe multifuncional e com grandes Projetos.
+
+Projetar, desenvolver e manter pipelines de dados escaláveis e eficientes
+Participar da construção e evolução de arquiteturas modernas (Data Lake, Data Warehouse, Lakehouse)
+Garantir qualidade, segurança e governança dos dados ao longo dos fluxos
+Colaborar com times de produto, ciência de dados, BI e tecnologia
+Atuar como referência técnica para engenheiros de dados juniores
+Apoiar na definição de padrões técnicos e boas práticas de engenharia de dados
+Avaliar e implementar ferramentas que otimizem o fluxo de dados e os custos de processamento
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Formação superior em Ciência da Computação, Matemática, Estatística, Análise de Sistemas ou áreas correlatas
+Experiência com Python (avançado), SQL (avançado) e Scala (desejável)
+Vivência com ferramentas de orquestração como Airflow, Prefect ou similares
+Conhecimento em Spark, Delta Lake, Databricks e Snowflake (desejável)
+Atuação com serviços em nuvem como AWS (S3, Redshift, Glue, Lambda), GCP ou Azure
+Uso de ferramentas de versionamento e CI/CD como Git, Docker, GitLab CI e Jenkins
+Experiência em modelagem de dados (dimensional, normalização, particionamento e performance)
+Domínio de ferramentas de transformação de dados, especialmente dbt (fortemente desejável)
+Conhecimento em práticas de DataOps e governança de dados
+Inglês em nível intermediário a avançado
+Participação em projetos de construção de data lakes e data warehouses modernos
+Experiência em engenharia de dados voltada para produtos analíticos e iniciativas de IA/M
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Oportunidade disponível em modelo presencial com flexibilidade para remoto no escritório do Rio de Janeiro.
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de Dados Sênior
+
+Sobre a vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsabilidades
+Implementação de Governança de Dados: Desenvolver e aplicar políticas de governança de dados, abrangendo controle de qualidade, auditoria e conformidade com regulamentações internas e externas.
+Qualidade de Dados: Utilizar ferramentas como PyDeequ e Great Expectations para definir e monitorar métricas de qualidade, garantindo integridade, consistência e confiabilidade dos dados.
+Desenvolvimento de Pipelines de Dados: Projetar e implementar pipelines escaláveis utilizando Databricks, Python, SQL e frameworks de ETL, de acordo com as melhores práticas de governança.
+Arquitetura de Dados: Aplicar conceitos de Medallion Architecture e Data Mesh para estruturar e organizar dados de maneira eficiente e escalável.
+Automação e Monitoramento: Automatizar processos de ingestão e transformação de dados, além de implementar monitoramento contínuo para garantir a qualidade e disponibilidade do ambiente.
+Integração com AWS: Utilizar serviços da AWS (S3, Glue, EC2, entre outros) para suportar operações de dados, assegurando escalabilidade e segurança.
+
+Requisitos
+Experiência Técnica: Experiência prática em governança, qualidade de dados e desenvolvimento de pipelines utilizando PyDeequ, Great Expectations, Databricks, AWS, Python, SQL e frameworks de ETL.
+Governança de Dados: Vivência na implementação de políticas, controles de qualidade, auditoria e conformidade.
+Qualidade de Dados: Capacidade de definir e monitorar métricas, utilizando ferramentas especializadas.
+Arquitetura de Dados: Conhecimentos sólidos em Medallion Architecture e Data Mesh.
+Automação e Monitoramento: Experiência em automação e monitoramento contínuo de processos de dados.
+Infraestrutura em Nuvem (AWS): Experiência no uso de serviços como S3, Glue, EC2, entre outros.
+Inglês Avançado: Capacidade de comunicação escrita e falada em ambiente multicultural.
+
+Diferenciais
+Experiência com ferramentas de orquestração de workflows como Apache Airflow.
+Certificações em tecnologias relevantes, como AWS Certified Big Data – Specialty.
+Vivência em ambientes ágeis e metodologias de desenvolvimento ágil.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvedor(a) Sênior – Plataforma de Inteligência Artificial com RAGs
+
+Sobre a vaga
+🤩QUEM SOMOS?
+O DOT Digital Group é pioneiro no mercado de Educação Corporativa Digital no Brasil! Já são mais de 28 anos sendo responsável pela transformação de muitos negócios que decidiram abraçar a Tecnologia e a Educação.
+🧐O QUE FAZEMOS?
+Desenvolvemos pessoas para impulsionar organizações!
+Grandes negócios nacionais e globais investem nas soluções educacionais digitais desenvolvidas pelo DOT como, por exemplo, Produção de Cursos Online, Operação em Larga Escala/Mediação, Aplicações LMS, Curso via Whatsapp, Immersive Learning, Educomunicação entre outras estratégias educacionais.
+🤗NOSSO JEITO DOT DE SER!
+Jogamos aberto e limpo, estamos no mesmo barco e não tiramos o corpo fora! Aqui respeitamos as pessoas - independente da cor, crença, cultura, gênero, orientação afetiva e idade. Acreditamos no que fazemos e temos paixão pelo UAU! Sempre é possível fazer diferente e melhor em um ambiente de confiança. Valorizamos a autogestão, a colaboração e a busca pelo desenvolvimento contínuo.
+E aí, curtiu e se identificou com o jeito DOT de ser? Então #vemproDOT!
+🤩E QUEM BUSCAMOS?
+Alguém que queira aprender sempre, que tope encarar desafios e tenha proatividade. Buscamos uma pessoa que ame trabalhar com educação e tecnologia e que foque em uma entrega de valor para o cliente! Alguém que tenha facilidade para se adaptar a mudanças e, principalmente, adore fazer um trabalho colaborativo e em time.
+🎯Desenvolvedor(a) Sênior – Projeto de Inteligência Artificial
+Estamos buscando um(a) desenvolvedor(a) sênior para atuar em um dos nossos projetos mais estratégicos na área de Inteligência Artificial aplicada. Você vai trabalhar no desenvolvimento de uma plataforma de IA que utiliza RAGs (Retrieval-Augmented Generation), agentes autônomos, orquestração com LangChain e integração com modelos da OpenAI e AWS.
+Qual o seu papel na construção dessa trilha?
+Participar ativamente do desenvolvimento e evolução da plataforma de IA;
+Trabalhar em conjunto com especialistas em IA para construir e refinar pipelines de RAG, agentes e fluxos de decisão;
+Codificar novas funcionalidades em Python/Django, estruturando APIs e serviços;
+Contribuir com decisões de arquitetura e boas práticas de engenharia de software;
+Explorar e testar novas ferramentas e abordagens ligadas ao ecossistema de IA generativa;
+Colaborar com um time multidisciplinar em um ambiente ágil, com entregas contínuas.
+Utilizar ferramentas de IA como Cursor ou Copilot para acelerar o desenvolvimento.
+Quais vivências esperamos de você?
+Experiência consolidada como desenvolvedor(a) backend ou full stack, com domínio de boas práticas de engenharia de software;
+Capacidade de aprender rapidamente novas tecnologias e conceitos;
+Curiosidade e disposição para se aprofundar em IA, mesmo que ainda não tenha experiência prática;
+Comprometimento com entregas de qualidade e atenção à performance e escalabilidade;
+Boa comunicação e colaboração em equipe.
+Será incrível se você já tiver:
+Experiência com Python e Django;
+Familiaridade com LangChain, OpenAI, agentes ou conceitos de RAG;
+Conhecimento em arquiteturas baseadas em filas e microsserviços;
+Experiência com bancos como MongoDB e OpenSearch;
+Vivência em projetos com IA generativa ou NLP;
+Experiência com ferramentas de IA assistiva para código (Copilot, Cursor, Windsurf).
+Aqui acreditamos no lifelong learning, e desejamos que você siga em busca de aprendizado contínuo!
+🥳NOSSA PROPOSTA DE VALOR:
+E para impulsionar você a completar essa trilha com sucesso, o DOT oferece:
+Auxílios!
+Vale alimentação e/ou refeição (R$737) - Inclusive nas férias
+Vale transporte;
+Seguro de vida;
+Auxílio home office (R$100);
+Auxílio creche para crianças de até 6 anos;
+Headhunter (valor por indicação de colaborador);
+Indicação de clientes (valor por indicação de clientes).
+Saúde e bem estar!
+Plano de saúde integral, sem coparticipação (com terapia online gratuita);
+Convênio odontológico;
+Caju+ (assistência psicológica, assistência jurídica, consultoria financeira);
+Wellhub (plataforma de saúde e bem estar);
+Convênio Farmácia;
+Licença maternidade estendida de 6 meses;
+Licença paternidade estendida de 20 dias;
+Onhappy - Ofertas exclusivas de passagens e hospedagens.
+FeelingDOT sobre temas diversos (workshops sobre autoconhecimento, diversidade, inclusão e equilíbrio);
+Mimos e gifts em datas comemorativas.
+Crescimento e desenvolvimento contínuo!
+Verba de Sophia de R$ 2.000,00 (auxílio educação);
+Horas de Sophia (40 horas/ano em capacitação da sua escolha);
+Verba Survival (auxílio educação no negócio);
+DOTAcademy com cursos gratuitos;
+Mobilidade interna;
+DOTHUB (desenvolvimento de lideranças);
+Cultura de feedback;
+DOTKnows (peer learning).
+Clima colaborativo e descontraído!
+Anywhereoffice: trabalhe de onde quiser;
+Horário flexível - Nosso regime é de 40h semanais;
+Aprendizado contínuo;
+Pessoas que é bom de estar perto;
+Autonomia com responsabilidade;
+Local para refeições (presencial);
+Lanches, snacks, frutas, chás e café passado (presencial);
+Área de convivência (presencial);
+Momentos de integração e festas.
+Somos uma empresa diversa e inclusiva, e todas as nossas vagas estão abertas também para PCD.
+-----------------------------------------------------------------------------------

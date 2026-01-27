@@ -1,0 +1,288 @@
+[Oportunidade 1]
+Oportunidade: Pessoa Engenheira de Dados - Senior
+
+Sobre a vaga
+PESSOA ENGENHEIRA DE DADOS - SENIOR
+Sobre a Monuv:
+Prazer, nós somos a MONUV e existimos para impulsionar um ecossistema de segurança mais inovador e justo, garantindo tranquilidade para viver.
+Provavelmente vai ser a primeira vez que você vai entrar em contato com uma Empresa Tech que possui uma vontade IMENSA de revolucionar o setor de segurança no nosso país. Isso mesmo que você leu, de SEGURANÇA!
+A segurança em geral no mundo vem sendo revolucionada pelo uso de câmeras, mas ainda há um caminho muito longo para tornar essas câmeras eficientes e com a capacidade de entregar todo potencial de proteção que elas têm.
+E, é para isso que a MONUV nasceu, aplicamos o que há de melhor da Inteligência Artificial transformando qualquer câmera em um verdadeiro dispositivo de segurança, garantindo armazenamento seguro, e aplicação de Inteligência Artificial com a confiança de que estaremos protegidos.
+Se assim como nós você acha que podemos revolucionar a segurança, se liga nessa oportunidade
+
+Sobre a Vaga:
+Objetivo da Posição: 
+Empregar habilidades analíticas avançadas na construção de estruturas de dados robustas bem como desenvolver modelos de análise quantitativa, e colaborar com equipes multidisciplinares para otimizar decisões e processos baseados em dados.
+São atividades da posição:
+Coleta, organização e limpeza e preparação de dados para análise.
+Desenvolvimento e manutenção de pipelines de dados.
+Análise exploratória de dados para identificar padrões, tendências e insights, sempre como foco no entendimento do negócio.
+Construção de visualizações de dados claras e informativas.
+Pesquisa e adoção de novas técnicas e tecnologias para aprimorar a análise de dados.
+Gestão e consolidação de políticas de governança de dados.
+
+Quais são os pré-requisitos:
+Cloud (AWS - EC2, RDS, Redshift, Glue, Dynamo)
+Python, SQL, Bash
+Stacks de tratamento e ciência de dados (Pandas, Spark, Jupiter, Scikit)
+Ferramentas de visualização de dados (Grafana, Quicksight)
+Comunicação, capacidade de apresentar conceitos complexos de forma simples
+Interesse no desenvolvimento de pessoas
+Forte pensamento cético e viés acadêmico
+Boa capacidade analítica
+Bom relacionamento interpessoal
+O que seria bacana se você tivesse:
+Git e CI/CD
+RESTful APIs
+Linux e Redes
+Inglês Avançado
+Noções de infraestrutura em nuvem - (Terraform, Kubernetes, AWS Auto Scaling)
+Já sobre nossa cultura esperamos que todos os MONUVERS possam seguir nossos princípios:
+Erro não é o oposto de sucesso. O erro faz parte do sucesso.,
+Não sou eu contra você, somos nós juntos contra o problema.,
+Resolverei os problemas da forma mais simples possível.
+
+Por aqui você vai encontrar: 
+Atuação 100% Remoto, você pode trabalhar de onde se sentir melhor;
+Day off de aniversário, no seu aniversário de empresa e se tiver filho(a) esse dia você também ganha uma day off para comemorar;
+Licença maternidade e paternidade estendida;
+Ambiente leve, descontraído e cheio de oportunidades;
+Nossos Benefícios: Plano de Saúde e Odontológico, Seguro de Vida, Vale Alimentação e Refeição Flexível, Auxilio Home Office, Totalpass.
+
+E aí, topa esse desafio ? Bora fazer parte dessa revolução?
+
+Na Monuv, acreditamos na força da diversidade e na importância de criar um ambiente de trabalho inclusivo onde todas as pessoas se sintam valorizadas, respeitadas e capacitadas a contribuir de maneira significativa. Estamos comprometidos em ser tolerantes com todos, mas seremos totalmente intolerantes com qualquer forma de desrespeito por raça, aparência, cor, deficiência, gênero, crença, nível de conhecimento ou preconceito de qualquer natureza.
+Nossa empresa é composta por indivíduos únicos, com experiências e perspectivas diversas que enriquecem nosso ambiente. Queremos que todos se sintam livres para serem autênticos, expressar suas opiniões e se desenvolverem plenamente, independentemente de suas diferenças.
+
+Nossas Redes:
+Site: https://monuv.com.br/
+Linkedin: https://www.linkedin.com/company/monuv/mycompany/
+Instagram: https://www.instagram.com/monuvbrasil/
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Job Title: Senior Data Engineer
+Location: Rio de Janeiro (Hybrid)
+
+
+Overview:
+We are seeking a Senior Data Engineer to join our dynamic team. As a Senior Data Engineer, you will play a critical role in our data-driven journey, leading the development and maintenance of robust data infrastructure that supports risk and credit analysis, among other key areas. This position requires a deep understanding of data engineering practices, experience with Microsoft tools, as well as the ability to mentor and guide junior engineers.
+
+Key Responsibilities:
+
+Data Infrastructure Development: Development of foundational datasets for risk and credit analysis, including the collection and structuring of data from diverse sources.
+Cloud Migration: Successfully manage the migration of data across various cloud vendors, including Microsoft Azure, ensuring data consistency and availability.
+Data Quality Management: Design and implement a comprehensive data quality framework, ensuring the reliability of data across all pipelines.
+Mentorship: Provide mentorship to the analysts, and promote best practices in coding, data management, and automation.
+Automation and Efficiency: Automate data entry processes and other manual workflows, improving efficiency and saving valuable time.
+Pipeline Management: Engineer and maintain data pipelines capable of processing large volumes of data daily, optimizing data flow and system performance.
+Collaboration: Work closely with cross-functional teams, including data scientists, analysts, and business stakeholders, to ensure data assets meet business requirements.
+
+Skills & Qualifications:
+
+Technical Expertise: Proficiency in Python, SQL, Spark, and ETL processes. Experience with Delta, Databricks, Docker, and Apache Airflow is highly valued.
+Microsoft Tools: Strong experience with Microsoft Azure, Power BI, and SQL Server, with a proven track record of integrating and managing data within the Microsoft ecosystem.
+Data Modeling: Expertise in data modeling and handling unstructured data.
+Attention to Detail: Keen eye for detail, ensuring the accuracy and integrity of data.
+Workflow Management: Experience in managing data operations and workflow, with a focus on automation and dispute resolution.
+Communication Skills: Fluent in English, with the ability to articulate complex technical concepts to non-technical stakeholders.
+
+
+Experience Required:
+Minimum of 5 years of experience in data engineering roles.
+Prior experience working with Microsoft tools such as Azure, Power BI, and SQL Server.
+
+Why Join Us?
+
+Be part of an innovative quantification team.
+Work in a dynamic environment where your contributions will directly impact the business.
+
+
+Application Process:
+
+If you are a Senior Data Engineer looking to make a significant impact and grow your career in a forward-thinking company, we would love to hear from you. Apply today to join our team!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Scientist - Remote Work
+
+Sobre a vaga
+At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.
+
+Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.
+
+When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.
+
+Data Scientist at BairesDev
+
+We are looking for a Data Scientist to join the Talent Acquisition team and use data science and machine learning techniques to develop, deliver, and maintain data products. This is an excellent opportunity to be a key member of our Data Science team and position yourself for unique career growth opportunities.
+
+What You’ll Do:
+
+- Collaborate with product owners to develop data products and services.
+- Tell stories with data in a compelling manner for business-oriented people.
+- Design and serve machine-learning and deep-learning applications.
+- Design experiments with solid research methods and proper statistical analysis.
+
+What we are looking for:
+
+- 4+ years of experience in Data Science and Machine Learning.
+- Hands-on experience deploying machine learning models through REST APIs.
+- Proficiency in Python or R oriented to Data Science.
+- Experience with SQL databases for data analysis.
+- Familiarity with version control systems, such as Git.
+- Advanced level of English.
+
+How we do make your work (and your life) easier:
+
+- 100% remote work (from anywhere).
+- Excellent compensation in USD or your local currency if preferred
+- Hardware and software setup for you to work from home.
+- Flexible hours: create your own schedule.
+- Paid parental leaves, vacations, and national holidays.
+- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.
+- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.
+
+Apply now and become part of a global team where your unique talents can truly thrive!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates in Latin America who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+Responsibilities
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java, or Groovy, or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice to have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on either SQL or NoSQL technologies
+ If you have experience with NoSQL technologies, then we would be looking for hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+If you have experience with SQL technologies, we need you to have in-depth experience building and maintaining services with SQL databases.
+You can start as soon as possible
+You are located in Latin America
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Experience with Amazon Athena
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+(Client) Hiring Manager interview (30 min)
+(Client) Design & development competency check interview (about 45 minutes)
+(Client) Final interview (30 min)
+
+
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+ 
+What we offer
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates in Latin America who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+Responsibilities
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java, or Groovy, or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice to have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on either SQL or NoSQL technologies
+ If you have experience with NoSQL technologies, then we would be looking for hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+If you have experience with SQL technologies, we need you to have in-depth experience building and maintaining services with SQL databases.
+You can start as soon as possible
+You are located in Latin America
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Experience with Amazon Athena
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+(Client) Hiring Manager interview (30 min)
+(Client) Design & development competency check interview (about 45 minutes)
+(Client) Final interview (30 min)
+
+
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+ 
+What we offer
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------

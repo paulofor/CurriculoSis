@@ -1,0 +1,292 @@
+[Oportunidade 1]
+Oportunidade: Pessoa Engenheira de Machine Learning Sênior ou Especialista
+
+Sobre a vaga
+Por que ser zupper?
+
+Vamos direto ao ponto: o que oferecemos é um ambiente de crescimento exponencial. Mais do que palavras bonitas, isso significa que oferecemos todas as oportunidades para que você possa protagonizar sua evolução e todo o suporte necessário.
+
+Como protagonismo sem apoio não gera desenvolvimento acelerado, além de oportunidades, cada zupper tem um plano de desenvolvimento de carreira, acompanhamento próximo por uma pessoa do time de People e acesso a uma plataforma proprietária que tangibiliza o sentimento de progresso.
+
+E por que fazemos tudo isso?
+
+Porque acreditamos que somente um ambiente de crescimento exponencial vai nos fazer chegar aonde queremos: usar a tecnologia para transformar a vida de pessoas, potencializar talentos desperdiçados por falta de acesso e posicionar regiões desprivilegiadas como pólos de tecnologia de qualidade.
+
+Ah, e não podemos esquecer: na Zup acreditamos na ! Com isso, zuppers podem trabalhar de onde quiserem, seja home office, em nossos escritórios ou em um modelo híbrido
+
+Como Será Seu Dia a Dia
+
+Apoiar no desenho, construção e evolução das esteiras de deploy de modelos de Machine Learning.
+Desenvolver arquiteturas robustas e escaláveis sempre tendo em foco os conceitos de MLOps.
+Desenvolver ferramentas que auxiliem cientistas de dados em suas funções diárias.
+Garantir implantação e operação dos modelos de Machine Learning.
+Apoiar no monitoramento dos modelos de Machine Learning.
+Colaborar com equipes multidisciplinares (Engenharia de Machine Learning, Engenharia de Dados, DevOps, Cientistas de Dados) para entender as necessidades e desenvolver/propor soluções eficazes.
+Ser referência técnica para o time, ajudando a capacitar outros engenheiros.
+
+Pré-requisitos
+
+Experiência com linguagem de programação Python.
+Conhecimentos em nuvem, preferencialmente AWS.
+Conhecimento em ferramentas e bibliotecas de ML, como: Scikit-learn, MLlib, TensorFlow, etc.
+Experiência na construção e manutenção de ferramentas e pipelines MLOps para desenvolvimento, implantação e automação de modelos.
+Conhecimentos em sistema de controle de versões.
+Habilidade com Infra as Code (Terraform).
+
+Diferenciais
+
+Pós-graduação (Ex.: Mestrado, MBA, Especialização) é um diferencial.
+Conhecimento em Docker/Kubernetes.
+Experiência e construção de APIs.
+Conhecimento em CI/CD.
+Vivência com métodos ágeis de desenvolvimento.
+Conhecimento com soluções de observabilidade.
+Conhecimentos em processamento distribuído.
+
+O que te tornaria Especialista
+
+Caso você tenha cinco anos de experiência em desenvolvimento utilizando as tecnologias acima, provavelmente você se encaixa como Especialista aqui na Zup.
+
+O que te oferecemos
+
+Aqui não é só a sua carreira que importa, queremos que você tenha saúde e bem estar físico e mental para a melhor jornada de experiência profissional e pessoal da sua vida.
+
+Carreira acelerada
+
+Trabalhe de onde quiser 
+Horários flexíveis
+Auxílio Educação para cursos
+Ferramenta própria e exclusiva de desenvolvimento de carreira
+Site interno de carreira
+Frameworks para liderança: treinamentos e ferramentas
+Feedbacks 1o1 semanais
+Guildas internas e outros grupos de estudo e interesse
+
+Saúde e Bem-estar
+
+Gympass
+Plano saúde
+Plano odontológico
+PrimeCare: assistência médica disponível 24 por 7
+Terapia online gratuita
+CAZ – Central de Atendimento aos zuppers 
+Licença maternidade de 180 dias
+Licença paternidade de 20 dias
+
+Conforto financeiro
+
+Vale Refeição e Alimentação
+Seguro de vida
+Vale transporte
+Subsídio para home office 
+Auxílio creche
+Auxílio Plano telefônico 
+Participação em Lucros e Resultado (PLR)
+Programa de indicação
+
+Se você é uma pessoa apaixonada por Machine Learning e quer fazer parte de uma equipe que valoriza a inovação e a excelência técnica, venha se aventurar conosco!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Engenheira de Dados Trabalho Remoto Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+PcDs são sempre bem-vindas.
+
+Buscamos pessoas apaixonadas por tecnologia. Alguém que se motive por desafios e atue com autonomia. Precisa gostar de trabalhar em equipe e possuir espírito colaborativo.
+
+A posição oferece uma oportunidade única de trabalhar com grandes volumes de dados e de contribuir para a construção de soluções de dados que impactam diretamente a qualidade dos nossos produtos. Para isso, os candidatos precisam ter mente analítica para resolver problemas, proatividade e gostar muito de trabalhar com dados.
+
+Responsabilidades e atribuições
+
+Limpar, organizar e armazenar dados de maneira eficiente;
+Propor e implementar soluções baseadas nos dados extraídos;
+Analisar dados para identificar tendências, padrões e oportunidades de melhoria.
+
+Requisitos e qualificações
+
+Formação superior em Ciência/Engenharia da Computação, Engenharia de dados ou similar;
+Experiência com banco de dados; 
+Experiência com Python e Java;
+Inglês avançado para escrita e conversação;
+Boa comunicação e capacidade de trabalhar em equipe.
+
+Desejável
+
+Conhecimento em big data;
+Conhecimento em aplicações de modelos de ML/IA para classificação e análise de dados;
+Familiaridade com frameworks de processamento de dados.
+
+Informações adicionais
+
+“O Instituto de Pesquisas Eldorado valoriza um ambiente diversificado e se orgulha de ser uma organização que oferece oportunidades de forma igualitária. Todos que se candidatarem serão avaliados, independentemente de raça, deficiência, cor, religião, sexo, identidade ou expressão de gênero, orientação sexual, nacionalidade ou idade”.
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Entrevista com área demandante2Entrevista com área demandante
+Etapa 3: Entrevista de RH3Entrevista de RH
+Etapa 4: Contratação4Contratação
+
+Nosso trabalho transforma o mundo, o futuro e as pessoas.
+
+Impulsione a sua carreira em um dos maiores centros de P&D do país. Há 25 anos, desenvolvemos soluções sob medida em software e hardware para diversos segmentos em parceria com grandes players globais da área de tecnologia. Atuamos também com testes de laboratório, consultoria de inovação, capacitação, treinamento e certificação de produtos para telecomunicações.
+
+É a sua chance de adquirir novas experiências e aplicar seu conhecimento em projetos relevantes que impactam positivamente a vida das pessoas.
+
+Somos mais de 1.600 profissionais e reconhecidos como um dos Lugares Incríveis para se Trabalhar pelo prêmio FIA/UOL. 
+Estamos em grandes polos tecnológicos do país, com unidades em Brasília, Campinas, Manaus e Porto Alegre. 
+Temos infraestrutura completa de laboratórios, especialmente o de microeletrônica, que é referência em todo o país.
+Somos o único membro da América Latina da associação europeia EARTO. 
+Temos expertise em tecnologias como inteligência artificial, visão computacional, computação gráfica, realidade virtual e aumentada, assistentes virtuais e interface por voz, big data e analytics, openRAN, sistemas embarcados, IoT e blockchain.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados
+
+Sobre a vaga
+Quais serão suas responsabilidades?
+Desenvolver componentes para ingestão e processamentos de dados em cima de plataforma em GCP;
+Análise e throubleshooting dos ambientes que compreendem a plataforma de dados;
+Desenho e implantação de novas arquiteturas para disponibilização de dados;
+Atuar na frente da área de dados, apoiando, direcionando e capacitando a equipe atual, para desenhar e implementar as melhores soluções;
+ Desenvolver pipeline ingestão de dados dos sistemas origem para as camadas de entrada no data lake (raw/trusted);
+Desenvolver pipeline de transformação do dado para atender às necessidades de negócio;Desenvolvimento de pipelines em batch e streaming (NRT);
+Automatizar pipeline para execução automática de acordo com os requisitos de negócio;
+Criação de controles para reexecução/retomada do pipeline em casos de erro;
+Analisar os dados e ajudar nas propostas de solução para contribuir com as áreas solicitantes a termos um produto de Dados ainda melhor;
+
+O que é necessário para participar desse processo seletivo?
+Bancos de dados transacional (Oracle, Sybase, SQL Server, MySQL);
+Bancos de dados analítico (GCP Big Query);
+Integração de dados/sistemas;
+GCP Dataflow (Apache Beam);
+GCP Composer (Apache Airflow);
+Conhecimento em Cloud GCP;
+Conhecimento em Spark (Databricks);
+Armazenamento de dados (Google Cloud Storage);
+Modelagem de dados; -> Modelagem de dados(Modelagem Dimensional: star schema e snowflake)
+Conhecimento em GIT;
+Conhecimento em Python;
+
+Diferenciais:
+Conhecimento em cloud Azure(Data Factory e Azure Synapse Analytics);
+Conhecimento em Java (springboot).
+
+Por que fazer parte do time DBC Company?
+• Somos a 17ª melhor empresa para trabalhar do Brasil e a 4ª melhor empresa para trabalhar no Rio Grande do Sul, segundo o GPTW 2023;
+• Todos os profissionais que estão alocados em clientes e/ou projetos são acompanhados por Gestor da DBC e também por Líder de Smartsourcing;
+• A DBC oferece incentivo a certificações a todos os colaboradores.
+
+O que é importante saber?
+• Nosso time promove um ambiente seguro para todos os profissionais independente de sua etnia, crença religiosa, orientação sexual, identidade de gênero, deficiência, idade, etc.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Responsabilidades: 
+• Produzir soluções técnicas simples e eficientes, com base no backlog de produtos priorizado e nos padrões de qualidade determinados pela F1RST e pelo líder técnico
+• Assegurar a qualidade do produto, aplicando práticas de desenvolvimento ágil
+• Realizar os testes necessários para garantir a qualidade da entrega
+• Aprendizado contínuo em tópicos relacionados à excelência técnica e nos produtos da Contabeis e Fiscais atrelado a BD
+
+Requisitos técnicos:
+• Pyspark
+• Spark SQL
+• PL/SQL
+• Hadoop (Hive, Impala)
+• Python
+• PaaS Azure: Data Lake Storage, Data Factory
+• Databricks
+• Delta Lake
+• GIT
+
+Habilidades Comportamentais e Soft Skills: 
+• Profissional com no mínimo 5 anos de experiência no mercado comprovados
+• Excelente raciocínio lógico e senso crítico
+• Boa comunicação verbal, não verbal e escrita
+• Habilidade em segmentar problemas complexos em problemas menores
+• Habilidade para liderar pequenas iniciativas dentro da squad
+• Proatividade
+• Senso de equipe
+
+Diferenciais: 
+• Experiência comprovada em arquitetura de sistemas distribuídos
+• Control+M
+• Conhecimento nos serviços/padrões arquiteturais da Azure / AWS
+• Shell Script
+• Sonar
+• Fortify
+
+Local de trabalho: Interlagos, híbrido (3 vezes presencial, 2 vezes remoto).
+Tipo de Contrato: CLT mais benefícios Softtek.
+
+Diversidade e inclusão
+
+A Softtek valoriza a diversidade e inclusão em sua força de trabalho. A empresa tem uma equipe global com pessoas de diferentes origens e culturas, o que torna o ambiente de trabalho mais rico e interessante.
+
+Essa oportunidade é preferencialmente para PcD, portanto, todos os profissionais com deficiência podem se candidatar.
+
+Para isso, lembre-se de atualizar seu currículo com o número do CID e com um breve descritivo de sua deficiência para facilitar o processo de recrutamento e seleção.
+
+
+
+Os Softtekians são seres humanos talentosos e autodeterminados que se consideram pessoas loucamente incríveis! Venha fazer parte desse time!!!
+
+
+
+Quer saber mais? Acesse:
+
+https://www.softtek.com/pt/transcend/diversidade-e-inclusao
+
+
+
+Sobre a Softtek:
+
+Fundada em 1982, a Softtek é uma fornecedora global de soluções de TI orientadas a processos com 30 escritórios na América do Norte, América Latina, Europa e Ásia. Com 15 centros de entrega global nos EUA, México, China, Brasil, Argentina, Costa Rica, Espanha, Hungria e Índia, a Softtek ajuda a melhorar e produzir resultados previsíveis para corporações de primeira linha em mais de 20 países. A Softtek é a criadora e líder da indústria nearshore.
+
+
+
+Para obter mais informações sobre o que fazemos, quem somos e oportunidades de carreira, visite www.softtek.com.
+
+Siga-nos @Softtek no Twitter e seja nosso fã no Facebook www.facebook.com/softtek.
+
+
+
+Caso se candidate para essa vaga seus dados ficarão armazenados em nosso banco de dados, atendendo a privacidade de dados conforme à Lei Geral de Proteção de Dados, lei nº 13.709/2018.
+
+Caso não tenha interesse em manter suas informações pessoais em nosso banco de dados, solicitamos nos encaminhar um e-mail para privacid.candidato@softtek.com.
+
+Dúvidas também podem ser enviadas ao e-mail privacid.candidato@softtek.com e dpo.br@softtek.com.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Estamos buscando um Líder de Engenharia de Dados para impulsionar nossa equipe em crescimento rápido.
+Sobre nós: Somos uma startup dinâmica no setor de saúde, pioneira em uma plataforma revolucionária de Analytics Self-service potencializada com LLM. Nosso ambiente é ágil e estimulante, ideal para mentes criativas e empreendedoras.
+O que você fará:
+Atuar no time de Consultoria do nosso principal cliente (um dos líderes globais do mercado de equipamentos médicos) liderando o time técnico de engenharia de dados na condução de projetos e data analytics
+Ser o responsável pelo Data Lake LATAM do cliente
+Garantir o desdobramento e troca de conhecimento entre as times globais e locais, promovendo sinergia e alinhamento entre os times.
+
+Qualificações desejadas:
+Graduação em Tecnologia da Informação, Ciência da Computação, Engenharia ou áreas relacionadas.
+Mínimo de 5 anos de experiência com engenharia de dados e programação.
+Alta proficiência em linguagens como Python e SQL
+Conhecimento em ferramentas como hadoop, hive, spark, databricks, snowflake, nifi, Glue, streamsets
+Habilidade em liderança técnica, priorização de tarefas e cumprimento de prazos.
+Familiaridade com método Ágil
+Excelentes habilidades de comunicação e trabalho em equipe.
+Inglês e espanhol (fluente)
+Conhecimento em SAP será considerado um diferencial.
+
+O que oferecemos:
+Oportunidade de impactar diretamente os resultados de uma das líderes globais do mercado de equipamentos médicos
+Clima colaborativo, dinâmico e uma equipe enxuta e ágil
+Modelo full remoto, trabalhe de onde você quiser!
+Contratação PJ, com direito à licença remunerada após 6 meses
+Benefício Saúde e Bem Estar
+Se você é motivado, proativo e apaixonado por tecnologia, junte-se a nós e ajude a moldar o futuro da análise de dados na saúde!
+-----------------------------------------------------------------------------------

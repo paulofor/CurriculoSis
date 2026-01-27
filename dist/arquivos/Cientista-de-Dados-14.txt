@@ -1,0 +1,314 @@
+[Oportunidade 1]
+Oportunidade: Senior/Master Data Developer - Python and AWS, Brazil
+
+Sobre a vaga
+We partner with the world’s most valuable brands to build digital solutions that transform businesses. As a digital native, we bring a 29-year track record of accelerating business impact through complete and scalable digital solutions. With a global presence of 6,000+ professionals in strategy, research, data science, design and engineering, we unlock top-line growth, improve customer experience, and drive operational efficiency.
+
+General Description
+At CI&T, we're growing fast and looking for a talented, motivated Data Developer to join our team. You'll play a crucial role in designing, developing, and maintaining scalable data pipelines and infrastructure to drive data analytics and machine learning solutions for our global clients.
+Responsibilities
+- Design, develop, and maintain scalable data pipelines and infrastructure.
+- Collaborate with cross-functional teams to ensure data integrity and usability.
+- Document data workflows, processes, and architectures. 
+- Integrate data quality into data pipelines.
+- Develop CI/CD pipelines for ETL processes.
+- Implement dimensional data modeling.
+- Implement Data Lake/Data Warehouse solutions.
+- Implement Data Governance practices (catalog, lineage, etc).
+- Provide technical support and troubleshooting for data-related issues. 
+- Apply FinOps principles to optimize data costs.
+ Requirements for this challenge:
+- Bachelor’s degree in Computer Science, Information Technology, or a related field. 
+- Sólid experience in data development or a related role. 
+- Excellent English communication skills (reading, writing, and speaking).
+- Proven experience working with modern data engineering stacks in AWS.
+- Strong knowledge of SQL, Python and Spark.
+- Knowledge of CI/CD pipelines for ETL processes.
+Nice to Have:
+- Experience with Databricks platform is a nice-to-have for this position.
+- Databricks certification is a plus.
+- Experience working with international clients.
+- Experience working with Azure.
+- Expertise in dimensional data modeling.
+- Familiarity with Data Quality practices.
+- Familiarity with Data Governance using Unity Catalog.
+- Experience with Data Lake/Data Warehouse implementations.
+- Knowledge of FinOps as applied to the data space.
+Our benefits:
+- Health plan and dental plan;
+- Meal allowances;
+- Childcare assistance;
+- Extended parental leave;
+- Gympass
+- Annual profit-sharing distribution;
+- Life insurance;
+- Partnership with an online mental health platform;
+- CI&T University;
+- Discount Club;
+- Support Program: legal; financial; physiotherapy; psychological guidance; nutritionist and more;
+- Pregnancy course and responsible parenthood;
+- Partnership with online course platforms
+- Platform for language learning;
+- And many others.
+#MidSenior
+
+
+CI&T is an equal-opportunity employer. We celebrate and appreciate the diversity of our CI&Ters’ identities and lived experiences. We are committed to building, promoting, and retaining a diverse, inclusive, and equitable company and culture focused on creating a better tomorrow.
+At CI&T, we recognize that innovation and transformation only happen in diverse, inclusive, and safe work environments. Our teams are most impactful when people from all backgrounds and experiences collaborate to share, create, and hear ideas.
+Before applying for our opportunities take a look at Conflict of Interest Policy on website.
+We strongly encourage candidates from diverse and underrepresented communities to apply for our vacancies.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: DATA SCIENTIST III
+
+Sobre a vaga
+req58095 - DATA SCIENTIST III
+
+ Sobre o Bradesco 
+
+Acreditamos que é possível desafiar o futuro com pessoas e tecnologia, e reconhecemos nas pessoas, especialmente, um dos mais importantes motivos de nosso sucesso. Assim, proporcionamos aos nossos colaboradores um ambiente seguro, diverso e inclusivo, que inspira confiança, promove e estimula o desenvolvimento pessoal e profissional.
+
+Trazendo um pouco mais da nossa história de contribuição e impacto na sociedade, com pioneirismo e inovação, o Bradesco surgiu com o propósito de democratizar o acesso aos serviços bancários no Brasil. Nesses 81 anos, sempre ao lado dos brasileiros, nos tornamos uma das maiores Organizações do país, formada por empresas e fundações que oferecem produtos e serviços que vão de soluções financeiras a seguros, saúde e educação.
+
+E estamos sempre em busca de pessoas dispostas a fazer a diferença na vida de milhões de br asileiros, contribuindo para o desenvolvimento da sociedade.
+
+ Responsabilidades e atribuições 
+
+O que é o nosso time de Controle Integrado de Riscos?
+
+O objetivo é avaliar e gerir os riscos da organização de forma estratégica e holística, salvaguardando os interesses dos stakeholders, a reputação e a marca da organização e potencializando o funcionamento das demais áreas de riscos na organização.
+
+Modelo de trabalho : Híbrido – 3x presenciais e 2x remoto
+
+Unidade: Osasco
+
+ Como será seu dia a dia? 
+
+O Data Scientist garantirá que as áreas de risco se comuniquem de forma clara e participará na gestão da mudança em relação à visão de riscos, conforme as responsabilidades abaixo:
+
+
+ Construir e suportar modelos de machine learning/deep learning com foco em identificar perfis, padrões e comportamento de clientes para gerar indicadores financeiros do negócio
+ Aplicar conhecimentos estatísticos, de otimização, analíticos e/ou de machine learning em insights e hipóteses
+ Mapear necessidades das áreas de negócios e riscos, avaliar necessidade de dados, construir códigos analíticos e acompanhar a implementação de análises
+ Comunicar os resultados por meio de apresentações executivas e relatórios
+ Trabalhar em parceria com os times de negócio, engenheiros de dados e times de tecnologia para desenvolvimento e deploy de solução de machine learning
+ Ser referência técnica para o time em assuntos de dados e modelagem, qualificando a discussão com referências cientificas e metodológicas
+
+
+ Requisitos e Qualificações 
+
+O que você precisa ter ou saber?
+
+
+ Engenharias, Matemática, Estatística, Economia e correlatas 
+ Capacidade de manipular grandes bases de dados realizando todo o processo end to end de ETL 
+ Conhecimento avançado em Python e SQL 
+ Vivência na construção de modelos de machine learning não-supervisionados de dados 
+ Conhecimento em SAS intermediário 
+ Capacidade analítica para transformar dados em insights acionáveis (data driven) 
+ Capacidade de construir storytelling e apresentações para comunicar os insights de forma clara e objetiva 
+ Certificação: Azure Data Scientist Associate 
+
+
+ Será considerado um diferencial: 
+
+
+ Certificação: AWS Certified Machine Learning Engineer - Associate Certificação: Google Cloud Professional Machine Learning Engineer 
+ Conhecimento em Photoshop, Canva, ou outras ferramentas de design 
+
+
+ O que nós oferecemos 
+
+No Bradesco valorizamos a saúde e bem-estar, oferecendo um extenso portfólio de benefícios as todas nossas pessoas colaboradoras.
+
+
+ PLR ou Bônus: Conforme a elegibilidade de cargo* 
+ Convênio Médico 
+ Convênio Odontológico 
+ Seguro de Vida 
+ Vale Alimentação 
+ Vale Refeição 
+ 13º Cesta Alimentação 
+ Total Pass 
+ Vale Transporte (adesão opcional) 
+ Descontos em produtos e serviços em empresas parceiras 
+ Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco) 
+ Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida 
+ Unibrad: Universidade Corporativa Bradesco 
+ Isenção de Tarifas: condições especiais em diversos produtos e serviços 
+ Auxílio Creche ou Babá 
+ Licença Paternidade estendida de 20 dias 
+ Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto 
+
+
+ Saiba mais sobre o Bradesco 
+
+Para mais informações sobre as nossas práticas de gestão de pessoas e indicadores, acesse bradescori.com.br/o-bradesco/capital-humano/ .
+
+Para mais informações institucionais, de negócios e financeiras, além das práticas e iniciativas de sustentabilidade, acesse bradescori.com.br/o-bradesco/relatorio-integrado/ .
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Sr.
+
+Sobre a vaga
+Descrição da Vaga
+
+Nascemos para democratizar os serviços bancários e de pagamentos!
+
+Pioneirismo, tecnologia, inovação e resultados sustentáveis são constantes da nossa trajetória. Lançamos a primeira maquininha de cartão sem aluguel do Brasil e ao longo dos anos seguimos evoluindo para ampliar nosso ecossistema de soluções financeiras.
+
+Somos o 2º maior banco digital do país e a fintech mais rentável do segmento, resultado do trabalho de um time formado por pessoas talentosas e criativas, que atuam com dedicação, paixão e vontade de fazer acontecer.
+
+Se você ama tecnologia, curte um bom desafio e acredita no poder da colaboração para fazer grandes entregas, o Pags é pra você! Então, confira essa oportunidade e vem pintar o Brasil de amarelo com a gente💛!
+
+No PagBank todas as pessoas são bem-vindas 😊, sem distinção de gênero, orientação sexual, etnia, cultura, religião, deficiência etc. O importante é você gostar de desafios, trabalhar bem em equipe, vivenciar nossa cultura e nossa missão de transformar e democratizar os serviços bancários e de pagamentos no Brasil.
+
+#VemProPags
+
+Responsibilities and assignments
+
+Desenvolver e sustentar plataforma para a gestão da governança de dados da organização.
+Participar da análise e definição de implementação de novas tecnologias.
+Participar na definição e implementação da arquitetura dos serviços mantidos pela equipe.
+Atuar em equipes de desenvolvimento que utilizam métodos ágeis.
+Avaliar novas tecnologias e frameworks de mercado para melhoria contínua de produtos e processos, realizando provas de conceito.
+Manter e desenvolver funcionalidades da plataforma de dados especificamente em produto para a gestão de metadados da organização.
+Construir de serviços, microsserviços e produtos que atendam às necessidades dos times de dados da organização, tanto do ponto de vista da governança dos dados quanto da engenharia dos dados.
+Construir de mecanismos que garantam a gestão, descoberta e sensibilização das mais diferentes fontes de dados disponíveis nos times de engenharia da organização.
+
+
+Requirements And Qualifications
+
+Superior em Ciência da Computação, Engenharias, Sistemas de Informação ou áreas correlatas.
+Experiência com controle de versionamento com Git.
+Experiência com linguagens de desenvolvimento Java e Python.
+Experiência com desenvolvimento utilizando ambiente AWS.
+Experiência com análise e desenvolvimento de sistemas, definições de arquitetura e orientação a objetos.
+Experiência com containerização de aplicações como Docker e Kubernetes.
+Experiência com soluções de observabilidade como New Relic, Grafana e Splunk.
+Experiência em Linux, Shell Script, YAML e Terraform.
+Conhecimento em arquitetura de microsserviços.
+
+
+
+Informações Adicionais
+
+Desejável:
+
+Conhecimento em design patterns e paradigmas de programação.
+Conhecimento em técnicas de Clean Code.
+Conhecimento no uso de MongoDB, MySQL ou qualquer outra tecnologia de banco.
+Conhecimento em JavaScript, React, CSS e HTML.
+Conhecimento em arquitetura de microsserviços.
+Conhecimento em ferramentas de mensageria como Kafka.
+Experiência com configuração e customização de ambientes com integração contínua e delivery contínuo utilizando o Jenkins.
+Conhecimento em elaboração de testes unitários e funcionais.
+Conhecimento em bancos de dados relacionais e não relacionais.
+Vivência com métodos ágeis de desenvolvimento: XP (principalmente com práticas de pair programming e TDD), Scrum e Kanban ou variações Lean.
+Experiência na implementação de padrões de governança de dados em ambientes operacionais e analíticos de dados.
+Experiência com produtos de governança de dados do setor como Apache Atlas será um diferencial.
+Experiência trabalhando com tecnologias de Big-Data - por exemplo, Hadoop, Spark, DataLakes, Data Warehouses.
+
+
+SOBRE NÓS
+
+Nascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.
+
+Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.
+
+Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia.
+
+Hoje somos um dos maiores bancos digitais do país e uma das fintechs mais rentáveis do segmento, resultado do trabalho de um time de mais de 7 mil profissionais.
+
+Aqui no Pags, a pesquisa e a inovação fazem parte do nosso DNA. Compartilhamos experiências com profissionais talentosos e criativos em um ambiente colaborativo, onde o aprendizado é garantido.
+
+Quer fazer parte dessa história? Confira nossas vagas e #VemProPags, o banco completo.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Scientist - WFN
+
+Sobre a vaga
+At ADP we are driven by your success. We engage your unique talents and perspectives. We welcome your ideas on how to do things differently and better. In your efforts to achieve, learn and grow, we support you all the way. If success motivates you, you belong at ADP.
+
+Technology at ADP. It's the foundation of the products and services that have made us a world-wide leader in workforce solutions. With us, you can combine technical skills and business acumen, to effectively consult as well as solve technical challenges. You have the opportunity to train on leading-edge technologies that continually redefine what's possible in our industry.
+
+Inspiring Innovation is a core value at ADP and in Information Technology we are committed to delivering it - for our clients and colleagues around the world.
+
+ADP Labs. Located In Porto Alegre/Brazil, Provides Software Development And Infrastructure For World-wide ADP Products, Working With Large Scale Initiatives Across Multiple Geographies, Including Brazil, United States And India. As An Internationally Distributed Software Development Team, We Are Hiring
+
+Senior Data Scientist
+
+Responsible for working with and understanding the various elements of data both internal and external to the organization and its clients. Explores the usage pattern and help with profiling the data from sources. Assists in mapping to a conforming model, work with business groups to help build that model, and eventually be expected to assist in governing the model. Works with product groups to understand existing data, and works towards cleansing and conforming that data. Understands the business logic behind the various HR calculations, and assists in creating new standard calculations for the organization. Finds relationships and analyze critical factors for use in predictive models. Guides the decisions on which BI objects to build based on the subject area, guide the best practices for data visualization, and help to dictate the standards for the delivery of information. Data Scientists are expected to be results-oriented, have knowledge of new and legacy technologies, have knowledge of the relevant platforms and environments, and be familiar with business process, functions and data within their domain to provide innovative, insightful, and secure solutions.
+
+This position requires knowledge and experience in own discipline; still acquiring higher-level knowledge and skills. Builds knowledge of the company, processes and customers. Solves a range of straightforward problems. Analyzes possible solutions using standard procedures. Receives a moderate level of guidance and direction.
+
+Requirements
+
+Education: Desired BA/BS degree -- or equivalent in education and experience.
+
+Experience: Desired a related experience in the area.
+
+Fuctional Knowledge: Requires expanded conceptual knowledge in own discipline and broadens capabilities.
+
+Business Expertise: Understands key business drivers; uses this understanding to accomplish own work.
+
+Leadership: Provides informal guidance to new team members.
+
+Problem Solving: Be able to solve problems in straightforward situations; analyzes possible solutions using technical experience and judgement and precedents.
+
+Interpersonal Skills: Communication - Explains complex information to others in straightforward situations.
+
+Diversity, Equity, Inclusion & Equal Employment Opportunity at ADP: ADP is committed to an inclusive, diverse and equitable workplace, and is further committed to providing equal employment opportunities regardless of any protected characteristic including: race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, protected veteran status or disability. Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.
+
+Ethics at ADP: ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Lead Data Engineer - Remote - Latin America
+
+Sobre a vaga
+About FullStack
+
+FullStack is the fastest-growing software consultancy in the Americas. We help organizations like Uber, GoDaddy, MGM, Siemens, and Stanford University build distributed software development teams, and deliver transformational digital solutions. As an employee-first company, we focus on hiring the most talented software designers and developers in the western hemisphere, by creating a positive, respectful, and supportive work environment where they can achieve their greatest potential.
+
+We’re Most Proud Of
+
+Offering life-changing career opportunities to talented software professionals across the Americas.
+Building highly-skilled software development teams for hundreds of the world’s greatest companies.
+Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+Our 4.5-star rating on GlassDoor.
+Our client Net Promoter Score of 68, twice the industry average.
+
+The Position
+
+We're Looking To Hire a Lead Data Engineer To Join Our Team. You'll Work With Our Incredible Clients In One Of Two Ways
+
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+What We Are Looking For
+
+6+ years of professional experience in Data Engineering.
+Proven experience as a Team Leader.
+Proven experience working with SnowFlake.
+Advanced English is required.
+Experience working on Agile/Scrum teams.
+Successful completion of a four-year college degree is required.
+Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.
+Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+Ability to consistently work 40 hours per week.
+
+What We Offer
+
+Competitive pay in your local currency.
+100% remote work.
+The ability to work with leading startups and Fortune 500 companies.
+English Classes.
+Virtual company events each month.
+Ample opportunity for career advancement.
+Continuing education opportunities.
+Depending on your location other benefits may apply.
+
+FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form, which can be provided upon request during our hiring and interview process.
+
+Learn more about our Applicants Privacy Notice.
+-----------------------------------------------------------------------------------

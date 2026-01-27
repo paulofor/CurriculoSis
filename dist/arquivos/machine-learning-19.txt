@@ -1,0 +1,287 @@
+[Oportunidade 1]
+Oportunidade: Fellow Data Scientist
+
+Sobre a vaga
+Sobre nós 
+
+Muitos acham que sonhamos grande demais, mas na XP Inc. acreditamos no impossível. Nossa história começou em 2001, com um pequeno escritório de agentes autônomos de investimentos em Porto Alegre e hoje somos um grande ecossistema de serviços financeiros, mídia e educação.
+
+Chegamos até aqui com a dedicação de equipes talentosas que tiveram garra, determinação, resiliência e, acima de tudo, ambição para fazer acontecer. Sabemos que o que nos trouxe até aqui, não é o mesmo que vai nos levar adiante, mas seguiremos juntos, transformando o mercado financeiro.
+
+ Nossos valores 
+
+ Foco no cliente: Somos obstinados em superar as expectativas dos nossos clientes, sempre colocando-os em primeiro lugar nas nossas decisões. 
+ Sonho grande: Miramos no impossível, acreditamos que ele pode se tornar realidade, e chegamos lá juntos, um passo de cada vez. 
+ Mente aberta: Nossa abertura para o novo e nossa capacidade de adaptação são o que nos fazem evoluir e melhorar sempre. 
+ Espírito empreendedor: Construímos o futuro com nossas próprias mãos com o mais alto nível de comprometimento e sentimento de dono. 
+
+Se identificou com a nossa cultura? Então embarque nesse foguete! 🚀
+
+>> Sobre a vaga
+
+Como cientista de dados, com apoio do centro de excelência de Data Science & Machine Learning, essa pessoa será responsável por construir produtos de dados para otimizar tomada de decisão na companhia, como modelos de classificação, otimização de heurísticas e análises estatísticas.
+
+Principais Responsabilidades
+
+Responsável por análises e soluções estatísticos e de machine learning, entendendo os fenômenos para transcrever em dados e variáveis, e desenvolvendo modelos preditivos e não supervisionados..
+
+>> Para esta vaga, é essencial:
+
+Conhecimento em Python.
+Experiência com modelos de Machine Learning e modelos estatísticos. 
+
+>> Você pode ter destaque se: 
+
+Pragmático, equilibrando qualidade e simplicidade, garantindo que estamos resolvendo problemas práticos e reais. 
+Se adaptar às mudanças e adversidades. 
+ Trabalhar bem em equipe, colaborando com time de entrega e capítulo de Data Science, aproveitando conhecimento e capacidade das pessoas em diferentes áreas da XP. 
+Mostrar proatividade, ownership e capacidade de buscar conhecimento. 
+Conhecimento em PySpark. 
+
+Saiba mais sobre nosso dia a dia no Instagram CLICANDO AQUI
+
+Confira nossas avaliações no Glassdoor CLICANDO AQUI
+
+“Se te oferecem um lugar em um foguete, não pergunte qual é o assento, apenas embarque.”
+
+Sheryl Sandberg
+
+Benefícios Que Oferecemos
+
+ Saúde e bem-estar: plano de saúde, plano odontológico, Gympass , Zenklub , VA, VR, New Value , seguro de vida. 
+ Maternidade e Paternidade: auxílio creche para pais e mães, licença maternidade de 6 meses, licença paternidade de 20 dias. 
+ Só na XP Inc.: assessoria de investimento e acesso a fundos de investimentos exclusivos. 
+
+ Jornada de trabalho com flexibilidade 
+
+O nosso modelo de trabalho varia de acordo com a função: preferencialmente presencial para frentes de negócio, predominantemente remoto para times de tecnologia e híbrido para as demais equipes. É importante ressaltar que todos os colaboradores precisam morar na localidade da vaga (nossa sede está localizada na cidade de São Paulo e é onde temos o maior número de posições), já que temos atividades que exigem a presença física para promover a colaboração e os rituais da nossa cultura. Esses encontros são organizados de acordo com as orientações dos líderes e as particularidades de cada rotina, para que nossos colaboradores possam exercer suas jornadas de trabalho com liberdade e autonomia.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Product Design - Pleno/Sênior (Remoto)
+
+Sobre a vaga
+A MB Labs é uma consultoria global em tecnologia especializada em desenvolvimento de sistemas e aplicações de alta qualidade. Fundada em 2013, a empresa tem crescido rapidamente, passando de uma startup para uma equipe de mais de 300 profissionais espalhados pelo Brasil. Nosso rápido crescimento é um motivador constante, tornando a MB Labs um lugar desafiador e empolgante para trabalhar, onde é possível alcançar suas ambições de carreira.
+
+Valorizamos a diversidade e inclusão em nossa equipe, avaliando todas as candidaturas sem discriminação de raça, gênero, orientação sexual, deficiência ou idade. Nosso objetivo é criar um ambiente de trabalho que proporcione oportunidades necessárias para que nossos funcionários possam crescer e alcançar seus objetivos pessoais e profissionais.
+ 
+Requisitos:
+Resiliência e habilidade para trabalhar diretamente com clientes, gerenciando expectativas e mantendo uma comunicação clara e eficaz.
+Proatividade na obtenção e compreensão das demandas dos clientes.
+Experiência sólida em design de produto em fintechs.
+Experiência com jornadas de pagamento (diferencial).
+Conhecimento avançado em Figma e Design System.
+Experiência em metodologias ágeis e design thinking.
+Capacidade de conduzir de maneira eficiente processos de product discovery.
+Compreensão das teorias e melhores práticas de design para sistemas web e mobile.
+Excelentes habilidades de comunicação verbal e escrita.
+Experiência na criação de wireframes, mockups e protótipos.
+Habilidade em realizar pesquisas de usuário e aplicar os insights obtidos.
+Forte entendimento dos princípios de UX e UI.
+
+Atividades e responsabilidades:
+Aplicar um pensamento estratégico que alia negócios e tecnologia, garantindo que as soluções de design atendam tanto às necessidades do usuário quanto aos objetivos do negócio.
+Entender e capturar pró-ativamente as demandas dos clientes.
+Trabalhar com ferramentas como Figma para criar e manter um design system organizado e eficaz.
+Conduzir dinâmicas de design utilizando metodologias ágeis, design thinking e product discovery.
+Conhecimento teórico em sistemas web e mobile para aplicação de design.
+Colaborar com equipes multidisciplinares para desenvolver produtos que encantem nossos usuários.
+Realizar pesquisas de usuário para entender necessidades e comportamentos.
+Criar wireframes, mockups e protótipos interativos para comunicar ideias de design.
+Garantir uma experiência de usuário (UX) intuitiva e agradável.
+Desenvolver interfaces de usuário (UI) visualmente atraentes e funcionais.
+Testar e iterar designs com base em feedback de usuários e stakeholders.
+
+Benefícios:
+Seguro de vida e contra acidentes
+Descanso remunerado (até 15 dias úteis após 1 ano de contrato)
+Horário Flexível, cumprindo 40 horas semanais
+Avaliação de PDI semestralmente
+Benefício Paternidade (5 dias) e Maternidade (3 meses)
+Vale Presente em seu aniversário
+Voucher em dias de Happy Hour
+Incentivo a certificação de tecnologia
+Palestras e treinamentos ministrados internamente
+Cursos e eventos pagos pela MB
+Acesso ilimitado ao MB Academy (Universidade Corporativa)
+Equipamento fornecido pela empresa
+Bônus indicação: Indique seus amigos e receba um bônus de R$1.000,00
+Programa Gympass
+Plano odontológico Uniodonto
+
+**VAGA PJ**
+https://www.talentow.com.br/vaga/739a211c-38fc-47fe-bab6-b6cc7e01dfa4
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro QA
+
+Sobre a vaga
+Macher Tecnologia is recruiting one hands-on Senior Quality Assurance Engineer to support one of its clients developing software technologies for the transportation industry.
+
+As the work will be performed globally, English (business / fluent) is a must-have. 
+
+The selected professional will join us at a remote position in Caxias do Sul, Porto Alegre or its vicinities. Only candidates from these locations will be considered. It is expected the candidate to come to Caxias do Sul factory a few times a month.
+
+This Senior QA Engineer position will be responsible for leading the quality and reliability of our client's cutting-edge mobile video management applications for Transit.
+
+Responsibilities:
+• Test Development: Craft detailed, comprehensive test plans and cases.
+
+• Automation: Implement tests using automated tools to enhance efficiency.
+
+• Defect Tracking: Document bugs and collaborate with developers for resolutions.
+
+• Performance Testing: Execute system-level testing for reliability and scalability.
+
+• Security Assurance: Assess and improve system security measures.
+
+• Documentation: Maintain precise records of testing phases and defects.
+
+• Process Improvement: Continually refine QA processes and methodologies.
+
+Required Qualifications:
+• Education: Bachelor’s or master’s degree in computer science/engineering or
+equivalent.
+• Experience: 7+ years in QA, with a focus on video management systems.
+• Skills:
+o Mastery of network protocols (TCP/IP, UDP, HTTP/HTTPS, RTSP).
+o Network configuration and troubleshooJng for video streaming.
+o Network security, VPNs, and firewall configurations.
+o Proficient in Automated Testing tools like Selenium, Appium, or custom frameworks.
+o Scripting for automation in Python, JavaScript, or Bash.
+o Performance & Security Testing:
+o Familiar with tools like JMeter or LoadRunner.
+o Knowledge of security testing practices and tools.
+o Settinng up E2E test environments including software applications and hardware e.g. cameras, DVRs, and networking equipment.
+o Troubleshooting and isolating issues across Hardware and Software
+
+Preferred Qualifications:
+o Experience with complex networks for video systems.
+o Mentorship of junior engineers in advanced testing techniques
+
+What We Offer?
+• CLT position, on-site
+• Health plan for employee + partner and children
+• Meal allowance
+• Life insurance
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados Sênior (Vaga Remota)
+
+Sobre a vaga
+Procuramos Uma Pessoa Que
+
+Tenha vontade de aprender coisas novas e crescer junto com a dti digital; 
+Seja focada e proativa; 
+Goste de trabalhar em equipe e se comunique bem; 
+Tenha facilidade em estabelecer relações interpessoais; 
+E que se identifique com a nossa cultura! 
+
+Responsabilidades
+
+Atuar na construção, manutenção e incrementos de um data lakehouse.
+Tranformação e processamento de dados massivos. 
+Suporte para analistas no preparo de fontes de dados
+Contato com desenvolvedores para entender e atuar em eventuais falhas de coleta de dados da aplicação
+Realizar testes ponta a ponta e ajustes através do conhecimento em Power BI
+
+Habilidades Essenciais
+
+Experiência em manipulação de conjunto de dados e modelagem; 
+Conhecimento prático em Spark, Python e SQL; 
+Experiência com Nuvem AWS ou Azure ou GCP e BigQuery; 
+Entendimento básico de Power BI 
+Experiência com Databricks 
+Conhecimento em data lakehouses ou data warehouses modernos
+
+Habilidades Que Farão Você Se Destacar
+
+Vivência em equipes com Metodologia Ágil e habilidades de liderança; 
+Possuir boa comunicação e colaboração com o cliente; 
+Gostar de resolver problemas e encarar desafios complexos; 
+ Experiência com construção, manutenção e incrementos de um datalake.
+
+Benefícios De Trabalhar Com a Dti
+
+Previdência Privada (Para cada real depositado pelo colaborador, limitado a 6% do salário, a DTI complementa com o mesmo valor); 
+Plano Odontológico; 
+Vale Refeição e/ou Vale alimentação (R$890/mês); 
+Plano de Saúde sem desconto para o colaborador e dependentes; 
+Auxílio home office de 120,00; 
+Parceria com SESC para desconto em acomodações e atividades de lazer; 
+Desconto em cursos de inglês com a Open English; 
+Reembolso de certificação; 
+Parceria com a PUC Minas: Disponibilizado aos crafters e aos seus dependentes (cônjuges e filhos) bolsa de 20% de desconto sobre as parcelas de graduação que são os cursos elegíveis e bolsa de 15% de desconto sobre as parcelas de pós-graduação latu senso (especialização e MBA), oferecidos pelo IEC e pela PUC Minas Virtual; 
+Desconto MBA USP/ESALQ: cursos Essential e MBA (pós-graduação lato sensu) distância e presencial; 
+Parceria com a PUC-RS: 10% de desconto em Cursos de Graduação online, MBA e Especialização (online e presencial), Idiomas e Certificações; 
+Parceria com FIAP: é disponibilizado aos crafters e aos seus dependentes (cônjuges e filhos) bolsa de 10% de desconto sobre as parcelas de graduação e colégio (FIAP School e Módulo) e 20% no valor das mensalidades dos cursos de MBA, Pós Tech ou SHIFT, nos formatos presencial e on-line; 
+Descontos em Farmácias-Drogasil e Droga Raia; 
+Ambiente descontraído, flexível e com feedbacks constantes; 
+Rotina com aprendizado constante, com Tech Shots, Rodas de Conversa e Knowledge Transfers. 
+
+E aí, se identificou com a nossa cultura? Então corre para se inscrever 😉
+
+Se o seu currículo for selecionado para a primeira fase do nosso processo seletivo, entraremos em contato, então fique atenta(o) ao seu e-mail (inclusive na pasta do spam) e telefone, ok? Caso seu currículo não seja triado, não enviamos feedback, mas você ficará no nosso banco de currículos e poderá se candidatar novamente em outro momento ;)
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Global Agro Data Science Senior Analyst
+
+Sobre a vaga
+Overview
+
+Are you ready to drive PepsiCo’s digital evolution and accelerate transformation across our global operations?
+
+As part of the Analytics stream of the Global Agro Digital Transformation initiative, this role will support the development of analytics use cases for Agro, mostly in the data exploration and visualization, and the modeling of agricultural processes (crop modeling, storage modeling). In this role, you will be in charge of generating insights from agronomic data, in order to provide recommendations to maximize the agricultural production of supplies in a sustainable way and with good quality.
+
+Responsibilities
+
+Your day to day with us
+
+ Generate insights from agronomic data, in order to provide recommendations to maximize the agricultural production of supplies in a sustainable way and with good quality.
+ Ensure data access for discovery and proper data is prepared for model usage partnering with data engineers.
+ Generate analytics pipelines and dashboards to refresh and share results for main use cases, including geo-spatial information, to enable stakeholders to have access to main results.
+ Support large-scale experimentation and build data-driven models.
+ Deploy reusable models and recommendations engines to different regions, with proper localization to its particularities.
+ Research in methodologies to fine tune the approach for every analytics use case, with the validation of leads.
+ Generate reusable packages or libraries, with proper documentation.
+
+Qualifications
+
+What you will need to succeed
+
+ 3+ years’ experience building solutions in the supply chain space.
+ 3+ years working in a team to deliver production level analytic solutions - Fluent in git (version control).
+ 3+ years’ experience in ETL and/or data wrangling techniques - Fluent in SQL syntaxis.
+ 3+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems.
+ 3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or pyspark development.
+ Experience using geo-spatial datasets.
+ Fluent in one Visualization tool, ideally powerBI.
+
+Additional qualifications that will make you stand out for this position
+
+ Experience with crop modeling is a plus.
+ Experience with climate/weather data is a plus.
+ Experience with remote sensing is a plus.
+ Understanding of Docker are a plus.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+* We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------

@@ -1,0 +1,263 @@
+[Oportunidade 1]
+Oportunidade: Cientista de dados
+
+Sobre a vaga
+Sobre a ZNIT: A ZNIT é uma plataforma SaaS dedicada à gestão de sustentabilidade corporativa, focando na medição e análise de emissões de carbono. Utilizamos inteligência artificial para automatizar a coleta e análise de dados, facilitando a jornada das empresas rumo ao NetZero.
+Responsabilidades:
+Desenvolver e implementar modelos de AI para análise de dados de emissões de carbono e impacto ambiental.
+Criar e manter APIs para integração de dados de diversas fontes, incluindo ERPs e outros sistemas corporativos.
+Automatizar processos de coleta e análise de dados utilizando técnicas de big data e data engineering.
+Projetar e gerenciar bancos de dados para armazenar e processar grandes volumes de dados relacionados a emissões de gases de efeito estufa.
+Colaborar com equipes multidisciplinares para traduzir requisitos de negócios em soluções técnicas.
+Monitorar e melhorar continuamente a precisão e eficiência dos modelos de IA e ML implementados.
+Requisitos:
+Experiência comprovada em ciência de dados, incluindo estatísticas, machine learning e programação (Python, R, etc.).
+Experencia com treinamento e implementação de modelos de LLM como: Llama, GPT, Gemini e etc...
+Experiência em ferramentas de automatização No-code como: Make, n8n ou Zapier
+Familiaridade com APIs e desenvolvimento de software para integração de dados.
+Experiência com automação de processos de dados e análise em grande escala.
+Conhecimento sólido em bancos de dados SQL e NoSQL.
+Capacidade de trabalhar de forma independente e em equipe, com habilidades de comunicação eficazes.
+Diferenciais:
+Experiência com sustentabilidade
+Experiência anterior em projetos de sustentabilidade ou cálculo de emissões de carbono é um diferencial.
+
+Modelo de Trabalho:
+Tipo de Contrato:
+Pessoa Jurídica (PJ)
+Modelo de Trabalho:
+Remoto: Trabalhe de qualquer lugar! Na ZNIT, valorizamos a flexibilidade e a qualidade de vida dos nossos colaboradores, permitindo que você desempenhe suas funções de forma remota.
+Remuneração:
+R$ 4.000 por mês
+Benefícios:
+Flexibilidade de horário: Trabalhe nos horários que mais se adequam à sua rotina.
+Ambiente de trabalho colaborativo e inovador: Faça parte de uma equipe apaixonada por tecnologia e sustentabilidade.
+Oportunidades de desenvolvimento profissional: Participe de treinamentos e workshops para aprimorar suas habilidades.
+Na ZNIT, buscamos profissionais apaixonados por tecnologia e sustentabilidade, prontos para enfrentar os desafios de um mercado em constante evolução e contribuir para a construção de um futuro mais sustentável. Se você é um cientista de dados motivado e quer fazer parte dessa transformação, queremos conhecer você!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenharia de Dados AWS - Sênior
+
+Sobre a vaga
+Sobre a vaga
+
+Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil.
+Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos.
+Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital.
+
+O que estamos buscando?
+
+Requisitos:
+Experiência com integração e processamento de dados
+Experiência na construção de processos ETL e fluxos de dados
+Sólidos conhecimentos com SQL
+Conhecimento com modelagem de dados multidimensional
+Conhecimento em Cloud Computing (AWS)
+Experiênncia com Athena, Glue e QuickSight
+
+Atuação 100% remota
+
+Descrição comportamental: 
+Procuramos uma pessoa que:
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+Tenha habilidades de resolução de problemas;
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+
+O que oferecemos:
+
+Cartão multi-benefícios – você escolhe como e onde utilizar;
+Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas;
+Programas de incentivo à Certificações;
+Horário de trabalho flexível;
+Plano personalizado de carreira e possibilidade de carreira internacional;
+Salários competitivos;
+Avaliação de desempenho anual com possibilidade de bonificação;
+Gympass;
+Previdência Privada;
+Auxílio-Creche;
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+
+Big enough to deliver – small enough to care.
+#VempraGFT
+#VamosVoarJuntos
+#ProudToBeGFT
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Grupo QuintoAndar | Tech Lead Manager - Data Science
+
+Sobre a vaga
+About QuintoAndar:
+
+QuintoAndar was born to do something very rewarding: open doors. We opened doors for technology to be part of living. And, through it, we simplify and reduce the bureaucracy of the experience of those looking for a new home. Thus, we became the most valuable proptech in Latin America, leading the real estate market in around six countries and more than 75 cities around the globe.
+
+The first steps in the international market have been taken since we acquired Grupo Navent, which is ranked number 1 in Mexico (Inmuebles24), Argentina (Zonaprop), Peru (Adondevivir & Urbania) and Ecuador (Plusvalia) - among others. And most recently, we launched Benvi, our international brand in Mexico, which comes with our residential rental product and service.
+
+We offer an end-to-end ecosystem to make life easier for those looking to rent or buy a home, sell a property and unlock a transaction. Think of zero paper or bureaucracy: everything happens on a single platform, with transparency and speed alongside incredible human support.
+
+We are currently valued at over $5.1 billion (August 2021) and continue to grow 4x year over year, breaking records.
+
+To make all this happen, we have more than 4,000 talented people, working with cutting-edge technology and best design practices to ensure a seamless experience throughout the sales and rental process, combined with smart financial products. Here you will work with the best professionals in the market, in an environment that breathes innovation, collaboration and high performance.
+
+To learn more about our history, visit https://quintoandar.group/en/.
+
+About Grupo QuintoAndar:
+
+We are Grupo QuintoAndar, the largest real estate ecosystem in Latin America. Guided by a shared purpose of helping people love where they live, we have a diverse portfolio of brands and solutions that cover all stages of the journey of living. We develop technologies and innovations that transform and leverage the whole living experience.
+
+About working at QuintoAndar:
+
+Possibility of learning;
+Opportunity to work in a team that seeks to use the best practices and tools in the market;
+Work in an informal environment with a horizontal structure;
+Being part of a team working on a high-impact project that affects the lives of thousands of people
+
+Location & Remote Work
+
+Our technology team works on the "remote-first" model, which means we are working from home with the possibility of living anywhere in Brazil.
+
+Language and location
+
+This job description is in English because the role requires communication with colleagues and stakeholders from around the world, and most of the tools and internal materials are in English.
+
+// A descrição desta vaga está em Inglês pois essa posição requer o idioma para comunicação com colegas e stakeholders que são de diferentes países, e a maior parte das ferramentas e materiais internos são em Inglês.
+
+About our selection process:
+
+It usually takes around 45/60 days (from your applying to the end) and follows this steps:
+
+Application Screening + CV Screening
+Tech Screening
+Interview with Recruiter
+Technical Interview with Data Science Teams
+Offer
+
+About The Area
+
+Data Science and Machine Learning at QuintoAndar
+
+Join our Data Science and Machine Learning team and become a key part of our product squads, delivering features that enrich our product and uphold the first-class experience we're known for. You'll collaborate with talented individuals from various disciplines: Data Scientists, Machine Learning Engineers, Software Engineers, Product Managers, Designers, and more.
+
+Get ready for the job of a lifetime — expect challenging tasks, high standards, meaningful conversations, and outstanding productivity.
+
+We tackle problems like intelligent search and recommendation systems, enhancing customer experiences with ML (such as automatic ticket routing and our GenAI-powered chatbot), pricing and liquidity models, credit, income, and collection models, and developing a platform that allows us to create and deploy these solutions.
+
+Tech Lead Manager Responsibilities At QuintoAndar
+
+As a Tech Lead Manager (TLM), you will balance hands-on technical work with managerial responsibilities, having the opportunity to make a significant impact through both technical excellence and strategic leadership.
+
+This role is designed for professionals who are passionate about deep technical challenges and team leadership, allowing you to grow by solving complex problems. You'll drive high-impact projects, mentor and guide team members, and play a crucial role in shaping the technical direction of our products.
+
+On top of being a great Data Scientist, we expect you to:
+
+Lead a small team of Data Scientists and Machine Learning Engineers to build solutions based on AI/ML. This position is focused on building Customer Experience solutions: Automatic ticket routing, ticket summarization, chatbots
+Be a technical reference to the team, including doing hands-on work when needed
+Shaping the technical direction of our products, translating business requirements into solutions
+Discuss business requirements with the Product Manager and other stakeholders
+
+Requirements
+
+What we are looking for:
+
+Experience leading teams and managing careers;
+Hands-on experience building and deploying ML solutions;
+Deep understanding of machine learning concepts: regression and classification, clustering, neural networks, feature selection, cross-validation, bias-variance tradeoff, model explainability, etc.;
+Strong knowledge of probability and statistics, including experimental design, bayesian modeling, optimization and causal inference for A/B experiments analysis
+Good understanding of the engineering challenges to deploy machine learning systems to production;
+Proficiency in Python or another major programming language;
+Excellent written and verbal communication skills;
+
+You'll stand out if you:
+
+Have solid experience with Deep Learning and NLP techniques;
+Have experience building solutions with LLMs (RAG, fine-tuning, etc);
+Have experience working at fast-growing startups
+
+Important:
+
+Our selection process starts with the application! If you are truly interested in joining our team, make sure to put in extra effort at this stage. We review all candidates individually and provide feedback even to those who do not proceed in the process;
+All communication is done via email, so be attentive to our messages and whitelist the @quintoandar.com.br domain to prevent our emails from going to spam
+
+Benefits
+
+Competitive salary package;
+Bonus;
+Meal allowance ("Flash Benefícios");
+Public transportation allowance*;
+Health plan;
+Dental plan (optional);
+Life insurance;
+Daycare subsidy;
+Subsidy to sports practicing (Gympass)
+Extended maternity and paternity leave;
+Reserved room for breast-feeding;
+Discount on our parking lot;
+Language learning support;
+Free transfer from Vila Madalena and Fradique Coutinho stations to the office;
+Free bike rack in our parking lot
+*Due to our new remote-work reality, that benefit may have changed. That will be informed to you throughout the hiring process. 
+
+Diversity & Inclusion at QuintoAndar
+
+At QuintoAndar, we believe diversity of perspectives and experiences guarantee a differentiated work environment, based on respect and valuing differences. Feel free to declare the information on the registration form. If you are not comfortable answering them, just choose the option "I prefer not to respond". This information helps us create an increasingly inclusive environment and it is used only for this purpose, it is confidential, and it will not impact your performance throughout the hiring process
+
+Data Protection Policy
+
+The data entered in the selection process form is confidential and stored in a secure environment. We take appropriate technical and administrative measures to protect your data.
+
+To exercise your rights over your personal data, such as access to data, treatment confirmation, data correction, anonymization, blocking or deletion, and other rights with QuintoAndar, contact us at quin.to/mensagem. To learn more about how we treat personal data at QuintoAndar access our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Especialista em CRM
+
+Sobre a vaga
+Atualmente, somos uma assessoria especializada em Lojas de iPhone, tendo clientes nos mais diversos estados do país. 
+
+Buscamos uma pessoa que implemente e opere o CRM de alguns clientes.
+
+Sobre a vaga
+
+Auxiliar na implementação e configuração do CRM Kommo
+Configurar e personalizar a plataforma Kommo de acordo com as necessidades específicas da empresa
+Garantir conformidade com as melhores práticas de CRM
+Monitorar e analisar dados de CRM para melhorias
+Prestar suporte às equipes no uso do CRM
+Realizar treinamentos de CRM junto ao cliente
+Manter uma boa comunicação com os clientes e prestar suporte a eles
+Manter-se atualizado sobre as melhores práticas e novos recursos do Kommo, garantindo que a empresa esteja aproveitando ao máximo a plataforma
+
+Requisito
+
+Ter experiência com o uso do CRM (não precisa ser necessariamente com o Kommo)
+
+Remuneração e benefícios
+
+Vaga em modelo home office e PJ
+Remuneração baseado em fixo e variável por cliente atendido (em torno de R$2000 inicialmente)
+Plano de carreira: ascensão na remuneração de acordo com tempo de experiência dentro da nossa empresa
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Software (MLOps) Sênior- Remoto
+
+Sobre a vaga
+Sênior | CLT | Híbrido com disponibilidade para viagens ✈
+
+Seja MLOps Engineer Sênior na iTriad
+Estamos buscando um Desenvolvedor back-end de IA que será responsável pelo desenvolvimento, manutenção e suporte de aplicativos e serviços de inteligência artificial e irá trabalhará em colaboração com outros desenvolvedores e cientistas de dados que irão projetar, desenvolver e implementar soluções de IA.
+
+REQUISITOS
+Proficiência em Python e experiência em estruturas de back-end, como Flask ou Django.
+Conhecimento em estruturas de Machine Learning, como TensorFlow ou PyTorch.
+Experiência em MongoDB ou outras bases de dados NoSQL, além de habilidades em design de banco de dados.
+Familiaridade com plataformas Cloud, com preferência para experiência em Azure.
+Experiência com Docker e Kubernetes.
+Experiência no desenvolvimento de APIs.
+Inglês avançado.
+
+Benefícios:
+Participação em diversos projetos; Vale alimentação e refeição; Plano médico e odontológico nacional; Auxílio mensal para home office; Licença parental (6 meses para maternidade, 20 dias para paternidade); Auxílio creche até 24 meses de idade; Programa Care4All para apoio à saúde emocional e física; Acesso ao Gympass e à plataforma Zenklub (saúde mental); Horários flexíveis; Seguro de vida; Acesso à plataforma Voxy para aulas de inglês;Horas de liberação para estudos de mestrado e doutorado; Emenda de feriados e recesso de final de ano; Participação em comunidades tecnológicas.
+-----------------------------------------------------------------------------------

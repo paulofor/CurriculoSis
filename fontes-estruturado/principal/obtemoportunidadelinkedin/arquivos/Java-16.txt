@@ -1,0 +1,271 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor Back-End Java Sênior | Banking PJ | Cartões
+
+Sobre a vaga
+Sobre o PicPay
+
+Com mais de dez anos de história, o PicPay é um ecossistema completo de serviços financeiros e não-financeiros que tem como objetivo atender as necessidades diárias de milhares de pessoas e negócios, tornando-se a sua principal conta do dia a dia.
+
+Fundada em Vitória (ES), a empresa já conta com mais de 35 milhões de clientes ativos e faz parte do grupo J&F, um dos maiores conglomerados empresariais do Brasil. A companhia atua em diversas frentes, como Serviços Financeiros para Pessoa Física, Serviços Financeiros para Pessoa Jurídica, Investimentos e PicPay Shop.
+
+Pautados pela nossa cultura, seguimos no propósito de dar muito mais pique para a vida de milhões de brasileiros. Conheça nossos valores: Atitude de Dono(a), Disciplina, Determinação, Disponibilidade, Simplicidade, Humildade e Franqueza.
+
+O respeito, a ética, a busca pela equidade e a valorização da pluralidade são elementos inegociáveis e fazem parte da prática no nosso dia a dia aqui no PicPay. Por isso, esta vaga está aberta para todas as pessoas, independente de gênero, religião, etnia, deficiência, idade, orientação sexual ou qualquer outro fator.
+
+Conheça melhor a unidade de negócio que essa vaga pertence:
+
+A BU de Banking é especializada em oferecer soluções financeiras customizadas. Combinando expertise financeira com tecnologia avançada, visa facilitar operações diárias, otimizar a gestão financeira e apoiar o crescimento sustentável das empresas, garantindo sempre uma experiência segura, eficiente e personalizada.
+
+Sobre a vaga:
+
+Estamos em busca de uma pessoa desenvolvedora Java com conhecimento em Kotlin para integrar nosso time. Procuramos alguém com paixão por tecnologia, vontade de aprender e colaborar para construir soluções inovadoras que gerem impacto no negócio e na experiência de nossos clientes.
+
+Responsabilidade e atribuições:
+
+Tenha paixão por tecnologia e goste de se manter atualizado;
+Goste de aprender coisas novas e trabalhar com novas tecnologias;
+Participe das rotinas do time, questione e proponha soluções que atendam os objetivos negócio;
+Tenha um olhar crítico e senso de dono do que criamos no dia a dia;
+Atente para os indicadores e métricas do time, questione e proponha maneiras mais eficazes de medir resultados, sustentabilidade e oportunidades de melhorias;
+Colabore na criação e manutenção dos fluxos de trabalho ajudando o time a se manter eficaz e eficiente através do tempo;
+Desenvolva, coloque em produção, monitore eficácia e mantenha a saúde dos softwares necessários;
+Melhore continuamente as bases de código, balanceando velocidade e qualidade;
+Peça e ofereça feedback para as pessoas do time, gerencie a suas expectativas e as que os outros por ventura tenham sobre você;
+Seja protagonista do autodesenvolvimento e assuma o controle da direção da própria carreira e evolução profissional.
+
+Requisitos e qualificações:
+
+Programação Orientada a Objetos;
+Java 21/17; SpringBoot; SpringData & JPA;
+Conhecimento em Kotlin;
+Arquitetura de microsserviços;
+Design de APIs REST;
+SOLID, Celan Code & Design Patterns;
+CI/CD;
+Documentação;
+Testes unitários e testes end-to-end;
+Conhecimento de Docker;
+Mensageria (Kafka, SQS, SNS, RabbitMQ);
+Conhecimento de banco de dados relacional e não relacional;
+Conhecimento de Git;
+Conhecimentos em segurança (OAuth, JWT, etc.)
+Experiência com Code Review.
+
+O que oferecemos:
+
+Saúde e Bem-estar
+
+Assistência Médica e Odontológica;
+Seguro de Vida;
+Programa Lado a Lado, com apoio jurídico, social, psicológico e financeiro;
+TotalPass.
+
+Alimentação/ Mobilidade ou Teletrabalho:
+
+Cartão de crédito PicPay Benefícios, com ampla aceitação, onde você recebe seu saldo de Alimentação/Refeição e Mobilidade ou Teletrabalho (de acordo com o seu contrato de trabalho).
+
+Licença Paternidade e Maternidade:
+
+Licença Maternidade estendida de 6 meses, e de Paternidade também estendida de 20 dias.
+Programa "Novo Ser", que acompanha nossas mamães durante toda a gestação e no retorno da licença. Falando nisso, ao retornar da licença maternidade, as mamães ainda contam com a ajuda do Auxílio Creche e também os papais que possuem guarda unilateral ou compartilhada.
+
+Reconhecemos resultados: PPR- Participação nos Resultados do PicPay.
+
+#VemserPicpayLover #Picpay
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor Java Sênior
+
+Sobre a vaga
+Descrição da Vaga
+Estamos em busca de um(a) Desenvolvedor Java para integrar nossa equipe de tecnologia. O(A) profissional será responsável por desenvolver e manter soluções robustas e escaláveis, contribuindo para a qualidade do código e para o crescimento técnico da equipe.
+Responsabilidades
+Desenvolver e implementar soluções em Java (11+) para sistemas escaláveis e de alta disponibilidade.
+Participar de análises técnicas e definição de arquitetura para novos projetos.
+Garantir a qualidade do código por meio de boas práticas e code reviews.
+Colaborar com equipes multidisciplinares para definição de requisitos e soluções técnicas.
+Participar de cerimônias ágeis e contribuir para a melhoria contínua dos processos.
+Requisitos
+Experiência sólida em desenvolvimento com Java (11+).
+Conhecimento em frameworks como Spring Boot e Hibernate.
+Familiaridade com arquitetura de microsserviços e APIs REST.
+Experiência com serviços em nuvem, preferencialmente AWS (EC2, S3, RDS, Lambda).
+Conhecimento de bancos de dados relacionais (MySQL, PostgreSQL) e NoSQL (MongoDB, DynamoDB).
+Experiência com ferramentas de versionamento de código (Git).
+Familiaridade com metodologias ágeis (Scrum/Kanban).
+Diferenciais
+Experiência com CI/CD e ferramentas de automação (Jenkins, GitLab CI).
+Conhecimento em conteinerização e orquestração (Docker, Kubernetes).
+Práticas de TDD/BDD e segurança no desenvolvimento.
+Certificações relacionadas a Java ou Cloud (AWS, Oracle).
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Sr Developer Analyst (Java | Spring | API Open Finance)
+
+Sobre a vaga
+Seu dia a dia na Topaz:
+
+O desenvolvedor Backend Java atua no time de Produtos, com foco no desenvolvimento e implantação do produto de Canais Digitais com soluções de Open Finance.
+É responsável por construir o produto, integrar sistemas parceiros e apoiar sua implantação em clientes nacionais e internacionais, contribuindo com visão técnica, espírito colaborativo e mentalidade voltada para inovação e transformação digital. Entre suas atividades, estão:
+
+- Construir APIs e regras de negócio (pipelines) para as jornadas do Open Finance;
+- Desenvolver integrações com sistemas parceiros e apoiar a definição de requisitos não funcionais;
+- Atuar como referência técnica nas fases de implantação e pós-implantação do produto;
+- Apoiar o Project Lead e colaborar com o time de Arquitetura no planejamento e execução das entregas;
+- Propor soluções técnicas alinhadas ao negócio, garantindo boas práticas de qualidade de código;
+- Realizar alinhamentos técnicos com clientes e apresentar soluções de forma clara e objetiva;
+- Contribuir para a definição de escopo e interações entre aplicações;
+- Aplicar práticas regulatórias relacionadas ao Open Finance.
+
+O que você precisa conhecer para ser parte da Topaz?
+- Formação completa em Análise de Sistemas, Ciência da Computação ou áreas correlatas;
+- Experiência com Java e Spring Boot;
+- Arquitetura de microsserviços e uso de filas (RabbitMQ, Kafka);
+- Testes automatizados (Jest ou similares);
+- API Gateway, Kubernetes, Docker;
+- Bancos de dados relacionais e não relacionais (incluindo Redis e Elasticsearch);
+- CI/CD com Jenkins;
+- Metodologias ágeis.
+
+Diferenciais:
+- Experiência com APIs de Open Finance;
+- Atuação anterior em bancos ou cooperativas de crédito;
+- Conhecimento em soluções SaaS e canais financeiros.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: DATA ENGINEER III
+
+Sobre a vaga
+Vem ser Inter com a gente!!! 
+
+Conta digital gratuita, plataforma de investimentos, shopping e o que mais a vida precisar. O Inter é isso, e é muito mais. A gente acredita que tudo pode ser mais simples, e que cada dia é mais uma oportunidade de fazer diferente. Se você também é assim, vem ser #sanguelaranja.
+
+Join us in Inter&Co!!! 
+
+Free digital account, investment platform, shopping and whatever else life needs. Inter is that, and much more. We believe that everything can be simpler, and that every day is another opportunity to do something different. If you're like this too, come be #sanguelaranja.
+
+O Que Você Irá Fazer
+
+Gerenciamento de Infraestrutura BIG Data e Anaytics: Desenvolver, implementar e manter a infraestrutura de TI, principalmente na AWS, garantindo alta disponibilidade, escalabilidade e desempenho;
+Monitoramento e Observabilidade: Utilizar ferramentas de monitoramento como Datadog, Grafana e New Relic para monitorar a saúde dos sistemas, identificar e resolver problemas de desempenho e garantir a estabilidade da infraestrutura;
+Automação e Scripting: Criar scripts e automações para otimizar processos operacionais, implementar pipelines de CI/CD e gerenciar a infraestrutura como código;
+Gestão de Incidentes: Responder rapidamente a incidentes, identificar causas raiz e implementar correções para prevenir recorrências;
+Melhoria Contínua: Identificar oportunidades para melhorar a eficiência operacional e a confiabilidade dos sistemas, propondo e implementando soluções inovadoras.
+
+O Que Buscamos
+
+Graduação em Engenharia, Computação, Sistemas de Informação e afins;
+Atitude empreendedora e protagonismo na comunicação e relacionamento com áreas de interface;
+Experiência em engenharia de infraestrutura e operações, preferencialmente como SRE em ambientes Linux;
+Experiência em nuvem AWS
+Experiência em k8s
+Habilidade em automação e scripting (por exemplo, Python, Bash) e experiência com ferramentas de infraestrutura como código (IaC) como Terraform ou CloudFormation;
+Excelentes habilidades de resolução de problemas e capacidade de diagnosticar e corrigir problemas complexos de infraestrutura.
+
+O que buscamos como desejáveis?
+
+Aws Certified cloud practitioner;
+AWS Certified Solutions Architect;
+AZ-900 | Certificação Microsoft Azure Fundamentals;
+Experiência com Datadog e New Relic para monitoramento e análise de desempenho;
+Habilidade com Infraestrutura do Tableau, Quicksight ou Trino.
+Inglês intermediário ou avançado.
+
+O que oferecemos?
+
+Vale Alimentação/Vale Refeição;
+Plano de saúde e odontológico;
+Seguro de vida;
+Vale Transporte;
+Auxílio Creche;
+Duo Gourmet;
+Wellhub;
+....e muito mais! 
+
+O Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a PCDs.
+
+#VemproInter!!!
+
+O Nosso time de Talent é focado em contratar pessoas protagonistas, atuando com paixão e mentalidade inclusiva, respeitando a singularidade de cada pessoa e oferecendo a todos os colaboradores meios para que possam desenvolver o seu potencial e protagonismo.
+
+O Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a pessoas com deficiências.
+
+#ComeToInter!!
+
+Our Talent team is focused on hiring leading people, acting with passion and an inclusive mindset, respecting the uniqueness of each person and offering all employees the means to develop their potential and protagonism. Inter is a partner and is aware of inclusive projects, all of our vacancies are aimed at people with disabilities.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Desenvolvedora Backend Sênior
+
+Sobre a vaga
+Pessoa Desenvolvedora Backend JAVA Sênior 
+
+Estamos em busca de uma Pessoa Desenvolvedora Backend JAVA Sênior  para ingressar em nossa nave e juntos, decolar o foguete que impulsiona pessoas para inovar o mundo.
+
+E antes de apresentar a vaga, queremos te mostrar as razões para ser South System:
+
+ As +350 pessoas do nosso time nos elegeram 2 vezes uma das melhores empresas para se trabalhar no país (GPTW) e nos deram 4.9 estrelas no Glassdoor e Indeed;
+ Somos Talent Awards pelo linkedin;
+ Somos Carbon neutral – contribuímos com a compensação das emissões de carbono;
+ Estamos operando com oportunidades em home office e também com oportunidades híbridas;
+ Contemplamos benefícios variados como:
+
+Acesso livre a plataforma de cursos Udemy com certificações exclusivas;
+
+Benefício de home office;
+
+Benefício de educação financeira;
+
+Cartão de benefícios flash.
+
+ Nosso código de cultura é norteado por atitudes e práticas que fazem parte do nosso dia a dia:
+
+Apoio e incentivo ao crescimento e desenvolvimento das pessoas;
+
+Respeito, lealdade, colaboração e engajamento fazem parte do nosso DNA, cultivamos um ambiente seguro para todos;
+
+Somos diversos e acreditamos no poder da inclusão e da diversidade dos times;
+
+Unimos pessoas e inovação para prover soluções de TI.
+
+ Amamos nosso planeta e queremos fazer dele um lugar melhor para as próximas gerações por isso cultivamos diversas ações de sustentabilidade;
+ Mantemos e apoiamos ações sociais.
+
+Agora, vamos falar dessa oportunidade! 
+
+Nossos profissionais atuam em projetos alocados em clientes, ou projetos de fábrica, e todos têm acompanhamento das nossas business partners, com suporte especializado para que tenham um bom desempenho e progresso de carreira, nossas squads são multidisciplinares disponíveis de forma global. Esta oportunidade é para um cliente no segmento financeiro.
+
+Seu Desafio no Time:
+
+Projetar, desenvolver e implementar soluções de software robustas e escaláveis utilizando a linguagem Java;
+Monitorar a execução das boas práticas de desenvolvimento de sistemas;
+Colaborar com equipes multifuncionais para entender os requisitos do projeto e traduzi-los em soluções técnicas;
+Desenvolver e manter APIs RESTful, integrações de sistemas e componentes de software;
+Realizar revisões de código, identificar áreas de melhoria e garantir a adesão aos padrões de codificação;
+Auxiliar na orientação dos desenvolvedores mais novos e contribuir nas tomadas de decisão do projeto.
+Experiência comprovada de +5 anos atuando como Desenvolvedor dentro dos requisitos citados.
+
+Perfil que Buscamos:
+
+Java11+ / Jakarta EE;
+SpringBoot;
+RabbitMQ/Kafka;
+Gitlab;
+Microserviços e API REST;
+MongoDB/SQL Server;
+Linux;
+Tomcat, JBoss;
+Jenkins e pipeline de desenvolvimento;
+Testes unitários e cobertura de testes.
+
+Desejável
+
+Camunda
+
+Além disso, valorizamos a desenvoltura, flexibilidade, automotivação e trabalho em equipe. Defendemos a inclusão e a diversidade, por isso, criamos vagas afirmativas respeitando e priorizando os recortes minoritários em nosso processo de seleção, além de oferecermos núcleos e ações afirmativas dentro da empresa para acompanhamento, inclusão e desenvolvimento de todas as pessoas.
+
+ Junte-se a nós e ajude a impulsionar e transformar o mundo!
+
+Experiência e competências desejadas
+Java, Flexibilidade, Comunicação, Responsabilidade, Spring Boot
+-----------------------------------------------------------------------------------

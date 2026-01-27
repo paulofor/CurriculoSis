@@ -1,0 +1,207 @@
+[Oportunidade 1]
+Oportunidade: Full Stack Java PL
+
+Sobre a vaga
+Junte-se a nós!
+
+Aqui, você encontra excelentes oportunidades para o desenvolvimento da sua carreira.
+▶️Conhecimento: Valorização e incentivo da capacitação e conquista de certificações técnicas das pessoas colaboradoras.
+▶️Desafio: Trabalhamos com as tecnologias mais inovadoras de nossos parceiros estratégicos
+▶️Plano de Carreira: Hoje, a maioria do corpo diretivo e gerencial são de profissionais formados em nossos quadros.
+
+📍Quer saber mais sobre a nossa cultura? Acesse a NOSSA PÁGINA no 👉 GLASSDOOR.
+
+Se o novo te desafia e o conhecimento te inspira, faça parte do nosso time!
+
+Responsabilidades e atribuições: 
+Participar na migração do Java 6 para uma versão compatível com o WebSphere 8.5;
+Participar na migração do PrimeFaces para uma versão compatível com a versão do Java que será utilizada;
+Trabalhar em equipe para garantir qualidade e estabilidade do sistema migrado;
+Desenvolver e manter códigos eficientes.
+Requisitos e qualificações: 
+Experiência comprovada em Java EE;
+Conhecimento em Java 6+ e migração de sistemas;
+Experiência em migração da interface de usuário (UI) utilizando o PrimeFaces;
+Familiaridade com agendamento de tarefas usando Quartz;
+Experiência em JPA (Hibernate), JSF, CDI e EJB;
+Experiência em desenvolvimento de serviços web (JAX-RS/JAX-WS, REST e SOAP);
+Experiência com JUnit, git e Maven;
+Experiência com WebSphere 8+ e banco de dados Oracle.
+
+Informações adicionais: 
+✔️Local de Atuação: São Paulo - SP
+✔️Formato de Atuação: Home office
+✔️Regime de Contratação: CLT
+✔️E os benefícios?
+Além da CESTA DE BENEFÍCIOS FLEXÍVEIS, você também terá:
+•Assistência Médica
+•Vale Refeição
+•Vale Transporte (Caso a atuação seja hibrido ou presencial)
+•Auxílio Creche
+•Seguro de vida
+•PLR
+•Apoio Psicológico
+•Programa de Indicação com ganhos por indicação efetivada pelos nossos colaboradores
+•Convênio com instituições de ensino para: Inglês/Espanhol, Pós-graduação e cursos técnicos
+•Convênio SESC / SENAC
+•Plano Odontológico
+•GYMPASS
+•Veloe
+•Desconto em Seguros
+•Clube de Descontos e muito mais😊
+
+ Nossas vagas são para todas as pessoas, independentemente de gênero, idade, etnia, raça, deficiência ou orientação sexual.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Desenvolvedora Java Sr/ Especialista
+
+Sobre a vaga
+
+O QUE VOCÊ VAI FAZER:
+Desenvolver soluções on premises e SaaS, através do desenvolvimento de requisitos de softwares, utilizando-se das tecnologias envolvidas no produto Fluig;
+Conhecer arquitetura de software e boas práticas de mercado;
+Criação de testes automatizados que cubram o comportamento desejado dos componentes técnicos desenvolvidos, utilizando os requisitos e ferramentas de testes;
+Manter a qualidade do software verificando processos, ferramentas e boas práticas disponíveis para produto e tecnologia;
+Orientar desenvolvedores de menor senioridade apoiando suas dúvidas, disseminando seu conhecimento, desenhando e arquitetando soluções ou indicando documentação de apoio;
+Detalhar requisitos de média e alta complexidade através do contato com clientes e áreas envolvidas.
+
+
+O QUE ESPERAMOS DE VOCÊ
+:Boas práticas de programação
+;Programação orientada a objetos
+;Conhecimentos em Java - nível avançado
+.Conhecimentos em Maven e Git
+;Bancos de dados relacionais e SQL - nível básic
+oNoções em APIs REST
+
+.
+REQUISITOS DESEJÁVEI
+S:Testes unitários e cobertura de teste
+s;Metodologias ágeis (Scrum ou Kanban
+);Conhecimento em ambiente Linu
+x;Docke
+r;Kubernete
+
+s;
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor Java Pl/Sr
+
+Sobre a vaga
+OPORTUNIDADE 100% HOME-OFFICE
+
+Junte-se a nós!
+
+Se o novo te desafia e o conhecimento te inspira, faça parte do nosso time!
+
+Requisitos e qualificações: 
+Experiência com desenvolvimento Java de pelo menos 8 anos;
+Linguagens e frameworks: Java, J2EE, Struts, Hibernate, JSF, Maven;
+Arquitetura do Sistema: MVC (Model-View-Controller);
+Ambientes e ferramentas: Eclipse, JBoss;
+Banco de Dados: Oracle, MySQL, PostgreSQL, SQL Server, MongoDB;
+Linguagens e padrões web: HTML, XML, CSS;
+Segurança da Informação;
+Usabilidade e acessibilidade na web;
+SQL (Structured Query Language);
+Modelagem de dados e UML (Unified Modeling Language);
+Microserviços;
+Conhecimentos em algoritmos, linguagens de programação e frameworks voltados à arquitetura de software.
+
+Informações adicionais: 
+✔️Formato de Atuação: Remoto
+✔️Regime de Contratação: CLT
+✔️E os benefícios?
+Além da CESTA DE BENEFÍCIOS FLEXÍVEIS, você também terá:
+•Assistência Médica
+•Vale Refeição
+•Vale Transporte (Caso a atuação seja hibrido ou presencial)
+•Auxílio Creche
+•Seguro de vida
+•PLR
+•Apoio Psicológico
+•Programa de Indicação com ganhos por indicação efetivada pelos nossos colaboradores
+•Convênio com instituições de ensino para: Inglês/Espanhol, Pós-graduação e cursos técnicos
+•Convênio SESC / SENAC
+•Plano Odontológico
+•GYMPASS
+•Veloe
+•Desconto em Seguros
+•Clube de Descontos e muito mais😊
+
+ Nossas vagas são para todas as pessoas, independentemente de gênero, idade, etnia, raça, deficiência ou orientação sexual.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: SOFTWARE DEVELOPER JAVA - INVESTMENTS
+
+Sobre a vaga
+Vem ser Inter com a gente!!! 
+
+Conta digital gratuita, plataforma de investimentos, shopping e o que mais a vida precisar. O Inter é isso, e é muito mais. A gente acredita que tudo pode ser mais simples, e que cada dia é mais uma oportunidade de fazer diferente. Se você também é assim, vem ser #sanguelaranja.
+
+Join us in Inter&Co!!! 
+
+Free digital account, investment platform, shopping and whatever else life needs. Inter is that, and much more. We believe that everything can be simpler, and that every day is another opportunity to do something different. If you're like this too, come be #sanguelaranja.
+
+O que você irá fazer?
+
+Implementar software e soluções utilizando tecnologias de mercado para alavancar e suportar os negócios do Inter na área de Investimentos do App;
+Garantir a identificação de ações para melhoria contínua, buscando soluções criativas para proporcionar alta disponibilidade e segurança nas evoluções e sustentações dos sistemas;
+Atuar no desenvolvimento e aplicação de novos projetos e processos, assegurando sua devida implantação.
+
+O que oferecemos?
+
+Vale Alimentação/Vale Refeição
+Plano de saúde e odontológico
+Seguro de vida
+Vale Transporte
+Duo Gourmet,
+Wellhub
+....e muito mais!
+
+O que buscamos??
+
+Formação superior completa em sistemas de informação ou áreas afins;
+Experiencia com programação orientada a objetos;
+Experiência com Java;
+Experiência com banco de dados relacionais;
+Conhecimento em testes unitários;
+Experiência com Git;
+Experiência com a criação e manutenção de sistemas distribuídos (principalmente microserviços);
+Conhecimento de tecnologias de CI/CD;
+Conhecimento em banco de dados não relacionais;
+Conhecimento com containers Docker e Kubernetes;
+Conhecimento do padrão REST;
+Conhecimento em Kafka;
+Conhecimento de ferramentas de observabilidade;
+Conhecimento em Micronaut ou Spring Boot.
+
+#VemproInter!!!
+
+O Nosso time de Talent é focado em contratar pessoas protagonistas, atuando com paixão e mentalidade inclusiva, respeitando a singularidade de cada pessoa e oferecendo a todos os colaboradores meios para que possam desenvolver o seu potencial e protagonismo.
+
+O Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a pessoas com deficiências.
+
+#ComeToInter!!
+
+Our Talent team is focused on hiring leading people, acting with passion and an inclusive mindset, respecting the uniqueness of each person and offering all employees the means to develop their potential and protagonism. Inter is a partner and is aware of inclusive projects, all of our vacancies are aimed at people with disabilities.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvedor Back end Sr
+
+Sobre a vaga
+Desenvolvedor Back-End Sênior
+O que esperamos de você:
+Buscamos um(a) desenvolvedor(a) back-end sênior com experiência sólida em desenvolvimento web, responsável por construir e manter a lógica e infraestrutura do lado do servidor das aplicações. Essa pessoa terá um papel fundamental na entrega de soluções escaláveis, seguras e de alta performance.
+Responsabilidades e conhecimentos desejados:
+Domínio de práticas modernas de desenvolvimento: testes automatizados, integração e entrega contínua (CI/CD), refatoração de código, programação em par (pair programming) e code review.
+Conhecimento em princípios de design de software, como DRY e SOLID.
+Familiaridade com tecnologias e serviços em nuvem, especialmente AWS.
+Experiência com automação de processos de build e release.
+Vivência em metodologias ágeis, como Scrum, Kanban e XP (Extreme Programming).
+Participação ativa em comunidades de tecnologia é um diferencial valorizado.
+Competências comportamentais que valorizamos:
+Facilidade de aprendizado e colaboração em equipe.
+Proatividade e foco em resultados.
+Boa comunicação e capacidade de compartilhar conhecimento.
+-----------------------------------------------------------------------------------

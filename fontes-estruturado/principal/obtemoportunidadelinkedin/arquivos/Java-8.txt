@@ -1,0 +1,273 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor Back-end JAVA SR
+
+Sobre a vaga
+Quem somos
+A DEXIAN, lançada em 2023, tem presença global e traz consigo quase 30 anos de experiência através de suas companhias legadas, principalmente da combinação da DISYS e Signature Consultants.
+Iniciamos no Brasil 2007 como DISYS e, de lá para cá, conquistamos mais de 60 clientes de diferentes setores da economia. Como DEXIAN, passamos a ser uma das maiores empresas de soluções de staffing, soluções de TI e complementação de força de trabalho. Estamos liderando a indústria por meio de entrega de serviços exclusivos que combina escala global, projetos de serviço completo e agilidade tática para modernizar modelos de contratação. Apoiamos nossos clientes para encontrar a melhor maneira que seu gap de talentos seja endereçado, de maneira a suportar seu processo de transformação digital. Contamos com escritórios estrategicamente localizados em quatro grandes capitais: Curitiba (PR), Porto Alegre (RS), Rio de Janeiro (RJ) e São Paulo (SP). Assim, conseguimos nos manter próximos dos nossos clientes e consultores. Também somos uma Minority Owner Company e nos sentimos orgulhosos de termos nascido na diversidade.
+
+O que esperar de nós
+Pessoas estão no centro de nossa estratégia e compõem o nosso maior capital. Temos compromisso de atrair, reter os melhores talentos e construir conexões reais para a vida. Por isso, atuamos como ponte entre profissionais altamente qualificados e oportunidades consistentes e prósperas. Acreditamos que, trazer o talento, a tecnologia e as organizações certas juntos, ajuda a desbloquear resultados transformadores e alcançar novos níveis de sucessos para os clientes que atendemos e os consultores que contratamos. E para isso, cinco valores fundamentais nos guiam: Integridade, Transparência, Autenticidade, Engenhosidade e Empatia. A DEXIAN está comprometida com a responsabilidade social corporativa e, investe em programas que apoiam a diversidade e inclusão.
+Se você compartilha dos mesmos valores, aqui é seu lugar!
+
+Atividades:
+
+Liderança técnica e desenvolvimento em arquitetura de microsserviços com Java e Spring;
+Integração com mensagerias, bancos relacionais e não relacionais;
+Aplicação de boas práticas de testes e automações;
+Criação de soluções escaláveis, seguras e resilientes;
+Apoio à definição de arquitetura e integração com ferramentas de monitoramento;
+Mentoria técnica para o time
+ Requisitos:
+
+Java 8+
+Spring Boot / Batch
+Azure ServiceBus / RabbitMQ
+Oracle / MongoDB
+Git, Jenkins, Grafana
+Testes com JUnit 4 e 5 (Jupiter)
+Arquitetura de microsserviços
+Conhecimentos sólidos em port and adapters e coreografia de eventos
+Vivência em ambiente ágil
+
+
+Diferencial: Node.js
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheira(o) de Software Back-end Java - Sênior - 100% Remoto
+
+Sobre a vaga
+Qual o tamanho dos seus objetivos? Deseja novos desafios?
+Então, vem para TQI!
+
+A TQI é uma empresa de tecnologia e inovação que há mais de 30 anos, desenvolve soluções para suportar e alavancar os negócios de seus clientes no Brasil e no exterior.
+Com escritórios em Uberlândia (MG) e em São Paulo (SP), e colaboradores em centenas de cidades, a TQI conquistou e mantém há mais de 6 anos o selo Great Place to Work (GPTW), e está no ranking 80+ do GPTW de Tecnologia, reforçando seu compromisso para promover um ambiente diverso e propício para inovação e alta performance.
+
+Modelo de trabalho: 100% Remoto
+Modelo de contrato: PJ
+
+Requisitos Técnicos:
+
+Superior em Tecnologia da Informação (ou áreas correlatas) ou experiência relevante;
+Conhecimento em estrutura de dados, paradigma de programação orientada a objetos, princípios SOLID, Clean Code e Design Patterns;
+Experiência com sistemas distribuídos, arquitetura de microserviços e desenvolvimento de API REST;
+Experiência com linguagem Java e/ou Kotlin;
+Experiência com Spring (Boot, Data, Cloud, etc);
+Conhecimento em modelagem de dados (normalização, modelagem conceitual/lógica/física);
+Experiência com bancos de dados relacionais e não relacionais como Oracle, PostgreSQL;
+Experiência com versionamento de banco de dados (Flyway);
+Experiência com Git, Gradle/Maven e ferramentas de CI/CD;
+Familiaridade com pipelines CI/CD e boas práticas de versionamento;
+Conhecimentos em mensageria com Kafka, RabbitMQ, JMS;
+Conhecimento em containerização com Docker;
+Experiência com ferramentas de monitoração como New Relic, Grafana, ELK;
+Experiência com automação de testes;
+Vivência com SQL e SQS, com foco em modularidade e escalabilidade;
+Conhecimento em Kubernetes (K8s) e Terraform para ambientes resilientes;
+Experiência com AWS no gerenciamento de serviços em nuvem;
+Especialização em observabilidade e rastreamento distribuído;
+Familiaridade com K6 para testes de carga e stress.
+
+O que você vai fazer:
+Avaliar, discutir e contribuir com a definição da arquitetura de sistemas;
+Traduzir requisitos de negócio em arquiteturas e sistemas;
+Analisar, documentar, codificar, revisar código, depurar, testar e entregar aplicações;
+Cuidar da monitoração do ambiente e criar ações proativas que garantam a saúde da plataforma;
+Interagir com equipes e áreas correlatas;
+Contribuir com melhorias de processos da engenharia.
+
+O que oferecemos:
+Você fará parte de equipes diversas e de alto performance, em um ambiente dinâmico e colaborativo. Valorizamos a contribuição de todos na criação de soluções e nas decisões estratégicas. Aqui, as pessoas são o nosso diferencial, e somos apaixonados por tecnologia, inovação e evolução contínua.
+
+Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+
+O time está te esperando, vamos nessa?
+
+#VempraTQI
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Analista Desenvolvedor Java Sr
+
+Sobre a vaga
+Job Description
+
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsibilities and assignments
+
+O que esperamos que você realize:
+
+Desenvolver e manter aplicações Java;
+Implementar metodologias ágeis (Scrum, Kanban);
+Aplicar conceitos de idempotência em soluções de software;
+Implementar métodos de autenticação e autorização;
+Utilizar Design Patterns como Rate Limit, Circuit Breaker, Retry;
+Trabalhar com processos Batch;
+Utilizar bancos de dados relacionais;
+Desenvolver com Spring Boot;
+Aplicar BDD e TDD;
+Desenvolver e manter APIs;
+Trabalhar com microsserviços;
+Aplicar conceitos de CI/CD;
+Realizar testes regressivos, integrados e de performance;
+Trabalhar com mensageria (Kafka, RabbitMQ, SQS, Kinesis);
+Utilizar serviços AWS, SQS/SNS, S3.
+
+Requirements And Qualifications
+
+O que precisamos que você tenha de conhecimento:
+
+Requisitos essenciais:
+
+Experiência com desenvolvimento Java;
+Conhecimento em metodologias ágeis (Scrum, Kanban);
+Conhecimento em conceitos de idempotência;
+Experiência com métodos de autenticação e autorização;
+Conhecimento em Design Patterns como Rate Limit, Circuit Breaker, Retry;
+Experiência com processos Batch;
+Experiência com bancos de dados relacionais;
+Experiência com Spring Boot;
+Conhecimento em BDD e TDD;
+Experiência com desenvolvimento e manutenção de APIs;
+Conhecimento em microsserviços;
+Conhecimento em conceitos de CI/CD;
+Experiência com testes regressivos, integrados e de performance;
+Experiência com mensageria (Kafka, RabbitMQ, SQS, Kinesis);
+Experiência com serviços AWS, SQS/SNS, S3.
+
+Diferenciais:
+
+Experiência com outras linguagens de programação;
+Certificações em Java e/ou AWS.
+
+Additional information
+
+O que te oferecemos:
+
+🍛 Vale Alimentação ou Vale Refeição;
+
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+
+🗣 Mentoring;
+
+🏫 Auxílio Creche;
+
+💉 Clube de vantagens para consultas e exames;
+
+🏥 Assistência Médica;
+
+🦷Assistência Odontológica;
+
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+
+🛫 Clube de viagens;
+
+🐶 Convênio para Pet;
+
+e muito mais...
+
+Process stages
+
+Registration
+Bate papo com Gente & Cultura
+Bate papo com Gestão
+Hiring
+
+Stefanini: Acreditar para Cocriar 🌟
+
+Na Stefanini, a inovação não é apenas uma meta; é uma jornada que trilhamos juntos, onde a colaboração se torna a essência da transformação. 🤝 Com 37 anos de história e uma presença global em mais de 40 países, contamos com uma equipe de 38 mil talentos apaixonados, prontos para transformar desafios em oportunidades por meio da tecnologia. 💡
+
+Acreditamos que cada projeto é uma oportunidade e que, juntos, podemos moldar um futuro mais ágil, eficiente e conectado. Nossa missão vai além de oferecer soluções: buscamos cocriar com nossos clientes, integrando inteligência artificial e tecnologias emergentes para revolucionar o cotidiano das empresas. 🌍✨
+
+Aqui, cada voz conta e cada ideia tem o poder de impactar. Valorizamos a humildade, o respeito, o comprometimento e a coragem, construindo uma cultura onde a inovação floresce. Aqui, liderar é dar o exemplo, e é por isso que inspiramos um ambiente dinâmico onde tecnologia e talento se complementam.
+
+Se você sonha grande, tem coragem de desafiar o convencional e quer fazer parte de uma equipe que acredita no poder da cocriação, junte-se a nós! Vamos, juntos, acreditar e cocriar um futuro brilhante, onde cada passo representa uma nova conquista!🚀✨
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Responsabilidades
+
+
+Desenvolver, manter e otimizar pipelines de dados escaláveis, realizando processos de ingestão, transformação e carga (ETL/ELT) a partir de diversas fontes.
+Projetar e implementar soluções de armazenamento e modelagem de dados, tanto em bancos relacionais (SQL) quanto não relacionais (NoSQL), assegurando performance e integridade dos dados.
+Escrever código em Python para análise, extração, limpeza e manipulação de grandes volumes de dados, utilizando bibliotecas como Pandas, NumPy e SciPy.
+Atuar com bancos de dados como PostgreSQL, SQL Server, MariaDB.
+Trabalhar com serviços em nuvem (AWS, Azure), especialmente aqueles voltados ao armazenamento, processamento e orquestração de dados.
+Utilizar Azure DevOps para versionamento de código e automação de pipelines de integração e entrega contínua (CI/CD).
+Participar de equipes ágeis, contribuindo com ideias, garantindo entregas de valor em ciclos curtos e promovendo boas práticas de engenharia de dados.
+Investigar, diagnosticar e resolver problemas técnicos relacionados ao desempenho de sistemas de dados.
+Colaborar com analistas, cientistas de dados e demais áreas da empresa para garantir a disponibilidade e qualidade dos dados utilizados na tomada de decisão.
+
+ Qualificações
+
+
+Superior Completo em Matemática, Ciência da Computação, Engenharia de Software, Análise e Desenvolvimento de Sistemas e áreas afins.
+
+ Habilidades Necessárias
+
+
+Capacidade analítica apurada, com foco em solução de problemas complexos relacionados a dados.
+Autonomia e proatividade para identificar melhorias em processos e propor soluções inovadoras.
+Organização e atenção a detalhes, garantindo qualidade e consistência nos pipelines e estruturas de dados.
+Habilidade de trabalho em equipe, com boa comunicação para atuar em conjunto com áreas técnicas e de negócio.
+Mentalidade ágil, com facilidade para adaptação a mudanças e atuação em ciclos curtos de entrega.
+Comprometimento com boas práticas de engenharia de software e dados, incluindo versionamento de código, testes, documentação e segurança.
+Curiosidade e sede por aprendizado contínuo, acompanhando evoluções tecnológicas e aplicando novos conhecimentos no dia a dia.
+Responsabilidade técnica na tomada de decisões, garantindo confiabilidade, escalabilidade e governança dos dados.
+Capacidade de autogestão, com disciplina para cumprir prazos e metas de forma independente.
+
+ Habilidades Preferenciais
+
+
+Engenharia de Dados e Big Data - cursos focados em pipelines de dados, ETL/ELT, ferramentas como Apache Spark, Hadoop, Kafka e orquestradores como Airflow.
+Certificação da Microsoft Azure
+
+ Faixa Salarial e Pacote de Compensação
+
+
+Contração PJ
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvedor full stack
+
+Sobre a vaga
+Quem Somos
+A Dexian, lançada em 2023, tem presença global e traz consigo quase 30 anos de experiência através de suas companhias legadas, principalmente da combinação da DISYS e Signature Consultants.
+
+Iniciamos no Brasil 2007 como DISYS e, de lá para cá, conquistamos mais de 60 clientes de diferentes setores da economia. Como Dexian, passamos a ser uma das maiores empresas de soluções de staffing, soluções de TI e complementação de força de trabalho. Estamos liderando a indústria por meio de entrega de serviços exclusivos que combina escala global, projetos de serviço completo e agilidade tática para modernizar modelos de contratação. Apoiamos nossos clientes para encontrar a melhor maneira que seu gap de talentos seja endereçado, de maneira a suportar seu processo de transformação digital. Contamos com escritórios estrategicamente localizados em quatro grandes capitais: Curitiba (PR), Porto Alegre (RS), Rio de Janeiro (RJ) e São Paulo (SP). Assim, conseguimos nos manter próximos dos nossos clientes e consultores. Também somos uma Minority Owner Company e nos sentimos orgulhosos de termos nascido na diversidade.
+
+O que esperar de nós
+Pessoas estão no centro de nossa estratégia e compõem o nosso maior capital. Temos compromisso de atrair, reter os melhores talentos e construir conexões reais para a vida. Por isso, atuamos como ponte entre profissionais altamente qualificados e oportunidades consistentes e prósperas. Acreditamos que, trazer o talento, a tecnologia e as organizações certas juntos, ajuda a desbloquear resultados transformadores e alcançar novos níveis de sucessos para os clientes que atendemos e os consultores que contratamos. E para isso, cinco valores fundamentais nos guiam: Integridade, Transparência, Autenticidade, Engenhosidade e Empatia. A Dexian está comprometida com a responsabilidade social corporativa e, investe em programas que apoiam a diversidade e inclusão.
+
+Se você compartilha dos mesmos valores, aqui é seu lugar!
+
+O que esperar do seu dia a dia de trabalho
+Desenvolver as telas do site, como login, dashboard e conteúdos, usando Next.js.
+Criar rotas de backend para salvar dados, fazer login ou validar informações.
+Subir o código, criar branches, revisar alterações e fazer merge de pull requests.
+Colocar o site e o backend online usando serviços como EC2 ou S3.
+Pegar os conteúdos do CMS (como textos e exercícios) e mostrar no site.
+
+O que você precisa ter
+Inglês avançado para comunicação
+Perfil proativo e comunicativo
+Next.js
+Node.js
+Github
+AWS
+Strapi
+
+Onde você vai trabalhar
+No conforto da sua casa, regime 100% remoto!
+
+Duração da vaga
+De 1 a 2 meses, com possibilidade de extensão
+-----------------------------------------------------------------------------------

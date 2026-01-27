@@ -1,0 +1,184 @@
+[Oportunidade 1]
+Oportunidade: Machine Learning Engineer - Remote Work
+
+Sobre a vaga
+At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.
+
+Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.
+
+When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.
+
+Machine Learning Engineer at BairesDev
+
+We are looking for an outstanding Machine Learning Engineer to join our team. This professional will use data and machine learning techniques to help the business automate and scale decision-making, mainly by producing advanced data analysis reports and data-based models to infer and predict patterns.
+
+What You Will Do:
+
+- Help to improve data literacy and the overall analytical environment across the company.
+- Handle both structured and unstructured data using SQL and other programming languages.
+- Perform advanced data analysis and report results.
+- Tell the story behind data in a compelling manner for business people.
+- Build predictive models and machine-learning algorithms.
+- Combine models through ensemble modeling.
+- Propose solutions and strategies to business challenges.
+- Help to design and execute experiments for hypothesis testing.
+- Participate actively in discussions and decisions regarding the whole Machile Learning / Data Science chapter.
+- Collaborate with data product managers to build awesome data products.
+- Work with management to prioritize business and information needs.
+- Help to spread a data-driven mindset and to improve data literacy. Be a data evangelist.
+
+Here’s what we are looking for:
+
+- 3+ years of experience with Machine Learning, data science, IA, statistical, and other related areas.
+- Proficiency with MySQL.
+- Proficiency in Python, R, or another major programming language.
+- Excellent communication skills, and capacity to collaborate and build relationships with non-technical users.
+- Strong knowledge of probability and statistics, including experimental design, predictive modeling, optimization, and causal inference.
+- Hands-on experience with machine learning, like regression classification, clustering, neural networks, feature selection, cross-validation, the curse of dimensionality, bias-variance tradeoff, model explainability, NLP, etc.
+
+Desirable:
+- Experience with people analytics or growth.
+- Experience with data visualization tools.
+- Good understanding of the engineering challenges to deploying machine learning systems to production.
+
+How we do make your work (and your life) easier:
+
+- 100% remote work (from anywhere).
+- Excellent compensation in USD or your local currency if preferred
+- Hardware and software setup for you to work from home.
+- Flexible hours: create your own schedule.
+- Paid parental leaves, vacations, and national holidays.
+- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.
+- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.
+
+Apply now and become part of a global team where your unique talents can truly thrive!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Principal Software Developer (AI Tools), Brazil
+
+Sobre a vaga
+We are tech transformation specialists, uniting human expertise with AI to create scalable tech solutions.
+With over 7.400 CI&Ters around the world, we’ve built partnerships with more than 1,000 clients during our 30 years of history. Artificial Intelligence is our reality.
+
+
+Join CI&T to help customize an innovative AI tool developed by our client, utilizing agentic LLMs with a focus on AutoGen to analyze RPG code effectively. Your expertise will be crucial in generating detailed business and technical requirements while creating accelerators that transform these requirements into functional code.
+
+Responsibilities:
+Collaborate with clients to customize an AI tool that leverages agentic Large Language Models (LLMs), with a focus on AutoGen, to analyze RPG code and generate comprehensive business and technical requirements.
+Utilize AutoGen technology to create accelerators that convert reviewed and approved requirements into executable code.
+Implement and refine AI models that can interpret RPG code, focusing on enhancing the tool's capabilities to deliver actionable insights for business processes.
+Create monitoring tools to assess the effectiveness of the AI tool and its impact on project delivery.
+Work closely with cross-functional teams to ensure alignment of AI solutions with business objectives.
+Stay updated with advancements in AI and machine learning to continuously improve the tool's effectiveness in analyzing RPG code.
+
+
+Requirements for this challenge:
+Solid experience in Python development.
+Expertise in AI and agentic Large Language Models (LLMs), with a strong emphasis on AutoGen.
+Advanced or fluent English communication skills (both written and verbal).
+Strong analytical and problem-solving abilities.
+Experience working in a collaborative, remote environment.
+
+
+Nice to Have: 
+Experience with cloud technologies, with a preference for Azure.
+Basic understanding of RPG programming language concepts is a plus, but not a requirement.
+Familiarity with the mortgage industry would be beneficial.
+Previous experience in customizing AI tools for specific business needs.
+
+
+
+
+
+Our benefits:
+
+-Health and dental insurance
+-Meal and food allowance
+-Childcare assistance
+-Extended paternity leave
+-Partnership with gyms and health and wellness professionals via Wellhub (Gympass) TotalPass;
+-Profit Sharing and Results Participation (PLR);
+-Life insurance
+-Continuous learning platform (CI&T University);
+-Discount club
+-Free online platform dedicated to physical, mental, and overall well-being
+-Pregnancy and responsible parenting course
+-Partnerships with online learning platforms
+-Language learning platform
+And many more!
+
+More details about our benefits here: https://ciandt.com/br/pt-br/carreiras
+
+At CI&T, inclusion starts at the first contact. If you are a person with a disability, it is important to present your assessment during the selection process. This way, we can ensure the support and accommodations that you deserve. If you do not yet have the assessment, don't worry: we can support you in obtaining it.
+
+We have a dedicated Health and Well-being team, inclusion specialists, and affinity groups who will be with you at every stage. Count on us to make this journey side by side.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor(a) de IA | Python | Machine Learning
+
+Sobre a vaga
+Desenvolvedor(a) de Inteligência Artificial com mínimo de 3 anos de experiência no desenvolvimento e manutenção de modelos de IA. O profissional será responsável por pesquisa, desenvolvimento, implementação e fine-tuning de modelos pré-treinados (OpenAI e outros) e por capacitar a equipe em aprendizado de máquina.
+
+Responsabilidades
+
+Desenvolver e manter modelos de IA e Machine Learning.
+Realizar fine-tuning de modelos pré-treinados.
+Pesquisar e implementar novas soluções de IA.
+Integrar modelos de IA aos sistemas da empresa.
+Treinar e apoiar a equipe em aprendizado de máquina.
+
+Requisitos
+
+3+ anos de experiência com IA e Machine Learning.
+Domínio em Python e bibliotecas como TensorFlow, PyTorch, Scikit-Learn.
+Experiência com fine-tuning e deployment de modelos.
+Conhecimento em NLP, visão computacional ou aprendizado por reforço.
+Familiaridade com bancos de dados e cloud computing (AWS, GCP, Azure).
+
+Quer saber mais? 
+
+Segue no instagram @gentedasieg e se inscreve na SIEG Academy para já ter sua Certificação Expert SIEG nas nossas soluções: https://www.sieg.com/academy/
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Sr Data Scientist
+
+Sobre a vaga
+About the Business: LexisNexis Risk Solutions is the essential partner in the assessment of risk. Within our Business Services vertical, we offer a multitude of solutions focused on helping businesses of all sizes drive higher revenue growth, maximize operational efficiencies, and improve customer experience. Our solutions help our customers solve difficult problems in the areas of Anti-Money Laundering/Counter Terrorist Financing, Identity Authentication & Verification, Fraud and Credit Risk mitigation and Customer Data Management. You can learn more about LexisNexis Risk at the link below, risk.lexisnexis.com
+
+About our Team: You’ll work within a collaborative and supportive environment to grow your personal and problem-solving skills and help deliver solutions that will go head-to-head against some of the most motivated attackers in the world to protect billions in revenue.
+
+About the Role: You will work in collaboration with our customers and account managers to maximize the value delivered by the world’s largest email-based risk assessment solution. Your results will lead to immediate real-world impact in the form of lower customer friction, reduced fraud losses and as a result, increased customer profitability.
+This is achieved through a range of activities, such as proactive analysis of accounts to identify improvements, optimizing the risk assessment to more accurately detect high risk transactions and providing thought leadership to customers during business reviews.
+We are looking for individuals with a proactive and analytical approach to problem solving, good consulting mindset and an interest to bring value to our customers. In the role you’ll experience how to leverage real-time digital identity intelligence, analyzing millions of transactions per month for some of the largest companies operating in Financial Services, Insurance, e-Commerce.
+
+Responsibilities
+Support business reviews for key accounts by presenting analytical insights on customer deployments.
+Proactively monitor and analyze key customers' solution performance to ensure continuous improvement.
+Use strong attention to detail and data storytelling to deliver presentations for non-technical audiences.
+Adjust rules to address emerging risks and enhance fraud detection performance, optimizing false positive/fraud capture rates.
+Develop action plans to advance customer solution maturity and provide business support through fraud analysis.
+Conduct fraud reviews and ensure timely corrections.
+Collaborate with ThreatMetrix teams globally to refine best practices across Products, Engineering, Sales, and Professional Services.
+
+Requirements
+Proficient in SQL, Python, and various data formats (XML, flat files, etc.).
+Familiar with data analysis tools and processes.
+Detail-oriented to ensure high-quality project delivery.
+Collaborative, eager to work across teams and with customers.
+Willingness to learn new processes, tools, and technologies.
+Strong problem-solving and critical thinking skills, with interest in fraud analysis.
+Excellent communication skills in English; Spanish is a plus.
+Proactive, organized, and able to prioritize tasks effectively.
+
+
+Working for you: We know that your wellbeing and happiness are key to a long and successful career. These are some of the benefits we are delighted to offer:
+Hybrid work system
+Wellbeing programs
+Life insurance
+Health and dental plans
+RECARES days for supporting charity
+Access to employee resource groups with volunteer time
+Access to learning and development resources
+
+#LI-VG1
+-----------------------------------------------------------------------------------

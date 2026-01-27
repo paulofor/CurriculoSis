@@ -1,0 +1,283 @@
+[Oportunidade 1]
+Oportunidade: Cientista de Dados / Rio de Janeiro - RJ
+
+Sobre a vaga
+SOBRE A CAPCO
+
+A CAPCO é uma consultoria global de tecnologia e negócios, focada no setor de serviços financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 33 escritórios nas Américas, Europa e Ásia-Pacífico!
+
+Vamos te apoiar e ajudar a acelerar sua carreira!
+
+RESUMO DA FUNÇÃO
+
+Análise de Suporte a Dados e Analítico;
+Regime presencial no Rio de Janeiro/RJ.
+
+RESPONSABILIDADES
+
+Estruturar as bases de dados e fluxos de dados do CC para análises de inteligência e painéis, criar scripts para suportar análises;
+Usar bibliotecas de automação para soluções relacionadas a manipulação e análise de dados;
+Criar e manter catálogo organizado contendo os relatórios e painéis BI criados e mantidos;
+Fazer interface com equipes da TI e outras equipes do Cliente para disponibilização e uso de dados, fluxos, informações do data lake, publicação e permissionamento;
+Identificar oportunidades e implantação de melhorias na uniformização de soluções similares por meio da adaptação de painéis já criados (evitando nova criação);
+Difundir soluções, organizando e padronizando os painéis gerados, tanto no modelo quanto no tratamento dos dados;
+Disponibilizar e apresentar as soluções implantadas;
+Garantir o armazenamento e o acesso a todos arquivos do Cliente por meio de repositório estruturado e organizado.
+
+REQUISITOS
+
+Formação: Graduação completa em Administração, Engenharia (qualquer ênfase), Estatística, ou graduação em Tecnologia da Informação;
+Pós-Graduação: Administração, Engenharia (qualquer ênfase), Estatística, ou graduação em Tecnologia da Informação;
+Experiência: Mínimo de 4 anos de experiência atuando em gestão de serviços ou gestão de projetos em organizações de grande porte.
+
+CERTIFICAÇÕES/TREINAMENTOS
+
+SC-OTC-001 - Security Center 5.x Omnicast™;
+MC-OPT-001 - Treinamento de operadores para o Genetec Mission Control;
+SC-PMO-001 - Security Center: Plan Manager operators training;
+SC-MOT-001 - Security Center: Mobile operator training;
+Certificação em ciência de dados;
+ICS 100 - INCIDENT COMMAND SYSTEM.
+
+Conhecimentos Obrigatórios
+
+Gestão e análise de dados;
+Frameworks de gestão de riscos e tecnologia da informação (Ex: Cobit, RiskIT);
+Normas de Segurança da Informação (Família ISO 2700, ISO 15999);
+Gerenciamento de Projetos;
+Inglês Técnico (falado e escrito).
+
+POR QUE CAPCO?
+
+Juntar-se à CAPCO significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente!
+
+O QUE OFERECEMOS?
+
+Vale Refeição
+GymPass
+Assistência Médica
+Assistência Odontológica
+Seguro de Vida
+Vale Transporte
+
+Próximos Passos
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Cientista de Dados Sênior - Brasil
+
+Sobre a vaga
+Description
+
+Você na Deloitte
+
+Na Deloitte, buscamos pessoas que queiram gerar impactos positivos todos os dias. Impulsionamos talentos para que possam se desenvolver em um ambiente colaborativo, com times diversos e que tragam energia, empoderamento, interação e conexões. O nosso crescimento é exponencial porque os talentos que recrutamos possuem os nossos valores em suas essências. Liderar o caminho, fomentar a inclusão, colaborar para mensurar impactos, servir com integridade e cuidar uns dos outros são pontos essenciais e inegociáveis para fortalecer ainda mais o nosso propósito.
+
+Você terá a oportunidade de evoluir sua carreira na maior empresa de serviços profissionais do mundo como Cientista de Dados Sênior no time de Analytics, aqui você terá a oportunidade de ser o protagonista de sua carreira, e de gerar impactos e transformações positivas em seu redor. Na sua rotina, você irá:
+
+Se engajar na nossa equipe de Advanced Analytics e Inteligência Artificial como Data Scientist, aplicando conceitos analíticos e matemáticos em problemas do setor de energia elétrica com a curiosidade e criatividade. Além de desenvolvimento de modelos de inteligência artificial com Machine Learning, Deep Learning e outras tecnologias, acompanhando, interpretando, explicando e otimizando o desempenho dos modelos.
+
+Acreditamos na força dos talentos que preparamos. Eles transformam de fato, impactam organizações, impulsionam mais talentos e criam oportunidades. Que tal fazer parte da maior organização de serviços profissionais do mundo?
+
+Escolha seu impacto.
+
+Requirements
+
+Ensino Superior em cursos de Exatas ou TI;
+
+Experiência com manipulação, limpeza e preparação de dados para desenvolvimento de produtos de IA utilizando linguagem de programação Python.
+
+Bibliotecas importantes: Pandas, Numpy, Scipy, Seaborn, Scikit-learn, TensorFlow e PyTorch;
+
+Conhecimento em GCP;
+
+Inglês avançado e experiência no setor elétrico será um diferencial;
+
+Benefits
+
+Desenvolvimento profissional 
+
+É claro que cuidaríamos do seu desenvolvimento aqui na Deloitte! Queremos que você alcance seus objetivos profissionais e pessoais e, por isso, contamos com Universidade Corporativa, acesso a plataformas online de aprendizado, plataforma de idiomas com mais de 7.500 conteúdos e cerca de 60 cursos divididos por nível, área de atuação, habilidades profissionais e interesses, e até uma plataforma que reúne diversas instituições de ensino, fornecendo descontos exclusivos para profissionais Deloitte e seus dependentes. 
+
+Além disso, oferecemos um plano de carreira estruturado, com mentoria de profissionais da Deloitte por meio de um(a) coach, que poderá ouvir seus desafios e apoiar para que consiga evoluir tanto com habilidades técnicas, quanto com habilidades comportamentais com base na própria experiência. É ótimo ter uma pessoa mentora, não é mesmo?
+
+Cuidados com o seu bem-estar 
+
+Aqui na Deloitte, acreditamos que saúde e bem-estar não são apenas projetos, e sim uma mudança de cultura. Queremos que você coloque em prática todo o seu talento e desenvolva uma carreira de sucesso com a gente, com equilíbrio entre Mente, Corpo e Propósito. Para isso, contamos com mais de 30 benefícios, como:
+
+Serviço de telemedicina para que você consiga fazer uma pré-avaliação sem precisar sair de casa! 
+Family Strategy: programa destinados à profissionais gestantes e futuros papais que terão todo apoio possível neste momento tão especial 
+Gympass para colocar os exercícios físicos em dia 
+Dia de folga no mês do seu aniversário, para celebrar uma das pessoas mais importantes de sua vida 
+Canal de apoio psicológico e Serviço Social 
+
+(Mais) Benefícios 
+
+Assistência médica e odontológica! Para que você faça check-ups e cuide de você, em primeiro lugar* 
+Participação nos lucros. Afinal, sem os nossos talentos, não poderíamos crescer exponencialmente 
+Auxílio-internet, para apoiar no trabalho em modelo híbrido 
+Seguro de vida* 
+Vale refeição / alimentação* 
+Pacote de benefícios flexíveis: você receberá pontos e poderá distribui-los entre as opções que melhor se adequam às suas necessidades de acordo com as regras do programa.
+
+Oportunidade de fazer parte de uma cultura inclusiva 
+
+Você pode ser quem realmente é com oportunidade igual de crescimento. Para reforçar esse compromisso, desenvolvemos a estratégia global ALL IN com os 8 pilares – Origens, Jovem Aprendiz, STEM, Delas, LGBT+, Inclui, No Borders e Geração 50+. Destacamos que todas as nossas vagas estão abertas ao público PcD.  
+
+Esperamos você neste time! 
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor Especialista em IA & ML
+
+Sobre a vaga
+Aqui na HostGator trabalhamos para que cada vez mais empreendedores possam tirar suas ideias do papel, transformando-as em negócios de sucesso na internet! Hoje somos um dos líderes em presença online global junto com a Newfold Digital, grupo do qual fazemos parte.
+
+E aí, bora fazer parte disso tudo? #VemSerGator ✨
+
+Estamos em busca de um(a) Especialista em IA & Machine Learning com experiência em IA Generativa para projetar, implementar e otimizar sistemas baseados em modelos de linguagem (LLMs), geração de imagens, áudio ou multimodais.
+
+Você atuará em projetos inovadores, desde o desenvolvimento de pipelines de fine-tuning até a implantação de soluções escaláveis em produção, garantindo alta performance e alinhamento com as necessidades do negócio.
+
+Responsabilidades
+
+Desenvolver, treinar e otimizar modelos de IA Generativa (ex.: LLMs como GPT-4, Claude, Llama 3, ou modelos de difusão como Stable Diffusion).
+Implementar técnicas avançadas como RAG (Retrieval-Augmented Generation), fine-tuning adaptativo (LoRA, QLoRA) e prompt engineering para domínios específicos.
+Construir pipelines de inferência eficientes para modelos generativos, utilizando otimizações (quantização, vLLM, TensorRT-LLM).
+Integrar APIs de IA Generativa (OpenAI, Gemini, Mistral) ou gerenciar implantações self-hosted em cloud (AWS, GCP, Azure).
+Colaborar com engenheiros de dados para estruturar bases de vetores (Pinecone, Weaviate) e fluxos de pré-processamento (LangChain, LlamaIndex).
+Garantir monitoramento, rastreabilidade e governança de modelos em produção (MLflow, LangSmith, Prometheus).
+Trabalhar com times de produto e UX para entregar soluções alinhadas à experiência do usuário.
+
+
+Requisitos Obrigatórios
+
+Experiência comprovada em Machine Learning/IA, com foco em IA Generativa (LLMs, difusão, transformers).
+Domínio de Python e frameworks como PyTorch, TensorFlow, Hugging Face Transformers.
+Conhecimento em técnicas de NLP (tokenização, embeddings) e arquiteturas de modelos (GPT, BERT, Stable Diffusion).
+Familiaridade com MLOps para IA Generativa: containers (Docker), orquestração (Kubernetes), e APIs (FastAPI, Flask).
+Vivência com cloud (AWS SageMaker, GCP Vertex AI) e otimização de custos de inferência.
+Capacidade de resolver problemas complexos e trabalhar em ambientes ágeis (Scrum, Kanban).
+
+
+Diferenciais
+
+Experiência com multimodalidade (texto + imagem + áudio).
+Conhecimento em frameworks como LangChain, LlamaIndex ou AutoGen.
+
+
+Porque você vai nos amar
+
+Por aqui somos #HostGatorEverywhere: Temos ajuda de custo mensal pro home office de R$180,00 e uma ajuda de custo extra para adquirir itens pro seu escritório 
+Oferecemos Vale-Refeição ou Vale-Alimentação no valor de R$44,55 por dia trabalhado 
+Plano de saúde e odontológico, sem coparticipação para o colaborador 
+Programa de bem-estar: Wellhub e Telemedicina 
+Você tem um cachorro, gato, coelho, hamster, cabra, tartaruga ou até mesmo um mini dragão? Temos parceria com plano de saúde pet! 
+Seguro de vida 
+Hospedagem de sites gratuita 
+Ciclo de meritos e promoções anuais 
+
+
+E muuuuuuito mais!
+
+Todas as nossas vagas estão disponíveis para pessoas com deficiência (PCD).
+
+#hostgator
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Machine Learning Sênior
+
+Sobre a vaga
+Somos uma empresa apaixonada por pessoas, pautamos sempre pela qualidade das nossas relações e pelo cuidado com cada membro do time. Estamos buscando uma pessoa para fazer parte deste time que vem crescendo a cada dia, tanto em número quanto em desenvolvimento.
+
+Encorajamos e acreditamos no nosso time e prezamos por fazer junto. Se você é essa pessoa, que tem um senso de equipe e que procura por desenvolvimento constante, a BIX é para você!
+
+Vem fazer parte da BIX Tecnologia!
+
+O que esperamos que você tenha:
+Graduação ou pós-graduação em Ciência da Computação, Aprendizado de Máquina, Estatística ou áreas relacionadas;
+Mais de 4 anos de experiência em design e implantação de modelos de ML em ambientes de produção;
+Sólida base em teoria de aprendizado de máquina, modelagem estatística e design de algoritmos;
+Proficiência em Python e experiência com bibliotecas e ferramentas de IA/ML (como HuggingFace, scikit-learn, MLflow);
+Experiência prática com práticas de MLOps, incluindo CI/CD para ML, versionamento de modelos e re-treinamento automatizado;
+Experiência com plataformas em nuvem como Azure, AWS ou GCP (preferência por Azure) e ferramentas de conteinerização;
+Experiência com Kubernetes e Docker;
+Experiência com LLMs e Agentic Frameworks (como LangChain, Guardrails AI, LangGraph);
+Excelentes habilidades de comunicação, com capacidade de explicar ideias técnicas complexas para públicos não técnicos;
+Inglês fluente para comunicação eficaz com equipes multifuncionais e internacionais;
+
+O que desejamos que você tenha:
+Familiaridade com frameworks de computação distribuída e sistemas de armazenamento de dados (por exemplo: Azure Databricks, Azure Data Lake Storage);
+Experiência com ferramentas da Azure, SAP e OpenAI;
+Experiência em implantação de soluções de IA/ML em grandes projetos corporativos.
+
+O que você fará em seu dia a dia:
+Colaborar com as equipes de Gestão, Engenharia e Arquitetura para identificar oportunidades de uso de machine learning nas soluções dos clientes;
+Desenvolver pipelines de ML robustos e escaláveis utilizando frameworks e ferramentas modernas;
+Trabalhar com modelos de LLM e ML, com foco em Agentic Frameworks, priorizando qualidade, eficiência e equidade;
+Liderar todo o ciclo de vida de projetos de ML, desde o pré-processamento de dados até a implantação e monitoramento;
+Colaborar com várias equipes de clientes para viabilizar testes automatizados, monitoramento e re-treinamento de modelos em produção;
+Conduzir reuniões com clientes, apresentando conceitos técnicos para públicos sem formação técnica;
+Contribuir com documentação técnica, boas práticas e revisões de código.
+
+O que a BIX oferece para você:
+Trabalho 100% remoto;
+Plataforma de terapia e nutricionistas online;
+Plataforma de bem estar;
+Plano de carreira acelerado;
+Contato direto com líderes de grandes empresas;
+Ambiente diferenciado (Hora BIX, integrações e Happy Hours, Programa de Mentoria, Reuniões 1on1);
+Aulas on-line de inglês (cambly);
+Folga no aniversário.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Cientista de Dados / Híbrido - Rio de Janeiro/RJ
+
+Sobre a vaga
+REQUISITOS MANDATÓRIOS
+
+EXPERIÊNCIA
+
+Experiência com análise e modelagem de dados aplicadas à indústria de óleo e gás Atuação prévia em empresas do setor energético ou projetos envolvendo engenharia de dados e analytics Vivência em projetos de otimização operacional, manutenção preditiva e monitoramento de ativos;
+Habilidade com Linguagens de Programação: Python, R, SQL Machine Learning & Estatística: Modelagem preditiva, séries temporais, aprendizado de máquina Banco de Dados: PostgreSQL, SQL Server, NoSQL (MongoDB, Cassandra) Processamento;
+Conhecimento com Engenharia de Dados: ETL, Apache Spark, Databricks;
+Habilidade com Power BI
+Habilidade com Cloud Computing: AWS, Azure, Google Cloud (foco na infraestrutura utilizada pela Petrobras) e Big Data: Hadoop, Kafka;
+Conhecimento em ferramentas de DevOps e MLOps: Docker, Kubernetes, Git, CI/CD;
+Capacidade analítica e visão estratégica para transformar dados em insights acionáveis Comunicação clara para interagir com equipes multidisciplinares (engenharia, TI, negócios) Proatividade na resoluço de problemas operacionais e suporte à tomada de decisão Adaptação a ambientes regulados e metodologias ágeis.
+
+ESCOLARIDADE
+
+Graduação: Superior em Engenharia, Ciência da Computação, Estatística, Matemática, Física, ou áreas correlatas. 
+Pós-graduação: Pós-graduação ou MBA em Ciência de Dados, Inteligência Artificial ou Big Data (desejável).
+Certificação: Ao menos uma das certificações a seguir (Certificação PMI-ACP, CBPP, BPM ou Lean 6-Sigma (Black Belt) ou Certificação PMP ou PMI-ACP, Professional Scrum Master (PSM), Team Kanban Practitioner (TKP), Lean 6-Sigma (Black Belt) ou Ceritificação Oficial SAFe®
+Certificações (Desejáveis)
+
+Microsoft Certified: Azure Data Scientist Associate AWS Certified Machine Learning – Specialty Google Professional Data Engineer Certificações em Big Data, Machine Learning e Analytics Visualização de Dados: Tableau, Grafana
+
+ATRIBUIÇÕES
+
+Atuar nos subeixos de conformidade, desenvolvimento de habilidades e competências, negócios, processos, projetos, cadeia de suprimentos e transformação digital, realizando a coordenação técnica, análises críticas, apoio estratégico, otimizações, estudos técnicos, condução de trabalhos técnicos especializados, desenvolvimento de soluções, melhoria dos processos e atividades, consultorias, identificação de riscos e oportunidades. 
+
+REQUISITOS DESEJÁVEIS
+
+Certificações em Microsoft Power Platform, Azure Solutions Architect e Automation Anywhere;
+Experiência em Inteligência Artificial e Machine Learning para análise avançada de dados;
+Soft Skills: Habilidade para interpretar e explorar dados de forma estratégica;
+Boa comunicação para interagir com equipes técnicas e de negócios;
+Capacidade de trabalhar em ambientes dinâmicos e de rápida transformação.
+
+Sobre a CAPCO
+
+Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. 
+
+Pensamos, em conjunto, sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros.
+
+Nossas oportunidades são trabalhadas para todos(as)!!!
+
+
+
+Próximos Passos
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+-----------------------------------------------------------------------------------

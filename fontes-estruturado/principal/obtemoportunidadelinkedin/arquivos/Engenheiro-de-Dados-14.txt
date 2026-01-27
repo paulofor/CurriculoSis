@@ -1,0 +1,252 @@
+[Oportunidade 1]
+Oportunidade: PESSOA DESENVOLVEDORA JAVA SR – AFIRMATIVA PARA PESSOAS NEGRAS - REMOTO
+
+Sobre a vaga
+Descrição da vaga
+Somos o grupo educacional mais diversificado do país. Todos os dias, criamos futuros incríveis através da inovação. Colocamos a mão na massa para tirar as ideias do papel e colocá-las em prática. Enfrentamos desafios com resiliência e nos adaptamos às mudanças constantes.
+
+Por aqui, somos um time e não heróis, guiados pela vontade de fazer a diferença e conectados de um só jeito, o #JeitoCogna. Nossa relação é direta e respeitosa, e o sucesso dos nossos alunos e clientes é o nosso sucesso.
+
+Além disso, valorizamos a diversidade, porque sabemos que quanto mais diverso é o nosso repertório, mais abrangente e inclusivo seremos. Juntos impulsionamos as pessoas a construírem uma melhor versão de si! E aí, bora fazer parte da empresa líder absoluta do segmento educacional? Vem pra Cogna.
+
+
+Responsabilidades e atribuições: 
+Desenvolver aplicações Java e/ou Kotlin utilizando o Spring Framework;
+Implementar design patterns e boas práticas de engenharia de software;
+Trabalhar com mensageria e integração de sistemas em ambiente AWS;
+Participar ativamente em projetos de desenvolvimento de software;
+Contribuir com a equipe na resolução de problemas e melhorias contínuas.
+
+Requisitos e qualificações: 
+Graduação em Ciência da Computação, Engenharia de Software ou áreas afins;
+Experiência com programação orientada a objetos e desenvolvimento Java e/ou Kotlin;
+Conhecimento em bancos de dados SQL e NoSQL;
+Certificações em tecnologias específicas serão um diferencial;
+Habilidade de comunicação eficaz e trabalho em equipe;
+Proatividade, capacidade de aprendizado contínuo e resolução de problemas.
+
+
+O que você pode esperar da gente?
+Participação nos lucros: resultados com comemoração fazem parte do jeito Cogna.
+Vale-refeição ou alimentação: num cartão de benefícios flexível.
+Assistência médica: um abrangente plano de saúde, com inclusão de dependentes e coparticipação.
+Assistência odontológica: está disponível para manter seu sorriso.
+
+
+Mas espera, ainda tem mais! 
+
+Bolsas de estudo de graduação e pós graduação: nossas unidades de ensino para que você e seus dependentes (cônjuge e filhos).
+Day off no aniversário: você poderá escolher um dia para relaxar e celebrar.
+Convênio SESC: abre as portas para as inúmeras oportunidades de melhora na qualidade de vida.
+Convênio farmácia Univers: descontos numa variedade de medicamentos.
+Universidade corporativa: diversas trilhas e cursos gratuitos na nossa universidade corporativa para você seguir evoluindo com a gente.
+Descontos em livros: para você adquirir os melhores títulos em nossas editoras.
+Wellhub (Gympass): para que você possa se movimentar no seu dia a dia.
+Programa Ninho: Um programa dedicado às nossas famílias que estão aguardando um novo bebê.
+Valoriza - Programa de Recrutamento Interno: Para impulsionar sua carreira por meio de oportunidades internas.
+
+
+Aqui, acreditamos no respeito, na diversidade e na busca da inclusão em todas suas frentes. Todos os candidatos qualificados serão considerados independentemente de raça, gênero, identidade, expressão de gênero, orientação sexual, nacionalidade, genética, deficiência ou de qualquer outra base.
+Nosso propósito é avançar cada vez mais, gerando empregabilidade para talentos diversos. Venha enriquecer nosso time!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor Back-end SR (Phyton + Java) - Remoto
+
+Sobre a vaga
+Estamos com a posição de Desenvolvedor Back-end SR (Phyton + Java) que envolve criatividade, proatividade, desenvolvimento ágil e que permite compartilhamento constante de conhecimentos. Somos um mundo plural, que promove um ambiente descontraído de verdade, flexível e focado no desenvolvimento humano e profissional para que você possa exercer a sua singularidade.
+
+Atividades
+
+Desenvolver integrações entre diferentes sistemas de catálogo, além de apoiar a automação da dicionarização e ingestão de metadados.
+
+Competencias Iniciais/Requisitos 
+
+Linguagens e Frameworks:
+Python avançado, com experiência prática em Flask e Databuilder (usado para integração com catálogos como o DataHub). 
+Java intermediário (preferência por Java 21), com domínio de testes unitários usando JUnit e Mockito, além de Maven e Spring Boot. 
+Orquestração e Pipelines:
+Experiência com Apache Airflow para orquestração de pipelines de dados. 
+Conhecimento em CI/CD pipelines (GitLab CI, Jenkins, GitHub Actions, etc.). 
+Cloud e Serviços Gerenciados (preferencialmente AWS):
+Experiência com AWS S3, Lambda, Kinesis, AWS Glue, EMR. 
+Integração com serviços de mensageria (ex: Kafka, SQS, SNS). 
+Dados e Integrações:
+Conhecimento em bancos de dados relacionais e não relacionais (PostgreSQL, MySQL, MongoDB, DynamoDB). 
+Experiência com Spark (desejável) para processamento distribuído de dados. 
+Vivência em integração de sistemas via APIs RESTful e mensageria. 
+Capacidade de trabalhar com metadados e automação de processos de catalogação. 
+Desejável experiência com ferramentas de catálogo de dados e integração com Data Lakes. 
+Diferenciais
+
+Inglês avançado. 
+
+About The Company
+
+A Solutis é Digital!
+
+Somos apaixonados por tecnologia e esse valor está presente em nossas ações e proposta de trabalho. Ambiente descontraído e criativo, horário flexível, possibilidade de trabalho home office, eventos e programas internos com games... Isso faz parte do nosso dia-a-dia.
+
+Engajamento, busca intensa por conhecimento, empatia e criatividade são a nossa receita para cultivar e colher, sempre, o melhor resultado tecnológico.
+
+Essa é a Solutis, flexível, acolhedora, inquieta, amante da tecnologia e de tudo que ela nos proporciona de mais incrível.
+
+Venha fazer parte do nosso time!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro (a) de Dados Cloud - ServiceNow
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você. Afinal, It’s yours to build.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Engenheiro (a) de Dados Cloud você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de dados voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você é apaixonado(a) por dados, colaboração e tem as seguintes qualificações, queremos você em nossa equipe:
+
+Ensino superior em Estatística, Ciência da Computação, Engenharia de Software, Sistemas de Informação, Física ou cursos afins.
+Experiência comprovada como Engenheiro de Dados
+Experiência em projetos envolvendo API ServiceNow e conhecimento com tabelas ServiceNow e suas funcionalidades. 
+Linguagem Python, bancos de dados SQL, Databricks
+
+Desejável:
+
+Cetificado Cloud
+
+Principais Responsabilidades:
+
+Manipulação de tabelas ServiceNow em ambiente Cloud Databricks, manipulação de dados com Python e SQL, interação com times técnico e de negócio.
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de Dados SR (Azure/GCP)
+
+Sobre a vaga
+Requisitos:
+Habilidade de comunicação e que tenha experiência em negociações com cliente em nível técnico.
+Experiência no ambiente Cloud e criação de pipelines para ingestão de dados
+Ter trabalhado em projetos de integração e modelagem de dados de diferentes fontes
+Conhecimento avançado em Azure Synapse e Python.
+Conhecimento avançado em linguagem SQL e modelagem de dados.
+Experiência Databricks e Data Factory
+Experiência em GCP (Composer, CloudRun, SQL, BigQuery) para construção de datalakes a partir de fontes de dados públicas
+
+Informações adicionais:
+Contratação CLT
+Atuação remota
+
+Benefícios:
+🍛 Vale Alimentação ou Vale Refeição;
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+🗣 Mentoring;
+💉 Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+🦷Assistência Odontológica;
+🛫 Clube de viagens;
+🐶 Convênio para Pet;
+e muito mais...
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Software Architect (Python), Brazil
+
+Sobre a vaga
+We are tech transformation specialists, uniting human expertise with AI to create scalable tech solutions.
+With over 7.400 CI&Ters around the world, we’ve built partnerships with more than 1,000 clients during our 30 years of history. Artificial Intelligence is our reality.
+
+We’re looking for a Software Architect to join a strategic project focused on creating and structuring Standard Operating Procedures (SOPs). You will work closely with Business Analysts and other cross-functional stakeholders, using GenAI technologies to enable smarter and more scalable documentation solutions.
+
+Responsibilities:
+•Lead the technical vision and implementation of the solution;
+•Define and ensure the application of development best practices;
+•Conduct code reviews and drive code quality;
+•Support in solving complex technical challenges;
+•Provide technical mentorship and guidance to development teams;
+•Collaborate closely with BAs to ensure alignment between technical solutions and business objectives.
+
+Requirements for this challenge:
+•Proficiency in Python, Node.js, Java, and React stacks;
+•Experience in API development, front-end, and database integration;
+•Solid knowledge of relational and non-relational databases;
+•Familiarity with GenAI-based solutions;
+•Experience with containers, queues, and messaging systems;
+•Strong understanding of software architecture and design patterns;
+•Hands-on experience with agile methodologies;
+•Background in technical leadership roles;
+•(Nice to have) Knowledge of computer vision models.
+
+Soft Skills & Leadership Expectations:
+•Commitment to delivering value and ensuring customer success;
+•Strong sense of ownership and delivery mindset;
+•Proactive attitude and problem-solving orientation;
+•Clear and effective communication;
+•Collaborative mindset, working as one team alongside client stakeholders;
+•Critical thinking to identify and suggest improvements;
+•Entrepreneurial spirit to discover and pursue new opportunities;
+•Leadership ability to inspire, motivate, and mentor others, fostering technical growth within the team.
+
+
+
+
+
+CI&T is an equal-opportunity employer. We celebrate and appreciate the diversity of our CI&Ters’ identities and lived experiences. We are committed to building, promoting, and retaining a diverse, inclusive, and equitable company and culture focused on creating a better tomorrow. At CI&T, we recognize that innovation and transformation only happen in diverse, inclusive, and safe work environments. Our teams are most impactful when people from all backgrounds and experiences collaborate to share, create, and hear ideas. Before applying for our opportunities take a look at Conflict of Interest Policy on website. We strongly encourage candidates from diverse and underrepresented communities to apply for our vacancies. 
+
+CI&T is an equal-opportunity employer. We celebrate and appreciate the diversity of our CI&Ters’ identities and lived experiences. We are committed to building, promoting, and retaining a diverse, inclusive, and equitable company and culture focused on creating a better tomorrow.
+
+At CI&T, we recognize that innovation and transformation only happen in diverse, inclusive, and safe work environments. Our teams are most impactful when people from all backgrounds and experiences collaborate to share, create, and hear ideas.
+Before applying for our opportunities take a look at Conflict of Interest Policy on website.
+
+We strongly encourage candidates from diverse and underrepresented communities to apply for our vacancies.
+
+Our benefits:
+
+-Health and dental insurance
+-Meal and food allowance
+-Childcare assistance
+-Extended paternity leave
+-Partnership with gyms and health and wellness professionals via Wellhub (Gympass) TotalPass;
+-Profit Sharing and Results Participation (PLR);
+-Life insurance
+-Continuous learning platform (CI&T University);
+-Discount club
+-Free online platform dedicated to physical, mental, and overall well-being
+-Pregnancy and responsible parenting course
+-Partnerships with online learning platforms
+-Language learning platform
+And many more!
+
+More details about our benefits here: https://ciandt.com/br/pt-br/carreiras
+
+At CI&T, inclusion starts at the first contact. If you are a person with a disability, it is important to present your assessment during the selection process. This way, we can ensure the support and accommodations that you deserve. If you do not yet have the assessment, don't worry: we can support you in obtaining it.
+
+We have a dedicated Health and Well-being team, inclusion specialists, and affinity groups who will be with you at every stage. Count on us to make this journey side by side.
+-----------------------------------------------------------------------------------

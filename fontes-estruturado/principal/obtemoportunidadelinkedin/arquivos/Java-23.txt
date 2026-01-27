@@ -1,0 +1,110 @@
+[Oportunidade 1]
+Oportunidade: Senior Backend Engineer
+
+Sobre a vaga
+Role Summary
+
+The Senior Backend Engineer is a crucial position within Vingcard | ASSA ABLOY, primarily responsible for designing, developing and maintaining robust backend solutions that power our innovative access control systems for hotels and adjacent markets. The role demands a deep understanding of backend technologies, including Spring Boot, Spring MVC, Java, and Kotlin. The candidate will work in a dynamic, cross-functional team to deliver high-quality software that enhances the functionality and performance of our products.
+
+Job Location: Brasilia, Brazil
+
+KEY Responsibilities
+
+ Design, develop and maintain backend applications using Spring Boot, Spring MVC, Java, and Kotlin. 
+ Collaborate with frontend developers to integrate user-facing elements using server-side logic. 
+ Write clean, maintainable, and efficient code. 
+ Contribute to all phases of the development lifecycle, from design to deployment. 
+ Troubleshoot, debug, and optimize backend systems. 
+ Ensure high performance and responsiveness of the application. 
+ Maintain up-to-date knowledge of current backend technologies and best practices. 
+ Participate in code reviews, providing feedback and suggestions for improvement. 
+ Provide technical leadership and guidance to junior developers, helping them navigate technical challenges and grow in their careers. 
+ Ensure adherence to best practices in software engineering, including code quality, testing, and documentation. 
+
+Responsibilities And Authorities
+
+ Authority to make technical decisions related to software architecture and design. 
+ Access to all necessary information and tools to perform role effectively. 
+ Responsibility for delivering high-quality software solutions on time and within budget. 
+ Authority to mentor and provide career development support to junior developers. 
+ Reporting to the R&D Manager for project assignments and career development. 
+
+ Internal and External Contacts/Customers 
+
+ Internal: Work closely with other software developers, QA engineers, product managers, and designers. 
+ External: Interact with external stakeholders during product demos or user feedback sessions. 
+
+Skills
+
+ Key competencies, Relevant Knowledge, skills and competEncies 
+
+ Proficient in Java, Kotlin, Spring Boot, and Spring MVC. 
+ Strong understanding of RESTful APIs and web services. 
+ Experience with observability technologies (e.g. Datadog). 
+ Experience with Git versioning systems. 
+ Strong problem-solving skills and attention to detail. 
+ Ability to work collaboratively in a team environment. 
+ Excellent verbal and written communication skills. 
+ Proactive, self-motivated, and able to manage time effectively. 
+
+Requirements
+
+ Bachelor’s degree in Computer Science, Software Engineering, or related field. 
+ 6+ years of professional experience in backend development. 
+ Proven experience with Java, Kotlin, Spring Boot, and Spring MVC. 
+ Familiarity with Git versioning systems. 
+
+ Languages 
+
+ Proficiency in English for listening, reading and writing. Intermediate speaking skills in English. Proficiency in Brazilian Portuguese. 
+
+Computer Skills
+
+ Proficiency in software development tools, version control systems (e.g., Git), and Continuous Integration/Continuous Deployment pipelines. 
+ Proficiency in Java/Kotlin. 
+ Deep knowledge of Spring MVC and/or Spring Boot. 
+ Proficiency in interacting with relational databases. 
+ Working knowledge of distributed architectures and messaging systems (RabbitMQ, AMQP, etc). 
+ Familiarity with cloud environments (AWS, Kubernetes, etc). 
+
+Experience
+
+ Software Engineer, Backend Engineer or similar position. 
+ Minimum 6 years of experience. 
+
+ Personal qualities 
+
+ Strong leadership and mentorship skills. 
+ Excellent problem-solving skills and attention to detail. 
+ Proactive and self-motivated, with a drive to take initiative and lead projects. 
+ Strong communication and collaboration skills, with the ability to work effectively in a cross-functional team. 
+ Continuous improvement mindset, with a commitment to staying up to date with the latest industry trends and technologies. 
+ Adaptable and eager to learn new technologies and practices. 
+ Detail-oriented with a focus on code quality and best practices. 
+
+ Expected outcome and deliverables  -(For the role, on a 3-5 years horizon)
+
+Over the next 3-5 years, the Senior Backend Engineer will contribute significantly to the development and optimization of our backend systems, ensuring they are robust, scalable, and efficient. The role will play a key part in enhancing the functionality of our access control solutions, delivering high-quality software that meets the needs of our customers and stays ahead of industry trends, including launching new products. The individual in this position will have the opportunity to grow professionally, acquiring new skills and taking on additional responsibilities as part of a dynamic and innovative team.
+
+ Vingcard Athos Team 
+
+The Vingcard Athos team, based in Brasília, Brazil, specializes in developing innovative solutions for the Build-to-Rent market, catering to both long and short-term rentals of furnished apartments. As a small and dynamic team, we manage the entire solution, including IoT devices, backend, frontend, and mobile applications.
+
+We operate on a hybrid work model, with three days in the office and two days working from home. While our primary language of communication is Portuguese, all our code and documentation are in English, and meetings involving other teams are conducted in English.
+
+Our team is an integral part of the Vingcard Research & Development organization headquartered in Sweden. We are thrilled to have you join us!
+
+ CONTRACT DETAILS 
+
+ You will be a registered employee (CLT) of ASSA ABLOY GLOBAL SOLUTIONS IMPORTACAO EXPORTACAO DE EQUIPAMENTOS ELETRONICOS LTDA. 
+ Benefits include Vale Refeição. 
+ Benefits include health insurance (plano de saúde) for you, your spouse and your children at no additional cost. 
+
+We are the ASSA ABLOY Group
+
+Our people have made us the global leader in access solutions. In return, we open doors for them wherever they go. With nearly 61,000 colleagues in more than 70 different countries, we help billions of people experience a more open world. Our innovations make all sorts of spaces – physical and virtual – safer, more secure, and easier to access.
+
+As an employer, we value results – not titles, or backgrounds. We empower our people to build their career around their aspirations and our ambitions – supporting them with regular feedback, training, and development opportunities. Our colleagues think broadly about where they can make the most impact, and we encourage them to grow their role locally, regionally, or even internationally.
+
+As we welcome new people on board, it’s important to us to have diverse, inclusive teams, and we value different perspectives and experiences.
+-----------------------------------------------------------------------------------

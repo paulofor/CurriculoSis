@@ -1,0 +1,253 @@
+[Oportunidade 1]
+Oportunidade: CIENTISTA DE DADOS PLENO- CRÉDITO (100% REMOTO) Trabalho Remoto Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+A Diretoria de Analytics da ClearSale assume uma posição fundamental e estratégica dentro da empresa, sendo a principal responsável pela construção e gestão das soluções antifraudes de nossos clientes. A capacidade analítica é uma das principais características da área, sendo fundamental para a entrega dos melhores indicadores de antifraude do mercado, além de auxiliar a empresa nas mais diversas decisões estratégicas.
+
+Prezamos por um time multidisciplinar para atingir estes indicadores. Contando com mais de 100 profissionais em atividade, somamos mais de 20 áreas de formações diferentes, tendo como ponto em comum a paixão por trabalhar com dados. Estamos sempre em busca de pessoas com muita energia, que tenham facilidade de lidar com números e estejam motivadas a resolver problemas.
+
+Na ClearSale você terá a oportunidade de trabalhar em ambiente descontraído e informal, junto a pessoas com forte domínio em estatística, tecnologia, analytics e programação. Além disso, você irá trabalhar com outras áreas internas da empresa (Soluções, Operações, Comercial, Produtos, TI), para auxiliar na melhoria e eficiência dos nossos produtos e ferramentas de gestão de risco.
+
+Venha fazer parte do nosso contexto de CRÉDITO
+
+Responsabilidades e atribuições
+
+Atividades
+
+Aliar a elaboração de modelos estatísticos complexos a problemas específicos de negócio, garantindo índices cada vez maiores de aprovações automáticas de baixíssimo risco; 
+Criação de modelos no contexto de crédito, utilizando conceitos estatísticos e de machine learning; 
+Analisar o cenário do problema a ser resolvido e criar variáveis em cima de insights; 
+Acompanhamento de performances e pontos de melhoria, aprimorando continuamente os modelos existentes para tornar o bom ainda melhor; 
+Aliar alta qualidade de projetos de modelos com rápida entrega, atendendo as demandas e especificidades de cada segmento; 
+Atualizar-se constantemente em relação a novas práticas do mercado de crédito e tecnologias de análise de dados. 
+
+Requisitos e qualificações
+
+Vem Com a Gente Se Você é Uma Pessoa Que
+
+É apaixonada por novas tecnologias e técnicas de modelagem para aplicar ao negócio; 
+Tem habilidade em manipular grandes volumes de dados e programação; 
+Gosta e possui elevada autonomia para condução de suas atividades; 
+Possui capacidade para trabalhar de forma colaborativa e sempre no espírito de equipe; 
+É curiosa e motivado a resolver novos problemas. 
+
+O Que Você Precisa Para Participar Do Processo Seletivo
+
+Perfil analítico; 
+Habilidade para trabalhar em equipe; 
+Ter experiência em desenvolvimento de algoritmos e modelagem de risco (com foco em crédito); 
+Forte domínio de conceitos estatísticos; 
+Conhecimento do fluxo ETL e implantação em cloud; 
+Conhecimentos avançados em SQL e Python; 
+Conhecimento em Databricks, AzureML e Devops serão considerados um diferencial; 
+Prática em otimização, padronização e versionamento de códigos GIT; 
+Alta capacidade de transmitir conceitos técnicos de forma didática; 
+Experiência no mercado financeiro será considerado um diferencial; 
+Superior completo 
+
+Informações adicionais
+
+Benefícios Oferecidos
+
+PLR (Participação nos Lucros e Resultados);
+Vale Refeição ou Vale Alimentação;
+Auxílio Creche para crianças até 4 anos e 11 meses;
+Seguro de Vida;
+Gympass;
+Sesc;
+Cartão Multibenefícios Alelo – (com desconto na compra de diversos itens na rede credenciada, incluindo medicamentos em diversas redes de farmácias);
+Assistência Médica e Odontológica Bradesco.
+
+Benefícios Adicionais Com Atividades Disponíveis Na Clearsale
+
+Aulas de teatro;
+Política Educacional para Graduação e Pós Graduação;
+Programa eu Saudável (Acompanhamento de saúde e bem estar);
+Programa Primeiros Laços (Acompanhamento Gestacional);
+Licenças Maternidade e Paternidade estendida;
+Palestras de desenvolvimento pessoal e profissional.
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 3: Fit Analítico3Fit Analítico
+Etapa 4: Bate Papo com Talent4Bate Papo com Talent
+Etapa 5: Bate Papo com Liderança5Bate Papo com Liderança
+Etapa 6: Teste Técnico6Teste Técnico
+Etapa 7: Carta Proposta7Carta Proposta
+Etapa 8: Contratação8Contratação
+
+Sobre a ClearSale_
+
+A ClearSale (CLSA3) é referência em inteligência de dados com múltiplas soluções para prevenção a riscos em diferentes mercados, como e-commerce, mercado financeiro, vendas diretas, telecomunicações, entre outros. Nós somos a empresa que mais conhece o comportamento do consumidor digital brasileiro, o que faz com que impulsionemos negócios em todo o ecossistema da economia digital.
+
+Com o nosso time de especialistas, geramos um efeito de rede de proteção no mercado digital, identificando padrões de ataques, protegendo os mais variados segmentos de negócio e promovendo impacto positivo, para garantir a melhor experiência ao usuário, com mínima fricção, do onboarding ao transacional.
+
+Se assim como a gente, você quer tornar a vida digital de todos mais simples, segura e justa, vem ser ClearLover!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: ENGENHEIRO(A) DE DADOS III
+
+Sobre a vaga
+LOCALIZA&CO
+
+Somos uma empresa presente no futuro. Em nossa história, sempre trouxemos para o agora ideias que pareciam existir somente anos à frente. Enxergamos o amanhã pelas lentes do nosso espírito empreendedor.
+
+Construir o futuro da mobilidade é um propósito que impulsiona nossa habilidade de protagonizar e o nosso talento em fazer acontecer. Para cumprir o nosso propósito, precisamos de gente. Gente como nossos colaboradores, clientes, f
+
+Responsabilidades e atribuições
+
+Estamos construindo o futuro da mobilidade sustentável e os dados são parte essencial para essa transformação! Se você é apaixonado(a) por dados e quer fazer parte de uma equipe inovadora, dinâmica e multidisciplinar, essa é a sua oportunidade! Como Engenheiros de dados somos responsáveis por desenvolver e implementar soluções que gerenciam, processam e analisam grandes volumes de dados que são utilizados por produtos, modelos de Ciência de Dados e de Inteligência Artificial, além de gerar insights valiosos para os usuários de negócio. Faz parte do nosso dia a dia interagir com profissionais de diversas áreas, apoiando-os nas análises e na tomada de decisões, além disso, lidamos com desafios complexos e interessantes, que envolvem os mais diversos problemas de dados, o que nos possibilita inovar e utilizar tecnologia e dados para simplificar e encantar nossos clientes.
+
+O QUE VOCÊ IRÁ FAZER COMO ENGENHEIRO(A) DE DADOS SENIOR
+
+Será responsável por projetar, desenvolver e implementar infraestrutura de dados e pipelines robustas, conectando dados de diversas fontes.
+Projetar e implementar soluções de engenharia de dados escaláveis e eficientes.
+Gerenciar integrações, extrações, modelagem de dados e análises usando conectores de dados e APIs SQL, Python/Java e Rest.
+Criar modelos de dados personalizados para descoberta, mapeamento e limpeza de dados.
+
+
+Requisitos e qualificações
+
+O QUE PRECISAMOS:
+
+Ter experiência com engenharia de dados - ambientes com complexidade e/ou escala e utilização de big data.
+Ser capaz de escrever queries em SQL para resolver problemas de alta complexidade de forma otimizada e realizar a modelagem de dados no banco.
+Ser apaixonado por dados.
+Experiência em implementação do zero e manutenção de pipelines de dados.
+Forte experiência em programação com linguagens de propósito genérico (Ex. Python, R, Scala, etc.).
+Conhecimentos sobre diferentes técnicas de arquitetura e modelagem de Banco de Dados para fins analíticos (Ex. Data Mart, Data Lake, Data Warehouse, etc.);
+Capacidade de abstrair conceitos de negócios em métricas quantitativas (Ex. KPIs, OKRs, etc);
+Experiência com Modelagem de Dados (relacional e/ou analítico) e processos ETL.
+AWS (Lambda, S3, Lake Formation, Glue etc);
+dbt
+Ferramentas de orquestração de processos (Airflow);
+Tecnologias de big data (por exemplo, Spark, Hadoop),
+DevOps;
+APIs, Gateways, Micro Serviços e Containers;
+Noções sobre boas práticas de engenharia de software (Ex. Documentação, testes automatizados, código limpo, etc);
+Gostar de trabalhar em equipes multidisciplinar;
+Capacidade de investigar, resolver problemas e aprender rapidamente de forma independente;
+Boas habilidades de comunicação para lidar com as partes interessadas de áreas técnicas e áreas de negócios;
+
+
+Informações adicionais
+
+BENEFÍCIOS DESSA POSIÇÃO
+
+Participação nos Lucros
+Carro Corporativo
+Vale Alimentação
+Vale Refeição
+Convênio Médico
+Convênio Odontológico
+Gympass
+Previdência Privada
+Vale Transporte
+Allya
+Acesso ilimitado a diversos cursos da nossa Universidade Localiza
+Programas internos de treinamento e desenvolvimento
+Desconto em compra e aluguel de veículos
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Líder de Insights
+
+Sobre a vaga
+Somos a Stormx, uma martech que escala operações de marketing digital.
+
+Desenvolvemos nossas próprias ferramentas de automação, somos agnósticos em tecnologia, adotamos metodologias ágeis e temos uma incrível diversidade de talentos.
+
+Estamos em busca de uma Pessoa Analista de BI, para o nosso time de business intelligence.
+
+Esta posição é para pessoas interessadas em atuar com métricas de campanhas de mídia digital e entusiasmadas para encontrar oportunidades de melhoria de resultados.
+
+Buscamos pessoas curiosas e engajadas que queiram contribuir e evoluir junto ao nosso time.
+
+Modelo de trabalho: Híbrido (Em São Paulo/SP e Remoto).
+
+Responsabilidades e atribuições
+
+Reunir informações relevantes de acordo com os objetivos de negócio dos clientes;
+Validar a integridade dos dados reportados;
+Identificar insights em relação à comunicação, estratégias de marketing, comportamento do usuário, previsões, produtos, sistemas, etc.;
+Criar e desenvolver relatórios e Dashboards gerenciais e/ou operacionais;
+Analisar os dados e apresentação de resultados/insights;
+Apoiar a equipe de mídia dos clientes;
+Operar o Analytics: desde o conhecimento técnico de taxonomia (parametrização, pixels), até a elaboração de relatórios gerenciais/operacionais, bem como a análise dos dados para recomendação de insights - otimização de campanhas e rentabilização dos resultados;
+Atender um cliente global e multinacional.
+
+
+Requisitos e qualificações
+
+Experiência e afinidade com métricas e conceitos de Web Analytics, Midia e Social;
+Conhecimento dos conceitos de marketing digital e métricas de mídia e Web Analytics;
+Conhecimento em plataformas de consulta de dados como Metabase, Google Big Query ou similar;
+Conhecimento em ferramentas de visualização de dados como Data Studio, Looker, PowerBI ou similar.
+
+
+Informações adicionais
+
+Diferenciais;
+
+Conhecimento em SQL;
+Conhecimento em Python;
+Conhecimento de modelagem dimensional;
+Conhecimento em Cloud (GCP, AWS);
+Inglês.
+
+
+Modelo de trabalho: Híbrido (Em São Paulo/SP, 2x na semana e Remoto).
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: ESPECIALISTA EM INTELIGÊNCIA ARTIFICIAL
+
+Sobre a vaga
+SOBRE A CAPCO
+
+A CAPCO é uma consultoria global de tecnologia e negócios, focada no setor de serviços financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 33 escritórios nas Américas, Europa e Ásia-Pacífico! Se criatividade e inovação são sua paixão, a CAPCO é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira!
+
+RESPONSABILIDADES
+
+Desenvolver e implementar soluções de inteligência artificial utilizando ferramentas e plataformas em nuvem como Amazon e Azure.
+Implementação de soluções com a utilizar ferramentas de reconhecimento e análise de imagens da AWS, interpretação de linguagem natural, processamento e análise de dados e textos.
+Colaborar com equipes multidisciplinares para integrar soluções de IA em produtos e processos existentes.
+Avaliar, selecionar e implementar as melhores técnicas de IA, incluindo aprendizado supervisionado, não supervisionado, por reforço e aprendizado profundo (Deep Learning), para atender aos requisitos do projeto.
+
+REQUISITOS
+
+Mínimo de 4 anos de experiência em inteligência artificial e 10 anos atuando na área de tecnologia da informação.
+Graduação em Ciência da Computação, Estatística, Matemática ou áreas correlatas.
+Pós-graduação ou MBA em Inteligência Artificial, Ciência de Dados ou áreas relacionadas.
+Domínio técnico de ferramentas de Inteligência Artificial, Deep Learning e outras técnicas de IA.
+Domínio das Linguagens de Programação: Python, R, SQL.
+Cloud Computing: Microsoft Azure, AWS.
+Experiência comprovada na utilização profissional de ferramentas de inteligência artificial, incluindo:
+Amazon Web Services (AWS):Amazon SageMaker, AWS DeepLens, Amazon Lex, Amazon Polly, Amazon Transcribe, Amazon Translate, Amazon Personalize, Amazon Forecast, AWS DeepRacer, AWS Inferentia, AWS Data Exchange, AWS Lake Formation, AWS Glue.
+Microsoft Azure:Azure Cognitive Services, Azure Bot Services, Azure Speech Services, Azure Translator, Azure Content Moderator, Azure Form Recognizer, Azure Video Analyzer, Azure Custom Vision, Azure Anomaly Detector, Azure Personalizer.
+
+CERTIFICAÇÕES (OBRIGATÓRIAS - Pelo menos uma das opções abaixo)
+
+Certificação PMI-ACP, CBPP, BPM, Lean 6-Sigma (Black Belt), Certificação PMP, PMI-ACP, Professional Scrum Master (PSM), Team Kanban Practitioner (TKP), Lean 6-Sigma (Black Belt) ou Certificação Oficial SAFe.
+
+DIFERENCIAIS
+
+Experiência em projetos ágeis e metodologias de desenvolvimento de software;
+Inglês Fluente.
+
+POR QUE CAPCO?
+
+Juntar-se à CAPCO significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente!
+
+O QUE OFERECEMOS?
+
+Vale Refeição;
+Assistência Médica e Assistência Odontológica;
+Seguro de Vida.
+
+Próximos Passos
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+-----------------------------------------------------------------------------------

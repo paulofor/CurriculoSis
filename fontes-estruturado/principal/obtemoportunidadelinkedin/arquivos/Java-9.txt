@@ -1,0 +1,256 @@
+[Oportunidade 1]
+Oportunidade: Profissional de desenvolvimento java SR+ AWS
+
+Sobre a vaga
+Código da vaga: 48434
+
+
+
+Sobre a BRQ Digital
+
+
+Há 32 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+
+
+A maioria dos nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+
+BRQ WAY
+
+
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+
+Vamos transformar juntos! Vem ser fera com a gente.
+
+
+Venha fazer parte de uma das maiores empresas de transformação digital do país!
+
+- O que procuramos?
+
+Buscamos um #fera que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+
+- O que você deve ter?
+
+
+Profissional deverá ter atitude de dono e proatividade (ambos os quesitos serão diferencias para a vaga) para buscar e propor soluções, fazer entendimento das regras de negócio.
+Conhecimento técnico necessário: Java com Springboot, Serviços da AWS, Kafka, bando de dados (relacional e não relacional). 
+
+
+
+- O que temos pra te oferecer?
+
+
+Mais do que um plano de carreira!
+
+
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+
+
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+
+
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+
+
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+
+
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+
+
+- E os benefícios?
+
+
+
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+
+- Como é trabalhar na BRQ?
+
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Engenheira de Dados Java SR (Spring Boot e PostgreSQL)
+
+Sobre a vaga
+A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.
+
+Todas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟
+
+O DESAFIO
+● Desenvolver aplicações e serviços backend em Java (usando Spring Boot) focados no processamento e integração de dados, incluindo a construção de APIs RESTful ou microserviços que permitam o consumo e fornecimento de dados via base dimensional.
+● Implementar pipelines de dados e fluxos de processamento em Java, integrando com sistemas de mensageria (ex: Apache Kafka) e outros mecanismos de streaming quando necessário, para capturar dados transacionais em tempo real e persistí-los de forma segura.
+● Projetar e otimizar esquemas de banco de dados PostgreSQL para armazenar dados = provenientes de sistemas legados ou da camada de ingestão, garantindo normalização adequada ou modelagem relacional conforme necessário, além de criar índices e otimizar consultas para alto desempenho.
+● Colaborar com o time de arquitetura e outros engenheiros de dados para assegurar que as soluções desenvolvidas em Java/PostgreSQL estejam alinhadas com a arquitetura dimensional e não gerem redundâncias ou inconsistências com as demais fontes de dados.
+● Implementar testes (unitários e de integração) e monitoramento nos serviços desenvolvidos, assegurando que falhas sejam rapidamente identificadas (logs, métricas, telemetria) e colaborando com a equipe de SRE para implantar monitoramento e alertas adequados.
+● Participar da integração de dados entre o PostgreSQL e outras camadas da plataforma (por exemplo, exportando dados para Data Lake ou fornecendo dados atualizados para aplicações de relatório), escrevendo scripts ou procedimentos armazenados quando necessário.
+● Dar suporte e manutenção evolutiva aos componentes desenvolvidos, tanto durante a fase de construção quanto na sustentação posterior, incluindo documentação clara do código e das integrações realizadas.
+
+O QUE VOCÊ PRECISA
+● Experiência em construção de APIs REST e microserviços, com práticas de versionamento, segurança (autenticação/autorização) e documentação (OpenAPI/Swagger).
+● Familiaridade com sistemas de mensageria e event streaming (Kafka ou similares) e integração de aplicações Java com esses sistemas (producers/consumers, processamento de eventos).
+● Conhecimento de ferramentas de build e entrega contínua para Java (Maven/Gradle, Jenkins/GitLab CI) e experiência básica em containerização (Docker) para deploy dos serviços.
+
+VOCÊ VAI BRILHAR AINDA MAIS SE TIVER
+
+Experiência no mercado financeiro
+
+O QUE OFERECEMOS PARA VOCÊ
+
+🍴 Vale Alimentação: Para saborear deliciosas refeições
+＄ Previdência Privada: Planeje o futuro com segurança.
+✙ Assistência Médica e Odontológica: Cuidado completo para você e sua família.
+👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.
+‍👧‍👦 Auxílio Creche: Para ajudar nas despesas dos pequenos.
+ღ Seguro de Vida: Segurança para você e quem você ama.
+💪 Wellhub: Acesso a academias e atividades físicas para manter a saúde em dia.
+💰 Participação nos Lucros e Resultados (PLR): Sucesso compartilhado com todos.
+⚕ Einstein Conecta: Orientação médica online com os especialistas do Hospital Israelita Albert Einstein, totalmente gratuito.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor(a) Java Pl/Sr
+
+Sobre a vaga
+Estamos em busca de um(a) profissional com perfil colaborativo, técnico sólido e boa comunicação para integrar um time engajado em projetos desafiadores e inovadores!
+
+
+Requisitos e qualificações
+O que precisamos que você tenha de conhecimento:
+
+Requisitos essenciais:
+Stack e conhecimentos necessários:
+Java 21 ou superior
+JUnit 4 ou 5
+Angular 8+
+Spring Boot 3.4.X ou superior
+Arquitetura baseada em microsserviços e princípios REST
+Banco de dados relacional (preferência por SQL Server) e NoSQL (MongoDB)
+Git e Maven
+AWS (EC2, RDS, SQS, S3)
+Containers com Docker
+CI/CD – construção e manutenção de pipelines
+Princípios SOLID
+Elasticsearch (experiência prática)
+
+O que te oferecemos:
+
+🍛 Vale Alimentação ou Vale Refeição;
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+🗣 Mentoring;
+🏫 Auxílio Creche;
+💉 Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+🦷Assistência Odontológica;
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+🛫 Clube de viagens;
+🐶 Convênio para Pet;
+e muito mais...
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Desenvolvedor de Software SR
+
+Sobre a vaga
+Trabalhamos para que a vida possa avançar e estamos sempre à procura de pessoas inovadoras que possam contribuir com a nossa missão. Que tal fazer parte do nosso time?
+
+Local Principal: Brasil (BR) - São Paulo - Indaiatuba
+
+Função: Technology (CA)
+
+Título: Desenvolvedor de Software SR - 111442
+
+Principais Responsabilidades
+
+Desenvolver e manter aplicações utilizando Javascript, Typescript, Java e React JS;
+Participar do projeto e implementação de sistemas distribuídos escaláveis e de alta disponibilidade;
+Colaborar na utilização de serviços de nuvem AWS para desenvolvimento e implementação de soluções;
+Contribuir para a criação e manutenção de testes unitários, de integração e end-to-end (e2e) para garantir a qualidade
+do software;
+Auxiliar na implementação e gerenciamento de pipelines de CI/CD utilizando Jenkins e GitHub Actions;
+Utilizar Infrastructure as Code (IAC) com Terraform para gerenciar e provisionar infraestrutura;
+Participar da implementação de práticas de observabilidade utilizando NewRelic e Open Telemetry para monitoramento
+e análise de desempenho;
+Trabalhar em conjunto com a equipe para promover boas práticas de desenvolvimento e inovação.
+
+Habilidades Que Você Precisa 
+
+Graduação completa em TI, Ciência da Computação, Engenharia, Sistemas de Informação, Análise e Desenvolvimento de Sistemas ou áreas equivalentes;
+Inglês em nível avançado: ter um vocabulário amplo, boa gramática, conduzir reuniões, argumentar, negociar e dar formação;
+Conhcimento em Java, JavaScript, TypeScript e frameworks como ReactJS; 
+Experiência em desenvolvimento de sistemas distribuídos e serviços de nuvem (preferencialmente AWS); 
+Experiência em práticas de teste de software, incluindo testes unitários, e2e e de integração; 
+Experiência com ferramentas de CI/CD, como Jenkins e GitHub Actions e infraestrutura como código (Terraform).
+
+O que Te Faz Destacar 
+
+Experiência em contribuir para projetos de software complexos;
+Habilidade para inovar e implementar soluções técnicas eficazes;
+Experiência com ambientes colaborativos com outros membros da equipe e contribuição para seu desenvolvimento
+técnico;
+Experiência em ambientes ágeis e colaboração com equipes multifuncionais.
+
+Nossos principais benefícios
+
+Remuneração variável; 
+Plano de Saúde;
+Plano Odontológico;
+Seguro de Vida;
+Previdência Privada;
+Benefício Ótica; 
+Reembolso vacina; 
+Universidade Corporativa; 
+Wellhub (Gympass);
+Dependendo da unidade, você terá restaurante no local, vale refeição ou alimentação;
+Auxílio farmácia;
+Entre outros
+
+Nosso Processo Seletivo
+
+A seleção começa com a sua inscrição, para algumas vagas, existem alguns testes adicionais. Você terá a possibilidade de conhecer pessoas do time nas entrevistas! Nosso processo seletivo é flexível em termos de tempo, então não se preocupe! Nossa equipe de Talent Acquisition está comprometida em proporcionar a melhor experiência para você. Analisamos todas as candidaturas cuidadosamente e fornecemos feedback em todas as etapas do processo. Além disso, todas as orientações serão enviadas por e-mail!
+
+Sobre a John Deere
+
+A John Deere é líder global no fornecimento de produtos, tecnologia e serviços avançados para clientes que desempenham um papel essencial na agricultura, construção, florestal entre outros setores. Nosso objetivo é atender à crescente necessidade mundial de alimentos, combustível, abrigo e infraestrutura, enquanto promove a sustentabilidade e a preservação do planeta que chamamos de lar.
+
+Inovamos para impulsionar a produtividade e proteger nosso planeta e convidamos você a fazer parte dessa história. Trabalharemos juntos para criar, testar, superar para que para que a vida possa avançar. 💚🚜
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Desenvolvedora Java Sênior
+
+Sobre a vaga
+Descrição:
+Você é apaixonado(a) por backend, arquitetura escalável e soluções robustas? Estamos em busca de um(a) Desenvolvedor(a) Java Sênior para se juntar ao nosso time e atuar em projetos estratégicos, com foco em microsserviços, cloud computing e boas práticas DevOps.
+Responsabilidades:
+Desenvolver e manter aplicações backend usando Java (8+)
+Projetar soluções com foco em performance, escalabilidade e segurança
+Criar e evoluir microserviços com mensageria e containers (Kafka, Docker, Kubernetes)
+Atuar com cloud (AWS, GCP ou Azure), CI/CD e monitoramento
+Contribuir com decisões de arquitetura, mentoria técnica e boas práticas
+Trabalhar de forma colaborativa com times ágeis (Scrum/Kanban)
+Requisitos:
+Sólida experiência com Java + Spring Boot / JPA / Hibernate
+Vivência com arquitetura orientada a eventos e microsserviços
+Conhecimento de cloud (preferência AWS) e infraestrutura como código (Terraform ou similar)
+Experiência com testes automatizados, versionamento (Git) e qualidade de código
+Comunicação clara e proatividade para resolver problemas complexos
+Diferenciais:
+Experiência como referência técnica ou liderança de times
+Conhecimento em bancos de dados não relacionais (MongoDB, Redis)
+Perfil colaborativo com visão de produto e negócio
+
+O que oferecemos para você?
+
+
+Vale Refeição ou Alimentação;
+Assistência médica e Odontológica;
+Convênio Farmácia (descontos na compra de medicamentos);
+Seguro de Vida;
+TIVIT Club (descontos e parcerias com as melhores lojas);
+PAC - Programa de aceleração de carreira;
+Reembolso para certificações;
+MOBIFLIX – Nossa academia corporativa tem cursos presenciais e online, alinhados as novas tendências do mercado de tecnologia;
+Plataforma online de crédito consignado, a TIVIT te ajuda a realizar os seus objetivos pessoais como reforma no seu apê/casa, financiar estudos e quitar dívidas, de acordo com as regras e políticas da cia;
+Programa de Apoio Pessoal com orientação psicológica, financeira e jurídica em parceria com a Alelo.
+-----------------------------------------------------------------------------------

@@ -1,0 +1,253 @@
+[Oportunidade 1]
+Oportunidade: Senior Java Software Engineer
+
+Sobre a vaga
+1GLOBAL is a technology-driven global mobile communications provider dedicated to empowering enterprises worldwide to unlock the full growth potential of mobile connectivity. With a best-in-class telecom technology platform, a comprehensive suite of globally viable regulatory licenses, and privileged access to the telecom wholesale market, 1GLOBAL is uniquely positioned to deliver seamless compliance and connectivity solutions. Serving the world's leading banks, corporations, and digital-first businesses—including neo-banks, travel companies, and payment service providers—1GLOBAL connects over 43 million devices globally.
+ With 2024 full-year revenue exceeding US$100 million, 1GLOBAL is a profitable business generating significant cash flows to fund its ongoing investments in infrastructure, transformation, and growth. 2024 saw major client wins and marked 1GLOBAL's evolution from a multi-market telecommunication provider to a global technology-driven mobile connectivity powerhouse. 
+ Established in 2022 by experienced tech founders and entrepreneurs Hakan Koç and Pyrros Koussios, 1GLOBAL is a European technology leader driving digital transformation in the global telecommunications market. It operates as a fully regulated Mobile Virtual Network Operator ("MVNO") in nine countries and as a regulated telecommunications operator in an additional 31 countries. Headquartered in the Netherlands, with world-class R&D hubs in Lisbon, Berlin, and São Paulo, 1GLOBAL employs over 450 experts across 13 countries. 
+Position Overview 
+We are looking for a talented engineer to join our Consumer Group. You will join a development team responsible for the product delivery and in-life management of our B2C (betterroaming) and B2B2C (API powering revolut, nordVPN, etc.) products. The talented team, eager to learn and experiment with new technologies. We value teamwork and embrace a culture of fully owning our deliverables, meaning we are both autonomous and accountable for them.
+
+The successfully hired candidate will receive onboarding and training in Lisbon, Portugal; gaining valuable skills while experiencing one of Europe's most dynamic and renowned cities.
+
+
+Fluency in English is essential for this role. Please ensure your CV is submitted in English as part of your application.
+Key Responsibilities:
+• Build high impact features and contribute to the architecture design; aim towards resiliency, scalability, security and fault tolerance;
+• Advocate for high code quality, readability and high tests coverage;
+• Promote best practices for a high-scale web (or mobile) environment;
+• Work with an Agile methodology;
+• Identify areas of improvement in the codebase and promote them through seamless integrations, documenting solutions and new flows;
+• Mentor junior members when needed and contribute with meaningful reviews.
+
+Requirements
+
+• 5+ years of experience in Java software development;
+• Experience with unit/integration/e2e testing (test driven development is a plus);
+• Proficiency with REST APIs, both in implementing and consuming the interfaces;
+• Experience with development tools and processes (Git-flow, peer reviewing);
+• Familiarity with relational databases, CI/CD flows, Git, Docker, and Kubernetes;
+• Good understanding of cloud services and scalable infrastructure;
+• Excellent communication skills (fluent in English, both written and spoken), with a self-motivated and autonomous mindset.
+
+Benefits
+
+Why 1GLOBAL?
+ Growth Opportunities: Advance your career in one of the fastest growing telecommunications companies, expanding over 40% year-on-year under the leadership of successful tech entrepreneurs
+ Major Transaction Exposure: Be in the driver's seat for transactions that will have an impact on the future telco industry
+ Work with a Talented Team: From the Board and the Founders to the Senior Management Team, you will collaborate daily with the most capable and renowned external advisors, and constantly being exposed to talented and driven individuals
+ Dynamic Work Environment: Thrive in a collaborative, fast-paced workplace where innovation is encouraged, and every contribution counts
+ Professional Development: Work alongside industry experts to enhance your skills and knowledge in a cutting-edge field
+ International Experience: Gain opportunities to work in different 1GLOBAL offices around the world as you grow within the company
+ Open Communication Culture: Join a team where your ideas are heard, and open dialogue is encouraged, fostering a supportive and transparent work environment
+ Get Things Done Attitude: Be part of a results-driven team that values efficiency, creativity, and the drive to make a tangible impact in the industry
+ 1GLOBAL is an equal opportunity employer, we value your character as much as your talent. Diversity drives our innovation and we offer a collaborative, dynamic, and international work environment. We are excited for you to join our mission to revolutionise connectivity globally.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor Java Backend – APIs para SAP
+
+Sobre a vaga
+NEORIS é uma acelerador Digital que ajuda empresas a entrar no futuro, temos mais de 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Somos mais de 4.000 profissionais em 11 países, temos uma cultura de startup multicultural onde cultivamos inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes.
+
+Estamos em busca de um Desenvolvedor Java Backend experiente para atuar no desenvolvimento e manutenção de integrações e APIs, com foco em sistemas SAP e ambientes corporativos híbridos.
+
+Principais Responsabilidades
+
+Projetar, desenvolver e manter pipelines de integração entre SAP (ERP e IS-U HANA) e sistemas legados, utilizando ferramentas modernas de automação e orquestração.
+Garantir que todas as integrações atendam aos padrões de segurança da informação, auditoria, criptografia e compliance regulatório.
+Desenvolver e monitorar APIs, middlewares (SAP PI/PO, CPI, etc.), conectores e sistemas de mensageria (Kafka, RabbitMQ), assegurando a continuidade dos fluxos de dados.
+Implementar boas práticas de versionamento, CI/CD, segregação de ambientes, testes automatizados e estratégias de rollback.
+Colaborar com equipes multidisciplinares, incluindo times de BASIS, segurança, infraestrutura, desenvolvimento ABAP/Java e fornecedores externos.
+Gerenciar controle de acesso a serviços de integração utilizando OAuth2, certificados digitais, SAML, entre outros.
+Monitorar, diagnosticar e resolver falhas nos pipelines de integração, garantindo alta resiliência e disponibilidade.
+
+Requisitos
+
+Experiência sólida em desenvolvimento de APIs na AWS.
+Conhecimento avançado em práticas DevSecOps aplicadas a projetos SAP e integrações corporativas.
+Domínio de pipelines CI/CD (GitLab CI, Jenkins, Azure DevOps).
+Experiência com integrações seguras (HTTPS, JWT, certificados, SSO, firewalls).
+Conhecimento em containers (Docker) e orquestração (Kubernetes, OpenShift).
+Vivência com sistemas de mensageria (Kafka, RabbitMQ).
+Automação de testes e validação em integrações.
+Monitoramento de logs e métricas (ELK, Grafana, Prometheus).
+Familiaridade com ambientes SAP híbridos (cloud/on-premise).
+Conhecimento prévio em integrações com sistemas de utilities, CRM legado e gestão de redes. 
+Modelo de trabalho híbrido – presença requerida 3 dias por semana no escritório em Rio de Janeiro.
+
+Oferecemos
+
+Vale Refeição e Vale Alimentação: Benefícios mensais para suas despesas com alimentação, dentro e fora de casa. 
+Previdência Privada: Planejamento de futuro com contribuição complementar à aposentadoria. 
+Plano de Saúde: Cobertura médica de alta qualidade para você e seu dependente legal. 
+Plano Odontológico: Cuidados odontológicos completos, com ampla rede de atendimento. 
+Seguro de Vida: Proteção e segurança para você e seus entes queridos. 
+Aulas de Inglês/Espanhol: Incentivo ao aprendizado de idiomas. 
+Wellhub: Benefícios e descontos em academias e programas de bem-estar. 
+Auxílio Creche: Suporte financeiro para despesas com educação infantil. 
+Neoris Global Campus: Plataforma de desenvolvimento com oportunidades contínuas de aprendizado e crescimento profissional. 
+
+Te convidamos a nos conhecer em http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: 9928 Desenvolvedor Backend II
+
+Sobre a vaga
+A Extreme Digital Solutions é uma empresa jovem, fundada em 2014, antenada nas mais modernas tendências e tecnologias.
+
+Temos como missão tornar negócios mais simples e eficientes, e, na nossa essência, a busca e integração de soluções para as mais complexas e diversas necessidades dos negócios de nossos clientes.
+
+Ao longo desse tempo atingimos a marca de 1000 colaboradores no Brasil e temos na bagagem centenas de projetos desafiadores, com uso intenso de inteligência artificial, e uma visão sempre cuidadosa com a experiência do usuário e sucesso do cliente.
+
+Um papel na EDS é uma oportunidade para fazer parte de algo diferenciado. Somos uma empresa que não tem medo de assumir riscos e inovar. Sim, somos aventureiros e gostamos disso!
+
+Nosso time de talentos tem espaço para você que quer crescer e entregar resultados surpreendentes!
+
+O que você fará?
+
+Estamos procurando Desenvolvedor(a) Pleno com conhecimento em banco de dados relacionais e experiência com as linguagens Java e .NET. Buscamos alguém que esteja disposto a colaborar na modernização de aplicações legadas e monolíticas para ambientes em nuvem e conteinerizados; realizar manutenção de softwares conforme os requisitos de negócios e padrões de arquitetura; escrever testes unitários para garantir a qualidade do software. Você também irá interagir com o cliente e as equipes internas para identificar e analisar requisitos para desenvolvimento e participar na criação de documentos com definições sistêmicas.
+
+Qual bagagem você deve trazer?
+
+2 a 4 anos de experiência de atuação como desenvolvedor;
+Inglês intermediário;
+Graduação na área de Ciência da Computação, Análise e Desenvolvimento de Sistemas, Engenharia da Computação e/ou áreas correlatas;
+Experiência com desenvolvimento web utilizando Java, Java EE, JPA, Spring e/ou .NET;
+Familiaridade com mensageria como Active MQ, Rabbit MQ, ou Kafka;
+Conhecimento em microserviços e conteinerização (Docker ou Kubernetes);
+Experiência com ferramentas de CI/CD, versionamento de código com Git e gerenciamento de dependências com Maven.
+
+Diferenciais que realmente nos encantam:
+
+Experiência com metodologias ágeis: Scrum, Agile;
+Certificações em Java ou frameworks relacionados (ex.: Java SE 17 Developer 1Z0-829);
+Familiaridade com plataformas de API Management, como WSO2 ou Mulesoft;
+
+Experiência com Apache Camel ou tecnologias similares.
+
+Outras Informações
+
+Condições PJ: Valor fixo e 10 dias de ausência remunerada
+
+A Todos os nossos colaboradores também estendemos em nossos escritórios:
+
+Check in premiado: Cada ida ao escritório gera um número da sorte para concorrer a prêmios semanais, mensais e anuais.
+Aulas de Inglês gratuítas ministradas por professores qualificados até 2x na semana
+Serviços de bem-estar e saúde como: 💅Manicure 🧔🏾Barbearia 💆🏻‍♂ Massagem 💇🏽‍Cabelereiro
+
+About The Company
+
+Simplificamos o mundo com tecnologia e inovação, tornando organizações mais simples e eficientes.
+
+Venha fazer parte desse time comprometido com tornar a experiência dos clientes e usuários cada vez melhor!
+
+#venhaserumExtremer
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Desenvolvedor(a) Backend Java Sênior
+
+Sobre a vaga
+Quem estamos buscando?
+Estamos buscando a pessoa desenvolvedora, que curte inovação, gosta de um ambiente colaborativo, tem domínio de tecnologias de desenvolvimento back-end. Um profissional que goste de trabalhar com desenvolvimento de aplicações Web inovadoras, utilizando tecnologias que estão em alta no mercado.
+
+Competências e experiência necessárias:
+Experiência em programação Java/Spring Framework (Spring Boot, Data, Security);
+Experiência em banco de dados relacionais;
+Experiência em definição e desenvolvimento de REST APIs;
+Experiência em testes unitários/integração;
+Conhecimento em DevOps (CI/CD pipelines);
+Experiência em desenvolvimento cloud (AWS);
+Disponibilidade para atuação híbrida 2x/semana em São Paulo (Pinheiros);
+Inglês avançado.
+
+Quais são os benefícios de ser um Ventureiro ou Ventureira:
+- Vale alimentação/refeição com valores acima da média de mercado;
+- Plano médico e odontológico;
+- Auxílio home office e mobilidade mensais (trabalho híbrido);
+- Licença parental (maternidade - 6 meses; paternidade - 20 dias);
+- Auxílio creche até 24 meses de idade;
+- Programa Care4All (rede de apoio à saúde emocional e física);
+- Wellhub;
+- Acesso à Zenklub (plataforma online de saúde mental);
+- Emenda de feriados e recesso de final de ano;
+- Horários flexíveis;
+- Seguro de vida;
+- Previdência privada;
+- Bolsa de estudos, auxílio para certificação e licença da Udemy;
+- Horas de liberação para estudos de mestrado e doutorado;
+- Acesso à plataforma Voxy – para aulas de inglês;
+- Acesso à nossa Universidade Corporativa (vnt/school);
+- PPR.
+
+Gostou? Então inscreva-se e participe de nosso processo seletivo! 🙂
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Desenvolvedora Backend Sênior
+
+Sobre a vaga
+Pessoa Desenvolvedora Backend SÊNIOR
+
+Local: Remoto (Temporário)
+
+Estamos em busca de uma Pessoa Desenvolvedora Backend Sênior para ingressar em nossa nave e juntos, decolar o foguete que impulsiona pessoas para inovar o mundo.
+
+E antes de apresentar a vaga, queremos te mostrar as razões para ser South System:
+
+As +350 pessoas do nosso time nos elegeram 2 vezes uma das melhores empresas para se trabalhar no país (GPTW) e nos deram 4.9 estrelas no Glassdoor e Indeed;
+Somos Talent Awards pelo LinkedIn;
+Somos Carbon neutral – contribuímos com a compensação das emissões de carbono;
+Estamos operando com oportunidades em home office e também com oportunidades híbridas;
+Contemplamos benefícios variados como.
+Acesso livre a plataforma de cursos Udemy com certificações exclusivas;
+Benefício de home office;
+Benefício de educação financeira;
+Cartão de benefícios flash.
+
+Nosso código de cultura é norteado por atitudes e práticas que fazem parte do nosso dia a dia:
+
+Apoio e incentivo ao crescimento e desenvolvimento das pessoas;
+Respeito, lealdade, colaboração e engajamento fazem parte do nosso DNA, cultivamos um ambiente seguro para todos;
+Somos diversos e acreditamos no poder da inclusão e da diversidade dos times;
+Unimos pessoas e inovação para prover soluções de TI.
+Amamos nosso planeta e queremos fazer dele um lugar melhor para as próximas gerações por isso cultivamos diversas ações de sustentabilidade;
+Mantemos e apoiamos ações sociais.
+
+Agora, vamos falar dessa oportunidade!
+
+Nossos profissionais atuam em projetos alocados em clientes, ou projetos de fábrica, e todos têm acompanhamento das nossas Business Partners, com suporte especializado para que tenham um bom desempenho e progresso de carreira. Nossas Squads são multidisciplinares disponíveis de forma global. Esta oportunidade é para um cliente no segmento financeiro.
+
+Objetivo:
+
+Profissional irá atuar como Desenvolvedor Backend sendo responsável por desenvolver e manter soluções robustas e escaláveis, utilizando a tecnologia Java, contribuindo para a melhoria contínua dos nossos sistemas e processos.
+
+As principais atribuições da posição incluem:
+
+Projetar, implementar e testar serviços e APIs em Java, garantindo a eficiência e a qualidade do código.
+Colaborar com equipes multidisciplinares para entender requisitos e propor soluções técnicas inovadoras.
+Realizar a manutenção e otimização de sistemas existentes, identificando e corrigindo falhas ou gargalos de desempenho.
+Participar ativamente de revisões de código e contribuir com boas práticas de desenvolvimento ágil.
+Documentar processos e soluções desenvolvidas, assegurando a transferência de conhecimento entre os membros da equipe.
+Monitorar e garantir a segurança das aplicações, aplicando as melhores práticas de desenvolvimento seguro.
+
+Os requisitos para a vaga incluem:
+
+Experiência sólida em desenvolvimento Backend com Java.
+Conhecimento em frameworks e ferramentas relacionadas ao ecossistema Java, como Spring, Hibernate, entre outros.
+Habilidade em trabalhar com bancos de dados relacionais e não relacionais.
+Familiaridade com metodologias ágeis de desenvolvimento, como Scrum ou Kanban.
+Capacidade de resolver problemas de forma criativa e eficiente, com foco em resultados.
+
+Experiências desejáveis:
+
+Participação em projetos de grande escala, preferencialmente no setor financeiro ou em cooperativas de crédito.
+Conhecimento em integração de sistemas e APIs RESTful.
+Experiência com testes automatizados e ferramentas de CI/CD.
+Certificações relacionadas à tecnologia Java ou desenvolvimento de software.
+
+Estamos em busca de um profissional proativo, que tenha paixão por tecnologia e que esteja disposto a contribuir para o crescimento e a inovação.
+
+Junte-se a nós e ajude a impulsionar e transformar o mundo!
+
+Experiência e competências desejadas
+Java, Liderança, Colaboração, Flexibilidade, Comunicação, Pontualidade, Agilidade, Responsabilidade
+-----------------------------------------------------------------------------------

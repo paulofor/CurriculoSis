@@ -1,0 +1,244 @@
+[Oportunidade 1]
+Oportunidade: Senior Data Scientist Safety - Statistics
+
+Sobre a vaga
+About The Team
+
+The Safety Engineering team uses real-time telematics and motion sensing technologies along with multi-faceted machine learning algorithms and user-facing mobile products to reduce and prevent unsafe driving and behavior on the Uber platform. The team is building low-latency data streaming infrastructure that ingests terabytes of data daily before applying statistical modeling and signal processing algorithm, NLP auditing as well as facial biometrics recognition solutions. Our work touches all parts of the Uber experience from dispatch to on-trip and post-trip, as well as Uber's entire ecosystem ranging from our rides business to other newer Uber marketplaces, and ventures.
+
+As a data scientist on the Safety Data Science team, you will have the opportunity to seek some of the hardest problems in all of Uber: improving the safety of cities and people all over the world. You will develop expertise and insights in a team that seeks to make rare events even rarer. It is an outstandingly relevant, stimulating, and, most of all, exciting endeavor.
+
+This data scientist will be based at Uber's New Technology Development Center in Sao Paulo (Brazil), we are in a hybrid office mode of 2 times a week in the office (NO REMOTE). This is a critical and integral opportunity with Uber. This team has long and successful relationships with our Machine Learning Platform, Insurance, Safety Research, Trust and Risk, Operations, all of our regional teams, and many other parts of Uber.
+
+What You'll Do
+
+ Master safety-related data, risk factors, and outcomes in high and low resolution, such as before, during, and after a trip, and at coarser aggregations or spans of time and geography 
+ Develop and lead statistical and machine learning efforts in relation to your projects. Our projects leverage machine learning, experimentation, signal processing, time series analysis, geospatial analysis, natural language processing, and more. We'll give you as many challenges as you can seek and help you grow to take on more 
+ Leverage large scale data processing such as Spark, Hive, and Uber's proprietary machine learning platform, and more 
+ Work with sensor and telematics data such as GPS and phone accelerometer & gyroscope data 
+ Conduct original analyses to advise and influence product, engineering, and operations efforts 
+
+ What You'll Need 
+
+ 5+ years of experience in Data Science and Data Analysis, A/B testing experimentation and Statistical knowledge is a must. 
+ Expertise with R or Python 
+ Experience as a data scientist at a company with global operations is a huge plus 
+ Previous experience in safety or risk is a plus 
+ Proven familiarity with code and programming concepts 
+ Experience with production systems or mobile signal processing is a plus 
+ Experience with systems like Spark, Hive, SQL, or stream processing is a plus 
+ Great interpersonal skills, organized, able to multitask and be a great teammate 
+ Balance attention to detail with swift execution 
+ Passion about Uber and the riders, drivers, and markets we serve!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Data Scientist (GenAI & LLMs)
+
+Sobre a vaga
+AQUI VOCÊ IMPACTA DE VERDADE: SUA CARREIRA, AS PESSOAS, O MUNDO
+
+A Hotmart é uma empresa global de tecnologia, líder em negócios digitais e protagonista na Creator Economy (Economia dos Criadores de Conteúdo). Com sede nos Países Baixos, nosso time de Troopers - forma como carinhosamente chamamos nossos colaboradores (as) - está espalhado por sete países.
+
+Nosso jeito de trabalhar é desenvolver talentos enquanto geramos impacto positivo no mundo. Para isso, usamos a tecnologia para possibilitar que pessoas transformem seu conhecimento em negócios de sucesso e trabalhamos com Autonomia, Liberdade e “Love”, para sempre lembrarmos de nutrir relações sinceras e nos importar com as pessoas à nossa volta.
+
+Formamos um ecossistema multiplataforma que impulsiona o mercado da Creator Economy e gera impacto global, cumprindo nossa missão de encorajar as pessoas a compartilharem seus conhecimentos para ganharem o mundo ao criar, vender e escalar seu negócio digital.
+
+O nosso time de Inteligência Artificial é responsável por criar soluções e sistemas inteligentes para times de negócio tomar melhores decisões, e alavancar a entrega de valor para nossos creators. Para suportar esse crescimento, estamos à procura de uma pessoa Cientista de Dados que nos ajude a criar produtos inteligentes para ajudar times a serem mais eficientes e a trazer valor para nossos creators com tecnologias emergentes alinhadas com o objetivo de negócios.
+
+Suas responsabilidades / Seu dia a dia 
+
+Como membro do time de AI, você terá a responsabilidade de se conectar com o estado-da-arte em termos técnicos e encontrar soluções práticas e inovadoras que potencializam nosso negócio. Espere ter desafios em envolvem técnicas das mais diversas naturezas: NLP, Aprendizado por Reforço, modelos tradicionais tabulares, e principalmente protagonizar o uso de Modelos Generativos - LLMs, Text-to-Image, Audio-to-Text, etc - no nosso mercado. Prepare-se para pesquisar, prototipar, experimentar e impactar o nosso produto, os processos e as pessoas.
+
+Qualificações Que Você Precisa Ter
+
+Atue na análise, definição, desenho técnico e na proposta de solução para o escopo de um problema;
+Tenha experiência em criação de modelos de Machine Learning e Deep Learning, entendendo sobre todas as etapas do ciclo de vida de um projeto;
+Conheça os conceitos e aplicabilidade de modelos generativos;
+Tenha experiência com análise de dados e modelos estatísticos;
+Tenha domínio em linguagem SQL e experiência com NoSQL;
+Tenha experiência com linguagem de programação Python;
+Tenha experiência em controle de versão, preferencial o Git por meio do GitHub ou GitLab;
+Goste de trabalhar em equipe;
+Tenha excelente comunicação;
+Tenha vivência em ambientes de desenvolvimento ágil;
+
+Para ter ainda mais vantagem no processo seletivo, seria um diferencial que você tenha:
+
+Tenha experiência com modelos generativos em escala;
+Tenha experiência em frameworks como LangGraph, RAGAs;
+Tenha experiência criando e servindo modelos de Machine Learning em produção, seja através de API REST e/ou batch prediction;
+Tenha conhecimento em Docker e/ou Kubernetes;
+Conhecimento em frameworks como LangGraph e RAGAS
+Inglês intermediário.
+
+POR QUE TRANSFORMAR AO NOSSO LADO?
+
+Plano de saúde e odontológico com cobertura nacional, sem custo para o colaborador e com coparticipação para cônjuge e dependentes; 
+Vale refeição/alimentação (Flash - bandeira Visa); 
+Benefício flexível (Flash Multibenefícios - bandeira Visa), podendo ser destinado à alimentação, refeição, mobilidade (aplicativos de transporte, combustível, transporte público em SP), cultura, saúde e educação;
+Previdência privada; 
+Vale transporte;
+Seguro de vida;
+Wellhub;
+Auxílio creche para filhos de até cinco anos;
+Budget de educação: valor destinado aos investimentos relacionados à sua educação, de forma a contribuir para desenvolver e potencializar suas competências;
+Incentivo ao aprendizado de idiomas por meio de plataforma online;
+Baby On Board: benefício oferecido para as pessoas que estão se preparando para a maternidade e paternidade; 
+Licença maternidade estendida (180 dias);
+Licença Paternidade estendida (30 dias);
+Conexa Saúde: acesso online gratuito a profissionais da área da saúde - Nutricionista e Psicólogo;
+Participação anual nos lucros e resultados da companhia (PLR);
+Hotmart Recharge: bônus de 30% do salário bruto mensal, pago após cumprir o período aquisitivo de férias de 30 dias.
+
+VEM PRA HOTMART
+
+Fazer parte do nosso time, é acordar todos os dias com a certeza de que o mundo é pequeno para o tamanho do impacto que podemos gerar. Vem pra Hotmart e apaixone-se por transformar: você, sua carreira, o mundo!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Senior
+
+Sobre a vaga
+O que procuramos?
+Atribuições principais:
+Construção e implementações de arquiteturas com Data Warehouse e Datalake;
+Liderar como referência soluções técnicas de Data Analytics;
+Criar e definir modelos de repositórios de dados;
+Desenvolver estratégias de aquisição de dados, recuperação de informação, implementação de dutos de processamento e armazenamento;
+Apoiar nas definições técnicas do ecossistema de Big Data;
+Desenvolver e manter processos de consumo, tratamento, controle/segurança e disponibilização de dados para diferentes consumidores;
+Levantando possíveis riscos de acordo com o parecer técnico pelas áreas de apoio emitidas;
+Apoiar/viabilizar testes de desempenho (desempenho);
+Apoiar a migração de dados de sistemas legados para novas soluções.
+Requisitos:
+Experiência com Banco de dados SQL;
+Experiência com Spark, python, Databricks e Kafka
+Experiência em projetar e implementar soluções de ETL e pipelines de dados
+Experiência com Migração de dados de ferramentas legadas
+Diferenciais:
+Espanhol avançado/fluente
+Localidade da posição: São Paulo/SP e Região
+Oportunidade Hibrida (1x a 2 x semana)
+Por que construir sua carreira na Meta?
+Oferecemos autonomia, metas claras e um ambiente dinâmico e desafiador, onde os profissionais têm oportunidade de interagir com diferentes tecnologias, participar de todos os tipos de projetos, trazer novas ideias e trabalhar de qualquer lugar do Brasil e (por que não?) do mundo.
+Quais são nossos valores?
+- Somos pessoas servindo pessoas
+- Pensamos e agimos como donos
+- Temos gana por performance
+- Crescemos e aprendemos juntos
+- Buscamos excelência e a simplicidade
+- Temos inovação e criatividade no nosso DNA
+Todas as pessoas são bem-vindas independentemente de sua condição, deficiência, etnia, crença religiosa, orientação sexual, aparência, idade ou afins. Queremos que você cresça conosco em um ambiente acolhedor e repleto de oportunidades.
+Se identificou? Então, #VemSerMeta!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Data Engineer Senior
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenvolver processos de integração de dados garantindo a qualidade da execução nas demandas;
+
+Construção de processos de ingestão e transformação de dados estruturados e não estruturados;
+
+Manter-se atualizado em relação as tendências de mercado e tecnologias aplicando-as, quando possível, ao Cliente;
+
+Definir padrões e procedimentos de arquitetura e ferramentas com o apoio dos arquitetos;
+
+Definir as camadas de dados e seu respectivo uso;
+
+Atender analistas para ajudar na especificação funcional dos processos de integração de dados;
+
+Definir soluções que envolvam integração de dados de grande complexidade;
+
+Apoiar as equipes na utilização dos metadados técnicos armazenados nos repositórios;
+
+Realizar avaliação de conformidade dos processos de integração de dados implementados.
+
+Qualificações Essenciais
+
+Disponibilidade para atuar no modelo híbrido em SP.
+
+Experiência em projetos de BI, modelagem de dados e bom conhecimento e mapeamento de tecnologias, ferramentas e arquiteturas de Big Data.
+
+Conhecer e dispor de experiência com bancos de dados relacionais e não relacionais
+
+Dispor de experiência com tecnologias, ferramentas e arquiteturas de DW;
+
+Conhecimento em modelagem de dados;
+
+Conhecimento e mapeamento de tecnologias, ferramentas e arquiteturas de Big Data
+
+Desenvolvimento de processamento de dados (streaming e batch), mensageria e escalabilidade de dados.
+
+Qualificações Desejáveis
+
+Experiência em:
+
+ SQL
+ Phyton
+ PySpark
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+About The Team/Role
+
+We’re the Data Platform team. We are the core data infrastructure and workflow group at the company, working with cutting-edge cloud data technologies. Our team works hard, covers for one another, and maintains work-life balance. We own our results and we take pride of ownership in everything we do.
+
+As a Data Engineer at WEX, you’ll be responsible for building and maintaining the bridge between our data and the rest of the organization. You’ll work with stakeholders to understand business requirements and then implement SQL-first transformation workflows to deploy analytics code. You’ll help ensure the integrity, reliability, and usability of data for stakeholders, so they can make critical data-driven decisions. You’ll be part of a collaborative scrum team that consists of an Agility Engineer, Technical Program Manager, Data Engineers, QA, and DevOps. You’ll also be supported by a manager that is here to listen and help you grow.
+
+How you’ll make an impact
+
+A highly motivated individual who loves working as part of a high performing team
+Someone who cares deeply for team results, checks your ego at the door, and takes pride in owning results
+You can share one or more passion projects or have contributed to open-source projects in your own time. 
+You are constantly learning and upskilling, because that's who you are.
+You are a critical thinker with strong analytical and problem-solving abilities.
+You are self motivated and able to work independently with minimum supervision. 
+
+Responsibilities
+
+We are seeking an experienced Data Engineer to play a critical role in the development of WEX's data & analytics capabilities. You will be part of an organization focusing on the development and delivery of data solutions and capabilities for WEX’s data platform. You’ll be part of a team that is responsible for:
+
+Creating optimized data pipelines using Qlik Replicate, Fivetran, custom code using Python, and Snowpipes
+Working with stakeholders to understand business requirements and then implement SQL-first transformation workflows to deploy analytics code using dbt (data build tool)
+Designing efficient data marts that are catered towards the needs of very specific business units, functions, or departments
+
+You’ll be part of a collaborative scrum team that consists of an Agility Engineer, Technical Program Manager, Data Engineers, QA, and DevOps. You’ll also be supported by a manager that is here to listen and help you grow.
+
+Experience you’ll bring
+
+The successful candidate is motivated by thinking big data, is technically proficient, and enjoys working in a fast-paced environment. You care deeply about the veracity (i.e. consistency, accuracy, quality, and trustworthiness) of data. You enjoy designing, maintaining, and optimizing data pipelines & infrastructure, for data collection, management, transformation, and access. You also enjoy understanding complex business requirements and translating them into data models for the end users.
+
+In Addition, You
+
+Are a strong critical thinker with analytical and problem-solving abilities
+Are self motivated and able to work independently with minimum supervision
+Bring thought leadership to your area of responsibility and enjoy staying ahead in your field
+
+Skills
+
+Our core stack for this position consists of dbt, Snowflake, Python, Airflow, Docker, Qlik Replicate, Fivetran, and several AWS services. You possess the following skills and experiences:
+
+Solid understanding of dbt to perform data transformation tasks
+Strong understanding of data design principles and dimensional data modeling
+Advanced SQL skills and understanding of query optimization strategies in Snowflake
+Fundamental understanding of DAGs and operators in Airflow, with hands-on experience with action and sensor operators
+Fundamental understanding of Docker and deploying code as a container
+Solid understanding of basic programming concepts in Python or similar modern languages
+Solid understanding of Qlik Replicate and Enterprise Manager, managing endpoints and streaming CDC (change data capture) tasks
+Solid understanding of Fivetran, ingesting files and SaaS (e.g. Salesforce, Workday) data sources
+-----------------------------------------------------------------------------------

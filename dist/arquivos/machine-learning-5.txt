@@ -1,0 +1,378 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Estamos à procura de um Engenheiro de Dados Sênior para se juntar ao time da Sankhya. Este profissional será responsável pelo design, implementação e manutenção de pipelines de dados robustos e escaláveis, além de colaborar com times multifuncionais para otimizar a infraestrutura de dados e apoiar nossas iniciativas de IA.
+
+Nosso #ProductTeam é um dos times chaves que fazem acontecer dentro da Sankhya. Nossa missão é oferecer diariamente uma solução completa, intuitiva e escalável que orienta nossos clientes com muita inovação e gestão inteligente!
+
+Na Sankhya, estamos atentos às novidades do mercado e buscamos aprimorar nossas soluções, tornando-as menos complexas e mais únicas. E, com isso, queremos alcançar lugares ainda mais altos!
+
+Se você deseja crescer e quer para sua carreira profissional novos desafios, seu lugar é aqui!
+
+Vem com a gente transformar a sociedade, e construir um ambiente diverso de crescimento acelerado.
+
+Topa o desafio?
+#VemserSankhya
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+Projetar, construir e manter pipelines de dados escaláveis e eficientes. 
+Desenvolver e implementar soluções para armazenamento e processamento de dados.
+Colaborar com cientistas de dados e analistas para garantir a integridade e qualidade dos dados. 
+Otimizar o desempenho das consultas e das operações de ETL. 
+Garantir a segurança e a privacidade dos dados conforme as melhores práticas e regulamentações. 
+Participar da definição de estratégias de dados e de arquitetura de dados. 
+Identificar e resolver problemas de desempenho de dados em tempo real.
+
+REQUISITOS E QUALIFICAÇÕES
+
+Bacharelado em Ciência da Computação, Engenharia, Matemática, ou área relacionada. 
+Experiência com plataformas de cloud computing (AWS, Azure, Google Cloud).
+Experiência significativa com bancos de dados relacionais e não relacionais (SQL, NoSQL). 
+Proficiência em linguagens de programação como Python, Java, ou Scala. Experiência com ferramentas de ETL e plataformas de processamento de dados (Apache Spark, Hadoop, etc.).
+ Conhecimento em design e otimização de sistemas de armazenamento de dados. 
+Experiência em trabalhar com grandes volumes de dados e sistemas distribuídos. 
+Forte entendimento de segurança de dados e privacidade. 
+ Familiaridade com práticas DevOps e ferramentas de CI/CD. 
+Experiência em implementar e gerenciar soluções de dados em tempo real. 
+Conhecimento em técnicas de aprendizado de máquina e inteligência artificial.
+
+INFORMAÇÕES ADICIONAIS
+
+Na Sankhya, nós prezamos muito pelo equilíbrio entre o lado profissional e pessoal. Sabemos que tudo hoje é interligado e, no fim das contas, é tudo sobre pessoas. Por isso, nossos benefícios são personalizados para Sankhers, confira!
+
+O que a Sankhya te oferece:
+
+🥗 Seu vale, vale: liberdade! Chega de escolher entre alimentação ou refeição, oferecemos um cartão bandeira ELO em parceria com o Ifood e eu #SóVejoBenefícios nessa parceria!
+🤩 Plano de saúde 100% grátis para colaborador(a)
+😁 Plano odontológico
+🏋️ Gympass
+💰 Programa de gamificação, participe e concorra a prêmios!
+💵 Participação nos Lucros e Resultados (PLR) mediante atingimento de metas e performance
+📚 Auxílio desenvolvimento
+🤰 Licença Maternidade/Paternidade estendida
+💻 Equipamentos fornecidos pela empresa
+🪑 Empréstimo consignado
+🎯 Pagamento por Indicação de profissionais assertivos
+🎉 DayOFF Sankhya O niver é seu, e para comemorar nada melhor que uma folguinha né?
+
+E MAIS IMPORTANTE AINDA:
+🧑‍🦽Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+
+Está esperando o que pra fazer parte de nosso time?
+
+#VemserSankhya!
+
+SOMOS A SANKHYA! 💚
+Fundada em 1989, somos líder no mercado brasileiro de soluções integradas de gestão corporativa (ERP). Com mais de 2000 colaboradores e atendendo cerca de 20 mil clientes em todos os 26 estados do país, oferecemos o ERP Sankhya, uma solução completa que permite acesso em tempo real aos detalhes do negócio, impulsionando eficiência e agilidade na gestão.
+
+Nosso propósito é claro: transformar a sociedade através da gestão, combinando excelência tecnológica com o poder transformador das pessoas. Nossa cultura é enraizada na base familiar e incentivadora do protagonismo e da inovação.
+
+Acreditamos firmemente que ter as pessoas certas ocupando as posições adequadas não só impulsiona a felicidade e o engajamento no ambiente de trabalho, mas também resulta em melhorias substanciais em nossos negócios e estimula a inovação.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Especialista de Eng. de Machine Learning | Generative AI
+
+Sobre a vaga
+Sobre o Picpay:
+
+Com mais de dez anos de história, o PicPay é uma empresa de tecnologia que oferece um portfólio completo de serviços financeiros para facilitar a relação com dinheiro e ser a principal conta do dia a dia de milhares de pessoas e empresas.
+
+Atuamos em cinco frentes de negócios: Serviços Financeiros para Pessoa Física, Serviços Financeiros para Pessoa Jurídica, Marketplace Financeiro, PicPay Shopce Investimentos. Fundada em Vitória (ES), a empresa tem mais de 30 milhões de usuários ativos e faz parte do grupo J&F, um dos maiores conglomerados empresariais do Brasil.
+
+Nossa cultura é nosso alicerce e nossa força. Conheça nossos valores: Atitude de Dono(a), Disciplina, Determinação, Disponibilidade, Simplicidade, Humildade e Franqueza.
+
+O respeito, a ética e a busca pela equidade são elementos inegociáveis e fazem parte da prática no nosso dia a dia aqui no PicPay. Por isso, esta vaga está aberta para todas as pessoas, independente de gênero, religião, etnia, deficiência, idade, orientação sexual ou qualquer outro fator.
+
+Conheça mais sobre a unidade de negócio desta vaga:
+
+A área de Data Products tem como objetivo principal facilitar a vida dos usuários do PicPay, por meio do perfeito alinhamento entre seus hábitos de consumo, comportamentos e as diversas funcionalidades do aplicativo. Queremos criar a melhor experiência possível, simplificando suas vidas e incentivando seu engajamento.
+
+Sobre a vaga:
+
+A tribo AI Assistant quer revolucionar a experiência dos clientes através de GenAI, gerando mais satisfação, otimizando processos e sendo referência global em assistência virtual.
+
+Estamos em busca pessoas Especialistas em Engenharia de Machine Learning que podem ter uma maior habilidade em cientista de dados ou em desenvolvimento de software para ajudar a construir soluções avançadas de machine learning, desde modelos tradicionais de processamento de linguagem natural (NLP) ou até modelos baseados em Inteligência Artificial Generativa (LLM, GPT, LLaMA etc) que vão ser usadas por milhões de clientes. Nosso objetivo é colocar o usuário a apenas um passo de distância de tudo que o aplicativo tem a oferecer e de tudo o que ele deseja.
+
+Trabalhamos com foco na criação de uma cultura orientada por dados, onde todas as decisões são baseadas em informações de alta qualidade. No PicPay, o papel de um Machine Learning Engineer é ajudar a desenvolver, dimensionar, implementar e monitorar o uso de IA por meio de soluções robustas e escaláveis. Buscamos os melhores profissionais do mundo em Data Science, Machine Learning e Desenvolvimento de Software, capazes de combinar vasta experiência na construção de software altamente escalável com habilidades comportamentais excepcionais e uma energia contagiante para apoiar a equipe e enfrentar os maiores desafios do PicPay!
+
+Responsabilidade e atribuições
+
+Essas atribuições destacam a importância do profissional em liderar o desenvolvimento de soluções inovadoras baseadas em IA, além de colaborar ativamente nas discussões estratégicas e técnicas da empresa.
+
+Liderar tecnicamente a equipe por meio de mentorias, treinamentos e feedbacks constantes;
+Participar das rotinas dos time, questionar e propor soluções que atendam os objetivos negócio;
+Manter o balanço entre velocidade e qualidade, gerenciando com com sabedoria as dívidas técnicas de modo a nos manter efetivos e eficientes no médio/longo prazo;
+Contribuir para a definição da arquitetura da plataforma e elaborar provas de conceito quando necessário;
+Garantir documentação de aplicações e decisões arquiteturais;
+Escolher a melhor ferramenta para o trabalho, sem ter respostas técnicas fixas, sempre prezando pela excelência da solução;
+Ser responsável pela manutenção dos resultados através do monitoramento e manutenção dos modelos, serviços e sistemas;
+Desenvolver soluções baseadas em IA Generativa, como: chatbots, interpretação de texto, criação de imagens, busca semânticas, recomendação e muito mais!
+
+Requisitos e qualificações
+
+Experiência sólida em Ciência de Dados e/ou Machine Learning e/ou Engenharia de Software, com ênfase em Deep Learning e NLP/NLU, comprovada através de projetos relevantes em sistemas em produção;
+Amplo conhecimento em padrões de projetos e boas práticas de software, garantindo a criação de soluções robustas, escaláveis e de alta qualidade;
+Experiência avançada em pelo menos uma das seguintes linguagens: Python, Java, Kotlin, Scala e/ou GoLang, demonstrando habilidades de programação de alto nível;
+Experiência comprovada em lidar com grandes volumes de dados e programação distribuída, demonstrando habilidades em lidar com problemas de escalabilidade e desempenho;
+Paixão por tecnologia e mente inovadora, com um interesse ativo em acompanhar as últimas tendências e avanços em Data Science, Machine Learning e IA;
+Capacidade avançada de análise e resolução de problemas complexos, combinada com uma abordagem organizada e estruturada;
+Excelentes habilidades de comunicação e colaboração, trabalhando efetivamente em equipes multidisciplinares e sendo capaz de compartilhar conhecimentos e influenciar positivamente o ambiente de trabalho;
+Experiência em tomadas de decisões técnicas baseadas em dados;
+Experiência técnica em situações excepcionais e complexas;
+Experiência em Python ou Java ou Kotlin ou Python ou GO;
+Arquitetura de Micro-serviços (Kubernetes);
+Databases relacionais e não relacionais;
+Aplicações Cloud Native - AWS ou GCP ou Azure;
+Observabilidade;
+Conhecimento com Kafka, SNS, SQS.
+
+Será um diferencial se você tiver:
+
+Formação acadêmica relevante em Ciência da Computação, Engenharia, Matemática ou área relacionada (Mestrado e/ou Doutorado na área de Computação);
+Publicações e contribuições para a comunidade: Participação ativa em conferências, publicações em periódicos científicos ou contribuições significativas em projetos de código aberto no campo de Data Science e Machine Learning;
+Experiência em lidar com dados financeiros: Conhecimento e experiência em lidar com dados financeiros, incluindo processamento de transações, segurança de dados e privacidade;
+Participação em projetos open source;
+Processamento de dados em grande escala (Spark).
+
+O que oferecemos:
+
+Saúde e Bem-estar: Além de Assistência Médica e Odontológica, oferecemos Seguro de Vida e o Lado a Lado, um programa que cuida de você e seus familiares, com apoio jurídico, social, psicológico e financeiro.
+
+E claro, não podemos esquecer da nossa parceria com a Totalpass.
+
+Alimentação/ Mobilidade ou Teletrabalho: Por meio do nosso cartão de crédito PicPay Benefícios, com ampla aceitação, você recebe seu saldo de Alimentação/Refeição e Mobilidade ou Teletrabalho (de acordo com o seu contrato de trabalho).
+
+Licença Paternidade e Maternidade: Sabemos que esse é um momento especial para uma família, e por isso oferecemos Licença Maternidade estendida de 6 meses, e de Paternidade também estendida de 20 dias. Além disso, nossas mamães PicPay Lovers são acompanhadas pelo programa "Novo Ser", durante toda a gestação e no retorno da licença. Falando nisso, ao retornar da licença maternidade, as mamães ainda contam com a ajuda do Auxílio Creche e também os papais que possuem guarda unilateral ou compartilhada.
+
+Reconhecemos resultados: PPR- Participação nos Resultados do PicPay.
+
+#VemserPicpayLover #Picpay
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Sr. Machine Learning Engineer - IBP
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Actively contribute to code development in projects and services, leading and coaching ML engineers and data scientists.
+Act as a contributor in innovation activities.
+Work with data scientists, IBP process leads, and BU subject matter experts to identify data clusters for optimal forecasting performance.
+Partner with data scientists on discovery, prototypes, and pilot projects, focusing on experiment tracking and translating business models to ML/statistical models.
+Collaborate with IBP market deploy and sustain teams to design, implement, and test pre-processing and post-processing modules for improved demand forecasts.
+Work with data engineers to ensure proper data access and preparation for model consumption.
+Partner with ML engineers and data scientists on industrialization efforts.
+Drive the use of the Platform toolset and demonstrate 'the art of the possible' to the business.
+Communicate with business stakeholders during service design, training, and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Research state-of-the-art methodologies and techniques for feature engineering and model data preprocessing.
+
+Qualifications
+
+What you will need to succeed
+
+4+ years working in a team to deliver production level analytic solutions - Fluent in git (version control) and with Docker.
+4+ years’ experience in ETL and/or data wrangling techniques - Fluent in SQL syntaxis.
+4+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. 
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or Scala development.
+Effective business storytelling and communicating data insights in business consumable format - Fluent in one Visualization tool.
+Experience with Agile methodology for team work and analytics ‘product’ creation - Fluent in Jira, Confluence.
+On-the-job experience with Azure cloud services is essential.
+
+Additional qualifications that will make you stand out for this position
+
+Experiences with Deep Learning are a plus.
+experience building solutions in the revenue management or in the supply chain space.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Grupo QuintoAndar | Senior Analytics Engineer
+
+Sobre a vaga
+About QuintoAndar:
+
+QuintoAndar was born to do something very rewarding: open doors. We opened doors for technology to be part of living. And, through it, we simplify and reduce the bureaucracy of the experience of those looking for a new home. Thus, we became the most valuable proptech in Latin America, leading the real estate market in around six countries and more than 75 cities around the globe.
+
+The first steps in the international market have been taken since we acquired Grupo Navent, which is ranked number 1 in Mexico (Inmuebles24), Argentina (Zonaprop), Peru (Adondevivir & Urbania) and Ecuador (Plusvalia) - among others. And most recently, we launched Benvi, our international brand in Mexico, which comes with our residential rental product and service.
+
+We offer an end-to-end ecosystem to make life easier for those looking to rent or buy a home, sell a property and unlock a transaction. Think of zero paper or bureaucracy: everything happens on a single platform, with transparency and speed alongside incredible human support.
+
+We are currently valued at over $5.1 billion (August 2021) and continue to grow 4x year over year, breaking records.
+
+To make all this happen, we have more than 4,000 talented people, working with cutting-edge technology and best design practices to ensure a seamless experience throughout the sales and rental process, combined with smart financial products. Here you will work with the best professionals in the market, in an environment that breathes innovation, collaboration and high performance.
+
+To learn more about our history, visit https://quintoandar.group/en/.
+
+About Grupo QuintoAndar:
+
+We are Grupo QuintoAndar, the largest real estate ecosystem in Latin America. Guided by a shared purpose of helping people love where they live, we have a diverse portfolio of brands and solutions that cover all stages of the journey of living. We develop technologies and innovations that transform and leverage the whole living experience.
+
+About working at QuintoAndar:
+
+Possibility of learning;
+Opportunity to work in a team that seeks to use the best practices and tools in the market;
+Work in an informal environment with a horizontal structure;
+Being part of a team working on a high-impact project that affects the lives of thousands of people
+
+Location & Remote Work
+
+Our technology team works on the "remote-first" model, which means we are working from home with the possibility of living anywhere in Brazil. We also have the option of using QuintoAndar's offices in São Paulo and Campinas or using partner coworking spaces, both up to twice a week.
+
+Language
+
+This job description is written in English because for that position you will need it for communications with coworkers and suppliers who are from worldwide, for tools and internal materials as well. // A descrição desta vaga está escrita em Inglês porque para esta posição é necessário para a comunicação com colegas e fornecedores, que são de diferentes países, além do uso de ferramentas e materiais internos.
+
+Stages of the Selection Process
+
+Our selection process currently lasts an average of 30-40 days, from application to completion of the assessment. Going through:
+
+Application 
+Tech Screening 
+Technicals Interviews with Data Team
+Phone interview with Recruiter
+Offer
+
+About the Area:
+
+An Analytics Engineer is someone who understands business needs while applying best software engineering practices to implement data pipelines and create data abstractions that help the company make better decisions faster.
+
+The workflow of analytics engineering aims to clean, transform, and model raw data into consumable information for strategic decision-making. During the process of obtaining raw data to making clean and transformed data available, the analytics engineer tests the data to ensure quality, documents business rules, and creates models to ensure they are consumed reliably and performantly.
+
+Responsibilities of an Analytics Engineer at QuintoAndar:
+
+Communicate with different stakeholders to understand their primary needs;
+Create and edit data pipelines, considering business logic that best applies to the area in question, choosing levels of aggregation, grouping and transforming fields, checking data quality, and cleaning the data;
+Investigate inconsistencies and be able to trace the source of differences (data troubleshooting);
+Maintain and promote code and pipeline standards through code review, including testing and documentation;
+Create robust data models that run reliably in a production environment;
+Ensure self-service analytics for business areas
+
+Requirements
+
+What we are looking for:
+
+Has experience in building multidimensional data models (Star and/or Snowflake schema);
+Has strong SQL skills and feels comfortable with complex SQL;
+Is familiar with ELT/ETL pipelines;
+Has experience with Python;
+Knows columnar storage solutions (such as Amazon Redshift and Apache Parquet);
+Has 3 or more years of experience building pipelines;
+Is proficient in English and/or Spanish - our code, documentation, tools, and materials are often structured in English. Sometimes, we communicate with colleagues and vendors from other countries;
+Is free of any prejudice
+
+You'll stand out if you:
+
+Good communication skills and experience working with multiple teams;
+Experience with Airflow, Spark, and Databricks;
+Strong knowledge in optimizing SQL query performance;
+Experience in building semantic layers
+
+Important:
+
+Our selection process starts with the application! If you are truly interested in joining our team, make sure to put in extra effort at this stage. We review all candidates individually and provide feedback even to those who do not proceed in the process;
+All communication is done via email, so be attentive to our messages and whitelist the @quintoandar.com.br domain to prevent our emails from going to spam
+
+Benefits
+
+Competitive salary package;
+Bonus
+Meal allowance ("Flash benefícios");
+Health plan;
+Dental plan (optional);
+Life insurance;
+Daycare subsidy;
+Subsidy to sports practicing (Gympass)
+Extended maternity and paternity leave;
+Reserved room for breast-feeding*;
+Discount on our parking lot;*
+Language learning support;
+Free transfer from Vila Madalena and Fradique Coutinho stations to the office*. 
+
+Diversity & Inclusion at QuintoAndar
+
+At QuintoAndar, we believe diversity of perspectives and experiences guarantee a differentiated work environment, based on respect and valuing differences. Feel free to declare the information on the registration form. If you are not comfortable answering them, just choose the option "I prefer not to respond". This information helps us create an increasingly inclusive environment and it is used only for this purpose, it is confidential, and it will not impact your performance throughout the hiring process
+
+Privacy and Data Protection
+
+In order to apply for one of our jobs roles, we will need to collect some of your personal data necessary for us to review your application and to contact you. We believe that the diversity of perspectives and experiences guarantees a differentiated work environment, based on respect and appreciation of differences. For this reason, we have several affirmative jobs, and information regarding your gender, ethnicity/race, and disability may be collected in the process.
+
+All data processed is confidential and will be stored in a secure place for the time necessary to fulfill its purposes, with appropriate technical and administrative measures being adopted to protect your information.
+
+If you have any questions, please contact us via the following page.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Especialista em Inteligência Artificial
+
+Sobre a vaga
+BIREME/OPAS está iniciando um projeto para desenvolver uma biblioteca digital de ponta que aproveite os mais recentes avanços em transformação digital, Indústria 4.0 e inteligência artificial. A nova biblioteca digital visa fornecer uma plataforma intuitiva, envolvente e centrada no usuário que melhore o acesso à informação e apoie a aprendizagem ao longo da vida. Para alcançar isso, buscamos um desenvolvedor de carreira intermediária, com forte formação técnica e experiência na implementação de soluções digitais para sistemas de informação em larga escala.
+O objetivo principal desta posição é projetar, desenvolver e implementar soluções digitais que materializem a visão da nova biblioteca digital. O desenvolvedor trabalhará em estreita colaboração com equipes multifuncionais para garantir a entrega bem-sucedida de uma plataforma de biblioteca digital robusta, escalável e amigável.
+
+Responsabilidades:
+1. Projetar, desenvolver e manter a infraestrutura de software da biblioteca digital:
+Escrever código limpo, eficiente e bem documentado usando linguagens de programação como Python, Java, C++ e JavaScript.
+Utilizar frameworks e ferramentas de desenvolvimento de software como Django, React, Angular e Node.js.
+2. Gestão de Dados e Análise:
+Implementar soluções de análise de dados, mineração de dados e visualização de dados.
+Desenvolver e manter motores de busca alimentados por IA e sistemas de marcação de metadados.
+Utilizar análises de big data para obter insights sobre o comportamento do usuário e otimizar os serviços da biblioteca.
+3. Integração de Aprendizado de Máquina e IA:
+Integrar algoritmos de aprendizado de máquina, processamento de linguagem natural (NLP) e visão computacional na biblioteca digital - Desenvolver ferramentas impulsionadas por IA para recomendações de conteúdo personalizadas, caminhos de aprendizagem adaptativos e melhorias de acessibilidade. 
+4. Computação em Nuvem e Gestão de Infraestrutura:
+Implementar soluções de computação em nuvem escaláveis usando plataformas como AWS, Microsoft Azure e Google Cloud Platform.
+Gerenciar a infraestrutura em nuvem para garantir alta disponibilidade, desempenho e segurança.
+Otimizar o uso de recursos e melhorar o desempenho do sistema usando ferramentas de gestão de infraestrutura impulsionadas por IA.
+5. Design de Experiência do Usuário (UX) e Interface do Usuário (UI):
+Colaborar com designers de UX/UI para criar interfaces intuitivas e envolventes.
+Implementar princípios de design responsivo para garantir acesso contínuo em todos os dispositivos.
+Melhorar a navegação, funcionalidades de busca e a experiência geral do usuário. 
+6. Colaboração e Interoperabilidade:
+Desenvolver e integrar APIs para troca de dados sem interrupções com outras plataformas.
+Implementar ferramentas e plataformas colaborativas para apoiar atividades de pesquisa e aprendizagem.
+Garantir a interoperabilidade com sistemas existentes e a conformidade com os padrões da indústria.
+7. Preservação Digital e Sustentabilidade:
+Implementar técnicas automatizadas de preservação digital para proteger ativos digitais.
+Adotar práticas sustentáveis no armazenamento e gestão de dados.
+Garantir conformidade com regulamentos de proteção de dados e padrões éticos.
+
+Habilidades: 
+Proficiência em linguagens de programação como Python, Java, C++ e JavaScript.
+Fortes habilidades em análise de dados, aprendizado de máquina, processamento de linguagem natural e frameworks de IA.
+Experiência com plataformas de computação em nuvem e gestão de infraestrutura.
+Conhecimento de tecnologias de desenvolvimento web e gestão de banco de dados.
+
+Educação: Bacharelado ou mestrado em Ciência da Computação, Engenharia de Software, Ciência de Dados, Tecnologia da Informação ou área relacionada.
+
+Experiência: Mínimo de 5 anos de experiência em desenvolvimento de software, gestão de dados ou funções relacionadas. Experiência comprovada em desenvolver e implantar aplicações web em larga escala ou plataformas digitais. Desejável experiência anterior em sistemas de bibliotecas, repositórios digitais ou projetos de tecnologia educacional é uma vantagem.
+
+Idiomas: Conhecimentos de língua espanhola e inglesa
+-----------------------------------------------------------------------------------

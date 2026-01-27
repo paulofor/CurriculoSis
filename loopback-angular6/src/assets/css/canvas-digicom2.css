@@ -1,0 +1,32 @@
+
+.canvas-coluna-mvp {
+    width: 33%;
+    height: 600px;
+    float: left;
+}
+.canvas-coluna-ganhodor {
+    width: 25%;
+    height: 600px;
+    float: left;
+}
+
+
+.canvas-post-mvp {
+    height: 220px;
+    padding: 5px;
+    overflow-y: auto; /* aparece quando precisa */
+}
+.canvas-post-mvp-coluna {
+    height: 500px;
+    padding: 5px;
+    overflow-y: auto; /* aparece quando precisa */
+}
+.canvas-post-mvp-menor {
+    height: 120px;
+    padding: 5px;
+    overflow-y: auto;
+}
+
+.canvas-board.-terco{
+    height:33%;
+}

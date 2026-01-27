@@ -1,0 +1,315 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro(a) de Dados – Especialista em DataViz
+
+Sobre a vaga
+Vaga: Engenheiro(a) de Dados – Especialista em DataViz
+
+🚀 Se você domina ferramentas de BI legadas como MicroStrategy e PowerCenter e quer fazer parte de uma jornada de transformação para GCP, essa oportunidade é pra você!
+
+Sua missão será:
+ ✨ Atuar como analista técnico das soluções atuais (dashboards e ETLs) em MicroStrategy e PowerCenter.
+ 🔎 Mapear lógicas e regras de negócio implementadas, preparando para migração e reconstrução em Looker + DBT na Google Cloud Platform (GCP).
+ 🔧 Contribuir para a construção de pipelines e dashboards modernos com foco em performance, governança e valor de negócio.
+ 🤝 Atuar próximo às áreas funcionais, traduzindo demandas em dados e decisões técnicas.
+
+Requisitos obrigatórios:
+ ✅ Experiência com MicroStrategy (leitura de relatórios e lógica de negócio)
+ ✅ Vivência com PowerCenter (análise de fluxos e transformações)
+ ✅ Conhecimento em Looker e DBT no ambiente GCP
+ ✅ SQL avançado e raciocínio analítico apurado
+ ✅ Boa comunicação e habilidade para atuar em ambientes corporativos complexos
+
+📍 Modalidade: Remoto
+ 💼 Contratação: PJ
+
+Sobre a ATRA:
+ A ATRA é uma consultoria brasileira especializada em engenharia de dados, analytics, governança e privacidade de dados. Com mais de 15 anos no mercado, somos parceiros das maiores empresas de tecnologia do mundo, como Google, Microsoft, Informatica, Denodo e BigID. Nossa missão é transformar dados em valor para os negócios — com inovação, colaboração e pessoas no centro de tudo.
+
+Benefícios ATRA:
+ 🏋‍♀️ Parceria com TotalPass
+ 📚 Treinamentos e cursos em tecnologias de dados
+ 💳 Auxílio com certificações (💯% reembolso)
+ 🎓 Parcerias com instituições de ensino para pós-graduação e idiomas
+ 💻 Ambiente colaborativo e inovador
+
+#Vagas #EngenhariaDeDados #DataViz #Looker #DBT #GCP #MicroStrategy #PowerCenter #TrabalhoRemoto #ATRAInformatica #TransformacaoDigital
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Lead Data Engineer
+
+Sobre a vaga
+We are seeking a Lead Data Engineer to join our team.
+
+This position combines engineering and analytical duties. You will develop and maintain data infrastructure while analyzing cost data, identifying trends, and collaborating with teams to optimize cloud expenses. Primarily focusing on AWS, this role demands a solid understanding of AWS services and cost structures. You will utilize tools such as Python, Databricks, Snowflake, Airflow, and Looker to provide impactful insights and solutions that enhance cost optimizations and support decision-making.
+
+Responsibilities
+
+
+Design, construct, and sustain scalable ETL pipelines to process and adjust large volumes of cloud cost and usage data
+Merge data from various sources, including AWS, into centralized data repositories like Snowflake
+Create and uphold data models to aid cost analysis and reporting requirements
+Enhance query output and storage effectiveness for vast datasets
+Automate repetitive data processing jobs and set up robust monitoring for data pipelines
+Guarantee data precision and dependability via validation techniques
+Examine cloud cost data to pinpoint trends, anomalies, and opportunities for optimization
+Engage intimately with teams to review expenditure changes and address cost anomalies
+Cooperate with stakeholders to comprehend cost determinants and offer actionable insights
+Assist teams in crafting dashboards and visualizations to monitor critical cost indicators
+Compile reports and presentations to convey findings and suggestions to leadership
+Collaborate with teams to formulate strategies for cost reduction and operational enhancement
+
+
+Requirements
+
+
+Bachelor’s degree in Computer Science, Data Engineering, Data Analytics, or a related field
+5+ years of experience in data engineering, data analysis, or a combined role
+1+ years of relevant leadership experience
+Expertise in AWS services (e.g., EC2, S3, RDS, Lambda) and their cost frameworks
+Proficiency in SQL and skills in relational databases like Snowflake or Redshift
+Familiarity with Databricks and Spark for large-scale data processing
+Hands-on experience with ETL tools and frameworks (e.g., Databricks, Apache Airflow)
+Programming experience in Python for data analysis and pipeline creation
+Experience with BI tools like Looker or Tableau for constructing dashboards and visualizations
+Excellent problem-solving abilities and the capability to interpret and analyze vast datasets
+
+
+Nice to have
+
+
+Background in Kubernetes, Docker, or containerization technology
+Understanding of cloud cost management tools and techniques
+Strong communication capabilities for presenting insights to stakeholders and leadership
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de IA Generativa Sênior
+
+Sobre a vaga
+Muito prazer, somos a Zallpy! 
+
+Somos muito mais que uma empresa de tecnologia; somos uma comunidade diversa, plural e talentosa. Nosso propósito é liderar a transformação digital, com excelência e agilidade, promovendo crescimento mútuo e genuíno em relações éticas e duradouras. Flexibilidade é uma de nossas marcas registradas, atuamos em diferentes modelos e formatos de equipe, mantendo nossa cultura leve, colaborativa e integrada, proporcionando equidade de oportunidades em um espaço onde todos se sintam seguros e ouvidos.
+
+O Que Você Vai Fazer
+
+Projetar e implementar copilotos e assistentes virtuais usando Microsoft Copilot Studio e IA Generativa
+Integrar IA generativa em fluxos de trabalho, como atendimento ao cliente, análise de documentos e automação de código, visando aumentar eficiência e produtividade.
+Garantir a qualidade das respostas por meio de Recuperação Aumentada por Geração (RAG) e implementação de medidas de segurança e mitigação de viés.
+Monitorar e otimizar continuamente os modelos de IA para garantir precisão, confiabilidade e melhor experiência do usuário.
+Colaborar com equipes multidisciplinares para alinhar as soluções de IA com as necessidades estratégicas da empresa.
+
+O Que Estamos Buscando
+
+Experiência comprovada no desenvolvimento de soluções baseadas em IA, especialmente copilotos e assistentes virtuais.
+Conhecimento sólido em IA generativa, incluindo LLMs (Large Language Models) e técnicas de ajuste fino.
+Proficiência em Programação em Python + frameworks de IA (LangChain, Semantic Kernel).
+Familiaridade com Integração com APIs de IA (Azure OpenAI, Hugging Face)
+Experiência com governança e segurança de IA, incluindo controle de qualidade e mitigação de riscos em respostas geradas.
+Conhecimento em APIs de IA e plataformas como Microsoft Azure
+
+Será Um Diferencial Se Você
+
+Tiver experiência com Microsoft Copilot Studio e Microsoft AI Foundry ou outras plataformas específicas para o desenvolvimento de soluções de IA.
+Tiver experiência com Databricks para processamento de dados.
+Conhecer MLOps e processos de CI/CD aplicados ao desenvolvimento de IA.
+Possuir certificações ou treinamentos especializados em IA generativa, machine learning ou arquitetura de sistemas inteligentes.
+Demonstrar experiência na curadoria de dados e otimização de prompts para IA generativa.
+Atuação em core financeiro.
+
+Onde Você Vai Trabalhar
+
+Esta é uma posição para atuação 100% remota.
+
+Modalidade De Contratação
+
+CLT;
+Cooperado;
+PJ.
+
+O Que Oferecemos
+
+🍽 Vale Alimentação/Refeição: Utilizamos o cartão multibenefício EVA, em formato crédito, para proporcionar flexibilidade nas suas compras diárias.*
+
+🏥 Plano de Saúde Unimed: Sem coparticipação ou carência para o titular. Dependentes como filhos, cônjuges ou enteados podem ser incluídos com coparticipação.*
+
+🦷 Plano Odontológico Uniodonto: Possibilidade de inclusão de dependentes, com descontos mínimos por pessoa.*
+
+💪 TotalPass: Para cuidar da sua saúde física com acesso a academias e modalidades esportivas.
+
+🧘 Zenklub: Cuide da sua saúde mental com duas consultas gratuitas por mês e valores acessíveis para consultas adicionais.
+
+💼 Programa de Indicação: Indique talentos para se juntarem à Zallpy e receba bônus entre R$2.500 e R$5.000!
+
+🛡 Seguro de Vida: Garantia de proteção para você e sua família.
+
+👶 Auxílio Creche: Apoio financeiro para colaboradores com filhos(as) de 4 meses até 6 anos que recebem até três pisos salariais da categoria.*
+
+🎁 Baby Zallpy: Celebração especial para os novos bebês de Zallpers!
+
+🌍 Comunidades Voluntárias: Incentivamos a participação em três comunidades internas: Diversidade, Equidade & Inclusão, Esporte & Movimento, e Tecnologia.
+
+🎓 Descontos em Instituições de Ensino: Acesso a benefícios em Graduação, Pós-graduação, cursos livres e ensino de línguas por meio de convênios
+
+✈️ Experiências e Desenvolvimento: Oportunidade de participar de viagens, workshops, eventos e atividades de Team Building.
+
+👥 Acompanhamento de BP: Receba suporte e acompanhamento personalizado da nossa área de Business Partners.
+
+Beneficios válidos para modalidade CLT*
+
+Seja na sua vida pessoal ou profissional, a Zallpy se preocupa com seu crescimento e bem-estar! Venha fazer parte dessa jornada com a gente! 🚀
+
+About The Company
+
+Somos especialistas em tecnologia
+
+Desenvolvemos soluções digitais customizadas, com tecnologia de ponta e de alto impacto. Somos parceiros estratégicos de grandes empresas internacionais, entregando inovação e inteligência a multinacionais de diversos segmentos. A gente atua como uma extensão do cliente, com alto grau de envolvimento no negócio e na geração de resultados.
+
+Vem ser Zallpy!
+
+Mais do que uma empresa que gera empregos, a Zallpy é uma criadora de oportunidades, descobrindo e formando talentos para o mercado que mais cresce no mundo.
+
+Vem fazer carreira na Zallpy.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro (a) de Dados Cloud Pleno
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você. Afinal, It’s yours to build.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Engenheiro (a) de Dados Cloud você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de dados voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você é apaixonado(a) por dados, colaboração e tem as seguintes qualificações, queremos você em nossa equipe:
+
+Ensino superior em Estatística, Ciência da Computação, Engenharia de Software, Sistemas de Informação, Física ou cursos afins.
+Experiência comprovada como Engenheiro de Dados.
+Proficiência em Pyspark, SQL, Databricks, Git, Hive, Hadoop e Azure.
+Experiência com práticas e ferramentas DevOps.
+Habilidade para trabalhar em conjunto com o cliente na migração de processos legado (SAS e Teradata) do on-premise para a Cloud (Azure, Databricks), aplicando práticas de governança de dados robustas, preferencialmente com ferramentas IBM.
+
+Desejável:
+
+Vivência na área financeira.
+Conhecimento em SAS, Hbase, Bitbucket.
+
+Principais Responsabilidades:
+
+Acompanhamento da estabilização do pipeline em Produção. 
+Sustentação pós-implantação (Durante período de garantia - 90 dias). 
+Acompanhamento da Implantação. Construir pipelines de dados, desde a extração nas diversas fontes de dados disponíveis (Arquivos de plataforma Baixa (TXT, CSV, ORC), Bancos de Dados (HBASE, BEELINE, SAS) até a ingestão e estruturação dos dados no Data Lake corporativo e DB2. 
+Criação de jobs Pyspark para processamento de dados. Registro de Atividades nas Ferramentas oficiais do Cliente (Jira, Confluence, Bitbucket).
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Engenheira de Software Java Especialista
+
+Sobre a vaga
+Pessoa Engenheira de Software (Java)
+
+Estamos em busca de uma Pessoa Engenheria de Software para ingressar em nossa nave e juntos, decolar o foguete que impulsiona pessoas para inovar o mundo.
+
+E antes de apresentar a vaga, queremos te mostrar as razões para ser South System:
+
+ As +350 pessoas do nosso time nos elegeram 2 vezes uma das melhores empresas para se trabalhar no país (GPTW) e nos deram 4.9 estrelas no Glassdoor e Indeed;
+ Somos Talent Awards pelo linkedin;
+ Somos Carbon neutral – contribuímos com a compensação das emissões de carbono;
+ Estamos operando com oportunidades em home office e também com oportunidades híbridas
+ Contemplamos benefícios variados como:
+
+Acesso livre a plataforma de cursos Udemy com certificações exclusivas;
+
+Benefício de home office;
+
+Benefício de educação financeira;
+
+Cartão de benefícios flash.
+
+ Nosso código de cultura é norteado por atitudes e práticas que fazem parte do nosso dia a dia:
+
+Apoio e incentivo ao crescimento e desenvolvimento das pessoas;
+
+Respeito, lealdade, colaboração e engajamento fazem parte do nosso DNA, cultivamos um ambiente seguro para todos;
+
+Somos diversos e acreditamos no poder da inclusão e da diversidade dos times;
+
+Unimos pessoas e inovação para prover soluções de TI.
+
+ Amamos nosso planeta e queremos fazer dele um lugar melhor para as próximas gerações por isso cultivamos diversas ações de sustentabilidade;
+ Mantemos e apoiamos ações sociais;
+
+Agora, vamos falar dessa oportunidade!
+
+Nossos profissionais atuam em projetos alocados em clientes, ou projetos de fábrica, e todos têm acompanhamento das nossas business partners, com suporte especializado para que tenham um bom desempenho e progresso de carreira, nossas squads são multidisciplinares disponíveis de forma global. Esta oportunidade é para um cliente no segmento financeiro.
+
+Perfil que Buscamos:
+
+Base de conhecimento em desenvolvimento JAVA, JVM Tunning, Spring, GIT;
+Microservices architecture;
+Testes de Performance (Jmeter/Gatling);
+AWS;
+Kubernetes (EKS);
+Serviços de mensageria (kafka, Rabbitmq);
+Banco de dados Relacional(Oracle, Mysql, Postgres) e Não relacional (MongoDB);
+Cache Redis;
+Noções de Secret Manager e Configuration Manager usando Hashcorp Vault e Consul;
+Shell Script
+Ansible, terraform, cloudformation
+Observability (Grafana, Prometheus, Dynatrace, ELK)
+Noções de API Gateway e Identity provider (Azure, wso2) 
+
+Diferenciais que irão somar pontos:
+
+Noções em Observabilidade (Ansible, Terraform, Cloudformation).
+
+Além disso, valorizamos a desenvoltura, flexibilidade, automotivação e trabalho em equipe. Defendemos a inclusão e a diversidade, por isso, criamos vagas afirmativas respeitando e priorizando os recortes minoritários em nosso processo de seleção, além de oferecermos núcleos e ações afirmativas dentro da empresa para acompanhamento, inclusão e desenvolvimento de todas as pessoas.
+
+Junte-se a nós e ajude a impulsionar e transformar o mundo!
+
+Experiência e competências desejadas
+MongoDB, ORACLE, Colaboração, Flexibilidade, Comunicação, Pontualidade, Comportamento, Agilidade, Responsabilidade, Azure
+-----------------------------------------------------------------------------------

@@ -1,0 +1,271 @@
+[Oportunidade 1]
+Oportunidade: Staff Machine Learning Engineer
+
+Sobre a vaga
+About SecurityScorecard:
+
+SecurityScorecard is the global leader in cybersecurity ratings, with over 12 million companies continuously rated, operating in 64 countries. Founded in 2013 by security and risk experts Dr. Alex Yampolskiy and Sam Kassoumeh and funded by world-class investors, SecurityScorecard’s patented rating technology is used by over 25,000 organizations for self-monitoring, third-party risk management, board reporting, and cyber insurance underwriting; making all organizations more resilient by allowing them to easily find and fix cybersecurity risks across their digital footprint.
+
+Headquartered in New York City, our culture has been recognized by Inc Magazine as a "Best Workplace,” by Crain’s NY as a "Best Places to Work in NYC," and as one of the 10 hottest SaaS startups in New York for two years in a row. Most recently, SecurityScorecard was named to Fast Company’s annual list of the World’s Most Innovative Companies for 2023 and to the Achievers 50 Most Engaged Workplaces in 2023 award recognizing “forward-thinking employers for their unwavering commitment to employee engagement.” SecurityScorecard is proud to be funded by world-class investors including Silver Lake Waterman, Moody’s, Sequoia Capital, GV and Riverwood Capital.
+
+About the Team:
+
+At SecurityScorecard, the Data Science organization builds AI and ML products that empower our customers to manage cybersecurity risk. We leverage massive datasets sourced by our internal Threat Intelligence teams to create the core rating models that our customers use for assessing third-party risk and self-assessment. We also build LLM-powered systems for automating and accelerating cybersecurity risk assessment workflows.
+
+About the Role:
+
+As an ML Engineer, you will design and optimize machine learning algorithms, build scalable data pipelines, and deploy reliable models into production environments. You'll collaborate with cross-functional teams to integrate ML solutions into products, conduct research to stay ahead of emerging technologies, and ensure models perform optimally through ongoing monitoring and refinement. Your work will directly enhance cybersecurity resilience for organizations worldwide, making the world a safer place. If you’re passionate about solving complex problems and creating impactful solutions, this role offers the opportunity to make a significant impact while working in a dynamic, collaborative environment.
+
+Responsibilities:
+
+Technical Leadership: Establish best practices and share expertise through mentorship.
+Model Development: Design, train, and optimize machine learning models and algorithms.
+Data Pipeline Creation: Build and maintain scalable data pipelines to preprocess, clean, and transform raw data for analysis and model training.
+Model Deployment: Implement and manage models in production environments, ensuring scalability, reliability, and performance.
+Research and Experimentation: Stay updated on the latest machine learning techniques, tools, and frameworks to enhance model accuracy and efficiency.
+Collaboration: Work closely with data scientists, software engineers, and product teams to understand requirements and integrate ML solutions into products.
+Performance Monitoring: Continuously monitor, evaluate, and fine-tune models post-deployment to maintain accuracy and robustness.
+Documentation: Create clear and concise documentation for models, processes, and systems to support team collaboration and knowledge sharing.
+
+Required Qualifications:
+
+7+ years of experience or equivalent demonstrable skills in ML Engineering, Data Science or related discipline.
+Bachelor’s or Master’s degree in Computer Science, Engineering, Mathematics, Physics, or a related field.
+Strong programming skills in Python.
+Experience with machine learning frameworks such as PyTorch, TensorFlow, or Scikit-learn.
+Proficiency in data manipulation and analysis using tools such as Polars, Pandas, NumPy, or SQL.
+Solid understanding of algorithms, statistics, and data structures.
+Experience with cloud platforms (AWS, Azure, GCP) and containerization (Docker, Kubernetes).
+Knowledge of CI/CD pipelines and version control systems (e.g. Git).
+Familiarity with Linux/Unix command line tools.
+
+Preferred Qualifications:
+
+PhD degree in Computer Science, Engineering, Mathematics, Physics or a related field.
+Hands-on experience with LLMs, RAG, LangChain, or LlamaIndex.
+Experience with big data technologies such as Hadoop, Spark, or Kafka.
+
+Benefits:
+
+The estimated total compensation range for this position is $75,000 - $90,000 (USD base plus bonus). Actual compensation for the position is based on a variety of factors, including, but not limited to affordability, skills, qualifications and experience, and may vary from the range. In addition to base salary, employees may also be eligible for annual performance-based incentive compensation awards and equity, among other company benefits.
+
+SecurityScorecard is committed to Equal Employment Opportunity and embraces diversity. We believe that our team is strengthened through hiring and retaining employees with diverse backgrounds, skill sets, ideas, and perspectives. We make hiring decisions based on merit and do not discriminate based on race, color, religion, national origin, sex or gender (including pregnancy) gender identity or expression (including transgender status), sexual orientation, age, marital, veteran, disability status or any other protected category in accordance with applicable law. 
+
+We also consider qualified applicants regardless of criminal histories, in accordance with applicable law. We are committed to providing reasonable accommodations for qualified individuals with disabilities in our job application procedures. If you need assistance or accommodation due to a disability, please contact talentacquisitionoperations@securityscorecard.io.
+
+Any information you submit to SecurityScorecard as part of your application will be processed in accordance with the Company’s privacy policy and applicable law. 
+
+SecurityScorecard does not accept unsolicited resumes from employment agencies. Please note that we do not provide immigration sponsorship for this position.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Engenheira de Dados Java SR (Spring Boot e PostgreSQL)
+
+Sobre a vaga
+A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.
+
+Todas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟
+
+O DESAFIO
+● Desenvolver aplicações e serviços backend em Java (usando Spring Boot) focados no processamento e integração de dados, incluindo a construção de APIs RESTful ou microserviços que permitam o consumo e fornecimento de dados via base dimensional.
+● Implementar pipelines de dados e fluxos de processamento em Java, integrando com sistemas de mensageria (ex: Apache Kafka) e outros mecanismos de streaming quando necessário, para capturar dados transacionais em tempo real e persistí-los de forma segura.
+● Projetar e otimizar esquemas de banco de dados PostgreSQL para armazenar dados = provenientes de sistemas legados ou da camada de ingestão, garantindo normalização adequada ou modelagem relacional conforme necessário, além de criar índices e otimizar consultas para alto desempenho.
+● Colaborar com o time de arquitetura e outros engenheiros de dados para assegurar que as soluções desenvolvidas em Java/PostgreSQL estejam alinhadas com a arquitetura dimensional e não gerem redundâncias ou inconsistências com as demais fontes de dados.
+● Implementar testes (unitários e de integração) e monitoramento nos serviços desenvolvidos, assegurando que falhas sejam rapidamente identificadas (logs, métricas, telemetria) e colaborando com a equipe de SRE para implantar monitoramento e alertas adequados.
+● Participar da integração de dados entre o PostgreSQL e outras camadas da plataforma (por exemplo, exportando dados para Data Lake ou fornecendo dados atualizados para aplicações de relatório), escrevendo scripts ou procedimentos armazenados quando necessário.
+● Dar suporte e manutenção evolutiva aos componentes desenvolvidos, tanto durante a fase de construção quanto na sustentação posterior, incluindo documentação clara do código e das integrações realizadas.
+
+O QUE VOCÊ PRECISA
+● Experiência em construção de APIs REST e microserviços, com práticas de versionamento, segurança (autenticação/autorização) e documentação (OpenAPI/Swagger).
+● Familiaridade com sistemas de mensageria e event streaming (Kafka ou similares) e integração de aplicações Java com esses sistemas (producers/consumers, processamento de eventos).
+● Conhecimento de ferramentas de build e entrega contínua para Java (Maven/Gradle, Jenkins/GitLab CI) e experiência básica em containerização (Docker) para deploy dos serviços.
+
+VOCÊ VAI BRILHAR AINDA MAIS SE TIVER
+
+Experiência no mercado financeiro
+
+O QUE OFERECEMOS PARA VOCÊ
+
+🍴 Vale Alimentação: Para saborear deliciosas refeições
+＄ Previdência Privada: Planeje o futuro com segurança.
+✙ Assistência Médica e Odontológica: Cuidado completo para você e sua família.
+👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.
+‍👧‍👦 Auxílio Creche: Para ajudar nas despesas dos pequenos.
+ღ Seguro de Vida: Segurança para você e quem você ama.
+💪 Wellhub: Acesso a academias e atividades físicas para manter a saúde em dia.
+💰 Participação nos Lucros e Resultados (PLR): Sucesso compartilhado com todos.
+⚕ Einstein Conecta: Orientação médica online com os especialistas do Hospital Israelita Albert Einstein, totalmente gratuito.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Especialista em IA
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenvolver, treinar, ajustar e avaliar modelos de IA Generativa (LLMs, GANs, etc.) para tarefas como geração de texto, imagem, análise preditiva e automação.
+Analisar e preparar grandes volumes de dados para treinamento, aplicando técnicas de engenharia de features.
+Implementar e integrar modelos em ambientes produtivos, com foco em performance e escalabilidade (via APIs, microsserviços, etc.).
+Explorar novas abordagens, ferramentas e algoritmos em IA Generativa, contribuindo para soluções inovadoras.
+Monitorar modelos em produção, otimizando continuamente sua eficácia e precisão.
+Colaborar com áreas diversas (dados, produto, engenharia e negócio) para alinhar entregas com objetivos estratégicos.
+Garantir o uso responsável da IA, promovendo a ética, a transparência e a mitigação de vieses.
+Desenvolver agentes autônomos e contribuir com arquiteturas multiagentes que operem de forma segura, colaborativa e eficaz.
+
+Qualificações Essenciais
+
+Formação superior em Ciência da Computação, Engenharia, Estatística, Matemática, Física ou áreas correlatas com base quantitativa sólida.
+Experiência comprovada no desenvolvimento e implementação de modelos de Machine Learning e Deep Learning.
+Proficiência em Python e domínio das bibliotecas essenciais de IA, como TensorFlow, PyTorch, Keras, Scikit-learn, Pandas e NumPy.
+Sólido conhecimento em algoritmos de aprendizado supervisionado, não supervisionado, por reforço e em redes neurais (CNN, RNN, Transformers).
+Vivência com ferramentas e práticas de MLOps e uso de nuvem (AWS, Azure ou GCP).
+Experiência prática em desenvolvimento de agentes de IA e atuação em sistemas multiagentes, com foco em governança e ética.
+
+Qualificações Desejáveis
+
+Experiência com engenharia de prompts, fine-tuning, RAG (Retrieval-Augmented Generation).
+Conhecimento em NLP, visão computacional ou aplicações multimodais.
+Familiaridade com Big Data (Spark, Hadoop), bancos NoSQL e participação em comunidades técnicas ou projetos open source.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Cientista de Dados Sênior - Brasil
+
+Sobre a vaga
+Description
+
+Você na Deloitte
+
+Na Deloitte, buscamos pessoas que queiram gerar impactos positivos todos os dias. Impulsionamos talentos para que possam se desenvolver em um ambiente colaborativo, com times diversos e que tragam energia, empoderamento, interação e conexões. O nosso crescimento é exponencial porque os talentos que recrutamos possuem os nossos valores em suas essências. Liderar o caminho, fomentar a inclusão, colaborar para mensurar impactos, servir com integridade e cuidar uns dos outros são pontos essenciais e inegociáveis para fortalecer ainda mais o nosso propósito.
+
+Você terá a oportunidade de evoluir sua carreira na maior empresa de serviços profissionais do mundo como Cientista de Dados Sênior no time de Analytics, aqui você terá a oportunidade de ser o protagonista de sua carreira, e de gerar impactos e transformações positivas em seu redor. Na sua rotina, você irá:
+
+Se engajar na nossa equipe de Advanced Analytics e Inteligência Artificial como Data Scientist, aplicando conceitos analíticos e matemáticos em problemas do setor de energia elétrica com a curiosidade e criatividade. Além de desenvolvimento de modelos de inteligência artificial com Machine Learning, Deep Learning e outras tecnologias, acompanhando, interpretando, explicando e otimizando o desempenho dos modelos.
+
+Acreditamos na força dos talentos que preparamos. Eles transformam de fato, impactam organizações, impulsionam mais talentos e criam oportunidades. Que tal fazer parte da maior organização de serviços profissionais do mundo?
+
+Escolha seu impacto.
+
+Requirements
+
+Ensino Superior em cursos de Exatas ou TI;
+
+Experiência com manipulação, limpeza e preparação de dados para desenvolvimento de produtos de IA utilizando linguagem de programação Python.
+
+Bibliotecas importantes: Pandas, Numpy, Scipy, Seaborn, Scikit-learn, TensorFlow e PyTorch;
+
+Conhecimento em GCP;
+
+Inglês avançado e experiência no setor elétrico será um diferencial;
+
+Benefits
+
+Desenvolvimento profissional 
+
+É claro que cuidaríamos do seu desenvolvimento aqui na Deloitte! Queremos que você alcance seus objetivos profissionais e pessoais e, por isso, contamos com Universidade Corporativa, acesso a plataformas online de aprendizado, plataforma de idiomas com mais de 7.500 conteúdos e cerca de 60 cursos divididos por nível, área de atuação, habilidades profissionais e interesses, e até uma plataforma que reúne diversas instituições de ensino, fornecendo descontos exclusivos para profissionais Deloitte e seus dependentes. 
+
+Além disso, oferecemos um plano de carreira estruturado, com mentoria de profissionais da Deloitte por meio de um(a) coach, que poderá ouvir seus desafios e apoiar para que consiga evoluir tanto com habilidades técnicas, quanto com habilidades comportamentais com base na própria experiência. É ótimo ter uma pessoa mentora, não é mesmo?
+
+Cuidados com o seu bem-estar 
+
+Aqui na Deloitte, acreditamos que saúde e bem-estar não são apenas projetos, e sim uma mudança de cultura. Queremos que você coloque em prática todo o seu talento e desenvolva uma carreira de sucesso com a gente, com equilíbrio entre Mente, Corpo e Propósito. Para isso, contamos com mais de 30 benefícios, como:
+
+Serviço de telemedicina para que você consiga fazer uma pré-avaliação sem precisar sair de casa! 
+Family Strategy: programa destinados à profissionais gestantes e futuros papais que terão todo apoio possível neste momento tão especial 
+Gympass para colocar os exercícios físicos em dia 
+Dia de folga no mês do seu aniversário, para celebrar uma das pessoas mais importantes de sua vida 
+Canal de apoio psicológico e Serviço Social 
+
+(Mais) Benefícios 
+
+Assistência médica e odontológica! Para que você faça check-ups e cuide de você, em primeiro lugar* 
+Participação nos lucros. Afinal, sem os nossos talentos, não poderíamos crescer exponencialmente 
+Auxílio-internet, para apoiar no trabalho em modelo híbrido 
+Seguro de vida* 
+Vale refeição / alimentação* 
+Pacote de benefícios flexíveis: você receberá pontos e poderá distribui-los entre as opções que melhor se adequam às suas necessidades de acordo com as regras do programa.
+
+Oportunidade de fazer parte de uma cultura inclusiva 
+
+Você pode ser quem realmente é com oportunidade igual de crescimento. Para reforçar esse compromisso, desenvolvemos a estratégia global ALL IN com os 8 pilares – Origens, Jovem Aprendiz, STEM, Delas, LGBT+, Inclui, No Borders e Geração 50+. Destacamos que todas as nossas vagas estão abertas ao público PcD.  
+
+Esperamos você neste time! 
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Arquiteta de Inteligência Artificial (IA)
+
+Sobre a vaga
+Job Description
+
+A FCamara está em busca de uma pessoa para atuar como Pessoa Arquiteta de Inteligência Artificial (IA), para se juntar a nossa equipe dinâmica e atuar em parceria com a maior construtora da América Latina, que ao longo de sua existência, sempre esteve sintonizada com o mercado e as melhores práticas, além de priorizar sempre as necessidades de seus clientes. É uma empresa que está em constante movimento, se reinventando a cada dia para oferecer soluções de moradia para todas as gerações.
+
+Buscamos uma Pessoa Arquiteta de Inteligência Artificial (IA) talentoso(a) e experiente para se juntar à nossa equipe inovadora. Você será fundamental na concepção, desenvolvimento e implementação de soluções de IA que transformarão nossos processos de negócios, otimizarão operações e impulsionarão a tomada de decisões estratégicas em toda a companhia. Se você é apaixonado por dados, algoritmos e por criar o futuro da construção civil através da inteligência artificial, esta é a sua oportunidade!
+
+Responsibilities And Assignments
+
+Liderar a arquitetura e o design de soluções de Inteligência Artificial e Machine Learning, desde a concepção até a implantação em produção.
+Colaborar com equipes multidisciplinares (engenharia de dados, desenvolvimento de software, negócios) para identificar oportunidades de aplicação de IA e definir requisitos técnicos.
+Desenvolver e implementar modelos de Machine Learning, Deep Learning e outras técnicas de IA para resolver desafios complexos de negócios.
+Definir a infraestrutura tecnológica necessária para suportar as soluções de IA, incluindo plataformas de nuvem, ferramentas de MLOps e pipelines de dados.
+Garantir a escalabilidade, robustez, segurança e manutenibilidade das soluções de IA implementadas.
+Realizar provas de conceito (PoCs) e protótipos para validar a viabilidade e o impacto de novas soluções de IA.
+Manter-se atualizado com as últimas tendências, tecnologias e melhores práticas em Inteligência Artificial e Machine Learning.
+Documentar as arquiteturas de solução, modelos e processos implementados.
+Fornecer orientação técnica e mentoria para outros membros da equipe.
+Avaliar e selecionar tecnologias, frameworks e ferramentas de IA.
+Comunicar de forma clara e eficaz os aspectos técnicos e os resultados dos projetos para stakeholders técnicos e não técnicos.
+
+Requirements And Qualifications
+
+Formação superior completa em Ciência da Computação, Engenharia de Software, Engenharia da Computação, Estatística, Matemática ou áreas correlatas.
+Experiência comprovada como Arquiteto de IA, Engenheiro de Machine Learning Sênior ou função similar.
+Profundo conhecimento em algoritmos de Machine Learning (regressão, classificação, clusterização, etc.), Deep Learning (redes neurais convolucionais, recorrentes, transformers, etc.) e processamento de linguagem natural (PLN).
+Experiência sólida em linguagens de programação como Python e suas bibliotecas de IA/ML (scikit-learn, TensorFlow, PyTorch, Keras, Pandas, NumPy).
+Experiência com plataformas de nuvem (AWS, Azure ou Google Cloud Platform) e seus respectivos serviços de IA/ML (SageMaker, Azure ML, Vertex AI, etc.).
+Conhecimento em bancos de dados SQL e NoSQL.
+Experiência com ferramentas e práticas de MLOps (versionamento de modelos, CI/CD para ML, monitoramento de modelos).
+Familiaridade com ferramentas de Big Data (Spark, Hadoop, etc.).
+Excelentes habilidades analíticas e de resolução de problemas complexos.
+Capacidade de traduzir necessidades de negócios em soluções técnicas de IA.
+Fortes habilidades de comunicação e colaboração.
+
+Desejável:
+
+Mestrado ou Doutorado em Inteligência Artificial ou área relacionada.
+Experiência no setor de construção civil, imobiliário ou áreas afins.
+Conhecimento em desenvolvimento de APIs e microsserviços.
+Experiência com ferramentas de visualização de dados (Tableau, Power BI, etc.).
+Certificações em plataformas de nuvem (AWS Certified Machine Learning, Azure AI Engineer, Google Professional Machine Learning Engineer).
+Experiência com metodologias ágeis (Scrum, Kanban).
+Publicações científicas ou contribuições para projetos open-source na área de IA.
+Inglês avançado para leitura e escrita técnica.
+
+Transformamos mundos sonhados em trajetórias reais.🧡🚀
+
+Aqui somos #SangueLaranja!
+
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras.
+
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+
+tem o poder da transformação!
+
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs.
+
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?
+-----------------------------------------------------------------------------------

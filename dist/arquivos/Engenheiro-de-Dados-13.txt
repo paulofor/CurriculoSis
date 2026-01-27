@@ -1,0 +1,345 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro(a) de Software Sênior - Full Stack
+
+Sobre a vaga
+Funções que serão desempenhadas:  
+
+ Elaborar aplicações web otimizadas e responsivas; 
+ Trabalhar juntamente com desenvolvedores Backend e UX para garantir a melhor experiência de uso das aplicações; 
+ Garantir que plataformas funcionem bem em diferentes navegadores e dispositivos; 
+ Elaborar, manter e evoluir a documentação técnica; 
+ Realizar boas práticas de desenvolvimento, seguindo os frameworks e design patterns específicos; 
+ Propor boas práticas, promovendo a melhoria contínua dessas aplicações; 
+ Realizar code Review de outros membros da squad; 
+ Atuar em troubleshooting das aplicações existentes. 
+
+ Requisitos necessários: 
+
+ Formação superior em cursos voltados para tecnologia; 
+ Conhecimento em cloud (GCP, Azure ou AWS); 
+ Experiência em Javascript (React); 
+ Experiência em Typescript; 
+ Experiência em técnicas e boas práticas de programação; 
+ Experiência em testes unitários; 
+ Experiência em metodologias ágeis, 
+ Sólidos conhecimentos em Java do 8 ao 17; 
+ Experiência em Spring Framework. 
+
+#BVS
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: BACKEND SOFTWARE ENGINEER SENIOR - SQUAD CORPORATIVO E HYPERION (HÍBRIDO CAMPINAS/SP)
+
+Sobre a vaga
+Job Description
+
+Empresa contratante: HypeFlame Tecnologia e Big Data LTDA
+
+Modelo de trabalho: Híbrido (1 dia/semana) em Campinas/SP
+
+Aqui No Agibank Você Terá Que
+
+Exercer a liderança técnica da equipe;
+Propor evoluções tecnológicas nos sistemas;
+Monitorar a execução das boas práticas de desenvolvimento de sistemas;
+Validar nível de testes existentes nos projetos; Monitorar o desempenho e performance dos sistemas das aplicações;
+Antecipar-se a oportunidades e problemas, agindo com rapidez e eficácia, desenvolvendo soluções de forma preventiva;
+Auxiliar na orientação dos desenvolvedores mais novos e contribuir nas tomadas de decisão do projeto;
+Atuar na integração e interface entre as aplicações de back-end e front-end;
+Atuar no planejamento e levantamento de requisitos e limitações técnicas para melhoria da performance e escalabilidade das aplicações;
+Orientar tecnicamente as etapas de iniciação, planejamento, execução, controle e encerramento dos projetos, monitorando a qualidade, funcionalidades, progressos e desvios no back-end.
+
+
+Requirements And Qualifications
+
+Superior completo ou cursando Engenharia da Computação, Ciência da Computação ou correlatas.
+Experiência como desenvolvedor de software Java, trabalhando em projetos de médio a grande porte;
+Bom conhecimento em Java, J2EE, Spring Boot e RabbitMQ/Kafka;
+Experiência em desenvolvimento de APIs RESTful utilizando Spring Boot ou tecnologias similares;
+Boa compreensão de conceitos de bancos de dados relacionais e experiência com SQL;
+Experiência com ferramentas de controle de versão, como Git, e metodologias ágeis de desenvolvimento de software;
+
+
+É UM DIFERENCIAL PRA NÓS, MAS NÃO É OBRIGATÓRIO, OK?
+
+Grafana;
+Camunda;
+MongoDB.
+
+
+Additional information
+
+ALGUNS BENEFÍCIOS, FACILIDADES E PARCERIAS PRA VOCÊ CURTIR A JORNADA COM A GENTE 😊:
+
+Vale-refeição e/ou alimentação;
+Plano de saúde com isenção total nos exames preventivos;
+Plano odontológico;
+Total Pass, pra atividade física e bem-estar;
+Programa de Participação nos Resultados (PPR) seguindo as regras estabelecidas anualmente;
+Programa de sócios do Agibank, o Tô de Dono/a;
+Universidade interna, a Uni Agi;
+Folga de presente no mês do seu aniversário;
+Pesquisa semanal de clima, a Sem Climão;
+Avaliação de performance;
+Teleatendimento psicológico e médico gratuito, com o Conexão Saúde;
+Licença-maternidade de 6 meses e licença-paternidade de 20 dias;
+Auxílio creche;
+Dr. Pet: possibilidade fazer plano de saúde para o seu pet com até 20% de desconto.
+Fretado de ida e volta para Campinas e região (com raio de até 50 km de distância). São lugares reserváveis mediante a disponibilidade de assentos e rota.
+
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: Conhecendo suas habilidades e potenciais2Conhecendo suas habilidades e potenciais
+Step 3: Papo com Recrutador/a3Papo com Recrutador/a
+Step 4: Papo com a Liderança4Papo com a Liderança
+Step 5: Hiring5Hiring
+
+
+VEM VER QUEM FAZ O DIA DE MILHÕES DE PESSOAS MELHOR!
+
+O Agibank
+
+Somos um banco focado em relacionamento e inclusão financeira e digital pra pessoas de menor renda, que recebam benefício ou salário conosco, possibilitando o acesso a produtos e serviços financeiros para milhões de brasileiros. Temos o propósito de fazer o dia a dia das pessoas melhor por meio de crédito, seguros, serviços bancários, investimentos, marketplace e de um atendimento acolhedor nas nossas 900 lojas em todo o Brasil, além de múltiplos canais de atendimento, como aplicativo, internet banking, caixa eletrônico, WhatsApp, entre outros.
+
+Nascemos em 1999 como um agente de distribuição de crédito no Sul do Brasil e, em 2016, nos tornamos banco. Inovamos ao transformar o número do celular do cliente em número da conta corrente e criamos a primeira solução de pagamento via QR Code. Em 2018, ampliamos o portfólio para uma oferta bancária completa e nos tornamos pagador da folha do INSS, acessando mais de 36 milhões de beneficiários. Em 2021, mudamos a nossa sede para Campinas, no estado de São Paulo, em um espaço sustentável que privilegia a interação e a criatividade dos times corporativos. Unimos atendimento humanizado e tecnologia para democratizar o acesso a serviços para a população, garantindo autonomia e independência para quem mais precisa.
+
+Queremos que quem trabalha aqui de fato cresça com a gente e transforme sua vida. Temos muito orgulho das centenas de pessoas que viram no Agibank a oportunidade de começar a carreira e foram se conhecendo, como pessoas e profissionais, e evoluindo com a gente. E como fazemos isso? Contratamos pessoas que já tem potencial pra desenvolver a cultura do Agibank, de agir sempre como empreendedor/a. Pessoas que acima de tudo vão curtir estar com a gente e ser felizes nesse ambiente colaborativo e fértil.
+
+Quem faz parte do Agibank entende que é responsável pelo seu próprio desenvolvimento e aproveita todas as oportunidades, trilhando a jornada que faz mais sentido e construindo os melhores caminhos. São encorajados/as diariamente a impulsionar seus potenciais e se colocar no lugar do cliente, oferecendo acolhimento em cada entrega e atendimento e, de fato, entendendo o seu impacto na vida dessas pessoas, para que sejam incluídas tanto digital quanto financeiramente.
+
+Somos uma empresa que acredita na diversidade. Por isso, direcionamos esforços pra nos tornarmos cada vez mais diversos e inclusivos pra todos os gêneros, orientações sexuais, cores, deficiências e idades.
+
+Você quer flexibilidade pra se desenvolver, espaço pra mostrar seu protagonismo e contribuir com desafios?
+
+Vem crescer com a gente 💚💙
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Software Engineer | Afirmativa para Mulheres e Pessoas Não-Binária
+
+Sobre a vaga
+Buscamos uma pessoa Software Engineer para transformar a empregabilidade do Brasil com o time da Gupy.
+
+Local de trabalho: Remoto
+Modelo de contratação: CLT
+
+Conheça mais sobre a gente
+
+A Gupy é uma empresa de tecnologia que une um grupo de pessoas apaixonadas por gerar inovação e impactar o mercado. Somos movidos por grandes desafios e temos um sonho maior ainda: transformar a empregabilidade do país por meio de contratações mais ágeis, justas e encantadoras. 💙
+
+Por isso, estamos sempre em busca de profissionais que amem tecnologia, aprendizado constante e que topem embarcar nessa jornada com a gente. Buscamos pessoas engajadas, com muita garra e, claro, que se identifiquem com nosso propósito e a nossa maior missão.
+
+Estamos crescendo muito rápido e criando produtos ainda mais poderosos a cada dia. O segredo disso? As pessoas incríveis que fazem parte dessa construção diária aqui dentro da Gupy.
+
+Ah, e as vagas são para todo o Brasil, tá bem? Nosso formato de trabalho é 100% remoto, ou seja, você trabalha de onde quiser!
+
+Você é uma pessoa com deficiência e tem dúvidas se pode se candidatar? Saiba que todas as nossas vagas também são para você.
+
+
+E aí, curtiu? Venha fazer parte do time de uma das HRTechs que mais cresce no Brasil!
+
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como Senior Software Engineer, você vai:
+Desenvolver e manter aplicações utilizando Nodejs (nestjs) no backend, bem como VueJS no frontend;
+Desenvolver e manter alta qualidade de software, garantindo a eficiência e robustez dos sistemas;
+Realizar testes de software, incluindo testes unitários, de integração, de aceitação e outros, para garantir a estabilidade e a confiabilidade das aplicações;
+Automatizar testes para aumentar a eficiência e a cobertura de teste dos códigos, resolvendo como os testes gerenciam os dados e como rodam nas pipelines;
+Utilizar banco de dados não-relacional e relacional, especialmente PostgreSQL, para armazenamento eficiente e escalável de dados;
+Identificar e corrigir code smells, aplicar técnicas de refatoração para melhoraria da qualidade do código, e criar um "ambiente seguro" para tais refatorações, incluindo teste, padrões e processos. Influenciar as pessoas da squad a fazer o mesmo;
+Aplicar padrões de projetos e princípios SOLID para manter um código limpo e de fácil manutenção;
+Seguir princípios de Clean Architecture para desenvolver sistemas escaláveis e modularizados.
+Utilizar serviços da GCP para hospedar e gerenciar aplicações na nuvem;
+Configurar e utilizar ferramentas como Jenkins para automação de pipelines de integração e entrega contínua;
+Garantir a observabilidade das aplicações, implementando métricas, logs e rastreamento para monitoramento e diagnóstico;
+Identificar gargalos e melhorias de performance em nossas arquiteturas e processos, propondo novas ideias e soluções arquiteturais reutilizáveis;
+Trabalhar em pareamento com outros membros da equipe para compartilhar conhecimento e melhorar a qualidade do código e da entrega;
+Demonstrar senso crítico ao analisar problemas complexos e propor soluções eficazes;
+Demonstrar ownership ao assumir responsabilidade pelas tarefas e garantir que elas sejam concluídas com sucesso;
+Comunicar-se de forma clara e empática, utilizando técnicas de comunicação não violenta para resolver conflitos e colaborar efetivamente com a equipe;
+Priorizar a comunicação eficaz e a colaboração em equipe para alcançar os objetivos do produto;
+Trabalhar em colaboração com a equipe para seguir metodologias ágeis e entregar valor de forma contínua aos clientes. Atuar com profissionais da gestão de pessoas e da gestão de produtos;
+Demonstrar comprometimento com o aprendizado contínuo, buscando constantemente aprimorar suas habilidades e conhecimentos técnicos.
+
+REQUISITOS E QUALIFICAÇÕES
+Esta é uma vaga afirmativa, por isso, é um pré-requisito fundamental:
+Identificar-se como mulher ou pessoa não binária.
+Identificar-se como pessoa trans.
+
+
+Como requisitos básicos, você deve ter:
+
+Experiência com desenvolvimento de serviços e API’s REST;
+Experiência com Nodejs e Nestjs;
+Experiência em desenvolvimento Web com React.js;
+Experiência com banco de dados relacional;
+Experiência com arquitetura e design de sistemas (padrões de projetos, princípios SOLID, clean arch, etc);
+Experiência em gerenciamento e solução de dívidas técnicas e melhoria contínua;
+Experiência com testes e automatização;
+Experiência com Git e CI/CD;
+Experiência com observabilidade de sistemas;
+Formado e/ou mentorado pessoas tecnologistas;
+Conhecimento teórico e prático de boas práticas de desenvolvimento de software ágil.
+
+Você se destaca, se tiver:
+Desenvolvido em aplicações Vue.js;
+Experiência com GCP - Google Cloud Platform;
+Experiência com Kubernets;
+Experiência com banco de dados Postgres;
+Experiência com banco de dados não-relacional, preferencialmente MongoDB;
+Experiência com ferramentas de monitoramento;
+Experiência com processos ágeis;
+Experiência com cultura e práticas DevOps;
+Experiência com serviços da AWS;
+Experiência em manutenção de sistemas legados;
+Experiência com testes de performance e cultura de qualidade end-to-end;
+
+
+
+ Acha que não preenche todos os requisitos?
+
+Um estudo recente do LinkedIn indicou que mulheres são menos propensas a se candidatarem a vagas se não acreditarem que preenchem 100% das qualificações (em comparação, homens tendem a se inscrever mesmo atendendo a 60%).
+
+Aqui na Gupy, queremos construir um ambiente de trabalho cada vez mais diverso e inclusivo. Portanto, se você gostou e se identificou com a vaga, mas a sua experiência
+prévia não se alinha exatamente com todos os requisitos descritos, te incentivamos a se candidatar de qualquer maneira.
+
+Você pode ser a pessoa certa e não queremos perder a chance de te conhecer.
+INFORMAÇÕES ADICIONAIS
+
+Benefícios:
+
+Flexibilidade nos seus horários (sim, mesmo no home office);
+Vale-refeição no cartão Caju;
+Plano médico 100% custeado pela Gupy para você e seus dependentes;
+Plano odontológico;
+Auxílio home office;
+Apoio à saúde mental por meio de nossos benefícios como o Zenklub;
+Apoio à saúde física por meio de nossos benefícios como o Gympass;
+Licença-maternidade de 6 meses;
+Licença-paternidade de 6 meses;
+*Nossa política de licença parental é igualmente aplicável a casais homoafetivos, a mães não gestantes e aos casos de adoção, independentemente da idade;
+Licença-casamento de 5 dias;
+Reconhecimento interno com as nossas Gupy Coins, que você pode resgatar em forma de crédito no seu cartão Caju (prêmios como Vale Netflix, Vale Spotify, Vale Pizza, Vale Gamer, Vale Jantar Romântico);
+Dia de folga no seu aniversário;
+Short-Friday, isto é, nas sextas-feiras trabalhamos apenas meio período (esse é um favorito por aqui);
+Crédito Consignado Creditas, com parcelas descontadas direto na folha de pagamento e juros mais baixos;
+Educação Financeira Creditas, com conteúdos exclusivos para você focar na sua educação financeira;
+Creditas Store, uma loja para você comprar produtos ou adquirir serviços efetuando o pagamento direto na sua folha de pagamento;
+Férias&Co, que são créditos anuais para você organizar viagens de férias comprando hospedagens e passagens pelo Brasil e pelo mundo via assinatura! Subsidiamos uma parte da mensalidade e é você quem decide se quer contratar o serviço, tá bem?
+Oportunidade de se tornar sócio da Gupy.
+
+Carreira
+
+Oferecemos todo o apoio para que as pessoas sejam as protagonistas em suas jornadas de crescimento, possuímos uma jornada de carreira muito clara com várias opções de transições e oportunidades de aprendizados e desafios.
+
+Nossa carreira em Y atende os diferentes tipos de perfis onde pessoas podem seguir para caminhos de gestão ou continuar em suas trajetórias técnicas.
+
+Não temos burocracias referente a promoções, estamos frequentemente avaliando pessoas aptas para serem promovidas e dando oportunidades para que deem seus próximos passos em suas jornadas.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Sr. Machine Learning Engineer - IBP
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Actively contribute to code development in projects and services, leading and coaching ML engineers and data scientists.
+Act as a contributor in innovation activities.
+Work with data scientists, IBP process leads, and BU subject matter experts to identify data clusters for optimal forecasting performance.
+Partner with data scientists on discovery, prototypes, and pilot projects, focusing on experiment tracking and translating business models to ML/statistical models.
+Collaborate with IBP market deploy and sustain teams to design, implement, and test pre-processing and post-processing modules for improved demand forecasts.
+Work with data engineers to ensure proper data access and preparation for model consumption.
+Partner with ML engineers and data scientists on industrialization efforts.
+Drive the use of the Platform toolset and demonstrate 'the art of the possible' to the business.
+Communicate with business stakeholders during service design, training, and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Research state-of-the-art methodologies and techniques for feature engineering and model data preprocessing.
+
+Qualifications
+
+What you will need to succeed
+
+4+ years working in a team to deliver production level analytic solutions - Fluent in git (version control) and with Docker.
+4+ years’ experience in ETL and/or data wrangling techniques - Fluent in SQL syntaxis.
+4+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. 
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or Scala development.
+Effective business storytelling and communicating data insights in business consumable format - Fluent in one Visualization tool.
+Experience with Agile methodology for team work and analytics ‘product’ creation - Fluent in Jira, Confluence.
+On-the-job experience with Azure cloud services is essential.
+
+Additional qualifications that will make you stand out for this position
+
+Experiences with Deep Learning are a plus.
+experience building solutions in the revenue management or in the supply chain space.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+DESCRIÇÃO DA VAGA
+Nosso time é formado por excelentes profissionais da área da tecnologia.
+
+Colaboração e comprometimento fazem parte do nosso dia-a-dia, quando desenvolvemos novas funcionalidades, construindo um produto robusto e escalável.
+
+Fazendo parte de nossa equipe, seu trabalho irá impactar em milhares de usuários que utilizam nossa solução diariamente.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atividades
+
+Atuar no download e aplicação de vacinas e correções no Anti-Malware em estações de trabalho;
+Administrar os recursos de infraestrutura de Segurança da Informação;
+atualizações Microsoft, Firewall, Anti-Spam, Anti-Malware, Privileged Access;
+Management (PAM) e filtros de conteúdo para acesso à Internet e Dashboards;
+ Monitorar a console de atualizações Microsoft, Anti-Malware e Anti-Spam e realizar os ajustes necessários.
+
+REQUISITOS E QUALIFICAÇÕES
+Formação:
+Nível superior na área de Ciência da Computação ou áreas afins.
+
+Conhecimento Técnico exigido: 
+Python, SQL, governança de dados, Json, web scrapping, ETL, Spark, Hadoop e Nifi, experiência com análise, preparo e modelagem de dados.
+
+Certificação:
+Não é exigida.
+
+INFORMAÇÕES ADICIONAIS
+Nossos benefícios:
+
+Plano de Saúde;
+Plano Odontológico;
+Seguro Prudential: é concedido ao colaborador, de forma gratuita o seguro de vida, auxílio funeral e cesta natalidade, conforme regras específicas da seguradora;
+Vale Refeição ou Vale Alimentação;
+Vale Transporte: é concedido ao colaborador, para uso no trajeto residência – trabalho – residência, e será descontado mensalmente o percentual de 6% sob o valor do salário, limitado ao valor do benefício (opcional);
+Day off: será concedido ao colaborador folga em virtude do dia do aniversário, devendo este ser usufruído na mesma data e/ou no mês do aniversário;
+Convênios e Parcerias (Instituições de Ensino, Academias, Cursos de Idiomas entre outros);
+Ginástica Laboral.
+-----------------------------------------------------------------------------------

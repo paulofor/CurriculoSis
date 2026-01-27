@@ -1,0 +1,287 @@
+[Oportunidade 1]
+Oportunidade: Cientista de Dados Sênior - Brasil
+
+Sobre a vaga
+Description
+
+Você na Deloitte
+
+Na Deloitte, buscamos pessoas que queiram gerar impactos positivos todos os dias. Impulsionamos talentos para que possam se desenvolver em um ambiente colaborativo, com times diversos e que tragam energia, empoderamento, interação e conexões. O nosso crescimento é exponencial porque os talentos que recrutamos possuem os nossos valores em suas essências. Liderar o caminho, fomentar a inclusão, colaborar para mensurar impactos, servir com integridade e cuidar uns dos outros são pontos essenciais e inegociáveis para fortalecer ainda mais o nosso propósito.
+
+Você terá a oportunidade de evoluir sua carreira na maior empresa de serviços profissionais do mundo como Cientista de Dados Sênior no time de Analytics, aqui você terá a oportunidade de ser o protagonista de sua carreira, e de gerar impactos e transformações positivas em seu redor. Na sua rotina, você irá:
+
+Se engajar na nossa equipe de Advanced Analytics e Inteligência Artificial como Data Scientist, aplicando conceitos analíticos e matemáticos em problemas do setor de energia elétrica com a curiosidade e criatividade. Além de desenvolvimento de modelos de inteligência artificial com Machine Learning, Deep Learning e outras tecnologias, acompanhando, interpretando, explicando e otimizando o desempenho dos modelos.
+
+Acreditamos na força dos talentos que preparamos. Eles transformam de fato, impactam organizações, impulsionam mais talentos e criam oportunidades. Que tal fazer parte da maior organização de serviços profissionais do mundo?
+
+Escolha seu impacto.
+
+Requirements
+
+Ensino Superior em cursos de Exatas ou TI;
+
+Experiência com manipulação, limpeza e preparação de dados para desenvolvimento de produtos de IA utilizando linguagem de programação Python.
+
+Bibliotecas importantes: Pandas, Numpy, Scipy, Seaborn, Scikit-learn, TensorFlow e PyTorch;
+
+Conhecimento em GCP;
+
+Inglês avançado e experiência no setor elétrico será um diferencial;
+
+Benefits
+
+Desenvolvimento profissional 
+
+É claro que cuidaríamos do seu desenvolvimento aqui na Deloitte! Queremos que você alcance seus objetivos profissionais e pessoais e, por isso, contamos com Universidade Corporativa, acesso a plataformas online de aprendizado, plataforma de idiomas com mais de 7.500 conteúdos e cerca de 60 cursos divididos por nível, área de atuação, habilidades profissionais e interesses, e até uma plataforma que reúne diversas instituições de ensino, fornecendo descontos exclusivos para profissionais Deloitte e seus dependentes. 
+
+Além disso, oferecemos um plano de carreira estruturado, com mentoria de profissionais da Deloitte por meio de um(a) coach, que poderá ouvir seus desafios e apoiar para que consiga evoluir tanto com habilidades técnicas, quanto com habilidades comportamentais com base na própria experiência. É ótimo ter uma pessoa mentora, não é mesmo?
+
+Cuidados com o seu bem-estar 
+
+Aqui na Deloitte, acreditamos que saúde e bem-estar não são apenas projetos, e sim uma mudança de cultura. Queremos que você coloque em prática todo o seu talento e desenvolva uma carreira de sucesso com a gente, com equilíbrio entre Mente, Corpo e Propósito. Para isso, contamos com mais de 30 benefícios, como:
+
+Serviço de telemedicina para que você consiga fazer uma pré-avaliação sem precisar sair de casa! 
+Family Strategy: programa destinados à profissionais gestantes e futuros papais que terão todo apoio possível neste momento tão especial 
+Gympass para colocar os exercícios físicos em dia 
+Dia de folga no mês do seu aniversário, para celebrar uma das pessoas mais importantes de sua vida 
+Canal de apoio psicológico e Serviço Social 
+
+(Mais) Benefícios 
+
+Assistência médica e odontológica! Para que você faça check-ups e cuide de você, em primeiro lugar* 
+Participação nos lucros. Afinal, sem os nossos talentos, não poderíamos crescer exponencialmente 
+Auxílio-internet, para apoiar no trabalho em modelo híbrido 
+Seguro de vida* 
+Vale refeição / alimentação* 
+Pacote de benefícios flexíveis: você receberá pontos e poderá distribui-los entre as opções que melhor se adequam às suas necessidades de acordo com as regras do programa.
+
+Oportunidade de fazer parte de uma cultura inclusiva 
+
+Você pode ser quem realmente é com oportunidade igual de crescimento. Para reforçar esse compromisso, desenvolvemos a estratégia global ALL IN com os 8 pilares – Origens, Jovem Aprendiz, STEM, Delas, LGBT+, Inclui, No Borders e Geração 50+. Destacamos que todas as nossas vagas estão abertas ao público PcD.  
+
+Esperamos você neste time! 
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Consultor Engenheiro de Dados (PJ)
+
+Sobre a vaga
+Job Description
+
+Somos a PRIO, a maior companhia independente de óleo e gás do Brasil. Buscamos continuamente por otimização de processos operacionais e de soluções inovadoras que visem diminuir os custos. Aqui todo trabalho é multidisciplinar e cada desafio é único!
+
+Estamos buscando um Consultor de Engenharia de Dados para se juntar à nossa equipe em tempo integral na modalidade de Pessoa Jurídica. O profissional será responsável por desenvolver e gerenciar pipelines de dados e realizar monitoramento de problemas no ambiente de dados.
+
+Responsibilities and assignments
+
+Desenvolver e Gerenciar Pipelines de Dados: Garantir a integridade, disponibilidade, escalabilidade e eficiência das informações da pipeline de dados e informações disponibilizadas para a empresa utilizando boas práticas de ETL/ELT e frameworks de dados distribuídos;
+Monitoramento e Solução de Problemas: Monitorar, realizar testes regulares e solucionar problemas no ambiente de dados da PRIO;
+Ingestão e Processamento de Dados: Responsável por desenvolver, otimizar e corrigir processos para grandes volumes de dados;
+Estratégia de Desenvolvimento: Assegurar boas práticas, código limpo, testes automatizados e qualidade nas implantações;
+Colaboração Multifuncional: Trabalhar com equipes para entender requisitos de dados e traduzir em soluções técnicas;
+Segurança e Governança de Dados: Garantir conformidade com as melhores práticas;
+Arquitetura de Dados: Projetar, desenvolver, implementar e gerenciar soluções de arquitetura de dados;
+Documentação: Documentar arquitetura, pipelines e processos para manutenção e continuidade;
+Comunicação Clara: Assegurar compreensão compartilhada da arquitetura de dados entre as equipes.
+
+Requirements And Qualifications
+
+Requisitos:
+
+Experiência com SQL e BigQuery: Criação de consultas e procedures otimizadas;
+Integração de Dados via APIs: Utilização de APIs para integração e consumo de dados;
+Processo Completo de Dados: Conhecimento em ingestão, transformação, armazenamento e disponibilização de grandes volumes de dados;
+Ferramentas de Processamento de Dados: Experiência com SQL, Teradata, DataFactory, Microsoft Fabric e outras ferramentas;
+Ferramentas de ETL: Experiência com ferramentas de ETL e integração de dados;
+Desenvolvimento de Soluções de Armazenamento: Conhecimento avançado em Data Lakes, Data Warehouses e Lakehouses;
+Linguagens de Programação: Proficiência em Python e/ou Java.
+
+Additional information
+
+Como é o processo seletivo na PRIO?
+
+Gostamos de já chegar na entrevista te conhecendo um pouco, então pedimos a você que preencha ainda na etapa de cadastro alguns testes para podermos avaliar o seu Match com a nossa Cultura :)
+
+Depois, nós do time de RH vamos marcar um papo com você. A ideia aqui é aprofundar um pouco mais nas suas experiências, buscando o alinhamento com o perfil da vaga e comportamental que buscamos para a PRIO. Ah, nesse papo também vamos falar sobre a companhia, fluxo do processo, benefícios e tirar suas dúvidas!
+
+Dica: Nesse nosso papo, vamos querer saber sobre experiências que você já vivenciou, alinhadas aos valores da PRIO. A ideia é que você consiga nos apresentar essas vivências de forma completa, com contextos, sua responsabilidade, o que você fez e qual foi o resultado!
+
+Em seguida, vamos adentrando em aspectos mais técnicos, que podem envolver um case ou apenas uma entrevista com o(a) gestor(a) da vaga, aonde você poderá conhecer um pouco mais sobre os desafios técnicos da vaga e será avaliado dentro dos requisitos da vaga.
+
+Ao fim, os finalistas conversam com o diretor da respectiva área para a escolha final!
+
+Como se preparar para o processo seletivo na PRIO:
+
+Pesquise sobre o negócio da companhia e nossa atuação no setor de óleo e gás;
+Busque se atualizar sobre as notícias recentes da companhia, sejam da imprensa ou divulgadas em nosso site de relações com investidores;
+Acesses nossas redes sociais para conhecer mais sobre como é trabalhar na PRIO!
+Pense na sua história e principais realizações. Estruture seus resultados e conquistas para relatá-los na hora da entrevista.
+
+Fale dos sucessos, mas entender as falhas e como você aprendeu com elas também é importante. Prezamos pela transparência, por isso, não tenha medo de falar sobre os seus insucessos.
+
+Desejamos a você um bom processo seletivo!
+
+Venha fazer parte da PRIO
+
+Somos a PRIO, a maior companhia independente de óleo e gás do Brasil. Buscamos continuamente por otimização de processos operacionais e de soluções inovadoras que visem diminuir os custos. Aqui todo trabalho é multidisciplinar e cada desafio é único!
+
+Com foco no investimento e na recuperação de ativos em produção, somos especializados na gestão eficiente de reservatórios e no redesenvolvimento de campos maduros. Acreditamos na condução dos negócios, com foco em segurança e cuidado com a saúde dos seus colaboradores.
+
+ Nosso ambiente de trabalho
+
+Oferecemos um ambiente de trabalho dinâmico e com muitas oportunidades de participação em diferentes projetos, favorecendo o desenvolvimento profissional e o crescimento do time. Trabalhamos em um escritório open space, o que permite a integração entre todas as equipes e a Diretoria, onde todos podem participar da tomada de decisões.
+
+Nossa cultura busca o alto desempenho e a participação efetiva de todas as pessoas. Se você sonha em se desenvolver junto com uma empresa em constante crescimento, venha fazer parte do nosso time!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Responsabilidades
+
+
+Desenvolver, manter e otimizar pipelines de dados escaláveis, realizando processos de ingestão, transformação e carga (ETL/ELT) a partir de diversas fontes.
+Projetar e implementar soluções de armazenamento e modelagem de dados, tanto em bancos relacionais (SQL) quanto não relacionais (NoSQL), assegurando performance e integridade dos dados.
+Escrever código em Python para análise, extração, limpeza e manipulação de grandes volumes de dados, utilizando bibliotecas como Pandas, NumPy e SciPy.
+Atuar com bancos de dados como PostgreSQL, SQL Server, MariaDB.
+Trabalhar com serviços em nuvem (AWS, Azure), especialmente aqueles voltados ao armazenamento, processamento e orquestração de dados.
+Utilizar Azure DevOps para versionamento de código e automação de pipelines de integração e entrega contínua (CI/CD).
+Participar de equipes ágeis, contribuindo com ideias, garantindo entregas de valor em ciclos curtos e promovendo boas práticas de engenharia de dados.
+Investigar, diagnosticar e resolver problemas técnicos relacionados ao desempenho de sistemas de dados.
+Colaborar com analistas, cientistas de dados e demais áreas da empresa para garantir a disponibilidade e qualidade dos dados utilizados na tomada de decisão.
+
+ Qualificações
+
+
+Superior Completo em Matemática, Ciência da Computação, Engenharia de Software, Análise e Desenvolvimento de Sistemas e áreas afins.
+
+ Habilidades Necessárias
+
+
+Capacidade analítica apurada, com foco em solução de problemas complexos relacionados a dados.
+Autonomia e proatividade para identificar melhorias em processos e propor soluções inovadoras.
+Organização e atenção a detalhes, garantindo qualidade e consistência nos pipelines e estruturas de dados.
+Habilidade de trabalho em equipe, com boa comunicação para atuar em conjunto com áreas técnicas e de negócio.
+Mentalidade ágil, com facilidade para adaptação a mudanças e atuação em ciclos curtos de entrega.
+Comprometimento com boas práticas de engenharia de software e dados, incluindo versionamento de código, testes, documentação e segurança.
+Curiosidade e sede por aprendizado contínuo, acompanhando evoluções tecnológicas e aplicando novos conhecimentos no dia a dia.
+Responsabilidade técnica na tomada de decisões, garantindo confiabilidade, escalabilidade e governança dos dados.
+Capacidade de autogestão, com disciplina para cumprir prazos e metas de forma independente.
+
+ Habilidades Preferenciais
+
+
+Engenharia de Dados e Big Data - cursos focados em pipelines de dados, ETL/ELT, ferramentas como Apache Spark, Hadoop, Kafka e orquestradores como Airflow.
+Certificação da Microsoft Azure
+
+ Faixa Salarial e Pacote de Compensação
+
+
+Contração PJ
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de dados | Dados
+
+Sobre a vaga
+No Seu Dia a Dia
+
+A atuação será junto a times de áreas de negócio para desenhar, implementar e gerenciar pipelines de Big Data;
+Criação de tabelas analíticas com os dados normalizados para o consumo e uso das áreas de negócios; 
+Utilização de tecnologias como: AWS cloud (S3, EMR, EC2, Athena, Lambda, Kinesis, Redshift, SNS, SQS, etc.) e outras ferramentas de Big Data (NiFi, Sqoop, Airflow, Kafka, Spark, Hive, Presto, etc.), Python e SQL; 
+Automatização de fluxos e esteiras de dados para alimentação do datalake. 
+
+Esperamos De Você
+
+Graduação completa em Engenharia, Computação, matemática ou áreas correlatas; 
+Disponibilidade para atuação híbrida no escritório de Botafogo no Rio de Janeiro; 
+Flexibilidade e aderência a ambientes dinâmicos; 
+Boa comunicação, relacionamento interpessoal e trabalho em equipe; 
+Conhecimento em Python, SQL e modelagem de dados; 
+Ferramentas de Big Data e Engenharia de Dados, como Pyspark, NiFi, Airflow, etc; 
+Conhecimento em ambiente de computação em nuvem e datalakes/datawarehouses em nuvem.
+
+Diferenciais
+
+Experiência em infraestrutura como código (IaC), como Terraform; 
+Experiência em Arquiteturas Lakehouse ; 
+Experiência em contrução de fluxos em NRT (Integrações com Grafana); 
+Certificação em AWS e/ou GCP; 
+Experiência em soluções de Governancia de Dados a nível linha. 
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Cientista de Dados
+
+Sobre a vaga
+📢 VAGA ABERTA: Cientista de Dados Sênior – Híbrido (Barra da Tijuca/RJ)
+
+Em busca de uma carreira em uma empresa que valoriza a flexibilidade, desenvolvimento pessoal e sucesso da equipe? Com 28 anos de experiência e reconhecidos pelo GPTW pelo quinto ano consecutivo, estamos em busca de talentos para se juntarem a nós como Cientista de Dados. Com matriz no Brasil e filiais em território internacional, oferecemos oportunidades para crescimento e desenvolvimento. Candidate-se agora e faça parte de uma equipe que transforma negócios e realiza sonhos!
+
+Requisitos essenciais:
+
+Graduação em Engenharia, Estatística, Matemática, Computação ou áreas correlatas;
+Experiência mínima de 3 a 5 anos em projetos de Ciência de Dados;
+Proficiência em linguagens de programação como Python ou R;
+Vivência na implementação de soluções de machine learning e analytics em ambientes de cloud, preferencialmente Google Cloud Platform (GCP);
+Experiência em processamento e análise de dados em grande escala;
+Conhecimento em ferramentas de machine learning como TensorFlow e PyTorch para desenvolvimento e implantação de modelos preditivos avançados;
+Capacidade de criar, testar e implementar modelos preditivos complexos;
+Domínio de estatística, análise de dados e técnicas de machine learning;
+Experiência com plataformas de processamento de dados como SQL, NoSQL, Hadoop, Spark ou equivalentes;
+Atuação com grandes modelos de linguagem natural (LLMs);
+Experiência com modelos de deep learning aplicados à Visão Computacional e à previsão de séries temporais;
+Familiaridade com ferramentas de visualização de dados como Tableau, Looker ou Power BI;
+Boa comunicação e habilidade para atuar em ambientes dinâmicos e colaborativos;
+Inglês em nível intermediário ou avançado.
+
+Requisitos adicionais:
+
+Certificações reconhecidas em Ciência de Dados ou Machine Learning;
+Pós-graduação Lato Sensu em Ciência de Dados ou Machine Learning;
+Mestrado ou Doutorado em áreas relacionadas à Ciência de Dados ou Machine Learning;
+Vivência com ferramentas de inteligência artificial, como ChatGPT, GitHub Copilot, plataformas de geração de imagens ou automação de processos, aplicadas a: Automatização de tarefas, criação de relatórios e análise de dados, apoio à tomada de decisão e inovação contínua, melhoria da eficiência operacional e qualidade das entregas.
+
+Responsabilidades:
+
+Desenvolver e implementar soluções de IA com uso de LLMs, técnicas de NLP e modelos tradicionais de machine learning;
+Ajustar e otimizar modelos de linguagem e algoritmos para aprimorar desempenho e precisão;
+Colaborar com equipes multidisciplinares para integrar soluções de IA a produtos e serviços;
+Analisar e interpretar dados visando avaliar o desempenho de modelos e propor melhorias.
+
+Nossos cuidados com você:
+*Benefícios a variar de acordo com a modalidade de contrato
+
+🍛 Vale Alimentação ou Vale Refeição Ifood Empresas;
+💰 Benefício indireto (valor fixo para custeio parcial do plano de saúde ou somado ao vale alimentação);
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+📚 Academia Sys Manager - plataforma com cursos online, gratuitos, atualizados e com certificado;
+🏫 Auxílio Creche;
+🏥 Assistência Médica;
+🦷 Assistência Odontológica;
+🐶 Convênio para Pet;
+🏃‍♂️ TotalPass
+🏖 Day Off após 12 meses;
+🙎‍♂️ Seguro de vida e outros.
+
+Conheça mais sobre nós:
+
+Site: https://www.sysmanager.com.br/
+Facebook: https://www.facebook.com/sys.manager
+Youtube: https://www.youtube.com/channel/UCrwuUug_3uPgppslLG0dUPA
+Instagram: https://www.instagram.com/sys.manager/
+-----------------------------------------------------------------------------------

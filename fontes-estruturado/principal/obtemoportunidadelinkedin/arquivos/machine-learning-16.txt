@@ -1,0 +1,257 @@
+[Oportunidade 1]
+Oportunidade: Data Engineer (freelance)
+
+Sobre a vaga
+Welcome to Knowmad Mood!
+
+We are a leading Spanish ICT consulting firm with around 3000 professionals spread across 7 countries, experiencing strong international expansion. Our expertise includes software development, system integration, and turnkey projects, as well as solutions in Agile, ALM/Atlassian, Cloud, DevOps, Middleware & Systems, e-Commerce, Java, Microsoft, IoT, and Big Data.
+With our growing presence in Italy, Portugal, Uruguay, the UK, the USA, and Morocco, we aim to spread our values, embrace new challenges, and evolve with our clients.
+
+Position: 
+
+We are looking for a Freelance Data Engineer for a project we are currently managing for an Uruguay client. The working hours will be GMT-3. It's important that the person is available to work during this time
+
+Requirement:
+
+5+ years of experience as a Data Engineer, ML Engineer, or similar.
+5+ years of experience using Python object-oriented programming and scripting.
+Strong experience creating data pipelines and ETL processes in modern technologies using Apache Airflow as the main workflow management tool.
+2+ years of experience with the AWS data ecosystem (S3, Glue, Athena, Redshift, Lambda, EC2, RDS ...)
+Experience with large-scale data and query optimization techniques using SQL.
+Experience managing and monitoring data lakes systems.
+Strong experience using source control management and CI/CD (GitHub actions/Gitlab pipelines).
+English - will interact with people from many different nationalities
+
+
+What We Offer: 
+
+🌐 100% Remote Work: Enjoy the freedom to work from anywhere, as long as you have a good internet connection.
+⏰ Flexible Hours: Organize your day as you prefer, with options for intensive hours on Fridays and during summer months.
+🌍 International Expansion: Collaborate on global projects, working with teams from different countries and cultures.
+💖 People Centric: We care about your well-being, conducting happiness surveys and providing constant support.
+
+#joinus #knowmadmood
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: SOFTWARE DEVELOPER SPECIALIST JAVA | Platform Engineering
+
+Sobre a vaga
+Vem ser Inter com a gente!!! 
+
+Conta digital gratuita, plataforma de investimentos, shopping e o que mais a vida precisar. O Inter é isso, e é muito mais. A gente acredita que tudo pode ser mais simples, e que cada dia é mais uma oportunidade de fazer diferente. Se você também é assim, vem ser #sanguelaranja.
+
+Join us in Inter&Co!!! 
+
+Free digital account, investment platform, shopping and whatever else life needs. Inter is that, and much more. We believe that everything can be simpler, and that every day is another opportunity to do something different. If you're like this too, come be #sanguelaranja.
+
+O que você irá fazer?
+
+Desenvolver soluções de software robustas e escaláveis utilizando Java, GO e tecnologias relacionadas;
+Implementar e manter microsserviços para suportar os produtos e serviços digitais do Inter;
+Colaborar na concepção e implementação de arquiteturas de sistemas distribuídos;
+Garantir a qualidade do código através de testes unitários e práticas de revisão de código;
+Fornecer suporte a outros desenvolvedores no uso adequado das ferramentas criadas pela equipe;
+Contribuir para a melhoria contínua dos processos de desenvolvimento e práticas de engenharia.
+
+O que buscamos?
+
+Formação superior completa em sistemas de informação ou áreas afins;
+Experiencia com programação orientada a objetos;
+Experiência com Java;
+Experiência com banco de dados relacionais;
+Conhecimento em testes unitários;
+Experiência com Git;
+Experiência com a criação e manutenção de sistemas distribuídos (principalmente microserviços);
+Conhecimento de tecnologias de mensageira;
+Conhecimento do padrão REST;
+Conhecimento em Kafka;
+Conhecimento de ferramentas de observabilidade;
+Desejável conhecimento em GO.
+
+O que oferecemos?
+
+Vale Alimentação/Vale Refeição;
+Plano de saúde e odontológico;
+Seguro de vida;
+Vale Transporte;
+Auxílio Creche;
+Duo Gourmet;
+Wellhub;
+....e muito mais! 
+
+#VemproInter!!!
+
+O Nosso time de Talent é focado em contratar pessoas protagonistas, atuando com paixão e mentalidade inclusiva, respeitando a singularidade de cada pessoa e oferecendo a todos os colaboradores meios para que possam desenvolver o seu potencial e protagonismo.
+
+O Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a pessoas com deficiências.
+
+#ComeToInter!!
+
+Our Talent team is focused on hiring leading people, acting with passion and an inclusive mindset, respecting the uniqueness of each person and offering all employees the means to develop their potential and protagonism. Inter is a partner and is aware of inclusive projects, all of our vacancies are aimed at people with disabilities.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Profissional Engenharia de Dados
+
+Sobre a vaga
+Código: 44855
+Sobre a BRQ Digital
+Há 31 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+Vamos transformar juntos! Vem ser fera com a gente.
+
+
+Ei Engenheiro de Dados, venha fazer parte de uma das maiores empresas de transformação digital do país!
+
+- O que procuramos?
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+Engenheiro de Dados Pleno com expertise em Databricks e AWS para atuar em um grande banco privado. Este profissional será parte fundamental na nossa equipe, auxiliando na migração de projetos críticos, colaborando com diversas áreas e assegurando a eficiência e integridade das soluções de engenharia de dados implementadas. Responsabilidades: Migração de Projetos: Contribuir para a migração de um projeto Python de Databricks para AWS, garantindo a integridade e a performance do código. Trabalho em Equipe: Colaborar com equipes multifuncionais para entender os requisitos e implementar soluções eficazes. Otimização e Escalabilidade: Trabalhar na otimização do desempenho do código e garantir a escalabilidade da nova arquitetura AWS. Processos de Orquestração: Desenvolver e manter pipelines de AirFlow para orquestração de dados. Sustentação e Manutenção: Fornecer suporte e manutenção contínua das soluções de dados implementadas. Rotinas de Homologação: Desenvolver rotinas e automações que acelerem a homologação da migração. Requisitos: Experiência Profissional: Experiência comprovada em desenvolvimento de software utilizando Python. Orientação a Objetos: Proficiência em conceitos de programação orientada a objetos. Databricks e AWS: Experiência prática com as plataformas Databricks e AWS. Resolução de Problemas: Habilidade para resolver problemas de forma independente e eficiente. Trabalho em Equipe: Excelentes habilidades de comunicação e colaboração. SQL/PL-SQL Oracle: Conhecimentos sólidos em SQL/PL-SQL, especialmente com banco de dados Oracle. Diferenciais: Certificações: Certificações em AWS (AWS Certified Data Analytics, AWS Certified Solutions Architect, etc.) ou outras tecnologias relevantes.
+3x na semana presencial
+
+- O que temos pra te oferecer?
+Mais do que um plano de carreira!
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+- E os benefícios?
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Home Office; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+- Como é trabalhar na BRQ?
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Artificial Intelligence Engineer, LearnWith.AI (Remote) - $200,000/year USD
+
+Sobre a vaga
+Tired of building AI tools that never see real-world impact? Join us in creating the AI-powered "Second Brain" that's revolutionizing education for millions of students who deserve better than one-size-fits-all learning.
+
+What You Will Be Doing
+
+Architect sophisticated AI-driven workflows that transform raw LLM capabilities into powerful educational tools that adapt to individual learning styles
+Engineer domain-specific knowledge repositories and contextual frameworks that enable our AI systems to generate truly personalized learning content
+Design scalable data structures that support complex educational content generation while maintaining pedagogical integrity
+
+What You Won’t Be Doing
+
+Implementing basic chatbots or simple AI integrations that merely automate existing processes
+Building theoretical models that never reach students or make meaningful educational impact
+Maintaining legacy systems or working on incremental improvements to existing technologies
+
+Artificial Intelligence Engineer Key Responsibilities
+
+Transform LearnWith.AI into the industry leader by engineering AI systems that generate personalized, engaging educational content at scale—effectively bridging the gap between technological innovation and meaningful learning outcomes.
+
+Basic Requirements
+
+Minimum 4 years of software engineering experience with demonstrated ability to architect complex systems
+Proven track record implementing AI tools (ChatGPT, Gemini, Grok) in professional environments with measurable outcomes
+Passionate interest in EdTech backed by knowledge of educational challenges and opportunities
+
+Nice-to-have Requirements
+
+Experience with prompt engineering and LLM fine-tuning techniques
+Background in educational content development or instructional design
+Familiarity with knowledge graph structures and semantic data modeling
+
+About LearnWith.AI
+
+LearnWith.AI is an edtech startup that leverages AI and subject matter experts to cultivate a new way of learning. Our unique approach leverages 50+ years of learning science, cutting-edge data analytics and AI-powered coaching. In doing so, we can help students learn more, learn faster, and learn better - and have fun while doing it. We are a remote-first company that hires globally via Crossover.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with us
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover as a Contractor of Record. The compensation level for this role is $100 USD/hour, which equates to $200,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+Crossover Job Code: LJ-5532-BR-SãoPaulo-ArtificialInte.005
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior AI Engineer (MLOps)
+
+Sobre a vaga
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+TELUS Digital seeks an AI Engineer with MLOps and LLMOps background to own projects’ pipelines and CI/CD infrastructure, supporting the turning business requirements into production-ready AI/GenAI features. You’ll build scalable MLOps frameworks, convert AI research into seamless integrations, and optimize models through prompt engineering and embeddings. Strong skills in Python or TypeScript, machine learning (including deep learning and NLP/LLMs), and the ability to explain complex concepts to all stakeholders are essential.
+
+Responsibilities
+
+Design, implement, and maintain scalable ML and LLM pipelines for training, validation, deployment, and monitoring.
+Apply your knowledge of software engineering and AI systems to develop AI solutions that directly address and resolve business problems.
+Take ownership of implementing and optimizing applied AI components, ensuring they meet project needs with high complexity and scale.
+Partner with other data and AI professionals to compile the team's work into comprehensive pipelines for continuous integration, deployment, and delivery.
+Own end-to-end infrastructure for model CI/CD, including versioning, automated testing, and evaluations.
+Develop and incorporate AI and GenAI solutions and pipelines while adhering to industry best practices, including moderation, security, and compliance standards.
+Lead the charge in designing, measuring, and evaluating AI model outputs, developing standard and custom metrics to ensure alignment with business objectives.
+Translate AI research into production-ready features, delivering robust and scalable AI components that integrate seamlessly with larger systems.
+Drive the selection and application of appropriate evaluation metrics, ensuring that AI solutions are robust, unbiased, and meet all necessary performance standards.
+
+Qualifications
+
+Hands-on experience building and operating MLOps platforms (Docker, Kubernetes, Terraform) and LLMOps frameworks.
+Strong experience with CI/CD in the GCP environment, leveraging services and frameworks such as Vertex AI, Kubeflow, DataFlow, Cloud Build, Cloud Deploy, Artifact Registry, and Container Registry.
+Experience configuring and deploying LLM Guardrails, while ensuring security and compliance among AI-powered solutions.
+Expertise in tracking application execution with observability tools such as LangFuse, Phoenix, while leveraging Cloud Monitoring dashboards and alerts.
+Strong understanding of the trade-offs between Generative AI models, considering the balance of cost and performance, depending on the use case.
+Demonstrable experience in applied AI, with a foundation in machine learning, deep learning, NLP, LLMs, and statistical analysis.
+Experience with data embeddings and vector databases, understanding the trade-off between available options, and leveraging it to optimize data ingestion.
+Experience with software development in Python and/or TypeScript for API development and orchestration. 
+Skilled in creating and adjusting prompts for complex AI systems to meet diverse project requirements.
+Familiarity with testing and evaluating AI systems using state-of-the-art methods and best practices.
+Ability to communicate complex AI solutions and concepts effectively to technical and non-technical stakeholders.
+
+Bonus Points
+
+Withhold a GCP certification on AI/ML, Cloud, or Data segments. 
+Experience deploying and maintaining large-scale data-intensive solutions, maintaining high throughput, low latency, and data security.
+Experience with advanced Agentic AI architecture, performance optimization of machine learning models, and the integration of AI into larger software ecosystems.
+Contributions to AI thought leadership in the industry.
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------

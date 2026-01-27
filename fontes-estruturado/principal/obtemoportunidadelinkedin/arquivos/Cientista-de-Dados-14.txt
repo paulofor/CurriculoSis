@@ -1,0 +1,243 @@
+[Oportunidade 1]
+Oportunidade: Senior Data Scientist / ML Engineer
+
+Sobre a vaga
+Data Scientist / ML Engineer (Senior)
+
+Who We Are
+
+Welcome to TELUS Digital, where innovation meets impact. As an award-winning digital product consultancy, we're shaping the future of digital experiences through cutting-edge technology, agile thinking, and a culture that puts people first.
+
+We are the global digital section of TELUS, one of Canada’s largest telecommunications providers. Our global teams deliver transformative digital solutions and customer experiences for industry leaders in consumer electronics, finance, telecommunications, and utilities. With robust multi-shore delivery capabilities, multi-language programs, and secure infrastructure, we ensure exceptional service backed by our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+As a Data Scientist / Machine Learning Engineer on our team, you'll design, develop, and deliver machine learning solutions, decipher loosely defined problems using complex datasets, and determine appropriate analytical and modeling techniques. You'll analyze structured and unstructured data, establish automated processes for large-scale modeling, perform exploratory analysis, and collaborate with peers on data acquisition and exploration, demonstrating a strong sense of ownership and urgency.
+
+Responsibilities
+
+Work on all aspects of the design, development and delivery of machine learning enabled solutions for our clients;
+Come up with solutions to loosely defined business problems by leveraging pattern detection over complex datasets across multiple platforms;
+Establish efficient, automated processes for large-scale modeling;
+Become part of a highly skilled and geographically distributed team;
+Collaborate with peers on problem definitions, data acquisition, data exploration, visualization as well as building the tools that support this process;
+Strong sense of ownership, urgency and drive.
+
+Qualifications
+
+Relevant experience in data science/ machine learning development
+Bachelor and/or Master degree in Statistics, Mathematics, Physics, Computer Science or other related subject.
+Proficiency in Python.
+Experience with machine learning frameworks (like Keras, TensorFlow, or PyTorch) and libraries (like scikit-learn).
+Strong understanding of machine learning algorithms, processes, tools and platforms.
+Ability to work on distributed cloud platforms
+Fluent English
+
+Bonus Points
+
+Experience with container management and machine learning deployment frameworks, such as Kubernetes, Kubeflow and MLFlow.
+Software development experience from scoping, requirements design, development, integration, testing, go live to PROD (vs internal research work)
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that Information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Analista de Inteligência Artificial Sr
+
+Sobre a vaga
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+Somos globais, somos GPTW.
+
+🌈‍👵 ♿️👩🏾 Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!
+
+Todas as nossas vagas estão abertas para Pessoas com Deficiência (PCD). Caso você se enquadre ou conheça alguém com o perfil, a Foursys é a empresa ideal!
+
+Que tal se juntar a nós e se tornar um(a) #FourTalent? Então se liga nessa oportunidade incrível: 👇
+
+Responsabilidades e atribuições
+Conduzir estudos e experimentos com técnicas de Inteligência Artificial, com ênfase em Processamento de Linguagem Natural (NLP) e IA Generativa, transformando hipóteses em provas de conceito funcionais;
+Participar ativamente na concepção, desenvolvimento, validação e otimização de modelos de IA aplicados a contextos reais, alinhados às demandas de inovação do laboratório e dos clientes;
+Colaborar com times multidisciplinares na integração de modelos de IA a protótipos e produtos experimentais, considerando viabilidade técnica e tempo de entrega;
+Documentar decisões técnicas, fluxos de desenvolvimento e aprendizados para promover o reuso e a evolução contínua das soluções desenvolvidas;
+Explorar de forma autônoma tendências emergentes, papers recentes e ferramentas open source, com foco em aplicação prática e geração de valor;
+Apoiar a construção de ativos de IA reutilizáveis e frameworks internos para aceleração de P&D em projetos futuros.
+
+Habilidades e Requisitos
+
+Experiências Técnicas: Programação em Python, com domínio de bibliotecas como Pandas, NumPy, Scikit-learn, LangChain e ferramentas de deploy de modelos;
+Experiência com frameworks de machine learning e deep learning, como PyTorch, TensorFlow ou Hugging Face Transformers;
+Prática com NLP tradicional e avançado, incluindo embedding, classificação de texto, LLMs e fine-tuning de modelos baseados em Transformers;
+Familiaridade com arquiteturas modernas de IA generativa (GPT, LLaMA, Mistral, Claude, etc.) e suas APIs;
+Experiência com MLOps ou prototipagem rápida, utilizando ambientes como Docker, FastAPI, Jupyter, Streamlit ou similares;
+Conhecimentos em integrações com sistemas e dados externos, via APIs REST, scraping ou bancos de dados estruturados e não estruturados.
+
+Formato de trabalho
+
+Remoto.
+
+E temos também o Clube da Four que oferece ótimas vantagens! 👇
+🩺 Assistência médica;
+🍲 VR e VA flexível;
+🏋️ Gympass e Wellz;
+⚽ Parceria com o SESC;
+🍣 Descontos em restaurantes;
+📚 Descontos em cursos técnicos e de ensinos superior;
+🧠 Descontos em escolas e plataformas de idiomas.
+E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Profissional Engenheiro de Dados Sr
+
+Sobre a vaga
+Sobre a BRQ Digital
+
+Há 31 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+Temos 3 mil funcionários e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+
+Vamos transformar juntos! Vem ser fera com a gente!
+
+- O que procuramos?
+
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+
+Você será responsável por estruturar a base de dados necessária para monitoramento e modelagem de crédito.
+
+Responsabilidades:
+Mapeamento e estruturação de dados existentes;
+Criação de ABTs (analytical base tables) para novos modelos;
+Construção de pipelines de dados para monitoramento;
+Suporte à implementação de modelos em ambientes produtivos.
+
+Requisitos:
+Experiência com SQL Server;
+Domínio em engenharia de dados com foco em dados estruturados;
+Experiência em pipelines em batch e processamento em larga escala;
+Conhecimentos em Python e/ou SAS são diferenciais;
+Desejável vivência com ambientes Azure, Databricks e Google Cloud.
+
+- O que temos pra te oferecer?
+
+Mais do que um plano de carreira!
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+
+- Como é trabalhar na BRQ?
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+
+Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de IA
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenvolver, treinar e implantar modelos de IA/ML, incluindo modelos generativos (LLMs).
+Construir e manter pipelines automatizados de MLOps para todo o ciclo de vida dos modelos.
+Otimizar performance de modelos e da infraestrutura (nuvem, GPU, etc.)
+Criar APIs e serviços robustos para disponibilizar modelos de forma escalável.
+Atuar com grandes volumes de dados, garantindo qualidade e disponibilidade.
+Monitorar sistemas em produção, aplicar testes e realizar manutenções contínuas.
+Automatizar infraestrutura usando ferramentas de IaC (ex: Terraform, Ansible).
+Colaborar com times de dados, produto, desenvolvimento e ciência de dados.
+
+Qualificações Essenciais
+
+Formação em Computação, Engenharia, Estatística ou áreas afins.
+Experiência com Python e bibliotecas como TensorFlow, PyTorch, Scikit-learn.
+Vivência com desenvolvimento e implantação de modelos de IA/ML.
+Conhecimento de boas práticas de engenharia de software, versionamento (Git) e metodologias ágeis.
+Experiência com plataformas de nuvem (AWS, Azure ou GCP).
+Familiaridade com MLOps, APIs, conteinerização (Docker) e bancos de dados.
+
+Serão Considerados Diferenciais
+
+Experiência com IA Generativa (LLMs, fine-tuning, RAG).
+Conhecimento em frameworks de orquestração (Kubernetes, Kubeflow).
+Atuação prévia com visão computacional ou processamento de linguagem natural (PLN).
+Contribuições em projetos open-source de IA/ML/MLOps.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro(a) de Dados Sênior
+
+Sobre a vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsabilidades
+Implementação de Governança de Dados: Desenvolver e aplicar políticas de governança de dados, abrangendo controle de qualidade, auditoria e conformidade com regulamentações internas e externas.
+Qualidade de Dados: Utilizar ferramentas como PyDeequ e Great Expectations para definir e monitorar métricas de qualidade, garantindo integridade, consistência e confiabilidade dos dados.
+Desenvolvimento de Pipelines de Dados: Projetar e implementar pipelines escaláveis utilizando Databricks, Python, SQL e frameworks de ETL, de acordo com as melhores práticas de governança.
+Arquitetura de Dados: Aplicar conceitos de Medallion Architecture e Data Mesh para estruturar e organizar dados de maneira eficiente e escalável.
+Automação e Monitoramento: Automatizar processos de ingestão e transformação de dados, além de implementar monitoramento contínuo para garantir a qualidade e disponibilidade do ambiente.
+Integração com AWS: Utilizar serviços da AWS (S3, Glue, EC2, entre outros) para suportar operações de dados, assegurando escalabilidade e segurança.
+
+Requisitos
+Experiência Técnica: Experiência prática em governança, qualidade de dados e desenvolvimento de pipelines utilizando PyDeequ, Great Expectations, Databricks, AWS, Python, SQL e frameworks de ETL.
+Governança de Dados: Vivência na implementação de políticas, controles de qualidade, auditoria e conformidade.
+Qualidade de Dados: Capacidade de definir e monitorar métricas, utilizando ferramentas especializadas.
+Arquitetura de Dados: Conhecimentos sólidos em Medallion Architecture e Data Mesh.
+Automação e Monitoramento: Experiência em automação e monitoramento contínuo de processos de dados.
+Infraestrutura em Nuvem (AWS): Experiência no uso de serviços como S3, Glue, EC2, entre outros.
+Inglês Avançado: Capacidade de comunicação escrita e falada em ambiente multicultural.
+
+Diferenciais
+Experiência com ferramentas de orquestração de workflows como Apache Airflow.
+Certificações em tecnologias relevantes, como AWS Certified Big Data – Specialty.
+Vivência em ambientes ágeis e metodologias de desenvolvimento ágil.
+-----------------------------------------------------------------------------------

@@ -1,0 +1,237 @@
+[Oportunidade 1]
+Oportunidade: Cientista de Dados
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+Principais atividades: Atuar no suporte e planejamento do gerenciamento e manutenção de sistemas de bancos de dados nas diversas plataformas comerciais e bases corporativas; Prestar suporte à modelagem, carregamento e disponibilização de dados nas diversas plataformas; Apoiar a projetização de migração de coleta, normalização, análise e migração de dados. "Pré-requisitos: Experiência profissional comprovada de como Cientista de Dados, Analista de Sistemas ou cargo correlato, atuando no desenvolvimento de soluções de software na área de Ciência de Dados; Graduação completa em Ciência de Dados, Tecnologia da Informação, Engenharia, Matemática, Estatística, Física ou Química; Experiência com Python, Postgress e SQL (obrigatório); Conhecimentos desejáveis em .NET, Java e metodologias ágeis.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados Senior
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Desenvolvedor de Dados você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Curso superior na área de tecnologia da informação
+Experiência prévia em ambientes de dados complexos, preferencialmente em instituições financeiras.
+Batch, microbatch e near real-time. 
+PySpark, Databricks e Azure.
+Habilidade para entender e documentar códigos em PySpark.
+Perfil consultivo, com iniciativa para interagir e buscar informações com outros engenheiros de dados e áreas de negócio.
+
+Principais responsabilidades:
+
+Analisar e documentar o sistema de dados near real-time existente. Colaborar com engenheiros de dados e áreas de negócio para obter informações e esclarecer dúvidas. Trabalhar com tecnologias de batch, microbatch e near real-time para garantir a eficiência dos processos de dados. Manter e otimizar códigos em PySpark, assegurando a qualidade e a documentação adequada.
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Data Science Consultant
+
+Sobre a vaga
+We are looking for a seasoned Senior Data Science Consultant to join our team.
+
+In this role, you will leverage your expertise in data science to develop impactful solutions that solve complex business challenges. You will collaborate with clients and internal teams to craft strategies that maximize the value of data insights. This position requires strong leadership skills, a creative approach to problem-solving, and the ability to translate business needs into actionable data solutions. Additionally, you will guide teams and drive the adoption of cutting-edge technologies to deliver excellence.
+
+Responsibilities
+
+
+Lead the development and implementation of data science solutions tailored to business needs
+Work collaboratively with stakeholders to identify opportunities for data-driven strategies
+Build and refine machine learning models to improve workflows and business outcomes
+Design and maintain analytics frameworks that support informed decision-making
+Ensure data science systems are scalable, reliable, and adaptable to various environments
+Provide mentorship and technical guidance to data science teams to foster growth and expertise
+Analyze data to uncover trends, patterns, and critical insights for actionable recommendations
+Present results and solutions effectively to both technical and non-technical audiences
+Stay current with advancements in artificial intelligence, machine learning, and data science technologies
+Drive innovation by introducing new techniques and tools to enhance workflows and solutions
+
+
+Requirements
+
+
+At least 10 years of experience in IT, with a focus on data science and analytics
+Minimum of 5 years in senior leadership roles, such as Manager, Architect, or Lead, within Agile or hybrid environments
+Proven experience managing teams of 40 or more, ensuring productivity and alignment with project objectives
+Participated in at least 8 full project lifecycles or successfully launched 2 or more products or significant features to market
+Expertise in data engineering, including data preparation, modeling, and visualization for business applications
+Strong understanding of machine learning methodologies, including supervised and unsupervised approaches, and their implementation
+Demonstrated ability to create AI and ML strategies to address complex business problems
+Advanced knowledge of Python for data analysis, manipulation, and machine learning workflows
+Practical experience with PyTorch for building and deploying deep learning models
+Familiarity with TensorFlow for scalable machine learning development and deployment
+Solid experience with cloud platforms such as AWS, Azure, or GCP for managing and deploying data science solutions
+Exceptional English communication skills, with the ability to articulate technical concepts clearly and effectively
+
+
+Nice to have
+
+
+Certifications in data science, machine learning, or cloud technologies to showcase expertise
+Experience integrating data science solutions with enterprise systems to enhance operational efficiency
+Knowledge of advanced visualization techniques or tools to effectively communicate insights to stakeholders
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Staff Data Scientist / ML Engineer
+
+Sobre a vaga
+Data Scientist / ML Engineer (Staff)
+
+Who We Are
+
+Welcome to TELUS Digital, where innovation meets impact. As an award-winning digital product consultancy, we're shaping the future of digital experiences through cutting-edge technology, agile thinking, and a culture that puts people first.
+
+We are the global digital section of TELUS, one of Canada’s largest telecommunications providers. Our global teams deliver transformative digital solutions and customer experiences for industry leaders in consumer electronics, finance, telecommunications, and utilities. With robust multi-shore delivery capabilities, multi-language programs, and secure infrastructure, we ensure exceptional service backed by our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+As a Data Scientist / Machine Learning Engineer on our team, you'll design, develop, and deliver machine learning solutions, decipher loosely defined problems using complex datasets, and determine appropriate analytical and modeling techniques. You'll analyze structured and unstructured data, establish automated processes for large-scale modeling, perform exploratory analysis, and collaborate with peers on data acquisition and exploration, demonstrating a strong sense of ownership and urgency.
+
+Responsibilities
+
+Work on all aspects of the design, development and delivery of machine learning enabled solutions for our clients;
+Come up with solutions to loosely defined business problems by leveraging pattern detection over complex datasets across multiple platforms;
+Establish efficient, automated processes for large-scale modeling;
+Become part of a highly skilled and geographically distributed team;
+Collaborate with peers on problem definitions, data acquisition, data exploration, visualization as well as building the tools that support this process;
+Strong sense of ownership, urgency and drive.
+
+Qualifications
+
+Relevant experience in data science/ machine learning development
+Bachelor and/or Master degree in Statistics, Mathematics, Physics, Computer Science or other related subject.
+Proficiency in Python.
+Experience with machine learning frameworks (like Keras, TensorFlow, or PyTorch) and libraries (like scikit-learn).
+Strong understanding of machine learning algorithms, processes, tools and platforms.
+Ability to work on distributed cloud platforms
+Fluent English
+
+Bonus Points
+
+Experience with container management and machine learning deployment frameworks, such as Kubernetes, Kubeflow and MLFlow.
+Software development experience from scoping, requirements design, development, integration, testing, go live to PROD (vs internal research work)
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that Information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Especialista em IA
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenvolver, treinar, ajustar e avaliar modelos de IA Generativa (LLMs, GANs, etc.) para tarefas como geração de texto, imagem, análise preditiva e automação.
+Analisar e preparar grandes volumes de dados para treinamento, aplicando técnicas de engenharia de features.
+Implementar e integrar modelos em ambientes produtivos, com foco em performance e escalabilidade (via APIs, microsserviços, etc.).
+Explorar novas abordagens, ferramentas e algoritmos em IA Generativa, contribuindo para soluções inovadoras.
+Monitorar modelos em produção, otimizando continuamente sua eficácia e precisão.
+Colaborar com áreas diversas (dados, produto, engenharia e negócio) para alinhar entregas com objetivos estratégicos.
+Garantir o uso responsável da IA, promovendo a ética, a transparência e a mitigação de vieses.
+Desenvolver agentes autônomos e contribuir com arquiteturas multiagentes que operem de forma segura, colaborativa e eficaz.
+
+Qualificações Essenciais
+
+Formação superior em Ciência da Computação, Engenharia, Estatística, Matemática, Física ou áreas correlatas com base quantitativa sólida.
+Experiência comprovada no desenvolvimento e implementação de modelos de Machine Learning e Deep Learning.
+Proficiência em Python e domínio das bibliotecas essenciais de IA, como TensorFlow, PyTorch, Keras, Scikit-learn, Pandas e NumPy.
+Sólido conhecimento em algoritmos de aprendizado supervisionado, não supervisionado, por reforço e em redes neurais (CNN, RNN, Transformers).
+Vivência com ferramentas e práticas de MLOps e uso de nuvem (AWS, Azure ou GCP).
+Experiência prática em desenvolvimento de agentes de IA e atuação em sistemas multiagentes, com foco em governança e ética.
+
+Qualificações Desejáveis
+
+Experiência com engenharia de prompts, fine-tuning, RAG (Retrieval-Augmented Generation).
+Conhecimento em NLP, visão computacional ou aplicações multimodais.
+Familiaridade com Big Data (Spark, Hadoop), bancos NoSQL e participação em comunidades técnicas ou projetos open source.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------

@@ -1,0 +1,164 @@
+[Oportunidade 1]
+Oportunidade: SOFTWARE DEVELOPER JAVA - INVESTMENTS
+
+Sobre a vaga
+Vem ser Inter com a gente!!! 
+
+Conta digital gratuita, plataforma de investimentos, shopping e o que mais a vida precisar. O Inter é isso, e é muito mais. A gente acredita que tudo pode ser mais simples, e que cada dia é mais uma oportunidade de fazer diferente. Se você também é assim, vem ser #sanguelaranja.
+
+Join us in Inter&Co!!! 
+
+Free digital account, investment platform, shopping and whatever else life needs. Inter is that, and much more. We believe that everything can be simpler, and that every day is another opportunity to do something different. If you're like this too, come be #sanguelaranja.
+
+O que você irá fazer?
+
+Implementar software e soluções utilizando tecnologias de mercado para alavancar e suportar os negócios do Inter na área de Investimentos do App;
+Garantir a identificação de ações para melhoria contínua, buscando soluções criativas para proporcionar alta disponibilidade e segurança nas evoluções e sustentações dos sistemas;
+Atuar no desenvolvimento e aplicação de novos projetos e processos, assegurando sua devida implantação.
+
+O que oferecemos?
+
+Vale Alimentação/Vale Refeição
+Plano de saúde e odontológico
+Seguro de vida
+Vale Transporte
+Duo Gourmet,
+Wellhub
+....e muito mais!
+
+O que buscamos??
+
+Formação superior completa em sistemas de informação ou áreas afins;
+Experiencia com programação orientada a objetos;
+Experiência com Java;
+Experiência com banco de dados relacionais;
+Conhecimento em testes unitários;
+Experiência com Git;
+Experiência com a criação e manutenção de sistemas distribuídos (principalmente microserviços);
+Conhecimento de tecnologias de CI/CD;
+Conhecimento em banco de dados não relacionais;
+Conhecimento com containers Docker e Kubernetes;
+Conhecimento do padrão REST;
+Conhecimento em Kafka;
+Conhecimento de ferramentas de observabilidade;
+Conhecimento em Micronaut ou Spring Boot.
+
+#VemproInter!!!
+
+O Nosso time de Talent é focado em contratar pessoas protagonistas, atuando com paixão e mentalidade inclusiva, respeitando a singularidade de cada pessoa e oferecendo a todos os colaboradores meios para que possam desenvolver o seu potencial e protagonismo.
+
+O Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a pessoas com deficiências.
+
+#ComeToInter!!
+
+Our Talent team is focused on hiring leading people, acting with passion and an inclusive mindset, respecting the uniqueness of each person and offering all employees the means to develop their potential and protagonism. Inter is a partner and is aware of inclusive projects, all of our vacancies are aimed at people with disabilities.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor Back end Sr
+
+Sobre a vaga
+Desenvolvedor Back-End Sênior
+O que esperamos de você:
+Buscamos um(a) desenvolvedor(a) back-end sênior com experiência sólida em desenvolvimento web, responsável por construir e manter a lógica e infraestrutura do lado do servidor das aplicações. Essa pessoa terá um papel fundamental na entrega de soluções escaláveis, seguras e de alta performance.
+Responsabilidades e conhecimentos desejados:
+Domínio de práticas modernas de desenvolvimento: testes automatizados, integração e entrega contínua (CI/CD), refatoração de código, programação em par (pair programming) e code review.
+Conhecimento em princípios de design de software, como DRY e SOLID.
+Familiaridade com tecnologias e serviços em nuvem, especialmente AWS.
+Experiência com automação de processos de build e release.
+Vivência em metodologias ágeis, como Scrum, Kanban e XP (Extreme Programming).
+Participação ativa em comunidades de tecnologia é um diferencial valorizado.
+Competências comportamentais que valorizamos:
+Facilidade de aprendizado e colaboração em equipe.
+Proatividade e foco em resultados.
+Boa comunicação e capacidade de compartilhar conhecimento.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Java Software Engineer
+
+Sobre a vaga
+Fullstack Java Developer (Spring & AWS) - Remote (LATAM Candidates)
+We are seeking an experienced Fullstack Java Developer based in Latin America for a full-time contract opportunity. This is a 100% remote role with flexibility to overlap U.S. Central Time (CT) hours.
+What You’ll Do
+Design, build, and maintain scalable web applications using Java (Spring Boot) on the backend and a modern JavaScript framework on the frontend (e.g., Angular or React).
+Collaborate with UX/UI designers, DevOps engineers, and QA to deliver end-to-end solutions.
+Develop and consume RESTful APIs and, where appropriate, implement event-driven endpoints.
+Implement microservices architectures, handle data persistence with SQL and NoSQL databases on AWS (RDS, DynamoDB), and optimize database interactions.
+Write clean, testable, and well-documented code; author and execute unit/integration tests.
+Participate in code reviews, architectural discussions, and agile ceremonies (Scrum/Kanban).
+Ensure application security, performance tuning, and scalable deployment in AWS cloud environments.
+Stay up to date with the latest Java, Spring, AWS, and frontend ecosystem trends and best practices.
+What We’re Looking For
+Strong hands-on experience with Java (Spring Boot, Spring MVC, Spring Data, Spring Security).
+Proficiency in a modern frontend framework-Angular (2+) or React-with JavaScript (or TypeScript) and state management libraries (NgRx, Redux, etc.).
+Solid understanding of relational and NoSQL databases (MySQL, PostgreSQL, DynamoDB, AWS RDS).
+Experience building and securing RESTful services; knowledge of authentication and authorization best practices is advantageous.
+Experience with AWS services (Lambda, Fargate, RDS, S3, Kinesis) and infrastructure as code (Terraform).
+Comfortable with Git workflows (GitHub, GitLab, Bitbucket) and CI/CD pipelines (CircleCI, Git, Docker).
+Strong grasp of design principles (SOLID, Clean Architecture) and software design patterns.
+Excellent problem-solving skills and effective communication in a distributed team environment.
+Bonus
+Hands-on experience with serverless architectures and event-driven systems.
+Knowledge of automated testing frameworks (JUnit, Mockito, Selenium).
+Exposure to monitoring and logging tools (Prometheus, Grafana, ELK stack).
+Experience with messaging systems (Kafka, RabbitMQ, AWS Kinesis, SQS) and event-driven architectures.
+Why Apply?
+Work on mission-critical applications for fast-growing international clients.
+Join a remote-first culture that values autonomy, collaboration, and impact.
+100% remote work with flexible hours tailored to your timezone.
+Invest in your professional growth with mentorship programs, training stipends, and access to modern tools.
+Complete your profile and our matching team will reach out if you’re a great fit. We review every submission, though due to high volume individual feedback may be limited.
+Apply now: https://link.talenttorc.com/torc-sign-up
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Desenvolvedor Java Senior
+
+Sobre a vaga
+Estamos buscando um talento para a posição de Desenvolvedor Java Senior.
+
+A G4F é uma empresa com uma trajetória sólida de 15 anos, dedicada a conectar pessoas, ideias e tecnologia para oferecer soluções inovadoras. Somos mais de 8.000 #greaters atuando em todo o Brasil.
+
+Requisitos técnicos obrigatórios:
+
+Graduação em curso de nível superior na área de Tecnologia da Informação; OU
+Conclusão de qualquer curso de nível superior acompanhado de certificado de curso de pós-graduação (especialização, mestrado ou doutorado) na área de Tecnologia da Informação;
+Experiência exercendo atividades como desenvolvedores de aplicações Java EE 6+.
+Experiencia anterior com open finance
+Experiência no desenvolvimento de aplicações para pelo menos um dos servidores:
+· Apache Tomcat;
+· JBoss/Wildfly;
+· Open Liberty;
+· WebSphere Application Server Liberty;
+· WebSphere Application Server versão 8 ou superior.
+
+
+Informações adicionais:
+🏡Atuação Remoto
+🚀Oportunidades de desenvolvimento profissional
+🍔Vale Alimentação/Refeição | Wiipo Flex
+🚌Vale transporte (Opcional)
+🏋️‍♀️TotalPass | Bem-estar para todos os colaboradores, todos os dias
+👓 Parceria SESC | Saúde, Lazer, Turismo & Esportes, Assistência Social e Alimentação
+📕 Parcerias Educacionais
+🤍Seguro de vida
+
+#VemSerGreater
+#LI-AN2
+#LI-REMOTE
+
+Valorizamos a diversidade, equidade e a inclusão, independentemente de gênero, raça, etnia, orientação sexual, deficiência ou religião, portanto, todas as nossas vagas são afirmativas.
+Junte-se à nossa equipe e contribua para o crescimento sustentável da G4F!💙
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvedor Full Stack
+
+Sobre a vaga
+Na CWI prezamos pela diversidade das relações, projetos e vivências. A valorização do indivíduo e o respeito são a base da nossa empresa, que figura entre as mais importantes do ramo de tecnologia no país. Quer fazer parte? Vem pra CWI! #vemsercwiser 😎💻👌
+
+Buscamos um(a) Desenvolvedor(a) Full Stack Java/React apaixonado(a) por tecnologia para integrar nossa equipe. Se você é proativo(a), colaborativo(a) e busca desafios em um ambiente inovador, essa é sua chance! Irá construir soluções de alta performance utilizando tecnologias de ponta.
+
+Requisitos:
+Sólidos conhecimentos em Java e React;
+Experiência com Spring boot;
+Conhecimento em banco de dados Oracle, MongoDB
+Experiência com arquitetura de microsserviços.
+-----------------------------------------------------------------------------------

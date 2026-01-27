@@ -1,0 +1,285 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro(a) de Machine Learning e IA - PL (438694) - REMOTE
+
+Sobre a vaga
+Como é o ambiente de trabalho?
+
+Nós, do KaBuM!, buscamos pessoas apaixonadas por tecnologia, obcecadas por agilidade, qualidade e excelência no atendimento. Todas as oportunidades são abertas para todas as pessoas, sem distinção de gênero, identidade de gênero, orientação sexual, raça, etnia, religião, idade e deficiência.
+
+Responsabilidades da Oportunidade
+
+Será responsável por desenvolver e implementar modelos de machine learning e inteligência artificial. Trabalhará em estreita colaboração com a equipe de dados e engenharia para garantir a integridade e consistência dos modelos, gerando produtos de dados.
+
+Requisitos
+
+Experiência em desenvolvimento e implementação de modelos de machine learning e inteligência artificial; 
+Conhecimento em linguagens de programação como Python, Java ou R;
+Habilidades em bibliotecas de machine learning como scikit-learn, TensorFlow ou PyTorch;
+Conhecimento em técnicas de deploy de modelos em produção (esteira, pipelines);
+Excelente habilidade de resolução de problemas e trabalho em equipe.
+Tempo de Atuação - Experiência mínima de 2 anos em desenvolvimento e implementação de modelos de machine learning e inteligência artificial;
+ Experiência em desenvolvimento de sistemas de dados, processos de ETL, Modelagem de Dados e criação de pipelines;
+Habilidades em SQL dentro do ambiente do BigQuery (GCP);
+ Experiência em trabalhar com grandes conjuntos de dados é desejável.
+
+Benefícios
+
+Assist. Médica
+Assist. Odontológica
+Desconto em Produtos
+Seguro de Vida
+Vale-Alimentação
+
+Observações e/ou Benefícios Adicionais
+
+GYMPASS
+TOTALPASS
+NEW VALUE
+PRIME NINJA
+NINJA ACADEMY
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados SR – Setor Farmacêutico
+
+Sobre a vaga
+Job Description
+
+A FCamara está em busca de um Engenheiro de Dados SR com sólida experiência em arquitetura, construção e manutenção de pipelines de dados, foco em soluções escaláveis para apoiar decisões estratégicas no setor farmacêutico.
+
+Responsibilities And Assignments
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+Projetar, desenvolver e manter pipelines de dados escaláveis para integração entre múltiplas fontes internas e externas.
+
+Garantir a qualidade, integridade e consistência dos dados coletados em conformidade com normas regulatórias (ex: ANVISA, FDA).
+
+Trabalhar em parceria com times de ciência de dados, BI e TI para entender necessidades e entregar soluções orientadas a dados.
+
+Implementar soluções de armazenamento e processamento de dados em ambientes on-premise e/ou na nuvem (AWS, Azure, GCP).
+
+Automatizar processos de ingestão, transformação e carga de dados (ETL/ELT).
+
+Gerenciar e monitorar performance de bancos de dados relacionais e não relacionais.
+
+Documentar fluxos de dados, modelos e integrações de forma clara e atualizada.
+
+Garantir a segurança e governança dos dados seguindo boas práticas e políticas de compliance do setor farmacêutico.
+
+Tomar decisões técnicas e estratégicas, avaliar riscos, para garantir o sucesso das entregas;
+
+Dar suporte e aconselhar o time para solucionar problemas, estimando o tempo e o esforço necessários para um fluxo de trabalho eficiente;
+
+Treinar os membros da equipe, resolvendo os conflitos diários e garantindo que os membros da equipe estejam suficientemente focados;
+
+Identificar riscos e trazer planos de contingência.
+
+Facilidade em se relacionar com diferentes pessoas/times e boa comunicação;
+
+Requirements And Qualifications
+
+REQUISITOS E QUALIFICAÇÕES
+
+Experiência em ambiente Azure e ferramentas de Data (Data Factory, Databricks, Azure Data Lake, Storage Account);
+
+Experiência com banco de dados relacional SQL Server
+
+Experiência com banco de dados relacionais RDBMS (SQL Server; Oracle)
+
+Experiência em ferramentas ETL (Talend, SSIS, Informatica);
+
+Experiência com ingestão de dados em Python (Airflow, Spark);
+
+Experiência ou conhecimento em otimização de Queries;
+
+Familiaridade com metodologias ágeis;
+
+Familiaridade com ferramentas de integração contínua (CI/CD);
+
+Familiaridade com o uso de GitHub;
+
+Conhecimento em stacks do Google Cloud Platform (GCP);
+
+Conhecimento em Docker;
+
+Experiência com ferramentas de visualização de dados (Tableau, Power BI) é um diferencial.
+
+Additional Information
+
+Conhecimento em frameworks de governança de dados e LGPD.
+
+Experiência prévia no setor farmacêutico ou em indústrias reguladas.
+
+Familiaridade com ferramentas de visualização de dados (Power BI, Tableau, etc.).
+
+Transformamos mundos sonhados em trajetórias reais.🧡🚀
+
+Aqui somos #SangueLaranja!
+
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras.
+
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+
+tem o poder da transformação!
+
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs.
+
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Staff Machine Learning Engineer
+
+Sobre a vaga
+About SecurityScorecard:
+
+SecurityScorecard is the global leader in cybersecurity ratings, with over 12 million companies continuously rated, operating in 64 countries. Founded in 2013 by security and risk experts Dr. Alex Yampolskiy and Sam Kassoumeh and funded by world-class investors, SecurityScorecard’s patented rating technology is used by over 25,000 organizations for self-monitoring, third-party risk management, board reporting, and cyber insurance underwriting; making all organizations more resilient by allowing them to easily find and fix cybersecurity risks across their digital footprint.
+
+Headquartered in New York City, our culture has been recognized by Inc Magazine as a "Best Workplace,” by Crain’s NY as a "Best Places to Work in NYC," and as one of the 10 hottest SaaS startups in New York for two years in a row. Most recently, SecurityScorecard was named to Fast Company’s annual list of the World’s Most Innovative Companies for 2023 and to the Achievers 50 Most Engaged Workplaces in 2023 award recognizing “forward-thinking employers for their unwavering commitment to employee engagement.” SecurityScorecard is proud to be funded by world-class investors including Silver Lake Waterman, Moody’s, Sequoia Capital, GV and Riverwood Capital.
+
+About the Team:
+
+At SecurityScorecard, the Data Science organization builds AI and ML products that empower our customers to manage cybersecurity risk. We leverage massive datasets sourced by our internal Threat Intelligence teams to create the core rating models that our customers use for assessing third-party risk and self-assessment. We also build LLM-powered systems for automating and accelerating cybersecurity risk assessment workflows.
+
+About the Role:
+
+As an ML Engineer, you will design and optimize machine learning algorithms, build scalable data pipelines, and deploy reliable models into production environments. You'll collaborate with cross-functional teams to integrate ML solutions into products, conduct research to stay ahead of emerging technologies, and ensure models perform optimally through ongoing monitoring and refinement. Your work will directly enhance cybersecurity resilience for organizations worldwide, making the world a safer place. If you’re passionate about solving complex problems and creating impactful solutions, this role offers the opportunity to make a significant impact while working in a dynamic, collaborative environment.
+
+Responsibilities:
+
+Technical Leadership: Establish best practices and share expertise through mentorship.
+Model Development: Design, train, and optimize machine learning models and algorithms.
+Data Pipeline Creation: Build and maintain scalable data pipelines to preprocess, clean, and transform raw data for analysis and model training.
+Model Deployment: Implement and manage models in production environments, ensuring scalability, reliability, and performance.
+Research and Experimentation: Stay updated on the latest machine learning techniques, tools, and frameworks to enhance model accuracy and efficiency.
+Collaboration: Work closely with data scientists, software engineers, and product teams to understand requirements and integrate ML solutions into products.
+Performance Monitoring: Continuously monitor, evaluate, and fine-tune models post-deployment to maintain accuracy and robustness.
+Documentation: Create clear and concise documentation for models, processes, and systems to support team collaboration and knowledge sharing.
+
+Required Qualifications:
+
+7+ years of experience or equivalent demonstrable skills in ML Engineering, Data Science or related discipline.
+Bachelor’s or Master’s degree in Computer Science, Engineering, Mathematics, Physics, or a related field.
+Strong programming skills in Python.
+Experience with machine learning frameworks such as PyTorch, TensorFlow, or Scikit-learn.
+Proficiency in data manipulation and analysis using tools such as Polars, Pandas, NumPy, or SQL.
+Solid understanding of algorithms, statistics, and data structures.
+Experience with cloud platforms (AWS, Azure, GCP) and containerization (Docker, Kubernetes).
+Knowledge of CI/CD pipelines and version control systems (e.g. Git).
+Familiarity with Linux/Unix command line tools.
+
+Preferred Qualifications:
+
+PhD degree in Computer Science, Engineering, Mathematics, Physics or a related field.
+Hands-on experience with LLMs, RAG, LangChain, or LlamaIndex.
+Experience with big data technologies such as Hadoop, Spark, or Kafka.
+
+Benefits:
+
+The estimated total compensation range for this position is $75,000 - $90,000 (USD base plus bonus). Actual compensation for the position is based on a variety of factors, including, but not limited to affordability, skills, qualifications and experience, and may vary from the range. In addition to base salary, employees may also be eligible for annual performance-based incentive compensation awards and equity, among other company benefits.
+
+SecurityScorecard is committed to Equal Employment Opportunity and embraces diversity. We believe that our team is strengthened through hiring and retaining employees with diverse backgrounds, skill sets, ideas, and perspectives. We make hiring decisions based on merit and do not discriminate based on race, color, religion, national origin, sex or gender (including pregnancy) gender identity or expression (including transgender status), sexual orientation, age, marital, veteran, disability status or any other protected category in accordance with applicable law. 
+
+We also consider qualified applicants regardless of criminal histories, in accordance with applicable law. We are committed to providing reasonable accommodations for qualified individuals with disabilities in our job application procedures. If you need assistance or accommodation due to a disability, please contact talentacquisitionoperations@securityscorecard.io.
+
+Any information you submit to SecurityScorecard as part of your application will be processed in accordance with the Company’s privacy policy and applicable law. 
+
+SecurityScorecard does not accept unsolicited resumes from employment agencies. Please note that we do not provide immigration sponsorship for this position.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Profissional de Engenharia de Dados Aws/ Databricks - SR
+
+Sobre a vaga
+Código da vaga: 48789
+
+Sobre a BRQ Digital
+
+Há 32 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+
+Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+
+Vamos transformar juntos! Vem ser fera com a gente.
+
+Ei Profissional de Engenharia de Dados Aws/ Databricks - SR, chegou o momento de encarar um novo desafio em sua carreira! Venha ser um #ferabrq
+
+- O que procuramos?
+
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+
+Habilidades Principais:
+Profissional com sólida experiência em desenvolvimento de software com Python e forte atuação em migração de projetos Databricks para AWS. A posição exige domínio em arquitetura de dados escalável na AWS, com uso de serviços como EC2, S3, Lambda, RDS, entre outros, além de proficiência na criação e sustentação de pipelines de dados com Airflow.
+É essencial conhecimento avançado em SQL/PL-SQL com Oracle, programação orientada a objetos, e experiência prática com Databricks, otimização de performance e automação de rotinas de homologação. O candidato ideal colabora com times multifuncionais, resolve problemas com autonomia e tem perfil proativo.
+Diferenciais incluem certificações AWS, histórico em migrações de arquitetura, domínio de outras linguagens e experiência em liderança técnica.
+
+Hibrido 3x na semana na região de Santo Amaro- SP.
+
+- O que temos pra te oferecer?
+
+Mais do que um plano de carreira!
+
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+
+- E os benefícios?
+
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Atuação híbrida; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+
+- Como é trabalhar na BRQ?
+
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+
+Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Java Data Engineer
+
+Sobre a vaga
+NEORIS é uma acelerador Digital que ajuda empresas a entrar no futuro, temos mais de 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Somos mais de 4.000 profissionais em 11 países, temos uma cultura de startup multicultural onde cultivamos inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes.
+Procuramos: Java Data Engineer - Inglês Avançado - Vaga Híbrida
+
+Principais Responsabilidades
+Desenvolver e manter pipelines de dados utilizando Apache Beam, executados no Google Cloud Dataflow.
+Garantir a qualidade e performance dos dados aplicando boas práticas de codificação, testes automatizados e revisões de código rigorosas.
+Colaborar estreitamente com equipes de engenharia, produto e dados para entregar soluções escaláveis, seguras e eficientes na nuvem (GCP). 
+
+Requisitos
+Domínio avançado em Java, incluindo Core Java, Collections, Concorrência, e ferramentas de build como Maven ou Gradle.
+Experiência prática com Apache Beam e Dataflow, incluindo transformações como DoFn, ParDo, GroupByKey, além de monitoramento de jobs no Dataflow.
+Conhecimento sólido dos fundamentos do Google Cloud Platform, especialmente Cloud Storage, Pub/Sub, IAM e melhores práticas de segurança.
+Habilidade para garantir qualidade através da escrita de testes unitários com JUnit e participação ativa em code reviews.
+Inglês avançado (nível B2/C1) para comunicação fluente e colaborativa.
+Disponibilidade para trabalhar no modelo híbrido, com presença no escritório em São Paulo (mínimo 2 a 3 dias por semana). 
+
+Oferecemos
+Vale Refeição e Vale Alimentação: Benefícios mensais para suas despesas com alimentação, dentro e fora de casa.
+Previdência Privada: Planejamento de futuro com contribuição complementar à aposentadoria.
+Plano de Saúde: Cobertura médica de alta qualidade para você e seu dependente legal.
+Plano Odontológico: Cuidados odontológicos completos, com ampla rede de atendimento.
+Seguro de Vida: Proteção e segurança para você e seus entes queridos.
+Aulas de Inglês/Espanhol: Incentivo ao aprendizado de idiomas.
+Wellhub: Benefícios e descontos em academias e programas de bem-estar.
+Auxílio Creche: Suporte financeiro para despesas com educação infantil.
+Neoris Global Campus: Plataforma de desenvolvimento com oportunidades contínuas de aprendizado e crescimento profissional. 
+
+Te convidamos a nos conhecer em http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+-----------------------------------------------------------------------------------

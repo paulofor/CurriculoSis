@@ -1,0 +1,355 @@
+[Oportunidade 1]
+Oportunidade: Senior Data Software Engineer
+
+Sobre a vaga
+We are seeking a Senior Data Software Engineer to join our team in building a data integration solution. The Senior Data Software Engineer will take responsibility for the development and execution of the data engineering strategy, working closely with data scientists and other stakeholders to ensure that data is transformed into valuable insights. The ideal candidate will have a strong background in data engineering, machine learning, and software development.
+
+Responsibilities
+
+
+Collaborate with data scientists to build and deploy machine learning models in production
+Design and develop data pipelines, data processing systems, and APIs for data integration and analysis
+Optimize data pipelines for performance and scalability
+Ensure data quality, accuracy, and consistency through data validation and testing
+Develop and implement MLOps processes to monitor and maintain machine learning models
+Work with stakeholders to understand data requirements and provide solutions to meet their needs
+Design and implement data security and privacy measures to protect sensitive data
+Stay up-to-date with emerging trends and technologies in data engineering and machine learning
+Provide technical guidance and mentorship to junior team members
+
+
+Requirements
+
+
+Minimum 3+ years of experience in data engineering or software development roles
+Proficiency in Apache Spark, Microsoft Azure, and Databricks for data processing and management
+Expertise in Python programming language and associated data science libraries such as Pandas and NumPy
+Experience in building forecasting models, statistical models, and machine learning models
+Strong knowledge of MLOps and deploying machine learning models in production
+Experience with Git for version control and team collaboration
+Good understanding of Azure concepts such as clouds, regions, and compute
+Ability to work in a fast-paced environment and deliver results under tight deadlines
+Excellent English communication skills, both written and verbal, for effective global collaboration (B2+)
+
+
+Nice to have
+
+
+Experience with SQL and relational databases for data management
+Familiarity with cloud-based data warehousing solutions such as Azure Data Lake Storage (ADLS)
+Knowledge of other machine learning tools and platforms such as TensorFlow and PyTorch
+Experience with data visualization tools such as Tableau and Power BI
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor Java/AWS SR
+
+Sobre a vaga
+Job Description
+
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsibilities and assignments
+
+Desenvolvimento de soluções robustas e escaláveis em ambientes bancários.
+Manutenção e evolução de sistemas legados em Java, além de migração para arquiteturas modernas (microserviços).
+Implementação de testes unitários e regressivos para garantir a qualidade do código.
+Aplicação de práticas de observabilidade para monitoramento de sistemas.
+Identificação e tratamento de vulnerabilidades de segurança.
+Colaboração com equipes multidisciplinares para aprimorar continuamente os processos e produtos.
+
+Requirements And Qualifications
+
+Experiência sólida em Java (versões 8, 17, 21).
+Conhecimento e experiência com AWS.
+Ter noções de DevOps.
+Foco em qualidade: testes unitários, testes regressivos, Sonar e tratamento de vulnerabilidades de segurança.
+Conhecimento em observabilidade.
+Experiência com DDD (Domain-Driven Design).
+Conhecimento em Spring.
+Capacidade crítica para identificar e implementar melhorias.
+Familiaridade com JSP e monolitos em Java.
+Experiência com microserviços, BFF (Backend for Frontend), Lambda, SQS e Kafka.
+
+Diferenciais: 
+
+Experiência prévia em projetos no setor bancário.
+Capacidade de trabalho em ambientes remotos.
+Valorizamos a diversidade em nossa equipe.
+
+Additional information
+
+Modelo de Contratação: CLT Stefanini
+
+Modelo de Atuação: 100% Remoto
+
+O que te oferecemos:
+
+🍛 Vale Alimentação ou Vale Refeição;
+
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+
+🗣 Mentoring;
+
+🏫 Auxílio Creche;
+
+💉 Clube de vantagens para consultas e exames;
+
+🏥 Assistência Médica;
+
+🦷Assistência Odontológica;
+
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+
+🛫 Clube de viagens;
+
+🐶 Convênio para Pet;
+
+e muito mais...
+
+Process stages
+
+Registration
+Entrevista RH
+Entrevista Técnica
+Entrevista Cliente/Técnica
+Hiring
+
+Stefanini: Acreditar para Cocriar 🌟
+
+Na Stefanini, a inovação não é apenas uma meta; é uma jornada que trilhamos juntos, onde a colaboração se torna a essência da transformação. 🤝 Com 37 anos de história e uma presença global em mais de 40 países, contamos com uma equipe de 38 mil talentos apaixonados, prontos para transformar desafios em oportunidades por meio da tecnologia. 💡
+
+Acreditamos que cada projeto é uma oportunidade e que, juntos, podemos moldar um futuro mais ágil, eficiente e conectado. Nossa missão vai além de oferecer soluções: buscamos cocriar com nossos clientes, integrando inteligência artificial e tecnologias emergentes para revolucionar o cotidiano das empresas. 🌍✨
+
+Aqui, cada voz conta e cada ideia tem o poder de impactar. Valorizamos a humildade, o respeito, o comprometimento e a coragem, construindo uma cultura onde a inovação floresce. Aqui, liderar é dar o exemplo, e é por isso que inspiramos um ambiente dinâmico onde tecnologia e talento se complementam.
+
+Se você sonha grande, tem coragem de desafiar o convencional e quer fazer parte de uma equipe que acredita no poder da cocriação, junte-se a nós! Vamos, juntos, acreditar e cocriar um futuro brilhante, onde cada passo representa uma nova conquista!🚀✨
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de Dados Cloud - ARIBA
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você. Afinal, It’s yours to build.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Engenheiro (a) de Dados Cloud você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de dados voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você é apaixonado(a) por dados, colaboração e tem as seguintes qualificações, queremos você em nossa equipe:
+
+Ensino superior em Estatística, Ciência da Computação, Engenharia de Software, Sistemas de Informação, Física ou cursos afins.
+Experiência comprovada como Engenheiro de Dados.
+Experiência com projetos envolvendo API Ariba e conhecimento em tabelas Ariba e ingestões. 
+Linguagem Python, bancos de dados SQL, Databricks
+
+Desejável:
+
+Certificado Cloud
+
+Principais Responsabilidades:
+
+Ingestões de tabelas Ariba em ambiente Cloud Databricks, manipulação de dados com Python e SQL, interação com times técnico e de negócio.
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: SENIOR DATA ENGINEER
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Responsabilidades:
+Colaborar com engenheiros de dados e outros membros da equipe para garantir integração, disponibilidade, entender requisitos e otimizar o desempenho das soluções de dados;
+Participar na definição e implementação da estratégia de dados;
+Analisar conjuntos de dados complexos para identificar tendências, padrões e insights que podem orientar decisões de negócio por meio de dashboards, estudos, relatórios, ML, tagueamento, etc;
+Garantir a validação, precisão e integridade dos dados em todos os paineis e relatórios;
+Trabalhar com as áreas de negócio para entender requisitos e traduzi-los em especificações técnicas;
+Integrar dados de diversas fontes, incluindo APIs, bancos de dados relacionais e não relacionais;
+Garantir a conformidade com padrões de segurança e privacidade de dados;
+Projetar, desenvolver e manter pipelines de ETL (Extract, Transform, Load) para mover e transformar dados entre sistemas;
+Monitorar e melhorar continuamente o desempenho e a escalabilidade dos pipelines de dados;
+Garantir padrões e boa práticas de governança de dados;
+
+
+Requisitos:
+Capacidade de trabalhar de forma independente e em equipe.
+Graduação em Ciência da Computação, Engenharia de Computação, Sistemas de Informação ou área relacionada;
+Conhecimentos aplicados com uso de Inteligência Artificial e Engenharia de Prompts
+Experiência Avançada como Engenheiro de Dados, ou em um papel similar;
+Sólidos conhecimentos em linguagens de programação, como Python e SQL;
+Experiência Avançada com Python para dados (coleta de dados (data gathering), limpeza (cleaning), transformação (transformation), junção (joining), leitura e escrita de data frames usando diferentes formatos);
+Experiência com ambiente de desenvolvimento Jupyter Notebook;
+Experiência avançada com Databricks e PySpark;
+Experiência avançada com Google Analytics 4 (GA4)
+Experiência avançada com Dataviz (Power BI e looker) para construção de Dashboards
+Experiência com bancos de dados relacionais (e.g., SQL Server, MySQL, PostgreSQL) e não relacionais (e.g., MongoDB, Cassandra)
+Conhecimento em tagueamento de jornadas (Mapa de Métricas e GTM)
+Cultura de versionamento de código e proficiência em Git;
+Familiaridade com ferramentas e tecnologias de big data, como Hadoop, Spark, Kafka, e AWS/GCP/Azure;
+Experiência em ferramentas de ETL, como Apache NiFi, Talend, ou Airflow;
+Conhecimento em modelagem de dados, otimização de consultas e tuning de desempenho;
+Habilidades analíticas e de resolução de problemas;
+
+
+Diferenciais:
+Experiência com metodologias ágeis e DevOps;
+Experiência com Tableau ou outras ferramentas de visualização de dados;
+Experiência com Azure Data Factory/Synapse;
+Certificações em tecnologias de dados ou cloud (e.g., AWS Certified Data Analytics, Google Cloud Professional Data Engineer, Microsoft Certified Azure Data Engineer);
+Certificação Google Analytics Certification (GA4)
+Conhecimento em Machine Learning.
+
+SÊNIOR
+
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro(a) de Dados - Pleno e Senior
+
+Sobre a vaga
+Resumo do cargo:
+
+O(a) Engenheiro(a) de Dados deve ser capaz de criar, expandir e otimizar a arquitetura de pipelines de dados, bem como desenvolver e manter fluxos de dados de diversas áreas de nossos clientes.
+
+Este(a) profissional deve estar familiarizado(a) com conceitos e estratégias de DataOps, bem como execução de projetos gerenciados em modelo Ágil. O conhecimento de tecnologias de big data é imprescindível para esse cargo.
+
+É importante que se relacione bem com diferentes equipes - tecnologia e área de negócio principalmente - e que possa apontar oportunidades de melhoria na forma de estruturação dos dados para atingir o objetivo de análise do cliente.
+
+Responsabilidades:
+
+Estruturar e tratar o fluxo de dados para auxiliar o cliente com uma estrutura robusta e acessível
+Criar e realizar manutenção e melhoria de fluxos e dados de complexidade intermediária (ETL e ELT)
+Colher e tratar as informações para serem usadas e dar continuidade ao projeto, por meio de ligações
+Implementar ferramenta de tratamento de dados e realizar auditoria de dados
+Gerir fluxos de dados já existentes, realizando processos manuais para identificar surgimento de possíveis problemas
+Combinar bases de dados de menor complexidade para endereçar requisitos funcionais e não funcionais do negócio
+Apoiar o desenvolvimento de engenheiros(as) de outros níveis de responsabilidade, auxiliando no cotidiano ou dando treinamentos em módulos básicos
+Utilizar de ambientes Hadoop, Spark e estruturas Cloud (AWS, Azure, GCP) para construção e execução dos pipelines de dados
+Interagir com áreas de negócio para validação das entregas e realização de possíveis ajustes
+Participar de reuniões com equipe e clientes e das cerimônias propostas pela gestão de projetos ágeis
+Escrever artigos
+
+
+Requisitos:
+
+Experiência na construção de fluxos de dados utilizando ferramenta de big data
+Experiência na função
+Conhecimento do stack de dados GCP, Azure ou AWS
+Experiência com PySpark, SQL, Databricks, Talend e Qlik
+Visão de foco no cliente, habilidade para comunicar ideias de forma clara com as áreas de negócio
+Ensino Superior completo ou em andamento
+
+
+Jornada para se tornar Fiver:
+
+Para nos conhecermos e sabermos se poderemos criar soluções incríveis juntos(as), trilhamos um caminho, onde, a cada passo, compartilhamos uma parte de nossa história:
+
+Triagem de currículos;
+Bate-papo com equipe de Gestão Humana;
+Conversa com o cliente (alocação);
+Entrevista Técnica com gestor(a) da área.
+
+
+E agora, qual história você quer contar?
+
+Sobre nós, Fivers:
+
+Acreditamos que os dados são o combustível para a transformação das empresas e das pessoas. Com isso em mente, ajudamos nossos clientes a criar soluções analíticas que os inspiram a realizar transformações organizacionais com impacto direto nos seus modelos de negócio.
+
+Você acredita que ao contar boas histórias com os dados, podemos inspirar pessoas a transformarem o mundo a sua volta e, como consequência, melhorar a vida de outras pessoas? Se a resposta for sim, vamos nos conhecer!
+
+🏳‍🌈 Na Five Acts, valorizamos a diversidade, a equidade e a inclusão. Acreditamos que a diversidade é uma força impulsionadora da inovação e do crescimento. Portanto, não fazemos distinção por questões de gênero, orientação sexual, religião, idade, etnia, ou qualquer outra. Nossas oportunidades são abertas para todas as pessoas!
+
+O que oferecemos:
+
+Vales alimentação/refeição - no cartão de benefícios flexíveis Swile
+Cobertura de até 100% em Plano de Saúde e Odontológico
+Seguro de Vida em grupo
+Trabalho remoto ou híbrido
+Convênio Saúde Mental - psicoterapia online e presencial
+Incentivo a certificações e cursos
+Convênio para cursos de pós-graduação e MBA
+Parceria com escolas de idiomas
+Parceria com academias e estúdios fitness - Gympass
+Palestras e rodas de conversa internas
+Bônus por indicação
+Happy hours
+Mimos em datas comemorativas
+
+
+Confira a nossa Política de Privacidade.
+-----------------------------------------------------------------------------------

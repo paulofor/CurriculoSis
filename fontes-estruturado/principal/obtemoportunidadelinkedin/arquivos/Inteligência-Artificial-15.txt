@@ -1,0 +1,340 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor – Engenheiro de Software
+
+Sobre a vaga
+No Seu Dia a Dia
+
+A atuação será junto a times de áreas de negócio para desenhar, implementar e gerenciar aplicações; 
+Garantir a alta disponibilidade dos nossos sistemas; 
+Participar de todo o ciclo das aplicações desde a concepção à sustentação do projeto/produto; 
+Desenvolver sistemas utilizando as tecnologias mais recentes para construir soluções inovadoras para o mercado de BPO; 
+Integrações de fluxos de dados para disponibilidade de informações via API. 
+Integrações com sistemas existentes 
+
+Esperamos De Você
+
+Graduação completa preferencialmente em  Sistemas de Informação, Análise de Sistemas, Ciência da Computação, Engenharia da Computação ou em áreas relacionadas; 
+Experiência na linguagem de programação Python para backend com framework (FastAPI); 
+Experiência em banco de dados (PostgreSQL e Redis); 
+Experiência com serviços e nuvem AWS (Docker, S3); 
+Conhecimento em Docker, Kubernets; 
+Experiência no uso de pipelines do Azure Devops; 
+Experiência em consumos e integrações de APIs; 
+Experiência com microserviços; 
+Conhecimento de ReactJS, TypeScript e JavaScript; 
+Conhecimento em frameworks de messageria (Kafka, ActiveMQ, RabbitMQ, etc..); 
+Boas práticas de programação; 
+Design Patterns; 
+Experiência com testes unitários (TDD); 
+Boa capacidade de comunicação. 
+Disponibilidade para atuação híbrida no escritório de Botafogo no Rio de Janeiro; 
+
+Diferencial
+
+Inglês avançado; 
+Experiência com ferramentas de Code Quality; 
+Experiência com ferramentas de APM (Dynatrace, AppDynamics, DataDog, etc...); 
+Conhecimento em estratégias e softwares de monitoramento; 
+Experiência com Webhook;
+Experiência trabalhando com implantação e gerenciamento de nuvem; 
+Experiência com gerenciamento e implantação de CI/CD. 
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Software Architect/ Tech Lead, Brazil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Sua missão:
+Buscamos Software Architect / Tech Lead para atuar na maior seguradora de vida do planeta!
+Esta é uma posição para compor a equipe responsável pela jornada de negócios e do corretor, com a missão de liderar tecnicamente uma squad de ddesenvolvimento de um novo produto digital.
+
+Como será o seu dia-a-dia?
+Você fará parte de uma Squad de produto multidisciplinar (vários perfis) e mista composta por pessoas da CI&T e do cliente. Participará dos ritos da Squad como planning, daily, demo e retro, além de 1:1s com as lideranças.
+
+Você será responsável por:
+- Liderar tecnicamente a construção do produto;
+- Definir e garantir a aplicação das melhores práticas de desenvolvimento;
+- Realizar code reviews e garantir a qualidade do código;
+- Auxiliar na resolução de problemas técnicos;
+- Orientar e dar suporte técnico para o time de desenvolvedores.
+
+Os requisitos técnicos para o desafio são:
+- Conhecimento nas stacks Java com Springboot e Angular;
+- Experiência com desenvolvimento Cloud AWS;
+- Banco de dados relacional e não relacional;
+- Containers, fila e mensageria;
+- Experiência com arquitetura de software e padrões de projeto;
+- Conhecimento em metodologias ágeis;
+- Experiência com liderança técnica.
+
+Soft skills esperadas da pessoa:
+- Dedicação a promover o Customer Success do nosso cliente;
+- Compromisso com a entrega;
+- Proatividade e vontade de resolver problemas;
+- Boa comunicação e relacionamento interpessoal;
+- Visão crítica para identificar oportunidades de melhoria;
+- Trabalhar em equipe multidisciplinar no espírito de “um só time” junto às pessoas do nosso cliente;
+- Mentalidade empreendedora, descobrindo oportunidades e explorando desafios;
+- Capacidade de liderança, inspirando e motivando o time;
+- Habilidade de mentoria, compartilhando conhecimento e ajudando no desenvolvimento de outros profissionais.
+ 
+#MidSenior
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de Dados | Remoto
+
+Sobre a vaga
+SOBRE A CAPCO 
+
+A Capco é uma consultoria global de tecnologia e gestão especializada na transformação digital, oferecendo soluções inovadoras e orientadas por dados para um portfólio crescente de mais de 100 clientes globais, entre eles bancos, pagamentos, mercados de capitais, gestão de patrimônio e ativos, seguros e setor de energia.
+
+Nos destacamos pela abordagem personalizada, focada na construção de parcerias estratégicas de longo prazo e na aceleração de iniciativas digitais. Nossa expertise ganha vida por meio dos Innovation Labs e da cultura premiada #BeYourselfAtWork, que valoriza a diversidade e o talento.
+
+Temos oportunidades em formato presencial, híbrido e remoto, com vagas disponíveis em diversas localidades no Brasil. Com presença global nos principais centros financeiros - temos 33 escritórios nas Américas, Europa e Ásia-Pacífico - estamos comprometidos em oferecer soluções práticas e integradas, promovendo colaboração e confiança em cada projeto. Se criatividade e inovação são sua paixão, a Capco é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira!
+
+Sobre a Posição
+
+Estamos em busca de um(a) Engenheiro(a) de Dados com experiência em ambientes on-premise e cloud, para atuar na migração e modernização da camada de dados . A atuação envolve o desenvolvimento de pipelines, transformação de dados e integração com plataformas modernas como Azure Data Factory e Databricks, além de sólidos conhecimentos de ETL e Informatica Power Center.
+
+Responsabilidades
+
+Desenvolver pipelines de ingestão e transformação de dados para migração de sistemas legados (Oracle, DB2, PowerCenter) para o ambiente em nuvem (Azure). 
+Mapear estruturas de dados, tabelas e processos existentes, implementando regras de negócio na nova arquitetura.
+Criar e manter estruturas eficientes de armazenamento em Delta Lake.
+Assegurar qualidade, integridade e rastreabilidade dos dados com aplicação de regras de validação e controle.
+Trabalhar em conjunto com arquitetos e analistas de negócio para garantir entregas alinhadas às necessidades funcionais.
+Documentar fluxos, processos e lógicas de transformação de dados.
+Monitorar e otimizar performance de pipelines e jobs em produção.
+
+Requisitos Essenciais
+
+Experiência com ferramentas de integração de dados (Azure Data Factory, Databricks, PowerCenter).
+Sólidos conhecimentos de SQL avançado e linguagem Python.
+Experiência com bancos de dados relacionais (Oracle e DB2).
+Familiaridade com arquitetura de dados moderna: Delta Lake, medallion architecture (bronze, silver, gold).
+Experiência em projetos de migração e integração de dados corporativos.
+Conhecimento em controles de qualidade de dados e versionamento de pipelines.
+
+Requisitos Desejáveis
+
+Experiência com dados no segmento Seguros e Saúde.
+Noções de Machine Learning com Databricks MLLib.
+Familiaridade com ferramentas de orquestração e observabilidade.
+Conhecimentos de modelagem dimensional e boas práticas de DW/BI.
+
+Por Que Capco
+
+Na Capco, promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. Pensamos, em conjunto, sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros. Juntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente! 
+
+Juntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente!
+
+Próximos Passos
+
+O objetivo da Capco é conduzir um processo flexível e alinhado às necessidades de cada oportunidade e talento.
+
+Etapa 1: Entrevista comportamental.
+Etapa 2: Entrevista técnica.
+Etapa 3: Conversa com time de Projeto/ Delivery.
+Etapa 4: Conversa com cliente.
+Etapa 5: Proposta ou feedback.
+
+As etapas do nosso processo seletivo descritas são essenciais para garantir uma avaliação completa e assertiva. Contudo, elas podem ser ajustadas dependendo da senioridade do(a) candidato(a), da área de atuação e do formato do projeto.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Desenvolvedor de Software (IA Generativa) | IT Onboarding
+
+Sobre a vaga
+Sobre a Área
+
+IT Onboarding é a área responsável pela plataforma de onboarding do BTG. Trata-se de um ecossistema de serviços dedicado a resolver o ciclo de vida dos clientes com o banco, assim como suas contas. Garantir e manter qualidade de dados de cadastramento incluindo perfil de investidor, adotar processos de KYC e pesquisa reputacional, fazer o processamento e a guarda de documentos, seguir exigências de compliance e regras regulatórias do mercado financeiro são apenas algumas das responsabilidades da plataforma, mantendo sempre o foco em eficiência operacional e satisfação dos clientes. A plataforma é elemento central de todas as áreas de negócio do banco e funciona como um hub de informações sobre clientes e contas.
+
+Estamos em busca de um(a) Desenvolvedor(a) Sênior qualificado(a) para liderar o desenvolvimento de aplicações com Inteligência Artificial Generativa. Esta posição é voltada para quem tem experiência com LLMs (Large Language Models), RAG (Retrieval-Augmented Generation), Reasoning e Agentic AI e constrói soluções de infraestrutura escaláveis.
+
+No Seu Dia a Dia
+
+Projetar, construir e escalar aplicações inteligentes usando LangChain, LangGraph e AWS Bedrock, não limitado a estas soluções.
+Desenvolver APIs robustas e eficientes com Python e FastAPI.
+Criar protótipos interativos com Streamlit para validação rápida de ideias e apresentações aos stakeholders.
+Construir fluxos inteligentes com streaming de LLM, integração de ferramentas externas e raciocínio passo a passo.
+Desenvolver agentes com memória de curto e longo prazo, utilizando estratégias como Hierarchical Task Networks (HTN) e Coordinator-Worker-Delegator (CWD).
+Integrar sistemas com RabbitMQ e SNS/SQS.
+Garantir a qualidade de deploy e operação utilizando Kubernetes, incluindo estratégias de rollout, health checks, canary deployments, ingress e services.
+Monitorar aplicações e fluxos de LLM com ferramentas modernas de observabilidade.
+
+Esperamos De Você
+
+Graduação completa em Sistemas de Informação, Análise de Sistemas, Ciência da Computação, Engenharia da Computação ou áreas relacionadas.
+Experiência com desenvolvimento de software com metodologias ágeis.
+Experiência em design e desenvolvimento de aplicações de grande escala e alto tráfego.
+Conhecimento prático em soluções AWS, especialmente AWS Bedrock;
+Boa capacidade de comunicação e proatividade.
+
+Diferencial
+
+Streaming de LLM e controle de tokens em tempo real.
+Langfuse: rastreamento, análise e avaliação de interações com LLMs.
+Datadog: monitoramento de métricas, logs, dashboards e alertas em tempo real.
+Técnicas como Prompt Caching, Chain of Thought, Tool Calling e RAG (Retrieval-Augmented Generation).
+Experiência em tecnologia cloud AWS.
+Experiência na linguagem de programação C#.
+Experiência com banco de dados relacional (SQLServer, MySql, PostgreSQL).
+Boas práticas de programação e Design Patterns.
+Experiência com testes unitários (TDD).
+Experiência em mercado financeiro.
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Especialista P&D – Desenvolvimento de SW e Aprendizado de Máquina (IA)
+
+Sobre a vaga
+Position Summary
+
+SOBRE A SAMSUNG E O SRBR
+
+É missão da Samsung inspirar o mundo e moldar o futuro com ideias e tecnologias transformadoras!
+
+E você sabia que muitas dessas inovações são pensadas e desenvolvidas por talentos brasileiros e impactam a vida de milhões de pessoas pelo mundo?
+
+Nosso Centro de Pesquisa e Desenvolvimento - o SRBR - conta com duas unidades no Brasil, em Campinas/SP e em Manaus/AM, com atuação nas áreas de Inteligência Artificial, Segurança da Informação, Ciência de Dados, Desenvolvimento de Software e Automação, e é referência em tecnologias aplicadas à saúde e bem-estar.
+
+Aqui no SRBR respiramos inovação! Trabalhar em um P&D é estar sempre à frente, olhando para o futuro. Por aqui, profissionais da tecnologia e da área da saúde trabalham, pesquisam e criam soluções juntos, com muita sinergia e colaboração, em um ecossistema disruptivo que inclui universidades, institutos de pesquisa e acadêmicos.
+
+Nosso DNA é de pura inovação e criatividade, sem perder nossa essência de empresa sólida, consistente e em pleno crescimento.
+
+Nosso jeito de trabalhar está em constante evolução, acreditamos na potência do trabalho presencial para a sinergia entre as equipes. ;)
+
+Vem transformar o mundo com a gente! Vem ser #SAMSUNGER
+
+Role And Responsibilities
+
+PRINCIPAIS RESPONSABILIDADES
+
+ Participar de projetos de P&D de Inteligência Artificial (IA) do SRBR, que têm o objetivo de produzir tecnologia inovadora para dispositivos Samsung;
+ Contribuição prática projetando modelos de aprendizado de máquina, definindo e executando experimentos, realizando avaliações, gerando relatórios para várias partes interessadas (técnicas e executivas);
+ Contribuir para a formulação da estratégia da equipe, propondo projetos inovadores;
+ Acompanhamento do progresso do projeto de IA;
+ Responsável por desenvolver tecnicamente pares;
+ Suporte à liderança técnica e condução de projetos de IA;
+Produzir código limpo e eficiente com base em especificações;
+Atuar na manutenção da infraestruturas de dados;
+Manter comunicação frequente com a equipe, fornecendo informações para relatórios e apresentações;
+ Outras responsabilidades:
+ Solucionar problemas, depurar e atualizar modelo ML ou software existente;
+ Integrar e validar modelos ML ou software de diferentes equipes de desenvolvimento;
+ Organizar tarefas e acompanhar os riscos do projeto.
+
+COMPETÊNCIAS TÉCNICAS
+
+ Conhecimento em reconhecimento de padrões, processamento de sinais e redes neurais;
+ Conhecimento em design de classificadores e regressores;
+ Conhecimento em probabilidade, estatística, projeto e avaliação de experimentos;
+ Conhecimento em inteligência artificial e ambientes de big data;
+ Conhecimento em programação avançado (Python, C/C++, R e Java);
+ Conhecimento em técnicas, algoritmos e bibliotecas de aprendizado de máquina aplicados a plataformas móveis e vestíveis;
+ Conhecimento prático de execução/implantação de modelos de aprendizado de máquina em dispositivos móveis;
+ Conhecimento prático em otimização de aprendizado de máquina com o objetivo de reduzir a complexidade de redes neurais profundas;
+ Conhecimento em abordagens de aprendizado de máquina que podem ser atualizadas com dados do usuário após a implantação (aprendizado on-line, aprendizado por reforço, etc.);
+ Conhecimento em engenharia de software, incluindo metodologias, práticas recomendadas e ferramentas relacionadas;
+ Publicação acadêmica e participação em conferências.
+
+REQUISITOS
+
+Bacharel em Ciência da Computação, Estatística, Matemática, Física, Engenharia da Computação, Engenharia Elétrica ou áreas correlatas;
+Mestrado em Ciência da Computação, Estatística, Matemática, Física, Engenharia da Computação, Engenharia Elétrica ou áreas correlatas (Desejável);
+Doutorado em Ciência da Computação, Estatística, Matemática, Física, Engenharia da Computação, Engenharia Elétrica ou áreas correlatas (Desejável);
+Inglês: avançado oral e escrito.
+
+Local: Campinas, SP.
+
+Skills And Qualifications
+
+NOSSOS BENEFÍCIOS
+
+O bem-estar das pessoas é prioridade por aqui, por isso oferecemos o SRBR Health, um programa com várias ações focadas na saúde física e mental dos colaboradores. Temos sessões de massagem, relaxamento e alongamento, oferecemos acesso à plataforma Zenklub, serviço de atendimento online com terapeuta, psicólogo, psicanalista ou coach e o Wellhub (antigo Gympass), um programa completo de bem-estar físico, mental e nutricional.
+
+ Nossas mesas de pingue-pongue fazem muito sucesso, e para descobrir os novos talentos esportivos, promovemos um torneio anual que é bem disputado.
+ Valorizamos a conexão familiar, por isso as licenças parentais por aqui são estendidas. Licença-maternidade (6 meses) e paternidade (20 dias), além de auxílio creche para cada filho com idade até 24 meses.
+ Temos a Sala Materna, um espaço de apoio à amamentação, para as mamães lactantes realizarem a retirada e estocagem de leite materno, durante o expediente.
+ Horário flexível.
+ Vale refeição.
+ Plano de saúde (extensível aos dependentes legais).
+ Plano odontológico (extensível aos dependentes legais).
+ Seguro de vida.
+ Vale transporte ou fretado.
+ Auxílio combustível (pode ser usado em outros serviços).
+ Celular corporativo.
+ PLR anual.
+ Bônus anual, com base na performance.
+ Portal com descontos exclusivos em produtos Samsung.
+ Oferecemos 4 horas semanais para dedicação exclusiva a mestrado e doutorado.
+ Temos uma plataforma de desenvolvimento e aprendizagem, o Samsung U, com acesso a milhares de cursos online totalmente gratuitos.
+ Um ambiente de trabalho que estimula a criatividade, o trabalho colaborativo e a conexão entre os times.
+
+DIVERSIDADE, INCLUSÃO E EQUIDADE
+
+Acreditamos no poder das diferenças para criar inovações que atendam e representem todas as pessoas! Estamos em um amplo processo de evolução de um local de trabalho com mais diversidade, equidade e inclusão, por isso valorizamos as candidaturas de todas as pessoas e suas identidades de gênero, etnia, raça, religião, orientação sexual, idade ou deficiência.
+
+As informações confidenciais e proprietárias obtidas por você durante seu histórico de emprego em outras empresas devem ser mantidas como tal (confidenciais e proprietárias) durante todo o processo de seleção, não podendo, em hipótese alguma, ser abertas ou compartilhadas com os entrevistadores.
+
+ Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here.
+-----------------------------------------------------------------------------------

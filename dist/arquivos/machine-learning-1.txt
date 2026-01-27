@@ -1,0 +1,165 @@
+[Oportunidade 1]
+Oportunidade: Cientista de Dados (Machine Learning)
+
+Sobre a vaga
+Quer integrar em nosso time e contribuir para a prevenção de fraudes e mitigação de riscos na Ticto?
+ Se você é apaixonado por dados, tem experiência e quer fazer a diferença, essa oportunidade é para você🥂
+
+Atividades Principais
+Análise de Dados: Analisar grandes volumes de dados para identificar padrões e tendências relacionados a riscos e fraudes.
+Desenvolvimento de Modelos: Desenvolver e implementar modelos de machine learning para prevenção de fraudes e mitigação de riscos.
+Integração: Colaborar com as equipes de desenvolvimento e produto para integrar modelos preditivos na plataforma Ticto.
+Relatórios e Insights: Realizar análises estatísticas e elaborar relatórios detalhados para suportar decisões estratégicas.
+Monitoramento e Ajustes: Monitorar e ajustar os modelos de machine learning conforme necessário para garantir precisão e eficácia.
+
+Requisitos:
+Graduação em Ciência da Computação, Engenharia, Estatística ou áreas relacionadas.
+Experiência mínima de 3 anos em análise de dados e desenvolvimento de modelos de machine learning.
+Proficiência em ferramentas e linguagens como Python, R, SQL, e bibliotecas de machine learning (TensorFlow, scikit-learn, etc.).
+Experiência com bancos de dados e plataformas de big data.
+Habilidades analíticas excepcionais e atenção meticulosa aos detalhes.
+
+Informações adicionais:
+Regime: PJ
+100% Home Office
+
+Conhece alguém com essas habilidades? Compartilhe essa vaga😊
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de dados SR
+
+Sobre a vaga
+Engenheiro Consultor em Arquitetura e Análise de Dados de Observabilidade
+
+Você é apaixonado por dados e adora transformar informações em insights valiosos? Gosta de criar soluções inteligentes para integração e visualização de dados, esta vaga é para você!
+
+O que você fará:
+Estruturar Dados em Camadas: Criar uma estrutura eficiente e acessível para o consumo de dados, garantindo que a informação esteja disponível e organizada para as diferentes equipes.
+Trabalhar com SQL: Utilizar suas habilidades em SQL para consultar e manipular dados, ajudando a construir soluções baseadas em dados precisos e relevantes.
+Extrair Dados de APIs: Desenvolver e otimizar processos para a extração de dados de diversas APIs, integrando essas informações em nossos sistemas de forma eficaz.
+Automatizar Rotinas: Criar e manter automações que agilizem o fluxo de trabalho e reduzam a necessidade de intervenção manual.
+Construir Dataviz e Análise de Dados: Desenvolver visualizações de dados que proporcionem insights claros e úteis, permitindo que tomadores de decisão compreendam rapidamente o estado e o desempenho dos sistemas.
+Analisar GA4: Utilizar o Google Analytics 4 para monitorar e analisar o comportamento do usuário, gerando relatórios e insights que ajudem a otimizar nossas estratégias e desempenho digital.
+
+O que você precisa trazer:
+Conhecimento e experiência com GA4, incluindo configuração, monitoramento e análise de dados.
+Habilidade em SQL e em estruturação de dados em camadas.
+Experiência com a extração de dados via APIs e automação de processos.
+Conhecimento em construção de dashboards e visualizações que facilitem a análise de dados.
+Diferencial
+Experiência com ferramentas de observabilidade e conhecimento avançado em suas funcionalidades.
+Capacidade implementar soluções robustas para integração de dados provenientes de ferramentas como AppDynamics, Dynatrace, Firebase Crashlytics, CloudWatch, Grafana e GA4.
+
+Benefícios: 
+🍛 Vale Alimentação ou Vale Refeição;
+🏫 Auxílio Creche;
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+🗣 Mentoring;
+🛫 Clube de viagens;
+🐶 Convênio para Pet;
+💉 Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+🦷Assistência Odontológica;
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+👂🏾 Atendimento psicológico online ao colaborador e seus dependentes;
+e muito mais...
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: PESSOA ENGENHEIRA IA
+
+Sobre a vaga
+A NTT DATA, é uma consultoria multinacional que oferece soluções de estratégia e de negócios, desenvolvimento e manutenção de aplicações tecnológicas e serviços de terceirização. Nós existimos para melhorar a vida dos nossos Clientes e só conseguimos fazer isso porque temos pessoas fantásticas aqui dentro.
+
+Manda bem nos requisitos abaixo? Então essa vaga é pra você!
+
+O que esperamos de ti:
+Ter perfil consultor, entender os requisitos explícitos e implícitos, propondo soluções técnicas;
+Ter postura proativa, observadora, organizada e comunicativa (atuação direta com cliente).
+
+Requisitos:
+Experiência com modelos clássicos de machine learning (Modelos supervisionados e não supervisionados);
+Experiência com IAs generativas / LLMs;
+Experiência em Bedrock;
+Experiência em Cloud AWS (lambda, glue, terraform, EC2, etc);
+Experiência no pipeline de produção de modelos ML.
+
+*Todas as nossas vagas estão disponíveis para Pessoas com Deficiência.
+
+ O que temos para te oferecer?
+
+Somos uma empresa de gente que trabalha com autonomia e criatividade. O ambiente de trabalho é um espaço descontraído, integrador e repleto de desafios!
+Trabalhamos para promover uma cultura inclusiva, acreditamos na força da diversidade para gerar inovação e atingir resultados incríveis, por isso, não fazemos distinção para pessoas com deficiência, gênero, orientação sexual, raça/etnia, idade, origem, constituição familiar e estética. Trabalhamos todas as nossas vagas com base nessa premissa.
+No programa de benefícios flexíveis da NTT DATA, você pode escolher e personalizar o seu pacote de benefícios para atender melhor suas necessidades e da sua família, através de pontos distribuídos em Assistência médica e odontológica, seguro de vida, refeição/alimentação, vale combustível, além de vários programas que favorecem a qualidade de vida.
+
+Se identificou? Então, nos envie seu currículo.
+Venha fazer parte do nosso time!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Muito prazer, somos a Zallpy! 
+Somos muito mais que uma empresa de tecnologia; somos uma comunidade diversa, plural e talentosa. Nosso propósito é liderar a transformação digital, com excelência e agilidade, promovendo crescimento mútuo e genuíno em relações éticas e duradouras. Flexibilidade é uma de nossas marcas registradas, atuamos em diferentes modelos e formatos de equipe, mantendo nossa cultura leve, colaborativa e integrada, proporcionando equidade de oportunidades em um espaço onde todos se sintam seguros e ouvidos.
+
+
+O que você vai fazer:
+Desenvolver e manter pipelines de dados estruturados e desestruturados, seguindo as melhores práticas de ETL;
+Realizar modelagem dimensional para otimizar o armazenamento e recuperação de dados;
+Trabalhar com feature engineering para criar variáveis relevantes e significativas;
+Gerenciar bancos de dados relacionais e chave-valor;
+Construir data pipelines para coleta, transformação e carga de dados;
+Extrair dados de APIs e sistemas externos;
+Lidar com filas e streaming para processamento de dados em tempo real;
+Utilizar ferramentas de ETL/ELT para automatizar processos;
+Desenvolver soluções de engenharia de dados em Python, Java ou Scala;
+Ter conhecimento sobre arquitetura de Data Plataforma, Data Warehouse e Data Lake;
+Trabalhar com bancos de dados SQL e NoSQL e com plataformas em nuvem;
+Implementar práticas de DataOps para melhorar a eficiência do ETL e permitir self-service analytics.
+
+
+O que estamos buscando:
+Curso Superior ou pós-graduação em Matemática, Estatística, Tecnologia da Informação ou semelhantes;
+Habilidades de comunicação oral e escrita em inglês;
+Atuação prévia como DBA;
+Experiência em SQL para manipulação e transformação de dados;
+Experiência em Modelagem dimensional;
+Experiência em feature engineering;
+Experiência em gerenciamento de bancos de dados relacionais e chave-valor;
+Experiência em construção de data pipelines;
+Experiência em manipulação de APIs para extração de dados;
+Experiência em manipulação de Filas/Streaming para extração de dados;
+Experiência com ferramentas de ETL/ELT;
+Experiência com Python e/ou Java para desenvolvimento de soluções de engenharia de dados;
+Experiência com Scala para desenvolvimento de soluções de engenharia de dados;
+Experiência com ferramentas de versionamento;
+Experiência com arquitetura de Data Plataforma, Data Warehouse e Data Lake;
+Experiência em bancos de dados SQL e NoSQL;
+Experiência com serviços em nuvem GCP (BigQuery, Cloud Storage, Cloud Functions);
+Experiência com serviços em nuvem AWS (Athena, S3 EMR, Lambda, State Machines, IAM);
+Experiência em ferramentas de DataOps para aprimoramento de ETL, Self Service Analytics;
+Conhecimento sobre a Lei Geral de Proteção de Dados (LGPD).
+
+Onde você vai trabalhar:
+Esta é uma posição para atuação 100% remota
+
+Modalidade de contratação:
+Cooperado;
+PJ.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Atuará em diversas frentes de dados com Databricks e AWS.
+
+
+Descrição perfil técnico
+:Experiência com Databricks
+.Experiência com AWS
+.Bastante domínio com Python e Spark
+.Conhecimento em Microserviços
+.Capacidade de trabalhar de forma independente e em equipe.
+
+.
+-----------------------------------------------------------------------------------

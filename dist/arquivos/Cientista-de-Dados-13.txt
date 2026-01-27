@@ -1,0 +1,268 @@
+[Oportunidade 1]
+Oportunidade: Data Engineer / Modelling Analyst - ETL
+
+Sobre a vaga
+About The Role
+
+Grade Level (for internal use):
+
+10
+
+Data Engineer - S&P Global Commodity Insights
+
+S&P Global is looking for a Data Engineer who will be a part of our Data Science and Modelling team. The ideal candidate should be highly motivated and goal-oriented, with an encouraging attitude of working in a very dynamic work environment with a wide range of stakeholders and functional teams.
+
+Job Summary: As a Data Engineer at S&P Global, you will utilize your extensive technical skills to architect, build, and maintain our evolving data infrastructure, which is essential for supporting our advanced analytics and machine learning initiatives. You will work closely with various stakeholders to acquire, process, and refine vast datasets, focusing on creating scalable and optimized data pipelines. Your work will be pivotal for enabling data scientists to extract meaningful insights and develop AI-driven solutions that serve various business purposes, from internal decision-making to product development.
+
+Responsibilities
+
+ To collaborate with stakeholders, including data scientists, analysts, and other engineers, to understand and refine requirements related to data processing and transformation needs.
+ To design, construct, install, and maintain large-scale processing systems and other infrastructure.
+ To build high-performance algorithms, prototypes, and conceptual models and enable the efficient retrieval and analysis of data.
+ To implement ETL processes to acquire, validate, and process incoming data from diverse sources.
+ To ensure data architecture and model adhere to compliance, privacy, and security standards.
+ To work in conjunction with data scientists to optimize data science and machine learning algorithms and models.
+ To provide technical expertise in the resolution of data-related issues, including data quality, data lineage, and data processing errors.
+ To manage the deployment of analytics solutions into production and maintain them.
+ To maintain high-quality processes and deliver projects in collaborative Agile team environments.
+
+Requirements
+
+ 7+ years of programming experience particularly in Python
+ 4+ years of experience working with SQL or NoSQL databases.
+ University degree in Computer Science, Engineering, Mathematics, or related disciplines.
+ Strong understanding of big data technologies, Container management tools
+ Demonstrated ability to design and implement end-to-end scalable and performant data pipelines.
+ Experience with workflow management platforms like Airflow.
+ Strong analytical and problem-solving skills.
+ Ability to collaborate and communicate effectively with both technical and non-technical stakeholders in English.
+ Experience building solutions and working in the Agile working environment
+ Experience working with git or other source control tools
+
+Nice To Have
+
+ Experience working with Oil, gas, and energy markets.
+ Familiarity with BI Visualization applications (e.g. Tableau, Power BI, Spotfire).
+ Understanding of cloud-based services, preferably AWS.
+ Experience working with Unified analytics platforms like Databricks.
+ Experience in managing and deploying containerized applications using Cloud-native orchestration tools, Data stream processing tools, Container platforms.
+ Machine learning/Data Science experience.
+
+Note: Work from home role.
+
+Location - Mexico Virtual, Colombia Virtual, Brazil Virtual
+
+About S&P Global Commodity Insights
+
+At S&P Global Commodity Insights, our complete view of global energy and commodities markets enables our customers to make decisions with conviction and create long-term, sustainable value.
+
+We’re a trusted connector that brings together thought leaders, market participants, governments, and regulators to co-create solutions that lead to progress. Vital to navigating Energy Transition, S&P Global Commodity Insights’ coverage includes oil and gas, power, chemicals, metals, agriculture and shipping.
+
+S&P Global Commodity Insights is a division of S&P Global (NYSE: SPGI). S&P Global is the world’s foremost provider of credit ratings, benchmarks, analytics and workflow solutions in the global capital, commodity and automotive markets. With every one of our offerings, we help many of the world’s leading organizations navigate the economic landscape so they can plan for tomorrow, today.
+
+For more information, visit http://www.spglobal.com/commodity-insights.
+
+What’s In It For You?
+
+Our Purpose
+
+Progress is not a self-starter. It requires a catalyst to be set in motion. Information, imagination, people, technology–the right combination can unlock possibility and change the world.
+
+Our world is in transition and getting more complex by the day. We push past expected observations and seek out new levels of understanding so that we can help companies, governments and individuals make an impact on tomorrow. At S&P Global we transform data into Essential Intelligence®, pinpointing risks and opening possibilities. We Accelerate Progress.
+
+Our People
+
+We're more than 35,000 strong worldwide—so we're able to understand nuances while having a broad perspective. Our team is driven by curiosity and a shared belief that Essential Intelligence can help build a more prosperous future for us all.
+
+From finding new ways to measure sustainability to analyzing energy transition across the supply chain to building workflow solutions that make it easy to tap into insight and apply it. We are changing the way people see things and empowering them to make an impact on the world we live in. We’re committed to a more equitable future and to helping our customers find new, sustainable ways of doing business. We’re constantly seeking new solutions that have progress in mind. Join us and help create the critical insights that truly make a difference.
+
+Our Values
+
+Integrity, Discovery, Partnership
+
+At S&P Global, we focus on Powering Global Markets. Throughout our history, the world's leading organizations have relied on us for the Essential Intelligence they need to make confident decisions about the road ahead. We start with a foundation of integrity in all we do, bring a spirit of discovery to our work, and collaborate in close partnership with each other and our customers to achieve shared goals.
+
+Benefits
+
+We take care of you, so you can take care of business. We care about our people. That’s why we provide everything you—and your career—need to thrive at S&P Global.
+
+Our Benefits Include
+
+Health & Wellness: Health care coverage designed for the mind and body.
+Flexible Downtime: Generous time off helps keep you energized for your time on.
+Continuous Learning: Access a wealth of resources to grow your career and learn valuable new skills.
+Invest in Your Future: Secure your financial future through competitive pay, retirement planning, a continuing education program with a company-matched student loan contribution, and financial wellness programs.
+Family Friendly Perks: It’s not just about you. S&P Global has perks for your partners and little ones, too, with some best-in class benefits for families.
+Beyond the Basics: From retail discounts to referral incentive awards—small perks can make a big difference.
+
+For more information on benefits by country visit: https://spgbenefits.com/benefit-summaries
+
+Diversity, Equity, And Inclusion At S&P Global
+
+At S&P Global, we believe diversity fuels creative insights, equity unlocks opportunity, and inclusion drives growth and innovation – Powering Global Markets. Our commitment centers on our global workforce, ensuring that our people are empowered to bring their whole selves to work. It doesn’t stop there, we strive to better reflect and serve the communities in which we live and work, and advocate for greater opportunity for all.
+
+Equal Opportunity Employer
+
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.
+
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person. 
+
+US Candidates Only:  The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.
+
+20 - Professional (EEO-2 Job Categories-United States of America), ANLYTC202.1 - Middle Professional Tier I (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)
+
+Job ID: 304528
+
+Posted On: 2024-07-26
+
+Location: Mexico City, Mexico
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Lead Data Scientist
+
+Sobre a vaga
+You'll Love Working Here Because You Can
+
+Have courageous team collaboration. Courage comes from how associates are willing to have difficult conversations, speak up, be an owner, and challenge one another's ideas to find the best solution.
+Deliver at epic scale. We deliver real user outcomes using strong judgment and good instincts. We're obsessed with the art of achieving simplicity with a focus on client happiness and productivity.
+Be surrounded by curious learners. We align ourselves with other smart people in an environment where we grow and elevate one another to the next level. We encourage our associates to listen, stay agile, and learn from mistakes.
+Act like an owner & doer. Mission-driven and committed to leading change, you will be encouraged to take on any challenge and solve complex problems. No tasks are beneath or too great for us. We are hands-on and willing to master our craft.
+Give back to others. Always do the right thing for our clients and our community and humbly give back to the community where we live and work. Support our associates in times of need through ADP's Philanthropic Foundation.
+Join a company committed to equality and equity. Our goal is to impact lasting change through our actions.
+
+What are you waiting for? Apply today!
+
+Find out why people come to ADP and why they stay: https://youtu.be/ODb8lxBrxrY
+
+(ADA version: https://youtu.be/IQjUCA8SOoA)
+
+O modelo de trabalho adotado pela ADP é office based/presencial, com a possibilidade de trabalho em home-office por até duas vezes na semana.
+Considerando que as atividades desempenhadas pelos ocupantes deste cargo envolvem acesso a informações altamente confidenciais e sensíveis de clientes da ADP e de seus respectivos empregados, a ADP reserva-se o direito de conduzir checagem de histórico, de tempos em tempos, conforme autoriza o Incidente de Recurso de Revista Repetitivo nº 01 do Tribunal Superior do Trabalho, mediante consentimento do candidato/trabalhador.
+
+Diversity, Equity, Inclusion & Equal Employment Opportunity at ADP: ADP is committed to an inclusive, diverse and equitable workplace, and is further committed to providing equal employment opportunities regardless of any protected characteristic including: race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, protected veteran status or disability. Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.
+
+Ethics at ADP: ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Software Engineer | Machine Learning Operations
+
+Sobre a vaga
+Apply now for a career that puts wellbeing first!
+
+GET TO KNOW US
+
+Wellhub (formerly Gympass*) is a corporate wellness platform that connects employees to the best partners for fitness, mindfulness, therapy, nutrition, and sleep, all included in one subscription designed to cost less than each individual partner. Founded in 2012 and headquartered in NYC, we have a growing global team in 11 countries. At Wellhub, you have the opportunity to build a career in a high-growth tech company that places wellbeing at the foundation of its culture, and contribute to making every company a wellness company.
+
+Big news: Gympass is now Wellhub! We are thrilled to announce our rebranding as Wellhub, marking a significant milestone in our journey. This transformation reflects our evolution from a “pass for gyms” to a comprehensive employee wellbeing solution. With our refreshed identity, we are poised to embark on an exciting new chapter of growth and expansion. We are elevating our offerings, including a completely new app experience and an expanded network of wellbeing partners. Learn more about it here.
+
+THE OPPORTUNITY
+
+We are hiring a Senior Software Engineer | Machine Learning Operations to our Data Solutions team in Brazil!
+
+The Data department at Wellhub contributes to our data democratization mission. We are responsible for empowering every team by providing a scalable and reliable Data and ML platform to provide an efficient journey for every Data Practitioner and help elevate business outcomes from our data.
+
+We tackle large-scale production challenges using software engineering principles, leveraging cutting-edge technologies such as Kubernetes, Trino, Spark, Kafka, Airflow, Flink, MLFlow, and more. Our infrastructure is entirely cloud-based, offering a dynamic and innovative environment for data-driven solutions.
+
+YOUR IMPACT
+
+Develop and maintain a scalable platform to streamline the development, deployment and management of machine/deep learning models;
+Design and implement data architectures and pipelines to solve complex business challenges;
+Ensure engineering best practices to create scalable and reliable data solutions
+Live the mission: inspire and empower others by genuinely caring for your own wellbeing and your colleagues. Bring wellbeing to the forefront of work, and create a supportive environment where everyone feels comfortable taking care of themselves, taking time off, and finding work-life balance.
+
+Who You Are
+
+You have created robust and scalable Data and Machine Learning architectures and frameworks;
+Proficient in at least one programming language (e.g. Java, Python, Scala).
+You can collaborate with different teams to understand needs and develop effective Data solutions;
+You are motivated to design, implement, and maintain software solutions within the Data realm;
+Demonstrated experience in building and maintaining MLOps tools and pipelines for model development, deployment, and automation;
+Understanding of Machine and Deep Learning principles and frameworks (e.g. TensorFlow, PyTorch, sci-kit learn);
+Understanding of data engineering and architecture principles and technologies (e.g. Apache Spark, Hadoop, Apache Flink);
+You need to be able to articulate ideas clearly when speaking to groups in English.
+
+The Following Will Be Considered a Plus
+
+Hands-on experience with cloud platforms, particularly AWS, including services like SageMaker, EC2, and S3;
+Familiarity with containerization technologies such as Docker/Kubernetes/Crossplane;
+Ability to deploy and manage machine learning models within Kubernetes clusters;
+Experience with DevOps practices, including CI/CD pipelines and infrastructure as code (IaC) and logging tools such as Prometheus, Grafana, or AWS CloudWatch.
+
+We recognize that individuals approach job applications differently. We strongly encourage all aspiring applicants to go for it, even if they don't match the job description 100%. We welcome your application and will be delighted to explore if you could be a great fit for our team. For this specific role, please note that experience working with Java, or Python, and solid work experience with Machine and Deep Learning principles and frameworks, and also an advanced level of English are mandatory requirements.
+
+What We Offer You
+
+We're a wellness company that is committed to the health and well-being of our employees. Our flexible program allows you to customize your benefits, according to your needs!
+
+Our Benefits Include
+
+WELLNESS: Health, dental, and life insurance.
+
+FLEXIBLE WORK: At Wellhub, flexibility fosters a happier, healthier, and more productive work environment for everyone. As a Flexible First company, we offer two work model options: flexible hybrid and full remote, and make the office a place for collaboration, community, and team building. The model for this role can be discussed with your recruiter and hiring manager. We offer all employees a home office stipend and a monthly flexible work allowance to help cover the costs of working from home.
+
+FLEXIBLE SCHEDULE: Wellhubbers and their leaders can make the best decisions for their scope. This includes flexibility to adjust their working hours based on their personal schedule, time zone, and business needs.
+
+WELLHUB: We believe in our mission and encourage our employees and their families to take care of their wellbeing too. Access onsite gyms and fitness studios, digital fitness programs, and online wellness resources for meditation, nutrition, mental health support, and more. You will receive the Gold plan at no cost, and other premium plans will be significantly discounted.
+
+PAID TIME OFF: We know how important it is that our employees take time away from work to recharge.
+
+Vacations after 6 months and 3 days off per year + 1 day off for each year of tenure (up to 5 additional days) + extra day off for your birthday.
+
+PAID PARENTAL LEAVE: Welcoming a new child is one of the most special moments in your life and we want our employees to take the time to be present and enjoy their growing family. We offer 100% paid parental leave to all new parents and extended maternity leave
+
+CAREER GROWTH: Outstanding opportunities for personal and career growth. That means we maintain a growth mindset in everything we do and invest deeply in employee development.
+
+CULTURE: An exciting and supportive atmosphere with ambitious people from around the world! You’ll partner with global colleagues and share in the success of a high-growth technology company disrupting the health and wellness space. Our value-based culture of trust, flexibility, and integrity makes this possible every day. Find more info on our careers page!
+
+And to get a glimpse of Life at Wellhub… Follow us on Instagram @wellhublife and LinkedIn!
+
+Diversity, Equity, and Belonging at Wellhub
+
+We aim to create a collaborative, supportive, and inclusive space where everyone knows they belong.
+
+Wellhub is committed to creating a diverse work environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, sex, gender identity or expression, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law.
+
+Questions on how we treat your personal data? See our Job Applicant Privacy Notice.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de Machine Learning Sênior
+
+Sobre a vaga
+ATENÇÃO! 
+
+ Para essa vaga, o modelo de trabalho é híbrido, sendo presencial três vezes por semana em nosso escritório em Barueri/SP - por isso, o profissional precisa residir em São Paulo ou região de fácil deslocamento. 
+
+ Funções que serão desempenhadas: 
+
+ Projetar, construir e implementar sistemas complexos para treinar e executar modelos de aprendizado de máquina com princípios arquitetônicos sólidos; 
+ Entender os objetivos de negócios e implementar modelos para alcançá-los, juntamente com métricas para acompanhar seu progresso; 
+ Atuar em parceria com as áreas de negócio, incluindo: Produtos, Sucesso do Cliente e Vendas/Marketing; 
+ Aplicar as melhores práticas de desenvolvimento, testes e demonstrar excelentes habilidades de software para produzir soluções sustentáveis, escalonáveis e de qualidade. 
+
+ Requisito   s necessárias: 
+
+ Ensino Superior em cursos voltados para Tecnologia; 
+ Inglês avançado (diferencial); 
+ Amplo conhecimento em pelo menos uma das principais linguagens de programação (Python, Java ou Scala); 
+ Conhecimento em Containerização (Docker) ; 
+ Conhecimento de computação em nuvem (Azure, AWS ou GCP); 
+ Processamento Distribuído e Paralelo (Spark, Dask, etc.); 
+ Orquestração e fluxos (Prefect, Airflow, Kubeflow, etc.); 
+ Pipelines CI/CD (Gitlab, Github, Argo, etc.). 
+
+#BVS
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Banco de Talentos (PCD)
+
+Sobre a vaga
+Profil du candidat 
+
+Esta posição está aberta e com acessibilidade (PCD) para todos os profissionais com expertise e competências comportamentais e técnicas para o desafio.
+
+ Activités 
+
+Nós acreditamos que o crescimento só é sustentável se for  compartilhado, inclusivo e diverso . Como construímos nosso desenvolvimento? No respeito ao próximo e na contribuição ativa com a sociedade e as comunidades onde estamos inseridos.
+
+Este banco de talentos é destinado para  Pessoas com Deficiência que tenham interesse em crescer em um ambiente com alto nível de segurança, cuidado ao meio-ambiente, fortes valores éticos, e excelentes oportunidades de desenvolvimento de carreira.
+-----------------------------------------------------------------------------------

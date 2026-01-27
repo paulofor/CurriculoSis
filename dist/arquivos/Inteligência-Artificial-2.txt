@@ -1,0 +1,283 @@
+[Oportunidade 1]
+Oportunidade: Arquiteto de Software SR
+
+Sobre a vaga
+#DeGenteParaGente:  Esta vaga é aberta para todas as pessoas com ou sem deficiência. Encorajamos todas as pessoas com deficiência com o perfil da vaga a se candidatarem e nos informarem sobre quaisquer necessidades específicas de acomodação durante o processo de seleção. Estamos empenhados em proporcionar um ambiente de trabalho inclusivo e acessível, onde todas as pessoas tenham a oportunidade de atingir seu pleno potencial. A seleção será baseada em suas habilidades, qualificações e experiência.
+
+ SOBRE O NOSSO TIME DE REGULATÓRIOS: 
+
+Empolgante, é isso mesmo, é uma equipe empolgante a que você vai trabalhar e me deixe explicar o porquê: somos inquietos e isso nos leva a sempre buscar novos desafios, então não ficamos presos em nossa situação atual, pelo contrário, queremos mudar para melhor e queremos fazer isso contando com sua ajuda.
+
+Somos responsáveis, pois sabemos que trabalhamos em um mercado altamente competitivo. Assim, buscamos a excelência em tudo que fazemos (processos, pessoas) e aprendermos com nossos erros, entendendo onde precisamos evoluir em nossos processos, ferramentas e técnicas. Desta forma, espere encontrar uma equipe unida, que busca estimular a evolução individual e coletiva.
+
+Sua equipe está dentro de um ecossistema de operações bancárias 24x7, ou seja, um desafio é construir soluções resilientes, escaláveis, seguras, portáteis, multi-cloud e que estejam aptas para trabalhar com uma carga massiva de operações. Gostou do desafio?
+
+A Matera está trabalhando nisso desde 2018, participando com outras entidades em grupos de discussão junto ao regulador. Contribuíram intensamente para a construção do atual ecossistema.
+
+ O QUE ESPERAMOS DE VOCÊ? 
+
+Será responsável por estabelecer trade offs, realizar e/ou desenvolver POC´s, apoiar a equipe de desenvolvimento liderando tecnicamente a Squad, tendo como algumas das principais atividades: garantir que o que está sendo desenvolvido encontra-se em conformidade com a proposta de arquitetura que foi concebida, validar as soluções técnicas(funcionais e não funcional), facilitar junto equipes de QA´s quanto técnicas e ferramentas usada por eles, desdobramento para com o time (Squad) as soluções propostas pela equipe de arquitetura de solução. Em seu dia a dia, a codificação fará parte das atividades executadas, contudo, não é a atividade que demandará maior dedicação de tempo.
+
+Como membro da equipe, também apoiará a liderança na tomada de decisões fornecendo insumos e fazendo análises técnicas.
+
+ PARA SE JUNTAR A ESSA MISSÃO VOCÊ PRECISA TER: 
+
+Superior completo em Tecnologia da Informação, Engenharia da Computação, Ciência da Computação, Análise de Sistemas ou afins;
+Sólida experiência com desenvolvimento em Java;
+Vivência em soluções baseadas em Microserviços;
+Habilidades com Spring (MVC, Boot, Data e Security), API Gateway;
+Experiência em soluções com uso de JWT/Oauth2;
+Rotinas com banco relacional e não relacional;
+Experiência com Design Pattern e Princípios de Arquitetura (POSA);
+Vivência em soluções cloud (AWS);
+Experiência em soluções com uso de cluster (Kubernets - Helm charts, docker imagens);
+Experiência em projetos com uso de infraestrutura como código (Ansible, Terraform);
+Experiência em desenvolvimento de soluções provendo Observabilidade, versionamento e migração de databases, OIDC;
+Experiência em soluções com comunicação assíncrona (Kafka e afins).
+
+
+Responsável pelo processo: Gabriella Faria
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Job Title: Senior Data Engineer
+Location: Rio de Janeiro (Hybrid)
+
+
+Overview:
+We are seeking a Senior Data Engineer to join our dynamic team. As a Senior Data Engineer, you will play a critical role in our data-driven journey, leading the development and maintenance of robust data infrastructure that supports risk and credit analysis, among other key areas. This position requires a deep understanding of data engineering practices, experience with Microsoft tools, as well as the ability to mentor and guide junior engineers.
+
+Key Responsibilities:
+
+Data Infrastructure Development: Development of foundational datasets for risk and credit analysis, including the collection and structuring of data from diverse sources.
+Cloud Migration: Successfully manage the migration of data across various cloud vendors, including Microsoft Azure, ensuring data consistency and availability.
+Data Quality Management: Design and implement a comprehensive data quality framework, ensuring the reliability of data across all pipelines.
+Mentorship: Provide mentorship to the analysts, and promote best practices in coding, data management, and automation.
+Automation and Efficiency: Automate data entry processes and other manual workflows, improving efficiency and saving valuable time.
+Pipeline Management: Engineer and maintain data pipelines capable of processing large volumes of data daily, optimizing data flow and system performance.
+Collaboration: Work closely with cross-functional teams, including data scientists, analysts, and business stakeholders, to ensure data assets meet business requirements.
+
+Skills & Qualifications:
+
+Technical Expertise: Proficiency in Python, SQL, Spark, and ETL processes. Experience with Delta, Databricks, Docker, and Apache Airflow is highly valued.
+Microsoft Tools: Strong experience with Microsoft Azure, Power BI, and SQL Server, with a proven track record of integrating and managing data within the Microsoft ecosystem.
+Data Modeling: Expertise in data modeling and handling unstructured data.
+Attention to Detail: Keen eye for detail, ensuring the accuracy and integrity of data.
+Workflow Management: Experience in managing data operations and workflow, with a focus on automation and dispute resolution.
+Communication Skills: Fluent in English, with the ability to articulate complex technical concepts to non-technical stakeholders.
+
+
+Experience Required:
+Minimum of 5 years of experience in data engineering roles.
+Prior experience working with Microsoft tools such as Azure, Power BI, and SQL Server.
+
+Why Join Us?
+
+Be part of an innovative quantification team.
+Work in a dynamic environment where your contributions will directly impact the business.
+
+
+Application Process:
+
+If you are a Senior Data Engineer looking to make a significant impact and grow your career in a forward-thinking company, we would love to hear from you. Apply today to join our team!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Estamos à procura de um Engenheiro de Dados Sênior para se juntar ao time da Sankhya. Este profissional será responsável pelo design, implementação e manutenção de pipelines de dados robustos e escaláveis, além de colaborar com times multifuncionais para otimizar a infraestrutura de dados e apoiar nossas iniciativas de IA.
+
+Nosso #ProductTeam é um dos times chaves que fazem acontecer dentro da Sankhya. Nossa missão é oferecer diariamente uma solução completa, intuitiva e escalável que orienta nossos clientes com muita inovação e gestão inteligente!
+
+Na Sankhya, estamos atentos às novidades do mercado e buscamos aprimorar nossas soluções, tornando-as menos complexas e mais únicas. E, com isso, queremos alcançar lugares ainda mais altos!
+
+Se você deseja crescer e quer para sua carreira profissional novos desafios, seu lugar é aqui!
+
+Vem com a gente transformar a sociedade, e construir um ambiente diverso de crescimento acelerado.
+
+Topa o desafio?
+#VemserSankhya
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+Projetar, construir e manter pipelines de dados escaláveis e eficientes. 
+Desenvolver e implementar soluções para armazenamento e processamento de dados.
+Colaborar com cientistas de dados e analistas para garantir a integridade e qualidade dos dados. 
+Otimizar o desempenho das consultas e das operações de ETL. 
+Garantir a segurança e a privacidade dos dados conforme as melhores práticas e regulamentações. 
+Participar da definição de estratégias de dados e de arquitetura de dados. 
+Identificar e resolver problemas de desempenho de dados em tempo real.
+
+REQUISITOS E QUALIFICAÇÕES
+
+Bacharelado em Ciência da Computação, Engenharia, Matemática, ou área relacionada. 
+Experiência com plataformas de cloud computing (AWS, Azure, Google Cloud).
+Experiência significativa com bancos de dados relacionais e não relacionais (SQL, NoSQL). 
+Proficiência em linguagens de programação como Python, Java, ou Scala. Experiência com ferramentas de ETL e plataformas de processamento de dados (Apache Spark, Hadoop, etc.).
+ Conhecimento em design e otimização de sistemas de armazenamento de dados. 
+Experiência em trabalhar com grandes volumes de dados e sistemas distribuídos. 
+Forte entendimento de segurança de dados e privacidade. 
+ Familiaridade com práticas DevOps e ferramentas de CI/CD. 
+Experiência em implementar e gerenciar soluções de dados em tempo real. 
+Conhecimento em técnicas de aprendizado de máquina e inteligência artificial.
+
+INFORMAÇÕES ADICIONAIS
+
+Na Sankhya, nós prezamos muito pelo equilíbrio entre o lado profissional e pessoal. Sabemos que tudo hoje é interligado e, no fim das contas, é tudo sobre pessoas. Por isso, nossos benefícios são personalizados para Sankhers, confira!
+
+O que a Sankhya te oferece:
+
+🥗 Seu vale, vale: liberdade! Chega de escolher entre alimentação ou refeição, oferecemos um cartão bandeira ELO em parceria com o Ifood e eu #SóVejoBenefícios nessa parceria!
+🤩 Plano de saúde 100% grátis para colaborador(a)
+😁 Plano odontológico
+🏋️ Gympass
+💰 Programa de gamificação, participe e concorra a prêmios!
+💵 Participação nos Lucros e Resultados (PLR) mediante atingimento de metas e performance
+📚 Auxílio desenvolvimento
+🤰 Licença Maternidade/Paternidade estendida
+💻 Equipamentos fornecidos pela empresa
+🪑 Empréstimo consignado
+🎯 Pagamento por Indicação de profissionais assertivos
+🎉 DayOFF Sankhya O niver é seu, e para comemorar nada melhor que uma folguinha né?
+
+E MAIS IMPORTANTE AINDA:
+🧑‍🦽Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+
+Está esperando o que pra fazer parte de nosso time?
+
+#VemserSankhya!
+
+SOMOS A SANKHYA! 💚
+Fundada em 1989, somos líder no mercado brasileiro de soluções integradas de gestão corporativa (ERP). Com mais de 2000 colaboradores e atendendo cerca de 20 mil clientes em todos os 26 estados do país, oferecemos o ERP Sankhya, uma solução completa que permite acesso em tempo real aos detalhes do negócio, impulsionando eficiência e agilidade na gestão.
+
+Nosso propósito é claro: transformar a sociedade através da gestão, combinando excelência tecnológica com o poder transformador das pessoas. Nossa cultura é enraizada na base familiar e incentivadora do protagonismo e da inovação.
+
+Acreditamos firmemente que ter as pessoas certas ocupando as posições adequadas não só impulsiona a felicidade e o engajamento no ambiente de trabalho, mas também resulta em melhorias substanciais em nossos negócios e estimula a inovação.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Missão:
+Somos um time de dados composto por profissionais especialistas em engenharia e plataforma de dados, analytics, ciência de dados e machine learning, comprometida em utilizar tecnologia de ponta para impulsionar soluções inovadoras e apoiar o negócio. Somos apaixonados por transformar dados em insights acionáveis e trabalhamos na construção e otimização de plataformas de dados e analytics, potencializando a cultura data driven.
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será o seu dia a dia:
+Projetar, desenvolver e manter arquiteturas de dados escaláveis e eficientes para suportar as necessidades de análise e processamento de dados da empresa;
+Colaborar com equipes multidisciplinares para entender os requisitos de dados e propor soluções técnicas adequadas;
+Desenvolver pipelines de dados robustos e confiáveis, garantindo a integridade, segurança e desempenho dos dados em Real Time e Batch;
+Identificar e implementar melhorias contínuas na infraestrutura de dados, visando aprimorar a eficiência, confiabilidade e escalabilidade;
+Avaliar e adotar tecnologias emergentes para melhorar as capacidades da plataforma de dados e manter a relevância tecnológica da empresa;
+Liderar iniciativas de governança de dados, garantindo qualidade, rastreamento de dados e catálogo de metadados;
+Projetar, desenvolver e manter camada semântica de dados e ambiente Lakehouse;
+Ajudar no desenvolvimento de plataforma orientada a eventos e arquitetura de dados em tempo real;
+Compartilhar conhecimento e contribuir para o desenvolvimento e evolução do time em matérias de dados e tecnologia;
+Contribuir ativamente para o Roadmap de dados.
+
+REQUISITOS E QUALIFICAÇÕES
+O que buscamos:
+Experiência com desenvolvimento e implantação de plataformas de dados resilientes e escaláveis;
+Experiência comprovada em engenharia de dados, incluindo design, desenvolvimento e manutenção de pipelines de dados escaláveis e confiáveis;
+Profundo conhecimento em tecnologias de Big Data, Google Cloud e Open Source;
+Experiência prática com ferramentas de orquestração de dados, como Airflow e/ou similares;
+Forte experiência em linguagens de programação como Python, Java ou Scala;
+Experiência em trabalhar em ambientes de nuvem (GCP) e em arquiteturas de microsserviços (Kubernetes);
+Conhecimento em IaC e DevOps;
+Excelentes habilidades analíticas e capacidade de traduzir requisitos de negócios em soluções técnicas;
+Experiência em liderar equipes técnicas e projetos complexos;
+Conhecimento em bancos de dados, NoSQL, armazenamento distribuído e Data Lake.
+
+INFORMAÇÕES ADICIONAIS
+Benefícios:
+Plano de Saúde;
+Plano Dental;
+Psicoterapia Online;
+Gympass;
+Seguro de Vida;
+Vale Alimentação e Vale Refeição (VA/VR);
+Parcerias de Desconto (Universidade e Escolas de Idiomas);
+Despreocupe-se - Seguros Diversos;
+No dress code;
+Remoto.
+ #VEMPRACONTABILIZEI 💙
+
+Cultura e Desenvolvimento = Construímos Juntos e Juntas 🚀
+
+Acreditando que o sucesso de pessoas empreendedoras é o nosso sucesso, Guardiões e Guardiãs de nossa cultura constroem todos os dias o melhor lugar para se trabalhar. Crescendo com a Contabilizei e contando suas próprias histórias!
+ Buscar ser 1% melhor todos os dias é um valor importante no foguete. Um dos pilares para o encorajamento ao protagonismo dos nossos Guardiões e Guardiãs é feito através do Ciclo de Performance, com possibilidades de Carreira em Y, Cultura de Feedback (1:1) e ferramentas que ajudam entender oportunidades de desenvolvimento e evolução constante de nossos valores.
+ É importante que saiba, você pode ser quem é! Estamos conscientizando e construindo um ambiente psicologicamente seguro com iniciativas de Diversidade e Inclusão. Somos verdadeiros(as) e acreditamos que essa seja uma responsabilidade de todos os Guardiões e Guardiãs! Todas as nossas oportunidades estão abertas para pessoas diversas em identidade de gênero, cor e etnia, orientação sexual, origem, pessoas com deficiência (PcD), e todas as interseccionalidades possíveis.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Sr - Finance
+
+Sobre a vaga
+O(a) Engenheiro(a) de Dados deve ser capaz de criar, expandir e otimizar a arquitetura de pipelines de dados, bem como desenvolver e manter fluxos de dados de diversas áreas de nossos clientes.
+
+Este(a) profissional deve estar familiarizado(a) com conceitos e estratégias de DataOps, bem como execução de projetos gerenciados em modelo Ágil. O conhecimento de tecnologias de big data é imprescindível para esse cargo.
+
+É importante que se relacione bem com diferentes equipes - tecnologia e área de negócio principalmente - e que possa apontar oportunidades de melhoria na forma de estruturação dos dados para atingir o objetivo de análise do cliente.
+
+Responsabilidades:
+
+Estruturar e tratar o fluxo de dados para auxiliar o cliente com uma estrutura robusta e acessível;
+Criar e realizar manutenção e melhoria de fluxos e dados de complexidade intermediária (ETL e ELT);
+Colher e tratar as informações para serem usadas e dar continuidade ao projeto, por meio de ligações;
+Implementar ferramenta de tratamento de dados e realizar auditoria de dados;
+Gerir fluxos de dados já existentes, realizando processos manuais para identificar surgimento de possíveis problemas;
+Combinar bases de dados de menor complexidade para endereçar requisitos funcionais e não funcionais do negócio;
+Apoiar o desenvolvimento de engenheiros(as) de outros níveis de responsabilidade, auxiliando no cotidiano ou dando treinamentos em módulos básicos;
+Transformação das camadas raw para gold em cima do Google Cloud - GCP. Em cima do Big Query do GCP para transformação dos dados;
+Interagir com áreas de negócio para validação das entregas e realização de possíveis ajustes;
+Participar de reuniões com equipe e clientes e das cerimônias propostas pela gestão de projetos ágeis.
+
+
+Requisitos:
+
+Experiência com projetos na área financeira (contas a pagar);
+Experiência na função;
+Experiência com SQL, GCP e Alteryx;
+Visão de foco no cliente, habilidade para comunicar ideias de forma clara com as áreas de negócio;
+Ensino Superior completo.
+
+
+Jornada para se tornar Fiver:
+
+Para nos conhecermos e sabermos se poderemos criar soluções incríveis juntos(as), trilhamos um caminho, onde, a cada passo, compartilhamos uma parte de nossa história:
+
+Triagem de currículos;
+Bate-papo com equipe de Gestão Humana;
+Conversa com o cliente (alocação);
+Entrevista Técnica com gestor(a) da área.
+
+
+E agora, qual história você quer contar?
+
+Sobre nós, Fivers:
+
+Acreditamos que os dados são o combustível para a transformação das empresas e das pessoas. Com isso em mente, ajudamos nossos clientes a criar soluções analíticas que os inspiram a realizar transformações organizacionais com impacto direto nos seus modelos de negócio.
+
+Você acredita que ao contar boas histórias com os dados, podemos inspirar pessoas a transformarem o mundo a sua volta e, como consequência, melhorar a vida de outras pessoas? Se a resposta for sim, vamos nos conhecer!
+
+🏳‍🌈 Na Five Acts, valorizamos a diversidade, a equidade e a inclusão. Acreditamos que a diversidade é uma força impulsionadora da inovação e do crescimento. Portanto, não fazemos distinção por questões de gênero, orientação sexual, religião, idade, etnia, ou qualquer outra. Nossas oportunidades são abertas para todas as pessoas!
+
+O que oferecemos:
+
+Vales alimentação/refeição - no cartão de benefícios flexíveis Swile
+Cobertura de até 100% em Plano de Saúde e Odontológico
+Seguro de Vida em grupo
+Trabalho remoto ou híbrido
+Convênio Saúde Mental - psicoterapia online e presencial
+Incentivo a certificações e cursos
+Convênio para cursos de pós-graduação e MBA
+Parceria com escolas de idiomas
+Parceria com academias e estúdios fitness - Gympass
+Palestras e rodas de conversa internas
+Bônus por indicação
+Happy hours
+Mimos em datas comemorativas
+
+
+Confira a nossa Política de Privacidade.
+-----------------------------------------------------------------------------------

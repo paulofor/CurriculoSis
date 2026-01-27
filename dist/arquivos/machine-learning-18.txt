@@ -1,0 +1,308 @@
+[Oportunidade 1]
+Oportunidade: Senior AI Engineer
+
+Sobre a vaga
+Work Schedule
+
+Other
+
+Environmental Conditions
+
+Office
+
+Senior Data Scientist
+
+We are seeking a talented and experienced Senior Data Scientist with a strong background in mathematics, statistics, and programming to join our team. As a Senior Data Scientist, you will play a crucial role in building AI models and applying advanced analytics techniques to derive valuable insights from complex and high-dimensional datasets.
+
+Responsibilities:
+
+Collaborate effectively with cross-functional stakeholders to identify questions and business challenges, and develop plans of action to define, design, and develop machine learning models and algorithms.
+Apply strong mathematical and statistical principles to generate and test hypotheses, analyze and interpret results, and provide insights based on data analysis.
+Navigate large, complex datasets for data mining, profiling, and curation, as well as utilize natural language processing (NLP) techniques.
+Design, develop, and program methods, processes, and software programs to consolidate, cleanse, and analyze unstructured, diverse data sources.
+Develop and evaluate predictive models and algorithms that optimize value extraction from data to support business process improvements and solve challenges.
+Apply generative AI techniques through APIs or custom workflows to enhance data analysis and model development.
+
+Requirements:
+
+Bachelor's degree or equivalent in a relevant field, with a minimum of 5+ years of relevant experience.
+Strong mathematical and statistical background, with expertise in applying these principles to machine learning and AI model development.
+Proficiency in programming languages such as Python, R, or similar, with experience in building AI models and utilizing relevant libraries and frameworks.
+Demonstrated skills in exploratory data analysis techniques, machine learning algorithms, model validation techniques, and data visualization techniques.
+In-depth knowledge of technical areas such as Snowflake, Python, Spark, R, Shiny, Jupyter, and associated packages and libraries (e.g., numpy, pandas, SciPy, OpenAI).
+Familiarity with cloud architectures, including Databricks, lambda functions, Mlflow, SageMaker, TensorFlow, etc.
+Proficiency in data engineering, pipelining and wrangling tools, data visualization and modeling tools, and mathematical approaches to imperfect data.
+Solid understanding of data management approaches, including relational databases, data schemas, object stores, column stores, triple stores, graph stores, and/or document stores.
+Proven ability to deliver accurate work products in a cross-functional matrix environment, managing multiple competing priorities.
+Strong analytical skills and ability to develop detailed analysis, models, plan calculations, and tools.
+Excellent communication skills, with the ability to effectively communicate and influence stakeholders at all levels.
+Demonstrated creativity in identifying non-traditional data sources and applying leading analytic techniques.
+Experience working in the software development lifecycle using data science frameworks like Databricks and MLflow is preferred.
+
+Working Conditions:
+
+This position offers a fully remote work arrangement, allowing you to work from home.
+Travel requirements for this role are rare, but occasional domestic or international travel may be necessary.
+
+If you are passionate about leveraging advanced analytics, strong math, stats, and programming skills, and have experience in applying generative AI techniques, along with a preference for working in the software development lifecycle using data science frameworks like Databricks and MLflow, we would love to hear from you. Join our dynamic team and make a meaningful impact on our organization's success.
+
+Please note that this position does not involve management responsibilities and has a billable percentage of 0% - 20%.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Machine Learning (MLops) - Crédito
+
+Sobre a vaga
+Somos o PAN
+
+Ágeis, flexíveis e criativos, exploramos possibilidades com disposição e desejo de fazer acontecer. Sempre prontos para encarar novos desafios, nutrimos líderes que, além de ter garra, são abertos e empáticos, veem na proximidade das relações, o elo entre cada um.
+
+Nossa missão, se faz cumprida quando transformamos a vida dos outros através dos nossos conhecimentos. Nossos pilares de cultura, reforçam nossa postura idealizadora e com desejo de fazer acontecer:  T rabalho em equipe, O usadia empreendedora e P rotagonismo com profundidade.
+
+Dominamos nossos processos e trazemos melhorias para quem deseja ter uma vida financeira mais inteligente.
+
+Principais desafios:
+
+Criação e manutenção de toda a matéria prima dos modelos de crédito;
+Implantação de modelos na plataforma de MLOps com foco no aumento de rentabilidade;
+Automatização dos processos de modelagem e estratégia de crédito através de scripts e bibliotecas Python;
+Exploração de pipelines de dados;
+Construção de fluxos eficientes de criação dos books;
+Análise e apresentação de ganhos de discriminação de risco de crédito de cada variável. 
+
+Quais as principais competências para a posição?
+
+Ensino Superior em Ciência da Computação; Engenharias, Física ou similares;
+Conhecimento avançado em programação em SQL e Python;
+Vivencia com AWS;
+Experiência com automação de processos e construção de pipelines de dados, especialmente em contexto de mercado financeiro;
+Implantação de modelos. 
+
+Modelo de atuação: Híbrido (4 dias presencial no escritório e 1 dia de home office).
+
+Benefícios do PAN:
+
+Bônus / PLR 🤑
+Vale Refeição 🍔
+Vale Alimentação 🍝
+13º de Vale Alimentação 🤌
+Convênio Médico (internação em apartamento para titular e dependentes) 🏥
+Convênio Odonto/Ortodôntico 😁
+Ambulatório Médico no escritório 🚑
+Telemedicina Dr. Alper (Einstein Conecta) ilimitado. 🩺
+ Seguro de Vida ❤ 
+Descontos em mais de 10 mil farmácias 💊
+4 Sessões de psicoterapia por mês 🤝
+Licença familiar estendida (Responsável 6 meses e corresponsável 30 dias) 👨‍🍼🤱
+Auxílio Creche / Babá 🎒
+AcomPANha (programa de acompanhamento para gestantes) 🫃🤰
+Gympass/Totalpass 💪
+Auxílio tecnologia assistivas (reembolso de 85% para colaboradores com deficiência) 🦻🦽
+Day Off Aniversário 🎉
+Day Off Tempo de Casa 🕛
+Programa de reconhecimento por tempo de casa 🏆
+Programas de desenvolvimento 📚
+Gamificação em certificações e desenvolvimento (BitPANs) 🎫
+Massagem e Auriculoterapia 💆‍♀️💆‍♂️
+Salão de beleza no escritório 💇‍♂️💅
+PAE (Orientação Jurídica, Financeira, Psicológica e Social) 🧑‍🎓
+Serviço Social 🤗
+Portal de descontos em diversos segmentos (Allya) 🤑
+Campanha de vacinação (colaborador e dependente) 💉
+Facilitação no financiamento de veículos 🚗
+Cartão de crédito PAN com limite diferenciado 💳
+Vale Transporte (desconto de apenas 4%) 🚆
+Assistência Funeral 🤍
+
+Assim como todas as nossas vagas, essa também é destinada à diversidade e inclusão. Independentemente de qualquer fator, perfil ou característica, Eleve sua carreira a PAN !
+
+Para conhecer mais sobre nossos benefícios e cultura, acesse o Trabalhe Conosco:
+
+https://www.bancopan.com.br/trabalhe-conosco/
+
+Acesse também nossa página na Glassdoor e veja nossas avaliações:
+
+https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Banco-PAN-EI_IE1184444.13,22.ht
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Machine Learning/Data Science
+
+Sobre a vaga
+Job Summary
+
+HP R&D Brazil is HPs premier research & development organization in Brazil.
+
+The Future Technologies and Experiences Group, which is building next generation experiences for PC users, is seeking an individual to join our team as an AI/ML scientist in our HP Brazil R&D unit. The candidate will research and develop generative AI models and work with other team members and business unit partners to develop proof-of-concept prototypes and help move technologies to product.
+
+HP R&D research scientists are expected to undertake programs which will advance the state of the art and have a significant business impact for HP. The ideal candidate will have the ability to identify key issues and challenges with existing implementations and implement solutions for real-world application. Also, the candidate should be able to collaborate with other scientists, developers, strategists, and product managers on new applications. Strong communication skills are required, and the ability to drive applied research into production is highly valued.
+
+Responsibilities
+
+ Mines data using modern tools and programming languages.
+ Defines and implements models to uncover patterns and predictions creating business value and innovation.
+ Incorporates predictive modeling, statistics and other analysis techniques for collecting, exploring, interpreting and extracting insights from structured and unstructured data.
+ Performs descriptive statistical analysis, develops visualizations, applications, dashboards, or presentations and communicates insights in a clear and effective way to help the organization with better decision-making.
+ Develops algorithms, performs large scale experimentation, builds data driven applications to translate data into intelligence, and develops solutions for solving business problems.
+ Programs methods, processes, and systems to consolidate and analyze diverse big data sources, establishing standard methodologies for data science.
+ Creates, enhances, and maintains technical documentation, and presents to senior scientists, and business leaders.
+ Maintains proficiency within the data science domain by keeping up with technology and trend shifts.
+ Collaborates and communicates with project team regarding project progress and issue resolution, and suggests changes or improvements.
+ Works with project team to understand problem statements, initiatives and directions from business.
+
+Education & Experience Recommended
+
+ Four-year or Graduate Degree in Mathematics, Statistics, Economics, Computer Science, Data Science, or any other related discipline or commensurate work experience or demonstrated competence.
+ Typically has 2-4 years of work experience, preferably in data analytics, statistical modeling, machine learning, or a related field or an advanced degree with little or no work experience.
+
+Preferred Certifications
+
+ Programming Language/s Certification (SQL, Python, or similar)
+
+Knowledge & Skills
+
+ Broad knowledge of machine learning, statistical modeling, or data mining
+ Expertise with building robust systems based on machine learning techniques.
+ Track record of work in Generative AI (LLMs, LVMs, LMMs, LAM, NEURO SYMBOLIC, SAM) development and deployment.
+ Knowledge of cloud deployments on AWS/Azure
+ Experience leveraging models from repositories such as Hugging Face
+ Experience with deep learning frameworks such as Pytorch and Tensorflow.
+ Excellent Software development skills with fast prototyping in Python.
+
+Cross-Org Skills
+
+ Effective Communication
+ Results Orientation
+ Learning Agility
+ Digital Fluency
+ Customer Centricity
+
+Impact & Scope
+
+ Impacts immediate team and acts as an informed team member providing analysis of information and limited project direction input.
+
+Complexity
+
+ Responds to routine issues within established guidelines.
+
+Disclaimer
+
+ This job description describes the general nature and level of work performed in this role. It is not intended to be an exhaustive list of all duties, skills, responsibilities, knowledge, etc. These may be subject to change and additional functions may be assigned as needed by management.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados Sênior | Wallet e Banking
+
+Sobre a vaga
+Sobre o Picpay:
+
+Com mais de dez anos de história, o PicPay é uma empresa de tecnologia que oferece um portfólio completo de serviços financeiros para facilitar a relação com dinheiro e ser a principal conta do dia a dia de milhares de pessoas e empresas.
+
+Atuamos em cinco frentes de negócios: Serviços Financeiros para Pessoa Física, Serviços Financeiros para Pessoa Jurídica, Marketplace Financeiro, PicPay Shopce Investimentos. Fundada em Vitória (ES), a empresa tem mais de 30 milhões de usuários ativos e faz parte do grupo J&F, um dos maiores conglomerados empresariais do Brasil.
+
+Nossa cultura é nosso alicerce e nossa força. Conheça nossos valores: Atitude de Dono(a), Disciplina, Determinação, Disponibilidade, Simplicidade, Humildade e Franqueza.
+
+O respeito, a ética e a busca pela equidade são elementos inegociáveis e fazem parte da prática no nosso dia a dia aqui no PicPay. Por isso, esta vaga está aberta para todas as pessoas, independente de gênero, religião, etnia, deficiência, idade, orientação sexual ou qualquer outro fator.
+
+Conheça mais sobre a unidade de negócio de Serviços Financeiros PF:
+
+Nossa unidade de negócio de Serviços Financeiros para Pessoa Física é responsável pelo ecossistema que vai desde carteira digital, PIX, PicPay Card, até a contratação de seguros. Por aqui, você fará parte da construção e desenvolvimento de produtos e serviços que simplificam a vida de milhões de brasileiros e empresas.
+
+Sobre a vaga:
+
+Estamos em busca de um Engenheiro de Dados Sênior que seja proativo e qualificado para fortalecer nossa equipe de Open Finance. Seu papel será crucial na criação e sustentação de pipelines de dados no Data Lake que auxiliarão a equipe de Analytics e Negócio a gerarem insights valiosos. Além disso, esperamos que você tenha um senso crítico de compreender quais dados são importantes através da comunicação com o time de Produto e Tech, identifique oportunidades de otimização em nossa arquitetura de dados e consiga compartilhar conhecimentos e melhores práticas entre as áreas.
+
+Responsabilidade e atribuições
+
+Realizar extração, limpeza e especialização dos dados com origem de diversas tecnologias;
+Modelagem de tabelas que permita a geração de insights pela equipe de Analytics e servindo como apoio para auxiliar com as melhores práticas;
+Manutenção e sustentação dos pipelines existentes;
+Identificar áreas de melhoria, apoiando a evolução contínua da arquitetura de dados;
+Trabalhar em colaboração com outros times, compartilhando conhecimento e melhores práticas relacionadas a dados;
+Ter senso crítico para identificar melhorias de processos.
+
+Requisitos e qualificações
+
+Proficiência em Spark;
+Experiência com Python, PySpark e SQL;
+Experiência com tecnologias AWS (EMR, S3, Secret Manager e Glue Catalog);
+Experiência com orquestração de pipelines ETL no Airflow;
+Experiência com Databricks;
+Experiência com controle de versionamento com Git;
+Conhecimento em BigData e ferramentas de processamento de alto volume de dados.
+Proficiência em documentação de processos e tabelas;
+Forte preocupação com a qualidade dos dados entregues;
+Abordagem orientada para os negócios e habilidade de antecipar necessidades;
+Comunicação clara e efetiva.
+
+O que oferecemos:
+
+Saúde e Bem-estar: Além de Assistência Médica e Odontológica, oferecemos Seguro de Vida e o Lado a Lado, um programa que cuida de você e seus familiares, com apoio jurídico, social, psicológico e financeiro.
+
+E claro, não podemos esquecer da nossa parceria com a Gympass.
+
+Alimentação/ Mobilidade ou Teletrabalho: Por meio do nosso cartão de crédito PicPay Benefícios, com ampla aceitação, você recebe seu saldo de Alimentação/Refeição e Mobilidade ou Teletrabalho (de acordo com o seu contrato de trabalho).
+
+Licença Paternidade e Maternidade: Sabemos que esse é um momento especial para uma família, e por isso oferecemos Licença Maternidade estendida de 6 meses, e de Paternidade também estendida de 20 dias. Além disso, nossas mamães PicPay Lovers são acompanhadas pelo programa "Novo Ser", durante toda a gestação e no retorno da licença. Falando nisso, ao retornar da licença maternidade, as mamães ainda contam com a ajuda do Auxílio Creche e também os papais que possuem guarda unilateral ou compartilhada.
+
+Reconhecemos resultados: PPR- Participação nos Resultados do PicPay.
+
+#VemserPicpayLover #Picpay
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Engenheira de Machine Learning Pleno | Data & AI | Mais diversidade na Globo!
+
+Sobre a vaga
+Sobre área de atuação:
+Nossa área de Estratégia e Tecnologia é um pilar fundamental dos nossos negócios, sendo responsável pela nossa transformação digital. Aqui criamos soluções tecnológicas sempre idealizando e desenvolvendo técnicas e processos de automação, seja para aprimorar a experiência de trabalho das nossas equipes ou aumentar a capacidade de entrega dos nossos produtos e serviços.
+O Hub Digital faz parte da nossa área de Estratégia e Tecnologia, tendo papel de destaque na nossa transformação em uma empresa media tech e D2C. Aqui cuidamos da gestão de dados e do desenvolvimento dos nossos produtos digitais como Globoplay, Globo.com, família G (G1, Ge, Gshow) e Cartola, visando a melhor experiência de consumo, interação e relacionamento com os nossos usuários.
+A frente de Data & AI desenvolve as plataformas de dados, experimentação, machine learning, recomendação e segmentação de audiência para os produtos digitais da Globo (Globoplay, G1, GE, GShow, etc).
+Essas plataformas são base para entrega de conteúdo para mais de 100 milhões de usuários todo mês. Também são usadas para criação e evolução dos nossos modelos para predição de churn/prospecção/afinidades/anomalias, modelos extração de metadados para publicidade contextual, modelos de inferência de relações, entidades e propriedades em nosso grafo de usuários, modelos otimização de inventário de publicidade, de otimização de cache para distribuição e playback de vídeos, entre outros. Você irá atuar no time de Recomendação na área de Machine Learning, aprimorando os produtos G1, GE e GShow.
+
+Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação.
+Acreditamos na intencionalidade para gerar movimentos transformadores, que reconheçam que diferentes grupos sociais partem de diferentes realidades que precisam ser levadas em consideração e acolhidas pelas pessoas e pelo negócio.
+Equipes representativas trazem inovação inclusiva, nos permitindo criar experiências emocionantes para diferentes tipos de pessoas. Queremos ser cada vez mais o lugar onde todas as pessoas se encontram e, por isso, essa vaga é para você, mulher, pessoa negra, pessoa com deficiência, pessoa LGBTQIAPN+ , qualquer pessoa de grupos minorizados que quer crescer e construir o futuro com a gente, nos bastidores de produtos e serviços que impactam a vida de milhões de brasileiros e brasileiras todos os dias. 
+
+Modelo de trabalho: Híbrido (RJ, SP, POA, Brasília, BH e Recife) ou Remoto (demais regiões do Brasil)
+
+Como será seu dia a dia:
+Atuar na área de plataformas de Data & AI, fazendo parte de uma equipe multidisciplinar;
+Entender as necessidades de Machine Learning junto a cientistas de dados de produtos digitais;
+Propor e implementar ferramentas / frameworks que acelerem o desenvolvimento de workflows de Machine Learning, CI/CD;
+Promover as melhores práticas para infraestrutura e codificação de projetos de dados;
+Fornecer soluções para antever falhas de processos e futuros impactos ao modelo de negócio;
+Acompanhar as evoluções tecnológicas de mercado e adotar as mais adequadas aos modelos de negócio da empresa;
+Impactar positivamente a vida de milhares de pessoas que consomem os conteúdos da Globo diariamente.
+Do que você precisa:
+Experiência com linguagem Python e bibliotecas de Machine Learning (Scikit-learn, Tensorflow, Pandas, Numpy, etc);
+Conhecimento de melhores práticas de desenvolvimento de software e padrões de arquitetura;
+Entendimento das boas práticas de produtização de projetos de dados;
+Conhecer soluções baseadas em cloud (preferencialmente GCP);
+Vivência com ferramentas de versionamento (Git);
+Ensino Superior completo ou em fase de conclusão (Tecnologia e áreas afins);
+CI/CD (preferencialmente GitLab).
+ Conhecimentos que te destacam:
+Experiência com ferramentas de orquestração de containers (Kubernetes);
+Ter trabalhado na construção de plataformas de machine learning;
+Ferramentas de MLOps e bibliotecas (Ex: Kubeflow, MLflow, Vertex AI);
+Vivência com algum catálogo de dados (Amundsen, Data Hub, Google Data Catalog).
+
+Por que vir para Globo:
+Vem e vamos criar histórias e tecnologias juntos.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.
+Aqui, cada um faz a transformação acontecer.
+Nossos processos seletivos estão acontecendo de forma 100% remota e nós encorajamos inscrições de qualquer lugar do Brasil. #vempraglobo
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação. 
+Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes:
+https://www.linkedin.com/company/globo
+https://www.instagram.com/vempraglobo
+https://www.youtube.com/c/VemPraGlobo/
+Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://vempraglobo.g.globo/files/politica_de_privacidade.pdf
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos.
+✨somos globo✨
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação. 
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles. 
+Aqui, cada um faz a transformação acontecer. 
+Quer fazer parte dessa transformação também?
+#VemPraGlobo ;)
+-----------------------------------------------------------------------------------

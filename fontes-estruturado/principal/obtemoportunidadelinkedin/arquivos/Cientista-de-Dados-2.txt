@@ -1,0 +1,280 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Estamos em busca de uma pessoa versátil e apaixonada por dados para atuar como DBA com perfil de Engenheiro de Dados, com vivência em ambientes diversos e disposição para trabalhar com múltiplos bancos de dados (relacionais e NoSQL). Você será peça-chave na evolução da nossa arquitetura de dados, garantindo performance, escalabilidade e disponibilidade dos nossos sistemas.
+ 🎯 Responsabilidades
+  Administrar, monitorar e otimizar bancos de dados relacionais e NoSQL (MySQL, PostgreSQL, MongoDB, Cassandra e Amazon Aurora)
+Planejar e executar estratégias de backup, recuperação e alta disponibilidade
+Desenvolver e manter pipelines de dados para cargas e transformações (ETL/ELT)
+Colaborar com equipes de desenvolvimento e DevOps para definição de boas práticas de modelagem de dados
+Participar da arquitetura de soluções em nuvem (AWS), integrando serviços de dados, segurança e automação
+Garantir governança, consistência e integridade dos dados nas diversas fontes
+Suportar operações críticas com mindset proativo e orientado a performance
+  💡 Requisitos obrigatórios
+  Experiência prática como DBA e/ou Engenheiro de Dados
+Proficiência em MySQL, PostgreSQL e pelo menos um banco NoSQL (como MongoDB ou Cassandra)
+Conhecimento sólido em Amazon Aurora e serviços AWS relacionados a dados (RDS, EC2, S3, Glue, Lambda, etc.)
+Experiência com modelagem de dados relacional e não relacional
+Familiaridade com ferramentas de monitoramento, tunning e automação de banco de dados
+Boas práticas de segurança e compliance em bancos de dados
+Versionamento de scripts com Git e CI/CD para dados
+ 🚀 Diferenciais que valorizamos
+  Certificações AWS (ex: AWS Certified Database Specialty, Solutions Architect) 
+Experiência com ferramentas de ETL/ELT (Airflow, dbt, Glue, etc.)
+Conhecimento em Kafka, Spark, Athena ou Redshift
+Vivência com grandes volumes de dados e ambientes de alta criticidade
+Perfil colaborativo, comunicativo e com sede de aprendizado
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de dados Sênior - 100% Remoto
+
+Sobre a vaga
+Qual o tamanho dos seus objetivos? Deseja novos desafios?
+
+Então, vem para TQI!
+
+A TQI é uma empresa de tecnologia e inovação que há mais de 30 anos, desenvolve soluções para suportar e alavancar os negócios de seus clientes no Brasil e no exterior.
+Com escritórios em Uberlândia (MG) e em São Paulo (SP), e colaboradores em centenas de cidades, a TQI conquistou e mantém há mais de 6 anos o selo Great Place to Work (GPTW), e está no ranking 80+ do GPTW de Tecnologia, reforçando seu compromisso para promover um ambiente diverso e propício para inovação e alta performance.
+
+
+Modelo de trabalho: 100% Remoto
+Modelo de contrato: PJ
+
+O que procuramos: 
+
+Conhecimento avançado em Python;
+Conhecimento Avançado em SQL (tuning de queries e análise de dados);
+Conhecimento em Inteligência Artificial;
+Experiência com GitHub;
+Conhecimento em Terraform;
+Experiência em AWS Redshift e AWS S3;
+Conhecimento em segurança de dados;
+Experiência com ambientes de alta criticidade e volumetria;
+Conhecimento em Jenkins, Kafka e Apache Airflow;
+Experiência com levantamento de requisitos;
+Conhecimento em arquitetura Big Data;
+Conhecimento em construção e otimização de ETL;
+Conhecimento processo de CI/CD;
+Conhecimento em metodologias ágeis;
+Conhecimento em observability e leitura/interpretação de logs;
+Conhecimento em Power BI;
+Experiência com orquestração de containers (ECS, Kubernetes e Docker);
+Conhecimento em Data Quality.
+
+Desejável:
+
+Conhecimento em infraestrutura de rede (TCP/IP, VPC etc.) para atuar em cenários de troca com o time de redes e firewall;
+Conhecimento em pipelines batch e near real time;
+Experiência com AWS (Route53, ECS, SQS, STS, API Gateway, Lambda, IAM, AWS cross-account/region, VPC, CloudFront, SSM, WAF, GuardInspector e CloudWatch).
+
+Principais atividades:
+
+Subir, redimensionar a capacidade e configurar regras de cluster AWS Redshif, gerenciando as configurações do ambiente;
+Desenvolver e realizar a manutenção de scripts Python e Terraform para infraestrutura;
+Desenvolver soluções com grandes volumes de dados;
+Garantir políticas de segurança para acesso aos dados;
+Fomentar a utilização de técnicas de automação para criação, configuração e monitoramento dos ambientes analíticos.
+ 
+O que oferecemos:
+
+Você fará parte de equipes diversas e de alto performance, em um ambiente dinâmico e colaborativo. Valorizamos a contribuição de todos na criação de soluções e nas decisões estratégicas. Aqui, as pessoas são o nosso diferencial, e somos apaixonados por tecnologia, inovação e evolução contínua.
+
+Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+
+O time está te esperando, vamos nessa?
+
+#VempraTQI
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+Pessoa Cientista de Dados SÊNIOR
+
+Local: Remoto
+
+Estamos em busca de uma Pessoa Cientista de Dados SÊNIOR com com ênfase em Generative AI para ingressar em nossa nave e juntos, decolar o foguete que impulsiona pessoas para inovar o mundo.
+
+E antes de apresentar a vaga, queremos te mostrar as razões para ser South System:
+
+As +350 pessoas do nosso time nos elegeram 2 vezes uma das melhores empresas para se trabalhar no país (GPTW) e nos deram 4.9 estrelas no Glassdoor e Indeed;
+Somos Talent Awards pelo LinkedIn;
+Somos Carbon neutral – contribuímos com a compensação das emissões de carbono;
+Estamos operando com oportunidades em home office e também com oportunidades híbridas;
+Contemplamos benefícios variados como.
+Acesso livre a plataforma de cursos Udemy com certificações exclusivas;
+Benefício de home office;
+Benefício de educação financeira;
+Cartão de benefícios flash.
+
+Nosso código de cultura é norteado por atitudes e práticas que fazem parte do nosso dia a dia:
+
+Apoio e incentivo ao crescimento e desenvolvimento das pessoas;
+Respeito, lealdade, colaboração e engajamento fazem parte do nosso DNA, cultivamos um ambiente seguro para todos;
+Somos diversos e acreditamos no poder da inclusão e da diversidade dos times;
+Unimos pessoas e inovação para prover soluções de TI.
+Amamos nosso planeta e queremos fazer dele um lugar melhor para as próximas gerações por isso cultivamos diversas ações de sustentabilidade;
+Mantemos e apoiamos ações sociais.
+
+Agora, vamos falar dessa oportunidade!
+
+Nossos profissionais atuam em projetos alocados em clientes, ou projetos de fábrica, e todos têm acompanhamento das nossas Business Partners, com suporte especializado para que tenham um bom desempenho e progresso de carreira. Nossas Squads são multidisciplinares disponíveis de forma global. Esta oportunidade é para um cliente no segmento financeiro.
+
+As principais atribuições da posição incluem:
+
+Construir chatbots/copilots no Microsoft Copilot Studio integrando Azure 
+OpenAI.
+Desenvolver fluxos de RAG, funções e ferramentas para agentes de IA.
+Expor serviços via REST/gRPC e integrar com sistemas legados.
+Automatizar testes e deploys contínuos em pipelines de MLOps.
+Refinar prompts, embeddings e controles de qualidade/segurança das 
+respostas.
+Colaborar com arquiteto e QA para garantir aderência a requisitos de negócio.
+
+Os requisitos para a vaga incluem:
+
+Bacharelado em Computação, Engenharias ou áreas correlatas; cursos em IA 
+Generativa ou desenvolvimento cloud são diferenciais.
+Forte em Python e JavaScript/TypeScript; experiência com Azure Functions ou 
+Containers Apps.
+Prática em Copilot Studio, LangChain/LlamaIndex, Cognitive Search e Vector 
+Stores (Faiss, Redis, Pinecone).
+Experiência com Git, CI/CD e testes automatizados.
+Certificações diferenciais: Power Platform Developer (PL-400), Azure AI 
+Engineer (AI-102).
+Soft skills: mentalidade maker, colaboração, curiosidade por novas técnicas, 
+atenção a segurança.
+
+Estamos em busca de um profissional proativo, que tenha paixão por tecnologia e que esteja disposto a contribuir para o crescimento e a inovação.
+
+Junte-se a nós e ajude a impulsionar e transformar o mundo!
+
+Experiência e competências desejadas
+MLOps
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de Dados Sênior |Brasil
+
+Sobre a vaga
+Description
+
+Você na Deloitte
+
+Na Deloitte, buscamos pessoas que queiram gerar impactos positivos todos os dias. Impulsionamos talentos para que possam se desenvolver em um ambiente colaborativo, com times diversos e que tragam energia, empoderamento, interação e conexões. O nosso crescimento é exponencial porque os talentos que recrutamos possuem os nossos valores em suas essências. Liderar o caminho, fomentar a inclusão, colaborar para mensurar impactos, servir com integridade e cuidar uns dos outros são pontos essenciais e inegociáveis para fortalecer ainda mais o nosso propósito.
+
+Você terá a oportunidade de evoluir sua carreira na maior empresa de serviços profissionais do mundo como Consultor(a) de Dados no time de AI&DATA, aqui você terá a oportunidade de ser o protagonista de sua carreira, e de gerar impactos e transformações positivas em seu redor. Na sua rotina, você irá:
+
+Atuar em engenharia de dados para projetos de Modernização de Dados em diversas indústrias; Desenvolver e implementar pipeline de dados em diversas ferramentas e repositórios como: Spark/PySpark | Hadoop/Cloud | Talend | Informatica | Alteryx | MongoDB| SQL&PL/SQL |Phyton | CosmosDB| BigQuery |Git entre outras;
+Conectar e integrar sistemas legados com a Nuvem GCP. 
+Automatizar processos de ingestão, transformação e disponibilização de dados.
+Suportar projetos de Ciências de Dados e machine learning em ambiente GCP. 
+Possuir habilidade para trabalhar em multi plataformas e motivação para auto-aperfeiçoamento; Realizar estimativas de esforço de desenvolvimento e report ao gerente de projeto.
+
+Acordamos todos os dias para conectar pessoas, tecnologias e ideias, que vão construir e entregar soluções para os desafios das maiores empresas do Brasil e do planeta.
+
+Acreditamos na força dos talentos que preparamos. Eles transformam de fato, impactam organizações, impulsionam mais talentos e criam oportunidades. Que tal fazer parte da maior organização de serviços profissionais do mundo?
+
+Faz toda diferença contar com quem pode fazer dos sonhos, realidade.
+
+Escolha seu impacto!
+
+Requirements
+
+O que precisa para você se candidatar a vaga?
+
+Ter no mínimo curso superior completo da área de Exatas e afins;
+Inglês intermediário;
+Experiência em dados de forma quantitativa, manipulação de dados, modelagem de dados, Entender os conceitos de dados relacionais/não estruturados;
+Experiência em GCP (BiqQuery, Cloud Storage, Dataflow, Pub/Sub, etc);
+Familiaridade com as ferramentas de orquestração (Airflow/Cloud Composer);
+Experiências com integração de API´s, bancos relacionais e sistemas ERP.
+
+Será um diferencial se tiver:
+
+Experiência no setor elétrico;
+Conhecimento em DevOps (CI/CD).
+
+Benefits
+
+O que estará disponível para você?
+
+Desenvolvimento profissional 
+
+É claro que cuidaríamos do seu desenvolvimento aqui na Deloitte! Queremos que você alcance seus objetivos profissionais e pessoais e, por isso, contamos com Universidade Corporativa, acesso a plataformas online de aprendizado, plataforma de idiomas com mais de 7.500 conteúdos e cerca de 60 cursos divididos por nível, área de atuação, habilidades profissionais e interesses, e até uma plataforma que reúne diversas instituições de ensino, fornecendo descontos exclusivos para profissionais Deloitte e seus dependentes. 
+
+Além disso, oferecemos um plano de carreira estruturado, com mentoria de profissionais da Deloitte por meio de um(a) coach, que poderá ouvir seus desafios e apoiar para que consiga evoluir tanto com habilidades técnicas, quanto com habilidades comportamentais com base na própria experiência. É ótimo ter uma pessoa mentora, não é mesmo?
+
+Cuidados com o seu bem-estar 
+
+Aqui na Deloitte, acreditamos que saúde e bem-estar não são apenas projetos, e sim uma mudança de cultura. Queremos que você coloque em prática todo o seu talento e desenvolva uma carreira de sucesso com a gente, com equilíbrio entre Mente, Corpo e Propósito. Para isso, contamos com mais de 30 benefícios, como:
+
+Serviço de telemedicina para que você consiga fazer uma pré-avaliação sem precisar sair de casa! 
+Family Strategy: programa destinados à profissionais gestantes e futuros papais que terão todo apoio possível neste momento tão especial 
+Gympass para colocar os exercícios físicos em dia 
+Dia de folga no mês do seu aniversário, para celebrar uma das pessoas mais importantes de sua vida 
+Canal de apoio psicológico e Serviço Social 
+
+(Mais) Benefícios 
+
+Assistência médica e odontológica! Para que você faça check-ups e cuide de você, em primeiro lugar* 
+Participação nos lucros. Afinal, sem os nossos talentos, não poderíamos crescer exponencialmente 
+Auxílio-internet, para apoiar no trabalho em modelo híbrido 
+Seguro de vida* 
+Vale refeição / alimentação* 
+Pacote de benefícios flexíveis: você receberá pontos e poderá distribui-los entre as opções que melhor se adequam às suas necessidades de acordo com as regras do programa.
+
+Oportunidade de fazer parte de uma cultura inclusiva 
+
+Você pode ser quem realmente é com oportunidade igual de crescimento. Para reforçar esse compromisso, desenvolvemos a estratégia global ALL IN com os 8 pilares – Origens, Jovem Aprendiz, STEM, Delas, LGBT+, Inclui, No Borders e Geração 50+. Destacamos que todas as nossas vagas estão abertas ao público PcD.  
+
+Esperamos você neste time! 
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: 083c Cientista de Dados III
+
+Sobre a vaga
+A Extreme Digital Solutions é uma empresa jovem, fundada em 2014, antenada nas mais modernas tendências e tecnologias.
+
+Temos como missão tornar negócios mais simples e eficientes, e, na nossa essência, a busca e integração de soluções para as mais complexas e diversas necessidades dos negócios de nossos clientes.
+
+Ao longo desse tempo atingimos a marca de 1000 colaboradores no Brasil e temos na bagagem centenas de projetos desafiadores, com uso intenso de inteligência artificial, e uma visão sempre cuidadosa com a experiência do usuário e sucesso do cliente.
+
+Um papel na EDS é uma oportunidade para fazer parte de algo diferenciado. Somos uma empresa que não tem medo de assumir riscos e inovar. Sim, somos aventureiros e gostamos disso!
+
+Nosso time de talentos tem espaço para você que quer crescer e entregar resultados surpreendentes!
+
+O que você fará?
+
+Desenvolver e implementar modelos preditivos e algoritmos de aprendizado de máquina;
+Analisar grandes conjuntos de dados para identificar padrões e tendências;
+Colaborar com a equipe de vendas para entender as necessidades do cliente e desenvolver/apresentar soluções por meio de PoCs;
+Contribuir com equipes interdisciplinares para entender as necessidades de negócios e traduzi-las em soluções de dados;
+Solucionar problemas complexos de forma eficaz e proativa;
+Manter-se atualizado com as melhores práticas e tendências tecnológicas.
+
+Qual bagagem você deve trazer?
+
+ Formação em Ciência de Dados, Estatística, Matemática ou área relacionada;
+ Experiência com ferramentas e linguagens de programação, como Python, R e SQL;
+ Habilidades sólidas em modelagem estatística e machine learning;
+ Excelentes habilidades de comunicação e capacidade de apresentar resultados de forma clara e compreensível;
+ Inglês técnico;
+ Habilidades interpessoais de escrita e de comunicação verbal;
+ Capacidade de trabalhar em equipe.
+
+Experiências que realmente nos encantam
+
+ Pós-graduação em Ciência de Dados, Estatística, Matemática ou área relacionada;
+ Experiência com as plataformas de AutoML;
+ Experiência com pré-venda relacionadas com ciência de dados.
+ Experiência com Large Language Models (LLM ) / RAG / Agentes
+
+About The Company
+
+Simplificamos o mundo com tecnologia e inovação, tornando organizações mais simples e eficientes.
+
+Venha fazer parte desse time comprometido com tornar a experiência dos clientes e usuários cada vez melhor!
+
+#venhaserumExtremer
+-----------------------------------------------------------------------------------

@@ -1,0 +1,299 @@
+[Oportunidade 1]
+Oportunidade: Arquiteto de IA
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenhar arquiteturas robustas para soluções baseadas em IA Generativa, incluindo fluxos de dados, APIs, integrações com sistemas legados e infraestrutura (cloud, on-premise, híbrida).
+Selecionar tecnologias e frameworks de ponta (LLMs, LangChain, CrewAI, etc.), considerando performance, custo (FINOPS), escalabilidade e aderência ao negócio.
+Definir e disseminar boas práticas, padrões de arquitetura (ex: DDD, arquitetura hexagonal) e governança de IA, com foco em segurança, privacidade, ética e conformidade.
+Liderar tecnicamente times multidisciplinares, conectando áreas técnicas e de negócio para garantir o alinhamento e a entrega de valor.
+Conduzir PoCs e protótipos, testando novas abordagens e comprovando sua viabilidade técnica e estratégica.
+Planejar infraestrutura ideal para treinamentos e inferência de modelos complexos (ex: LLMs), otimizando custos e desempenho em ambientes cloud-first.
+Atuar estrategicamente, mapeando oportunidades de aplicação da IA Generativa e contribuindo para a definição de roadmaps tecnológicos.
+Projetar arquiteturas para sistemas multiagentes (SMA) com múltiplos agentes colaborativos, utilizando frameworks modernos e topologias adequadas a cada desafio.
+Garantir governança e rastreabilidade, promovendo a atuação ética, segura e transparente de agentes autônomos e modelos generativos.
+
+Qualificações Essenciais
+
++7 anos de experiência em arquitetura de software, engenharia de dados ou desenvolvimento de soluções complexas em ambientes de alta escala.
+Sólido conhecimento de arquitetura moderna: microsserviços, APIs, eventos, DDD e design patterns.
+Experiência com ambientes em nuvem (AWS, Azure ou GCP), especialmente com serviços voltados para IA/ML e Big Data.
+Domínio de pelo menos uma linguagem como Python, Java ou C#.
+Experiência com práticas de DevOps/MLOps e ferramentas de modelagem (como UML).
+Familiaridade com fundamentos de ML, Deep Learning e IA Generativa.
+Conhecimento prático em sistemas multiagentes, comunicação entre agentes e uso de frameworks como LangChain, AutoGen, CrewAI, entre outros.
+Entendimento de princípios de governança em IA: rastreabilidade, explainability, compliance e segurança.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Aplicações LLM
+
+Sobre a vaga
+No Seu Dia a Dia
+
+Auxiliar no desenvolvimento e manutenção de aplicações e APIs que utilizam Large Language Models (LLMs).
+Apoiar na integração de LLMs com sistemas de recuperação de informações (RAG) e processamento de documentos (OCR).
+Colaborar com o time de tecnologia e produto para entregar soluções inovadoras.
+Aprender e aplicar as melhores práticas para o desenvolvimento de sistemas inteligentes.
+Contribuir com idéias para novas iniciativas e maneiras criativas de uso de IA generativa.
+
+Esperamos De Você
+
+Disponibilidade para vir 3x presencialmente no escritório da Faria Lima/SP.
+Graduação completa em Ciência da Computação, Engenharia da Computação, Sistemas de Informação, ou área correlata.
+Conhecimento em Python.
+Experiência acadêmica, pessoal ou profissional com desenvolvimento de APIs (por exemplo, usando FastAPI, Flask ou Django).
+Conhecimentos em IA generativa 
+Noções em bancos de dados relacionais (ex: PostgreSQL).
+Interesse em aprendizado continuo.
+
+Diferenciais
+
+Conhecimento em TypeScript ou Node.js.
+Experiência ou cursos com AWS.
+Familiaridade com LLMs (OpenAI, Hugging Face) ou ferramentas de IA generativa.
+Noções sobre retrieval-augmented generation (RAG) ou participação em projetos acadêmicos de pesquisa em IA.
+Conhecimentos básicos em integração de dados, embeddings vetoriais ou LangChain.
+Conhecimento em CursorIA e Copilot GIthub
+
+Tecnologias que você irá usar por aqui
+
+Python (FastAPI/Flask)
+REST APIs
+PostgreSQL
+LLMs (OpenAI, Hugging Face)
+TypeScript/Node.js (diferencial)
+AWS (diferencial)
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro IA - Florianópolis/SC
+
+Sobre a vaga
+Description
+
+Sobre a Alvarez & Marsal
+
+Alvarez & Marsal (A&M) é uma consultoria global com mais de 10.000 profissionais empreendedores, orientados para a ação e resultados, em mais de 40 países. Adotamos uma abordagem prática para resolver os problemas de nossos clientes e ajudá-los a atingir seu pleno potencial. Nossa cultura celebra pensadores independentes e realizadores que impactam positivamente nossos clientes e moldam nossa indústria. O ambiente colaborativo e o trabalho envolvente—guiados pelos valores centrais da A&M de Integridade, Qualidade, Objetividade, Diversão, Recompensa Pessoal e Diversidade Inclusiva—são as razões pelas quais nossos colaboradores adoram trabalhar na A&M.
+
+A Equipe
+
+A A&M Infra se dedica a todos os aspectos do ciclo de vida de projetos de capital intensivo, incluindo grandes empreendimentos nas áreas de Mineração, Portos, O&G, Aeroportos, Siderurgia, Ferrovias, Papel & Celulose, Rodovias, Energia, Telecom, Saneamento e Real Estate. Nossa atuação abrange desde a estruturação de projetos e processos de M&A relacionados a ativos de infraestrutura até todas as etapas de desenvolvimento e implementação, além da gestão dos ativos.
+
+Para essa posição, estamos atuando desenvolvendo soluções de inteligência artificial orientadas ao setor de infraestrutura, que elevam a eficiência operacional e aprimoram a tomada de decisão ao longo de todo o ciclo de vida dos projetos e dos ativos resultantes.
+
+Como você irá contribuir
+
+Projetar, treinar, avaliar e colocar em produção modelos de ML/IA end-to-end.
+Desenvolver pipelines de dados e ML (pré-processamento, feature engineering, inferência).
+Integrar modelos via APIs ou microsserviços em aplicações web/mobile, em parceria com equipe de Front-end UX/UI.
+Explorar e otimizar LLMs utilizando técnicas como fine-tuning, RAG e banco de dados vetoriais.
+Monitorar desempenho, acurácia e drift de modelos, acionando retraining quando necessário.
+Trabalhar próximo a MLOps para garantir CI/CD, observabilidade e escalabilidade em nuvem.
+
+
+Qualificações
+
+Sólida experiência em Python e bibliotecas de ML.
+Experiência prática com NLP ou LLMs (Transformers, Hugging Face, LangChain/LlamaIndex).
+Vivência no ciclo completo de projetos de IA: descoberta do problema → protótipo → produção.
+Familiaridade com serviços de IA em nuvem (Azure AI, AWS SageMaker, GCP Vertex AI ou equivalentes).
+Conhecimentos de Docker, Git e CI/CD para model serving.
+Boas práticas de engenharia de software (testes, code review, documentação).
+Disponibilidade para atuar 3 dias no formato presencial em nosso escritório em Florianópolis/SC.
+
+
+Diferenciais
+
+Experiência em pipelines RAG e frameworks agênticos.
+Certificações de ML/AI na nuvem (AWS ML Specialty, GCP ML Engineer, AZ-305).
+Participação ou contribuições em projetos open-source de IA.
+
+
+Sua jornada na A&M
+
+Reconhecemos que nossos colaboradores são a força motriz por trás do nosso sucesso, e é por isso que priorizamos uma experiência que favorece o desenvolvimento profissional e pessoal único de cada pessoa. Nosso robusto processo de desenvolvimento de desempenho promove o aprendizado contínuo, recompensa suas contribuições e cultiva uma cultura de meritocracia. Com treinamentos de alta qualidade e oportunidades de aprendizado prático, você pode adquirir novas habilidades e avançar em sua carreira.
+
+Priorizamos o seu bem-estar, oferecendo benefícios e recursos para apoiar sua jornada pessoal. Nossos colaboradores destacam constantemente as oportunidades de crescimento, nossa cultura empreendedora única e a diversão que vivenciamos juntos como os aspectos favoritos de trabalhar na A&M. As possibilidades são infinitas para profissionais de alto desempenho e paixão.
+
+Diversidade & Inclusão
+
+Diversidade Inclusiva significa que abraçamos a diversidade e promovemos a inclusão, incentivando todos a trazerem seu \eu\ completo para o trabalho a cada dia. Isso permeia a maneira como recrutamos, desenvolvemos os colaboradores, conduzimos os negócios, apoiamos os clientes e fazemos parcerias com fornecedores. É a forma A&M de ser.
+
+Empregador de Oportunidades Iguais
+
+É prática da Alvarez & Marsal fornecer e promover oportunidades iguais em emprego, compensação e outras condições de trabalho, sem discriminação por raça, cor, credo, religião, origem nacional, ascendência, status de cidadania, sexo ou gênero, identidade de gênero ou expressão de gênero (incluindo status de pessoa transgênero), orientação sexual, estado civil, serviço militar e status de veterano, deficiência física ou mental, histórico médico familiar, informações genéticas ou qualquer outra condição médica protegida, afiliação política ou qualquer outra característica protegida por e em conformidade com as leis aplicáveis. Colaboradores e Candidatos podem encontrar as declarações de política da A&M e informações adicionais por região aqui.
+
+Currículos Não Solicitados de Recrutadores de Terceiros
+
+Informamos que, conforme a política da A&M, não aceitamos currículos não solicitados de recrutadores de terceiros, a menos que esses recrutadores sejam contratados para fornecer candidatos para uma vaga específica e em alinhamento com nossos valores de Diversidade Inclusiva. Qualquer agência de emprego, pessoa ou entidade que envie um currículo não solicitado o faz com o entendimento de que a A&M terá o direito de contratar esse candidato a seu critério, sem que haja qualquer taxa devida à agência de emprego, pessoa ou entidade que tenha enviado o currículo.
+
+Inclusive Diversity
+
+A&M’s entrepreneurial culture celebrates independent thinkers and doers who can positively impact our clients and shape our industry. The collaborative environment and engaging work—guided by A&M’s core values of Integrity, Quality, Objectivity, Fun, Personal Reward, and Inclusive Diversity—are the main reasons our people love working at A&M. Inclusive Diversity means we embrace diversity, and we foster inclusiveness, encouraging everyone to bring their whole self to work each day. It runs through how we recruit, develop employees, conduct business, support clients, and partner with vendors. It is the A&M way.
+
+Equal Opportunity Employer
+
+It is Alvarez & Marsal’s practice to provide and promote equal opportunity in employment, compensation, and other terms and conditions of employment without discrimination because of race, color, creed, religion, national origin, ancestry, citizenship status, sex or gender, gender identity or gender expression (including transgender status), sexual orientation, marital status, military service and veteran status, physical or mental disability, family medical history, genetic information or other protected medical condition, political affiliation, or any other characteristic protected by and in accordance with applicable laws. Employees and Applicants can find A&M policy statements and additional information by region here.
+
+Unsolicited Resumes from Third-Party Recruiters
+
+Please note that as per A&M policy, we do not accept unsolicited resumes from third-party recruiters unless such recruiters are engaged to provide candidates for a specified opening. Any employment agency, person or entity that submits an unsolicited resume does so with the understanding that A&M will have the right to hire that applicant at its discretion without any fee owed to the submitting employment agency, person or entity.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Machine Learning Engineer III (Diretoria de Dados)
+
+Sobre a vaga
+Job Description
+
+Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.
+
+Responsibilities and assignments
+
+A pessoa Engenheira de Machine Learning que ocupará essa vaga atuará com o tema de saúde de portfólio do Grupo Boticário. Temos uma cultura dinâmica em que mudanças acontecem e continuarão acontecendo, e por isso é importante que a pessoa se sinta confortável em um ambiente em constante transformação, atuando em demandas com pessoas dos mais diferentes perfis e níveis de senioridade.
+
+Entre suas principais responsabilidades estão:
+
+
+Desenvolvimento do processo de MLOps, atuando na construção de pipelines de Machine Learning de ponta a ponta, incluindo preparação de dados, otimização de código, automatização de rotinas de treino e predict de modelos, e monitoramento de métricas;
+Desenvolvimento de arquiteturas para soluções de Machine Learning;
+Preparação de dados não estruturados para estruturados;
+Desenvolvimento de pilotos junto à área para prototipação de conceitos;
+Desenvolvimento de engenharia de features;
+Exploração de dados/data mining.
+
+
+Requirements And Qualifications
+
+
+Conhecimentos sólidos em Programação e Machine Learning (modelagem supervisionada e não supervisionada);
+Fluente em Python e SQL;
+Sólidos conhecimentos do ciclo de vida de modelos de machine learning, além de experiência com arquiteturas e workflows de desenvolvimento de soluções de machine learning em batch;
+Conhecimento desejável em soluções de streaming e em real-time;
+Experiência profissional com serviços de cloud, bem como com o uso de contêineres/Docker;
+Construção de pipelines de CI/CD e de pipelines de dados/ML com ferramentas de mercado (ex.: Airflow, Kubeflow, Vertex AI), bem como conhecimento na criação de APIs;
+Conhecimento desejável em frameworks de processamento de dados distribuídos, como Apache Spark e Apache Beam;
+Formação ou conhecimentos nas áreas de machine learning, big data ou sistemas computacionais;
+Facilidade para aprender novas ferramentas e tecnologias e conforto em desenvolver novas maneiras de resolver problemas por meio de machine learning.
+
+
+Additional information
+
+NOSSOS BENEFÍCIOS
+
+Já falamos que o Grupo Boticário é o melhor e maior ecossistema de beleza, né?
+
+E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios* que permite uma vida mais equilibrada e completa:
+
+
+Aqui, sua Saúde é prioridade
+ Plano médico e odontológico
+ Auxílio medicamentos
+ Vale saúde para familiares
+ Sessões de psicoterapia gratuitas
+ Telemedicina e 2ª opinião médica
+ Vacina da gripe e HPV gratuitas
+ Programas de cuidado com a saúde
+Para cuidar da sua Alimentação
+ Vale refeição ou restaurante local (conforme modelo de trabalho)
+ Vale alimentação
+ Vale alimentação de Natal
+Garantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vida
+ Plano de academias e estúdios de atividade física
+ Auxílio home office (modelos de trabalho híbrido e remoto)
+ Plano de saúde para pets
+ Day off de aniversário
+ Desconto de até 40% em nossos produtos
+ Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+ Programa de viagens e hospedagens
+Para a Família, nosso bem mais precioso
+ Auxílio educação infantil
+ Crédito nutrição infantil
+ Auxílio babá
+ Auxílio material escolar
+ Orientação jurídica, psicológica e social
+ Apoio para pais atípicos
+ Licença parental estendida (180 dias para mães e 120 dias para pais)
+Mobilidade para sua jornada presencial
+ Vale Transporte e Estacionamento (modelos híbrido e presencial)
+Seguridade para proteção e tranquilidade financeira
+ Seguro de Vida
+ Apoio ao falecimento de pais
+ Previdência Privada
+ Empréstimos consignados
+Os pacotes de benefícios são configurados conforme regras de elegibilidade.
+
+
+Grupo Boticário
+
+De uma pequena farmácia de manipulação a maior franquia de cosméticos do planeta.
+
+Somos um Grupo com 15 marcas que está presente em mais de 40 países, com mais de 4.000 lojas físicas, líder de e-commerce de beleza no Brasil e mais de 19.000 colaboradores diretos.
+
+Temos um ecossistema próprio de beleza, que vai da indústria ao ponto de venda, da logística ao varejo, do laboratório ao coração das consumidoras e das nossas inovações até a palma da sua mão.
+
+Acreditamos que o futuro mais bonito é aquele que construímos juntos, por isso, até 2030 temos compromissos ambiciosos voltados para o impacto positivo em dimensões humanas, ambientais e em nossos processos produtivos.
+
+Reinventamos a beleza por meio da tecnologia, inovação diversidade e sustentabilidade com: O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuarmos com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers.
+
+Vem fazer beleza com a gente!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Data Engineer
+
+Sobre a vaga
+A Infosys Brasil está buscando profissionais com o perfil de Data Engineer (Trainee).
+
+ Principais atividades e responsabilidades 
+Habilidades analíticas e de resolução de problemas.
+Familiaridade com plataformas de nuvem (por exemplo, AWS, GCP, Azure)
+Noções básicas de pipelines de dados ou processos ETL
+Experiência com Git ou outras ferramentas de controle de versão
+Interesse em trabalhar em equipes multidisciplinares e diversificadas
+
+ Qualificações necessárias 
+Matriculado em Engenharia da Computação, Ciência da Computação ou programa de graduação relacionado.
+Conhecimento profundo em banco de dados SQL.
+Inglês avançado.
+
+ Benefícios 
+
+Tipo de trabalho : CLT , Horários flexíveis e formato híbrido (presencial e remoto).
+Pacote de benefícios: Vale Transporte, Ticket Refeição, Assistência médica-hospitalar e Odontológico, Auxílio Creche, Auxílio Dependente (filho PCD) , Seguro de Vida, Auxílio Funerário e PLR.
+Carreira: Atuação Global em clientes e/ou projetos nacionais e internacionais, e possibilidade de movimentação de carreira internacional.
+Desenvolvimento: Infosys Global Education Center é a maior universidade corporativa do mundo, disponibilizamos mais de 80 mil títulos de treinamentos internos, além dos cursos e certificações com parceiros homologados (Microsoft, Google, Amazon e SAP), sem custos para todos os nossos profissionais.
+
+About Us
+
+Infosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.
+
+Infosys provides equal employment opportunities to applicants and employees without regard to race; color; sex; gender identity; sexual orientation; religious practices and observances; national origin; pregnancy, childbirth, or related medical conditions; status as a protected veteran or spouse/family member of a protected veteran; or disability.
+-----------------------------------------------------------------------------------

@@ -1,0 +1,235 @@
+[Oportunidade 1]
+Oportunidade: Cientista de Dados Sênior (Desenvolvedor Backend)
+
+Sobre a vaga
+A Minerva Foods é líder na exportação de carne bovina na América do Sul e atua no segmento de carnes processadas, comercializando seus produtos em mais de 100 países. Além do Brasil, a Minerva Foods está presente na Argentina, Colômbia, Paraguai, Uruguai e possui plantas especializadas em ovinos na Austrália e Chile.
+A área de Business Analytics tem como propósito resolver problemas de negócio complexos. Em outras palavras, a equipe de Business Analytics utiliza técnicas de estatística, algoritmos, métodos estocásticos e de otimização para modelar dados internos e externos para gerar informações valiosas que possam conduzir ações de melhoria de negócios.
+Estamos em busca de um candidato que traga um pensamento estruturado, um viés para a ação (hands-on), experiência em projetos de software, habilidades de comunicação e um espírito de colaboração.
+
+Responsabilidades e atribuições: 
+Atuar no planejamento/execução de projetos end to end passando pelos passos: entendimento de negócio, identificação da decisão a ser otimizada e dados necessários, modelagem e tratamento dos dados, implementação backend e integração dados com o modelo, testes e validação, e aplicação/suporte na área de negócio;
+Desenvolver e manter sistemas escaláveis, focando em backend e integração com fontes de dados diversas, garantindo qualidade, alta performance e eficiência;
+Implementar APIs e microsserviços robustos, garantindo sua integração com outros sistemas;
+Colaborar com equipes multifuncionais, apoiando no design técnico e na resolução de problemas, estabelecendo boas práticas em projetos de otimizadores;
+Propor melhorias contínuas nos sistemas, buscando inovações e melhores práticas em desenvolvimento;
+Resolver incidentes e atuar na análise de causa raiz para evitar recorrências;
+Criar e manter documentação técnica das soluções implementadas.
+
+Requisitos e qualificações
+Pré-requisitos
+Proficiência na linguagem Python (pandas e numpy);
+Experiência com bancos de dados relacionais (preferencialmente SQL Server);
+Conhecimento em orquestração de containers Docker;
+Experiência com o desenvolvimento de API’s REST em Python (Flask, Django, FastAPI etc);
+Conhecimento em aplicações web, integrações, APIs e webservices e suas tecnologias tais como Apache, IIS, NGINX, protocolo HTTP/HTTPS, etc;
+Experiência com tecnologias em nuvem (preferencialmente AWS) e on-premises;
+Conhecimento de redes, segurança e protocolos de comunicação;
+Proficiência com ferramentas de versionamento;
+Superior completo em Ciências da Computação e/ou áreas correlatas;
+Experiência de no mínimo 3 anos atuando em projetos aplicados a casos reais;
+Disponibilidade para viagens as operações e escritórios da Minerva para mapeamentos de oportunidades, entendimentos de processos, validações e suporte ao cliente.
+
+Diferenciais:
+Experiência com streamlit ou typescript;
+Conhecimento de tópicos em pesquisa operacional tais como heurísticas/metaheurísticas, programação linear/inteira/mista;
+Conhecimento de solvers de otimização (Gurobi, CPLEX, GLPK etc);
+Mestrado ou Doutorado será um diferencial;
+Familiaridade com metodologias ágeis e cultura DevOps;
+Experiência com scripting (bash, PowerShell);
+Experiência com relacionamento técnico com clientes/usuários;
+Experiência com monitoramento e observabilidade (Prometheus, Grafana, entre outros).
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Especialista Cientista de Dados II
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+O DataLab é a unidade de pesquisa e inovação do grupo Experian na América Latina junto com a Serasa Experian no Brasil. Temos o objetivo de ser propositivo, antecipando o futuro, e consultivo, identificando oportunidades de evolução no mercado, por meio de técnicas de Inteligência Artificial e Machine Learning combinada com uso de novas fontes de dados.
+
+Criamos soluções inovadoras avançadas, que ajudam clientes e mercado a se prepararem hoje para o amanhã de decisões mais assertivas. Além de termos um olhar 360º para trocar com o que há de melhor no âmbito global, considerando o todo e produzindo soluções capazes de alcançar grande escalabilidade.
+
+Como Especialista em Ciência de Dados, você terá um papel central no time, utilizando sua experiência e conhecimentos em programação, tratamento e análise de dados, modelagem e machine learning para compreender e resolver complexos problemas de negócios. Você será responsável pela liderança técnica de uma equipe de cientistas de dados assim como pela interação da equipe com os times de engenharia e negócios.
+
+Suas Responsabilidades
+
+Desenvolver e implementar análises de dados avançadas e modelos de Machine Learning;
+Manipular eficientemente grandes volumes de dados;
+Colaborar com times de Engenharia de Dados, Produtos e de Negócios para entender as necessidades e sugerir soluções orientadas a dados;
+Explorar continuamente novas fontes de dados e técnicas de análise com foco em melhoria contínua de modelos;
+Apresentar os resultados e recomendações para stakeholders e times executivos;
+Se manter atualizado com as tendências em Ciência de Dados e indústrias correlatas;
+Desenhar roadmaps de desenvolvimento de produtos data-driven em concordância com as necessidades de negócio;
+Orientar tecnicamente os demais integrantes do time Manter-se atualizado com as últimas pesquisas e avanços em GenAI.
+
+Qualifications
+
+O que estamos buscando em você?
+
+Bacharelado em Ciência de Dados, Estatística, Ciências da Computação ou cursos relacionados;
+Experiência em modelagem estatística nos setores de crédito e seguros será considerado um diferencial;
+Sólidos conhecimentos em Python, principalmente em manipulação de dados, bibliotecas de análise (ex. Pandas, Numpy) e frameworks de Machine Learning (ex. scikit-learn, TensorFlow);
+Experiência na manipulação de grandes bases de dados, em especial armazenadas em ambiente Hadoop (HDFS), processamento distribuído de dados (PySpark) e linguagem SQL;
+Experiência em desenvolver e implantar modelos de Machine Learning, com bons conhecimentos em validação, tuning e monitoramento de modelos;
+Habilidade para o entendimento e a resolução de problemas de negócios de forma versátil e ágil;
+Habilidade de comunicação com pares, áreas parceiras e executivos, incluindo apresentações e tradução de insights em ações de negócios;
+Colaboração e trabalho em equipe;
+Aprendizado constante;
+Inglês avançado;
+Disponibilidade para atuação híbrida em São Paulo/SP.
+
+Desejável: pós-graduação ou mestrado em alguma das áreas correlatas.
+
+Additional Information
+
+Na Serasa Experian, acreditamos que a diversidade é fundamental para um ambiente de trabalho mais saudável e inovador, onde todas as pessoas possam trocar experiências e expressar suas ideias. Por isso, contamos com diversas ações para promover um recrutamento inclusivo e apoiar no desenvolvimento profissional das nossas pessoas. Além disso, temos os nossos grupos de afinidade, criados para empoderar e acolher as pessoas de grupos sub-representados:ExperianPride (comunidade LGBTQIAPN+), Ubuntu (equidade racial), Women in Experian (equidade de gênero) e Aspire (pessoas com deficiência) e Connecting Generations (gerações). Venha fazer parte dessa transformação!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Pleno
+
+Sobre a vaga
+Engenheiro de Dados Pleno
+Conhecimento
+Atuar em engenharia de dados para projetos de Modernização de Dados em diversas indústrias;
+Desenvolver e implementar pipeline de dados em diversas ferramentas e repositórios
+Engajar e cooperar com equipes multifuncionais no modelo Agile, participando das cerimônias e alguns artefatos que competem ao seu trabalho, quando necessário;
+Realizar Modelagem de dados relacionais e não-relacionais;
+Realizar coleta de requisitos, documentação técnica, estimativas de esforço de desenvolvimento e 
+report ao gerente de projeto.
+Experiência:
+Noção de dados de forma quantitativa, manipulação de dados, modelagem de dados,
+Entender os conceitos de dados relacionais/não estruturados
+Experiência em pipeline de dados em diversas ferramentas e repositórios como: 
+Spark/PySpark | Hadoop/Cloud | Databricks| Snowflake | Azure | AWS | GCP | DataFactory | Glue | Dataflow | Synapse | BigQuery | Redshift | Informatica | MongoDB| SQL&PL/SQL |Phyton | Git entre outras| Linux, entre outras;
+Desejável:
+Conhecimento em arquitetura de dados cloud tendo atuado preferencialmente em Azure.
+
+Formação acadêmica:
+Graduação completa em cursos de Exatas
+Mandatório: Inglês Intermediário/ Avançado
+
+Contratação : CLT Full + Benefícios: VR/VA, Assistência Médica, PLR, Previdência Privada.
+Atendimento Híbrido em Recife - PE.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Cientista de dados sênior
+
+Sobre a vaga
+Requisitos:
+• Conhecimentos avançados em Modelagem de Dados, Estatística, SQL e Python
+• Graduação completa em Engenharia, Estatística, Matemática, Análise de Sistemas ou áreas correlatas com experiência em projetos de Ciência de Dados e/ou Machine Learning
+• Experiência com AWS (Glue, S3, SageMaker, Lambda, entre outros);
+• Experiência em manipulação de dados e modelagem estatística (Python, SQL, Python);
+• Experiência sólida em ciência de dados;
+• Experiência com metodologias ágeis;
+• Pensamento analítico e habilidades para resolver problemas complexos relacionados a dados;
+• Experiência comprovada como Cientista de Dados
+• Boa capacidade de comunicação e trabalho em equipe;
+
+Desejáveis:
+Experiência com pipelines de dados e automações, GCP, AWS e projetos de Recomendação de Produtos
+
+Responsabilidades principais:
+• Realizar análises exploratórias para identificar padrões e tendências que informem decisões estratégicas.
+• Desenvolver e implementar modelos preditivos.
+• Realizar testes e validações regulares dos modelos de demanda, ajustando-os conforme necessário para melhorar a precisão das previsões.
+• Identificar oportunidades de melhoria nos processos de análise e modelagem, propondo novas abordagens e tecnologias.
+• Orientar e apoiar membros da equipe, compartilhando conhecimentos e melhores práticas em ciência de dados.
+
+Modelo de atuação: Remoto
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Sr
+
+Sobre a vaga
+Job Description
+
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsibilities and assignments
+
+Buscamos um(a) Engenheiro(a) de Dados para atuar na construção, integração e sustentação de pipelines e modelos de dados focados em MDM de pacientes no ambiente do HIAE. Você será responsável por garantir a qualidade e consistência dos dados extraídos de diversas fontes críticas, como PEP, HIS, laboratórios, exames, entre outros.
+
+O que esperamos que você realize:
+
+Desenvolver e manter processos de ETL/ELT para integração de dados de múltiplas fontes (PEP, HIS, TASYS, agendamentos, etc.).
+Apoiar a modelagem de dados lógica e física para a estrutura de MDM de pacientes.
+Criar e aplicar regras de padronização, deduplicação, enriquecimento e validação de dados.
+Colaborar com o time de Governança na implementação de controles de qualidade e integridade dos dados.
+Contribuir para a construção de um modelo de dados unificado que represente os principais atributos relacionados a pacientes (demográficos, clínicos, históricos, medicamentos, exames, etc.).
+Garantir a rastreabilidade e acurácia dos dados durante todo o pipeline de ingestão até sua consolidação.
+Participar de testes e validações de soluções implementadas, garantindo conformidade com as normas de segurança e privacidade.
+
+Requirements And Qualifications
+
+O que precisamos que você tenha de conhecimento:
+
+Requisitos essenciais:
+
+Formação em Engenharia de Computação, Ciência de Dados, Sistemas de Informação ou áreas correlatas.
+Experiência prática com desenvolvimento de pipelines de dados (ETL/ELT), preferencialmente usando Spark, Talend, Apache Nifi, etc.
+Sólidos conhecimentos em modelagem de dados (relacional e multidimensional).
+Conhecimento sobre interoperabilidade de dados em ambientes hospitalares é um diferencial.
+Noções de LGPD e segurança de dados sensíveis.
+
+Additional information
+
+O que te oferecemos:
+
+🍛 Vale Alimentação ou Vale Refeição;
+
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+
+🗣 Mentoring;
+
+🏫 Auxílio Creche;
+
+💉 Clube de vantagens para consultas e exames;
+
+🏥 Assistência Médica;
+
+🦷Assistência Odontológica;
+
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+
+🛫 Clube de viagens;
+
+🐶 Convênio para Pet;
+
+e muito mais...
+
+Process stages
+
+Registration
+Fit Cultural
+Bate papo com Gente & Cultura
+Bate papo com Gestão
+Carta proposta
+Hiring
+
+Stefanini: Acreditar para Cocriar 🌟
+
+Na Stefanini, a inovação não é apenas uma meta; é uma jornada que trilhamos juntos, onde a colaboração se torna a essência da transformação. 🤝 Com 37 anos de história e uma presença global em mais de 40 países, contamos com uma equipe de 38 mil talentos apaixonados, prontos para transformar desafios em oportunidades por meio da tecnologia. 💡
+
+Acreditamos que cada projeto é uma oportunidade e que, juntos, podemos moldar um futuro mais ágil, eficiente e conectado. Nossa missão vai além de oferecer soluções: buscamos cocriar com nossos clientes, integrando inteligência artificial e tecnologias emergentes para revolucionar o cotidiano das empresas. 🌍✨
+
+Aqui, cada voz conta e cada ideia tem o poder de impactar. Valorizamos a humildade, o respeito, o comprometimento e a coragem, construindo uma cultura onde a inovação floresce. Aqui, liderar é dar o exemplo, e é por isso que inspiramos um ambiente dinâmico onde tecnologia e talento se complementam.
+
+Se você sonha grande, tem coragem de desafiar o convencional e quer fazer parte de uma equipe que acredita no poder da cocriação, junte-se a nós! Vamos, juntos, acreditar e cocriar um futuro brilhante, onde cada passo representa uma nova conquista!🚀✨
+-----------------------------------------------------------------------------------

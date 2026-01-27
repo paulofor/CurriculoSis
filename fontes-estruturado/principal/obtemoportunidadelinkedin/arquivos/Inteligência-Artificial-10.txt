@@ -1,0 +1,276 @@
+[Oportunidade 1]
+Oportunidade: Especialista em Desenvolvimento de software e IA Generativa
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+Você é apaixonado por tecnologia e inovação? Tem experiência em arquitetura de software, desenvolvimento e IA generativa? Então, queremos você na nossa equipe!
+
+Qualifications
+
+O que buscamos em você!!
+
+Proficiência em Python.
+Experiência com ferramentas e frameworks de IA Generativa.
+Conhecimento em desenvolvimento e implementação de chatbots.
+Habilidade em arquitetura de sistemas e tomada de decisões técnicas.
+Experiência em metodologias ágeis e práticas de DevOps.
+Conhecimento desejável em engenharia de dados.
+Inglês avançado.
+
+Quais Serão Às Principais Atividades
+
+Atuar no desenvolvimento de uma plataforma de IA Generativa.
+Manter e melhorar as funcionalidades existentes.
+Contribuir para a definição da arquitetura do sistema.
+Oferecer suporte técnico e orientação para a equipe de desenvolvimento.
+Participar ativamente na tomada de decisões técnicas e estratégicas.
+
+Additional Information
+
+Na Serasa Experian, acreditamos que a diversidade é fundamental para um ambiente de trabalho mais saudável e inovador, onde todas as pessoas possam trocar experiências e expressar suas ideias. Por isso, contamos com diversas ações para promover um recrutamento inclusivo e apoiar no desenvolvimento profissional das nossas pessoas. Além disso, temos os nossos grupos de afinidade, criados para empoderar e acolher as pessoas de grupos sub-representados:
+
+ExperianPride (comunidade LGBTQIAPN+), Ubuntu (equidade racial), Women in Experian (equidade de gênero) e aspire (pessoas com deficiência) e Connecting Generations (gerações).
+
+Venha fazer parte dessa transformação!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Consultor técnico sênior - Inteligência Artificial
+
+Sobre a vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Estamos buscando um Consultor de Inteligência Artificial para se juntar à nossa equipe.
+
+Responsabilidades:
+- Desenhar soluções técnicas que atendam às necessidades do negócio, com foco em Inteligência Artificial.
+- Manter uma visão focada na entrega de resultados práticos e eficientes.
+- Provocar e implementar formas de trabalho mais práticas e ágeis.
+
+Requisitos Técnicos:
+- Profunda experiência em Inteligência Artificial (IA), incluindo técnicas de aprendizado profundo (Deep Learning), redes neurais e modelos de linguagem.
+- Experiência sólida em Machine Learning, incluindo supervisão, não supervisão e aprendizado por reforço.
+- Conhecimento avançado em DataOps, com foco na automação de pipelines de dados e na gestão de ciclos de vida de modelos.
+- Familiaridade com frameworks de IA como TensorFlow, PyTorch, Keras, etc.
+- Habilidade em programação, preferencialmente em Python, e conhecimento de bibliotecas de ciência de dados como Pandas, NumPy, Scikit-learn.
+- Experiência com ferramentas de orquestração de modelos e monitoramento de performance.
+
+Benefícios:
+🍛 Vale Alimentação ou Vale Refeição;
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+🗣 Mentoring;
+💉 Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+🦷Assistência Odontológica;
+🛫 Clube de viagens;
+🐶 Convênio para Pet;
+e muito mais...
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor(a) Sênior – Plataforma de Inteligência Artificial com RAGs
+
+Sobre a vaga
+🤩QUEM SOMOS?
+O DOT Digital Group é pioneiro no mercado de Educação Corporativa Digital no Brasil! Já são mais de 28 anos sendo responsável pela transformação de muitos negócios que decidiram abraçar a Tecnologia e a Educação.
+🧐O QUE FAZEMOS?
+Desenvolvemos pessoas para impulsionar organizações!
+Grandes negócios nacionais e globais investem nas soluções educacionais digitais desenvolvidas pelo DOT como, por exemplo, Produção de Cursos Online, Operação em Larga Escala/Mediação, Aplicações LMS, Curso via Whatsapp, Immersive Learning, Educomunicação entre outras estratégias educacionais.
+🤗NOSSO JEITO DOT DE SER!
+Jogamos aberto e limpo, estamos no mesmo barco e não tiramos o corpo fora! Aqui respeitamos as pessoas - independente da cor, crença, cultura, gênero, orientação afetiva e idade. Acreditamos no que fazemos e temos paixão pelo UAU! Sempre é possível fazer diferente e melhor em um ambiente de confiança. Valorizamos a autogestão, a colaboração e a busca pelo desenvolvimento contínuo.
+E aí, curtiu e se identificou com o jeito DOT de ser? Então #vemproDOT!
+🤩E QUEM BUSCAMOS?
+Alguém que queira aprender sempre, que tope encarar desafios e tenha proatividade. Buscamos uma pessoa que ame trabalhar com educação e tecnologia e que foque em uma entrega de valor para o cliente! Alguém que tenha facilidade para se adaptar a mudanças e, principalmente, adore fazer um trabalho colaborativo e em time.
+🎯Desenvolvedor(a) Sênior – Projeto de Inteligência Artificial
+Estamos buscando um(a) desenvolvedor(a) sênior para atuar em um dos nossos projetos mais estratégicos na área de Inteligência Artificial aplicada. Você vai trabalhar no desenvolvimento de uma plataforma de IA que utiliza RAGs (Retrieval-Augmented Generation), agentes autônomos, orquestração com LangChain e integração com modelos da OpenAI e AWS.
+Qual o seu papel na construção dessa trilha?
+Participar ativamente do desenvolvimento e evolução da plataforma de IA;
+Trabalhar em conjunto com especialistas em IA para construir e refinar pipelines de RAG, agentes e fluxos de decisão;
+Codificar novas funcionalidades em Python/Django, estruturando APIs e serviços;
+Contribuir com decisões de arquitetura e boas práticas de engenharia de software;
+Explorar e testar novas ferramentas e abordagens ligadas ao ecossistema de IA generativa;
+Colaborar com um time multidisciplinar em um ambiente ágil, com entregas contínuas.
+Utilizar ferramentas de IA como Cursor ou Copilot para acelerar o desenvolvimento.
+Quais vivências esperamos de você?
+Experiência consolidada como desenvolvedor(a) backend ou full stack, com domínio de boas práticas de engenharia de software;
+Capacidade de aprender rapidamente novas tecnologias e conceitos;
+Curiosidade e disposição para se aprofundar em IA, mesmo que ainda não tenha experiência prática;
+Comprometimento com entregas de qualidade e atenção à performance e escalabilidade;
+Boa comunicação e colaboração em equipe.
+Será incrível se você já tiver:
+Experiência com Python e Django;
+Familiaridade com LangChain, OpenAI, agentes ou conceitos de RAG;
+Conhecimento em arquiteturas baseadas em filas e microsserviços;
+Experiência com bancos como MongoDB e OpenSearch;
+Vivência em projetos com IA generativa ou NLP;
+Experiência com ferramentas de IA assistiva para código (Copilot, Cursor, Windsurf).
+Aqui acreditamos no lifelong learning, e desejamos que você siga em busca de aprendizado contínuo!
+🥳NOSSA PROPOSTA DE VALOR:
+E para impulsionar você a completar essa trilha com sucesso, o DOT oferece:
+Auxílios!
+Vale alimentação e/ou refeição (R$737) - Inclusive nas férias
+Vale transporte;
+Seguro de vida;
+Auxílio home office (R$100);
+Auxílio creche para crianças de até 6 anos;
+Headhunter (valor por indicação de colaborador);
+Indicação de clientes (valor por indicação de clientes).
+Saúde e bem estar!
+Plano de saúde integral, sem coparticipação (com terapia online gratuita);
+Convênio odontológico;
+Caju+ (assistência psicológica, assistência jurídica, consultoria financeira);
+Wellhub (plataforma de saúde e bem estar);
+Convênio Farmácia;
+Licença maternidade estendida de 6 meses;
+Licença paternidade estendida de 20 dias;
+Onhappy - Ofertas exclusivas de passagens e hospedagens.
+FeelingDOT sobre temas diversos (workshops sobre autoconhecimento, diversidade, inclusão e equilíbrio);
+Mimos e gifts em datas comemorativas.
+Crescimento e desenvolvimento contínuo!
+Verba de Sophia de R$ 2.000,00 (auxílio educação);
+Horas de Sophia (40 horas/ano em capacitação da sua escolha);
+Verba Survival (auxílio educação no negócio);
+DOTAcademy com cursos gratuitos;
+Mobilidade interna;
+DOTHUB (desenvolvimento de lideranças);
+Cultura de feedback;
+DOTKnows (peer learning).
+Clima colaborativo e descontraído!
+Anywhereoffice: trabalhe de onde quiser;
+Horário flexível - Nosso regime é de 40h semanais;
+Aprendizado contínuo;
+Pessoas que é bom de estar perto;
+Autonomia com responsabilidade;
+Local para refeições (presencial);
+Lanches, snacks, frutas, chás e café passado (presencial);
+Área de convivência (presencial);
+Momentos de integração e festas.
+Somos uma empresa diversa e inclusiva, e todas as nossas vagas estão abertas também para PCD.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenharia de Software Pleno -AWS/ Jav
+
+Sobre a vaga
+Vem ser Ituber & vem fazer Itaú
+
+O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 60 milhões de clientes em 18 países. Somos feitos de pessoas e acreditamos que ter um quadro com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das diferenças. Não queremos você apenas por achar que tem a nossa cara. Queremos ter um pouco da sua também! 
+
+Modelo de trabalho Hibrido 8 vezes por mês -Metro Conceição zona sul de São Paulo
+
+O que você precisa para ser um Ituber?
+
+Estamos buscando pessoas que queiram se desenvolver e aprender constantemente, compartilhando, colaborando, inovando e entregando valor para todos os nossos clientes. Aqui a gente não sabe tudo, a gente vai de turma.
+
+Como é o dia a dia de um Ituber nessa área?
+
+Atuar na comunidade de Cash Management Recebimentos e Pagamentos PJ, como engenheiro de software.
+Desenvolvemos soluções de pagamentos para clientes PJ, utilizando tecnologias modernas, em um ambiente desafiador, colaborativo e em constante evolução.
+Buscamos uma pessoa para nos apoiar na construção, evolução e inovação das nossas soluções técnicas com o objetivo de oferecer as melhores experiências aos nossos clientes.
+O profissional irá atuar em todo o ciclo de desenvolvimento de software, desde a concepção até a sustentação, apoiando em refinamentos técnicos, desenvolvimento de novas funcionalidades, correção de bugs e melhorias de performance.
+
+Atuar em times ágeis e multidisciplinares
+Desenvolvimento de aplicações backend
+Apoiar em refinamentos técnicos e definição de soluções
+Noções sobre design patterns e boas práticas
+Implementar estratégias de qualidade (testes unitários, integrados, performance)
+Realizar code review garantindo a aplicação de boas práticas
+Implementar observability e monitoração do ambiente
+Garantir escalabilidade, resiliência e alta disponibilidade da plataforma
+Atuar no Build e Run dos produtos
+
+Venha conosco construir o melhor banco de Cash Management do Brasil!
+
+No que você precisa mandar bem?
+
+Tecnologia: Java , AWS , Terraform , Spring Boot , ECS/EKS , Kafka , Observability , DynamoDb , RDS , Python
+
+Stack de tecnologias:
+- Java 11+ / Spring Boot
+- Python
+- AWS (ECS, EKS, Lambda, CloudWatch, SQS, SNS, Api Gateway, etc)
+- Kafka
+- Banco de Dados SQL (RDS) e NoSQL (DynamoDb)
+- Terraform
+- Datadog
+
+
+Ao se tornar um Ituber você tem
+• Vale Transporte
+• Vale Refeição (Restaurantes) / Vale Alimentação (Supermercados)
+• Convênio médico e odontológico
+• Seguro de Vida
+• PLR – Participação nos Lucros e Resultados (Mediante resultados do banco)
+• Previdência privada
+• Descontos exclusivos em nossos produtos financeiros
+• Licença maternidade estendida & paternidade
+• Auxílio Creche / Babá (para papais e mamães)
+• Incentivo a estudos
+• GymPass ou TotalPass
+• Acesso aos Clubes Itaú (Guarapiranga / Itanhaém e São Sebastião)
+• + Algumas vantagens que você pode conhecer durante o processo
+
+*Estimulamos candidaturas de pessoas com deficiência em todas as nossas posições, sendo assim, sinta-se à vontade para se candidatar em vagas sinalizadas como exclusivas ou não para pessoas com deficiência. Somos comprometidos com a inclusão e valorizamos a diversidade.
+
+
+#VemProItaú #VemSerItuber
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Artificial Intelligence Engineer, LearnWith.AI (Remote) - $200,000/year USD
+
+Sobre a vaga
+Tired of building AI tools that never see real-world impact? Join us in creating the AI-powered "Second Brain" that's revolutionizing education for millions of students who deserve better than one-size-fits-all learning.
+
+What You Will Be Doing
+
+Architect sophisticated AI-driven workflows that transform raw LLM capabilities into powerful educational tools that adapt to individual learning styles
+Engineer domain-specific knowledge repositories and contextual frameworks that enable our AI systems to generate truly personalized learning content
+Design scalable data structures that support complex educational content generation while maintaining pedagogical integrity
+
+What You Won’t Be Doing
+
+Implementing basic chatbots or simple AI integrations that merely automate existing processes
+Building theoretical models that never reach students or make meaningful educational impact
+Maintaining legacy systems or working on incremental improvements to existing technologies
+
+Artificial Intelligence Engineer Key Responsibilities
+
+Transform LearnWith.AI into the industry leader by engineering AI systems that generate personalized, engaging educational content at scale—effectively bridging the gap between technological innovation and meaningful learning outcomes.
+
+Basic Requirements
+
+Minimum 4 years of software engineering experience with demonstrated ability to architect complex systems
+Proven track record implementing AI tools (ChatGPT, Gemini, Grok) in professional environments with measurable outcomes
+Passionate interest in EdTech backed by knowledge of educational challenges and opportunities
+
+Nice-to-have Requirements
+
+Experience with prompt engineering and LLM fine-tuning techniques
+Background in educational content development or instructional design
+Familiarity with knowledge graph structures and semantic data modeling
+
+About LearnWith.AI
+
+LearnWith.AI is an edtech startup that leverages AI and subject matter experts to cultivate a new way of learning. Our unique approach leverages 50+ years of learning science, cutting-edge data analytics and AI-powered coaching. In doing so, we can help students learn more, learn faster, and learn better - and have fun while doing it. We are a remote-first company that hires globally via Crossover.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with us
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover as a Contractor of Record. The compensation level for this role is $100 USD/hour, which equates to $200,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+Crossover Job Code: LJ-5532-BR-COUNTRY-ArtificialInte.004
+-----------------------------------------------------------------------------------

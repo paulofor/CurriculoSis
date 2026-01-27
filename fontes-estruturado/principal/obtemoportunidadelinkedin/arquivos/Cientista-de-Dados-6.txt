@@ -1,0 +1,284 @@
+[Oportunidade 1]
+Oportunidade: Especialista Cientista de Dados
+
+Sobre a vaga
+Job Description
+
+A área de validação de modelos do Porto Bank é responsável pela validação independente e monitoramento dos modelos de risco de crédito (concessão, behaviour, collection) e demais modelos utilizados na gestão dos diversos produtos do banco, visando a garantir que esses modelos sejam tecnicamente adequados, robustos e precisos.
+
+Responsibilities and assignments
+
+O Especialista de Validação de Modelos será responsável por definir e implementar o processo de validação conforme o grau de materialidade de cada modelo, efetuar a validação dos novos modelos, implementar e acompanhar o monitoramento dos modelos vigentes e realizar a interlocução com as áreas corporativas de riscos.
+Garantir que os modelos utilizados pela Porto Bank sejam tecnicamente adequados, robustos, precisos e devidamente documentados, assim como identificar oportunidades de melhoria e necessidade de substituição dos modelos.
+
+
+Requirements And Qualifications
+
+Formação em Estatística ou cursos correlatos de ciências exatas (desejável pós graduação);-
+Profundo conhecimento de modelagem estatística (modelos de regressão, modelos lineares generalizados, séries temporais, machine learning, árvores de decisão, etc);
+Ótimos conhecimentos em programação e ferramentas de análise de dados (Databricks, SAS, Python, R, etc);
+Ótimo raciocínio lógico e quantitativo;
+Boas habilidades de relacionamento interpessoal;
+Senso de urgência;
+Experiência prévia na atividade de validação de modelos.
+
+
+Additional information
+
+Nossos benefícios: 
+
+Crescimento profissional e financeiro: Aqui nós incentivamos o seu protagonismo e reconhecemos financeiramente sua performance.
+Porto em Ação: Ser dono do negócio através do nosso novo programa complementar à PLR, disponibilizando anualmente, até 2025, uma porcentagem de valor do seu salário em ações da Porto;
+Participação nos Lucros: Pois sabemos que só vamos crescer, se crescermos juntos;
+Mamães: Auxílio creche ou babá, para o seu bem mais precioso ser muito bem cuidado!
+Plano de Saúde, Odontológico e Seguro de Vida: Para que você possa se cuidar, e também cuidar de seus dependentes;
+Vale Alimentação e Refeição: Seu VR e VA são flexíveis, para que você atenda às suas necessidades e defina a melhor maneira de utilizá-los;
+Gympass: Para você possa se exercitar e cuidar da sua saúde física em diversas academias, onde estiver;
+Previdência Privada - PortoPrev: Para você garantir um futuro mais tranquilo;
+Bolsa de estudos: Para você começar uma graduação ou que sonha em fazer uma segunda faculdade ou pós-graduação;
+Cursos de Idiomas: Subsídio para cursos de Inglês e Espanhol;
+Programa Saúde Integral: Série de benefícios e iniciativas para te apoiar a encontrar equilíbrio de forma integral, através de três pilares: saúde mental, saúde física e saúde financeira;
+Vale-Transporte: Para nos encontrarmos na Porto;
+Descontos em produtos e serviços da Porto que só nossos #Portolover tem!
+
+
+Na Porto, Você Importa!
+
+A Porto é muito mais que uma seguradora: é um ecossistema gigante que utiliza tecnologia para criar soluções, através de quatro verticais de negócio: Porto Bank, Porto Saúde, Porto Seguro e Porto Serviço. A reputação e o reconhecimento conquistados ao longo de mais de 7 décadas reforçam o tamanho da Porto, uma empresa referência em negócios, feita para e por pessoas.
+
+Aqui, bate no peito de 13 mil colaboradores o orgulho de fazer parte de uma organização sólida e ética, que transforma sonhos em realidades fantásticas para os nossos mais de 15,8 milhões de clientes. São mais de 101 sucursais e escritórios regionais em todo o Brasil.
+
+O aprendizado faz parte do nosso DNA, e aqui, você terá incentivos, ferramentas e gente boa para você aprender e crescer, a cada dia, um ambiente de acolhimento e segurança, onde cada um possa ser e se orgulhar de quem se é, promovendo um espaço de respeito e vivendo de forma integral e com bem-estar, em uma empresa genuinamente humana.
+
+DIVERSIDADE & INCLUSÃO NA PORTO
+
+Aqui na Porto, valorizamos a diversidade e acreditamos que um time plural é imprescindível para o desenvolvimento de todo o nosso negócio, da sociedade, e de cada pessoa, pois entendemos que cada indivíduo é único na construção de um ambiente mais inovador e inclusivo. Juntos, trabalhamos diariamente para construirmos um espaço seguro, livre e acolhedor, com mais pluralidade e respeito. Por isso, incentivamos fortemente a inscrição de mulheres, de pessoas negras e indígenas, de pessoas com deficiência e de pessoas LGBTQIA+ em todas as nossas vagas.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Cientista de Dados (Pleno)
+
+Sobre a vaga
+Quem é o candidato que procuramos:
+
+Estamos à procura de um Analytics Engineer para se juntar à nossa equipe. Nosso objetivo é ser o líder da próxima geração de software de CRM para o varejo, lidando com milhões de shoppers distribuídos em centenas de clientes em todo o Brasil. Ajudar nossos clientes a encantar e entregar as melhores ofertas para seus shoppers, nos traz o desafio de interagir e analisar com terabytes de dados, utilizando as últimas técnicas de analytics, superando diariamente os desafios tecnológicos. Nos preocupamos com a cultura de desenvolvimento, comunicação, qualidade do código e troca de conhecimento como práticas básicas de uma equipe feliz e sagaz.
+Algumas das tecnologias que estamos usando: Java, Scala, Spark, AWS, Python, SQL, Azure Analytics considerando o Azure Data Factory para criação de pipelines de ingestão e transformação dos dados, Azure Data Lake Storage Gen 2 (ADLS) como armazenamento de objetos, Azure Databricks com Apache Spark para processamento das informações armazenadas na Azure Delta Lake Storage e Modelagem de dados no Azure Analysis Services para grandes volumes de dados, Azure SQL DB como bancos de dados operacionais e Power BI como ferramenta de visualização das informações modeladas
+
+ Principais conhecimentos
+Analisar, mapear e documentar requisitos;
+Realizar Modelagem de Dados para melhor performance na ferramenta de visualização;
+Desenvolver Data Workloads nas Ferramentas de ELT (ExtractLoadandTransformation) para centralizar e unificar dados num Data Warehouse ou Lakehouse;
+Mantém o repositório de dados (Warehouse ou Lakehouse) Organizado e Higienizado;
+Criar e manter Documentação e Metadados sobre os Dados;
+Desenvolver visões Analíticas a partir das ferramentas de Visualização e de EDA (Exploratory Data Analysis);
+Alinhar Arquiteturas com Requisitos de Negócios;
+Implantar soluções que promovam facilidade, segurança e escalabilidade de acesso aos dados;
+Desenvolver usando um código limpo e organizado, documentado, modularizado em classes, pacotes, serviços e sistemas;
+Prezar pela manutenibilidade do código;
+Manter bases de dados de alta qualidade, com dados já higienizados e modelados, prontos para o consumo de analistas de dados e usuários finais;
+Cuidar do stack de analytics, para que toda a companhia tenha acesso a dados confiáveis e atualizados prontos para serem consumidos;
+Treinar os usuários para manipular dados em ferramentas de visualização e manter a documentação dos dados;
+Desenvolvimento e execução de plano de validação de resultados dos produtos criados;
+Automação de processos de dados para geração de indicadores de qualidade de resultados dos modelos desenvolvidos;
+Contato com equipes internas nacionais e internacionais para desenvolvimento das soluções;
+Documentação e suporte sobre os produtos analíticos desenvolvidos a equipes internas e externas;
+Comunicação assertiva para gerar o nível adequado de explicabilidade dos dados e resultados;
+Participar ativamente na inovação e melhorias no produto.
+
+Job requirements
+
+Formação em Ciência da Computação, Analista de Sistemas, Sistemas de Informação, Engenharia ou áreas correlatas;
+2+ anos de experiência em desenvolver produtos de dados para tomada de decisão;
+Conhecimento em modelagem estatística de problemas de negócio e testes de validação de hipótese;
+Forte conhecimento na plataforma Spark e desenvolvimento de aplicações para análise de grandes volumes de dados, seguindo as melhores práticas de desenvolvimento da plataforma, utilizando as linguagens Scala ou Python;
+Conhecimento em linguagem SQL e experiência com bancos de dados relacionais, como MySQL e PostgreSQL;
+Conhecimento em ferramentas de versionamento e práticas de organização e evolução de código;
+Capacidade de resolução de problemas, pensamento crítico e capacidade analítica;
+Comunicação, colaboração e habilidades interpessoais;
+Experiência em times que utilizam metodologias ágeis;
+Inglês Avançado - Necessário para interface com equipe europeia.
+
+
+Habilidades Desejáveis
+
+Experiência no desenvolvimento de produtos digitais robustos, utilizados em escala;
+Experiência no desenvolvimento de plataformas de auxílio à tomada de decisão.
+
+O que você vai encontrar na Rock Encantech:
+
+Plano de Saúde;
+Plano Odontológico;
+Seguro de Vida;
+Benefício Flexível (VA, VR, Home-Office);
+Dress-code casual;
+Day-off no seu aniversário;
+
+Nada de ficar entediado! Aqui temos um ambiente desafiador, onde aprendemos e melhoramos todos os dias.
+
+Aqui na Rock Encantech acreditamos na força da diversidade. Todo o nosso processo seletivo é feito sem distinção de raça, religião, gênero, nacionalidade, deficiência, orientação sexual, idade ou qualquer outra.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Cientista de Dados - Especialista
+
+Sobre a vaga
+Somos uma empresa 100% digital, com tecnologia desenvolvida localmente e líder no mercado de compra e venda online. Nos tornamos a marca que melhor representa a economia circular no país.
+
+Hoje contamos com dois escritórios nas cidades de Rio de Janeiro e São Paulo. Nosso modelo de trabalho flexível oferece autonomia e liberdade para que nossas pessoas elaborem seus padrões e rotinas com disciplina e protagonismo na conexão com negócio, as prioridades e o propósito da empresa.
+
+Construir um ambiente diverso, inclusivo e comprometido com a equidade faz parte do nosso DNA. Entendemos que diversidade, equidade e inclusão são essenciais para criarmos um ambiente seguro com entregas inovadoras e eficientes para nossas pessoas e sociedade.
+
+Responsabilidades e atribuições
+
+Se você é uma pessoa apaixonada por dados e gostaria de aplicar seus conhecimentos para criar modelos de predição focados em performance de negócios, essa vaga é para você!
+
+Como Cientista de Dados Especialista, você irá atuar junto com um time multidisciplinar e apoio de áreas especializadas em Ciência de Dados, tendo a oportunidade de transformar dados em valor, além de resolver os mais diversos desafios, sempre idealizando e participando dos planejamentos junto ao Time de Produtos.
+
+Requisitos e qualificações
+
+E o que você precisa ter? 
+
+Conhecimento em SQL e Python;
+Experiência com análise e modelagem numérica;
+Conhecimentos em modelos de Machine Learning de reconhecimento de imagens (OCR, identificação de objetos, identificação de ambientes e etc);
+Habilidade de conduzir análises quantitativas consistentes e claras, desde a abordagem ao problema até a apresentação dos resultados;
+Habilidade para documentar e comunicar insights orientados a dados para colegas de diferentes backgrounds;
+Comportamento colaborativo, se posicionando de forma objetiva, sendo uma pessoa aberta para ouvir pontos de vista diversos;
+Escrita de código em nível de criação de protótipos, sem depender de engenheiros de software.
+
+
+Desejável / Diferencial:
+
+Experiência com pesquisa em Machine Learning;
+Experiência com desenvolvimento de software;
+Experiência com criação e desenvolvimento de produtos.
+
+
+Informações adicionais
+
+Mais sobre o Grupo OLX:
+
+No Brasil desde 2010, o Grupo OLX tem como propósito empoderar as pessoas para que alcancem seus sonhos, reinventando o modelo de consumo. Com a aquisição do Grupo ZAP, concluída em outubro de 2020, a companhia opera a OLX, plataforma horizontal com posição de liderança nas categorias de automóveis, bens de consumo usados e imóveis; e duas plataformas líderes do mercado imobiliário, ZAP e Viva Real.
+
+Benefícios:
+
+Remuneração compatível com o mercado
+
+Plano de Saúde
+
+Plano Odontológico
+
+Previdência Privada
+
+Benefícios flexíveis que se adaptam às suas necessidades
+
+Auxílio alimentação
+
+Aconselhamento financeiro
+
+Clube de vantagens
+
+Auxílio Home Office
+
+Auxílio Mobilidade
+
+Auxílio Criança
+
+Seguro de Vida
+
+Licenças estendidas
+
+Incentivo ao esporte, qualidade de vida e bem estar
+
+Empréstimo consignado com taxas reduzidas
+
+Candidate-se e venha fazer parte dessa transformação conosco!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados Pleno/Sênior
+
+Sobre a vaga
+NEORIS é uma acelerador Digital que ajuda empresas a entrar no futuro, temos mais de 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Somos mais de 4.000 profissionais em 11 países, temos uma cultura de startup multicultural onde cultivamos inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes.
+
+Procuramos Engenheiro de Dados Sênior – Vaga Híbrida – Rio de Janeiro
+
+Principais Responsabilidades
+
+Desenvolver e otimizar pipelines de dados utilizando Databricks e AWS;
+Implementar e gerenciar estruturas de governança de dados com Unity Catalog;
+Criar soluções escaláveis para ingestão, transformação e armazenamento de dados;
+Colaborar com times de negócio para entender requisitos funcionais e traduzi-los em soluções técnicas;
+Garantir a qualidade, segurança e integridade dos dados;
+Melhorar a eficiência dos processos de ETL/ELT e arquitetura de dados.
+
+Requisitos
+
+Experiência comprovada, minima de 4 años, como Engenheiro de Dados (requisito excluente), preferencialmente em projetos de grande escala e ambientes complexos.
+Conhecimento avançado em Databricks e Apache Spark, em SQL e Python para manipulação e processamento de dados;
+Experiência com Unity Catalog para governança de dados; Experiência na criação e otimização de pipelines de dados;
+Capacidade de entender as necessidades do negócio e traduzi-las em requisitos técnicos.
+Residir no Rio de Janeiro e ter disponibilidade para comparecer ao escritório a cada 15 dias.
+
+Oferecemos
+
+Vale Refeição e Vale Alimentação: Benefícios mensais para suas despesas com alimentação, dentro e fora de casa. 
+Previdência Privada: Planejamento de futuro com contribuição complementar à aposentadoria. 
+Plano de Saúde: Cobertura médica de alta qualidade para você e seu dependente legal. 
+Plano Odontológico: Cuidados odontológicos completos, com ampla rede de atendimento. 
+Seguro de Vida: Proteção e segurança para você e seus entes queridos. 
+Aulas de Inglês/Espanhol: Incentivo ao aprendizado de idiomas. 
+Wellhub: Benefícios e descontos em academias e programas de bem-estar. 
+Auxílio Creche: Suporte financeiro para despesas com educação infantil. 
+Neoris Global Campus: Plataforma de desenvolvimento com oportunidades contínuas de aprendizado e crescimento profissional. 
+
+Te convidamos a nos conhecer em http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Analista Cientista de Dados III
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+Estamos procurando um Analista Cientista de Dados Sênior para se juntar à nossa equipe.
+
+O candidato (a) ideal terá experiência significativa em análise de dados, modelagem estatística e machine learning, além de habilidades avançadas em programação e manipulação de grandes volumes de dados. Este profissional será responsável por liderar projetos de análise de dados, desenvolver modelos preditivos e fornecer insights acionáveis para apoiar a tomada de decisões estratégicas.
+
+Qualifications
+
+O que buscamos em você!!
+
+ Graduação em Ciência de Dados, Estatística, Matemática, Computação ou área relacionada;
+ Conhecimento Databricks;
+ Vivência em ambiente Azure será um diferencial
+ Proficiência em linguagens de programação como Python e SQL;
+ Conhecimento em Analytics e Machine learning.
+ Habilidade técnica e de negócios.
+
+Quais Serão Às Principais Atividades
+
+ Manutenção e criação de novos modelos de machine learning;
+ Estudos e análises olhando a ótica de insights para negócios;
+ Captação e integração de dados externos via webscrapping e IA;
+ Identificação de padrões internos e como se relacionam com índices e movimentos macroeconômicos;
+ Apresentar resultados e recomendações para stakeholders de diferentes níveis hierárquicos;
+ Testes de hipóteses;
+ Manter-se atualizado com as últimas tendências e tecnologias em ciência de dados.
+ Realizar análises exploratórias e descritivas de grandes conjuntos de dados.
+ Colaborar com equipes multidisciplinares para identificar oportunidades de melhoria e inovação.
+
+Additional Information
+
+Na Serasa Experian, acreditamos que a diversidade é fundamental para um ambiente de trabalho mais saudável e inovador, onde todas as pessoas possam trocar experiências e expressar suas ideias. Por isso, contamos com diversas ações para promover um recrutamento inclusivo e apoiar no desenvolvimento profissional das nossas pessoas. Além disso, temos os nossos grupos de afinidade, criados para empoderar e acolher as pessoas de grupos sub-representados:
+
+ExperianPride (comunidade LGBTQIAPN+), Ubuntu (equidade racial), Women in Experian (equidade de gênero) e aspire (pessoas com deficiência) e Connecting Generations (gerações).
+
+Venha fazer parte dessa transformação!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------

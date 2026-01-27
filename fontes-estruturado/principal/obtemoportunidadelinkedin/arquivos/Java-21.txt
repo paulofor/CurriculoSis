@@ -1,0 +1,310 @@
+[Oportunidade 1]
+Oportunidade: Analista de Desenvolvimento de Sistemas Senior | Full Stack (React | Node.js | Java Spring Boot
+
+Sobre a vaga
+Descrição da vaga
+Vice-Presidência: CHIEF INFORMATION OFFICER
+Diretoria: DIR Suporte e Aplicações Tech
+Local de Trabalho: São Paulo - SP ou Curitiba-PR
+
+O analista precisará desenvolver soluções, buscar por oportunidades de melhorias dos sistemas e suas integrações, além do apoio técnico e conceitual ao time.
+Fará parte da área de operações B2C, que tem como objetivo suportar e melhorar os sistemas atuais, visando a excelência na experiência do cliente.
+Trabalhamos com metodologias ágeis aplicando as melhores práticas para o desenvolvimento da esteira de sustentação e automações necessárias.
+Somos apaixonados por desenvolvimento de software, TI e modelos ágeis.
+
+
+Responsabilidades e Atribuições
+
+Atuar em equipe ágil (DEVTEAM), com foco em desenvolvimento de soluções utilizando React, Node.js ;e Java Spring Boot;
+Participar ativamente de cerimônias ágeis, discussões técnicas, apoio na tomada de decisões e resolução de conflitos;
+Executar suporte de nível 3 (N3) para aplicações de Vendas e Atendimento B2C, além de colaborar com os níveis N2 e N1;
+Construir e evoluir aplicações para resolver problemas específicos de negócio;
+Propor e implementar melhorias em soluções existentes, visando desempenho, escalabilidade e segurança;
+Integrar sistemas com novos componentes de software, garantindo compatibilidade e eficiência;
+Assegurar a qualidade e segurança do software entregue, com foco em boas práticas de desenvolvimento;
+Manter e evoluir soluções baseadas em APIs REST e arquitetura de microsserviços e micro frontends;
+Colaborar com equipes multifuncionais para identificar oportunidades de melhoria e desenvolver soluções inovadoras;
+Desenvolver e otimizar consultas em PostgreSQL;
+Utilizar ferramentas de observabilidade como Elastic e atuar em ambientes de computação em nuvem (Azure).
+
+Experiências e Conhecimentos Desejados
+Sólida experiência com React (componentização, hooks, roteamento) e Node.js ;(Express, middlewares, APIs REST);
+Conhecimento em Java com Spring Boot, especialmente em contextos de microsserviços;
+Experiência com micro frontends e integração de aplicações modulares;
+Domínio de PostgreSQL, com habilidade para escrever queries complexas e realizar tuning de performance;
+Vivência com ambientes em nuvem (Azure) e ferramentas de monitoramento como Elastic (ELK Stack);
+Experiência com testes automatizados (unitários e de integração);
+Conhecimento em programação orientada a eventos e metodologias ágeis (Scrum, Kanban, etc.);
+Familiaridade com versionamento de código (Git) e integração contínua/entrega contínua (CI/CD).
+
+Requisitos e qualificações
+
+Formação Acadêmica
+Ensino superior completo em Ciência da Computação, Engenharia da Computação, Sistemas de Informação ou áreas correlatas;
+Pós-graduação ou MBA em áreas de tecnologia será considerado um diferencial.
+Conhecimentos Técnicos e Ferramentas
+Frontend:
+Domínio de React.js, incluindo hooks, roteamento, componentização e integração com APIs REST;
+Experiência com arquitetura de micro frontends;
+Backend:
+Sólida experiência com Node.js ;(Express, middlewares, autenticação, APIs REST);
+Conhecimento avançado em Java com Spring Boot, especialmente em contextos de microsserviços;
+Banco de Dados:
+Experiência com PostgreSQL, incluindo modelagem, queries complexas e tuning de performance;
+DevOps e Cloud:
+Vivência com Microsoft Azure (App Services, Azure DevOps, Azure Functions, etc.);
+Conhecimento em CI/CD, versionamento com Git e automação de pipelines;
+Observabilidade e Monitoramento:
+Familiaridade com ferramentas como Elastic (ELK Stack) para logs e métricas;
+Outros conhecimentos desejáveis:
+Programação orientada a eventos;
+Testes automatizados (unitários e de integração);
+Metodologias ágeis (Scrum, Kanban);
+Boas práticas de segurança da informação em desenvolvimento de software.
+Habilidades Comportamentais
+Perfil colaborativo e proativo;
+Boa comunicação e capacidade de trabalhar em equipe multidisciplinar;
+Capacidade analítica e foco em resolução de problemas;
+Flexibilidade para atuar em ambientes dinâmicos e com múltiplas demandas.
+Certificações
+Certificações em React, Node.js ;ou Java Spring Boot são diferenciais;
+Certificação em DevOps ou CI/CD pipelines será considerada um plus.
+
+Informações adicionais
+Na Vivo não medimos esforços em apoiar e valorizar nossos colaboradores! Não são apenas excelentes benefícios, mas também flexíveis. Veja o que ofereceremos* para você:
+· Escolher o benefício ideal para você e seus dependentes, numa plataforma digital com diversas categorias de Academia, VR, VA, Auxilio Farmácia, Assistência Médica, Odontológica e Seguro de Vida;
+· · Celular corporativo. Sim, um smartphone novinho para você!
+· · Plano de voz e Dados ilimitado! Sim, ilimitado! O 5G da Vivo é até 10 vezes mais rápido!
+· · Uma oferta exclusiva da Vivo, com desconto especial em linha fixa, banda larga, TV e apps;
+· · Terá direito a receber Bônus ou PPR anual;
+· · Planejará seu futuro através do plano de Previdência Privada;
+· · Tem filhos? Terá direito a um subsídio para ajudar nas despesas com escola, creche ou babá;
+· · Viver em um ambiente que respeitará sua personalidade, seu estilo de se vestir, seu jeito de ser e poderá ser autêntico. #VemdeVocê
+· · Trabalhar remotamente até 3 vezes por semana. #Mobility
+· · Ter flexibilidade de horário;
+· · Aproveitar um dia de folga (Day off) para comemorar seu aniversário;
+· · Participar de um dos maiores programas de voluntariado corporativo para você transformar o mundo;
+· · Usufruir do nosso Programa de Desenvolvimento Educacional que oferece parcerias em instituições de ensino com desconto; certificações e cursos online;
+· · Potencializar sua carreira por meio do nosso Programa de Recrutamento Interno, no Brasil ou fora, afinal estamos presentes em mais de 17 países! #VivoMinhaCarreira
+E tem muito mais! Mas, você tem que se candidatar para saber...
+*De acordo com a política de elegibilidade determinada pela empresa.
+#VEMPRAVIVO Todas as nossas vagas são elegíveis a pessoas com deficiência e/ou reabilitados. Temos uma cultura que valoriza a diversidade, as diferenças e o potencial das pessoas!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Desenvolvedora Backend Especialista
+
+Sobre a vaga
+Pessoa Desenvolvedora Backend JAVA Especialista
+
+Estamos em busca de uma Pessoa Desenvolvedora Backend JAVA Especialista  para ingressar em nossa nave e juntos, decolar o foguete que impulsiona pessoas para inovar o mundo.
+
+E antes de apresentar a vaga, queremos te mostrar as razões para ser South System:
+
+ As +350 pessoas do nosso time nos elegeram 2 vezes uma das melhores empresas para se trabalhar no país (GPTW) e nos deram 4.9 estrelas no Glassdoor e Indeed;
+ Somos Talent Awards pelo linkedin;
+ Somos Carbon neutral – contribuímos com a compensação das emissões de carbono;
+ Estamos operando com oportunidades em home office e também com oportunidades híbridas;
+ Contemplamos benefícios variados como:
+
+Acesso livre a plataforma de cursos Udemy com certificações exclusivas;
+
+Benefício de home office;
+
+Benefício de educação financeira;
+
+Cartão de benefícios flash.
+
+ Nosso código de cultura é norteado por atitudes e práticas que fazem parte do nosso dia a dia:
+
+Apoio e incentivo ao crescimento e desenvolvimento das pessoas;
+
+Respeito, lealdade, colaboração e engajamento fazem parte do nosso DNA, cultivamos um ambiente seguro para todos;
+
+Somos diversos e acreditamos no poder da inclusão e da diversidade dos times;
+
+Unimos pessoas e inovação para prover soluções de TI.
+
+ Amamos nosso planeta e queremos fazer dele um lugar melhor para as próximas gerações por isso cultivamos diversas ações de sustentabilidade;
+ Mantemos e apoiamos ações sociais.
+
+Agora, vamos falar dessa oportunidade! 
+
+Nossos profissionais atuam em projetos alocados em clientes, ou projetos de fábrica, e todos têm acompanhamento das nossas business partners, com suporte especializado para que tenham um bom desempenho e progresso de carreira, nossas squads são multidisciplinares disponíveis de forma global. Esta oportunidade é para um cliente no segmento financeiro.
+
+Seu Desafio no Time:
+
+Exercer a liderança técnica da equipe, oferecendo suporte e orientação em todas as fases do ciclo de desenvolvimento de software;
+Propor evoluções tecnológicas nos sistemas em conjunto com o time de arquitetura para organizar e priorizar o backlog do time;
+Monitorar a execução das boas práticas de desenvolvimento de sistemas;
+Garantir a mais alta qualidade de software, desde o planejamento até a entrega;
+Monitorar o desempenho e performance dos sistemas das aplicações;
+Antecipar-se a oportunidades e problemas, agindo com rapidez e eficácia, desenvolvendo soluções de forma preventiva;
+Auxiliar na orientação dos desenvolvedores mais novos e contribuir nas tomadas de decisão do projeto;
+Atuar na integração e interface entre as aplicações de back-end e front-end;
+Atuar no planejamento e levantamento de requisitos e limitações técnicas para melhoria da performance e escalabilidade das aplicações;
+Orientar tecnicamente as etapas de iniciação, planejamento, execução, controle e encerramento dos projetos, monitorando a qualidade, funcionalidades, progressos e desvios;
+
+Perfil que Buscamos:
+
+Java 17+(Spring boot, Spring Data, Spring Security, Spring Cache, Messaging, Data Access, NoSQL, Batch e Metrics)
+AWS (S3, Pipelines, EKS, VPC, SG, Kafka, MSK e Demais serviçoes do fluxo de CI/CD)
+Arquitetura Hexagonal,
+Arquitetura distribuída em Microsserviços e Containers na Cloud (EKS/Docker)
+APIs em SpringBoot com integrações em Kafka e Rest utilizando FeignClient/webclient com tolerancia a falhas (Fallback em Hystrix/resilience4j)
+Arquitetura Event Streaming com Kafka
+Banco NoSQL (MongoDB)
+Banco Relacional (PostgresSQL)
+Mensageria (RabbitMQ/Kafka)
+Grafana 
+Continuous Integration e Continuous Deployment (CI/CD), Git, GitAction Gitflow, Maven
+DBs Redis, Mongo e Postgre
+Observability (openSearch, Grafana e Dynatrace)
+Documentação no Confluence e Swagger
+Boas práticas de desenvolvimento de software (SOLID)
+Qualidade de Código (TDD, Clean Code) e Code Review
+BDD, DDD, Mockito, Junit e Cucumber
+Agil, Kanban e Scrum
+Desejável Camunda e appsmith
+
+Além disso, valorizamos a desenvoltura, flexibilidade, automotivação e trabalho em equipe. Defendemos a inclusão e a diversidade, por isso, criamos vagas afirmativas respeitando e priorizando os recortes minoritários em nosso processo de seleção, além de oferecermos núcleos e ações afirmativas dentro da empresa para acompanhamento, inclusão e desenvolvimento de todas as pessoas.
+
+ Junte-se a nós e ajude a impulsionar e transformar o mundo!
+
+Experiência e competências desejadas
+Java, Liderança, Flexibilidade, Comunicação, Responsabilidade, Camunda
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Java Developer – Equities E-Trading
+
+Sobre a vaga
+FCamara is seeking a highly skilled Senior Java Developer to join our client's E-Trading team within the global financial markets division. This is a unique opportunity to work on high-impact, performance-critical systems in the equities, FX, rates, credit, and derivatives space.
+
+Professionals based in Portugal and Brazil are encouraged to apply. Relocation to Portugal is mandatory for this role and will be fully supported by FCamara as part of our mobility package.
+
+About the Role
+As a Senior Java Developer, you will:
+Design and implement robust, scalable Java applications for E-Trading systems;
+Collaborate with trading and operations teams to deliver reliable, high-performance solutions;
+Mentor junior developers and contribute to team knowledge sharing;
+Optimize system performance and ensure code quality through testing and automation;
+Stay current with the latest Java technologies and trends in algorithmic trading.
+
+What We’re Looking For
+Bachelor's degree in Computer Science, Engineering, or related field;
+5+ years of experience in Java development, ideally in real-time or reactive systems;
+Strong hands-on experience with Java 11+, including concurrency and performance tuning;
+Proficiency in Linux environments;
+Experience with unit testing, CI/CD, and agile development practices;
+Excellent communication skills and fluency in English.
+
+Nice to Have
+Experience in financial markets or eTrading platforms;
+Familiarity with low-latency systems and algorithmic trading;
+Exposure to DevOps tools and scripting (e.g., Bash, Python).
+
+Why Join Us?
+Be part of a global leader in capital markets and institutional banking;
+Work on mission-critical systems with real-time performance requirements;
+Collaborate with top-tier professionals in a hybrid work model (Lisbon or Porto);
+Benefit from a relocation package and career growth in a high-impact environment.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Desenvolvedora Java - Afirmativa Mulheres
+
+Sobre a vaga
+A NTT DATA, é uma consultoria multinacional que oferece soluções de estratégia e de negócios, desenvolvimento e manutenção de aplicações tecnológicas e serviços de terceirização. Nós existimos para melhorar a vida dos nossos Clientes e só conseguimos fazer isso porque temos pessoas fantásticas aqui dentro.
+
+Manda bem nos requisitos abaixo? Então essa vaga é pra você!
+
+O que esperamos de ti:
+Experiência em desenvolvimento utilizando JAVA 8, 11, 17 ou superior;
+Conhecimentos em arquitetura orientada a serviços, ferramentas de integração contínua;
+Capacidade e experiência para trabalhar em células/sprints em formato ágil;
+Disponibilidade para atuação híbrida 3 vezes por semana no cliente em São Paulo/SP, horário comercial.
+
+Requisitos:
+Experiência profunda em desenvolvimento utilizando JAVA (Springboot, Springdata, Arquitetura em Microsserviços, Hexagonal);
+Noções de SQL (Banco de dados relacional e não relacional), conhecimento em integrações de API's REST e/ou SOAP e testes unitários;
+Mensageria com Kafka e RabbitMQ e Boas práticas de código (Princípios de designs e padrões, SOLID, Clean Code);
+Desenvolvedor experiente de Baixa Plataforma e projetos de modernização utilizando Cloud AWS ou Azure.
+
+Desejável:
+Conhecimento em ambiente financeiro;
+Inglês Avançado e Certificações em Cloud AWS;
+Experiência em liderança técnica participando de definição de soluções;
+Facilidade de relacionamento, boa comunicação verbal e escrita, trabalho em equipe, capacidade de trabalhar sob pressão com prazos ajustados.
+
+*Essa é uma vaga afirmativa para Mulheres.
+*Todas as nossas vagas estão disponíveis para Pessoas com Deficiência.
+
+O que temos para te oferecer?
+
+Somos uma empresa de gente que trabalha com autonomia e criatividade. O ambiente de trabalho é um espaço descontraído, integrador e repleto de desafios!
+Trabalhamos para promover uma cultura inclusiva, acreditamos na força da diversidade para gerar inovação e atingir resultados incríveis, por isso, não fazemos distinção para pessoas com deficiência, gênero, orientação sexual, raça/etnia, idade, origem, constituição familiar e estética. Trabalhamos todas as nossas vagas com base nessa premissa.
+No programa de benefícios flexíveis da NTT DATA, você pode escolher e personalizar o seu pacote de benefícios para atender melhor suas necessidades e da sua família, através de pontos distribuídos em Assistência médica e odontológica, seguro de vida, refeição/alimentação, vale combustível, além de vários programas que favorecem a qualidade de vida.
+
+Se identificou? Então, nos envie seu currículo.
+Venha fazer parte do nosso time!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Profissional Developer Java
+
+Sobre a vaga
+Sobre a vaga
+
+Código da vaga: 46361
+
+Sobre a BRQ Digital
+
+Há 32 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+
+Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+
+Vamos transformar juntos! Vem ser fera com a gente.
+
+Ei #fera Desenvolvedor Java , chegou o momento de encarar um novo desafio em sua carreira! Venha ser um #ferabrq
+
+- O que procuramos?
+
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+
+Desenvolvimento com Java;
+Criação e gerenciamento de bancos de dados Oracle;
+Experiência de trabalho em ambiente Ágil, Jira e Confluente;
+Frameworks (Spring Boot, Hibernate);
+Cloud AWS;
+
+*vaga híbrida 3x por semana em São Paulo*
+
+- O que temos pra te oferecer?
+
+Mais do que um plano de carreira!
+
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+
+- E os benefícios?
+
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+
+- Como é trabalhar na BRQ?
+
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+
+Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------

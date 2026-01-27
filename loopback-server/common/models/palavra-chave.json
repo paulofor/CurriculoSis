@@ -1,0 +1,51 @@
+{
+	"name": "PalavraChave",
+	"base": "PersistedModel",
+	"idInjection": true,
+	"options": {
+		"validateUpsert": true
+	},
+  	"mixins": {
+    	"Counts": true
+  	},
+	"properties": {
+		"palavra": {
+			"type": "string"
+		}
+	},
+	"validations": [],
+	"relations": {
+		"palavraQuantidades": {
+			"type": "hasMany",
+			"model": "PalavraQuantidade",
+			"foreignKey": ""
+		},
+		"oportunidadePalavras": {
+			"type": "hasMany",
+			"model": "OportunidadePalavra",
+			"foreignKey": "palavraChaveId"
+		}
+	},
+	"acls": [],
+	"methods": {
+		"ListaPalavra": {
+			"accepts": [
+			],
+			"returns": [
+ 				{
+     				"arg": "resultado",
+     				"type": "array",
+   					"root": true,
+    				"description": ""
+   				}
+			],
+			"description": "",
+			"http": [
+         		{
+          			"path": "/listaPalavra",
+   					"verb": "get"
+ 				}
+ 			]
+		}
+	}
+}

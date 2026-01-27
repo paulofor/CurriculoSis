@@ -1,0 +1,258 @@
+[Oportunidade 1]
+Oportunidade: Analista de Machine Learning Sênior
+
+Sobre a vaga
+A Minerva Foods é líder em exportação de carne bovina na América do Sul e atua também no segmento de industrializados, comercializando seus produtos para mais de 100 países. Além do Brasil, a Minerva Foods está presente no Paraguai, na Argentina, no Uruguai, na Colômbia, e possui plantas especializadas em ovinos na Austrália.
+
+Com nossas 46 unidades industriais, oferecemos produtos saudáveis e nutritivos, que são comercializados para clientes do mundo todo por meio de nossos 23 centros de distribuição e 17 escritórios internacionais.
+
+A área de Business Analytics tem como propósito resolver problemas de negócio complexos; em outras palavras, a equipe de Business Analytics utiliza técnicas de estatística, algoritmos, e métodos estocásticos para modelar dados internos e externos para gerar informações valiosas que possam conduzir ações de melhoria de negócios.
+
+O machine learning engineer sênior atuará na equipe de business analytics e será responsável por produtizar soluções de modelagens, aprendizado de máquina e modelos matemáticos em ambientes de nuvem ou interno, além de monitorar a qualidade dos modelos em produção. Garantir o funcionamento dos modelos em produção é imprescindível para o momento da empresa pois os modelos tomam decisão no negócio.
+
+As soluções deverão ser organizadas e disciplinadas a ponto de gerar insight, retroalimentando novos modelos para melhor performance. O acompanhamento do desempenho dos modelos assim como a estabilidade das variáveis envolvidas é de grande importância e devem ser mantidas atualizadas de acordo com a frequência definida.
+
+Responsabilidades e Atribuições
+Ser responsável por configurar a infraestrutura de projetos escaláveis de aprendizado de máquina e modelos estatísticos;
+Implementar pipelines de MLOps de acordo com as melhores práticas de mercado, garantindo versionamento e funcionalidade robusta da solução;
+Trabalhar em conjunto com Cientista de Dados para projetar soluções end-to-end em projetos de IA;
+Colaborar com demais machine learning engineer com menos experiência;
+Experiência com ferramentas e abordagens de MLOps como MLFlow, Spark, Git, entre outros;
+Domínio de técnicas em conteinerização via Docker;
+Habilidades de desenvolvimento de software. Diferencial se tiver experiência com arquiteturas de microserviços;
+Familiaridade com ambientes Cloud, preferencialmente AWS / Azure;
+Experiência em processos de Devops, especialmente conceitos de CI/CD.
+
+Requisitos e Qualificações
+Pré-requisitos
+Superior completo em áreas correlatas a computação e/ou exatas;
+Experiência comprovada de 4 anos na área de MLOPs;
+Conhecimento de Cloud em AWS/Azure - Experiência com tecnologia de containers em cloud (AWS ECS/EKS, ECR, e/ou Azure AKS), Arquitetura Serverless (AWS Api Gateway, AWS Lambda e/ou Azure Functions);
+Conhecimento avançado em Python;
+Desejável: Experiência com o desenvolvimento e implementação de API’s (Flask, FastAPI);
+Desejável: Inglês - Nível Intermediário;
+Desejável: Mestrado ou pós-graduação em ciência da computação;
+Capacidade de comunicação com stakeholders não técnicos;
+Habilidade para traduzir requisitos de negócio em soluções técnicas.
+
+Diferencial
+Conhecimento em Kubernets;
+Conhecimento em Terraform.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Profissional de Engenharia de Dados Azure/Databricks - SR
+
+Sobre a vaga
+Código da vaga: 48411
+
+Sobre a BRQ Digital
+
+Há 32 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+
+Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+
+Vamos transformar juntos! Vem ser fera com a gente.
+
+Ei Profissional de Engenharia de Dados Azure/Databricks - SR, chegou o momento de encarar um novo desafio em sua carreira! Venha ser um #ferabrq
+
+- O que procuramos?
+
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+
+Habilidades Principais:
+Atuação no desenvolvimento e implementação de pipelines de ingestão e preparação de dados utilizando serviços do Azure como Data Factory, Event Hubs, Databricks, Synapse Analytics e Data Lake Storage.
+Domínio em linguagens como Python, SQL e Scala para construção de pipelines, transformação e manipulação de grandes volumes de dados em ambientes distribuídos com Apache Spark e PySpark.
+Experiência na integração de fontes de dados diversas (SQL, NoSQL, APIs e data lakes), com foco em qualidade, integridade, performance e governança de dados.
+Participação em times ágeis e multidisciplinares, traduzindo requisitos de negócio em soluções técnicas escaláveis e seguras, com forte atuação em arquitetura de dados na nuvem.
+Aplicação de práticas de CI/CD para automação de pipelines, com atenção à segurança, conformidade e entrega contínua de dados para suporte à área de Customer Interactions & BI, com foco em projetos de Pricing.
+
+Hibrido 3x na semana na região da Vila Olimpia - SP.
+
+- O que temos pra te oferecer?
+
+Mais do que um plano de carreira!
+
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+
+- E os benefícios?
+
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Atuação híbrida; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+
+- Como é trabalhar na BRQ?
+
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+
+Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Sênior | Monee
+
+Sobre a vaga
+About The Team
+
+Sobre a Shô
+
+Aqui na Shô, acreditamos que cada membro de nossa equipe é fundamental para o nosso sucesso, e que diversidade de perspectivas e vivências são essenciais para movimentar nosso negócio e impulsionar o nosso propósito de mudar o mundo para melhor. Fazer parte do nosso time é a oportunidade de se desenvolver dentro de uma cultura de muita agilidade. Se você ama assumir grandes responsabilidades e fazer o que nunca foi feito, a Shô é seu lugar. Aqui você terá grandes desafios, trabalhará em colaboração com um time diverso e contribuirá para o futuro do e-commerce no Brasil, criamos impacto positivo na vida de milhões de pessoas.
+
+Modelo de Trabalho
+
+Adotamos um modelo de trabalho híbrido, esse modelo permite que as pessoas ajustem seu ambiente de trabalho de acordo com suas necessidades pessoais, ao mesmo tempo em que promove a colaboração e interação no escritório.
+
+Job Description
+
+Qual será a sua missão:
+
+Responsável por desenvolver e otimizar as camadas de coleta, integração e armazenamento de dados do Monee. O Engenheiro de Dados construirá pipelines de dados que transformam dados brutos em conjuntos de dados valiosos, facilitando a análise e atendendo aos requisitos de negócios e à geração de insights. Especializado em projetos de Big Data e Analytics, com baixa latência de consumo.
+
+Como Será o Seu Dia a Dia
+
+Aplicar conceitos e melhores práticas de engenharia de software, incluindo pensamento estruturado,
+
+reutilização e modularização;
+
+Criar pipelines de dados e rotinas de automação de processos, integrando diferentes camadas de dados, usando Python, Airflow, Kubernetes e SQL;
+Identificar oportunidades de aquisição de dados e realizar análises de dados;
+Analisar e organizar dados brutos, combinando informações de diferentes fontes;
+Interpretar tendências e padrões nos dados coletados;
+Explorar maneiras de melhorar a qualidade dos dados e prepará-los para modelagem prescritiva e preditiva;
+Realizar análises básicas de dados e gerar relatórios sobre os resultados dos processos de ELT;
+Aplicar as melhores práticas de engenharia de software ao desenvolver pipelines de dados;
+Avaliar as necessidades e metas do negócio e determinar como os dados da empresa podem ser usados para atingir os objetivos.
+
+Requirements
+
+O que você precisa para assumir o desafio:
+
+Bacharel em Ciência da Computação, Engenharia da Computação, TI ou áreas afins;
+Python, SQL, Shell Script;
+Versionamento de código e gerenciamento de mudanças usando Gitlab CI/CD;
+Manipulação de arquivos usando Python: CSV, Excel, Planilhas Google, Parquet;
+Estratégias de empacotamento Python usando ambiente virtual Linux;
+Desenvolver automação de processos e pipelines de dados (ELT) usando Airflow;
+Bancos de dados relacionais, modelagem ER;
+Kubernetes para gerenciamento de contêineres Docker;
+Comunicação com APIs de dados usando Python;
+Hadoop e Hive, conceitos e arquitetura do Spark;
+Conceitos de segurança de dados;
+Excelentes habilidades de comunicação verbal e escrita;
+Conhecimento avançado da língua inglesa.
+
+Benefícios
+
+Assistência médica e odontológica, estendendo-se aos dependentes;
+Parceira com Gympass e TotalPass;
+Vale Refeição/Alimentação flexível;
+Vale Transporte, Vale Mobilidade ou Estacionamento no local;
+Benefício flexível;
+Zenklub;
+Bônus anual discricionário, atrelado à performance.
+
+ VEM FAZER HISTÓRIA COM A GENTE. 
+
+O QUE TE FAZ ÚNICO, NOS FAZ MELHORES! 🧡
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+Job Description
+
+Superintendência responsável pelas disciplinas de ciência de dados, através do desenvolvimento de modelos preditivos, business e insights analytics, construção de dash, estudos e análises de mercado.
+
+Responsibilities and assignments
+
+Desenvolvimento e Governança de Feature Store: Criar e manter uma Feature Store eficiente e alinhada ao negócio
+Análise de Impacto e Viabilidade: Avaliar e apresentar os ganhos das novas variáveis e fontes propostas e a viabilidade técnica e financeira de potenciais fornecedores de dados externos.
+Colaboração interdisciplinar: Atuar como facilitador e ponto focal entre as equipes de Engenharia de Dados, Produtos e Negócios, para implementar as soluções baseadas em dados.
+Desenvolvimento de Features com Azure e Databricks: Utilizar Azure e Databricks para desenvolver e otimizar pipelines de dados, criando features que alimentam modelos analíticos e preditivos
+
+
+Requirements And Qualifications
+
+Profissional com formação em exatas: matemática, estatística, engenharia, física ou afins
+Experiência em times de cientistas de dados - com desenvolvimento de estudos, modelos e/ou desenvolvimento de Feature Store.
+Colaborador que tem iniciativa, que gosta de resolver problemas e de atender times de negócios.
+Inglês desejado
+
+
+Additional information
+
+Vale Alimentação e Refeição: Seu VR e VA são flexíveis, para que você atenda às suas necessidades e defina a melhor maneira de utilizá-los;
+Vale-Transporte: Para nos encontrarmos na Porto;
+Serviços de Transporte: Para o seu conforto e segurança no trajeto até o nosso escritório, disponibilizamos vans nas principais estações de acesso à Porto: Luz, Barra Funda, Santa Cecília e Júlio Prestes;
+Plano de Saúde, Odontológico e Seguro de Vida: Para que você possa se cuidar, e também cuidar de seus dependentes;
+Participação nos Lucros - PLR: Pois sabemos que só vamos crescer, se crescermos juntos;
+Porto em Ação: Programa complementar à PLR, disponibilizando anualmente, até 2025, uma porcentagem de valor do seu salário em ações da Porto;
+Pais, mães e filhos: Auxílio creche ou babá, para cuidar do seu bem mais precioso;
+Previdência Privada - PortoPrev: Para você garantir um futuro mais tranquilo;
+Gympass: Para você possa se exercitar e cuidar da sua saúde física em diversas academias, onde estiver;
+Bolsa de estudos: Para você começar uma graduação ou que sonha em fazer uma segunda faculdade ou pós-graduação.
+Cursos de Idiomas: Subsídio para cursos de Inglês e Espanhol;
+Programa Saúde Integral: Série de benefícios e iniciativas para te apoiar a encontrar equilíbrio de forma integral, através de três pilares: saúde mental, saúde física e saúde financeira;
+Desconto em Produtos e Serviços: Para que você possa desfrutar dos produtos e serviços deste nosso ecossistema gigante.
+
+
+Na Porto, Você Importa!
+
+A Porto é muito mais que uma seguradora: é um ecossistema gigante que utiliza tecnologia para criar soluções, através de quatro verticais de negócio: Porto Bank, Porto Saúde, Porto Seguro e Porto Serviço. A reputação e o reconhecimento conquistados ao longo de mais de 7 décadas reforçam o tamanho da Porto, uma empresa referência em negócios, feita para e por pessoas.
+
+Aqui, bate no peito de 13 mil colaboradores o orgulho de fazer parte de uma organização sólida e ética, que transforma sonhos em realidades fantásticas para os nossos mais de 15,8 milhões de clientes. São mais de 101 sucursais e escritórios regionais em todo o Brasil.
+
+O aprendizado faz parte do nosso DNA, e aqui, você terá incentivos, ferramentas e gente boa para você aprender e crescer, a cada dia, um ambiente de acolhimento e segurança, onde cada um possa ser e se orgulhar de quem se é, promovendo um espaço de respeito e vivendo de forma integral e com bem-estar, em uma empresa genuinamente humana.
+
+DIVERSIDADE & INCLUSÃO NA PORTO
+
+Aqui na Porto, valorizamos a diversidade e acreditamos que um time plural é imprescindível para o desenvolvimento de todo o nosso negócio, da sociedade, e de cada pessoa, pois entendemos que cada indivíduo é único na construção de um ambiente mais inovador e inclusivo. Juntos, trabalhamos diariamente para construirmos um espaço seguro, livre e acolhedor, com mais pluralidade e respeito. Por isso, incentivamos fortemente a inscrição de mulheres, de pessoas negras e indígenas, de pessoas com deficiência e de pessoas LGBTQIA+ em todas as nossas vagas.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro(a) de Dados AWS
+
+Sobre a vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsabilidades
+Projetar, implementar e manter pipelines de dados escaláveis e eficientes em ambiente AWS, com foco em performance, robustez e custo.
+Desenvolver soluções de integração de dados utilizando os principais serviços da AWS, como AWS Glue, Lambda, S3, Athena e Redshift.
+Assegurar a governança, qualidade e segurança dos dados, atendendo rigorosamente às normas e regulamentações específicas do setor de saúde (LGPD, HIPAA, ANS, etc.).
+Atuar de forma colaborativa com equipes multidisciplinares (médica, operacional, TI, científica), compreendendo requisitos de negócio e traduzindo-os em soluções técnicas eficazes.
+Documentar rotinas, pipelines, arquitetura de sistemas, fluxos dos dados e processos, garantindo rastreabilidade e facilidade de manutenção dos sistemas implementados.
+
+Requisitos Técnicos
+Experiência sólida em engenharia de dados, com atuação comprovada em ambientes AWS.
+Conhecimento avançado em SQL (desenvolvimento, otimização de consultas, modelagem e manipulação de dados).
+Proficiência em linguagens de programação voltadas à manipulação e processamento de dados, como Python e PySpark.
+Experiência em bancos de dados relacionais (como PostgreSQL, MySQL, SQL Server) e NoSQL (DynamoDB, MongoDB, etc.).
+Vivência com ferramentas de orquestração de workflows e automação de pipelines, como Apache Airflow ou Amazon MWAA.
+Familiaridade com práticas de DevOps e automação de infraestrutura (CI/CD, Infrastructure as Code – Terraform, CloudFormation).
+Certificações AWS relevantes (Data Analytics – Specialty, Machine Learning – Specialty, Solutions Architect – Associate) serão considerados diferenciais.
+
+Diferenciais para área da saúde
+Experiência em projetos envolvendo dados de saúde, especialmente integração com prontuários eletrônicos (Tasy, MV) e sistemas de gestão hospitalar.
+Conhecimento em padrões de interoperabilidade em saúde, como FHIR e OMOP CDM.
+
+Habilidades Comportamentais
+Comunicação clara e eficaz, capaz de dialogar tanto com área técnica quanto com stakeholders não técnicos.
+Capacidade de atuação colaborativa em equipes ágeis e multidisciplinares.
+Proatividade na identificação e solução de problemas, bem como no aprimoramento contínuo dos processos de dados.
+Compromisso com aprendizagem contínua, busca pela inovação e atualização frente às tendências do setor de dados e saúde.
+-----------------------------------------------------------------------------------

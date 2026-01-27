@@ -1,0 +1,268 @@
+[Oportunidade 1]
+Oportunidade: Engenharia de Dados AWS - Sênior
+
+Sobre a vaga
+Sobre a vaga
+
+Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil.
+Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos.
+Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital.
+
+O que estamos buscando?
+
+Requisitos:
+Experiência com integração e processamento de dados
+Experiência na construção de processos ETL e fluxos de dados
+Sólidos conhecimentos com SQL
+Conhecimento com modelagem de dados multidimensional
+Conhecimento em Cloud Computing (AWS)
+Experiênncia com Athena, Glue e QuickSight
+
+Atuação 100% remota
+
+Descrição comportamental: 
+Procuramos uma pessoa que:
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+Tenha habilidades de resolução de problemas;
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+
+O que oferecemos:
+
+Cartão multi-benefícios – você escolhe como e onde utilizar;
+Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas;
+Programas de incentivo à Certificações;
+Horário de trabalho flexível;
+Plano personalizado de carreira e possibilidade de carreira internacional;
+Salários competitivos;
+Avaliação de desempenho anual com possibilidade de bonificação;
+Gympass;
+Previdência Privada;
+Auxílio-Creche;
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+
+Big enough to deliver – small enough to care.
+#VempraGFT
+#VamosVoarJuntos
+#ProudToBeGFT
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Machine Learning Engineer
+
+Sobre a vaga
+Vaga: Machine Learning Engineer 
+
+Sobre a ATRA Informatica:
+A ATRA Informatica é uma consultoria de TI especializada em Dados, líder no mercado e localizada em São Paulo. Oferecemos uma cultura de inovação e crescimento contínuo para nossos colaboradores.
+
+Descrição da Vaga:
+Estamos em busca de um(a) Machine Learning Engineer especializado(a) em Google Cloud Platform (GCP) para integrar nosso time. O profissional será responsável pelo desenvolvimento, implantação e manutenção de modelos de Machine Learning, utilizando tecnologias de ponta para resolver problemas complexos e melhorando produtos e serviços.
+
+Responsabilidades:
+Desenvolver e implementar modelos de Machine Learning utilizando GCP 
+Utilizar bibliotecas de Python, como Scikit-learn, TensorFlow e Pandas, para o desenvolvimento de soluções 
+Trabalhar com Inteligência Artificial Generativa para criar soluções inovadoras 
+Utilizar ferramentas como Gemini e Vertex AI para gerenciamento e deploy de modelos 
+Desenvolver e gerenciar chatbots utilizando Dialogflow CX 
+Colaborar com equipes multidisciplinares para entender as necessidades do negócio e traduzir requisitos em soluções técnicas
+Monitorar e otimizar a performance dos modelos em produção 
+Documentar processos e soluções desenvolvidas 
+
+Requisitos:
+Experiência comprovada como Machine Learning Engineer 
+Proficiência em Python e bibliotecas como Scikit-learn, TensorFlow e Pandas 
+Experiência com Google Cloud Platform (GCP) 
+Conhecimento em Inteligência Artificial Generativa 
+Experiência com Gemini e Vertex AI 
+Experiência com desenvolvimento e gerenciamento de chatbots utilizando Dialogflow CX 
+Habilidade para trabalhar em equipe e boa comunicação 
+Graduação em Ciência da Computação, Engenharia, Matemática ou áreas relacionadas 
+
+Benefícios:
+📚 Treinamentos e cursos em tecnologias de dados de mercado 
+💳 Auxílio com certificações (100% de reembolso) 
+📊 Trilhas de conhecimento em tecnologias de dados e cloud 
+🎓 Parcerias com instituições de ensino para pós-graduação 
+🏋️‍♂️ Totalpass 
+🧠 Parcerias com profissionais de psicologia e nutrição para o seu bem-estar 
+💰 Contratação PJ e salário negociável 
+
+🌍 Localização: Remoto
+
+Se você tem o perfil que buscamos e deseja fazer parte de um ambiente dinâmico e desafiador, envie seu currículo! Venha fazer a diferença na governança de dados!
+
+Interessado(a)? Candidate-se!
+
+Estamos ansiosos para conhecer você! 🌟
+
+#Vagas #MachineLearning #GCP #InteligênciaArtificial #Tecnologia #Dados #Oportunidade #Carreira #TrabalhoRemoto #ATRAInformatica
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenvolver novos produtos de dados para o negócio e garantir a sustentação de
+
+pipelines legados através do uso de técnicas de transformação (ETL/ELT) e modelagem
+
+de dados;
+
+Processar dados em near real time;
+
+Garantir a qualidade dos dados;
+
+Garantir que os dados sejam armazenados, processados e compartilhados de forma
+
+segura e em conformidade com as leis e regulamentos de proteção de dados, como
+
+LGPD.
+
+Lidar com grandes volumes de dados provenientes de diferentes fontes (Big Data)
+
+Possuir boa interface com o negócio
+
+Perfil proativo
+
+Realizar levantamento de requisitos para auxílio na modelagem de novos produtos de
+
+dados.
+
+Qualificações Essenciais
+
+Docker
+Ecosistema Hadoop
+Confluent Cloud (Desejável)
+Ingestão de dados avançado
+Ingestões BIG Data
+Ingestões Batch e Streaming
+Kafka
+DMS
+Hudi
+Modelagem de dados avançado
+AWS intermediário
+S3
+Redshift
+EMR
+Athena
+Glue
+DynamoDB
+
+Qualificações Desejáveis
+
+Conhecimento no Mercado Segurador, Financeiro, Imobiliário ou Crédito sera
+
+um diferencial.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Location: Rua Mariano Torres 729, Floor 9º.; Curitiba - PR, 80060-120
+CLT Position (Consolidação das Leis do Trabalho)
+Hybrid Work Model: 2 days office, 3 days remote.
+
+Our mission is to unlock human potential. We welcome you for who you are, and the background you bring, and we embrace individuals who get excited about learning. Bring your experiences, your perspectives, and your passion; it’s in our differences that we empower the way the world learns.
+
+About the Role:
+This position within the Wiley Data Analytics & Insights team, is responsible for functioning as the Senior Data Engineer, to develop and maintain data pipelines from multiple data sources into our Data Lake environment.
+This individual will work very closely with the other development leads, data engineers, and data architects to build and maintain data pipelines going to different zones of the Snowflake Data Warehouse environment. Determine the optimal approach for extracting, transforming, and loading data into different zones of Data Lake (Raw/Native, Processed/Transformed, Enriched, Archive). This includes design and development to prepare data for movement storage & consumption Views, ELT Processes, Extracts & other processes that manipulate, aggregate, clean, or enrich the data. The individual should demonstrate a thorough understanding of business validations and data quality. They should apply these principles diligently within our processes, aligning with the specific use cases.
+This data lake would see regular addition of datasets from internal and external sources deemed important for Wiley’s data analytics and insights requirements. In some cases, this role may involve building repeatable data feeds to and from platforms such as, Salesforce, SAP, MDM, Eloqua, e-commerce websites, etc. The position requires development skills to enable the matching and linking of internal and external data sources (especially as it relates to Customer and products) using analytical techniques/tools. The role will have frequent interaction/collaboration with Solutions Architects, Data Architects, BI & Analytics Development, Data Engineering, Marketing, Sales, Application/Product teams and Enterprise Architects to support Wiley’s Data Analytics and Insights roadmap.
+
+How you will make an impact:
+Design and implement secure data pipelines into a Snowflake data warehouse from on-premise and cloud data sources
+Define best practices and standards for data pipelining and integration with Snowflake data lake and warehouses in collaboration with Data Architect and other Data leads
+Design and implement high-performing data pipelines feeding downstream systems
+Collaborate with onshore/ offshore data engineers, BA, and Scrum Masters who will be building or testing data applications in Snowflake environment.
+Design and implement high-performing BI dashboard integrations Cognos and QlikView working with reporting and data visualization developers
+Ensure enterprise security and access control policies are adhered to in the solution
+Creation of architecture and design artifacts and documents
+Conduct design and code reviews
+
+What we look for:
+B.S Computer Science or related degree
+4+ years experience in data pipeline architecture and data modelling
+Demonstrably deep understanding of SQL and relational databases (Snowflake preferred)
+Experience with Snowflake SnowSQL and writing user-defined functions would be a plus
+Hands-on experience with Python, Scala, Java, SQL, and tools like NIFI, Attunity, Spark (Databricks/Qubole), etc.
+Hands-on experience with data pipeline tools within cloud-based environments (Argo, Airflow, Luigi, DBT)
+Hands-on experience with CI/CD tools and practices (CircleCI, Travis, Jenkins)
+Hands-on experience with AWS (SQS, S3, Kinesys, Firehose, MKS, Lambda)
+Experience with open-source data warehouse tools
+Constantly improve product quality, security, and performance
+Write good code, performant code (Python preferred)
+
+About Wiley:
+Wiley is a trusted leader in research and learning, our pioneering solutions and services are paving the way for knowledge seekers as they work to solve the world’s most important challenges. We are advocates of advancement, empowering knowledge-seekers to transform today’s biggest obstacles into tomorrow’s brightest opportunities.
+With over 200 years of experience in publishing, we continue to evolve knowledge seekers’ steps into strides, illuminating their path forward to personal, educational, and professional success at every stage. Around the globe, we break down barriers for innovators, empowering them to advance discoveries in their fields, adapt their workforces, and shape minds.
+When applying, please attach your resume/CV to be considered.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenharia de Dados AWS - Sênior
+
+Sobre a vaga
+Sobre a vaga
+
+Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil.
+Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos.
+Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital.
+
+O que estamos buscando?
+
+Requisitos:
+Experiência com integração e processamento de dados
+Experiência na construção de processos ETL e fluxos de dados
+Sólidos conhecimentos com SQL
+Conhecimento com modelagem de dados multidimensional
+Conhecimento em Cloud Computing (AWS)
+Experiênncia com Athena, Glue e QuickSight
+
+Atuação 100% remota
+
+Descrição comportamental: 
+Procuramos uma pessoa que:
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+Tenha habilidades de resolução de problemas;
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+
+O que oferecemos:
+
+Cartão multi-benefícios – você escolhe como e onde utilizar;
+Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas;
+Programas de incentivo à Certificações;
+Horário de trabalho flexível;
+Plano personalizado de carreira e possibilidade de carreira internacional;
+Salários competitivos;
+Avaliação de desempenho anual com possibilidade de bonificação;
+Gympass;
+Previdência Privada;
+Auxílio-Creche;
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+
+Big enough to deliver – small enough to care.
+#VempraGFT
+#VamosVoarJuntos
+#ProudToBeGFT
+-----------------------------------------------------------------------------------

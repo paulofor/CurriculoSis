@@ -1,0 +1,248 @@
+[Oportunidade 1]
+Oportunidade: Consultor Engenheiro de Dados (PJ)
+
+Sobre a vaga
+Job Description
+
+Somos a PRIO, a maior companhia independente de óleo e gás do Brasil. Buscamos continuamente por otimização de processos operacionais e de soluções inovadoras que visem diminuir os custos. Aqui todo trabalho é multidisciplinar e cada desafio é único!
+
+Estamos buscando um Consultor de Engenharia de Dados para se juntar à nossa equipe em tempo integral na modalidade de Pessoa Jurídica. O profissional será responsável por desenvolver e gerenciar pipelines de dados e realizar monitoramento de problemas no ambiente de dados.
+
+Responsibilities and assignments
+
+Desenvolver e Gerenciar Pipelines de Dados: Garantir a integridade, disponibilidade, escalabilidade e eficiência das informações da pipeline de dados e informações disponibilizadas para a empresa utilizando boas práticas de ETL/ELT e frameworks de dados distribuídos;
+Monitoramento e Solução de Problemas: Monitorar, realizar testes regulares e solucionar problemas no ambiente de dados da PRIO;
+Ingestão e Processamento de Dados: Responsável por desenvolver, otimizar e corrigir processos para grandes volumes de dados;
+Estratégia de Desenvolvimento: Assegurar boas práticas, código limpo, testes automatizados e qualidade nas implantações;
+Colaboração Multifuncional: Trabalhar com equipes para entender requisitos de dados e traduzir em soluções técnicas;
+Segurança e Governança de Dados: Garantir conformidade com as melhores práticas;
+Arquitetura de Dados: Projetar, desenvolver, implementar e gerenciar soluções de arquitetura de dados;
+Documentação: Documentar arquitetura, pipelines e processos para manutenção e continuidade;
+Comunicação Clara: Assegurar compreensão compartilhada da arquitetura de dados entre as equipes.
+
+Requirements And Qualifications
+
+Requisitos:
+
+Experiência com SQL e BigQuery: Criação de consultas e procedures otimizadas;
+Integração de Dados via APIs: Utilização de APIs para integração e consumo de dados;
+Processo Completo de Dados: Conhecimento em ingestão, transformação, armazenamento e disponibilização de grandes volumes de dados;
+Ferramentas de Processamento de Dados: Experiência com SQL, Teradata, DataFactory, Microsoft Fabric e outras ferramentas;
+Ferramentas de ETL: Experiência com ferramentas de ETL e integração de dados;
+Desenvolvimento de Soluções de Armazenamento: Conhecimento avançado em Data Lakes, Data Warehouses e Lakehouses;
+Linguagens de Programação: Proficiência em Python e/ou Java.
+
+Additional information
+
+Como é o processo seletivo na PRIO?
+
+Gostamos de já chegar na entrevista te conhecendo um pouco, então pedimos a você que preencha ainda na etapa de cadastro alguns testes para podermos avaliar o seu Match com a nossa Cultura :)
+
+Depois, nós do time de RH vamos marcar um papo com você. A ideia aqui é aprofundar um pouco mais nas suas experiências, buscando o alinhamento com o perfil da vaga e comportamental que buscamos para a PRIO. Ah, nesse papo também vamos falar sobre a companhia, fluxo do processo, benefícios e tirar suas dúvidas!
+
+Dica: Nesse nosso papo, vamos querer saber sobre experiências que você já vivenciou, alinhadas aos valores da PRIO. A ideia é que você consiga nos apresentar essas vivências de forma completa, com contextos, sua responsabilidade, o que você fez e qual foi o resultado!
+
+Em seguida, vamos adentrando em aspectos mais técnicos, que podem envolver um case ou apenas uma entrevista com o(a) gestor(a) da vaga, aonde você poderá conhecer um pouco mais sobre os desafios técnicos da vaga e será avaliado dentro dos requisitos da vaga.
+
+Ao fim, os finalistas conversam com o diretor da respectiva área para a escolha final!
+
+Como se preparar para o processo seletivo na PRIO:
+
+Pesquise sobre o negócio da companhia e nossa atuação no setor de óleo e gás;
+Busque se atualizar sobre as notícias recentes da companhia, sejam da imprensa ou divulgadas em nosso site de relações com investidores;
+Acesses nossas redes sociais para conhecer mais sobre como é trabalhar na PRIO!
+Pense na sua história e principais realizações. Estruture seus resultados e conquistas para relatá-los na hora da entrevista.
+
+Fale dos sucessos, mas entender as falhas e como você aprendeu com elas também é importante. Prezamos pela transparência, por isso, não tenha medo de falar sobre os seus insucessos.
+
+Desejamos a você um bom processo seletivo!
+
+Venha fazer parte da PRIO
+
+Somos a PRIO, a maior companhia independente de óleo e gás do Brasil. Buscamos continuamente por otimização de processos operacionais e de soluções inovadoras que visem diminuir os custos. Aqui todo trabalho é multidisciplinar e cada desafio é único!
+
+Com foco no investimento e na recuperação de ativos em produção, somos especializados na gestão eficiente de reservatórios e no redesenvolvimento de campos maduros. Acreditamos na condução dos negócios, com foco em segurança e cuidado com a saúde dos seus colaboradores.
+
+ Nosso ambiente de trabalho
+
+Oferecemos um ambiente de trabalho dinâmico e com muitas oportunidades de participação em diferentes projetos, favorecendo o desenvolvimento profissional e o crescimento do time. Trabalhamos em um escritório open space, o que permite a integração entre todas as equipes e a Diretoria, onde todos podem participar da tomada de decisões.
+
+Nossa cultura busca o alto desempenho e a participação efetiva de todas as pessoas. Se você sonha em se desenvolver junto com uma empresa em constante crescimento, venha fazer parte do nosso time!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor Java
+
+Sobre a vaga
+Posições em aberto de Desenvolvimento com Java (níveis PL e SR) 
+Atuação híbrida e presencial em BH
+
+Em pré requisito técnico, buscamos: 
+Java 11+ 
+Spring Boot
+Bancos SQL e NoSQL
+microsserviços e APIs RESTful
+Cloud AWS 
+Git 
+CI/CD
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: ENGENHEIRO DE DADOS
+
+Sobre a vaga
+Cargo: ENGENHEIRO DE DADOS
+
+Já pensou em trabalhar em uma das maiores empresas de Tecnologia do Brasil? Então a Cast group é o lugar certo para você! 😉
+Todas as nossas vagas são afirmativas 👩‍🦼✊🏿🤱🏳️‍🌈!!!
+
+Local de Atuação: Brasilia, Brasil.
+Modelo de Trabalho: Híbrido
+
+🔎 O QUE BUSCAMOS:
+
+Estamos à procura de um Engenheiro de Dados talentoso e apaixonado por tecnologia para reforçar nossa equipe e impulsionar soluções inovadoras na área!
+
+Se você busca novos desafios e deseja fazer parte de um time comprometido com inovação e excelência, esta vaga é para você!
+
+💡 CONTAMOS COM VOCÊ PARA:
+✔️ Construção de queries;
+✔️ Consulta de banco de dados;
+✔️ Construção de ETLs;
+✔️ Construção de processos de modelagem de dados: relacional, multidimensional e transacional;
+✔️ Realizar desenhos arquiteturais de softwares e dados.
+✔️ Atuar junto com o especialista de IA;
+✔️ Mapear e compreender as necessidades internas da área de Backoffice sobre soluções de Inteligência Artificial com o objetivo de melhorar e automatizar processos internos;
+✔️Prestar consultoria em IA.
+
+QUE POSSUA CONHECIMENTOS E EXPERIÊNCIAS EM:
+✔️ Algoritmos, estruturas de dados e boas práticas de software;
+✔️ Processos de ETL;
+✔️ Forte conhecimento em SQL, Python e Pentaho;
+✔️ Experiência em modelagem relacional e multidimensional de dados;
+✔️ Vivência com ferramentas de orquestração como Apache Airflow;
+✔️ Uso de ferramentas de integração de dados como Apache Spark e APIs REST;
+✔️ Experiência com serviços AWS;
+✔️ Conhecimento em versionamento e CI/CD usando Git e pipelines de CI/CD.
+
+BENEFÍCIOS PARA TODOS
+🍲 Recarregue suas energias com auxílio alimentação.
+🚘 Facilitamos seu caminho para o trabalho com nosso vale-transporte.
+🚑 Cuidar de você é nosso compromisso: plano de saúde para sua tranquilidade.
+
+BENEFÍCIOS PARA VOCÊ ESCOLHER
+🦷 Sorria com confiança: nosso plano odontológico cuida do seu bem-estar bucal.
+🏋️‍♀️Transforme seu bem-estar: com Wellhub, você tem acesso a academias e atividades físicas em todo lugar.
+🧠Seu bem-estar mental é nossa prioridade: apoio psicológico disponível.
+🍎Seja seu melhor com nosso programa de bem-estar, pensado para energizar e inspirar você temos massagem, ginástica laboral e frutas nos escritórios da Cast.
+💰Aproveite nosso crédito consignado para realizar seus sonhos com segurança e praticidade.
+🎫Com o Clube de Descontos economize mais com nossos descontos exclusivos para colaboradores.
+
+BENEFÍCIOS FLEXÍVEIS
+💳Com a Flash transforme suas despesas em benefícios. Cartão de crédito que simplifica suas despesas; e pague as contas de água, luz, telefone e internet.
+🎯Personalize seus benefícios: reembolsos que permitem você escolher o que mais importa: Creche e Educação para os filhos, Cursos, Medicamentos, Terapias, Procedimentos Estéticos, Óculos, Lentes de Contato, Consultas Médicas e Odontológicas (particulares).
+
+E TEM MAIS! DESENVOLVA SUA CARREIRA
+🎓Temos a Cast Academy recheada de cursos on-line, e parcerias educacionais para cursos de Graduação e Idiomas (United Idiomas) com super descontos.
+
+E aí, topa ser #CASTLOVER 💙?
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Java Developer
+
+Sobre a vaga
+The key to our success is simple; we deliver the highest quality, on time, with passion and commitment, and live every day by a set of great values. We've built a company that fosters long-term careers in an environment of continuous learning, with cutting-edge benefits, tools, and resources. In addition, certifications that endorse our company as a great place to work.
+
+Responsibilities
+
+Design, develop, and implement integrations with third-party systems and APIs. 
+Collaborate closely with product teams and external partners to understand technical requirements and deliver efficient integration solutions. 
+Build robust and scalable backend services using Java and related technologies. 
+Retrieve and process external data for real-time display on our devices. 
+Ensure integrations meet security, performance, and maintainability standards. 
+Create and maintain clear, well-documented technical documentation. 
+Participate in code reviews and promote best development practices within the team. 
+
+Requirements
+
+ 5+ years of experience as a Java developer in production environments. 
+Proficiency in Java and experience working with servlet containers. 
+Strong experience consuming and integrating with RESTful APIs. 
+Experience with SOAP and XML message handling. 
+Knowledge of third-party SDK integration. 
+Solid knowledge of HTML and vanilla JavaScript. 
+Proven track record developing external system integrations. 
+Ability to write clean, efficient, and well-documented code. 
+Strong problem-solving and analytical skills. 
+Advanced English
+
+About Us
+
+AssureSoft is a multinational software development and information technology company providing strategic consulting, technology services, and outsourcing business processes. We work to innovate and create quality software with motivated, passionate, and qualified teams that develop in an environment of professional, stable growth and continuous learning.
+
+What set us apart
+
+Great Place To Work certification. 
+Company with more than 15 years of experience. 
+Work with world-class clients and long-term projects. 
+English scholarships for external institute. 
+English classes with company teachers. 
+State-of-the-art tools and resources. 
+Certifications for your professional growth. 
+Recreation and leisure activities. 
+Compliance with the regulations and labor rights of your region. 
+
+Retention of your personal information: AssureSoft will retain your personal information for as long as necessary to fulfill the purposes for which it was collected or as necessary to comply with our legal obligations, resolve disputes, and maintain appropriate business records. Once the purpose has been fulfilled, your personal information will be retained and blocked up due to the possibility of legal and governmental requirements and until the status of limitations has run out.
+
+Important Notice Regarding Personal Information: If you do not want your personal and professional information to be retained in our database, please send your request for data removal to info@assuresof.com
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: SOFTWARE DEVELOPER JAVA (DevEx)
+
+Sobre a vaga
+Vem ser Inter com a gente!!! 
+
+Conta digital gratuita, plataforma de investimentos, shopping e o que mais a vida precisar. O Inter é isso, e é muito mais. A gente acredita que tudo pode ser mais simples, e que cada dia é mais uma oportunidade de fazer diferente. Se você também é assim, vem ser #sanguelaranja.
+
+Join us in Inter&Co!!! 
+
+Free digital account, investment platform, shopping and whatever else life needs. Inter is that, and much more. We believe that everything can be simpler, and that every day is another opportunity to do something different. If you're like this too, come be #sanguelaranja.
+
+O que você irá fazer?
+
+Desenvolver, manter e aprimorar a arquitetura de software interna da empresa;
+Propor e implementar otimizações nos frameworks para aumentar sua eficiência;
+Participar de discussões técnicas para garantir a alta qualidade do software produzido pela equipe;
+Fornecer suporte a outros desenvolvedores no uso adequado das ferramentas criadas pela equipe;
+
+O que oferecemos?
+
+Vale Alimentação/Vale Refeição;
+Plano de saúde e odontológico;
+Seguro de vida;
+Vale Transporte;
+Auxílio Creche;
+Duo Gourmet;
+Wellhub;
+....e muito mais! 
+
+O que buscamos?
+
+Formação superior completa em sistemas de informação ou áreas afins;
+Experiencia com programação orientada a objetos;
+Experiência com Java;
+Conhecimento em testes unitários;
+Experiência com Git;
+Experiência com a criação e manutenção de sistemas distribuídos (principalmente microserviços);
+Conhecimento do padrão REST;
+Conhecimento em gerenciadores de dependência Java (Maven e/ou Gradle);
+Conhecimento em OpenAPI.
+
+#VemproInter!!!
+
+O Nosso time de Talent é focado em contratar pessoas protagonistas, atuando com paixão e mentalidade inclusiva, respeitando a singularidade de cada pessoa e oferecendo a todos os colaboradores meios para que possam desenvolver o seu potencial e protagonismo.
+
+O Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a pessoas com deficiências.
+
+#ComeToInter!!
+
+Our Talent team is focused on hiring leading people, acting with passion and an inclusive mindset, respecting the uniqueness of each person and offering all employees the means to develop their potential and protagonism. Inter is a partner and is aware of inclusive projects, all of our vacancies are aimed at people with disabilities.
+-----------------------------------------------------------------------------------

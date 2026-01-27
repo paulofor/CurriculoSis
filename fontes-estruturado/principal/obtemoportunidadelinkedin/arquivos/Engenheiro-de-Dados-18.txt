@@ -1,0 +1,302 @@
+[Oportunidade 1]
+Oportunidade: Pessoa Engenheira de Machine Learning Sênior
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+Estamos em busca de uma pessoa Engenheira de Machine Learning para integrar a nossa equipe no Data Platform & MLOps.
+
+Nossa missão é desenvolver ferramentas e processos que impulsionem a inovação e otimizem a operação de projetos de Machine Learning em toda a empresa.
+
+A squad de MLE desempenha um papel central na construção da plataforma MLOPs, focando na criação de novas funcionalidades que abrangem todo o ciclo de vida de desenvolvimento e entrega de modelos, desde a coleta de dados até o deployment em produção. Aqui, você terá a oportunidade de causar impacto direto em diferentes áreas da companhia, trabalhando com tecnologia de ponta e frameworks modernos. Oferecemos um ambiente colaborativo e dinâmico, onde você terá liberdade para explorar e inovar, com o suporte de uma equipe altamente qualificada e aberta a novas ideias.
+
+Você Será Responsável Por
+
+Colaborar com uma equipe multidisciplinar e ágil de Machine Learning Engineers, Data Engineers e Site Reliability Engineers para arquitetar e implementar soluções de ML, sejam ferramentas, serviços ou contribuindo para nossa plataforma de ML e Data;
+Desenvolver ferramentas que auxiliem nossos Data Scientists em suas funções diárias;
+Desenvolver arquiteturas robustas e escaláveis sempre tendo em foco os conceitos de MLOps.
+
+Qualifications
+
+O que estamos buscando em você?
+
+Experiência prévia atuando com Engenharia de Machine Learning;
+Conhecimento em Git;
+Experiência com cloud (AWS);
+Experiência com CI/CD (Jenkins, ArgoCD, Harness);
+Conhecimento em desenvolvimento de modelos de ML;
+Conhecimentos básicos de Engenharia de Software;
+Conhecimento sobre fundamentos de ML: Não apenas sobre algoritmos, mas como funcionam;
+Conhecimento avançado em Python;
+Conhecimento em ferramentas para manipulação de dados (spark, pandas, numpy);
+Conhecimento básico de tecnologias para conteinerização (Docker, Podman);
+Conhecimento com bibliotecas de ML (scikit-learn, tensorflow, pytorch);
+Conhecimento dos conceitos da cultura MLOps e sua importância;
+Curiosidade, adaptabilidade,colaboração, ownership e comunicação. 
+
+Desejável
+
+ Experiência com Kubernetes;
+Conhecimentos de ferramentas de workflow de projetos de ML (DVC, mlflow).
+
+Additional Information
+
+Na Serasa Experian, acreditamos que a diversidade é fundamental para um ambiente de trabalho mais saudável e inovador, onde todas as pessoas possam trocar experiências e expressar suas ideias. Por isso, contamos com diversas ações para promover um recrutamento inclusivo e apoiar no desenvolvimento profissional das nossas pessoas. Além disso, temos os nossos grupos de afinidade, criados para empoderar e acolher as pessoas de grupos sub-representados:ExperianPride (comunidade LGBTQIAPN+), Ubuntu (equidade racial), Women in Experian (equidade de gênero) e Aspire (pessoas com deficiência) e Connecting Generations (gerações). Venha fazer parte dessa transformação!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pleno Data Engineer
+
+Sobre a vaga
+Impactar positivamente bilhões de vidas é nosso propósito e também pode ser o seu! 🚀
+
+Fundada em 2010, no Brasil, a Semantix é referência em Big Data, Analytics e Inteligência Artificial.
+
+Somos um time de apaixonados por inovação, com diversas origens e diferentes graus de experiência. O que nos une, é a motivação compartilhada de transformar a experiência de nossos clientes através da cultura data driven.
+
+Se você se identificou, a Semantix é seu lugar.
+
+Estamos ansiosos para ter você como parte do time.
+
+Afinal, o futuro se faz juntos. 💜
+
+Requisitos
+
+Estamos em busca de um Engenheiro de Dados altamente qualificado para se juntar à nossa equipe. O candidato deve possuir habilidades avançadas em SQL, manipulação, tratamento e análise em grandes volumes de dados, desenho e a construção de dashboards no Power BI, além de experiência com Python, Teradata e Databricks. Este profissional será responsável pela criação, transformação e análise de dados, bem como pela construção e automação de processos em cloud.
+
+Responsabilidades e Atribuições
+
+Análise de dados, criação, transformação e manipulação de dados de cadastro de clientes
+Análise para identificação de gaps, mensuração e diagnostico de problemas e desenvolvimento de soluções
+Criação de regras de negócio e tratamento de dados para MDM (Master Data Management)
+Manipulação de altos volumes de dados, identificação de padrões e tendências nos dados coletados
+Criação e aplicação de testes de qualidade (QA) e a implementação de processos para garantir a precisão e a integridade dos dados
+Definição, construção e monitoramento de indicadores de dados
+Otimização de desempenho de consultas SQL
+Implementação de soluções de integração de dados entre diferentes sistemas
+Construção e automação de processos em cloud no Azure Databricks
+Desenvolvimento, publicação e automação de dashboards interativos utilizando Power BI
+Desenvolvimento de modelagens de dados
+Vivência em TDCH será considerada um diferencial
+Desenvolvimento de dashboards e relatórios interativos utilizando Power BI
+Colaboração com equipes multidisciplinares para entender necessidades de dados e fornecer soluções adequadas
+
+Requisitos e Qualificações
+
+Habilidades avançadas em SQL
+Expertise em análise, coleta e mensuração dos dados
+Experiência em projetos de MDM e Visão Única do cliente será considerado diferencial
+Experiência com Azure Databricks
+Experiência em modelagens de dados
+Conhecimento em Python será considerado diferencial
+Conhecimento em Teradata
+Experiência em projetos de migração de dados para cloud
+Construção de dashboards no Power BI.
+Vivência em TDCH será considerada um diferencial.
+
+Qualificações Desejáveis
+
+Capacidade de trabalhar de forma independente e em equipe.
+Excelentes habilidades de comunicação e resolução de problemas.
+Proatividade e capacidade de adaptação a novas tecnologias e metodologias.
+
+Benefícios
+
+💰 Salário compatível com o mercado;
+
+🍎 Caju (cartão flexível) com a recarga de R$ 1.060/mês;
+
+🚑 Plano de Saúde Bradesco;
+
+🦷 Plano Odontológico Bradesco;
+
+👩‍⚕️ Medicina preventiva com Dr. Alper;
+
+💜 Seguro de Vida;
+
+🏋🏽‍♂️ Gympass;
+
+🏞️ SESC;
+
+👶🏼 Auxílio Creche para mamães e papais;
+
+💰 PLR;
+
+🧠 Learning - área focada no desenvolvimento de hard e soft skills;
+
+📖 Parceria com instituições de ensino para formação técnica, MBA, pós-graduação, certificações, inglês e espanhol;
+
+🚀 Plano de Carreira;
+
+🛒 Desconto em produtos de um portal parceiro.
+
+Ressaltamos que todas as nossas vagas estão abertas a pessoas de todos os perfis e origens, valorizando a diversidade e promovendo um ambiente inclusivo e acolhedor para todos. 💎
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Desafio
+
+Nossos(a) engenheiros(a) de dados colocam a mão na massa em implementações técnicas, utilizando ferramentas inovadoras e tecnologias de ponta. Têm acesso a capacitações exclusivas na nossa abordagem orientada a dados e atuam em sinergia com consultores e cientistas de dados para desenvolver entregas técnicas de alto impacto para grandes empresas. Também ficam atentos(a) às tendências ou inconsistências de dados nas implementações técnicas, que afetam as metas de negócios. Essa é uma posição altamente técnica, que exige experiência sólida e habilidades em programação, engenharia de dados, ciência da computação e gestão de times. O(a) profissional será desafiado(a) a tomar decisões estratégicas, garantir alta performance e segurança, além de propor melhorias contínuas que impulsionem a inovação e agreguem valor ao cliente.
+
+Responsabilidades
+
+Garantir a consistência nos processos de coleta, ingestão, transformação e integração de dados;
+Diagnosticar, revisar e testar problemas técnicos que possam ser identificados em ferramentas e processos;
+Desenvolver respostas para desafios complexos de mensuração, implementação e uso de dados com equipes de tecnologia de clientes;
+Auxiliar na auditoria contínua do site e plataformas digitais. Atender requisições de suporte de clientes, relacionados com implementações, análise, integrações, desenvolvimento e assuntos relacionados;
+Localizar e definir novas ferramentas e oportunidades de melhoria de processos. Realizar programas de capacitação e certificação fornecidos pelos parceiros Lima Consulting Group (Adobe, Google, Salesforce e outros);
+Manter-se atualizado sobre as tendências tecnológicas do mercado e suas respectivas comunidades;
+Capacidade de criar e manter procedimentos para análise e extração de dados;
+Liderar times de engenharia de dados, garantindo a qualidade das entregas, promovendo boas práticas de engenharia e apoiando o desenvolvimento e crescimento profissional da equipe.
+Atuar como mentor(a) técnico(a) do time de dados, promovendo a troca de conhecimento e incentivando a evolução contínua dos profissionais.
+Colaborar com áreas de negócio e tecnologia, contribuindo para a definição e execução de estratégias de dados alinhadas aos objetivos da empresa.
+
+
+Pré-requisitos
+
+Experiência em Engenharia de Dados;
+Experiência com programação em Python, SQL, Orientação a objetos;
+Construção e otimização de ETL e ELT;
+Conhecimento em sistemas de processamento de dados distribuídos (ex. Spark, Dask, Kafka, Hadoop etc.);
+Conhecimento em sistemas de automação de pipeline de dados (Airflow, Glue etc.);
+Conhecimentos profundos em utilização e criação de API's;
+Formação em curso superior ou experiência profissional equivalente em Ciência da Computação, Engenharia da Computação, Tecnologia da Informação ou outros campos relacionados.
+
+
+Diferenciais
+
+Experiência técnica com plataformas digitais como Google Analytics, Google Looker Studio, Adobe Marketing Cloud, Salesforce Marketing Cloud, Oracle Marketing Cloud, CMS, CDP e outras relacionadas;
+Conhecimento de ambientes baseados em nuvem como AWS, Azure e GCP; 
+Experiência no desenvolvimento de software utilizando softwares de versionamento; 
+Conhecimentos técnicos em automação de processos de ingestão, transformação e testes de dados; 
+Ter trabalhado em consultoria, agência, startup ou empresas com mindset ágil; 
+Proficiência em inglês e/ou Espanhol; 
+Entregas técnicas orientadas a implementação de plataformas de marketing digital (ex.: web analytics, teste AB, DMP, CDP) e suas configurações; 
+Conhecimento de HTML e Javascript. 
+
+
+A Lima – uma Martech com duas décadas de história no mundo – está presente no Brasil desde 2010. Somos nativos digitais e nascemos com o propósito de construir o futuro digital de empresas visionárias. Desenvolvendo soluções customizadas, resolvemos as necessidades reais de cada cliente, contando com os melhores profissionais do mercado para isso.
+
+O que esperamos de você
+
+ Postura mão na massa para contribuir na construção de soluções para nossos clientes;
+ Participação ativa em um time multidisciplinar (squad/tribo);
+ Compartilhamento de conhecimento com os colegas;
+ Que se sinta confortável em um ambiente multitarefa, exigente e ágil, com clientes de múltiplas indústrias .
+ Compreensão do ecossistema de marketing digital, publicidade digital, analytics e/ou business intelligence;
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Software Engineer
+
+Sobre a vaga
+Join our remote team as a Senior Data Software Engineer within a global leader in data-driven solutions. We are seeking a highly skilled and experienced individual to take ownership of building and implementing reusable DataBricks components for data ingestion and analytics. The successful candidate will collaborate closely with architects, technical leads, and other functional groups to ensure the creation of effective and efficient solutions. This role presents an opportunity to drive innovation and contribute to the optimization of the company's data solutions.
+
+Responsibilities
+
+
+Design and implement reusable DataBricks components for data ingestion and analytics
+Ingest data via batch, streaming, and replication into data lake and make data available for reporting and predictive modeling
+Establish security controls, integration with data governance and clear auditable data lineage
+Build collaborative partnerships with architects, technical leads, and key individuals within other functional groups
+Participate in code review and test solutions to ensure they meet best practice specifications
+Write project documentation
+Provide technical input for new feature requirements, partnering with business owners and architects
+Ensure continuous improvement by staying abreast of industry trends and emerging technologies
+Drive the implementation of solutions aligned with business objectives
+Collaborate with cross-functional teams to achieve project goals
+
+
+Requirements
+
+
+At least 3+ years of experience in Data Software Engineering
+Expertise in Databricks and PySpark for building and managing Big Data analytics applications
+Hands-on experience with Microsoft Azure, including Azure Synapse Analytics, SQL Azure, and ADLS for designing and deploying scalable, available and fault-tolerant systems
+Experience in building data ingestion pipelines, data warehousing or database architecture
+Deep understanding of data modeling concepts and experience with modern Big Data components
+Strong coding experience with Python for building data solutions
+Understanding of compliance awareness, such as PI, GDPR, HIPAA for data security and privacy
+Experience in actively participating in code review and testing solutions to ensure they meet best practice specifications
+Excellent communication skills in spoken and written English, at an upper-intermediate level or higher
+
+
+Nice to have
+
+
+Experience with Power BI for data visualization and reporting
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: - Data Developer - Junior / Mid / Senior - Campinas
+
+Sobre a vaga
+We are tech transformation specialists, uniting human expertise with AI to create scalable tech solutions.
+With over 7.400 CI&Ters around the world, we’ve built partnerships with more than 1,000 clients during our 30 years of history. Artificial Intelligence is our reality.
+
+Here at CI&T Campinas we're excited to be expanding our team with the addition of several Data Developers to help deliver some innovative and complex solutions to one of our large financial clients in the UK. 
+
+These positions will be based full time in our unique and creative ODC (Onsite Delivery Centre) based in Campinas due to the sensitive nature of the project and data being consumed during this project. You'll be around some of the most innovative tech influencers in Brasil on the forefront of the latest technology trends such as AI.
+
+Since this project is working with one of our UK Clients we require advanced English speaking and writing language skills, if you're interested in this opportunity to join CI&T on this adventure please submit your resume in English.
+
+What you'll be doing
+In this position you'll be developing code used by data tools on AWS to perform data aggregation and processing operations, as well as supporting, troubleshooting and fixing any bugs on those existing data pipelines. 
+You'll also be responsible for participating in the data validation process and defining, building and delivering high quality data pipelines and cloud infrastructure. 
+
+Data management systems will need to be designed, constructed, installed, tested and maintained to ensure all systems meet the business requirements as well as the highly secure industry practises, as well as integrating up and coming data management and software engineering technologies. Part of your role will also be setting the processes for data mining, modeling and production.
+
+What we're looking for
+We're looking for an enthusiastic Data Developer with strong experience with Python. If you're interested in joining CI&T for a Senior position, we also expect strong experience with AWS and PySpark.
+
+
+
+
+Our benefits:
+
+-Health and dental insurance
+-Meal and food allowance
+-Childcare assistance
+-Extended paternity leave
+-Partnership with gyms and health and wellness professionals via Wellhub (Gympass) TotalPass;
+-Profit Sharing and Results Participation (PLR);
+-Life insurance
+-Continuous learning platform (CI&T University);
+-Discount club
+-Free online platform dedicated to physical, mental, and overall well-being
+-Pregnancy and responsible parenting course
+-Partnerships with online learning platforms
+-Language learning platform
+And many more!
+
+More details about our benefits here: https://ciandt.com/br/pt-br/carreiras
+
+At CI&T, inclusion starts at the first contact. If you are a person with a disability, it is important to present your assessment during the selection process. This way, we can ensure the support and accommodations that you deserve. If you do not yet have the assessment, don't worry: we can support you in obtaining it.
+
+We have a dedicated Health and Well-being team, inclusion specialists, and affinity groups who will be with you at every stage. Count on us to make this journey side by side.
+-----------------------------------------------------------------------------------

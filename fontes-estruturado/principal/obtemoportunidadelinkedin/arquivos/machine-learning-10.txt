@@ -1,0 +1,283 @@
+[Oportunidade 1]
+Oportunidade: Machine Learning Ops Engineer - Work from home
+
+Sobre a vaga
+Explore the Nearsure experience!
+
+🌐 Join our close-knit LATAM remote team: Connect through fun activities like coffee breaks, tech talks, and games with your team-mates and management.
+
+🍃 Say goodbye to micromanagement! We champion autonomy, open communication, and respect for diversity as our core values.
+
+⚖️Your well-being matters: Our People Care team is here from day one to support you with everything from time-off requests to wellness check-ins.
+
+Plus, our Accounts Management team ensures smooth, effective client relationships, so you can focus on what you do best.
+
+Ready to grow with us? 🚀 
+
+Here’s what we offer you by joining us!
+
+✨ Competitive USD salary 💲 – We value your skills and contributions!
+🌐 100% remote work 🏢 – While you can work from anywhere, you’re always welcome to connect with teammates and grow your network at our coworking spaces across LATAM!
+💼 Paid time off – Take the time you need according to your country’s regulations, all while receiving your full salary. Rest, recharge, and come back stronger!
+🎉 National Holidays celebrated 🌴 – Take time off to celebrate important events and traditions with loved ones, fully embracing your culture.
+😷 Sick leave – Focus on your health without the stress. Take the necessary time to recover and feel better.
+💸 Refundable Annual Credit – Spend it on the perks you love to enhance your work-life balance!
+🤝 Team-building activities – Join us for coffee breaks, tech talks, and after-work gatherings to bond with your Nearsure family and feel part of our vibrant community.
+🥳 Birthday day off 🎂 – Enjoy an extra day off during your birthday week to celebrate in style with friends and family!
+
+About the project:
+
+As a Senior Machine Learning Ops Engineer, you will design and build large-scale architectures, workflows, tools, and automation for processing data and apply machine learning engineering to solve global business challenges with a focus on making tasks easier for data scientists.
+
+How your day-to-day work will look like
+
+✅ Architect and develop end-to-end machine learning solutions.
+✅ Manage and automate the machine learning lifecycle.
+✅ Collaborate with data engineers and data scientists to create highly scalable solutions.
+✅ Work on cloud solutions, evaluating the performance and cost of potential architectures.
+✅ Understand the software development life cycle to collaborate and integrate solutions with other technical areas.
+✅ Interact with other teams to understand business challenges and propose solutions.
+✅ Communicate and teach on how to use the developments.
+
+This would make you the ideal candidate
+
+✨ Bachelor's Degree in Computer Science, Engineering, or a related field.
+✨ 5+ Years of experience implementing and deploying machine learning solutions.
+✨ 5+ Years of advanced Python programming experience.
+✨ 3+ Years of experience working with SQL and Spark.
+✨ 3+ Years of experience working in cloud environments (AWS or GCP).
+✨ Knowledge and hands-on experience with containerization tools (e.g., Docker) and orchestration tools (e.g., Kubernetes).
+✨ Experience with version control systems, preferably Git.
+✨ Experience with workflow orchestration tools like Airflow.
+✨ Knowledge of data architectures and systems integration.
+✨ Ability to troubleshoot and solve complex software system issues.
+✨ Experience automating machine learning lifecycles and managing end-to-end ML solutions.
+✨ Experience with scripting in Bash or similar shell environments.
+✨ Familiarity with FastAPI or similar web frameworks for serving ML models.
+✨ Experience with AWS SageMaker Studio and infrastructure-as-code tools such as CloudFormation.
+✨ Understanding of software development life cycle (SDLC) and ability to integrate ML solutions with other technical teams.
+✨ Strong communication skills with the ability to teach and explain technical solutions to different stakeholders.
+✨ Advanced English Level is required for this role as you will work with US clients. Effective communication in English is essential to deliver the best solutions to our clients and expand your horizons.
+
+What to expect from our hiring process
+
+1. Let’s chat about your experience!
+2. Impress our recruiters, and you’ll move on to a technical interview with our top developers.
+3. Nail that, and you’ll meet our client - your final step to joining our amazing team!
+
+🎯 At Nearsure, we’re dedicated to solving complex business challenges through cutting-edge technology and we believe in the power of tailored solutions. Whether you are passionate about transforming businesses with Generative AI, building innovative software products, or implementing comprehensive enterprise platform solutions, we invite you to be part of our dynamic team!
+
+We would love to hear from you if you are eager to make an impact and join a collaborative team that values creativity and expertise.
+
+Let’s work together to shape the future of technology! 
+
+🧑‍💻 Apply now! 
+
+By applying to this position, you authorize Nearsure to collect, store, transfer, and process your personal data in accordance with our Privacy Policy. For more information, please review our Privacy Policy. (https://www.nearsure.com/privacy-policy)
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+NEORIS é uma acelerador Digital que ajuda empresas a entrar no futuro, temos mais de 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Somos mais de 4.000 profissionais em 11 países, temos uma cultura de startup multicultural onde cultivamos inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes.
+
+Procuramos Cientista de Dados Sênior – Vaga Híbrida (Rio de Janeiro)
+
+Principais Responsabilidades
+
+Analisar grandes volumes de dados estruturados e não estruturados para gerar insights e apoiar decisões estratégicas.
+Desenvolver e implementar modelos preditivos e soluções de Machine Learning alinhadas aos desafios de negócio.
+Criar e manter pipelines de dados para análise, modelagem e disponibilização eficiente das informações.
+Comunicar descobertas, recomendações e resultados de forma clara e objetiva para diferentes públicos.
+Colaborar com equipes multidisciplinares para produtificar soluções de IA e garantir boas práticas de versionamento, testes e monitoramento de modelos em produção.
+
+Requisitos
+
+Proficiência em Python e SQL, com experiência em manipulação de grandes volumes de dados.
+Vivência com computação em nuvem (GCP e/ou AWS) e frameworks de Machine Learning (Scikit-learn, TensorFlow, PyTorch).
+Sólido conhecimento em estatística, testes de hipótese e técnicas de ML (classificação, regressão, séries temporais, etc.).
+Experiência em criação e manutenção de pipelines de dados e versionamento de código com Git.
+Capacidade de comunicação clara e assertiva de insights baseados em dados.
+Formação em Ciência de Dados, Estatística, Matemática, Computação, Engenharia ou áreas correlatas será considerada diferencial
+
+Oferecemos
+
+Vale Refeição e Vale Alimentação: Benefícios mensais para suas despesas com alimentação, dentro e fora de casa. 
+Previdência Privada: Planejamento de futuro com contribuição complementar à aposentadoria. 
+Plano de Saúde: Cobertura médica de alta qualidade para você e seu dependente legal. 
+Plano Odontológico: Cuidados odontológicos completos, com ampla rede de atendimento. 
+Seguro de Vida: Proteção e segurança para você e seus entes queridos. 
+Aulas de Inglês/Espanhol: Incentivo ao aprendizado de idiomas. 
+Wellhub: Benefícios e descontos em academias e programas de bem-estar. 
+Auxílio Creche: Suporte financeiro para despesas com educação infantil. 
+Neoris Global Campus: Plataforma de desenvolvimento com oportunidades contínuas de aprendizado e crescimento profissional. 
+
+Te convidamos a nos conhecer em http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: 1ae1 Analista EXTRAÇÃO DE DADOS III
+
+Sobre a vaga
+A Extreme Digital Solutions é uma empresa jovem, fundada em 2014, antenada nas mais modernas tendências e tecnologias.
+
+Temos como missão tornar negócios mais simples e eficientes, e, na nossa essência, a busca e integração de soluções para as mais complexas e diversas necessidades dos negócios de nossos clientes.
+
+Ao longo desse tempo atingimos a marca de 1000 colaboradores no Brasil e temos na bagagem centenas de projetos desafiadores, com uso intenso de inteligência artificial, e uma visão sempre cuidadosa com a experiência do usuário e sucesso do cliente.
+
+Um papel na EDS é uma oportunidade para fazer parte de algo diferenciado. Somos uma empresa que não tem medo de assumir riscos e inovar. Sim, somos aventureiros e gostamos disso!
+
+Nosso time de talentos tem espaço para você que quer crescer e entregar resultados surpreendentes!
+
+O que você fará?
+
+Levantamentos /Cruzamentos de dados com PL/SQL nas bases de dados. 
+Criação/Manutenção de procedures e functions PL/SQL. 
+Modelagem de dados. 
+Levantamento de requisitos para desenvolvimento de aplicações batch; Criação /Manutenção de relatórios automáticos enviados por e-mail. 
+Extração e compartilhamento de dados, devidamente autorizados. 
+Provimento e geração soluções tecnológicas para uso, consumo e acesso a dados custodiados na SEFAZ-RJ, tanto para usuários internos como externos. 
+Aplicação de técnicas de otimização e melhoria de desempenho nos ambientes analíticos e nos produtos de dados, visando a melhoria da experiência do usuário. 
+
+Outras Informações
+
+Condições PJ: Valor fixo e 10 dias de ausência remunerada
+
+A Todos os nossos colaboradores também estendemos em nossos escritórios:
+
+Check in premiado: Cada ida ao escritório gera um número da sorte para concorrer a prêmios semanais, mensais e anuais.
+Aulas de Inglês gratuítas ministradas por professores qualificados até 2x na semana
+Serviços de bem-estar e saúde como: 💅Manicure 🧔🏾Barbearia 💆🏻‍♂ Massagem 💇🏽‍Cabelereiro
+
+About The Company
+
+Simplificamos o mundo com tecnologia e inovação, tornando organizações mais simples e eficientes.
+
+Venha fazer parte desse time comprometido com tornar a experiência dos clientes e usuários cada vez melhor!
+
+#venhaserumExtremer
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Scientist / ML Engineer
+
+Sobre a vaga
+Data Scientist / ML Engineer (Senior)
+
+Who We Are
+
+Welcome to TELUS Digital, where innovation meets impact. As an award-winning digital product consultancy, we're shaping the future of digital experiences through cutting-edge technology, agile thinking, and a culture that puts people first.
+
+We are the global digital section of TELUS, one of Canada’s largest telecommunications providers. Our global teams deliver transformative digital solutions and customer experiences for industry leaders in consumer electronics, finance, telecommunications, and utilities. With robust multi-shore delivery capabilities, multi-language programs, and secure infrastructure, we ensure exceptional service backed by our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+As a Data Scientist / Machine Learning Engineer on our team, you'll design, develop, and deliver machine learning solutions, decipher loosely defined problems using complex datasets, and determine appropriate analytical and modeling techniques. You'll analyze structured and unstructured data, establish automated processes for large-scale modeling, perform exploratory analysis, and collaborate with peers on data acquisition and exploration, demonstrating a strong sense of ownership and urgency.
+
+Responsibilities
+
+Work on all aspects of the design, development and delivery of machine learning enabled solutions for our clients;
+Come up with solutions to loosely defined business problems by leveraging pattern detection over complex datasets across multiple platforms;
+Establish efficient, automated processes for large-scale modeling;
+Become part of a highly skilled and geographically distributed team;
+Collaborate with peers on problem definitions, data acquisition, data exploration, visualization as well as building the tools that support this process;
+Strong sense of ownership, urgency and drive.
+
+Qualifications
+
+Relevant experience in data science/ machine learning development
+Bachelor and/or Master degree in Statistics, Mathematics, Physics, Computer Science or other related subject.
+Proficiency in Python.
+Experience with machine learning frameworks (like Keras, TensorFlow, or PyTorch) and libraries (like scikit-learn).
+Strong understanding of machine learning algorithms, processes, tools and platforms.
+Ability to work on distributed cloud platforms
+Fluent English
+
+Bonus Points
+
+Experience with container management and machine learning deployment frameworks, such as Kubernetes, Kubeflow and MLFlow.
+Software development experience from scoping, requirements design, development, integration, testing, go live to PROD (vs internal research work)
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that Information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Cientista de Dados Sênior / Híbrido - Rio de Janeiro
+
+Sobre a vaga
+REQUISITOS MANDATÓRIOS
+
+EXPERIÊNCIA
+
+5 anos de experiência como Cientista de Dados;
+Programação avançada em Python;
+Experiência prática na criação e avaliação de modelos de Machine Learning;
+Experiência com desenvolvimento Front-end (React, Vue.js ou similares);
+Domínio de bancos vetorizados (FAISS, Chroma, Pinecone, etc.);
+Experiência prática com RAG e integração com modelos de linguagem (LLMs);
+Capacidade de atuar no ciclo completo de produto: concepção, prototipagem e entrega;
+Experiência com ambientes em nuvem (AWS, GCP ou Azure),
+
+REQUISITOS DESEJÁVEIS
+
+Vivência com MLOps e ferramentas de CI/CD;
+Projetos com foco em IA generativa;
+Conhecimento em notas de avaliação de LLMs;
+Noções de UX/UI voltadas para a colaboração com o tempo de produto.
+
+ATRIBUIÇÕES
+
+Estamos em busca de um(a) Cientista de Dados Sênior, com forte base técnica e visão de produto, para atuar na construção de soluções de IA ponta a ponta, com foco em projetos estratégicos de alto impacto;
+Você fará parte de um tempo multidisciplinar, atuando em todo o ciclo — da concepção à entrega — com liberdade para criar, experimentar e gerar valor real para nossos clientes;
+Projetar e implementar pipelines de dados escaláveis e eficientes;
+Desenvolver e integrar modelos de machine learning, com foco em aplicações reais;
+Atuar na criação, treinamento e validação dos principais tipos de modelos:
+ Classificação
+ Regressão
+ Clusterização
+ Séries temporais;
+Aplicar técnicas de RAG (Retrieval-Augmented Generation) com bancos vetorizados;
+Contribuir no desenvolvimento de produtos com interface Front-end;
+Trabalhar em parceria com áreas de engenharia, produto e negócios.
+
+Sobre a CAPCO
+
+Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. 
+
+Pensamos, em conjunto, sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros.
+
+Nossas oportunidades são trabalhadas para todos(as)!!!
+
+
+
+Próximos Passos
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+-----------------------------------------------------------------------------------

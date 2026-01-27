@@ -1,0 +1,256 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Sr.
+
+Sobre a vaga
+Descrição da Vaga
+
+Nascemos para democratizar os serviços bancários e de pagamentos!
+
+Pioneirismo, tecnologia, inovação e resultados sustentáveis são constantes da nossa trajetória. Lançamos a primeira maquininha de cartão sem aluguel do Brasil e ao longo dos anos seguimos evoluindo para ampliar nosso ecossistema de soluções financeiras.
+
+Somos o 2º maior banco digital do país e a fintech mais rentável do segmento, resultado do trabalho de um time formado por pessoas talentosas e criativas, que atuam com dedicação, paixão e vontade de fazer acontecer.
+
+Se você ama tecnologia, curte um bom desafio e acredita no poder da colaboração para fazer grandes entregas, o Pags é pra você! Então, confira essa oportunidade e vem pintar o Brasil de amarelo com a gente💛!
+
+No PagBank todas as pessoas são bem-vindas 😊, sem distinção de gênero, orientação sexual, etnia, cultura, religião, deficiência etc. O importante é você gostar de desafios, trabalhar bem em equipe, vivenciar nossa cultura e nossa missão de transformar e democratizar os serviços bancários e de pagamentos no Brasil.
+
+#VemProPags
+
+Responsibilities and assignments
+
+Projetar modelos de dados eficientes e compreender conceitos como normalização, denormalização e modelagem dimensional. 
+Implementar melhorias na arquitetura e processos para melhorar a performance, monitoração e evolução dos produtos de dados. 
+Desenvolver e manter processos de ingestão, tratamento, controle/segurança e disponibilização de dados para diferentes consumidores (serviços, front-end, entre outros). 
+Contribuir na obtenção de conhecimento no contexto de negócio e criação de novos produtos de dados, visando atender suas necessidades estratégicas e operacionais. 
+Abordagem analítica e de resolução de problemas e identificação de oportunidades de melhoria. 
+Entender soluções técnicas para obter, processar e armazenar dados de diversas fontes. 
+
+
+Requirements And Qualifications
+
+Superior completo. 
+Experiência como Engenheiro de Dados.
+Experiência com projetos de ingestão e transformação de dados. 
+Conhecimento em modelagem de dados. 
+Experiência com linguagem de programação Python. 
+Experiência com cloud. 
+Experiência com SQL. 
+Experiência com Redshift ou outro banco colunar. 
+
+
+
+Informações Adicionais
+
+Desejável:
+
+Experiência com projetos de Big Data, utilizando tecnologias como BigQuery. 
+Experiência com consumo de dados em streaming utilizando ferramentas como S3, Kafka e Airflow. 
+Conhecimento em ferramentas de visualização de dados. 
+Experiência com Scrum, Lean ou Kanban. 
+Conhecimento em estatística e análise de dados.
+
+
+SOBRE NÓS
+
+Nascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.
+
+Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.
+
+Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia.
+
+Hoje somos um dos maiores bancos digitais do país e uma das fintechs mais rentáveis do segmento, resultado do trabalho de um time de mais de 7 mil profissionais.
+
+Aqui no Pags, a pesquisa e a inovação fazem parte do nosso DNA. Compartilhamos experiências com profissionais talentosos e criativos em um ambiente colaborativo, onde o aprendizado é garantido.
+
+Quer fazer parte dessa história? Confira nossas vagas e #VemProPags, o banco completo.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Come to one of the biggest IT Services companies in the world!! Here you can transform your career! 
+ Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. 
+ We are looking for Senior Data Engineer who wants to learn and transform his career. 
+ In this role you will: (responsibilities) 
+ 5 years of Experience in Data Engineer
+Redshift;
+Denodo
+Athena
+Data Integration
+Data Warehousing
+Data Modeling Multidimensional
+SQL (Views, Procedures, Consult)
+Python
+AWS
+Advanced English;
+ And much better if you stand out for (skills): (skill 1) (skill 2) 
+ What can you expect from us? 
+ • Professional development and constant evolution of your skills, always in line with your interests. 
+• Opportunities to work outside Brazil 
+• A collaborative, diverse and innovative environment that encourages teamwork. 
+ What do we offer? 
+ TCS Benefits – Brazil: 
+Health insurance 
+Dental Plan 
+Life insurance 
+Transportation vouchers 
+Meal/Food Voucher 
+Childcare assistance 
+Gympass 
+TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates 
+Partnership with SESC 
+Reimbursement of Certifications 
+Free TCS Learning Portal – Online courses and live training 
+International experience opportunity 
+Discount Partnership with Universities and Language Schools 
+Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire 
+TCS Gems – Recognition for performance 
+Xcelerate – Free Mentoring Career Platform 
+ At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer! 
+
+#Buildingonbelief
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+DESCRIÇÃO DA VAGA
+Nosso time é formado por excelentes profissionais da área da tecnologia.
+
+Colaboração e comprometimento fazem parte do nosso dia-a-dia, quando desenvolvemos novas funcionalidades, construindo um produto robusto e escalável.
+
+Fazendo parte de nossa equipe, seu trabalho irá impactar em milhares de usuários que utilizam nossa solução diariamente.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atividades
+
+Atuar no download e aplicação de vacinas e correções no Anti-Malware em estações de trabalho;
+Administrar os recursos de infraestrutura de Segurança da Informação;
+atualizações Microsoft, Firewall, Anti-Spam, Anti-Malware, Privileged Access;
+Management (PAM) e filtros de conteúdo para acesso à Internet e Dashboards;
+ Monitorar a console de atualizações Microsoft, Anti-Malware e Anti-Spam e realizar os ajustes necessários.
+
+REQUISITOS E QUALIFICAÇÕES
+Formação:
+Nível superior na área de Ciência da Computação ou áreas afins.
+
+Conhecimento Técnico exigido: 
+Python, SQL, governança de dados, Json, web scrapping, ETL, Spark, Hadoop e Nifi, experiência com análise, preparo e modelagem de dados.
+
+Certificação:
+Não é exigida.
+
+INFORMAÇÕES ADICIONAIS
+Nossos benefícios:
+
+Plano de Saúde;
+Plano Odontológico;
+Seguro Prudential: é concedido ao colaborador, de forma gratuita o seguro de vida, auxílio funeral e cesta natalidade, conforme regras específicas da seguradora;
+Vale Refeição ou Vale Alimentação;
+Vale Transporte: é concedido ao colaborador, para uso no trajeto residência – trabalho – residência, e será descontado mensalmente o percentual de 6% sob o valor do salário, limitado ao valor do benefício (opcional);
+Day off: será concedido ao colaborador folga em virtude do dia do aniversário, devendo este ser usufruído na mesma data e/ou no mês do aniversário;
+Convênios e Parcerias (Instituições de Ensino, Academias, Cursos de Idiomas entre outros);
+Ginástica Laboral.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados Sr. (MLOps)
+
+Sobre a vaga
+Descrição da Vaga
+
+Nascemos para democratizar os serviços bancários e de pagamentos!
+
+Pioneirismo, tecnologia, inovação e resultados sustentáveis são constantes da nossa trajetória. Lançamos a primeira maquininha de cartão sem aluguel do Brasil e ao longo dos anos seguimos evoluindo para ampliar nosso ecossistema de soluções financeiras.
+
+Somos o 2º maior banco digital do país e a fintech mais rentável do segmento, resultado do trabalho de um time formado por pessoas talentosas e criativas, que atuam com dedicação, paixão e vontade de fazer acontecer.
+
+Se você ama tecnologia, curte um bom desafio e acredita no poder da colaboração para fazer grandes entregas, o Pags é pra você! Então, confira essa oportunidade e vem pintar o Brasil de amarelo com a gente💛!
+
+No PagBank todas as pessoas são bem-vindas 😊, sem distinção de gênero, orientação sexual, etnia, cultura, religião, deficiência etc. O importante é você gostar de desafios, trabalhar bem em equipe, vivenciar nossa cultura e nossa missão de transformar e democratizar os serviços bancários e de pagamentos no Brasil.
+
+#VemProPags
+
+Responsibilities and assignments
+
+Participar da análise e definição de implementação de solução para processamento distribuído e massivo de dados.
+Desenvolver e sustentar serviços para automação de criação de feature store.
+Construir mecanismos que garantam a integridade, escalabilidade, performance e governança dos dados no processo de geração de features para modelos de ml.
+Participar na definição e implementação da arquitetura dos serviços mantidos pela equipe.
+Atuar em equipes de desenvolvimento que utilizam métodos ágeis.
+Manter e desenvolver funcionalidades da plataforma de dados especificamente em produto para construção de serviços dentro do escopo de MLOps e IA.
+Construir serviços, microsserviços e produtos que atendam às necessidades dos times de ciência de dados da organização, tanto do ponto de vista da engenharia de dados quanto de integração com uma plataforma de MLOps.
+Avaliar novas tecnologias e frameworks de mercado para melhoria contínua de produtos e processos, realizando provas de conceito.
+
+
+Requirements And Qualifications
+
+Superior em Ciência da Computação, Engenharias, Sistemas de Informação ou áreas correlatas.
+Experiencia em soluções de Big Data, Spark, Kafka, Airflow, AWS Athena e KMS.
+Experiência com controle de versionamento com Git.
+Experiência com Python, SQL e PL/pgSQL.
+Experiência com desenvolvimento utilizando ambiente AWS.
+Experiência com tecnologias AWS: Redshift, S3, EMR, Glue e Lambda.
+Experiência com análise e desenvolvimento de sistemas, definições de arquitetura e orientação a objetos.
+Experiência na construção de serviços de integração de dados em qualquer camada (captura, ingestão, armazenamento, processamento e delivery).
+Experiência com containerização de aplicações como Docker e Kubernetes.
+Experiência em Linux, Shell Script, YAML e Terraform.
+Experiência em construção e otimização de ETL.
+
+
+
+Informações Adicionais
+
+Desejável:
+
+Conhecimento em design patterns e paradigmas de programação.
+Conhecimento em técnicas de Clean Code.
+Conhecimento em arquitetura de microsserviços.
+Conhecimento em processamento distribuido e massivo de dados.
+Experiência com configuração e customização de ambientes com integração contínua e delivery contínuo utilizando o Jenkins.
+Conhecimento na ferramenta KEDRO.
+Experiência na implementação de soluções com dados para feature engineering serão diferenciais.
+ Vivência com métodos ágeis de desenvolvimento: XP (principalmente com práticas de pair programming e TDD), Scrum e Kanban ou variações Lean.
+Conhecimento com soluções de observabilidade como New Relic, Pagmon e Splunk.
+Conhecimento em ferramentas de mensageria como Kafka.
+
+
+SOBRE NÓS
+
+Nascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.
+
+Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.
+
+Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia.
+
+Hoje somos um dos maiores bancos digitais do país e uma das fintechs mais rentáveis do segmento, resultado do trabalho de um time de mais de 7 mil profissionais.
+
+Aqui no Pags, a pesquisa e a inovação fazem parte do nosso DNA. Compartilhamos experiências com profissionais talentosos e criativos em um ambiente colaborativo, onde o aprendizado é garantido.
+
+Quer fazer parte dessa história? Confira nossas vagas e #VemProPags, o banco completo.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenharia de Dados Sênior
+
+Sobre a vaga
+Quais serão suas responsabilidades?
+
+Nosso time está crescendo e esta é a sua oportunidade de fazer parte da DBC no time de Engenharia de dados!
+
+O que é necessário para participar desse processo seletivo?
+
+ Perfil investigativo;
+ Conhecimento em Engenharia de Dados;
+SQL - Obrigatório;
+APIs SOAP/REST conhecimento intermediário;
+Conhecimento intermediário em Python;
+ Conhecimento em Databricks.
+
+Por que fazer parte do time DBC Company?
+
+ Somos a 17ª melhor empresa para trabalhar do Brasil e a 4ª melhor empresa para trabalhar no Rio Grande do Sul, segundo o GPTW 2023;
+ Todos os profissionais que estão alocados em clientes e/ou projetos são acompanhados por Gestor da DBC e também por Líder de Smartsourcing;
+ A DBC oferece incentivo a certificações a todos os colaboradores.
+
+O que é importante saber?
+
+ Nosso time promove um ambiente seguro para todos os profissionais independente de sua etnia, crença religiosa, orientação sexual, identidade de gênero, deficiência, idade, etc.
+-----------------------------------------------------------------------------------

@@ -1,0 +1,320 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor IA (LLM) Pleno/Sênior
+
+Sobre a vaga
+Sobre a Empresa:
+O Instituto Tecgraf é um renomado centro de pesquisa e desenvolvimento em computação gráfica e tecnologias relacionadas, localizado na (PUC-Rio). Fundado em 1985, o Tecgraf tem uma longa história de contribuições significativas para a comunidade acadêmica e para a indústria de tecnologia.
+
+Sobre a vaga:
+Estamos iniciando diversas iniciativas na área de Óleo e Gás, e buscamos um desenvolvedor com experiência em desenvolvimento de soluções de IA, proficiência em Python, sólidos conhecimentos em Large Language Models (LLM).
+
+Responsabilidades:
+Desenhar e desenvolver aplicações inovadoras: Utilizar LLMs para criar aplicações com funcionalidades como geração de texto, tradução, resumo, análise de sentimento e muito mais.
+Integração de LLMs em sistemas existentes: Integrar modelos de linguagem em aplicações já existentes para melhorar funcionalidades ou criar novas.
+Fine-tuning de modelos de linguagem: Ajustar e personalizar LLMs pré-treinados para tarefas ou domínios específicos.
+Avaliação e monitoramento de desempenho: Analisar e interpretar os resultados dos LLMs, identificando pontos fortes, fracos e potenciais vieses.
+Manutenção e atualização de aplicações: Garantir o bom funcionamento e atualização das aplicações baseadas em LLMs.
+Pesquisa e desenvolvimento: Manter atualizado sobre as últimas tendências e avanços em LLMs e IA.
+Colaboração: Trabalhar em conjunto com equipes multidisciplinares, incluindo cientistas de dados, engenheiros de software e especialistas de domínio.
+Domínio em linguagens de programação relevantes, como Python.
+
+Requisitos:
+Formação Superior Completa em Ciência da Computação, Engenharia da Computação, Matemática, ou área relacionada.
+Experiência comprovada em desenvolvimento de soluções de IA, incluindo LLM.
+Desejável experiência com ferramentas de aprendizado de máquina em grande escala e computação distribuída.Conhecimento em banco de dados relacionais e não relacionais.Capacidade analítica avançada, com proficiência em definir métricas e interpretar dados complexos de IA.Domínio em linguagens de programação relevantes, como Python
+
+Benefícios:
+Bolsas de estudo (inclusive para cônjuges e filhos)
+Jornada flexível
+Plano de saúde
+Plano odontológico
+Seguro de vida
+Vale alimentação
+
+Regime de contratação:
+CLT (8 horas/dia)
+100% Home Office
+Link: https://bitly.com/vagastecgraf
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados - Data VIZ
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+Atuar como Engenheiro de Dados desde o levantamento da demanda até camada de apresentação em Power BI
+
+Irá discutir com a áreas de negócio as regras, avaliar a fontes de dados, a qualidade das mesmas e também sugerir a melhor abordagem para a implementação da solução.
+
+Nivel: Senior
+
+100% remoto
+
+Certificação Conhecimento
+
+Pyspark - Avançado
+
+Power Bi - Avançado
+
+Hive - Intermediário
+
+HBase - Intermediário
+
+Noções
+
+Ambiente Windows e Linux SSH
+
+Shell Bash
+
+Benefícios
+
+ Assistência Médica / Medicina em grupo
+ Tícket refeição
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: AI Engineer
+
+Sobre a vaga
+A Econodata , startup investida pelo Grupo Telefônica e fundada por ex-alunos da UFRGS, investe forte em Big Data e em sua Plataforma Online de Dados de Empresas e Inteligência de Mercado que permite pesquisar e segmentar todas as empresas do Brasil .
+
+Nosso tempo de Tecnologia está crescendo e buscamos um Engenheiro de IA, motivado a trabalhar com métodos ágeis em uma startup que está bombando.
+
+O trabalho consiste em:
+
+Ajuste de modelos pré-treinados para aplicativos ou conjuntos de dados específicos;
+Colete, pré-processe e gerencie grandes conjuntos de dados necessários para o treinamento de modelos generativos;
+Executar o aumento de dados e a engenharia de recursos para melhorar o desempenho do modelo;
+Projetar sistemas e arquiteturas de IA escaláveis e eficientes.
+
+
+É uma grande oportunidade de trabalhar num ambiente muito dinâmico, com constantes novos desafios e busca de novas tecnologias.
+
+Requisitos
+
+Principais
+
+Formado em Engenharia da Computação, Ciências da Computação ou Análise de Sistemas;
+Disponibilidade de 40 horas semanais para CLT
+Expertise em arquiteturas de aprendizagem profunda, incluindo Redes Neurais Convolucionais (CNNs), Redes Neurais Recorrentes (RNNs), Redes Adversárias Gerativas (GANs) e Autoencoders Variacionais (VAEs);
+Experiência prática no desenvolvimento e ajuste fino de modelos generativos como GANs, VAEs e modelos autorregressivos;
+Forte compreensão dos fundamentos teóricos dos modelos generativos e das suas aplicações práticas;
+Proficiência em programação Python;
+Habilidades avançadas em pré-processamento de dados, limpeza de dados e engenharia de recursos;
+Experiência com plataformas de nuvem como Google Cloud, para implantação de modelos de IA;
+
+
+Diferenciais que valorizamos
+
+Experiência SQL e NoSQL
+Conhecimentos em infra e cloud
+
+
+Benefício
+
+📝 Regime CLT;
+
+🏡 Trabalho 100% remoto;
+
+🍽️ Vale-Refeição ou Vale-Alimentação: Disponibilizamos o cartão flexível Flash Benefícios, podendo ser utilizado para as funções de alimentação e refeição em qualquer estabelecimento com a bandeira MasterCard;
+
+💻 Auxílio Home Ofiice no valor de R$200,00;
+
+🩺 Assistência médica cobertura nacional completa Unimed ou Bradesco;
+
+🤸 Gympass: plataforma que oferece diversas redes de academias, estúdios e aplicativos de bem-estar;
+
+👟 Dress code zero, vista como se sentir mais confortável;
+
+📖 Auxílio Educação, para evoluir cada vez mais;
+
+🚀 Plano de carreira com PDI trimestral;
+
+🎂 Dia de folga no mês do aniversário.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Pessoa Engenheira de Dados [Pleno] Trabalho Remoto Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+A A3Data é uma consultoria de dados, pioneira no mercado mineiro e referência em #Dados! 🚀
+
+Somos, em nossa essência, aceleradores da cultura Data Driven nas organizações. Nosso foco é implantar Inteligência Estratégica e potencializar a cultura dos dados para os nossos clientes! 🎯
+
+Temos uma cultura leve, horizontal e muito colaborativa! ✌️
+
+Buscamos por uma pessoa potente e motivada a se juntar ao nosso time de Engenharia de Dados. 🎯
+
+Aqui sua missão será transformar os dados brutos em informações úteis, construindo e mantendo sistemas de armazenamento a serem utilizados pelas áreas de ciência de dados e negócios.
+
+#VemSerUmEu.A3 💙
+
+Responsabilidades e atribuições
+
+Para ser uma Pessoa Engenheira de Dados na A3 buscamos alguém que:
+
+Dê sugestões de melhoria e otimizações;
+Identifique novas possibilidades e novos projetos;;
+Seja expert em arquitetura e pipeline de extração;
+Faça a transformação e disponibilização de dados;
+Consiga identificar novas oportunidades de negocio em análise de redes;
+Tenha vontade de aprender coisas novas todos os dias;
+Tenha disponibilidade para trabalho remoto.
+
+Requisitos e qualificações
+
+O Que Precisamos Que Você Tenha (requisitos)
+
+Perfil consultor, com excelente comunicação verbal;
+Experiência com AWS (S3, Lambdas, EMR, IAM,...);
+Fluência em Python;
+Experiência em Pyspark;
+Experiência em Airflow;
+Domínio em SQL;
+Experiência com integrações de APIs.
+
+Vamos Ficar Felizes Se Você Tiver (diferencial)
+
+Certificação AWS;
+Experiência com Docker;
+Experiência com Kubernetes.
+
+Informações adicionais
+
+Nossos Benefícios
+
+Vale Alimentação/Refeição flexível (Swile);
+Total Pass (academias);
+Vittude (atendimento psicológico online);
+Plano Saúde SulAmérica- 100% subsidiado para você Eu.A3;
+Plano Dental Amil;
+Maria Saúde;
+Seguro de Vida;
+Participação nos Lucros e Resultados;
+Bônus anual;
+Desconto nos cursos de idioma da Open English;
+Parceria AWS nível Advanced;
+Desconto na conta de energia elétrica (operadora CEMIG);
+Empresa Cidadã: licenças maternidade e paternidade estendidas;
+Samsung EPP (descontos em todo portfólio de produtos Samsung);
+Guapeco (plano de saúde para seu pet).
+
+E Mais
+
+100% home office;
+40 horas semanais;
+Dia a dia descontraído e acolhedor;
+Plano de carreira e acompanhamento individual;
+Programas internos de compartilhamento de conhecimento;
+Prezamos pela diversidade, liberdade, flexibilidade e autonomia!
+
+Curtiu o desafio?
+
+Estamos ansiosos para receber seu CV 🎯
+
+Um dos nossos valores é ser transparente, sempre! Por isso, é importante que saiba que avaliamos todos os CVs cadastrados e, se você tiver fit com a vaga e com nossa cultura, te convidaremos para um primeiro bate papo! 😉
+
+Mas, caso seu CV não seja selecionado dessa vez, não se preocupe! Ficaremos de olho, para futuras oportunidades. ✅
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Bate Papo A&S2Bate Papo A&S
+Etapa 3: Bate papo Técnico3Bate papo Técnico
+Etapa 4: MAPA4MAPA
+Etapa 5: Bate Papo com Cliente5Bate Papo com Cliente
+Etapa 6: Envio de Proposta6Envio de Proposta
+Etapa 7: Contratação7Contratação
+
+Sobre Nós 💙
+
+Somos loucos por dados, apaixonados por gente e obcecados pela excelência! 🚀
+
+Somos uma consultoria especializada em dados e inteligência artificial. Nosso propósito é empoderar pessoas e corporações por meio de dados, transferindo know-how e fortalecendo bases para a criação de uma Cultura Data Driven. Atuando como um advisor, realizamos projetos de alto impacto e transformação cultural por meio de uma jornada de maturidade analítica, desde a implantação de Data Lakes, passando pelo Self-Service Analytics, até a criação de Modelos Preditivos e Prescritivos.
+
+Utilizamos, integramos e criamos diversas tecnologias em Inteligência Artificial. Nossas soluções ajudam nossos clientes a compreender padrões de comportamento e relações entre indicadores, gerando valor a partir de diferentes fontes de dados.
+
+Nossos produtos aceleram a inovação por meio da análise avançada de dados, ajudando nossos clientes a reduzirem custos e aumentarem a eficiência operacional. Atuamos nos setores de saúde, educação, finanças, infraestrutura, logística, turismo, dentre outros.
+
+Nossos princípios moldam a essência de quem somos e definem a visão que temos para o futuro. São esses pilares que norteiam nossas ações e estratégias.
+
+✅ Foco nas pessoas
+
+✅ Compromisso com a excelência
+
+✅ Simplicidade
+
+✅ Comunicação transparente e eficaz
+
+VEM SER UM EU.A3 🚀 
+
+Somos um time de pessoas engajadas em um mesmo propósito atuando juntas com orgulho e senso de pertencimento, com evolução e desafios constantes. Que tal fazer parte de uma empresa certificada pelo GPTW como uma Excelente empresa para trabalhar no Brasil? 🤩
+
+Aqui, incentivamos o trabalho em equipe, somos obcecados pela excelência e queremos pessoas para crescer com a gente! 🎯
+
+#VemSerUmEu.A3 💙
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior AI/ML Engineer
+
+Sobre a vaga
+OLSYS provides full-service solutions for mid-market and enterprise organizations.
+
+With 15+ years of experience, 100+ projects, and 50+ strong technical experts in the team, we continue to grow by expanding our development team in Europe, as well as expanding the base of new clients and projects.
+
+As an enterprise software development company, we are building long-term partnerships helping our clients accelerate their digital experiences with reasonable IT investments.
+
+Our tailored approach, e-commerce focus, and flexible solutions allow us to design, develop, and deliver scalable, integrated commerce platforms that drive profits and boost the business.
+
+Our Industry Focus
+
+— Banking and Finance (business continuity management, planning system, banking app development);
+
+— Retail and E-Commerce (B2B Commerce, B2C Commerce, Digital/E-Commerce customer experience);
+
+— Healthcare (website development for Healthcare organizations).
+
+Our Expertise Includes
+
+— Commerce Solutions
+
+— Development Services
+
+— Creative Services
+
+— Quality Assurance and Testing
+
+— Maintenance and Support
+
+— E-Commerce Consulting
+
+The Role
+
+Responsibilities
+
+Interact with the modern LLMs and adopt the best practices of their usage.
+R&D activities (experimenting with LLMs): Generate code based on the input description. Build test cases based on the user scenarios.
+Performance Monitoring: Monitor the performance of the models and make adjustments as necessary to maintain or enhance model accuracy and efficiency.
+Data Preprocessing and Annotation: Work with the Data Engineering team to preprocess and annotate the training data for AI/ML models. Collaborate with subject matter experts to create labeled datasets that facilitate supervised and unsupervised learning.
+Prototyping and Evaluation: Rapidly prototype and iterate different AI/ML approaches to identify the most suitable solution to meet the requirements.
+
+Perform rigorous evaluations to measure the model's performance against defined metrics.
+
+Documentation: Document all stages of the AI/ML development process, including design choices, architecture, algorithms, and evaluation results, ensuring knowledge transfer and team understanding.
+Collaboration: Collaborate closely with cross-functional teams, including Data Scientists and Software Engineers.
+Stay Abreast of Industry Trends: Keep up-to-date with the latest advancements in AI/ML, NLP, LLM and other relevant technologies. Integrate new research findings and methodologies into the project as applicable.
+
+Ideal Profile
+
+Experience: Demonstrated experience of at least 5 years in developing AI/ML solutions with a focus on LLM and LLM frameworks (e.g. LangChain). Strong knowledge and practical experience in Generative AI, Interactive Chatbots, Graph databases.
+Data Processing: Experience in preprocessing and handling large-scale, unstructured text data, and the ability to perform data analysis and validation.
+Problem-solving and Innovation: Proven ability to tackle complex technical challenges, think innovatively, and propose creative solutions to real-world problems.
+Communication: Excellent verbal and written communication skills to effectively convey complex technical concepts to both technical and non-technical stakeholders.
+
+English level: Upper-Intermediate
+
+What's on Offer?
+
+You can contribute and influence the development of a new product
+Work with AI product
+Flexible working options
+-----------------------------------------------------------------------------------

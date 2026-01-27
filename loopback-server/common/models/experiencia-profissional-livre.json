@@ -1,0 +1,46 @@
+{
+	"name": "ExperienciaProfissionalLivre",
+	"base": "PersistedModel",
+	"idInjection": true,
+	"options": {
+		"validateUpsert": true
+	},
+  	"mixins": {
+    	"Counts": true
+  	},
+	"properties": {
+		"cliente": {
+			"type": "string"
+		},
+		"dataInicio": {
+			"type": "date"
+		},
+		"dataTermino": {
+			"type": "date"
+		},
+		"consultoria": {
+			"type": "string"
+		},
+		"descricaoLivre": {
+			"type": "string"
+		},
+		"principaisTecnologias": {
+			"type": "string"
+		},
+		"tituloFuncao": {
+			"type": "string"
+		},
+		"descricaoGupy": {
+			"type": "string"
+		},
+		"dataGupy": {
+			"type": "date"
+		}
+	},
+	"validations": [],
+	"relations": {
+	},
+	"acls": [],
+	"methods": {
+	}
+}

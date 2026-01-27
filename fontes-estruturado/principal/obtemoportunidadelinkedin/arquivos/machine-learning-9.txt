@@ -1,0 +1,255 @@
+[Oportunidade 1]
+Oportunidade: Especialista em IA Generativa
+
+Sobre a vaga
+Na Minerva Foods, líder na exportação de carne bovina na América do Sul, a área de Desenvolvimento de Sistemas desempenha um papel crucial no avanço tecnológico da empresa. Com operações em mais de 100 países e uma presença global que abrange o Brasil, Argentina, Colômbia, Paraguai, Uruguai e Austrália, a equipe de Desenvolvimento de Sistemas é responsável por criar e implementar soluções tecnológicas inovadoras que impulsionam nosso negócio e sustentam as operações da empresa em atendimento aos cinco continentes.
+
+A missão da área de Desenvolvimento de Sistemas é fornecer soluções de TI que não apenas satisfaçam as necessidades operacionais cotidianas, mas também capacitem as operações estratégicas da empresa. Desenvolvemos sistemas robustos e eficientes que são cruciais para o funcionamento das unidades industriais, centros de distribuição e oficinas internacionais.
+
+Nosso foco é garantir que a tecnologia esteja sempre alinhada com as melhores práticas e tendências do mercado, diferenciando-nos estrategicamente dos concorrentes. Estamos comprometidos em melhorar continuamente nossos processos e produtos para fornecer um suporte técnico de excelência que aumente a competitividade da Minerva Foods.
+
+As soluções desenvolvidas pela nossa equipe impactam diretamente o resultado da empresa, garantindo que as decisões estratégicas e operacionais sejam fundamentadas em sistemas confiáveis e inovadores. Mantemos um diálogo contínuo com a camada executiva e estamos engajados em promover mudanças que aperfeiçoem nossa cultura e processos internos. Através de nossa dedicação à excelência em desenvolvimento de software, direcionamos a Minerva Foods para um futuro tecnicamente avançado e operacionalmente eficiente.
+
+Responsabilidades e atribuições
+Desenvolver soluções baseadas em modelos de linguagem natural (LLMs) para aplicação em produtos, processos e serviços da empresa.
+Realizar fine-tuning e customização de modelos pré-treinados.
+Projetar e implementar pipelines de dados para treinamento e avaliação de modelos, incluindo pré-processamento, tokenização e curadoria de datasets.
+Integrar modelos de IA generativa a sistemas corporativos, APIs e fluxos de negócio, promovendo automação e geração de valor.
+Monitorar e avaliar o desempenho de modelos com métricas adequadas.
+Atuar junto a times de desenvolvimento, dados e produto para garantir soluções robustas, seguras e alinhadas às necessidades do negócio.
+Explorar e aplicar técnicas de RAG, embeddings e arquiteturas híbridas quando necessário.
+Documentar processos, experimentos e boas práticas, contribuindo para a evolução do conhecimento técnico da área.
+
+Requisitos e qualificações
+Graduação completa em Ciência da Computação, Engenharia da Computação, Sistemas de Informação, Matemática, Estatística ou áreas correlatas.
+Pós-graduação, MBA ou mestrado em Inteligência Artificial, Machine Learning, Ciência de Dados ou Computação Cognitiva (desejável).
+Profundo conhecimento de modelos de linguagem, seus limites e capacidades.
+Familiaridade com ciclo de vida de modelos de IA: desde o desenvolvimento até o deploy e monitoramento.
+Boa comunicação para explicar abordagens técnicas a públicos não técnicos.
+Proatividade, curiosidade e aprendizado contínuo;
+Inglês - Nível Avançado.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Profissional Engenheiro de Dados Sênior
+
+Sobre a vaga
+Código da vaga: 47971
+
+
+Sobre a BRQ Digital
+Há 32 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+Temos 2.500 funcionários e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+
+Vamos transformar juntos! Vem ser fera com a gente!
+
+- O que procuramos?
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+Experiência com: SQL, Python, Scala, Azure/AWS, Databricks, Azure Data Factory, AWS Glue, Control-m. 
+CLT, salário a combinar+ benefícios
+Híbrido (3x presencial na semana)- Santo Amaro (próximo a estação de trem Santo Amaro).
+
+- O que temos pra te oferecer?
+Mais do que um plano de carreira!
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+
+- E os benefícios?
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+
+- Como é trabalhar na BRQ?
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+
+Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Staff Machine Learning Engineer
+
+Sobre a vaga
+About SecurityScorecard:
+
+SecurityScorecard is the global leader in cybersecurity ratings, with over 12 million companies continuously rated, operating in 64 countries. Founded in 2013 by security and risk experts Dr. Alex Yampolskiy and Sam Kassoumeh and funded by world-class investors, SecurityScorecard’s patented rating technology is used by over 25,000 organizations for self-monitoring, third-party risk management, board reporting, and cyber insurance underwriting; making all organizations more resilient by allowing them to easily find and fix cybersecurity risks across their digital footprint.
+
+Headquartered in New York City, our culture has been recognized by Inc Magazine as a "Best Workplace,” by Crain’s NY as a "Best Places to Work in NYC," and as one of the 10 hottest SaaS startups in New York for two years in a row. Most recently, SecurityScorecard was named to Fast Company’s annual list of the World’s Most Innovative Companies for 2023 and to the Achievers 50 Most Engaged Workplaces in 2023 award recognizing “forward-thinking employers for their unwavering commitment to employee engagement.” SecurityScorecard is proud to be funded by world-class investors including Silver Lake Waterman, Moody’s, Sequoia Capital, GV and Riverwood Capital.
+
+About the Team:
+
+At SecurityScorecard, the Data Science organization builds AI and ML products that empower our customers to manage cybersecurity risk. We leverage massive datasets sourced by our internal Threat Intelligence teams to create the core rating models that our customers use for assessing third-party risk and self-assessment. We also build LLM-powered systems for automating and accelerating cybersecurity risk assessment workflows.
+
+About the Role:
+
+As an ML Engineer, you will design and optimize machine learning algorithms, build scalable data pipelines, and deploy reliable models into production environments. You'll collaborate with cross-functional teams to integrate ML solutions into products, conduct research to stay ahead of emerging technologies, and ensure models perform optimally through ongoing monitoring and refinement. Your work will directly enhance cybersecurity resilience for organizations worldwide, making the world a safer place. If you’re passionate about solving complex problems and creating impactful solutions, this role offers the opportunity to make a significant impact while working in a dynamic, collaborative environment.
+
+Responsibilities:
+
+Technical Leadership: Establish best practices and share expertise through mentorship.
+Model Development: Design, train, and optimize machine learning models and algorithms.
+Data Pipeline Creation: Build and maintain scalable data pipelines to preprocess, clean, and transform raw data for analysis and model training.
+Model Deployment: Implement and manage models in production environments, ensuring scalability, reliability, and performance.
+Research and Experimentation: Stay updated on the latest machine learning techniques, tools, and frameworks to enhance model accuracy and efficiency.
+Collaboration: Work closely with data scientists, software engineers, and product teams to understand requirements and integrate ML solutions into products.
+Performance Monitoring: Continuously monitor, evaluate, and fine-tune models post-deployment to maintain accuracy and robustness.
+Documentation: Create clear and concise documentation for models, processes, and systems to support team collaboration and knowledge sharing.
+
+Required Qualifications:
+
+7+ years of experience or equivalent demonstrable skills in ML Engineering, Data Science or related discipline.
+Bachelor’s or Master’s degree in Computer Science, Engineering, Mathematics, Physics, or a related field.
+Strong programming skills in Python.
+Experience with machine learning frameworks such as PyTorch, TensorFlow, or Scikit-learn.
+Proficiency in data manipulation and analysis using tools such as Polars, Pandas, NumPy, or SQL.
+Solid understanding of algorithms, statistics, and data structures.
+Experience with cloud platforms (AWS, Azure, GCP) and containerization (Docker, Kubernetes).
+Knowledge of CI/CD pipelines and version control systems (e.g. Git).
+Familiarity with Linux/Unix command line tools.
+
+Preferred Qualifications:
+
+PhD degree in Computer Science, Engineering, Mathematics, Physics or a related field.
+Hands-on experience with LLMs, RAG, LangChain, or LlamaIndex.
+Experience with big data technologies such as Hadoop, Spark, or Kafka.
+
+Benefits:
+
+The estimated total compensation range for this position is $75,000 - $90,000 (USD base plus bonus). Actual compensation for the position is based on a variety of factors, including, but not limited to affordability, skills, qualifications and experience, and may vary from the range. In addition to base salary, employees may also be eligible for annual performance-based incentive compensation awards and equity, among other company benefits.
+
+SecurityScorecard is committed to Equal Employment Opportunity and embraces diversity. We believe that our team is strengthened through hiring and retaining employees with diverse backgrounds, skill sets, ideas, and perspectives. We make hiring decisions based on merit and do not discriminate based on race, color, religion, national origin, sex or gender (including pregnancy) gender identity or expression (including transgender status), sexual orientation, age, marital, veteran, disability status or any other protected category in accordance with applicable law. 
+
+We also consider qualified applicants regardless of criminal histories, in accordance with applicable law. We are committed to providing reasonable accommodations for qualified individuals with disabilities in our job application procedures. If you need assistance or accommodation due to a disability, please contact talentacquisitionoperations@securityscorecard.io.
+
+Any information you submit to SecurityScorecard as part of your application will be processed in accordance with the Company’s privacy policy and applicable law. 
+
+SecurityScorecard does not accept unsolicited resumes from employment agencies. Please note that we do not provide immigration sponsorship for this position.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Especialista P&D – Desenvolvimento de SW e Aprendizado de Máquina (IA)
+
+Sobre a vaga
+Position Summary
+
+SOBRE A SAMSUNG E O SRBR
+
+É missão da Samsung inspirar o mundo e moldar o futuro com ideias e tecnologias transformadoras!
+
+E você sabia que muitas dessas inovações são pensadas e desenvolvidas por talentos brasileiros e impactam a vida de milhões de pessoas pelo mundo?
+
+Nosso Centro de Pesquisa e Desenvolvimento - o SRBR - conta com duas unidades no Brasil, em Campinas/SP e em Manaus/AM, com atuação nas áreas de Inteligência Artificial, Segurança da Informação, Ciência de Dados, Desenvolvimento de Software e Automação, e é referência em tecnologias aplicadas à saúde e bem-estar.
+
+Aqui no SRBR respiramos inovação! Trabalhar em um P&D é estar sempre à frente, olhando para o futuro. Por aqui, profissionais da tecnologia e da área da saúde trabalham, pesquisam e criam soluções juntos, com muita sinergia e colaboração, em um ecossistema disruptivo que inclui universidades, institutos de pesquisa e acadêmicos.
+
+Nosso DNA é de pura inovação e criatividade, sem perder nossa essência de empresa sólida, consistente e em pleno crescimento.
+
+Nosso jeito de trabalhar está em constante evolução, acreditamos na potência do trabalho presencial para a sinergia entre as equipes. ;)
+
+Vem transformar o mundo com a gente! Vem ser #SAMSUNGER
+
+Role And Responsibilities
+
+PRINCIPAIS RESPONSABILIDADES
+
+ Participar de projetos de P&D de Inteligência Artificial (IA) do SRBR, que têm o objetivo de produzir tecnologia inovadora para dispositivos Samsung;
+ Contribuição prática projetando modelos de aprendizado de máquina, definindo e executando experimentos, realizando avaliações, gerando relatórios para várias partes interessadas (técnicas e executivas);
+ Contribuir para a formulação da estratégia da equipe, propondo projetos inovadores;
+ Acompanhamento do progresso do projeto de IA;
+ Responsável por desenvolver tecnicamente pares;
+ Suporte à liderança técnica e condução de projetos de IA;
+Produzir código limpo e eficiente com base em especificações;
+Atuar na manutenção da infraestruturas de dados;
+Manter comunicação frequente com a equipe, fornecendo informações para relatórios e apresentações;
+ Outras responsabilidades:
+ Solucionar problemas, depurar e atualizar modelo ML ou software existente;
+ Integrar e validar modelos ML ou software de diferentes equipes de desenvolvimento;
+ Organizar tarefas e acompanhar os riscos do projeto.
+
+COMPETÊNCIAS TÉCNICAS
+
+ Conhecimento em reconhecimento de padrões, processamento de sinais e redes neurais;
+ Conhecimento em design de classificadores e regressores;
+ Conhecimento em probabilidade, estatística, projeto e avaliação de experimentos;
+ Conhecimento em inteligência artificial e ambientes de big data;
+ Conhecimento em programação avançado (Python, C/C++, R e Java);
+ Conhecimento em técnicas, algoritmos e bibliotecas de aprendizado de máquina aplicados a plataformas móveis e vestíveis;
+ Conhecimento prático de execução/implantação de modelos de aprendizado de máquina em dispositivos móveis;
+ Conhecimento prático em otimização de aprendizado de máquina com o objetivo de reduzir a complexidade de redes neurais profundas;
+ Conhecimento em abordagens de aprendizado de máquina que podem ser atualizadas com dados do usuário após a implantação (aprendizado on-line, aprendizado por reforço, etc.);
+ Conhecimento em engenharia de software, incluindo metodologias, práticas recomendadas e ferramentas relacionadas;
+ Publicação acadêmica e participação em conferências.
+
+REQUISITOS
+
+Bacharel em Ciência da Computação, Estatística, Matemática, Física, Engenharia da Computação, Engenharia Elétrica ou áreas correlatas;
+Mestrado em Ciência da Computação, Estatística, Matemática, Física, Engenharia da Computação, Engenharia Elétrica ou áreas correlatas (Desejável);
+Doutorado em Ciência da Computação, Estatística, Matemática, Física, Engenharia da Computação, Engenharia Elétrica ou áreas correlatas (Desejável);
+Inglês: avançado oral e escrito.
+
+Local: Campinas, SP.
+
+Skills And Qualifications
+
+NOSSOS BENEFÍCIOS
+
+O bem-estar das pessoas é prioridade por aqui, por isso oferecemos o SRBR Health, um programa com várias ações focadas na saúde física e mental dos colaboradores. Temos sessões de massagem, relaxamento e alongamento, oferecemos acesso à plataforma Zenklub, serviço de atendimento online com terapeuta, psicólogo, psicanalista ou coach e o Wellhub (antigo Gympass), um programa completo de bem-estar físico, mental e nutricional.
+
+ Nossas mesas de pingue-pongue fazem muito sucesso, e para descobrir os novos talentos esportivos, promovemos um torneio anual que é bem disputado.
+ Valorizamos a conexão familiar, por isso as licenças parentais por aqui são estendidas. Licença-maternidade (6 meses) e paternidade (20 dias), além de auxílio creche para cada filho com idade até 24 meses.
+ Temos a Sala Materna, um espaço de apoio à amamentação, para as mamães lactantes realizarem a retirada e estocagem de leite materno, durante o expediente.
+ Horário flexível.
+ Vale refeição.
+ Plano de saúde (extensível aos dependentes legais).
+ Plano odontológico (extensível aos dependentes legais).
+ Seguro de vida.
+ Vale transporte ou fretado.
+ Auxílio combustível (pode ser usado em outros serviços).
+ Celular corporativo.
+ PLR anual.
+ Bônus anual, com base na performance.
+ Portal com descontos exclusivos em produtos Samsung.
+ Oferecemos 4 horas semanais para dedicação exclusiva a mestrado e doutorado.
+ Temos uma plataforma de desenvolvimento e aprendizagem, o Samsung U, com acesso a milhares de cursos online totalmente gratuitos.
+ Um ambiente de trabalho que estimula a criatividade, o trabalho colaborativo e a conexão entre os times.
+
+DIVERSIDADE, INCLUSÃO E EQUIDADE
+
+Acreditamos no poder das diferenças para criar inovações que atendam e representem todas as pessoas! Estamos em um amplo processo de evolução de um local de trabalho com mais diversidade, equidade e inclusão, por isso valorizamos as candidaturas de todas as pessoas e suas identidades de gênero, etnia, raça, religião, orientação sexual, idade ou deficiência.
+
+As informações confidenciais e proprietárias obtidas por você durante seu histórico de emprego em outras empresas devem ser mantidas como tal (confidenciais e proprietárias) durante todo o processo de seleção, não podendo, em hipótese alguma, ser abertas ou compartilhadas com os entrevistadores.
+
+ Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Java Engineer | Relocate to Abu Dhabi, UAE
+
+Sobre a vaga
+Senior Java Engineer | Security & Defence | Relocate to Abu Dhabi, UAE 🇦🇪
+
+Compensation: Up to 35k AED per month (Approx €8.4K TAX FREE!)
+Location: Abu Dhabi, on-site (relocation package details below)
+
+Our client is a software company, focussed on developing new and specialised solutions for Government, Defence, Smart Cities, Security, and more. In this role, you will design and develop Java applications, contributing to architectural designs and decisions. Working with real-time data in a high performance computing (HPC) environment. We're looking for genuinely passionate Java Engineers, who have experience in Object-Orientated Programming (OOP) and functional programming using Java, Kotlin, and Akka.
+
+Required Experience:
+Java software Development (min 8 years)
+Kotlin and Akka
+OOP and Functional Programming
+DDD and TDD
+
+What's in it for you?
+Salary between 29,000 - 35,000 AED per month (approx €100K per annum, TAX FREE)
+Annual Tickets to your home country (you and your family)
+UAE Visa for you and your family
+Schooling Allowance (Up to 3 children)
+Life and Health Insurance
+Relocation Package includes 10,000 AED relocation bonus, and one month paid Airbnb
+
+Note, due to the sector being Defence, you will need to undergo a security clearance check for this position.
+
+If you'd like to discuss the role and the company further, please apply with your latest CV to be considered!
+-----------------------------------------------------------------------------------

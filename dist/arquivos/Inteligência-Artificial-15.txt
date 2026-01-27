@@ -1,0 +1,434 @@
+[Oportunidade 1]
+Oportunidade: Grupo QuintoAndar | Machine Learning Engineer (Women Applicants Only)
+
+Sobre a vaga
+About QuintoAndar:
+
+QuintoAndar was born to do something very rewarding: open doors. We opened doors for technology to be part of living. And, through it, we simplify and reduce the bureaucracy of the experience of those looking for a new home. Thus, we became the most valuable proptech in Latin America, leading the real estate market in around six countries and more than 75 cities around the globe.
+
+The first steps in the international market have been taken since we acquired Grupo Navent, which is ranked number 1 in Mexico (Inmuebles24), Argentina (Zonaprop), Peru (Adondevivir & Urbania) and Ecuador (Plusvalia) - among others. And most recently, we launched Benvi, our international brand in Mexico, which comes with our residential rental product and service.
+
+We offer an end-to-end ecosystem to make life easier for those looking to rent or buy a home, sell a property and unlock a transaction. Think of zero paper or bureaucracy: everything happens on a single platform, with transparency and speed alongside incredible human support.
+
+We are currently valued at over $5.1 billion (August 2021) and continue to grow 4x year over year, breaking records.
+
+To make all this happen, we have more than 4,000 talented people, working with cutting-edge technology and best design practices to ensure a seamless experience throughout the sales and rental process, combined with smart financial products. Here you will work with the best professionals in the market, in an environment that breathes innovation, collaboration and high performance.
+
+To learn more about our history, visit https://quintoandar.group/en/.
+
+About Grupo QuintoAndar:
+
+We are Grupo QuintoAndar, the largest real estate ecosystem in Latin America. Guided by a shared purpose of helping people love where they live, we have a diverse portfolio of brands and solutions that cover all stages of the journey of living. We develop technologies and innovations that transform and leverage the whole living experience.
+
+About working at QuintoAndar:
+
+Possibility of learning;
+Opportunity to work in a team that seeks to use the best practices and tools in the market;
+Work in an informal environment with a horizontal structure;
+Being part of a team working on a high-impact project that affects the lives of thousands of people
+
+Location & Remote Work
+
+Our technology team works on the "remote-first" model, which means we are working from home with the possibility of living anywhere in Brazil.
+
+Language
+
+This job description is written in English because for that position you will need it for communications with coworkers and suppliers who are from worldwide, for tools and internal materials as well. // A descrição desta vaga está escrita em Inglês porque para esta posição é necessário para a comunicação com colegas e fornecedores, que são de diferentes países, além do uso de ferramentas e materiais internos.
+
+About our selection process:
+
+Our selection process currently lasts an average of 30-40 days, from application to completion of the assessment. Going through:
+
+Application
+Interview with Recruiter
+Tech Screening
+Interviews with Data Products Team
+Offer
+
+About The Area
+
+Responsabilities of a Machine Learning at Grupo QuintoAndar:
+
+Combine Software Engineering and Data Science disciplines to create production-ready Machine Learning models;
+Integrate other engineering services and systems (generally services written in java) with our ML services;
+Develop frameworks and platform to build, deploy, serve and monitor ML-based services;
+Collaborate with Software Engineers, Data Scientists, Data Engineers and Data Analysts along the way of the modeling pipeline:
+Features preparation
+Model training
+API development
+Service deployment
+Predictions and features monitoring
+Model retraining
+Assure health and quality of ML services;
+Foster best practices for infrastructure and coding regarding machine learning specific requirements;
+Contribute to vision and architecture to scale ML-solutions at QuintoAndar's business;
+Participate of problem contextualization, solution scope, product discovery, design and implementation of ML-based products and/or ML Platform;
+Manage technical debt regarding a strategic trade-off between delivering value in the short term and expanding ML capabilities in the long term;
+Bridge professionals and technical dependencies between non-ML services and ML services
+
+Responsibilities
+
+Architect, develop and deploy machine learning systems to production. The main use cases are related to chatbots and search
+Design and execute experiments
+Analyze a wide variety of data (structured and unstructured, observational and experimental) to improve current models or create new ones
+Participate actively in discussions and decisions regarding the whole Data Science chapter (Guilds, Design Reviews, Demos, etc.)
+
+Requirements
+
+What we are looking for:
+
+Solid software engineering skills;
+Strong background in Machine Learning
+Understanding of requirements and challenges for machine learning services;
+Understanding of a modeling pipeline;
+Good cloud-based infrastructure skills;
+Experience developing RESTful APIs;
+Passion about tough technical challenges;
+Humility, curiosity and avid interest in learning;
+Ability to handle with changes in a fast-paced environment;
+Good communication and teamwork skills;
+Orientation to business value
+
+You'll stand out if you have:
+
+Experience productionizing ML models;
+Strong python skills;
+It will be a plus if you have some Java experience
+Experience with Spark;
+Experience with MLOps tools and libraries (Ex: MLflow, Kubeflow, AWS SageMaker, Google AI Platform, etc);
+Experience in the Real Estate market
+MSc. or PhD in Computer Science, Engineering, Statistics, or other relevant technical fields
+
+Important:
+
+Our selection process starts with the application! If you are truly interested in joining our team, make sure to put in extra effort at this stage. We review all candidates individually and provide feedback even to those who do not proceed in the process;
+All communication is done via email, so be attentive to our messages and whitelist the @quintoandar.com.br domain to prevent our emails from going to spam
+
+Benefits
+
+Competitive salary package;
+Bonus;
+Meal allowance ("Flash Benefícios");
+Public transportation allowance*;
+Health plan;
+Dental plan (optional);
+Life insurance;
+Daycare subsidy;
+Subsidy to sports practicing (Gympass)
+Extended maternity and paternity leave;
+Reserved room for breast-feeding;
+Discount on our parking lot;
+Language learning support;
+Free transfer from Vila Madalena and Fradique Coutinho stations to the office;
+Free bike rack in our parking lot
+*Due to our new remote-work reality, that benefit may have changed. That will be informed to you throughout the hiring process. 
+
+Diversity & Inclusion at QuintoAndar
+
+At QuintoAndar, we believe diversity of perspectives and experiences guarantee a differentiated work environment, based on respect and valuing differences. Feel free to declare the information on the registration form. If you are not comfortable answering them, just choose the option "I prefer not to respond". This information helps us create an increasingly inclusive environment and it is used only for this purpose, it is confidential, and it will not impact your performance throughout the hiring process
+
+Data Protection Policy
+
+The data entered in the selection process form is confidential and stored in a secure environment. We take appropriate technical and administrative measures to protect your data.
+
+To exercise your rights over your personal data, such as access to data, treatment confirmation, data correction, anonymization, blocking or deletion, and other rights with QuintoAndar, contact us at quin.to/mensagem. To learn more about how we treat personal data at QuintoAndar access our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Arquiteta(o) de Dados
+
+Sobre a vaga
+Job Description
+
+Estamos a procura de um perfil para Arquitetura de Dados para nosso time de DataOps, BI e Analytics da TI Corporativa. O perfil será responsável por propor e implementar soluções de operação e evolução da estratégia de dados corporativo, harmonizando aspectos técnicos de negócio a arquitetura existente.
+
+Responsibilities and assignments
+
+Suportar a definição e condução da estratégia de dados corporativa alinhado às prioridades de negócio. A estratégia inclui a implementação e gerenciamento de data lake, data warehouses e plataformas de analytics;
+Definir a estrutura de arquitetura de dados e integração para ambiente de dados on-premises e em nuvem, assim como definição de padrões, modelagem, metadados, segurança e governança de dados; Manter roadmap de evolução tecnológica e processos do ecossistema de dados corporativo;
+Gerenciar a arquitetura de dados na definição e gerenciamento do fluxo de dados e disseminação de informações, assim como modelo operacional entre múltiplas áreas;
+Suportar a implementação de frameworks e processos de governança de dados para uso efetivo e ágil dos dados corporativos.
+
+Requirements And Qualifications
+
+Superior completo;
+Inglês fluente/avançado para leitura, escrita e conversação;
+Experiência em design e arquitetura de software e de dados;
+Experiência na construção e manutenção de Data Lake e Data Warehouse (Hadoop e Spark, OLAP e OLTP);
+Experiência com análise avançada de SQL e experiência prática no desenvolvimento em ETL/ELT;
+Experiência em de CI/CD como Azure DevOps e Gitlab;
+Experiência com tecnologias WEB, REST API e SOA.
+
+Você Se Destaca Se Tiver
+
+Conhecimento de plataformas de nuvem como GCP ou AWS;
+Conhecimento em linguagens Python;
+Conhecimento sólido de banco de dados relacionais (Oracle, MySQL) e NoSQL;
+Conhecimento em ferramentas de ALM (como Jira, Confluence e Sonar).
+
+Additional information
+
+Modelo híbrido (com foco em São José dos Campos/SP) ou 100% remoto (com disponibilidade para viagens).
+
+Benefícios
+
+Seguro de Vida
+Convênio Médico 
+Convênio Odontológico
+Benefício Vacina
+Benefício Farmácia 
+Gympass
+Cartão Multibenefícios (para modelo de trabalho Híbrido ou 100% remoto)
+Refeitório na empresa
+Auxílio Home Office (para modelo de trabalho Híbrido ou 100% remoto)
+PLR (Participação de Lucros e Resultados)
+Previdência Privada
+Cooperativa
+EMpower (plataforma interna de treinamento e desenvolvimento)
+
+Precisa de suporte com a plataforma Gupy? Acesse o link abaixo:
+
+Página Central de Suporte ao Candidato
+
+Site dedicado a guiar e orientar a pessoa candidata sobre todas as ferramentas: https://support-candidates.gupy.io/hc/pt-br
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: Screening2Screening
+Step 3: Profile Analysis3Profile Analysis
+Step 4: Team Interview4Team Interview
+Step 5: Finalists5Finalists
+Step 6: Hiring6Hiring
+
+QUEREMOS QUE VOCÊ VOE CADA VEZ MAIS ALTO
+
+Somos uma das maiores empresas aeroespaciais do mundo graças à dedicação de pessoas que possuem uma paixão genuína por superar o impossível. Foi assim desde o início e seguimos norteados pelo desejo de encontrar pessoas que vivem pelo desafio.
+
+Nascemos do sonho de transformar o Brasil em um país com a mais alta tecnologia. Quando tudo parecia impossível, sonhamos alto e nossos profissionais fizeram a companhia alcançar novas altitudes. Não há outra maneira de descrever o que nos impulsiona: Desafiar, Criar e Superar.
+
+O nosso sonho continua e acreditamos que todo mundo tem potencial para fazer a diferença. Por isso, cada vez mais, buscamos construir times diversos, que sejam representativos e valorizem a história e as singularidades de todas as pessoas, para que elas possam viver os seus sonhos junto com a gente.
+
+Aqui, todos têm oportunidade para crescer, se desenvolver e voar alto. Estamos atentos às etapas da vida profissional e aos diferentes momentos de carreira de todas as pessoas, oferecendo programas educacionais e projetos especiais. Além disso, temos frequente oportunidade de integração cultural em âmbito global e desenvolvimento pessoal para a evolução de carreira.
+
+Conheça nossos programas e as vagas abertas no Brasil e no mundo. Todas as posições estão disponíveis para pessoas que desejam desafiar o impossível, independentemente de orientação afetivo-sexual, identidade de gênero, raça, etnia e idade, sejam elas pessoas com ou sem deficiência. Aqui o foco está na parceria para trabalharmos em busca dos resultados como um só time, no desenvolvimento das pessoas com conversas abertas e honestas e na possibilidade de aprender a resolver problemas complexos de forma simples, sempre com paixão em fazer a diferença.
+
+Venha fazer parte da Embraer!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: [Ambev Global Tech] Global AI Platform Tech Lead – GEN AI
+
+Sobre a vaga
+Job Description
+
+Estamos em busca de um(a) Senior AI Tech Lead altamente qualificado(a) e experiente para liderar o desenvolvimento e a entrega global de nossa Plataforma de IA Generativa. Este papel envolverá codificação prática, liderança de uma equipe dinâmica e condução da visão técnica e execução de nossa plataforma. O candidato ideal terá um entendimento profundo das tecnologias de IA, fortes habilidades de liderança e um histórico comprovado na entrega de soluções complexas de IA.
+
+Responsibilities and assignments
+
+Liderança Técnica: Liderar o design, desenvolvimento e implantação da Plataforma de IA Generativa. Garantir que a plataforma atenda a altos padrões de desempenho, escalabilidade e segurança.
+Gestão de Equipe: Mentorar e orientar uma equipe de engenheiros, promovendo um ambiente colaborativo e inovador. Supervisionar a qualidade do código, conduzir revisões e gerenciar o planejamento dos sprints.
+Implantação Global: Desenvolver estratégias para a implantação global da plataforma. Coordenar com equipes multifuncionais para garantir uma integração e operação suaves em vários mercados.
+Inovação: Manter-se atualizado com os mais recentes avanços em IA e aprendizado de máquina. Integrar tecnologias e metodologias de ponta na plataforma para manter sua vantagem competitiva.
+Colaboração: Trabalhar em estreita colaboração com gerentes de produto, designers UX/UI e outras partes interessadas para definir os requisitos do produto e garantir o alinhamento com os objetivos de negócios.
+Resolução de Problemas: Abordar e resolver desafios técnicos complexos que surgem durante o desenvolvimento e a implantação. Implementar melhores práticas para solução de problemas e otimização do desempenho do sistema.
+
+Requirements And Qualifications
+
+Educação: Graduação ou Mestrado em Ciência da Computação, Engenharia ou área relacionada.
+Experiência: experiência em desenvolvimento de IA/ML, em um papel de liderança.
+Habilidades Técnicas:
+Especialização em modelos e tecnologias de IA Generativa (por exemplo, GPT, transformers).
+Proficiência em linguagens de programação como Python, Java ou C++.
+Experiência com plataformas em nuvem (Azure, Databricks, GCP é um diferencial) e contêineres (por exemplo, Docker, Kubernetes).
+Forte compreensão de estruturas de dados, algoritmos e design de sistemas.
+Liderança: Experiência comprovada em liderar equipes técnicas e gerenciar projetos complexos. Capacidade de mentorar e desenvolver talentos de engenharia.
+Comunicação: Excelentes habilidades de comunicação verbal e escrita. Capacidade de articular conceitos técnicos complexos para partes interessadas não técnicas.
+Perspectiva Global: Experiência com implantação internacional e compreensão das considerações do mercado global.
+
+Additional information
+
+Vale refeição ou alimentação ifood;
+Vale transporte;
+Bônus;
+Plano de saúde e Telemedicina;
+Convênio odontológico;
+Convênio Farmácia;
+Seguro de vida;
+Instituto Ambev de Previdência Privada;
+Auxílio Material Escolar;
+Cesta de Natal e Kit Congelado;
+Brinquedos de Natal;
+Empresa cidadã (licença maternidade e paternidade) e presente do bebê;
+Desconto mensal em produtos AMBEV;
+Banco de horas;
+Wellhub (Gympass);
+Fretado;
+Abono anual referente a um salário.
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: Validação de Perfil 2Validação de Perfil 
+Step 3: Entrevista com a Gestão 3Entrevista com a Gestão 
+Step 4: Hiring4Hiring
+
+OLÁ, SOMOS A AMBEV TECH! 🍻
+
+E ninguém une tecnologia e cerveja como a gente! Temos a missão de transformar o dia a dia da maior cervejaria do planeta. Fazemos isso com um time incrível de pessoas apaixonadas e unidas em um único propósito: mudar o mundo com tecnologia.
+
+Buscamos entregar as melhores experiências e trazer soluções ágeis e descomplicadas para fazer a bebida chegar do campo ao copo. Todos os dias, impactamos milhares de pessoas. Cada brinde tem um pouquinho de nós. Essa é a nossa jornada, é o que fazemos e o que somos.
+
+Somos feitos de pessoas
+
+Acreditamos na diversidade e no quanto ela é capaz de fazer a gente evoluir. É através da pluralidade de ideias, de experiências e opiniões que conseguimos pensar fora da caixa e trazer soluções inovadoras. Pra gente, diversidade e inclusão são assuntos sérios! Por isso, contamos com um Comitê de Autenticidade Tech para olhar essas questões com muito carinho e responsabilidade.
+
+Estamos no mundo todo
+
+Também somos Ambev Global Tech. Integramos o hub de tecnologia global da Anheuser-Busch InBev (ABInBev), uma multinacional formada por um grupo de cervejarias com sede em Leuven, na Bélgica, e com outros escritórios globais em diversos países, incluindo Estados Unidos, México, Índia e Brasil.
+
+Vem com a gente!
+
+Nossas unidades estão presentes em Blumenau (SC), Maringá (PR), São Paulo (SP), Campinas (SP), Jaguariúna (SP), e Sorocaba (SP), e contamos ainda com um time remoto de vários cantos do Brasil! Já somos mais de 2.000 pessoas encarando cada desafio pra fazer diferente, mas queremos ir muito mais longe. Pra chegar lá, precisamos fortalecer nossa equipe!
+
+Tá afim de criar soluções para a maior cervejaria do planeta? Causar impacto, trazer inovação e transformar o mundo? Então, vem com a gente 😊
+
+We’re here for tech and beer.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: [Ambev Global Tech] (SRE) - Machine Learning and AI Platform
+
+Sobre a vaga
+Job Description
+
+Se você acredita que um processo de negócio pode sempre ser aprimorado, a gente precisa conversar!
+
+A maior cervejaria do mundo está com vaga aberta para (SRE) - Machine Learning and AI Platform, e como Engenheiro de Confiabilidade do Site (SRE) especializado em Machine Learning e AI Platform, você desempenhará um papel crítico no projeto, implementação e manutenção de uma infraestrutura altamente escalável, confiável e de alto desempenho para dar suporte às iniciativas de aprendizado de máquina e inteligência artificial de nossa organização. Você colaborará estreitamente com equipes multifuncionais, incluindo cientistas de dados, engenheiros de software e gerentes de produto, para garantir que nossa plataforma de ML/IA atenda aos mais altos padrões de confiabilidade, disponibilidade e eficiência.
+
+Responsibilities and assignments
+
+ Papel principal como SRE:
+Projetar e implementar soluções de infraestrutura robustas, escaláveis e automatizadas para dar suporte às nossas cargas de trabalho de aprendizado de máquina e inteligência artificial;
+Identificar e resolver proativamente possíveis gargalos de desempenho, problemas de confiabilidade e vulnerabilidades de segurança na plataforma ML/AI;
+Colaborar com as equipes de engenharia de IA para definir as melhores práticas para implantar, monitorar e gerenciar modelos e pipelines de machine learning em ambientes de produção;
+Otimizar continuamente os componentes da infraestrutura para economia, escalabilidade e desempenho;
+Otimizar o desempenho da plataforma e garanta que os padrões de segurança e conformidade sejam atendidos;
+Colaborar com equipes multifuncionais para solucionar problemas relacionados à plataforma;
+Fornecer orientação técnica e orientação aos membros juniores da equipe;
+Criar, controlar e melhorar continuamente a estrutura e os scripts de automação de IaC para nossas soluções em toda a empresa;
+Fornecer suporte técnico direto de design e entrega para iniciativas de alta prioridade, governando, influenciando e aprovando todas as outras iniciativas;
+Fornecer suporte e orientação em toda a empresa sobre design técnico e padrões;
+Garantir que as soluções entregues estejam alinhadas aos padrões corporativos (arquitetura, operações e infraestrutura) e de alta qualidade, mantendo os atributos não funcionais necessários, como desempenho, capacidade de suporte, segurança, usabilidade, confiabilidade e estabilidade.
+ Entregas:
+Ajudar a arquitetar e implantar infraestrutura altamente disponível e tolerante a falhas para hospedar modelos de aprendizado de máquina, pipelines de treinamento;
+Implementar pipelines de implantação automatizados para implantar modelos e pipelines de ML/IA em ambientes de produção;
+Desenvolver e manter sistemas de monitoramento e alerta para garantir a integridade e o desempenho da plataforma ML/AI;
+Criar documentação e fornecer treinamento para equipes internas sobre as melhores práticas para operar e solucionar problemas da plataforma ML/AI;
+Contribuir para o desenvolvimento de ferramentas e estruturas internas para agilizar os processos de fluxo de trabalho de aprendizado de máquina.
+
+Additional information
+
+Vale refeição ou alimentação ifood;
+Vale transporte;
+Bônus;
+Plano de saúde e Telemedicina;
+Convênio odontológico;
+Convênio Farmácia;
+Seguro de vida;
+Instituto Ambev de Previdência Privada;
+Auxílio Material Escolar;
+Cesta de Natal e Kit Congelado;
+Brinquedos de Natal;
+Empresa cidadã (licença maternidade e paternidade) e presente do bebê;
+Desconto mensal em produtos AMBEV;
+Banco de horas;
+Wellhub (Gympass);
+Fretado;
+Abono anual referente a um salário.
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: Validação de Perfil 2Validação de Perfil 
+Step 3: Entrevista com a Gestão 3Entrevista com a Gestão 
+Step 4: Hiring4Hiring
+
+OLÁ, SOMOS A AMBEV TECH! 🍻
+
+E ninguém une tecnologia e cerveja como a gente! Temos a missão de transformar o dia a dia da maior cervejaria do planeta. Fazemos isso com um time incrível de pessoas apaixonadas e unidas em um único propósito: mudar o mundo com tecnologia.
+
+Buscamos entregar as melhores experiências e trazer soluções ágeis e descomplicadas para fazer a bebida chegar do campo ao copo. Todos os dias, impactamos milhares de pessoas. Cada brinde tem um pouquinho de nós. Essa é a nossa jornada, é o que fazemos e o que somos.
+
+Somos feitos de pessoas
+
+Acreditamos na diversidade e no quanto ela é capaz de fazer a gente evoluir. É através da pluralidade de ideias, de experiências e opiniões que conseguimos pensar fora da caixa e trazer soluções inovadoras. Pra gente, diversidade e inclusão são assuntos sérios! Por isso, contamos com um Comitê de Autenticidade Tech para olhar essas questões com muito carinho e responsabilidade.
+
+Estamos no mundo todo
+
+Também somos Ambev Global Tech. Integramos o hub de tecnologia global da Anheuser-Busch InBev (ABInBev), uma multinacional formada por um grupo de cervejarias com sede em Leuven, na Bélgica, e com outros escritórios globais em diversos países, incluindo Estados Unidos, México, Índia e Brasil.
+
+Vem com a gente!
+
+Nossas unidades estão presentes em Blumenau (SC), Maringá (PR), São Paulo (SP), Campinas (SP), Jaguariúna (SP), e Sorocaba (SP), e contamos ainda com um time remoto de vários cantos do Brasil! Já somos mais de 2.000 pessoas encarando cada desafio pra fazer diferente, mas queremos ir muito mais longe. Pra chegar lá, precisamos fortalecer nossa equipe!
+
+Tá afim de criar soluções para a maior cervejaria do planeta? Causar impacto, trazer inovação e transformar o mundo? Então, vem com a gente 😊
+
+We’re here for tech and beer.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Sênior | Wallet e Banking
+
+Sobre a vaga
+Sobre o Picpay:
+
+Com mais de dez anos de história, o PicPay é uma empresa de tecnologia que oferece um portfólio completo de serviços financeiros para facilitar a relação com dinheiro e ser a principal conta do dia a dia de milhares de pessoas e empresas.
+
+Atuamos em cinco frentes de negócios: Serviços Financeiros para Pessoa Física, Serviços Financeiros para Pessoa Jurídica, Marketplace Financeiro, PicPay Shopce Investimentos. Fundada em Vitória (ES), a empresa tem mais de 30 milhões de usuários ativos e faz parte do grupo J&F, um dos maiores conglomerados empresariais do Brasil.
+
+Nossa cultura é nosso alicerce e nossa força. Conheça nossos valores: Atitude de Dono(a), Disciplina, Determinação, Disponibilidade, Simplicidade, Humildade e Franqueza.
+
+O respeito, a ética e a busca pela equidade são elementos inegociáveis e fazem parte da prática no nosso dia a dia aqui no PicPay. Por isso, esta vaga está aberta para todas as pessoas, independente de gênero, religião, etnia, deficiência, idade, orientação sexual ou qualquer outro fator.
+
+Conheça mais sobre a unidade de negócio de Serviços Financeiros PF:
+
+Nossa unidade de negócio de Serviços Financeiros para Pessoa Física é responsável pelo ecossistema que vai desde carteira digital, PIX, PicPay Card, até a contratação de seguros. Por aqui, você fará parte da construção e desenvolvimento de produtos e serviços que simplificam a vida de milhões de brasileiros e empresas.
+
+Sobre a vaga:
+
+Estamos em busca de um Engenheiro de Dados Sênior que seja proativo e qualificado para fortalecer nossa equipe de Open Finance. Seu papel será crucial na criação e sustentação de pipelines de dados no Data Lake que auxiliarão a equipe de Analytics e Negócio a gerarem insights valiosos. Além disso, esperamos que você tenha um senso crítico de compreender quais dados são importantes através da comunicação com o time de Produto e Tech, identifique oportunidades de otimização em nossa arquitetura de dados e consiga compartilhar conhecimentos e melhores práticas entre as áreas.
+
+Responsabilidade e atribuições
+
+Realizar extração, limpeza e especialização dos dados com origem de diversas tecnologias;
+Modelagem de tabelas que permita a geração de insights pela equipe de Analytics e servindo como apoio para auxiliar com as melhores práticas;
+Manutenção e sustentação dos pipelines existentes;
+Identificar áreas de melhoria, apoiando a evolução contínua da arquitetura de dados;
+Trabalhar em colaboração com outros times, compartilhando conhecimento e melhores práticas relacionadas a dados;
+Ter senso crítico para identificar melhorias de processos.
+
+Requisitos e qualificações
+
+Proficiência em Spark;
+Experiência com Python, PySpark e SQL;
+Experiência com tecnologias AWS (EMR, S3, Secret Manager e Glue Catalog);
+Experiência com orquestração de pipelines ETL no Airflow;
+Experiência com Databricks;
+Experiência com controle de versionamento com Git;
+Conhecimento em BigData e ferramentas de processamento de alto volume de dados.
+Proficiência em documentação de processos e tabelas;
+Forte preocupação com a qualidade dos dados entregues;
+Abordagem orientada para os negócios e habilidade de antecipar necessidades;
+Comunicação clara e efetiva.
+
+O que oferecemos:
+
+Saúde e Bem-estar: Além de Assistência Médica e Odontológica, oferecemos Seguro de Vida e o Lado a Lado, um programa que cuida de você e seus familiares, com apoio jurídico, social, psicológico e financeiro.
+
+E claro, não podemos esquecer da nossa parceria com a Gympass.
+
+Alimentação/ Mobilidade ou Teletrabalho: Por meio do nosso cartão de crédito PicPay Benefícios, com ampla aceitação, você recebe seu saldo de Alimentação/Refeição e Mobilidade ou Teletrabalho (de acordo com o seu contrato de trabalho).
+
+Licença Paternidade e Maternidade: Sabemos que esse é um momento especial para uma família, e por isso oferecemos Licença Maternidade estendida de 6 meses, e de Paternidade também estendida de 20 dias. Além disso, nossas mamães PicPay Lovers são acompanhadas pelo programa "Novo Ser", durante toda a gestação e no retorno da licença. Falando nisso, ao retornar da licença maternidade, as mamães ainda contam com a ajuda do Auxílio Creche e também os papais que possuem guarda unilateral ou compartilhada.
+
+Reconhecemos resultados: PPR- Participação nos Resultados do PicPay.
+
+#VemserPicpayLover #Picpay
+-----------------------------------------------------------------------------------

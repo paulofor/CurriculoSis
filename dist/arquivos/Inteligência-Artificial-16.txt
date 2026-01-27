@@ -1,0 +1,325 @@
+[Oportunidade 1]
+Oportunidade: Data and AI Engineer
+
+Sobre a vaga
+Job Description
+
+Contract Details
+
+Duration: 6-12 months, with the possibility of extension based on project needs and performance.
+
+Interview process: 2 interviews: Recruiting manager + Hiring Manager.
+
+Hours: This position offers flexibility, with an expected workload of 10 to 15 hours per week. Must be available at times during EST time to meet with the team and practice lead.
+
+We are seeking a skilled and motivated Data and AI Contractor to join our team and contribute to our ongoing M365 Copilot extensibility efforts. As a contractor, you will play a crucial role in enhancing our capabilities and ensuring seamless integration of AI services within our organization.
+
+Responsibilities:
+
+Collaborate with our data and AI practice lead to understand project requirements and objectives.
+Develop and implement solutions using Azure Machine Learning Service, Python, Prompt flow, MLflow, Azure AI Services, and Azure DevOps.
+Automate processes by building and executing Azure pipelines for MLOps lifecycle management.
+Work closely with cross-functional teams to ensure successful deployment and maintenance of AI models.
+Troubleshoot issues, optimize performance, and contribute to continuous improvement.
+
+Qualifications:
+
+Minimum of 4 years of relevant experience in data science, machine learning, or AI development.
+Proficiency in Azure Machine Learning Service, Python, and related libraries.
+Familiarity with Prompt flow, MLflow, and Azure AI Services.
+Experience automating workflows using Azure DevOps.
+Strong problem-solving skills and ability to work independently.
+Excellent communication skills in both English and Spanish.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Backend Engineer in Sustainable Agtech & AI @ Adaviv -an MIT Spinoff
+
+Sobre a vaga
+Where would you work?
+Adaviv, spun off from MIT, offers the world's first farmer-centric AI platform for greenhouse and controlled farms. Our AI mentor empowers farm managers and upskills workers, providing real-time insights to enhance productivity, retention, and operational efficiency. Based at Greentown Labs, Somerville, MA, Adaviv serves leading greenhouse and indoor farms globally. We boost yields by up to 31% and cut losses by 45%, saving managers hours each week for critical decisions like worker feedback, treatment optimization, and crop planning. We're growing and seeking passionate, mission-driven individuals with a growth mindset to join our team.
+
+What would you be doing?
+As a Senior Backend Application Engineer at Adaviv, you will be working with our engineering team as well as Product Lead, CTO, Frontend engineers and our UI/UX designers to advance our CI/CD pipeline and implement new data pipelines and APIs for our beta and production-level mobile and web apps towards supporting a growing pool of clients across the Americas and building game-changing products for sustainable Agriculture. You will work on building, maintaining and improving our cloud tech stack. You will also work with the software team to create and maintain an optimized data schema for these new features using google cloud and AWS infrastructure.
+
+You’ll have the opportunity to make a big impact on both the company and our customers. We bring design-to-value thinking to all dimensions of our product development and believe in designing highly intuitive experiences that make our end customer’s job easier. You'll be in charge of quickly improving performance and developing high-impact features, while also keeping one eye on scalability and security of backend services as we grow. At Adaviv, we value continuous learning and adaptability, encouraging you to explore new technologies and methodologies in our fast-paced environment.
+
+We thrive on cross-functional collaboration and communication, with our engineers working closely with product leads, designers, and front-end developers to deliver seamless solutions. For example, we involve engineers in customer workshops and are highly collaborative as we design and refine features like our AI-powered insight delivery.
+
+Who are we looking for?
+We are seeking a passionate individual with 3+ years of engineering experience in industrial production settings, a proven track record of consistently achieving engineering milestones and KPIs and a can-do-will-do mindset to build and grow with our company at a fast, but rewarding pace. One of your super powers is your ability to quickly turn business requirements into high quality implementations of backend application services that support our mobile and web-based apps, while collaborating and communicating effectively with our front-end engineers and UI/UX designer. It would be necessary for this role to have excellent communication skills.
+
+Agile software development is fundamental to your work and you possess a solid toolset for API and data pipeline/analytics development. You keep the end-user front of mind and will help us cultivate empathy for our customers and for fellow team members.
+
+Degree Requirement:
+
+B.Sc or M.Sc in Computer Science, Software Engineering or a relevant field (not a must but strongly preferred).
+
+Required Skills and Qualifications:
+
+5+ years experience in back-end/API software development in an industrial setting (production level contribution).
+5+ years industry experience developing, deploying, and maintaining APIs, relational databases and data pipelines is a must.
+Expertise in in one of the programming languages used to develop cloud tech stack for backend services, savvy in useful libraries, tools, platforms, and development environments that are widely used.
+Experience building and deploying APIs that are used commercially.
+Expertise in agile and continuous software development.
+Strong background in Test-Driven Development and ability to independently carry out all phases of a software development process.
+Demonstrated aptitude in current state-of-the-art developments of cloud applications and rapid development frameworks.
+
+Preferred but not Required Skills:
+
+Fluency in Python, Typescript
+Dual degrees in relevant fields of CS, Software Engineering, Design, math etc.
+Experience building software products for traditional industries like agriculture, manufacturing, supply chain, energy or adjacent fields.
+Familiarity with User-Centric Design (UI/UX theory) and first-hand experience surveying customer feedback.
+Full-stack development experience (Python, AWS ecosystem - data orchestration tools)
+Fundamental knowledge of data engineering and algorithm principles
+
+Additional Details:
+
+This role requires full-time engagement.
+Remote or hybrid remote-in-person flexible.
+Annual salary. We offer an opportunity for equity ownership, with a clear vesting schedule and the potential for significant growth as the company scales.
+
+Final Words. 
+Principles of sustainability are at our core. We value integrity, excellence, hard work, respect, and collaboration. You'll operate as a member of a fun, diverse team (6 nationalities!) and work both independently and collaboratively. We promote and foster diversity of people and ideas, while cultivating empathy for our customers and team members.
+
+We are committed to your professional growth, offering access to conferences, workshops, and continued education support. Adaviv also provides flexible remote or hybrid work options to help you balance your professional and personal life effectively.
+
+Want to be a part of our team? If Adaviv sounds like the type of company you’d like to be a part of and want to help us change how we grow food and medicines for the better, then please apply!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Sr. Machine Learning Engineer - IBP
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Actively contribute to code development in projects and services, leading and coaching ML engineers and data scientists.
+Act as a contributor in innovation activities.
+Work with data scientists, IBP process leads, and BU subject matter experts to identify data clusters for optimal forecasting performance.
+Partner with data scientists on discovery, prototypes, and pilot projects, focusing on experiment tracking and translating business models to ML/statistical models.
+Collaborate with IBP market deploy and sustain teams to design, implement, and test pre-processing and post-processing modules for improved demand forecasts.
+Work with data engineers to ensure proper data access and preparation for model consumption.
+Partner with ML engineers and data scientists on industrialization efforts.
+Drive the use of the Platform toolset and demonstrate 'the art of the possible' to the business.
+Communicate with business stakeholders during service design, training, and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Research state-of-the-art methodologies and techniques for feature engineering and model data preprocessing.
+
+Qualifications
+
+What you will need to succeed
+
+4+ years working in a team to deliver production level analytic solutions - Fluent in git (version control) and with Docker.
+4+ years’ experience in ETL and/or data wrangling techniques - Fluent in SQL syntaxis.
+4+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. 
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or Scala development.
+Effective business storytelling and communicating data insights in business consumable format - Fluent in one Visualization tool.
+Experience with Agile methodology for team work and analytics ‘product’ creation - Fluent in Jira, Confluence.
+On-the-job experience with Azure cloud services is essential.
+
+Additional qualifications that will make you stand out for this position
+
+Experiences with Deep Learning are a plus.
+experience building solutions in the revenue management or in the supply chain space.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Machine Learning Engineer
+
+Sobre a vaga
+Descubra o impacto dos dados e da análise avançada em decisões de negócios, integrando-se ao nosso time de especialistas!
+
+Come join us
+
+Embarque na jornada de transformação de dados com a Avanade! No seu dia a dia, você irá traduzir requisitos de negócios em soluções técnicas inovadoras, analisar práticas atuais e identificar oportunidades futuras, além de projetar e construir soluções modernas de dados na nuvem. Seu papel é fundamental na cadeia de suprimentos de dados, garantindo que os stakeholders tenham acesso e possam manipular dados para análises rotineiras e ad hoc. Together we do what matters.
+
+Skills And Experiences
+
+Experiência comprovada na transformação de casos de uso de negócios em soluções técnicas
+Conhecimento em mapeamento de processos de negócios para soluções de dados e análises
+Habilidade para realizar perfilagem de dados, catalogação e mapeamento para design técnico
+Domínio de .NET C#, T-SQL e familiaridade com Python e Spark
+Conhecimento em Azure Data Factory, Azure Data Lake, Azure Databricks, Azure SQL DW, Azure SQL e Azure App Service
+
+About You
+
+Características que demonstram sucesso para este papel:
+
+Analítico, curioso e ágil
+Espírito de equipe e boa comunicação
+Solucionador de problemas, paciente e focado na qualidade
+Autodidata
+Mentalidade inovadora
+
+What You'll Do
+
+Traduzir requisitos de negócios em soluções técnicas com acurácia
+Analisar e mapear processos de negócios para soluções de dados e análises
+Contribuir no planejamento e implementação de serviços de design de dados
+Desenvolver e manter esquemas de data warehouse e bancos de dados para acesso a dados e análises avançadas
+Expor dados aos usuários finais utilizando plataformas modernas de visualização
+
+Learn more
+
+Para Saber Mais Sobre a Avanade, Confira Estes Links
+
+Blog do LinkedIn
+
+dentro da Avanade
+
+Carreira na Avanade
+
+Enjoy your career
+
+Algumas Das Melhores Coisas Para Trabalhar Na Avanade
+
+Oportunidade de trabalho para o Parceiro Global da Aliança da Microsoft do Ano (14 anos trabalhadores), com desenvolvimento e treinamento especial (mínimo de 80 horas por ano para treinamentos e certificações pagas)
+Acesso em tempo real a recursos técnicos e científicos globalmente
+Conselheiro de carreira dedicado para incentivo ao seu crescimento
+Colegas de trabalho engajadas e prestativas genuinamente específicas para você
+Saiba mais sobre alguns de nossos benefícios:
+Vale refeição ou alimentação; 
+Cartão Multibenefícios até Consultor Sênior; 
+Convênio médico e odontológico; 
+NAV: Plataforma online para cuidar da saúde; 
+Certificações e treinamentos; 
+Seguro de Vida; 
+Previdência Privada; 
+Avababy: acompanhamento da gestação e kit para os novos pais e mães Avanade; 
+Participação nos resultados da empresa;
+Gympass; Auxílio Creche; 
+Orientador de Carreira - Mentoria de carreira; 
+Política de Birthday Off em seu aniversário e de filhos até 12 anos; 
+Sessões de Bem-Estar; 
+Para função gerencial ou superior - Veículo corporativo, estacionamento e auxílio combustível.
+
+A great place to work
+
+Ao trazer suas habilidades e capacidades para a Avanade, você terá experiências específicas, aprendizado ilimitado e crescimento ambicioso em troca. À medida que continuamos a construir nossa cultura diversa e inclusiva, nos tornamos ainda mais inovadores e criativos, ajudando-nos a servir melhor nossos clientes e comunidades. Você se juntará a uma comunidade de colaboradores inteligentes e solidários para elevar, orientar e orientar você, e contar com sua expertise. Você terá uma empresa construída para soluções tecnológicas de ponta e críticas para os negócios, comprometida em melhorar a forma como os humanos trabalham, interagem e vivem. Está tudo aqui, então dê uma olhada mais de perto!
+
+Trabalhamos arduamente para proporcionar uma cultura inclusiva e diversificada, com um profundo senso de pertencimento para todos os nossos funcionários. Visite nossa página de Inclusão & Diversidade. 
+
+Crie um futuro para nossas pessoas que se concentram em:
+
+ Expandir seu pensamento
+ Experimentar intensamente
+ Aprender e girar
+
+Inspire Grandeza Em Nossas Pessoas Por
+
+ Empoderar cada voz
+ Encorajar a ousadia
+ Comemorar o progresso
+
+Acelere o Impacto De Nossas Pessoas Por
+
+ Surpreender o cliente
+ Priorizar o que importa
+ Agir como um só
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Cientista de Dados - Especialista
+
+Sobre a vaga
+Um time que faz parte da mudança 
+
+Abraçamos o poder da mudança para criar valor e sucesso compartilhado para nossos clientes, funcionários, acionistas, parceiros e comunidades. Contamos com a maior rede mundial de centros de tecnologia avançada e operações inteligentes.
+
+Provocamos a mudança no mercado 
+
+Trabalhamos juntos mundo afora para fazer um mundo de diferenças. A Accenture é uma empresa global de serviços profissionais líder em soluções para digital, nuvem e segurança. Ao combinar experiência incomparável e habilidades especializadas em mais de 40 setores, oferecemos serviços em Estratégia e Consultoria, Tecnologia, Operações, Industry X e a Accenture Song.
+
+Ao trabalharmos juntos, a mudança se torna a fonte de progresso mais dinâmica e poderosa que você tem. Somos mais de 738 mil pessoas, presentes em mais de 120 países, engajados em fazer inovação todos os dias e transformar o mundo em um lugar melhor para as pessoas.
+
+As Melhores Pessoas
+
+Nosso principal valor é o Respeito pelo Indivíduo. O nosso maior ativo são as pessoas, não fazemos distinção de gênero, cor, orientação sexual, posição social ou deficiências. Todos têm oportunidades iguais de construir sua carreira em uma empresa inclusiva e diversificada.
+
+Junte-se a nós
+
+Somos uma equipe que tem objetivo de colocar a nuvem no coração dos negócios das maiores empresas do mundo, desenvolvendo soluções específicas de migração para nuvem com a possibilidade de usufruir o melhor dela. Anunciamos em 2020 investimento de USD 3 bilhões para apoiar nossos clientes de todos os setores a se tornarem rapidamente “cloud-first” e acelerar sua transformação digital com velocidade e em escala.
+
+Requisitos:
+
+
+Experiência com Python: Habilidade comprovada em utilizar Python para análise de dados e modelagem estatística.
+
+Experiência com AWS: Conhecimento das ferramentas e serviços da AWS, como AWS S3, AWS Athena, AWS Glue, e Amazon SageMaker.
+
+Experiência com análise de dados: Experiência sólida em trabalhar com grandes volumes de dados e em criar insights acionáveis.
+
+Experiência com SQL: Habilidade em escrever consultas SQL complexas.
+
+Modelagem estatística e machine learning: Experiência em desenvolver e validar modelos preditivos e estatísticos.
+
+Boas práticas de desenvolvimento: Familiaridade com boas práticas de desenvolvimento de software, como design patterns e clean code.
+
+Inglês Avançado para comunicação diariamente 
+
+
+Diferencial: Experiência em desenvolvimento de algoritmos de machine learning com Python.
+
+Benefícios:
+
+Assistência Médica – 100% subsidiada pela empresa (titular e dependentes)
+
+Assistência Odontológica
+
+Vale Refeição ou Alimentação sem desconto
+
+Seguro de vida
+
+Previdência Privada
+
+Gympass
+
+Opção de compra de ações da empresa com desconto
+
+Desconto Farmácia
+
+Auxílio Creche
+
+Parceria com escola de idiomas
+
+Licença Maternidade e Paternidade Estendida
+
+PPR *Conforme política vigente
+
+Localidade da vaga: 
+
+Recife - PE Campina Grande - PB
+
+Fortaleza - CE São Paulo - SP Curitiba - PR Rio de Janeiro - RJ Belo Horizonte - MG
+
+Buscamos perfis que estejam alinhados aos valores da empresa, entusiastas em trabalhar em um ambiente colaborativo e dinâmico e que tenham a excelência na entrega e a inovação presentes em seu dia a dia.
+
+Valorizamos a competência independentemente da sua raça, idade, gênero, orientação sexual, credo, convicção política. A diversidade das nossas pessoas é o que faz Accenture excepcional. Nós reconhecemos que cada pessoa possui forças exclusivas e diversas.
+-----------------------------------------------------------------------------------

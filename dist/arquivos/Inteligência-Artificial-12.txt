@@ -1,0 +1,256 @@
+[Oportunidade 1]
+Oportunidade: Generative AI Orchestration Engineer
+
+Sobre a vaga
+We are seeking a highly skilled and innovative Generative AI Orchestration Engineer to join our dynamic team. The ideal candidate will have a deep understanding of AI technologies and a proven track record in developing and deploying advanced AI solutions. You will be responsible for designing, building, and optimizing our AI systems, ensuring they perform efficiently and effectively. This role requires a blend of technical expertise, creativity, and the ability to work collaboratively with cross-functional teams.
+
+Key Responsibilities: 
+Develop and Implement AI Kernel: Develop and maintain the foundational job queue and task scheduler, ensuring robust and efficient task management within the AI system. 
+Develop AI Broker Framework: Create and optimize a framework for intelligent model selection and invocation, maximizing performance and cost-effectiveness. Implement intelligent error correction mechanisms. 
+Build and Manage AI Gateway: Integrate various data sources into the system and develop function-calling capabilities. Establish and maintain connections to databases, internet search, and external APIs. 
+Enhance Cognitive Architecture: Implement advanced AI features such as working memory, planning, and problem-solving capabilities to enhance the system's intelligence. 
+Create Agent Framework: Develop a framework enabling the AI to operate semi-independently, executing high-level instructions similar to a human remote employee. 
+Develop Preconfigured Modules: Design and deploy various ready-to-use modules, including document extraction, coding sandbox, and chat functionalities, tailored to specific applications. 
+Implement Learning Framework: Create and maintain a learning framework that allows the AI system to improve automatically over time, incorporating feedback and new data. 
+ Qualifications: 
+Proven experience in designing and developing AI systems, with a focus on generative AI technologies. 
+Strong programming skills in languages such as Python, Java, or C++. 
+Experience with AI/ML frameworks and libraries (e.g., TensorFlow, PyTorch). 
+Knowledge of AI model selection, optimization, and error correction techniques. 
+Expertise in data integration and API development. 
+Understanding of advanced AI concepts such as working memory, planning, and problem-solving. 
+Ability to design frameworks for semi-independent AI operation. 
+Experience in developing and deploying preconfigured modules for various applications. 
+Familiarity with frameworks for continuous learning and improvement of AI systems. 
+Strong problem-solving skills and attention to detail. 
+Excellent communication and teamwork abilities. 
+Education: Bachelor's or Master’s degree in Computer Science, Artificial Intelligence, Machine Learning, or a related field. 
+Relevant certifications in AI/ML technologies are a plus. 
+ Preferred Qualifications: 
+Advanced Degree: Master’s in Computer Science, Linguistics, AI, or a related field. 
+Industry Knowledge: Experience in specific industries such as healthcare, finance, customer service, etc., to tailor AI solutions to industry-specific needs. 
+ Soft Skills: 
+Strong analytical and problem-solving skills. 
+Excellent communication and interpersonal skills. 
+Ability to work independently and as part of a team. 
+Strong organizational and time management skills. 
+ Benefits: 
+Competitive benefits. 
+
+About the Zaaz Collective: 
+Zaaz is building a company that’s tailor made for today’s modern marketer. There are two interconnected components of our offering: 
+  A company with the best creative and marketing talent from both the U.S. and Brazil. 
+A suite of AI-enabled products designed to allow marketing leaders to build workflows, blending the best of humans and machines, for faster and more efficient marketing. 
+ Our founding team has decades of agency experience and a long track record of building deep client relationships. With the rise of AI, we see an opportunity for marketing decision-makers to redesign their processes to make the most of their people and this new wave of technology. We know the old way of billing clients and overworking staff with billable hour targets is a thing of the past (or, at least, it will be soon). That’s why we created the Zaaz Collective to build a new company tailor-made for today’s modern marketer. 
+ With a new tech-first (instead of hours-first) delivery model, we can base our contracts on value and outcomes instead of throwing more bodies at problems. This approach allows us to deliver breakthrough results while lowering both cost and time to deliver, all while educating our clients on how to use common-sense AI approaches to leave more time for creative and strategic work that drives real growth. 
+ This is an incredible opportunity to work in an environment where we bring culture and technology together. We believe in our people. 
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: AI Developer | Mid
+
+Sobre a vaga
+Descrição da Vaga
+
+Responsibilities and assignments
+
+Analisar oportunidades em soluções de Inteligência Artificial em diferentes modelos de negócio; 
+Fazer a interface entre o cliente e equipes internas envolvidas; 
+Ser responsável pelos projetos de inteligência artificial em todas suas etapas, da compreensão do problema à otimização; 
+Ser responsável por evangelizar a prática de Inteligência Artificial Generativa e AI
+Conduzir reuniões com clientes para compreensão das necessidades; 
+Liderar o desenvolvimento de soluções de Inteligência Artificial Generativa e sistemas relacionados; 
+Projetar/revisar fluxos e arquiteturas básicas de soluções de inteligência artificial; 
+Acompanhar a equipe de desenvolvimento e testes de soluções de IA para garantir a qualidade das entregas; 
+Apoiar a curadoria de modelos de inteligência artificial e realizar otimizações no projeto; 
+Construir relatórios e documentação de projeto; 
+Manter atualizado no estado-da-arte de soluções cognitivas;
+Elaborar apresentações de resultados internos e para clientes.
+
+Requirements And Qualifications
+
+Experiência com as mais diversas frente de IA e IA generativa;
+Domínio de alguma linguagem de programação, preferencialmente Python ou JavaScript;
+Conhecimento em NLP (Processamento de linguagem natural);
+Conhecimento avançado em System Design;
+Conhecimento em Visão computacional;
+Experiência em desenvolvimento de chatbots;
+Conhecimento intermediário de cloud (GCP, AWS, Azure, IBM Cloud);
+Sólidos conhecimentos em liderança de projetos de TI;
+Inglês e/ou espanhol fluente;
+Desejável: Conhecimento em chatbot/voicebot e experiência com visão computacional; Vivência com DevOps e suas metodologias, incluindo automação de CI/CD e práticas de implantação contínua.
+
+Não possui todos os requisitos para a vaga?
+
+Está tudo bem! Na Compass UOL, estimulamos o desenvolvimento contínuo de novos talentos e transformamos desafios em oportunidades.
+
+
+Informações Adicionais
+
+#remote
+
+"remote"
+
+Nós somos a Compass.
+
+Projetamos e construímos plataformas nativas digitais usando tecnologias de ponta para ajudar empresas líderes globais a inovar, transformar seus negócios e prosperar em seus setores.
+
+Nosso Norte é criar coisas que ninguém jamais imaginou que seriam possíveis.
+
+E fazemos isso porque temos pessoas criativas e incríveis com a gente! 😊
+
+Se você quer fazer parte de um time com mais de 4.000 profissionais ao redor mundo, completamente apaixonados pelo que fazem, junte-se a nós e torne-se um Compasser!
+
+Aqui nós prezamos e valorizamos a diversidade em todos os âmbitos da nossa cultura e por isso todas as nossas vagas são também destinadas a Pessoas com Deficiência e/ou beneficiários reabilitados.
+
+Nós estamos esperando por você.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de Dados Sênior
+
+Sobre a vaga
+Funções que serão desempenhadas: 
+
+ Atuar com engenharia de dados (coleta, armazenamento, tratamento e exposição); 
+ Impulsionar o design, a construção e o lançamento de novos modelos de dados e pipelines de dados em produção; 
+ Impulsionar a qualidade dos dados em todas as áreas de negócios relacionadas; 
+ Gerenciar a entrega de painéis e visualizações de dados de alto impacto; 
+ Facilitar e acelerar a movimentação dos principais ativos de dados de D&A para o GCP. 
+
+ Requisitos necessários: 
+
+ Ensino Superior em Ciência da Computação, Matemática, Física ou outros cursos relacionados à Tecnologia; 
+ Experiência em Engenharia de Dados, BI ou Data Warehousing; 
+ Experiência em criação de API's; 
+ Experiência em linguagem de programação Python; 
+ Experiência com ferramentas de visualização de dados (por exemplo, Tableau) e/ou sistemas de gerenciamento de banco de dados relacional; 
+ Experiência em cloud (GCP, Azure ou AWS). 
+
+#BVS
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Analista Sênior em Inteligência Artificial (Visão Computacional) - Curitiba PR
+
+Sobre a vaga
+Que tal construir a sua carreira em uma das maiores companhias de alimentos do mundo?
+
+Venha trabalhar na BRF! Uma empresa que está presente na vida de milhares de famílias ao redor do mundo. Dos momentos mais simples até os mais especiais, nós ajudamos a deixar a vida de muita gente mais saborosa.
+
+Descrição do Cargo
+
+ O profissional irá atuar com 
+
+
+ Captação de Oportunidades para Automação com Digitalização de Imagens;
+ Desenvolvimento de software para aplicações de Visão Computacional
+ Desenvolvimento de software em Python
+ Processamento de Imagens, Visão Computacional, Aprendizado de Máquina
+ Utilizar bibliotecas de Processamento de Imagens e Visão Computacional
+ Aplicações como detecção, rastreamento e reconhecimento de objetos
+ Construção de modelos de Redes Neurais de qualidade para produção usando o estado da arte em técnicas de Visão Computacional
+ Criação de Documentação dos Projetos;
+
+
+Qualificações Desejáveis
+
+
+ Conhecimento de Computação de Borda - Sistema Operacional Embutido, Linux;
+ Programação em linguagem Python e análise de dados;
+ Conhecimento de processamento digital de imagens;
+ Bibliotecas e Frameworks (Visão Computacional: OpenCV, Open3D);
+ Aprendizado de Máquina e Aprendizado Profundo (TensorFlow / PyTorch/ Scikit-learn);
+ Conhecimento de redes neurais aplicadas em Visão Computacional;
+ Otimização e tunning de redes neurais;
+ Deploy de modelos em produção;
+ Experiência com integração de Serviços Nuvem, em especial Azure.
+ Exposição de Serviços via APIs REST: Desenvolver e expor serviços usando arquitetura REST;
+ Construção e Gerenciamento de Containers: Utilizar tecnologias como Docker e Kubernetes para orquestrar containers;
+ Excelentes habilidades de comunicação e colaboração, sendo capaz de compartilhar conhecimentos e influenciar positivamente o ambiente de trabalho;
+ Oratória, saber apresentar resultados utilizando ferramentas visuais e de fácil compreensão;
+ Familiaridade com Gestão de Projetos;
+ Familiaridade com Análise de Saving, ROI;
+ Familiaridade com Projetos Ágeis e suas cerimônias (Daily, Sprint Planning, Sprint Review, etc.)
+
+
+Formação Acadêmica
+
+Ciência da Computação, Engenharia Elétrica, Eletrônica ou Mecânica ou área similar
+
+Inscreva-se agora e faça parte da BRF!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Cientista de Dados Sr - ICVA
+
+Sobre a vaga
+Somos mais que uma máquina, somos pessoas que transformam e criam infinitas possibilidades.
+
+Trabalhamos para simplificar e impulsionar negócios para todas as pessoas, oferecendo soluções financeiras inteligentes. Aqui, investimos em tecnologia, promovemos desenvolvimento e fomentamos a inovação para criar novos caminhos possíveis e gerar impacto positivo no mundo.
+
+Na Cielo, a gente trabalha com autonomia para escrever nossa própria jornada, liberdade para ser quem a gente é, e a oportunidade de fazer acontecer. Somos um time que sonha no plural, oferecendo uma experiência completa e focando no bem-estar físico e mental de nossos mais de 6.000 colaboradores e suas famílias.
+
+Acreditamos na inclusão e acolhimento de todas as pessoas, com suas singularidades e diversidade de vivências.
+
+Bora realizar seus sonhos com a gente!
+
+Juntos com você, em infinitas possibilidades.
+
+#VemPraCima #VemPraCielo
+
+Tem Lugar Para Você Nesse Propósito
+
+Atuação como Cientista de dados ponto focal do ICVA (Índice Cielo do Varejo Ampliado) indicador de grande relevância para o mercado de varejo brasileiro.
+
+O que o #TimeCielo espera de você? 
+
+Desenvolver modelos matemáticos e estatísticos, podendo aplicar técnicas de Machine Learning e IA, para otimizar a utilização dos dados da Cielo.
+Criar e automatizar ciclos analíticos "end-to-end": Obtenção e tratamento/limpeza dos dados; análise exploratória de dados; criação e validação do modelo.
+Montar e apresentar materiais para executivos, com mensagens claras.
+Ser curioso e propositivo (propor melhorias/boas praticas/melhorar performance dos modelos).
+
+Requisitos
+
+Conhecimento técnico SQL e Python;
+Desejável conhecimento Pyspark;
+Experiência em analytics e/ou Data Science, incluindo construção de modelos;
+Rigor analítico;
+Boa capacidade de comunicação;
+Resiliência, vontade de aprender e responsabilidade para lidar com demandas do dia a dia.
+
+Por que viver infinitas possibilidades ao nosso lado? 
+
+ Assistência Médica e Odontológica
+ Remuneração Variável Anual (PPR)
+ Auxílio Refeição e Alimentação
+ Home-office (modelo híbrido)
+ Auxílio Trabalho Remoto
+ Seguro de Vida
+ Previdência Privada
+ Canal de apoio à especialistas (nutrição, psicologia, ginecologia etc.)
+ Campanha de Vacinação
+ Edupass (Plataforma de estudo e desconto em instituições parceiras)
+ Gympass (Auxílio Academia e Bem-estar)
+ Programa de Gestação Saudável
+ Licença Maternidade e Paternidade estendida
+ Auxílio Creche
+ Dress Code Flexível
+ Horário Flexível
+ Sexta-curta
+ Almoço estendido (1h30)
+
+About The Company
+
+VEM PRO #TIMECIELO, ONDE SEU SONHO DE TRANSFORMAÇÃO ENCONTRA INFINITAS POSSIBILIDADES DE SE TORNAR REALIDADE!
+
+Somos mais que uma máquina, somos pessoas que sonham, transformam e criam infinitas possibilidades juntas.
+
+Aqui a gente é movido por sonhos e, mais importante, por transformação! Por isso, nos empenhamos todos os dias para cumprir a nosso propósito de simplificar e impulsionar negócios para todas as pessoas, oferecendo soluções financeiras inteligentes e acessíveis que estão no dia a dia de quem movimenta o Brasil.
+
+Para isso, Investimos fortemente em tecnologia, criamos um ambiente propenso ao desenvolvimento e fomentamos a inovação para aumentar cada vez mais a nossa capacidade de criar novos caminhos possíveis e gerar impacto positivo no mundo.
+
+Trabalhar na Cielo é aprender na prática e construir uma carreira diariamente.
+
+No nosso dia a dia, a gente trabalha com autonomia para escrever nossa própria jornada, liberdade para ser quem a gente é e a oportunidade de fazer acontecer.
+
+Nós sonhamos no plural, acolhendo e ajudando a realizar os sonhos das mais de 6.000 pessoas que fazem parte do #TimeCielo. E, para torná-los realidade, a gente oferece uma experiência completa e inesquecível para o nosso time, focando no bem-estar físico e mental não apenas dos nossos colaboradores e colaboradoras, mas também de suas famílias.
+
+Além disso, a gente acredita que a resposta para conseguir vislumbrar novos futuros está na inclusão e acolhimento de todas as pessoas, com suas singularidades e diversidade de vivências. Por isso, não importa qual seja o seu sonho – pra sua vida, sua carreira, pra deixar sua marca no mundo –, tem lugar pra ele aqui, junto com os nossos. Vem pra Cima, vem pra Cielo!
+-----------------------------------------------------------------------------------

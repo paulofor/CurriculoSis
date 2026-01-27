@@ -1,0 +1,300 @@
+[Oportunidade 1]
+Oportunidade: [Tecnologia] Cientista de Dados Sênior
+
+Sobre a vaga
+A sua missão:
+
+Como Cientista de Dados, você será responsável por transformar dados brutos em informações valiosas que ajudarão a orientar decisões estratégicas dentro da empresa.
+
+Você trabalhará com grandes volumes de dados, aplicará técnicas avançadas de análise e desenvolverá modelos estatísticos e algoritmos de aprendizado de máquina para otimizar processos e melhorar os resultados de negócios.
+
+Espera-se que você possua uma sólida base analítica, habilidades de programação, estatística e um espírito colaborativo para trabalhar em equipe com outras áreas, como produto e engenharia.
+
+Responsabilidades e atribuições
+
+Como será o seu dia a dia:
+
+Analisar grandes volumes de dados para identificar tendências e padrões;
+Desenvolver e implementar modelos preditivos e algoritmos de machine learning;
+Trabalhar em conjunto com as equipes de engenharia, produto e negócios para entender as necessidades de dados e entregar soluções eficazes;
+Validar a eficácia dos modelos criados e realizar ajustes contínuos para aprimorar os resultados;
+Realizar testes A/B, simulações e outras metodologias para avaliar o impacto de diferentes decisões e estratégias;
+Acompanhar as melhores práticas de análise de dados e aplicar novas técnicas e ferramentas ao processo de análise;
+Criar visualizações para facilitar a compreensão e a comunicação dos resultados;
+Manipulação e extração de conjuntos de dados complexos;
+
+Requisitos e qualificações
+
+O que buscamos:
+
+Graduação em Ciência da Computação, Estatística, Engenharia, Matemática ou áreas correlatas.
+Experiência em ciência de dados e construção de modelos preditivos;
+Domínio de linguagens de programação como Python, R ou similares;
+Experiência com bibliotecas e frameworks de machine learning (ex: Scikit-learn, TensorFlow, PyTorch);
+Sólidos conhecimentos e casos de uso comprovados com Machine Learning/Deep Learning
+Conhecimento em SQL e ferramentas de AutoML;
+Criação de produtos de dados e pipeline MLOps;
+Familiaridade com ferramentas de visualização de dados;
+Habilidades de comunicação para apresentar insights de dados de forma clara e acessível a equipes não técnicas;
+Capacidade de trabalhar de forma autônoma e em equipe, com foco em resultados;
+Conhecimento em ambiente Cloud (Google Cloud Platform).
+
+Pontos a mais que você possui:
+
+Pós-graduação/Mestrado é um diferencial;
+
+Informações adicionais
+
+Benefícios:
+Plano de Saúde;
+Plano Dental;
+Psicoterapia Online;
+TotalPass;
+Seguro de Vida;
+Vale Alimentação e Vale Refeição (VA/VR);
+Parcerias de Desconto (Universidade e Escolas de Idiomas);
+Despreocupe-se - Seguros Diversos;
+No dress code;
+
+#VEMPRACONTABILIZEI 💙
+
+Cultura e Desenvolvimento = Construímos Juntos e Juntas 🚀
+
+Acreditando que o sucesso de pessoas empreendedoras é o nosso sucesso, Guardiões e Guardiãs de nossa cultura constroem todos os dias o melhor lugar para se trabalhar. Crescendo com a Contabilizei e contando suas próprias histórias!
+
+Buscar ser 1% melhor todos os dias é um valor importante no foguete. Um dos pilares para o encorajamento ao protagonismo dos nossos Guardiões e Guardiãs é feito através do Ciclo de Performance, com possibilidades de Carreira em Y, Cultura de Feedback (1:1) e ferramentas que ajudam entender oportunidades de desenvolvimento e evolução constante de nossos valores.
+
+É importante que saiba, você pode ser quem é! Estamos conscientizando e construindo um ambiente psicologicamente seguro com iniciativas de Diversidade e Inclusão. Somos verdadeiros(as) e acreditamos que essa seja uma responsabilidade de todos os Guardiões e Guardiãs! Todas as nossas oportunidades estão abertas para pessoas diversas em identidade de gênero, cor e etnia, orientação sexual, origem, pessoas com deficiência (PcD), e todas as interseccionalidades possíveis.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Especialista de Dados - São Paulo/SP
+
+Sobre a vaga
+Job Description
+
+Sobre a Shô
+
+Aqui na Shô, acreditamos que cada membro de nossa equipe é fundamental para o nosso sucesso, e que diversidade de perspectivas e vivências são essenciais para movimentar nosso negócio e impulsionar o nosso propósito de mudar o mundo para melhor.
+
+Fazer parte do nosso time é a oportunidade de se desenvolver dentro de uma cultura de muita agilidade. Se você ama assumir grandes responsabilidades e fazer o que nunca foi feito, a Shô é seu lugar. Aqui você terá grandes desafios, trabalhará em colaboração com um time diverso e contribuirá para o futuro do e-commerce no Brasil, criamos impacto positivo na vida de milhões de pessoas.
+
+Modelo de Trabalho
+
+Adotamos um modelo de trabalho híbrido, esse modelo permite que as pessoas ajustem seu ambiente de trabalho de acordo com suas necessidades pessoais, ao mesmo tempo em que promove a colaboração e interação no escritório.
+
+Qual será a sua missão
+
+A equipe de Dados e Análise transforma dados em insights acionáveis que geram valor para o negócio, utilizando tecnologias e metodologias avançadas para coletar, processar e analisar dados grandes e complexos.
+
+Como será o seu dia a dia
+
+Atuar como referência técnica e estratégica para o time de dados e áreas parceiras, compreendendo profundamente os problemas, objetivos e contexto das partes interessadas, antecipando necessidades futuras com base em tendências e padrões identificados nos dados;
+Liderar a definição de prioridades e direcionamentos técnicos, delegando, orientando e desenvolvendo profissionais menos experientes, promovendo excelência operacional e técnica em todo o time;
+Liderar análises de alta complexidade e impacto, influenciando decisões críticas e contribuindo diretamente para a definição dos rumos estratégicos do negócio;
+Estabelecer e cultivar relações de confiança com stakeholders de diferentes níveis hierárquicos, promovendo inclusão, alinhamento e participação ativa na definição de iniciativas de dados e tecnologia;
+Ser autoridade em métricas de saúde (health metrics) e suas implicações no desempenho do negócio, estabelecendo padrões de análise e orientando decisões baseadas em inferências sólidas conectadas a metas estratégicas;
+Traduzir dados complexos em recomendações práticas, orientando a liderança com insights acionáveis que evidenciem riscos e oportunidades de forma clara e objetiva;
+Ter visão sistêmica da operação e do negócio, conectando dados a objetivos táticos e estratégicos, atuando como consultor interno e influenciando diretamente a definição de caminhos e prioridades da companhia;
+Propor e desenhar soluções robustas para problemas de negócio, indo além da resolução imediata ao antecipar causas raiz e estruturar medidas preventivas e escaláveis;
+Guiar a priorização de soluções com base em impacto no negócio, esforço técnico e alinhamento estratégico, garantindo foco em entregas de maior valor;
+Criar narrativas avançadas com storytelling e visualizações de dados sofisticadas, moldando discussões e decisões de alto nível;
+Desenhar, estruturar e automatizar pipelines de dados complexos, com foco em desempenho, escalabilidade e manutenção de longo prazo, promovendo excelência técnica;
+Liderar a definição, documentação e disseminação de padrões e boas práticas de dados, atuando como agente de transformação e referência em governança e qualidade;
+Desenvolver soluções técnicas de alto desempenho, escrevendo código limpo, eficiente e escalável, com atenção à arquitetura de dados e às necessidades futuras da organização.
+
+Requirements
+
+O que você precisa para assumir o desafio
+
+Graduação completa em Estatística, Matemática, Ciência da Computação, Engenharia, Economia, Administração e/ou áreas correlatas;
+Inglês avançado (a nível de conversação);
+Conhecimento em linguagens de análise de dados (por exemplo: SQL, Python);
+Confortável para trabalhar com grandes volumes de dados e ambientes de big data;
+Conhecimento em modelagem, preparação e manipulação de dados;
+Experiência com ferramentas de visualização de dados para criação de relatórios;
+Experiência no relacionamento com stakeholders de negócios e nos desafios do negócio;
+Experiência com métricas da área de Marketing.
+
+Benefícios
+
+Assistência médica e odontológica, estendendo-se aos dependentes;
+Parceria com Wellhub e TotalPass;
+Vale Refeição/Alimentação flexível;
+Vale Transporte, Vale Mobilidade ou Estacionamento no local;
+Benefício flexível;
+Zenklub;
+Bônus anual discricionário, atrelado à performance. 
+
+VEM FAZER HISTÓRIA COM A GENTE.
+
+O QUE TE FAZ ÚNICO, NOS FAZ MELHORES! 🧡
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Cientista de Dados Sênior / Híbrido - Rio de Janeiro
+
+Sobre a vaga
+REQUISITOS MANDATÓRIOS
+
+EXPERIÊNCIA
+
+5 anos de experiência como Cientista de Dados;
+Programação avançada em Python;
+Experiência prática na criação e avaliação de modelos de Machine Learning;
+Experiência com desenvolvimento Front-end (React, Vue.js ou similares);
+Domínio de bancos vetorizados (FAISS, Chroma, Pinecone, etc.);
+Experiência prática com RAG e integração com modelos de linguagem (LLMs);
+Capacidade de atuar no ciclo completo de produto: concepção, prototipagem e entrega;
+Experiência com ambientes em nuvem (AWS, GCP ou Azure),
+
+REQUISITOS DESEJÁVEIS
+
+Vivência com MLOps e ferramentas de CI/CD;
+Projetos com foco em IA generativa;
+Conhecimento em notas de avaliação de LLMs;
+Noções de UX/UI voltadas para a colaboração com o tempo de produto.
+
+ATRIBUIÇÕES
+
+Estamos em busca de um(a) Cientista de Dados Sênior, com forte base técnica e visão de produto, para atuar na construção de soluções de IA ponta a ponta, com foco em projetos estratégicos de alto impacto;
+Você fará parte de um tempo multidisciplinar, atuando em todo o ciclo — da concepção à entrega — com liberdade para criar, experimentar e gerar valor real para nossos clientes;
+Projetar e implementar pipelines de dados escaláveis e eficientes;
+Desenvolver e integrar modelos de machine learning, com foco em aplicações reais;
+Atuar na criação, treinamento e validação dos principais tipos de modelos:
+ Classificação
+ Regressão
+ Clusterização
+ Séries temporais;
+Aplicar técnicas de RAG (Retrieval-Augmented Generation) com bancos vetorizados;
+Contribuir no desenvolvimento de produtos com interface Front-end;
+Trabalhar em parceria com áreas de engenharia, produto e negócios.
+
+Sobre a CAPCO
+
+Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. 
+
+Pensamos, em conjunto, sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros.
+
+Nossas oportunidades são trabalhadas para todos(as)!!!
+
+
+
+Próximos Passos
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Cientista de Dados
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+Estamos contratando Cientista de Dados Sênior - Home Office Requisitos:
+
+ Experiência em modelos preditivos e de Marketing (churn, segmentação, customer knowledge);
+ Grandes volumes de dados;
+ Python
+ Bibliotecas relacionadas a machine learning como pandas, Scikit-Learn, TensorFlow, Keras;
+ Modelagem estatística.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+Job Description
+
+A Superintendência de Modelagem Estatística é responsável pelos estudos analíticos e modelos de inteligência artificial que suportam à tomada de decisão na vertical de saúde da Porto Seguro.
+
+Responsibilities and assignments
+
+Desenvolver, treinar e implementar modelos de Machine Learning para diversas aplicações no setor de seguros, como precificação dinâmica, detecção de fraudes, análise de risco, personalização de ofertas, otimização de processos de sinistros, entre outros;
+Automatizar rotinas computacionais e pipelines de dados para o treinamento, avaliação, implantação e monitoramento contínuo de modelos de Inteligência Artificial;
+Elaboração de estudos quantitativos para área de seguros;
+Colaborar com equipes multidisciplinares, incluindo engenheiros de dados, analistas de negócios, especialistas em seguros, para entender as necessidades de negócio e traduzi-las em soluções analíticas;
+Comunicar de forma clara e eficaz os resultados das análises e dos modelos para públicos técnicos e não técnicos;
+Garantir a qualidade, robustez e interpretabilidade dos modelos desenvolvidos.
+
+
+Requirements And Qualifications
+
+Formação em Estatística, Ciência da Computação, Engenharia, Matemática, Física ou áreas correlatas;
+Experiência comprovada no desenvolvimento e implementação de modelos de Machine Learning (regressão, classificação, clusterização, séries temporais, etc.);
+Conhecimentos em linguagens de programação como Python e/ou R;
+Conhecimento de bancos de dados relacionais SQL Server, Oracle e/ou PostgreSQL.
+
+
+Diferenciais:
+
+ Conhecimento e/ou experiência na aplicação de Inteligência Artificial Generativa para resolver problemas de negócio ou otimizar processos;
+Experiência prévia no setor de seguros ou financeiro;
+Experiência com plataformas de nuvem (AWS, Azure, GCP) e seus serviços de Machine Learning e Big Data;
+Conhecimento em MLOps (DevOps para Machine Learning);
+Mestrado ou Doutorado em áreas relacionadas à Inteligência Artificial ou Ciência de Dados.
+
+
+Additional information
+
+Vale Alimentação e Refeição Flexíveis;
+
+Plano de Saúde;
+
+Plano Odontológico;
+
+Wellhub e TotalPass;
+
+Academia Bio Ritmo exclusiva para Colaboradores: no Complexo Matriz;
+
+Participação nos Lucros - PLR;
+
+Programa de Ações: Porto em Ação: complementar à PLR até 2025;
+
+Quadras de Areia e Poliesportiva: no Complexo Matriz;
+
+Vale-Transporte;
+
+Serviços de Transporte de Vans; disponibilizadas nas principais estações de acesso à Porto (Luz, Barra Funda, Santa Cecília e Júlio Prestes);
+
+Licença Parental Estendida: até 40 dias para todas as configurações familiares;
+
+Licença Maternidade Estendida de 6 meses.;
+
+Ambulatório Médico com Especialidades: no Complexo Matriz e Barra Funda;
+
+Auxílio creche ou babá;
+
+Seguro de Vida;
+
+Previdência Privada - PortoPrev;
+
+Desconto em Produtos e Serviços; 
+
+Bolsa de estudos: Reembolso para graduação, pós ou MBA;
+
+Corridas mensais: subsídio para as principais corridas de ruas de São Paulo
+
+Reembolso para idiomas (inglês ou espanhol);
+
+Teatro Porto: sessões exclusivas para Colaboradores;
+
+Biblioteca;
+
+Sala de descanso: no completo Matriz
+
+Salão de jogos: no complexo Matriz
+
+Serviços de massagem e podologia: no completo Matriz
+
+Local de trabalho: São Paulo - Campos Elíseos
+
+Modelo de Trabalho: Presencial
+
+Na Porto, Você Importa!
+
+A Porto é muito mais que uma seguradora: é um ecossistema gigante que utiliza tecnologia para criar soluções, através de quatro verticais de negócio: Porto Bank, Porto Saúde, Porto Seguro e Porto Serviço. A reputação e o reconhecimento conquistados ao longo de mais de 7 décadas reforçam o tamanho da Porto, uma empresa referência em negócios, feita para e por pessoas.
+
+Aqui, bate no peito de 13 mil colaboradores o orgulho de fazer parte de uma organização sólida e ética, que transforma sonhos em realidades fantásticas para os nossos mais de 15,8 milhões de clientes. São mais de 101 sucursais e escritórios regionais em todo o Brasil.
+
+O aprendizado faz parte do nosso DNA, e aqui, você terá incentivos, ferramentas e gente boa para você aprender e crescer, a cada dia, um ambiente de acolhimento e segurança, onde cada um possa ser e se orgulhar de quem se é, promovendo um espaço de respeito e vivendo de forma integral e com bem-estar, em uma empresa genuinamente humana.
+
+DIVERSIDADE & INCLUSÃO NA PORTO
+
+Aqui na Porto, valorizamos a diversidade e acreditamos que um time plural é imprescindível para o desenvolvimento de todo o nosso negócio, da sociedade, e de cada pessoa, pois entendemos que cada indivíduo é único na construção de um ambiente mais inovador e inclusivo. Juntos, trabalhamos diariamente para construirmos um espaço seguro, livre e acolhedor, com mais pluralidade e respeito. Por isso, incentivamos fortemente a inscrição de mulheres, de pessoas negras e indígenas, de pessoas com deficiência e de pessoas LGBTQIA+ em todas as nossas vagas.
+-----------------------------------------------------------------------------------

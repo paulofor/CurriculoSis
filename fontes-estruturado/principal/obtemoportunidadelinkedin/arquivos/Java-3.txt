@@ -1,0 +1,208 @@
+[Oportunidade 1]
+Oportunidade: Java Software Engineer
+
+Sobre a vaga
+Fullstack Java Developer (Spring & AWS) - Remote (LATAM Candidates)
+We are seeking an experienced Fullstack Java Developer based in Latin America for a full-time contract opportunity. This is a 100% remote role with flexibility to overlap U.S. Central Time (CT) hours.
+What You’ll Do
+Design, build, and maintain scalable web applications using Java (Spring Boot) on the backend and a modern JavaScript framework on the frontend (e.g., Angular or React).
+Collaborate with UX/UI designers, DevOps engineers, and QA to deliver end-to-end solutions.
+Develop and consume RESTful APIs and, where appropriate, implement event-driven endpoints.
+Implement microservices architectures, handle data persistence with SQL and NoSQL databases on AWS (RDS, DynamoDB), and optimize database interactions.
+Write clean, testable, and well-documented code; author and execute unit/integration tests.
+Participate in code reviews, architectural discussions, and agile ceremonies (Scrum/Kanban).
+Ensure application security, performance tuning, and scalable deployment in AWS cloud environments.
+Stay up to date with the latest Java, Spring, AWS, and frontend ecosystem trends and best practices.
+What We’re Looking For
+Strong hands-on experience with Java (Spring Boot, Spring MVC, Spring Data, Spring Security).
+Proficiency in a modern frontend framework-Angular (2+) or React-with JavaScript (or TypeScript) and state management libraries (NgRx, Redux, etc.).
+Solid understanding of relational and NoSQL databases (MySQL, PostgreSQL, DynamoDB, AWS RDS).
+Experience building and securing RESTful services; knowledge of authentication and authorization best practices is advantageous.
+Experience with AWS services (Lambda, Fargate, RDS, S3, Kinesis) and infrastructure as code (Terraform).
+Comfortable with Git workflows (GitHub, GitLab, Bitbucket) and CI/CD pipelines (CircleCI, Git, Docker).
+Strong grasp of design principles (SOLID, Clean Architecture) and software design patterns.
+Excellent problem-solving skills and effective communication in a distributed team environment.
+Bonus
+Hands-on experience with serverless architectures and event-driven systems.
+Knowledge of automated testing frameworks (JUnit, Mockito, Selenium).
+Exposure to monitoring and logging tools (Prometheus, Grafana, ELK stack).
+Experience with messaging systems (Kafka, RabbitMQ, AWS Kinesis, SQS) and event-driven architectures.
+Why Apply?
+Work on mission-critical applications for fast-growing international clients.
+Join a remote-first culture that values autonomy, collaboration, and impact.
+100% remote work with flexible hours tailored to your timezone.
+Invest in your professional growth with mentorship programs, training stipends, and access to modern tools.
+Complete your profile and our matching team will reach out if you’re a great fit. We review every submission, though due to high volume individual feedback may be limited.
+Apply now: https://link.talenttorc.com/torc-sign-up
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor Java Senior
+
+Sobre a vaga
+Estamos buscando um talento para a posição de Desenvolvedor Java Senior.
+
+A G4F é uma empresa com uma trajetória sólida de 15 anos, dedicada a conectar pessoas, ideias e tecnologia para oferecer soluções inovadoras. Somos mais de 8.000 #greaters atuando em todo o Brasil.
+
+Requisitos técnicos obrigatórios:
+
+Graduação em curso de nível superior na área de Tecnologia da Informação; OU
+Conclusão de qualquer curso de nível superior acompanhado de certificado de curso de pós-graduação (especialização, mestrado ou doutorado) na área de Tecnologia da Informação;
+Experiência exercendo atividades como desenvolvedores de aplicações Java EE 6+.
+Experiencia anterior com open finance
+Experiência no desenvolvimento de aplicações para pelo menos um dos servidores:
+· Apache Tomcat;
+· JBoss/Wildfly;
+· Open Liberty;
+· WebSphere Application Server Liberty;
+· WebSphere Application Server versão 8 ou superior.
+
+
+Informações adicionais:
+🏡Atuação Remoto
+🚀Oportunidades de desenvolvimento profissional
+🍔Vale Alimentação/Refeição | Wiipo Flex
+🚌Vale transporte (Opcional)
+🏋️‍♀️TotalPass | Bem-estar para todos os colaboradores, todos os dias
+👓 Parceria SESC | Saúde, Lazer, Turismo & Esportes, Assistência Social e Alimentação
+📕 Parcerias Educacionais
+🤍Seguro de vida
+
+#VemSerGreater
+#LI-AN2
+#LI-REMOTE
+
+Valorizamos a diversidade, equidade e a inclusão, independentemente de gênero, raça, etnia, orientação sexual, deficiência ou religião, portanto, todas as nossas vagas são afirmativas.
+Junte-se à nossa equipe e contribua para o crescimento sustentável da G4F!💙
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor Full Stack
+
+Sobre a vaga
+Na CWI prezamos pela diversidade das relações, projetos e vivências. A valorização do indivíduo e o respeito são a base da nossa empresa, que figura entre as mais importantes do ramo de tecnologia no país. Quer fazer parte? Vem pra CWI! #vemsercwiser 😎💻👌
+
+Buscamos um(a) Desenvolvedor(a) Full Stack Java/React apaixonado(a) por tecnologia para integrar nossa equipe. Se você é proativo(a), colaborativo(a) e busca desafios em um ambiente inovador, essa é sua chance! Irá construir soluções de alta performance utilizando tecnologias de ponta.
+
+Requisitos:
+Sólidos conhecimentos em Java e React;
+Experiência com Spring boot;
+Conhecimento em banco de dados Oracle, MongoDB
+Experiência com arquitetura de microsserviços.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Consultor Engenheiro de Dados (PJ)
+
+Sobre a vaga
+Job Description
+
+Somos a PRIO, a maior companhia independente de óleo e gás do Brasil. Buscamos continuamente por otimização de processos operacionais e de soluções inovadoras que visem diminuir os custos. Aqui todo trabalho é multidisciplinar e cada desafio é único!
+
+Estamos buscando um Consultor de Engenharia de Dados para se juntar à nossa equipe em tempo integral na modalidade de Pessoa Jurídica. O profissional será responsável por desenvolver e gerenciar pipelines de dados e realizar monitoramento de problemas no ambiente de dados.
+
+Responsibilities and assignments
+
+Desenvolver e Gerenciar Pipelines de Dados: Garantir a integridade, disponibilidade, escalabilidade e eficiência das informações da pipeline de dados e informações disponibilizadas para a empresa utilizando boas práticas de ETL/ELT e frameworks de dados distribuídos;
+Monitoramento e Solução de Problemas: Monitorar, realizar testes regulares e solucionar problemas no ambiente de dados da PRIO;
+Ingestão e Processamento de Dados: Responsável por desenvolver, otimizar e corrigir processos para grandes volumes de dados;
+Estratégia de Desenvolvimento: Assegurar boas práticas, código limpo, testes automatizados e qualidade nas implantações;
+Colaboração Multifuncional: Trabalhar com equipes para entender requisitos de dados e traduzir em soluções técnicas;
+Segurança e Governança de Dados: Garantir conformidade com as melhores práticas;
+Arquitetura de Dados: Projetar, desenvolver, implementar e gerenciar soluções de arquitetura de dados;
+Documentação: Documentar arquitetura, pipelines e processos para manutenção e continuidade;
+Comunicação Clara: Assegurar compreensão compartilhada da arquitetura de dados entre as equipes.
+
+Requirements And Qualifications
+
+Requisitos:
+
+Experiência com SQL e BigQuery: Criação de consultas e procedures otimizadas;
+Integração de Dados via APIs: Utilização de APIs para integração e consumo de dados;
+Processo Completo de Dados: Conhecimento em ingestão, transformação, armazenamento e disponibilização de grandes volumes de dados;
+Ferramentas de Processamento de Dados: Experiência com SQL, Teradata, DataFactory, Microsoft Fabric e outras ferramentas;
+Ferramentas de ETL: Experiência com ferramentas de ETL e integração de dados;
+Desenvolvimento de Soluções de Armazenamento: Conhecimento avançado em Data Lakes, Data Warehouses e Lakehouses;
+Linguagens de Programação: Proficiência em Python e/ou Java.
+
+Additional information
+
+Como é o processo seletivo na PRIO?
+
+Gostamos de já chegar na entrevista te conhecendo um pouco, então pedimos a você que preencha ainda na etapa de cadastro alguns testes para podermos avaliar o seu Match com a nossa Cultura :)
+
+Depois, nós do time de RH vamos marcar um papo com você. A ideia aqui é aprofundar um pouco mais nas suas experiências, buscando o alinhamento com o perfil da vaga e comportamental que buscamos para a PRIO. Ah, nesse papo também vamos falar sobre a companhia, fluxo do processo, benefícios e tirar suas dúvidas!
+
+Dica: Nesse nosso papo, vamos querer saber sobre experiências que você já vivenciou, alinhadas aos valores da PRIO. A ideia é que você consiga nos apresentar essas vivências de forma completa, com contextos, sua responsabilidade, o que você fez e qual foi o resultado!
+
+Em seguida, vamos adentrando em aspectos mais técnicos, que podem envolver um case ou apenas uma entrevista com o(a) gestor(a) da vaga, aonde você poderá conhecer um pouco mais sobre os desafios técnicos da vaga e será avaliado dentro dos requisitos da vaga.
+
+Ao fim, os finalistas conversam com o diretor da respectiva área para a escolha final!
+
+Como se preparar para o processo seletivo na PRIO:
+
+Pesquise sobre o negócio da companhia e nossa atuação no setor de óleo e gás;
+Busque se atualizar sobre as notícias recentes da companhia, sejam da imprensa ou divulgadas em nosso site de relações com investidores;
+Acesses nossas redes sociais para conhecer mais sobre como é trabalhar na PRIO!
+Pense na sua história e principais realizações. Estruture seus resultados e conquistas para relatá-los na hora da entrevista.
+
+Fale dos sucessos, mas entender as falhas e como você aprendeu com elas também é importante. Prezamos pela transparência, por isso, não tenha medo de falar sobre os seus insucessos.
+
+Desejamos a você um bom processo seletivo!
+
+Venha fazer parte da PRIO
+
+Somos a PRIO, a maior companhia independente de óleo e gás do Brasil. Buscamos continuamente por otimização de processos operacionais e de soluções inovadoras que visem diminuir os custos. Aqui todo trabalho é multidisciplinar e cada desafio é único!
+
+Com foco no investimento e na recuperação de ativos em produção, somos especializados na gestão eficiente de reservatórios e no redesenvolvimento de campos maduros. Acreditamos na condução dos negócios, com foco em segurança e cuidado com a saúde dos seus colaboradores.
+
+ Nosso ambiente de trabalho
+
+Oferecemos um ambiente de trabalho dinâmico e com muitas oportunidades de participação em diferentes projetos, favorecendo o desenvolvimento profissional e o crescimento do time. Trabalhamos em um escritório open space, o que permite a integração entre todas as equipes e a Diretoria, onde todos podem participar da tomada de decisões.
+
+Nossa cultura busca o alto desempenho e a participação efetiva de todas as pessoas. Se você sonha em se desenvolver junto com uma empresa em constante crescimento, venha fazer parte do nosso time!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvedor Java Pl/Sr
+
+Sobre a vaga
+OPORTUNIDADE 100% HOME-OFFICE
+
+Junte-se a nós!
+
+Se o novo te desafia e o conhecimento te inspira, faça parte do nosso time!
+
+Requisitos e qualificações: 
+Experiência com desenvolvimento Java de pelo menos 8 anos;
+Linguagens e frameworks: Java, J2EE, Struts, Hibernate, JSF, Maven;
+Arquitetura do Sistema: MVC (Model-View-Controller);
+Ambientes e ferramentas: Eclipse, JBoss;
+Banco de Dados: Oracle, MySQL, PostgreSQL, SQL Server, MongoDB;
+Linguagens e padrões web: HTML, XML, CSS;
+Segurança da Informação;
+Usabilidade e acessibilidade na web;
+SQL (Structured Query Language);
+Modelagem de dados e UML (Unified Modeling Language);
+Microserviços;
+Conhecimentos em algoritmos, linguagens de programação e frameworks voltados à arquitetura de software.
+
+Informações adicionais: 
+✔️Formato de Atuação: Remoto
+✔️Regime de Contratação: CLT
+✔️E os benefícios?
+Além da CESTA DE BENEFÍCIOS FLEXÍVEIS, você também terá:
+•Assistência Médica
+•Vale Refeição
+•Vale Transporte (Caso a atuação seja hibrido ou presencial)
+•Auxílio Creche
+•Seguro de vida
+•PLR
+•Apoio Psicológico
+•Programa de Indicação com ganhos por indicação efetivada pelos nossos colaboradores
+•Convênio com instituições de ensino para: Inglês/Espanhol, Pós-graduação e cursos técnicos
+•Convênio SESC / SENAC
+•Plano Odontológico
+•GYMPASS
+•Veloe
+•Desconto em Seguros
+•Clube de Descontos e muito mais😊
+
+ Nossas vagas são para todas as pessoas, independentemente de gênero, idade, etnia, raça, deficiência ou orientação sexual.
+-----------------------------------------------------------------------------------

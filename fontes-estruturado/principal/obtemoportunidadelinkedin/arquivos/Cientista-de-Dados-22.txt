@@ -1,0 +1,155 @@
+[Oportunidade 1]
+Oportunidade: Arquiteto de Software - Java
+
+Sobre a vaga
+Descrição da vaga
+
+Estamos em busca de um(a) Arquiteto(a) de Software para integrar nosso time e nos ajudar a transformar desafios complexos em soluções tecnológicas inovadoras. Se você é apaixonado por tecnologia, tem experiência em projetar e garantir arquiteturas robustas e quer fazer parte de um ecossistema ágil e colaborativo, esta é a oportunidade perfeita para você.
+
+Aqui na Solutis, somos movidos pela busca constante por inovação e excelência. Nosso ambiente é voltado para o compartilhamento de conhecimento, desenvolvimento de carreiras e impacto positivo em pessoas, clientes e sociedade. Venha fazer parte deste vasto mundo Solutis!
+
+Atuação presencial em São Paulo.
+
+Responsabilidades e atribuições
+
+Projetar, atualizar e garantir a arquitetura de sistemas conforme requisitos funcionais e não funcionais.
+Escolher frameworks, linguagens, ferramentas e padrões de design adequados aos projetos.
+Estabelecer padrões de qualidade e boas práticas de desenvolvimento.
+Apoiar desenvolvedores no entendimento e aplicação das soluções arquiteturais.
+Ser referência técnica para resolução de problemas complexos e críticos, inclusive em produção.
+Planejar e projetar integrações entre sistemas e serviços internos ou externos.
+Definir APIs, protocolos de comunicação e modelos de dados para garantir interoperabilidade.
+Garantir a compatibilidade entre diferentes componentes e tecnologias.
+
+Requisitos e qualificações
+
+O Que Não Abrimos Mão
+
+Mindset voltado para construir soluções escaláveis e de alta qualidade.
+Habilidade para trabalhar em equipe, compartilhando experiências e aprendendo com outros profissionais.
+Paixão por tecnologia e compromisso com entregas de excelência.
+Capacidade de resolver problemas complexos com criatividade e agilidade.
+
+Será Um Diferencial
+
+Experiência com arquiteturas distribuídas, microsserviços e integrações complexas.
+Conhecimento em metodologias ágeis e boas práticas de desenvolvimento de software.
+Experiência com definição e implementação de APIs e modelos de dados.
+Experiência com Cloud AWS, Cluster Kubernetes (K8s), Mensageria (Kafka, RabbitMQ ou SQS), API Gateways, Gitflow, melhores práticas em segurança (ex.: OWASP). 
+
+About The Company
+
+A Solutis é Digital!
+
+Somos apaixonados por tecnologia e esse valor está presente em nossas ações e proposta de trabalho. Ambiente descontraído e criativo, horário flexível, possibilidade de trabalho home office, eventos e programas internos com games... Isso faz parte do nosso dia-a-dia.
+
+Engajamento, busca intensa por conhecimento, empatia e criatividade são a nossa receita para cultivar e colher, sempre, o melhor resultado tecnológico.
+
+Essa é a Solutis, flexível, acolhedora, inquieta, amante da tecnologia e de tudo que ela nos proporciona de mais incrível.
+
+Venha fazer parte do nosso time!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvimento Kotlin AWS Pleno - 122223
+
+Sobre a vaga
+Sobre a vaga
+
+Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil.
+Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos.
+Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital.
+
+O que estamos buscando?
+
+Desenvolvimento Salesforce Sênior
+
+Requisitos:
+ Forte conhecimento em Kotlin (ou Java) - Experiência em Pipelines CI/CD - Conhecimento em GitHub - Conhecimento em Metodologias Ágeis - AWS: - Lambda - Terraform - Observability - SQS, SNS, ECS, EKS, EC2, S3 - Banco de dados: Relacional, Não relacional, SQL - Diferencial importante: Ter conhecimento anterior do ambiente Itaú. Soft Skill - Ótima comunicação - Proatividade - Ser propositivo - Aprendizado rápido - Trabalhar bem em equipe
+
+Requisitos e Qualificações: 
+Experiência com OmniStudio, aplicando aceleradores prontos para uso e personalizando-os para as necessidades da indústria de energia e serviços públicos;
+Conhecimento em Business Rule Engine (BRE) para otimização de regras de negócios e processos de precificação complexos;
+Experiência com Orchestration Management (OM), incluindo decomposição de pedidos e desenvolvimento de planos de orquestração para processos complexos e multi-step;
+Conhecimento em Contract Lifecycle Management (CLM) será considerado um diferencial, especialmente para gerenciar contratos ao longo de seu ciclo de vida, da criação à renovação e fechamento;
+
+Descrição comportamental: 
+Procuramos uma pessoa que:
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+Tenha habilidades de resolução de problemas;
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+
+O que oferecemos:
+
+Cartão multi-benefícios – você escolhe como e onde utilizar;
+Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas;
+Programas de incentivo à Certificações;
+Horário de trabalho flexível;
+Plano personalizado de carreira e possibilidade de carreira internacional;
+Salários competitivos;
+Avaliação de desempenho anual com possibilidade de bonificação;
+Gympass;
+Previdência Privada;
+Auxílio-Creche;
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+
+Big enough to deliver – small enough to care.
+#VempraGFT
+#VamosVoarJuntos
+#ProudToBeGFT
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Engenheira de Dados - Vaga afirmativa para pessoas negras
+
+Sobre a vaga
+Quem Nós Somos
+
+Nós da Artefact LatAm acreditamos e vivemos uma cultura com base na empatia!
+
+Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas.
+
+Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa.
+
+Queremos conosco mentes e corações incríveis! Venha ser Artefact!
+
+O Que Você Estará Fazendo
+
+Você se juntará à nossa equipe de Dados e Consultoria, que ajuda os clientes a transformar e melhorar sua estratégia de dados aplicando análises avançadas para gerar insights que criam valor de negócio a partir de big data e inteligência artificial.
+
+Inovar. Você trabalhará com sua equipe, composta por consultores, cientistas de dados, e engenheiros, para identificar as necessidades dos clientes e definir soluções inovadoras.
+Aprender e Compartilhar. Você trabalhará em uma equipe colaborativa que promove o compartilhamento de conhecimento. Você aprenderá com outras pessoas, compartilhará conhecimento e ficará a par das novidades/atualizações do setor.
+Desenvolver. Você participará da solução do início ao fim. Com o auxílio de engenheiros seniores, você gerenciará a concepção e a implementação, além de otimizar o desempenho e a escalabilidades.
+Atuar em toda a cadeia de valor dos projetos (criação de infraestruturas e plataformas, coleta de dados, aplicação de modelos de aprendizado de máquina, criações de APIs REST, de front-ends, de testes, implementações contínuas).
+Popularizar termos técnicos ou soluções para perfis mais orientados a negócios, pode trabalhar em uma equipe com perfis muito diversificados.
+Priorizar suas tarefas, respeitar prazos e se levantar a mão em caso de riscos ou problemas.
+
+O Que Nós Estamos Procurando
+
+Ter cursado graduação em ciência da computação, estatística, engenharia, economia ou uma área relacionada.
+Curiosidade: você está sempre buscando soluções inovadoras para seus clientes. Você está envolvido em toda a cadeia de valor, que pode ser front-end, back-end, infraestrutura de big data, modelo de ML...
+Colaboração: o compartilhamento de conhecimento é essencial para você e você participa ativamente da difusão de informações dentro da Artefact.
+Empreendedorismo: você traz soluções, novas ideias, inovações
+
+O Que Oferecemos
+
+VR/VT
+Free office (trabalhe de casa ou de onde quiser!)
+Gympass
+Seguros: Vida, saúde e odontológico
+Encontros Bimestrais (Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!
+Woba (pode marcar para trabalhar em coworking onde quiser!)
+Avaliações semestrais (com oportunidade de promoção)
+
+Por Que Você Deveria Se Juntar a Nós
+
+Artefact é o lugar para estar: venha e construa o futuro da área de dados.
+Progresso: cada dia oferece novos desafios e novas oportunidades de aprender.
+Cultura: Empatia e Colaboração está no nosso DNA.
+Empreendedorismo: você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!
+
+Junte-se a nós!
+-----------------------------------------------------------------------------------

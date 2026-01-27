@@ -1,0 +1,252 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvimento Java - 125559
+
+Sobre a vaga
+Descrição do cargo:
+
+O que buscamos: 
+ Estamos em busca de um(a) profissional com forte background em Java e PL/SQL para atuar em um ambiente ágil, colaborativo e com ritmo acelerado. A pessoa ideal para esta posição terá papel fundamental no suporte técnico ao time, análise de documentação e acompanhamento de testes, contribuindo com boas práticas e qualidade técnica das entregas. A atuação será em modelo híbrido (3 dias presenciais e 2 dias remotos), na região de Santo Amaro-SP
+ Responsabilidades:
+ Modelo de atuação usando agilidade (KANBAN) e equipes multidisciplinares;
+Tirar dúvidas conceituais de Java para melhoria de performance;
+Analisar documentos técnicos;
+Acompanhar testes integrados e homologação;
+Aplicar boas práticas visando qualidade técnica das entregas;
+Contribuir com pensamento estruturado e senso crítico em decisões técnicas;
+Atuar de forma colaborativa, com proatividade, comunicação clara e foco em equipe;
+Adaptar-se a ambientes de ritmo acelerado e com prazos apertados.
+ Requisitos e Qualificações:  
+ Conhecimento sólido em Java e suas diversas versões;
+Domínio do framework Spring, incluindo SpringBoot;
+Familiaridade com esteiras DEVOPS (desenvolvimento e/ou consumo);
+Experiência com testes unitários e cobertura com JUNIT, Mockito ou equivalente;
+Vivência com testes integrados e de homologação;
+Conhecimento focado em Oracle PL/SQL.
+ Desejáveis:
+
+Conhecimento em Control-M;
+Experiência com versionamento utilizando GitHub.
+
+Descrição comportamental: 
+Procuramos uma pessoa que: 
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições; 
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento; 
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina; 
+Tenha habilidades de resolução de problemas; 
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo; 
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico. 
+  Big enough to deliver – small enough to care. 
+#VempraGFT 
+#VamosVoarJuntos 
+#ProudToBeGFT 
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor Back End Java Sr
+
+Sobre a vaga
+O que esperamos que você realize:
+
+Um desenvolvedor back-end sênior é um profissional que se especializa no desenvolvimento web e é responsável por construir e manter a tecnologia do lado do servidor de uma aplicação. 
+
+Conhecimento de práticas e técnicas de desenvolvimento, como testes automatizados, entrega/integração contínua, refatoração, pareamento e code review
+Conhecimento de princípios de design, como DRY e SOLID
+Conhecimento de tecnologias de nuvem, como AWS
+Conhecimento de automação de processos de Build e Release
+Experiência com práticas ágeis, como Kanban, Scrum e XP
+Participação em comunidades de tecnologia
+
+Algumas competências esperadas para um desenvolvedor back-end sênior são:
+
+Capacidade de aprendizado e colaboração
+Proatividade e orientação para resultados
+Boa comunicação
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor Java Sênior
+
+Sobre a vaga
+Estamos em busca de uma pessoa desenvolvedora back-end com sólida experiência em Java + Spring Boot, apaixonada por resolver problemas complexos e construir soluções escaláveis para o mercado financeiro.
+Você fará parte da nossa Squad Banking, responsável pelo desenvolvimento e evolução de APIs críticas voltadas a serviços como emissão de boletos e cobranças via PIX. Nosso foco é garantir segurança, disponibilidade e performance em sistemas que são o coração do negócio.
+
+💼 Suas principais responsabilidades:
+Desenvolver e manter APIs escaláveis e performáticas com foco em serviços financeiros
+Participar da definição de arquitetura e decisões técnicas da squad
+Escrever e manter testes automatizados (unitários, integração, contrato)
+Garantir a observabilidade dos sistemas (logs, métricas, APM)
+Atuar com protagonismo técnico e colaborar com o crescimento do time
+
+🔧 Requisitos essenciais:
+Experiência sólida com Java e Spring Boot
+Conhecimento em PostgreSQL e modelagem de banco relacional
+Vivência com microserviços e integrações entre sistemas
+Experiência com testes automatizados
+Familiaridade com ferramentas de CI/CD (GitLab CI, ArgoCD)
+Prática com containers e orquestração (Docker, Kubernetes/Rancher)
+Conhecimento em observabilidade (Kibana, Elastic, métricas e APM)
+
+✨ Diferenciais:
+Conhecimento de protocolos de pagamento (PIX, boletos)
+Experiência em ambientes regulados ou de alta disponibilidade
+
+Localidade | Atuação
+
+📍 Uberlândia/MG: Presencial
+📍 São Paulo/SP: Híbrido (3x na semana no escritório)
+📍 Demais localidades: Remoto
+
+SANKHYA: LIBERDADE PARA VOCÊ SER, VIVER E EVOLUIR
+Na Sankhya, valorizamos a individualidade e acreditamos em proporcionar benefícios que vão além do básico, promovendo a liberdade e o equilíbrio entre vida pessoal e profissional. Nosso objetivo é oferecer todo o apoio necessário para que você se sinta bem e satisfeito em todas as áreas da sua vida.
+🤰 Licença Maternidade e Paternidade Estendida: Mais tempo para estar presente nos primeiros momentos da vida do seu bebê.
+🧸 Kit Baby Sankher: Um kit especial para dar as boas-vindas ao novo membro da família.
+⚖️ Assistência Jurídica: Apoio jurídico para questões pessoais e profissionais.
+👶 Auxílio Creche: Contribuição para despesas com creche.
+🩺 Cuidados com a Saúde: Plano de saúde com ampla cobertura, telemedicina gratuita e acesso a apps especialistas para cuidar do que mais importa – você.
+😁 Plano Odontológico: Cobertura odontológica para você e sua família.
+🎉 Day OFF no Aniversário: Um dia de folga para celebrar seu aniversário.
+💵 Empréstimo Consignado: Empréstimos com condições especiais.
+🏋️ Auxílio vida saudável: Parceria com apps de saúde com acesso a academias e bem estar.
+💰 Indicação de Talentos e Clientes Premiadas: Recompensas por indicações bem-sucedidas.
+🤩 Massoterapia no Escritório: Sessões de massagem para relaxar e aliviar o estresse.
+💵 Participação nos Lucros e Resultados (PLR): Participação nos resultados financeiros da empresa.
+💚 Seguro de Vida: Proteção financeira para você e sua família.
+🥗 Vale Alimentação/Refeição iFood: Opções de alimentação flexíveis.
+🚍 Vale Transporte: Auxílio para deslocamento.
+💻 Equipamentos Fornecidos pela Empresa: Ferramentas de trabalho de qualidade.
+Desenvolvimento e Evolução
+Um dos nossos valores fundamentais é o desenvolvimento contínuo. Queremos que todos os nossos colaboradores estejam sempre aprendendo, crescendo e se desenvolvendo, pois nossa empresa está em constante evolução.
+📚 Universidade Corporativa Sankhya: Acesso a uma vasta gama de cursos e treinamentos.
+🎯 Plano de Performance e Desenvolvimento Individual: Plano personalizado para seu crescimento profissional.
+📌 Touchpoints de Evolução com a Liderança: Encontros regulares com líderes para discutir seu progresso e desenvolvimento.
+🎧 Cursos Online 100% Custeados pela Empresa: Aprendizado contínuo sem custo para você.
+🌎 Auxílio Idiomas: Suporte para aprendizado de novas línguas.
+📜 Auxílio Graduação e Pós-Graduação: Incentivo para avançar em sua formação acadêmica.
+✅ Auxílio Certificações: Apoio para obtenção de certificações profissionais.
+🚀 Workshops de Evolução: Sessões de desenvolvimento intensivo.
+💆‍♀️ Palestras Relacionadas à Qualidade de Vida: Encontros sobre saúde e bem-estar.
+🧩 Plataforma de Gamificação: Pontuações e recompensas para incentivar seu desenvolvimento.
+💡 Squads e Tribos de Trabalho para Inovações: Equipes focadas em inovação e melhorias contínuas.
+Junte-se a nós na Sankhya e seja protagonista da sua própria evolução. Aqui, seu crescimento é nossa prioridade.
+E MAIS IMPORTANTE AINDA:
+🧑‍🦽Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+Está esperando o que para fazer parte de nosso time?
+#VemserSankhya!
+
+SOMOS A SANKHYA! 💚
+Fundada em 1989, somos líder no mercado brasileiro de soluções integradas de gestão corporativa (ERP). Com mais de 2000 colaboradores e atendendo cerca de 20 mil clientes em todos os 26 estados do país, oferecemos o ERP Sankhya, uma solução completa que permite acesso em tempo real aos detalhes do negócio, impulsionando eficiência e agilidade na gestão.
+Nosso propósito é claro: transformar a sociedade através da gestão, combinando excelência tecnológica com o poder transformador das pessoas. Nossa cultura é enraizada na base familiar e incentivadora do protagonismo e da inovação.
+Acreditamos firmemente que ter as pessoas certas ocupando as posições adequadas não só impulsiona a felicidade e o engajamento no ambiente de trabalho, mas também resulta em melhorias substanciais em nossos negócios e estimula a inovação.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Analista Desenvolvedor Pleno
+
+Sobre a vaga
+Descrição da vaga
+VP: Tecnologia da Informação
+Diretoria: Suporte e Aplicações Tech
+Local de Trabalho: São Paulo SP
+Modelo de trabalho: Híbrido 3x2
+
+Estamos em busca de profissionais talentosos para integrar nossa equipe na área de Operações de TI. Se você tem experiência em desenvolvimento em sistemas, linguagens de programação, análise de problemas, conhecimento do modelo ágil esta é a oportunidade perfeita para você!
+
+Nossa missão é prover soluções inovadoras na área de Operações de Tecnologia da Informação. Buscamos profissionais que atuem de forma socialmente integrada e comprometida, alinhados com a missão e os valores da empresa. Queremos contribuir para o desenvolvimento sustentável e a excelência do ambiente.
+
+Responsabilidades e atribuições
+Ser desenvolvedor para melhorias e suporte dos sistemas relacionados ao atendimento de clientes.
+Coletar requisitos, efetuar especificação técnica, compor a documentação e desenvolver os requisitos.
+Participar de reuniões técnicas (Desenvolvimento e Passagem de Conhecimento) e War room (Suporte).
+Atuar com eficiência no desenvolvimento de melhorias ou ajustes no ambiente de produção.
+Analisar, sugerir melhorias e desenvolver códigos para o ambiente de produção.
+Possibilidade na participação do ciclo de sobreaviso e Release.
+
+Responsabilidades:
+- Desenvolver e implementar melhorias contínuas dos sistemas relacionados ao atendimento de clientes.
+- Realizar troubleshooting para identificar problemas técnicos.
+- Realizar correções e suporte com desenvolvimento próprio.
+- Garantir um atendimento eficiente e de alta qualidade aos clientes internos e externos da empresa.
+- Colaborar com a equipe para otimizar o desempenho e a eficiência do ambiente de TI.
+
+Requisitos e qualificações
+
+SUPERIOR COMPLETO - CERTIFICADO CONCLUSÃO
+Desenvolvedor com conhecimento avançado nas linguagens de programação mais usadas:
+Python, JavaScript, Java, C#, C++, PHP, React, Angular, Shell script, SQL (Oracle, e Microsoft)
+Conhecimento básico em MongoDB, LLM (IA) e IDE
+Conhecimento em modelo Agil.
+
+Informações adicionais
+Na Vivo não medimos esforços em apoiar e valorizar nossos colaboradores! Não são apenas excelentes benefícios, mas também flexíveis. Veja o que ofereceremos* para você:
+· Escolher o benefício ideal para você e seus dependentes, numa plataforma digital com diversas categorias de Academia, VR, VA, Auxilio Farmácia, Assistência Médica, Odontológica e Seguro de Vida;
+· Celular corporativo. Sim, um smartphone novinho para você!
+· Plano de voz e Dados ilimitado! Sim, ilimitado! O 5G da Vivo é até 10 vezes mais rápido!
+· Uma oferta exclusiva da Vivo, com desconto especial em linha fixa, banda larga, TV e apps;
+· Terá direito a receber Bônus ou PPR anual;
+· Planejará seu futuro através do plano de Previdência Privada;
+· Tem filhos? Terá direito a um subsídio para ajudar nas despesas com escola, creche ou babá;
+· Viver em um ambiente que respeitará sua personalidade, seu estilo de se vestir, seu jeito de ser e poderá ser autêntico. #VemdeVocê
+· Trabalhar remotamente até 2 vezes por semana. #Mobility
+· Ter flexibilidade de horário;
+· Aproveitar um dia de folga (Day off) para comemorar seu aniversário;
+· Participar de um dos maiores programas de voluntariado corporativo para você transformar o mundo;
+· Usufruir do nosso Programa de Desenvolvimento Educacional que oferece parcerias em instituições de ensino com desconto; certificações e cursos online;
+· Potencializar sua carreira por meio do nosso Programa de Recrutamento Interno, no Brasil ou fora, afinal estamos presentes em mais de 17 países! #VivoMinhaCarreira
+E tem muito mais! Mas, você tem que se candidatar para saber...
+*De acordo com a política de elegibilidade determinada pela empresa.
+#VEMPRAVIVO Todas as nossas vagas são elegíveis a pessoas com deficiência e/ou reabilitados. Temos uma cultura que valoriza a diversidade, as diferenças e o potencial das pessoas!
+
+Veja o que ofereceremos* para você:
+Na Vivo não medimos esforços em apoiar e valorizar nossos colaboradores. Não são apenas excelentes benefícios, mas também flexíveis.
+• Escolher o benefício ideal para você e seus dependentes, numa plataforma digital com diversas categorias de Academia, VR, VA, Auxílio Farmácia, Assistência Médica, Odontológica e Seguro de Vida;
+• Celular corporativo. Sim, um smartphone novinho para você!
+• Plano de voz e Dados ilimitado! Sim ilimitado! Com a melhor rede móvel, ainda mais rápida com o 5G da Vivo!
+• Uma oferta exclusiva da Vivo, com desconto especial em linha fixa, banda larga, TV e Apps;
+• Terá direito a receber Bônus ou PPR anual;
+• Planejará seu futuro através do plano de Previdência Privada;
+• Tem filhos? Terá direito a um subsídio para ajudar nas despesas com escola, creche ou babá;
+• Viver em um ambiente que respeitará sua personalidade, seu estilo de se vestir, seu jeito de ser e poderá ser autêntico. #VemdeVocê
+• Trabalhar remotamente até 2 vezes por semana. #Mobility
+• Ter flexibilidade de horário;
+• Aproveitar um dia de folga (Day off) para comemorar seu aniversário;
+• Participar de um dos maiores programas de voluntariado corporativo para você transformar o mundo;
+• Usufruir do nosso Programa de Desenvolvimento Educacional que oferece parcerias em instituições de ensino com desconto; certificações e cursos online.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Full Stack Java
+
+Sobre a vaga
+📢 Oportunidade Híbrida – Desenvolvedor(a) Full Stack Java + Angular | Alphaville – SP
+
+Estamos com uma nova oportunidade aqui na Act, para um(a) Desenvolvedor(a) Full Stack, experiência desenvolvendo em Java de 5 a 7 anos, que tenha paixão por tecnologia, foco em performance e esteja pronto(a) para encarar desafios em um ambiente colaborativo e inovador!
+
+📍 Local de trabalho: Híbrido – 3 vezes por semana em Alphaville, São Paulo
+ 💼 Modelo de contratação: CLT + benefícios
+
+🎯 Responsabilidades:
+Projetar, implementar e manter APIs e serviços REST com Java e Spring Boot.
+Criar interfaces responsivas e interativas com Angular.
+Garantir a integração fluida entre frontend e backend, proporcionando uma experiência de usuário eficiente e de alta qualidade.
+🔧 Requisitos Técnicos:
+Backend:
+Domínio em Java e Spring Boot.
+Experiência com bancos de dados relacionais (MySQL, PostgreSQL).
+Conhecimento em ferramentas de versionamento, como Git.
+Frontend:
+Proficiência com Angular (versões atuais ou anteriores).
+Familiaridade com HTML5, CSS3, JavaScript/TypeScript.
+Vivência com microserviços, consumo e desenvolvimento de APIs REST e boas práticas de desenvolvimento.
+
+⭐ Diferenciais que valorizamos:
+Experiência em soluções de Meios de Pagamento.
+Vivência com aplicações Bancárias ou Financeiras.
+Conhecimentos em Docker e Kubernetes.
+Experiência com metodologias ágeis (Scrum, Kanban).
+Conhecimento em Cloud Computing (AWS ou Azure).
+Entendimento sobre autenticação e segurança (OAuth, JWT).
+
+
+Se essa vaga faz sentido para você, vamos conversar? Será um prazer compartilhar mais detalhes!
+
+
+📩 elisangela.affonso@actdigital.com
+ 📲WhatsApp: https://lnkd.in/dYmKR4g6
+ (11) 9 8152-0160
+-----------------------------------------------------------------------------------

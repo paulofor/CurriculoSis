@@ -1,0 +1,370 @@
+[Oportunidade 1]
+Oportunidade: Machine Learning Engineer - IBP Build
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Partner with data engineers to ensure data access for discovery and proper data is prepared for model consumption.
+Partner with ML engineers working on industrialization.
+Coordinate work activities with Business teams, other IT services and as required.
+Drive the use of the Platform toolset and to also focus on 'the art of the possible' demonstrations to the business as needed.
+Communicate with business stakeholders in the process of service design, training and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Set KPIs and metrics to evaluate analytics solution given a particular use case.
+Refine requirements into modelling problems.
+Influence product teams through data-based recommendations.
+Research in state-of-the-art methodologies.
+Create documentation for learnings and knowledge transfer.
+Create reusable packages or libraries.
+
+Qualifications
+
+What you will need to succeed
+
+2+ years’ experience building solutions in the revenue management or in the supply chain space.
+2+ years working in a team to deliver production level analytic solutions. Fluent in git (version control). Understanding of Jenkins, Docker are a plus.
+3+ years’ experience in ETL and/or data wrangling techniques. Fluent in SQL syntaxis.
+3+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. Experiences with Deep Learning are a plus.
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or R development.
+Business storytelling and communicating data insights in business consumable format. Fluent in one Visualization tool.
+Strong communications and organizational skills with the ability to deal with ambiguity while juggling multiple priorities
+Experience with Agile methodology for team work and analytics ‘product’ creation.
+
+Additional qualifications that will make you stand out for this position
+
+Experience with Azure cloud services is a plus.
+Experience with distributed machine learning is a plus.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: DATA SCIENTIST III (PO) -4859 - SEGURANÇA CORPORATIVA
+
+Sobre a vaga
+req58090 - DATA SCIENTIST III (PO) -4859 - SEGURANÇA CORPORATIVA
+
+ Sobre o Bradesco 
+
+Trazendo um pouco mais da nossa história de contribuição e impacto na sociedade, com pioneirismo e inovação, o Bradesco surgiu com o propósito de democratizar o acesso aos serviços bancários no Brasil. Nesses 81 anos, sempre ao lado dos brasileiros, nos tornamos uma das maiores Organizações do país, formada por empresas e fundações que oferecem produtos e serviços que vão de soluções financeiras a seguros, saúde e educação.
+
+E estamos sempre em busca de pessoas dispostas a fazer a diferença na vida de milhões de brasileiros, contribuindo para o desenvolvimento da sociedade.
+
+ Responsabilidades e atribuições 
+
+A área em que atuará é a VS Antifraude, uma equipe dedicada à prevenção de fraudes e à segurança dos nossos produtos e serviços.
+
+A missão da nossa equipe é garantir a segurança, integridade dos nossos sistemas e dados, proteger nossos clientes contra atividades fraudulentas. Trabalhamos para identificar, prevenir e mitigar fraudes, causando a menor fricção possível com o cliente, utilizando as melhores tecnologias e práticas do mercado.
+
+Você será responsável por liderar uma squad que está trabalhando na migração de um motor de prevenção a fraudes para um motor de mercado, melhorias pós-implantação e novas soluções de prevenção. Você será o ponto de contato entre a equipe de desenvolvimento e as partes interessadas, garantindo que o produto atenda às necessidades do negócio e dos usuários.
+
+O objetivo do seu trabalho é garantir que nossos sistemas e dados estejam seguros contra fraudes. Ao liderar a migração para um novo motor de prevenção a fraudes, você ajudará a melhorar a segurança e a eficiência dos nossos sistemas
+
+Modelo de trabalho : Híbrido (3 vezes remoto e 2 vezes presencial)
+
+Local: Osasco
+
+ Como será seu dia a dia? 
+
+Os desafios e projetos atuais da nossa área envolvem a migração e a modernização de nossos sistemas para a nuvem, um projeto complexo que exige a exploração de novos caminhos. Estamos trabalhando em diversas jornadas que exigem uma integração cuidadosa com nossos motores. Você será responsável por liderar uma squad e garantir que o produto ou serviço desenvolvido esteja alinhado com as necessidades do negócio e dos usuários.
+
+As principais atividades são:
+
+
+ Definição da Visão do Produto
+ Gestão do Backlog do Produto;
+ Colaboração com a equipe;
+ Comunicação com as partes interessadas;
+ Validação do produto;
+
+
+ Requisitos e Qualificações 
+
+ O que você precisa ter ou saber? 
+
+
+ Graduação em Ciência da Computação, Sistemas de Informação ou áreas correlatas;
+ Conhecimento em ferramentas como Jira, Confluence e Octane;
+ Desejável Pós-graduação/MBA em Gestão de Projetos/Produtos;
+ Desejável que o(a) candidato(a) já tenha conhecimento prévio de fraudes transacionais.;
+ A proficiência em inglês para leitura e escrita é importante, enquanto a habilidade de conversação é desejável;
+ Desejável Certified Scrum Product Owner (CSPO) - SAFe Product Owner/Product Manager - Project Management Professional (PMP).
+
+
+ O que nós oferecemos 
+
+No Bradesco valorizamos a saúde e bem-estar, oferecendo um extenso portfólio de benefícios as todas nossas pessoas colaboradoras.
+
+
+ PLR ou Bônus: Conforme a elegibilidade de cargo*
+ Convênio Médico
+ Convênio Odontológico
+ Seguro de Vida
+ Vale Alimentação
+ Vale Refeição
+ Total Pass
+ 13º Cesta Alimentação
+ Vale Transporte (adesão opcional)
+ Descontos em produtos e serviços em empresas parceiras
+ Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+ Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+ Unibrad: Universidade Corporativa Bradesco
+ Isenção de Tarifas: condições especiais em diversos produtos e serviços
+ Auxílio Creche ou Babá
+ Licença Paternidade estendida de 20 dias
+ Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+ Auxílio para filho atípico*
+
+
+ Saiba mais sobre o Bradesco 
+
+Para mais informações sobre as nossas práticas de gestão de pessoas e indicadores, acesse bradescori.com.br/o-bradesco/capital-humano/ .
+
+Para mais informações institucionais, de negócios e financeiras, além das práticas e iniciativas de sustentabilidade, acesse bradescori.com.br/o-bradesco/relatorio-integrado/ .
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior AI Machine Learning Engineer - Remote - Latin America
+
+Sobre a vaga
+About FullStack
+
+FullStack is the fastest-growing software consultancy in the Americas. We help organizations like Uber, GoDaddy, MGM, Siemens, and Stanford University build distributed software development teams, and deliver transformational digital solutions. As an employee-first company, we focus on hiring the most talented software designers and developers in the western hemisphere, by creating a positive, respectful, and supportive work environment where they can achieve their greatest potential.
+
+We’re Most Proud Of
+
+Offering life-changing career opportunities to talented software professionals across the Americas.
+Building highly-skilled software development teams for hundreds of the world’s greatest companies.
+Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+Our 4.5-star rating on GlassDoor.
+Our client Net Promoter Score of 68, twice the industry average.
+
+The Position
+
+We're Looking To Hire a Senior AI Machine Learning Engineer To Join Our Team. You'll Work With Our Incredible Clients In One Of Two Ways
+
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+What We Are Looking For
+
+5+ years of professional experience as a Machine Learning Engineer with strong knowledge of AI.
+Design, develop, and test machine learning algorithms and models. 
+Analyze and interpret large amounts of data to identify patterns and trends. 
+Implement and optimize models in production environments. 
+Develop and maintain documentation on machine learning models and processes. 
+Identify and address issues that may arise during development and deployment. 
+Strong programming skills in languages such as Python, R, or Java.
+Experience with machine learning frameworks such as TensorFlow or PyTorch. 
+Experience with data analysis and visualization tools like Pandas, NumPy, or Matplotlib. 
+Knowledge of LLM.
+Familiarity with GenAI.
+Knowledge of statistical modeling and inference techniques. 
+Successful completion of a four-year college degree is required.
+Advanced English is required.
+Experience working on Agile/Scrum teams. 
+Forensic attention to detail.
+A positive mindset and a can-do attitude.
+Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+Ability to consistently work 40 hours per week. 
+
+What We Offer
+
+Competitive pay in your local currency.
+100% remote work.
+The ability to work with leading startups and Fortune 500 companies.
+English Classes.
+Virtual company events each month.
+Ample opportunity for career advancement.
+Continuing education opportunities.
+Depending on your location other benefits may apply.
+
+FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form, which can be provided upon request during our hiring and interview process.
+
+Learn more about our Applicants Privacy Notice.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: DATA SCIENTIST III
+
+Sobre a vaga
+req57637 - DATA SCIENTIST III
+
+Sobre o Bradesco
+
+Trazendo um pouco mais da nossa história de contribuição e impacto na sociedade, com pioneirismo e inovação, o Bradesco surgiu com o propósito de democratizar o acesso aos serviços bancários no Brasil. Nesses 81 anos, sempre ao lado dos brasileiros, nos tornamos uma das maiores Organizações do país, formada por empresas e fundações que oferecem produtos e serviços que vão de soluções financeiras a seguros, saúde e educação.
+
+E estamos sempre em busca de pessoas dispostas a fazer a diferença na vida de milhões de brasileiros, contribuindo para o desenvolvimento da sociedade.
+
+Responsabilidades e atribuições
+
+O que é o nosso time de Compliance, Conduta e Ética.
+
+Somos a área de Analytics responsável por suportar as necessidades de análises e inovações analíticas do Departamento de Compliance da Organização, nossa missão é prover modelos, indicadores e monitoramentos ao Compliance, mediante análise de dados, machine learning e outras técnicas.da tomada de decisões e a possibilidade de reaproveitamento de informações internas e externas. Isso traz melhoria da eficiência, tanto pela redução dos custos associados à análise e à decisão manual, como pela maior precisão.
+
+Modelo de trabalho: Híbrido – 2x presencial
+
+Local: Osasco/SP
+
+Como será seu dia a dia?
+
+Sendo Data Scientist III, atuará no Compliance, Confuta e Ética e suas principais atividades serão:
+
+
+ Propor soluções de inteligência através de análises descritivas e/ou diagnósticas que identificam correlações, tendências e insights ocultos, utilizando machine learning e outras técnicas;
+Desenvolver indicadores, metodologias e modelos que possam ser utilizados para identificar ou prevenir exposição ao risco de compliance, com o objetivo de recomendar ações que agreguem na atuação do Departamento;
+Buscar continuamente atualização das melhores práticas de mercado e inovações tecnológicas, com o objetivo de automatizar procedimentos e/ ou processos, visando contribuir para a melhoria da atuação de Compliance;
+Extrair e Estruturar análises com alto volume de dados de fontes diversas;
+Implementar controles e medidas para assegurar a confiabilidade das informações;
+Comunicar-se rotineiramente com as áreas de Compliance com o objetivo de obter as informações necessárias para a elaboração de estudos ou modelos;
+Acompanhar o desempenho de projetos e participar de reuniões de definição de escopo.
+
+
+Requisitos e Qualificações
+
+O que você precisa ter ou saber?
+
+
+ Conhecimentos avançados do Pacote Office;
+Conhecimentos avançados em pelo menos uma linguagem de programação (SQL, R, SAS, Python ou outras);
+Conhecimentos avançados em estatística e Técnicas de Machine Learning, deep learning e NLP;
+Conhecimentos avançados em Banco de Dados (Teradata, Hive, Azure);
+Conhecimento em validação de dados e de modelos.
+
+
+Será um diferencial se você tiver:
+
+
+ Conhecimento em Infraestrutura de Big Data (Hadoop, MapReduce e Spark);
+Conhecimento em infraestrutura de cloud.
+
+
+O que nós oferecemos
+
+No Bradesco valorizamos a saúde e bem-estar, oferecendo um extenso portfólio de benefícios as todas nossas pessoas colaboradoras.
+
+
+ PLR ou Bônus: Conforme a elegibilidade de cargo*
+ Convênio Médico
+ Convênio Odontológico
+ Seguro de Vida
+ Vale Alimentação
+ Vale Refeição
+ Total Pass (pessoa colaboradora e mais 3 dependentes)
+ 13º Cesta Alimentação
+ Vale Transporte (adesão opcional)
+ Descontos em produtos e serviços em empresas parceiras
+ Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+ Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+ Unibrad: Universidade Corporativa Bradesco
+ Isenção de Tarifas: condições especiais em diversos produtos e serviços
+ Auxílio Creche ou Babá
+ Licença Paternidade estendida de 20 dias
+ Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+ Auxílio para filho atípico*
+
+
+Saiba mais sobre o Bradesco
+
+Para mais informações sobre as nossas práticas de gestão de pessoas e indicadores, acesse bradescori.com.br/o-bradesco/capital-humano/.
+
+Para mais informações institucionais, de negócios e financeiras, além das práticas e iniciativas de sustentabilidade, acesse bradescori.com.br/o-bradesco/relatorio-integrado/.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro(a) de Machine Learning - Pleno e Senior
+
+Sobre a vaga
+Resumo do cargo:
+
+Estamos buscando um Engenheiro de Machine Learning talentoso e experiente para se juntar à nossa equipe de inovação tecnológica. O candidato ideal será responsável por liderar a produtização de modelos de machine learning, utilizando AWS SageMaker, e desenvolver um framework robusto para automação de etapas repetitivas dentro do nosso processo de MLOps. Este papel exige uma combinação de habilidades técnicas avançadas, pensamento inovador e um compromisso com a entrega de soluções escaláveis e eficientes.
+
+Responsabilidades:
+
+Desenvolver, testar e implementar modelos de machine learning utilizando AWS SageMaker, incluindo o uso de SageMaker Pipelines para automação e orquestração de workflows de ML.
+Construir e manter pipelines de dados escaláveis para treinamento e inferência de modelos utilizando SageMaker Data Wrangler e SageMaker Feature Store.
+Criar e implementar um framework de automação para simplificar e padronizar as etapas repetitivas do ciclo de vida de MLOps, utilizando SageMaker Model Monitor para garantir a qualidade e performance dos modelos.
+Trabalhar em colaboração com equipes de dados e desenvolvimento para integrar soluções de ML nos produtos e serviços da empresa, aproveitando as capacidades do SageMaker Studio para uma colaboração eficaz.
+Monitorar, avaliar e otimizar o desempenho dos modelos de machine learning utilizando SageMaker Clarify para detecção de bias e explicabilidade dos modelos.
+Manter-se atualizado com as últimas tendências e tecnologias em machine learning e MLOps.
+
+
+Requisitos Necessários:
+
+Formação superior em Ciência da Computação, Estatística, Matemática ou campo relacionado.
+Experiência comprovada em machine learning e familiaridade com ferramentas e frameworks relevantes (e.g., TensorFlow, PyTorch).
+Experiência prática com AWS SageMaker para a produtização de modelos, incluindo conhecimento profundo de componentes como SageMaker Pipelines, Data Wrangler, Feature Store, Model Monitor e Clarify.
+Forte conhecimento em Python e bibliotecas relevantes para machine learning.
+Experiência com metodologias ágeis e práticas de DevOps/MLOps.
+
+
+Requisitos Desejáveis:
+
+Certificação AWS Machine Learning ou equivalente.
+Experiência anterior com automação de processos de MLOps.
+Habilidades de comunicação e colaboração para trabalhar eficazmente em equipes multidisciplinares.
+
+
+Jornada para se tornar Fiver:
+
+Para nos conhecermos e sabermos se poderemos criar soluções incríveis juntos(as), trilhamos um caminho, onde, a cada passo, compartilhamos uma parte de nossa história:
+
+Triagem de currículos;
+Bate-papo com equipe de Gestão Humana;
+Conversa com o cliente (alocação);
+Entrevista Técnica com gestor(a) da área.
+
+
+E agora, qual história você quer contar?
+
+Sobre nós, Fivers:
+
+Acreditamos que os dados são o combustível para a transformação das empresas e das pessoas. Com isso em mente, ajudamos nossos clientes a criar soluções analíticas que os inspiram a realizar transformações organizacionais com impacto direto nos seus modelos de negócio.
+
+Você acredita que ao contar boas histórias com os dados, podemos inspirar pessoas a transformarem o mundo a sua volta e, como consequência, melhorar a vida de outras pessoas? Se a resposta for sim, vamos nos conhecer!
+
+🏳‍🌈 Na Five Acts, valorizamos a diversidade, a equidade e a inclusão. Acreditamos que a diversidade é uma força impulsionadora da inovação e do crescimento. Portanto, não fazemos distinção por questões de gênero, orientação sexual, religião, idade, etnia, ou qualquer outra. Nossas oportunidades são abertas para todas as pessoas!
+
+O que oferecemos:
+
+Vales alimentação/refeição - no cartão de benefícios flexíveis Swile
+Cobertura de até 100% em Plano de Saúde e Odontológico
+Seguro de Vida em grupo
+Trabalho remoto ou híbrido
+Convênio Saúde Mental - psicoterapia online e presencial
+Incentivo a certificações e cursos
+Convênio para cursos de pós-graduação e MBA
+Parceria com escolas de idiomas
+Parceria com academias e estúdios fitness - Gympass
+Palestras e rodas de conversa internas
+Bônus por indicação
+Happy hours
+Mimos em datas comemorativas
+
+
+Confira a nossa Política de Privacidade.
+-----------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+<div class="dgc-painel" *ngIf="listaBase">
+	<div class="dgc-painel-header" *ngIf="palavraChave">
+		<span>{{palavraChave.palavra}}</span>
+		<span class="dgc-direita">{{palavraRaiz.palavra}}</span>
+	</div>
+
+	<div class="dgc-card">
+		<div class="dgc-card" *ngFor="let rel of listaBase">
+			<div class="dgc-card-detalhe" >
+				<span routerLink="/oportunidade/{{rel.id}}" class="dgc-link">{{rel.titulo}}</span><br>
+				<span>{{rel.tempo}}</span><br>
+				<span>{{rel.volume}}</span><br>
+				<span>{{rel.empresa}}</span><br>
+				<span>{{rel.modelo}}</span><br>
+				<a href="{{rel.url}}" target="_blank">{{rel.url}}</a>
+			</div>
+			<div class="dgc-card-detalhe">
+				<span>{{rel.dataEnvio | date : 'dd-MM-yyyy' : 'UTC' }}</span><br>
+				<span>{{rel.data | date : 'dd-MM-yyyy' : 'UTC' }} ({{rel.maisRecente}})</span>
+			</div>
+
+		</div>
+	</div>
+</div>

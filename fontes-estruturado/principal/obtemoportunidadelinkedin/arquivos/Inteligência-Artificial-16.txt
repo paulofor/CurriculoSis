@@ -1,0 +1,306 @@
+[Oportunidade 1]
+Oportunidade: Senior AI Engineer (Conversational AI)
+
+Sobre a vaga
+Chatbot Engineer (Senior)
+
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+TELUS Digital seeks an AI Engineer with strong conversational AI and architecture skills to turn client needs into scalable generative AI solutions. You’ll design and implement conversational AI architectures, working with stakeholders and conversation designers to build, test, and optimize LLM-driven workflows. Using API development, SQL, and the Google suite, you’ll integrate, prompt engineer, and secure AI models while ensuring compliance and performance.
+
+Responsibilities
+
+Discover and analyze business requirements, being the advocate for the customer while also understanding existing technology capabilities.
+Develop application architecture design for high complexity projects, with emphasis on technical architecture, and implement solutions.
+Participate in the review of detailed design specifications, test plans, and user documentation for functional and technical completeness and accuracy.
+Bring creativity, strong logic skills, and the ability to work in a dynamic, challenging, and consultative environment.
+Apply your knowledge of software engineering and AI systems to develop AI solutions targeted at conversational AI use cases.
+Partner with Conversation Designers who specialize in advanced linguistics and conversational best practices, ensuring optimal architecture and conversational flows are being designed.
+Take ownership of implementing and optimizing conversational flows, prompt engineering, and AI components, ensuring they meet project needs with high complexity and scale.
+Navigate and manipulate generative AI models, including large language models, to create prompts and solutions tailored to specific use cases.
+Develop and incorporate AI solutions while adhering to industry best practices, including moderation, security, and compliance standards.
+Lead the charge in testing and evaluating conversational flows, leveraging standard metrics to ensure alignment with business objectives.
+Meet with stakeholders and partners, understanding requirements and translating technical concepts into non-technical verbiage.
+
+Qualifications
+
+Experience with call center technology, Virtual Assistants, GenAI-powered Chatbot development, and conversational voice and chat implementations.
+Experience in the GCP environment, including Google Dialogflow CX, Google CCAI, Google CES, or similar.
+Demonstrable experience with Generative AI and NLP, leveraging LLMs, and prompt engineering for conversational use cases.
+Strong prompt engineering skills, understanding, and leveraging key techniques such as zero-shot, few-shot, chain-of-thought, and others.
+Understanding of the trade-offs between generative AI models and the ability to choose the right model for specific use cases.
+Experience with API development with Python and/or JavaScript, and SQL and SQL-based databases. 
+Experience with solution observability, monitoring, and performance evaluation.
+Familiarity with testing and evaluating AI systems using state-of-the-art methods and best practices.
+Self-starter characteristic, willing to operate nimbly to drive execution/to meet deliverables, and experience working remotely.
+Ability to communicate complex technical terms and concepts effectively to technical and non-technical stakeholders.
+Present strong analytical, creative thinking, decision-making skills, and have the ability to think outside the box to drive continuous improvement.
+Strong collaboration skills and ability to work alongside Data Science specialists, drawing on their expertise in AI model development and fine-tuning to deliver sophisticated AI solutions.
+
+Bonus Points
+
+Experience with data embeddings and vector databases, understanding the trade-off between available options, and leveraging it to optimize data ingestion.
+Experience designing and implementing large-scale conversational systems for a large number of intents and use cases.
+Previous experience in the contact center world.
+Contributions to AI thought leadership in the industry.
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados Senior
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Desenvolvedor de Dados você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Curso superior na área de tecnologia da informação;
+Experiência com Python: Para manipulação de dados, automação de processos e desenvolvimento de pipelines.
+Java/Scala: ferramentas como Apache Spark. PySpark: A API do Apache Spark para Python, permitindo processamento de dados em larga escala e análise de dados distribuídos.
+Bancos de Dados SQL
+NoSQL (MongoDB, Cassandra)
+Plataformas de Big Data: Databricks
+
+Principais responsabilidades:
+
+Desenvolvimento de Pipelines de Dados: Projetar, construir e manter pipelines de dados eficientes para a extração, transformação e carga (ETL) de dados de diversas fontes.
+Integração de Dados: Integrar dados de diferentes sistemas e fontes, garantindo a qualidade e a consistência dos dados.
+Modelagem de Dados: Criar e manter modelos de dados que suportem as necessidades de análise e relatórios da equipe de Finanças.
+Otimização de Performance: Monitorar e otimizar o desempenho dos pipelines de dados e das consultas em bancos de dados, garantindo eficiência e rapidez no processamento.
+Trabalho com Big Data: Utilizar ferramentas de Big Data, como Apache Spark e Databricks, para processar grandes volumes de dados em tempo real.
+Garantia de Qualidade dos Dados: Implementar processos de validação e limpeza de dados para garantir a integridade e a precisão das informações.
+Colaboração com Equipes Multifuncionais: Trabalhar em estreita colaboração com cientistas de dados, analistas de negócios e outras partes interessadas para entender as necessidades de dados e fornecer soluções adequadas.
+Documentação: Documentar processos, pipelines e modelos de dados para garantir que as informações sejam acessíveis e compreensíveis para outros membros da equipe.
+Segurança e Conformidade: Garantir que as práticas de manipulação de dados estejam em conformidade com as políticas de segurança e regulatórias, especialmente em um ambiente financeiro.
+Atualização e Aprendizado Contínuo: Manter-se atualizado sobre as últimas tendências e tecnologias em engenharia de dados, Big Data e ferramentas de análise.
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Buscamos um Engenheiro de dados Sênior com sólida experiência em Python para liderar o desenvolvimento e implementação de um Master Data Management (MDM) de Pacientes. O profissional irá trabalhar na modelagem de dados, especificação de regras de negócios e implementação dessas regras e tabelas no ambiente Databricks, unificando dados de pacientes provenientes de múltiplos sistemas de origem.
+
+
+Responsabilidades e atribuições
+Desenvolver e implementar a arquitetura de modelagem de dados do MDM de Pacientes
+Especificar e documentar regras de negócios para unificação e tratamento de dados de pacientes
+Implementar pipelines de processamento de dados no Databricks
+Desenvolver lógicas para matching, deduplicate e golden record de pacientes
+Estabelecer fluxos de qualidade de dados e validação
+Criar e manter tabelas integradas seguindo as regras de negócios estabelecidas
+Implementar rotinas de atualização e sincronização de dados
+Participar de code reviews e mentoria técnica da equipe
+Colaborar com stakeholders de negócios para refinar regras e requisitos
+
+Requisitos essenciais:
+Experiência avançada com Python
+Sólidos conhecimentos em:
+Databricks e Delta Lake
+PySpark para processamento de dados em larga escala
+SQL e modelagem de dados
+ETL/ELT e pipelines de dados
+
+Experiência com Master Data Management (MDM) ou projetos similares de integração de dados
+Conhecimento em técnicas de matching, fuzzy matching e deduplicação de registros
+Experiência com implementação de regras de negócios complexas em código
+Domínio de versionamento Git e metodologias ágeis
+Experiência com boas práticas de desenvolvimento (testes unitários, documentação)
+
+Diferenciais:
+Experiência prévia com MDM na área de saúde
+Conhecimento em FHIR ou outros padrões de dados de saúde
+Experiência com Great Expectations para qualidade de dados
+Conhecimento em frameworks de governança de dados
+Experiência com mensageria (Kafka, Event Hubs)
+Familiaridade com ferramentas de CDC (Change Data Capture)
+Conhecimento em observabilidade (Databricks SQL Analytics, Grafana)
+Experiência com APIs RESTful para exposição de dados
+
+
+Benefícios:
+
+🍛 Vale Alimentação ou Vale Refeição;
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+🗣 Mentoring;
+🏫 Auxílio Creche;
+💉 Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+🦷Assistência Odontológica;
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+🛫 Clube de viagens;
+🐶 Convênio para Pet;
+e muito mais...
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: ESPECIALISTA EM ENGENHARIA DE SOFTWARE (2226)
+
+Sobre a vaga
+Especialista em Engenharia de Software - Híbrido em Brasília/DF
+
+A G4F é uma empresa com uma trajetória sólida de 15 anos, dedicada a conectar pessoas, ideias e tecnologia para oferecer soluções inovadoras. #SomosGreaters
+
+Estamos em busca de um(a) profissional experiente para atuar em projetos de desenvolvimento e manutenção de portais no padrão gov.br, com forte domínio em Plone, programação web e gestão de conteúdo digital.
+
+Principais Responsabilidades
+
+Configuração e manutenção de sites no Portal Padrão gov.br (Plone);
+Análise, desenvolvimento e criação de layouts responsivos e acessíveis;
+Programação Front-end e/ou Full Stack com uso de Python, JavaScript, HTML e CSS;
+Publicação, edição, migração e atualização de conteúdo institucional;
+Integração com ferramentas de dados analíticos (Google Analytics, Matomo, etc.);
+Garantia de conformidade com padrões de acessibilidade (eMAG) e usabilidade.
+
+Requisitos Necessários
+
+Graduação completa em Tecnologia da Informação ou graduação em qualquer área com pós-graduação na área de TI (mín. 360h);
+Experiência sólida em Plone e portal gov.br;
+Domínio técnico em Python, JavaScript, HTML, CSS;
+Capacidade de desenvolver e customizar layouts para portais públicos.
+
+Possuir 02 (duas) Dentre As Seguintes Certificações Profissionais
+
+Certified Professional for Requirements Engineering (CPRE);
+Oracle Java EE Enterprise Architect Certified Master;
+Oracle Certified Expert - Java EE;
+Google Developers Certification - Mobile Web Specialist;
+Red Hat Certified Enterprise Application Developer;
+Red Hat Certified Enterprise Microservices Developer;
+Profissional Ágil Certificado (PMI-ACP);
+Professional Scrum Master (PSM);
+Secure Programming Foundation;
+Certified DevSecOps Professional.
+
+Informações Adicionais
+
+Atuação híbrida em Brasília/DF
+Oportunidades de desenvolvimento profissional
+Vale Alimentação/Refeição | Wiipo Flex
+Vale transporte (Opcional)
+Plano de Saúde
+TotalPass | Bem-estar para todos os colaboradores, todos os dias
+Parceria SESC | Saúde, Lazer, Turismo & Esportes, Assistência Social e Alimentação
+Parcerias Educacionais | Aldeia, UDF, EBAC, ESPM, IPOG, VC_TB e WO
+Seguro de vida
+
+#VemSerGreater
+
+Valorizamos a diversidade, equidade e a inclusão, independentemente de gênero, raça, etnia, orientação sexual, deficiência ou religião, portanto, todas as nossas vagas são afirmativas.
+
+Junte-se à nossa equipe e contribua para o crescimento sustentável da G4F!💙
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvedor(a) IA
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Integrar modelos de IA (como LLMs) em aplicações, utilizando APIs, SDKs e bibliotecas especializadas.
+Desenvolver aplicações e APIs com foco em IA Generativa (chatbots, tradução, análise de sentimentos, entre outras funcionalidades).
+Construir e manter microsserviços escaláveis, com atenção à performance e à eficiência.
+Monitorar soluções de IA em produção, garantindo estabilidade, segurança e confiabilidade.
+Atuar de forma colaborativa com equipes multidisciplinares, incluindo áreas de engenharia, ciência de dados e produto.
+Implementar lógica e fluxos de agentes de IA com frameworks como LangChain ou Botpress.
+Aprimorar prompts e adaptar modelos de IA para diferentes contextos e necessidades.
+
+Qualificações Essenciais
+
+Graduação completa ou em andamento em Ciência da Computação, Engenharia de Software ou áreas correlatas.
+Experiência com linguagens como Python, Java, C# ou JavaScript/Node.js.
+Conhecimento em desenvolvimento web, APIs REST e versionamento de código com Git.
+Noções de inteligência artificial e machine learning, além de experiência na integração de APIs externas.
+Familiaridade com bancos de dados relacionais (SQL) e/ou não relacionais (NoSQL).
+Desejável conhecimento em frameworks de agentes de IA, como LangChain ou Botpress.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------

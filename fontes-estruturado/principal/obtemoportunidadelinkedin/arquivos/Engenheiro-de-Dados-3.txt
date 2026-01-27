@@ -1,0 +1,285 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Pleno
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Engenheiro de Dados você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de Platforms voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Curso superior na área de tecnologia da informação;
+Engenheiro de Dados com experiência em desenvolvimento em PySpark, domínio das capacidades do Databricks e recursos da Azure.
+Criação e manutenção de processos de ingestão de dados em Data Lakes na nuvem e o desenvolvimento de pipelines de dados eficientes. 
+
+Principais responsabilidades:
+
+Projetar, construir e manter pipelines de dados para ingestão de dados em Data Lakes na nuvem.
+Utilizar PySpark e Databricks para processar grandes volumes de dados de forma eficiente.
+Trabalhar com recursos da Azure para garantir a integração e a segurança dos dados.
+Colaborar com equipes multifuncionais para entender as necessidades de dados e fornecer soluções adequadas.
+Implementar processos de validação e limpeza de dados para garantir a qualidade e a integridade das informações. 
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados - Trabalho Remoto
+
+Sobre a vaga
+Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício.
+
+Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global.
+
+Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional.
+
+Engenheiro de Dados na BairesDev
+
+Buscamos um Engenheiro de Dados para se juntar à nossa equipe de Desenvolvimento e participar de diferentes projetos compostos por equipes multiculturais distribuídas em todo o mundo.
+
+Responsabilidades:
+
+- Entrevistar outros cientistas de dados e engenheiros de dados para verificar suas habilidades técnicas.
+- Inserir dados dessas entrevistas no produto e ajudar a desenvolver uma solução preditiva, justa e agradável.
+- Trabalhar em conjunto com desenvolvedores, líderes tecnológicos e arquitetos de soluções para construir aplicações.
+- Melhorar as estruturas existentes adicionando novas funcionalidades ou propondo atualizações tecnológicas para que, como resultado, o impacto de sua contribuição seja significativo no núcleo de cada negócio.
+- Melhorar a experiência do usuário em plataformas escaláveis e de alta disponibilidade, contribuindo para o diferencial chave de cada negócio.
+
+Esperamos que você tenha:
+
+- 5+ anos de experiência trabalhando como desenvolvedor.
+- Mais de 3 anos de experiência trabalhando como Cientista de Dados/ Engenheiro de Dados.
+- Proficiente com análise, solução de problemas e resolução de problemas.
+- Experiência prática no gerenciamento de cargas de dados e qualidade de dados.
+- Nível avançado de inglês.
+
+Como tornamos seu trabalho (e sua vida) mais fácil:
+
+- Modalidade 100% remota - trabalhe de qualquer lugar.
+- Excelente remuneração em USD ou na sua moeda local, como preferir.
+- Hardware para você trabalhar de casa.
+- Horários flexíveis - faça seu próprio horário.
+- Licença parental remunerada, férias, e feriados nacionais.
+- Ambiente de trabalho inovador e multicultural.
+- Colabore e aprenda com o Top 1% global dos talentos de cada área.
+- Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento.
+
+Junte-se a uma equipe global onde seus talentos excepcionais podem se destacar!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Profissional Engenheiro de Dados Sênior
+
+Sobre a vaga
+Código da vaga: 47971
+
+
+Sobre a BRQ Digital
+Há 32 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+Temos 2.500 funcionários e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+
+Vamos transformar juntos! Vem ser fera com a gente!
+
+- O que procuramos?
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+Experiência com: SQL, Python, Scala, Azure/AWS, Databricks, Azure Data Factory, AWS Glue, Control-m. 
+CLT, salário a combinar+ benefícios
+Híbrido (3x presencial na semana)- Santo Amaro (próximo a estação de trem Santo Amaro).
+
+- O que temos pra te oferecer?
+Mais do que um plano de carreira!
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+
+- E os benefícios?
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+
+- Como é trabalhar na BRQ?
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+
+Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados | Remoto
+
+Sobre a vaga
+SOBRE A CAPCO
+
+A Capco é uma consultoria global de tecnologia e gestão especializada na transformação digital, oferecendo soluções inovadoras e orientadas por dados para um portfólio crescente de mais de 100 clientes globais, entre eles bancos, pagamentos, mercados de capitais, gestão de patrimônio e ativos, seguros e setor de energia.
+
+Nos destacamos pela abordagem personalizada, focada na construção de parcerias estratégicas de longo prazo e na aceleração de iniciativas digitais. Nossa expertise ganha vida por meio dos Innovation Labs e da cultura premiada #BeYourselfAtWork, que valoriza a diversidade e o talento.
+
+Com presença global nos principais centros financeiros - temos 33 escritórios nas Américas, Europa e Ásia-Pacífico - estamos comprometidos em oferecer soluções práticas e integradas, promovendo colaboração e confiança em cada projeto. Se criatividade e inovação são sua paixão, a Capco é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira!
+
+Estamos em busca de um(a) Engenheiro(a) de Dados para integrar nosso time e atuar no desenvolvimento e manutenção de arquiteturas baseadas em Microsoft Azure. O profissional será responsável por criar e otimizar pipelines de dados, garantindo eficiência, segurança e escalabilidade.
+
+Responsabilidades
+
+Desenvolver e manter pipelines de dados utilizando Azure Databricks, estruturando informações nas camadas Bronze, Silver e Gold.
+Trabalhar com AKS (Azure Kubernetes Service) e Docker para a containerização de aplicações.
+Implementar mecanismos de autenticação e segurança por meio do Azure Key Vault.
+Escrever código em Python para automação e processamento de dados.
+Garantir a qualidade e governança dos dados em toda a pipeline.
+
+Requisitos
+
+Experiência com Azure Databricks e notebooks para ingestão e processamento de dados.
+Conhecimento sólido em AKS (Azure Kubernetes Service) e Docker.
+Experiência com Azure Key Vault para segurança e integração com serviços externos.
+Proficiência em Python para desenvolvimento e automação de workflows.
+Familiaridade com arquitetura de Data Lakes e processamento de dados em larga escala.
+Graduação em TI ou áreas correlatas.
+
+Diferenciais
+
+Experiência com outras soluções do Azure Data Services.
+Conhecimento em CI/CD para pipelines de dados.
+Experiência com Spark e Delta Lake.
+
+Por Que Capco
+
+Juntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente!
+
+Próximos Passos
+
+O objetivo da Capco é conduzir um processo flexível e alinhado às necessidades de cada oportunidade e talento.
+
+Etapa 1: Entrevista comportamental.
+Etapa 2: Entrevista técnica.
+Etapa 3: Conversa com time de Projeto/ Delivery.
+Etapa 4: Conversa com cliente.
+Etapa 5: Proposta ou feedback.
+
+As etapas do nosso processo seletivo descritas são essenciais para garantir uma avaliação completa e assertiva. Contudo, elas podem ser ajustadas dependendo da senioridade do(a) candidato(a), da área de atuação e do formato do projeto.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados SR – Setor Farmacêutico
+
+Sobre a vaga
+Job Description
+
+A FCamara está em busca de um Engenheiro de Dados SR com sólida experiência em arquitetura, construção e manutenção de pipelines de dados, foco em soluções escaláveis para apoiar decisões estratégicas no setor farmacêutico.
+
+Responsibilities And Assignments
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+Projetar, desenvolver e manter pipelines de dados escaláveis para integração entre múltiplas fontes internas e externas.
+
+Garantir a qualidade, integridade e consistência dos dados coletados em conformidade com normas regulatórias (ex: ANVISA, FDA).
+
+Trabalhar em parceria com times de ciência de dados, BI e TI para entender necessidades e entregar soluções orientadas a dados.
+
+Implementar soluções de armazenamento e processamento de dados em ambientes on-premise e/ou na nuvem (AWS, Azure, GCP).
+
+Automatizar processos de ingestão, transformação e carga de dados (ETL/ELT).
+
+Gerenciar e monitorar performance de bancos de dados relacionais e não relacionais.
+
+Documentar fluxos de dados, modelos e integrações de forma clara e atualizada.
+
+Garantir a segurança e governança dos dados seguindo boas práticas e políticas de compliance do setor farmacêutico.
+
+Tomar decisões técnicas e estratégicas, avaliar riscos, para garantir o sucesso das entregas;
+
+Dar suporte e aconselhar o time para solucionar problemas, estimando o tempo e o esforço necessários para um fluxo de trabalho eficiente;
+
+Treinar os membros da equipe, resolvendo os conflitos diários e garantindo que os membros da equipe estejam suficientemente focados;
+
+Identificar riscos e trazer planos de contingência.
+
+Facilidade em se relacionar com diferentes pessoas/times e boa comunicação;
+
+Requirements And Qualifications
+
+REQUISITOS E QUALIFICAÇÕES
+
+Experiência em ambiente Azure e ferramentas de Data (Data Factory, Databricks, Azure Data Lake, Storage Account);
+
+Experiência com banco de dados relacional SQL Server
+
+Experiência com banco de dados relacionais RDBMS (SQL Server; Oracle)
+
+Experiência em ferramentas ETL (Talend, SSIS, Informatica);
+
+Experiência com ingestão de dados em Python (Airflow, Spark);
+
+Experiência ou conhecimento em otimização de Queries;
+
+Familiaridade com metodologias ágeis;
+
+Familiaridade com ferramentas de integração contínua (CI/CD);
+
+Familiaridade com o uso de GitHub;
+
+Conhecimento em stacks do Google Cloud Platform (GCP);
+
+Conhecimento em Docker;
+
+Experiência com ferramentas de visualização de dados (Tableau, Power BI) é um diferencial.
+
+Additional Information
+
+Conhecimento em frameworks de governança de dados e LGPD.
+
+Experiência prévia no setor farmacêutico ou em indústrias reguladas.
+
+Familiaridade com ferramentas de visualização de dados (Power BI, Tableau, etc.).
+
+Transformamos mundos sonhados em trajetórias reais.🧡🚀
+
+Aqui somos #SangueLaranja!
+
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras.
+
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+
+tem o poder da transformação!
+
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs.
+
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?
+-----------------------------------------------------------------------------------

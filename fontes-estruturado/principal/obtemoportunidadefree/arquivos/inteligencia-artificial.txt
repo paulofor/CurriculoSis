@@ -1,0 +1,465 @@
+
+**Atores para anúncios pagos***
+
+Precisamos de atores que aceitem fazer anúncios pagos para nossa empresa de SaaS. Os anúncios serão vinculados em plataformas como Meta Ads e YouTube Ads. Além disso, os materiais gravados deverão ter seus direitos de imagem e áudio cedidos à empresa, para a criação de novos anúncios usando Inteligência Artificial.
+
+
+**Desenvolvimento de robô para replicar notícias em WordPress***
+
+Estamos buscando um programador especialista em WordPress para desenvolver um robô capaz de replicar notícias utilizando inteligência artificial.
+
+O projeto visa automatizar a publicação de conteúdo de maneira eficiente e segura.
+
+Aguardo orçamentos e prazos para execução do projeto.
+
+
+**Criação de conteúdos visuais para redes sociais***
+
+Estou em busca de um profissional com experiência em criar criativos usando vídeos existentes ou inteligência artificial, e que também tenha experiência na produção de conteúdo para Instagram e TikTok. Isso inclui cortes e edições de vídeos, edição de imagens e afins. Procuro alguém criativo e atualizado com as tendências atuais do nicho Igaming. A produção desses conteúdos será quase que diária. Esconder
+
+
+**Vídeo de vendas VSL com menos de 2 minutos***
+
+Boa tarde, preciso de um vídeo para venda de um produto de no máximo 2 minutos. O vídeo deve ter legenda, introdução e transição com áudio. É necessário criar o texto, e o áudio pode utilizar inteligência artificial.
+
+
+**Integração e agrupamento de comentários com ChatGPT***
+
+Estamos em busca de um profissional para um projeto pontual, focado no desenvolvimento de uma rotina que lê e agrupa comentários de uma pesquisa.
+
+A rotina, feita em Python, se integra com o ChatGPT e agrupa comentários similares através de agrupamentos pré-definidos.
+
+O que precisamos:
+
+- Desenvolver uma rotina que leia comentários de pesquisas;
+- Integrar a rotina com o ChatGPT para processamento de linguagem natural;
+- Implementar agrupamentos de comentários com base em categorias pré-definidas;
+- Utilizar técnicas de word embedding para manter a consistência dos agrupamentos e evitar reprocessamento de textos já processados.
+
+Requisitos:
+- Experiência com processamento de linguagem natural (NLP);
+- Conhecimento em integração de APIs, especialmente ChatGPT;
+- Familiaridade com técnicas de word embedding;
+- Habilidade em desenvolvimento de algoritmos de agrupamento de texto. Esconder
+
+
+**Geração de imagens para vídeo de histórias***
+
+Estou precisando de imagens geradas pelo Midjourney para produzir vídeos. Tenho os prompts prontos, só preciso que alguém gere as imagens. É necessário ter conta no Midjourney (Standard Plan no mínimo - geração ilimitada de imagens). Se não tiver conta, mas tiver experiência com MJ, podemos conversar sobre um meio de viabilizar o projeto. Preciso principalmente da criação de personagens consistentes, pois o vídeo é uma história. Esconder
+
+
+**Integração e automação para infoprodutores***
+
+Preciso de alguém que saiba realizar integrações e automações para as seguintes funcionalidades:
+
+• Atendimento com inteligência artificial em LP
+• Abandono de carrinho para Kiwifi x WhatsApp
+• Abandono de carrinho para HotMart x WhatsApp
+
+E muito mais!
+
+
+**Locução de 15 minutos de áudio para restaurante***
+
+Narração ou locução: 15 minutos de áudio (serão 30 narrações de 30 segundos cada), com o objetivo de divulgação comercial de um restaurante.
+
+Nada de voz de inteligência artificial. Não precisa de música de fundo.
+
+Será entregue texto pronto.
+
+A narração precisa ser animada, falando sobre a marca de um restaurante ou sobre pratos específicos (e promoções).
+
+Ao enviar sua proposta, envie exemplos de narrações que você tenha feito, de preferência com objetivo similar ao presente projeto. Esconder
+
+
+**Criação de site para divulgar desenhos na inteligência artificial***
+
+Eu preciso de um desenvolvedor web para fazer um site para mim. Também preciso que esse desenvolvedor saiba usar ferramentas de inteligência artificial para desenhar. Ele precisa criar um site de histórias em quadrinhos e fazer 30 ilustrações usando inteligência artificial. Me envie propostas para fazer esse site e as 30 ilustrações na inteligência artificial. Esconder
+
+
+**Produção de voz IA para canal do YouTube***
+
+Busco alguém que tenha noção de edição de áudio para gerar locuções em um site de inteligência artificial a partir de um texto.
+
+Depois, juntar os áudios, remover os espaços vazios da locução e acelerar para a minutagem correta.
+
+Cada edição dessa deve levar menos de 20 minutos.
+
+Tenho uma demanda de cerca de 50 dessas mensais, favor colocar o valor por locução. Esconder
+
+
+**Desenvolvimento Full Stack para projeto de saúde mental com IA***
+
+Título do Cargo: Desenvolvedor Full Stack para Projeto de Saúde Mental com IA
+
+Local de Trabalho: Remoto
+
+Resumo do Cargo:
+Estamos procurando um Desenvolvedor Full Stack talentoso e motivado para se juntar ao nosso projeto inovador. Nossa plataforma combina psicologia e inteligência artificial para ajudar os usuários a narrarem suas histórias e promover o bem-estar mental. Este é um projeto significativo que pode impactar positivamente a vida de muitas pessoas.
+
+Responsabilidades:
+
+• Desenvolver a interface de usuário (frontend) intuitiva e visualmente atraente;
+• Implementar um sistema de login e senha para autenticação de usuários;
+• Integrar a API do ChatGPT-4 da OpenAI para processar as entradas dos usuários e gerar respostas;
+• Configurar e gerenciar o servidor backend para manuseio de requisições e armazenamento de dados;
+• Garantir que a aplicação seja responsiva e otimizada para diferentes dispositivos;
+• Colaborar estreitamente com a equipe de design UX/UI e a especialista em psicologia para garantir uma experiência de usuário perfeita;
+• Realizar testes de funcionalidade e usabilidade, e implementar melhorias com base no feedback dos usuários.
+
+Requisitos:
+
+• Experiência Comprovada: Experiência prática como Desenvolvedor Full Stack, com um portfólio que demonstre projetos relevantes;
+• Linguagens de Programação: Proficiência em JavaScript (React, Angular ou Vue.js) e Python ou Node.js;
+• Frontend e Backend: Experiência com desenvolvimento de frontend e backend;
+• Integração de APIs: Conhecimento em integração de APIs RESTful, especialmente com APIs de IA como a OpenAI;
+• Autenticação de Usuários: Experiência com ferramentas de autenticação de usuários (login e senha) e segurança de dados;
+• Infraestrutura em Nuvem: Familiaridade com serviços de hospedagem e infraestrutura em nuvem (Google Cloud, AWS, etc.).
+
+Desejável:
+
+• IA e Chatbots: Experiência com plataformas de IA, especialmente OpenAI;
+• Saúde Mental: Conhecimento ou experiência em projetos de saúde mental ou bem-estar;
+• Ferramentas de Colaboração: Familiaridade com ferramentas de colaboração remota (Slack, Trello, GitHub, etc.).
+
+Oferecemos:
+
+• Projeto Significativo: Oportunidade de trabalhar em um projeto inovador com impacto positivo na saúde mental;
+• Ambiente Colaborativo: Ambiente de trabalho colaborativo e flexível;
+• Remuneração Competitiva: Remuneração baseada na experiência e habilidades;
+• Possibilidade de Extensão: Possibilidade de extensão do contrato com base no desempenho e nas necessidades do projeto.
+
+Como se Candidatar:
+Interessados devem enviar seu portfólio e currículo para fabiana.borges@lusitan.com.br com o assunto "Candidatura para Desenvolvedor Full Stack - Chatbot". No e-mail, inclua uma breve descrição de sua experiência relevante. Esconder
+
+
+**Design UX/UI para chatbot de saúde mental***
+
+Estamos procurando um designer UX/UI para o design de interface e experiência do usuário de um chatbot de saúde mental que combina psicologia e inteligência artificial para ajudar os usuários a narrar suas histórias. O candidato ideal terá experiência em design centrado no usuário, com habilidades comprovadas em criar interfaces intuitivas e visualmente atraentes.
+
+Responsabilidades:
+
+• Pesquisa e planejamento;
+• Criação de wireframes e prototipagem;
+• Design de interface de usuário (UI);
+• Experiência do usuário (UX);
+• Colaboração e iteração;
+• Testes e validação;
+
+Requisitos:
+
+• Experiência comprovada como designer UX/UI, preferencialmente com projetos de chatbots ou aplicativos de saúde mental.
+• Habilidade com Figma.
+• Conhecimento de princípios de design responsivo e acessibilidade.
+• Experiência em criar protótipos interativos e realizar testes de usabilidade.
+
+Diferenciais:
+
+• Experiência com plataformas de chatbot como Dialogflow, ManyChat ou Wysa.
+• Experiência em análise de dados e interpretação de métricas de uso.
+
+Interessados devem enviar seu portfólio e currículo com o assunto "Candidatura para Designer UX/UI - Chatbot". Esconder
+
+
+**App Flutter + integração com API do Google Gemini***
+
+Preciso de um programador Flutter com experiência em integração com a API do Google Gemini para a criação de um aplicativo mobile inovador no mercado.
+
+
+**Edição de imagens***
+
+Nosso Estúdio de Animação e Ilustração em São Paulo busca um assistente de edição de imagens freelancer para realizar trabalho remoto.
+
+Demanda:
+Auxiliar na edição e manipulação de imagens para diversos projetos, incluindo campanhas de marketing, animatics e storyboards.
+
+Requisitos:
+- Experiência em edição de imagens com softwares como Photoshop;
+- Conhecimento de técnicas de edição e manipulação de imagens;
+- Acesso ao Photoshop;
+- Estar disponível para a realização de um teste de edição.
+
+Diferenciais:
+- Interesse em ferramentas de IAs generativas;
+- Experiência em trabalhos publicitários e afins.
+
+Ao se candidatar, por favor, nos envie uma mensagem curta com seu portfólio. Esconder
+
+
+**Homem acima de 50 anos para uso de imagem com IA***
+
+Estamos em busca de um homem com mais de 50 anos, que possua uma aparência experiente e confiante, para participar de uma gravação de aproximadamente 3 minutos. O cenário para a gravação deve ser adequado e bem iluminado.
+
+Requisitos:
+
+• Idade: acima de 50 anos.
+• Aparência: experiente e confiável.
+• Ambiente: cenário bem iluminado e apropriado para gravação.
+
+Além disso, é necessário:
+
+• Autorização para uso da imagem no aplicativo de inteligência artificial Heygen.
+• Assinatura de um contrato de uso de imagem, garantindo segurança e confiança para ambas as partes.
+
+Observações:
+
+• O conteúdo será utilizado em campanhas promocionais fora do Brasil.
+• Não será utilizado em língua portuguesa, assegurando a privacidade do contratado.
+
+Interessados, por favor, entrem em contato para mais detalhes e para agendar uma conversa. Esconder
+
+
+**Edição de vídeo para canal dark***
+
+Estão abertas vagas para editores de conteúdo para nosso novo projeto no nicho de saúde e bem-estar.
+
+Estilo de canal dark.
+
+Duração de cada vídeo: De 16 a 20 minutos;
+
+Trabalho HOME OFFICE;
+
+Desejável computador com boa configuração;
+
+OBS. Temos alta demanda de produção de conteúdo na agência, se você se destacar terá muitas oportunidades!
+
+NÍVEL: Iniciante ou intermediário;
+
+Precisamos de editores comprometidos e com vontade de crescer.
+
+HABILIDADES DESEJADAS:
+
+- Conhecimento básico em software de edição;
+- Conhecimento básico em uso de máscaras de edição;
+
+DESCRIÇÃO DA EDIÇÃO DESEJADA:
+
+- Deverão ser utilizados arquivos (vídeos, fotos, imagens) de banco de dados;
+- Deverão ser utilizados arquivos (vídeos, fotos, imagens) gerados por inteligência artificial;
+- Todos esses arquivos deverão passar por um processo de edição básico com uso de máscara de edição para torná-los únicos na internet (ENSINO ESSE PROCESSO);
+- Deverão ser utilizadas trilhas sonoras condizentes ao conteúdo para gerar engajamento e imersão;
+- Adição de efeitos sonoros para melhor engajamento e imersão;
+- Adição de transições para melhor engajamento e imersão;
+- Inserção de textos destaques; Esconder
+
+
+**Vídeo com inteligência artificial***
+
+Vídeo criado com um ator gerado por inteligência artificial.
+
+Obs.: Mesmo ator, porém ambiente e roupa diferentes.
+
+Demanda:
+• 2 vídeos para site institucional de até 3 minutos
+• 2 vídeos curtos para redes sociais de até 30 segundos
+• 2 vídeos para landing page de até 5 minutos.
+
+Roteiro e narração serão desenvolvidos por nossa equipe e esses materiais serão repassados ao criador do vídeo posteriormente. Esconder
+
+
+**Criação de currículo, LinkedIn e aplicação de emprego (italiano)***
+
+Meu projeto é:
+
+Sou especialista em trabalho, empreendimento e investimentos na Itália.
+
+Eu tenho uma mentoria na qual eu elaboro:
+- Currículo formato europeu e em italiano (eu tenho um chatGPT treinado por mim para criar conforme os padrões, pode ser usado 100% em português e na hora da extração pedir para ele fazer em italiano). Após feito isso, é necessário copiar as informações e criar um modelo de currículo (no CANVA seria interessante).
+- Com o currículo pronto, eu tenho um agente GPT que cria descrições do LinkedIn com base nas informações do currículo. Será necessário criar o LinkedIn do cliente em italiano (sempre baseado em inteligência artificial).
+- Criar um e-mail para o cliente (em comum para você ter acesso).
+- Cadastrar nos sites de procura de emprego que eu vou te guiar.
+- Aplicar para vagas de acordo com o perfil do cliente.
+
+O responsável irá receber um formulário preenchido do cliente e terá o contato com o cliente para atualizações ou dúvidas.
+
+Hoje tenho demanda para 4h de trabalho por dia (part time), proponho um salário fixo.
+
+Não procuro tanta experiência e toda a formação será feita por mim, procuro alguém com disponibilidade e vontade de aprender.
+
+O conhecimento da língua italiana será um plus para a candidatura. Esconder
+
+
+**Narradora para uso em inteligência artificial***
+
+Olá,
+Somos da empresa FCB Saúde e estamos buscando uma narradora para os nossos cursos. Cada locução dura em média entre 5 a 10 minutos.
+Você pode nos enviar sua proposta por locução de roteiro ou por minutagem. Estamos abertos a negociação.
+
+Se possível, por favor anexar um arquivo mp3 com uma amostra da sua voz para que possamos avaliar.
+
+Sobre o projeto: Sua voz (narração de curso) será utilizada em inteligência artificial e mesclada com a imagem de uma atriz contratada por nós. A narração deverá ser feita dentro da sua própria residência/estúdio com seu próprio equipamento. Não é necessário editar o material, porém necessitamos do áudio limpo, sem interferências. Serão solicitados 4 narrações mensais, porém há grande probabilidade de aumentar a quantidade mensal.
+
+Sobre a empresa: Criamos cursos na área da saúde e disponibilizamos em plataforma fechada e-learning para trabalhadores de organizações sociais, hospitais e clínicas da rede pública.
+
+Já publicamos outro projeto similar, porém ocorreram modificações. Caso tenha interesse, participe novamente colocando um pequeno trecho de áudio.
+
+Muito obrigado e boa sorte! Esconder
+
+
+**FaceDetect e inteligência artificial (imagens generativas)***
+
+A empresa visa transformar a gestão de fotografia de eventos com uma plataforma que facilita o acesso rápido e eficiente às fotos dos participantes, melhorando a experiência do usuário e aumentando o engajamento nas redes sociais.
+
+Tecnologias utilizadas:
+• Banco de dados: MongoDB
+• Frontend: Next.js
+• Backend: Node com Express
+• Serviços AWS (S3, EC2)
+
+Escopo do trabalho:
+
+Principais focos:
+
+- FaceDetect
+Implementar detecção facial para agrupar fotos por pessoa.
+Criar galerias exclusivas para usuários com login e senha, onde suas fotos serão automaticamente adicionadas.
+Desenvolver uma área de personalização das galerias, permitindo a troca de cores de componentes e logotipo.
+Desenvolver um sistema de busca de fotos por detecção facial, onde a pessoa sobe uma foto e o sistema encontra as imagens dela.
+
+- Inteligência artificial
+Adicionar funcionalidades para edição de fotos via prompt, como mudar roupas ou aplicar estilos específicos.
+
+- Cliente desktop
+Desenvolver um aplicativo executável para MAC/Windows que monitore uma pasta e faça upload automático das fotos para a plataforma.
+
+Pequenos ajustes:
+
+- Ajustes no dashboard funcional:
+Finalizar o backend para tornar o dashboard totalmente operacional, conectando os gráficos aos dados.
+
+- Ajustes na galeria em looping
+Implementar uma funcionalidade de looping na galeria para atualização contínua com novas imagens. Revisar e ajustar a entrega do desenvolvedor atual.
+
+- Ajustes na página de uploads:
+Melhorias na experiência do usuário (UX) na página de upload de fotos.
+
+- Ajustes no sistema de permissões de usuário
+Implementar diferentes níveis de acesso (donos de agências, produtores, fornecedores). Melhorar a entrega do desenvolvedor atual.
+
+- Ajustes no sistema de login e cadastro de usuários
+Finalizar funcionalidades de login, cadastro, recuperação de senha, login social e cadastro em massa por upload de planilha padrão (Excel modelo). Melhorar a entrega do desenvolvedor atual.
+
+- Ajustes no gerenciamento de empresas e eventos
+Adicionar funcionalidades para editar e deletar empresas e eventos, além de mostrar o status do evento e implementar um sistema de ordenação de tabela.
+
+Requisitos:
+
+Experiência comprovada em desenvolvimento web (frontend e backend).
+
+Conhecimentos em banco de dados e integração de APIs.
+
+Habilidades em desenvolvimento de aplicações desktop (preferencialmente para MAC/Windows).
+
+Familiaridade com tecnologias de detecção facial e inteligência artificial.
+
+Boa comunicação.
+
+Conhecimento essencial em MongoDB, Next.js, Node.js com Express e AWS (S3, EC2). Esconder
+
+
+**Desenvolvedor para atuação sob demanda***
+
+Olá, somos uma startup em momento de crescimento com a nossa plataforma já validada e em operação. Fazemos parte de dois grandes programas de aceleração: Startup, Microsoft e Sebrae for Startup. Estamos em busca de um desenvolvedor Jr. freelancer para atuar na V3Connect, nossa plataforma de integração e atendimento digital. A plataforma já está pronta e operacional, mas precisamos de melhorias contínuas. Esta é uma oportunidade de trabalhar em projetos desafiadores e ganhar experiência valiosa no desenvolvimento de integrações de API, melhorias visuais e outras integrações.
+
+Sobre a vaga:
+
+Projetos: Integração de API, melhorias visuais da plataforma e outras integrações e funcionalidades conforme demanda.
+Atuação: Trabalho sob demanda ao longo do mês.
+Treinamento e Acompanhamento: Estrutura completa para desenvolvimento dos projetos, com treinamento e acompanhamento direto do nosso CTO.
+Plano de Crescimento.
+Remuneração fixa por hora. Esconder
+
+
+**Contratação de roteirista para documentário***
+
+Briefing para contratação de roteirista para documentário
+
+• Introdução
+Nós estamos desenvolvendo um documentário intitulado "Raízes da Educação Triunfense". Este documentário tem como objetivo contar a história de vida do Professor Sebastião Antunes Ferreira e a trajetória da Escola Municipal que carrega seu nome. Estamos à procura de um roteirista talentoso para nos ajudar a criar um roteiro envolvente e humanizado, com duração mínima de 10 minutos, que integre as imagens e vídeos disponíveis de maneira eficaz.
+
+• Objetivo do documentário
+O objetivo do documentário é homenagear e celebrar o legado de Sebastião Antunes Ferreira, destacando sua dedicação à educação e a importância da Escola Municipal Sebastião Antunes Ferreira na comunidade de São João do Triunfo. Queremos que o público se inspire na história de Sebastião e valorize a educação como um meio de transformação social.
+
+• Público-alvo
+Nosso público-alvo inclui:
+
+- Alunos e ex-alunos da Escola Municipal Sebastião Antunes Ferreira.
+- Comunidade local de São João do Triunfo.
+- Educadores e profissionais da área de educação.
+- Público em geral interessado em histórias inspiradoras e educação.
+
+• Estrutura e formato
+O documentário será estruturado em uma linha do tempo, abrangendo:
+
+- O nascimento e a infância de Sebastião Antunes Ferreira.
+- A formação e a carreira inicial de Sebastião na educação.
+- A construção da Escola Municipal Sebastião Antunes Ferreira e sua evolução ao longo dos anos.
+- Os dias atuais da escola e seus projetos futuros.
+- Informações sobre a família de Sebastião, incluindo os nomes e as datas de nascimento dos filhos. A duração total mínima estimada é de 10 minutos. O documentário incluirá:
+
+- Narração por uma criança, intercalando com as imagens e vídeos.
+- Entrevistas com familiares e membros da comunidade.
+- Animações para ilustrar momentos chave da vida de Sebastião (cerca de 2 minutos).
+- Uso de fotos e vídeos existentes.
+
+• Estilo e tom
+O tom do documentário deve ser emotivo, inspirador e educativo. Queremos transmitir a paixão de Sebastião pela educação e o impacto duradouro de seu trabalho na comunidade. O estilo incluirá narração de uma criança, entrevistas, animações curtas, e uso de imagens e vídeos existentes.
+
+• Pesquisa e conteúdo
+Temos à disposição:
+
+- Um roteiro inicial desenvolvido através de inteligência artificial.
+- Algumas fotos e vídeos, incluindo um vídeo de atividades realizadas no aniversário da escola.
+- Documentos, incluindo um TCC sobre a vida de Sebastião Antunes Ferreira.
+- Plano de incluir perguntas feitas pelos alunos à filha de Sebastião, com filmagens na escola e em casa. Esconder
+
+
+**Automação de atendimento e integração de CRM no Wordpress***
+
+Criar um site em WordPress para uma imobiliária com o propósito de apresentar a empresa, demonstrar os produtos e divulgar as formas de contato com a empresa. O site deverá ter um filtro para busca do imóvel e um blog integrado com SEO bem desenvolvido.
+
+Precisamos de criar automação de atendimento por WhatsApp com IA e integrar essa automação a um CRM como HubSpot ou RD Station. Esconder
+
+
+**Sistema de controle de carregamento com visão computacional***
+
+Estamos em busca de um profissional qualificado para desenvolver um sistema automatizado de controle de carregamento de caminhões utilizando câmeras e inteligência artificial. O sistema deve ser capaz de identificar, monitorar e registrar o carregamento de mercadorias em tempo real, garantindo precisão e eficiência no processo logístico.
+
+Responsabilidades:
+• Orientar a configuração e especificação das câmeras de alta resolução nas áreas de carregamento e plataformas do armazém.
+• Desenvolver um modelo de visão computacional para detectar e classificar diferentes tipos de mercadorias, contêineres e caminhões.
+• Implementar algoritmos de rastreamento para acompanhar o movimento dos itens do estoque para o caminhão.
+• Integrar o sistema de visão computacional com o software de gerenciamento de estoque existente, atualizando automaticamente os registros conforme os itens são carregados.
+• Monitorar o processo de carregamento para identificar e alertar sobre irregularidades ou riscos de acidente.
+• Realizar testes e ajustes para garantir a precisão e eficiência do sistema.
+
+Requisitos:
+• Experiência comprovada em desenvolvimento de soluções de visão computacional utilizando frameworks como TensorFlow, PyTorch, OpenCV, etc.
+• Conhecimento em algoritmos de detecção de objetos (YOLO, SSD, Faster R-CNN, etc.) e rastreamento (DeepSORT, entre outros).
+• Experiência em integração de sistemas e APIs.
+• Habilidade em programar em Python ou outra linguagem relevante para inteligência artificial e visão computacional.
+• Experiência com instalação e configuração de câmeras de segurança é um diferencial.
+• Capacidade de trabalhar de forma independente e entregar soluções de alta qualidade dentro do prazo.
+
+Desejável:
+• Formação em Engenharia de Computação, Ciência da Computação, Engenharia Elétrica ou áreas relacionadas.
+• Experiência anterior em projetos semelhantes na área de logística e automação. Esconder
+
+
+**Vídeos criativos com inteligência artificial***
+
+Tenho exemplos do projeto, preciso de alguém que coloque um vídeo que eu tenho aqui para falar com IA, entre outras palavras...
+
+
+**Criar inteligência artificial para jogos de cassino online***
+
+Preciso que crie uma IA para auxiliar na assertividade nas jogadas em cassinos online, como no Football Studio, Mines, Dragon, Tigres.
+
+
+**Criar agente de inteligência artificial + integração de código***
+
+Busco alguém para orientar/fazer/ou consultoria na parte de criação de agente de IA.
+
+Sem apps tercerizados.
+Buscamos elaborar a criação interna e treinamento da IA.
+

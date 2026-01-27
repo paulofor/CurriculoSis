@@ -1,0 +1,214 @@
+[Oportunidade 1]
+Oportunidade: Cientista de Dados Pleno | A&E
+
+Sobre a vaga
+Sobre o Picpay:
+
+Com mais de dez anos de história, o PicPay é uma empresa de tecnologia que oferece um portfólio completo de serviços financeiros para facilitar a relação com dinheiro e ser a principal conta do dia a dia de milhares de pessoas e empresas.
+
+Fundada em Vitória (ES), a empresa tem mais de 30 milhões de usuários ativos e faz parte do grupo J&F, um dos maiores conglomerados empresariais do Brasil.
+
+Nossa cultura é nosso alicerce e nossa força. Conheça nossos valores: Atitude de Dono(a), Disciplina, Determinação, Disponibilidade, Simplicidade, Humildade e Franqueza.
+
+O respeito, a ética e a busca pela equidade são elementos inegociáveis e fazem parte da prática no nosso dia a dia aqui no PicPay. Por isso, esta vaga está aberta para todas as pessoas, independente de gênero, religião, etnia, deficiência, idade, orientação sexual ou qualquer outro fator.
+
+Sobre a vaga:
+
+Nosso crescimento acelerado atraiu milhões de usuários ativos no trimestre dentro do PicPay. A BU de Audiências e Ecossistema PJ surgiu para potencializar a monetização de audiências, os serviços financeiros para PJ e a integração entre os universos PF e PJ.
+
+O Time de Dados é um dos pilares fundamentais desse contexto. Assim, buscamos por uma pessoa Cientista de Dados para integrar o time! Essa pessoa construirá modelos de machine learning que vão para produção, participará da construção de produtos de dados, e contribuirá para discussões tanto de dia-a-dia quanto estratégicas. Procuramos alguém que busque crescer junto com o PicPay!
+
+Responsabilidades e atribuições:
+
+Desenvolver e implementar algoritmos de ML, como recomendações personalizadas, utilizando técnicas avançadas de aprendizado de máquina e ferramentas de big data;
+Colaborar com equipes multidisciplinares para entender as necessidades do produto e traduzi-las em soluções de recomendação eficazes;
+Avaliar continuamente o desempenho dos sistemas de ML e propor melhorias para otimizar a relevância e a precisão dos mesmos;
+Fornecer orientação técnica e liderança para outros membros da equipe de ciência de dados, promovendo boas práticas e compartilhando conhecimento;
+Realizar análises para identificar insights relevantes e padrões de comportamento dos usuários;
+Colaborar com outras pessoas técnicas, como engenharia de software e infraestrutura, para garantir a integração eficiente dos sistemas de ML com a arquitetura existente. 
+
+Requisitos e qualificações:
+
+Experiência sólida em ciência de dados, com foco em ML em produção;
+Profundo conhecimento em técnicas de aprendizado de máquina, como filtragem colaborativa, content-based, clustering, redes neurais, e outras abordagens;
+Experiência prática com ferramentas e frameworks de ciência de dados, como Python, XGBoost, CatBoost, TensorFlow, PyTorch, entre outros;
+Familiaridade com processamento big data e ambientes de computação distribuída, como Spark, Hadoopou similares;
+Excelentes habilidades analíticas e capacidade de traduzir insights complexos em recomendações acionáveis;
+Forte capacidade de comunicação e trabalho em equipe, com habilidade para colaborar efetivamente com diferentes stakeholders.
+
+Será um diferencial se você tiver:
+
+Experiência com sistemas e algoritmos de recomendação;
+Formação acadêmica relevante em Ciência da Computação, Engenharia, Matemática ou área relacionada;
+Experiência em lidar com dados financeiros: Conhecimento e experiência em lidar com dados financeiros, incluindo processamento de transações, segurança de dados e privacidade;
+Participação em projetos open source.
+
+O que oferecemos:
+
+Saúde e Bem-estar: Além de Assistência Médica e Odontológica, oferecemos Seguro de Vida e o Lado a Lado, um programa que cuida de você e seus familiares, com apoio jurídico, social, psicológico e financeiro.
+
+E claro, não podemos esquecer da nossa parceria com a Totalpass.
+
+Alimentação/Teletrabalho: Por meio do nosso cartão de crédito PicPay Benefícios, com ampla aceitação, você recebe seu saldo de Alimentação/Refeição e Teletrabalho (de acordo com o seu contrato de trabalho).
+
+Licença Paternidade e Maternidade: Sabemos que esse é um momento especial para uma família, e por isso oferecemos Licença Maternidade estendida de 6 meses, e de Paternidade também estendida de 20 dias. Além disso, nossas mamães PicPay Lovers são acompanhadas pelo programa "Novo Ser", durante toda a gestação e no retorno da licença. Falando nisso, ao retornar da licença maternidade, as mamães ainda contam com a ajuda do Auxílio Creche e também os papais que possuem guarda unilateral ou compartilhada.
+
+Reconhecemos resultados: PPR- Participação nos Resultados do PicPay.
+
+#VemserPicpayLover #Picpay
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Architect
+
+Sobre a vaga
+Company Overview:
+ Lean Tech is a rapidly expanding organization situated in Medellín, Colombia. We pride ourselves on possessing one of the most influential networks within software development and IT services for the entertainment, financial, and logistics sectors. Our corporate projections offer many opportunities for professionals to elevate their careers and experience substantial growth. Joining our team means engaging with expansive engineering teams across Latin America and the United States, contributing to cutting-edge developments in multiple industries.
+ Currently, we are seeking a Senior Data Architect with a strong English level to join our team. Here are the challenges that our next warrior will face and the requirements we look for: 
+ Position Title: Senior Data Architect
+ Location: Remote - LATAM
+ What you will be doing:
+ We are seeking a highly experienced Senior Data Architect. This role is critical in ensuring the seamless operation and optimization of their cloud and data warehouse environments. Your responsibilities will include: 
+  Lead the design, implementation, and management of cloud architecture solutions, primarily utilizing Azure and Snowflake
+Oversee the migration and optimization of data warehouses, ensuring high performance, scalability, and reliability
+Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions
+Provide expert guidance and support in troubleshooting and resolving complex issues related to cloud and data warehouse infrastructure
+Develop and implement best practices for data management, security, and governance. Continuously evaluate emerging technologies and integrate them into the architecture to enhance performance and cost-efficiency
+
+
+Requirements & QualificationsTo excel in this role, you should possess:
+Bachelor's or Master's degree in Computer Science, Information Technology, or a related field
+Relevant certifications in cloud architecture and data warehouse technologies (e.g., Azure Solutions Architect Expert, Snowflake SnowPro)
+Minimum of 10 years of experience in cloud architecture and data warehouse management
+Expert-level skills in Azure, with a proven track record of designing and implementing large-scale data warehouse solutions
+Extensive experience in building and migrating data warehouses, with a deep understanding of the associated challenges and best practices
+Knowledge of data integration tools such as Talend, Informatica, or Azure Data Factory
+Familiarity with DevOps practices and tools for continuous integration and delivery
+Strong problem-solving skills and the ability to work under pressure to meet tight deadlines
+Exceptional communication skills, with the ability to articulate complex technical concepts to non-technical stakeholders
+
+
+Why you will love Lean Tech:
+  Join a powerful tech workforce and help us change the world through technology
+Professional development opportunities with international customers
+Collaborative work environment
+Career path and mentorship programs that will lead to new levels. 
+
+
+Join Lean Tech and contribute to shaping the data landscape within a dynamic and growing organization. Your skills will be honed, and your contributions will be vital to our continued success. Lean Tech is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+ 
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Machine Learning Engineer
+
+Sobre a vaga
+No software farms and no part-time jobs at the moment. We build our software in-house.
+
+Looking for a Machine Learning Engineer with interest in product. As we are an early-stage startup, the range of projects is quite broad, so fluency and willingness to go across the stack to solve problems are a big plus. Experience with system design is also a plus.
+
+Minimum qualifications:
+Fluency in Python
+Experience with System Design
+Fluency in English
+Experience building production machine learning systems
+Experience with Machine Learning Research
+Experience creating backend systems in Python
+
+Projects include:
+Developing and Serving Machine Learning models
+Optimizing ML models i.e. fine-tuning, prompt engineering
+Data preparation and cleaning
+Maintaining our Python backend
+
+At Findly, we created a culture where developers have complete ownership of the projects and tools they build, from prototyping to deploying it on prod.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Coordenador(a) de Engenharia de Dados
+
+Sobre a vaga
+Quais são os desafios da área e do cargo:
+A área de Digital do Grupo Fleury desempenha um papel crucial na identificação das necessidades dos usuários e das áreas de negócios, mapeando a experiência, e na construção e sustentação de produtos digitais alinhados à jornada do usuário. Além disso, atua como facilitadora na adoção de inovações nos serviços digitais para fortalecer a presença da marca na vida dos clientes.
+
+A pessoa que assumir essa posição será responsável por criar soluções baseadas na modelagem de quaisquer estruturas de dados, explorando técnicas atuais para construção de robustos modelos de dados que apoiem os analistas e cientistas no desenvolvimento de projetos. Modelar problemas complexos, definir requisitos de sistema e garantir a qualidade e integridade dos dados.
+
+Principais atividades:
+Gerir, mentorar e guiar engenheiros de dados juniores, plenos e seniors.
+Garantir padronização técnica e qualidade dos dados produzido pelos squads.
+Assegurar alinhamento entre entregas técnicas de múltiplos squads, utilizando framework ágil escalado nas entregas;
+Avaliar e incorporar novas tecnologias e metodologias.
+Mentorar e guiar engenheiros de dados juniores, plenos e seniors.
+Definir estratégias de engenharia de dados e moldar a direção técnica.
+Resolver desafios excepcionalmente complexos e inovadores.
+Estabelecer parcerias estratégicas e liderar iniciativas de pesquisa.
+Fomentar a disseminação do conhecimento em engenharia de dados na empresa e na comunidade.
+Revisar a documentação de todo o processo parametrizado em sistema, para evitar perda de conhecimento.
+Elaborar relatórios gerenciais e apresentar para stakeholders.
+
+Buscamos um profissional que apresente: 
+Necessário graduação completa;
+Necessário experiência na liderança de squads como Tech Leader;
+Necessário experiência em ferramenta de ETL (SSIS, Integration Services) e domínio na criação e deploy de pipeline de dados;
+Necessário experiência em bancos de dados relacional, DW, DATALAKE. Domínio em modelagem de dados dimensional;
+Necessário experiência em Databricks;
+Necessário experiência em Cloud (GCP, AWS e AZURE). Experiência em criação e manutenção de pipelines de dados via código. Monitoramento dos valores e serviços implementados;
+Necessário experiência em linguagens de programação (Python), domínio na criação de API's e transformação de dados;
+Necessário experiência em SQL server;
+
+O que esperamos? 
+Nossa essência inspira nosso dia a dia, por isso, buscamos um profissional alinhado ao propósito de cuidar das pessoas;
+Alguém que zele por cuidado e empatia durante toda a jornada, trazendo o cliente sempre para o centro das ações, buscando a excelência; que lidere com empatia e construa relações de confiança, perfil colaborativo e interdependente, e que tenha bom nível de comunicação
+Desejo de aprender, valorização do trabalho em equipe e troca de conhecimento.
+
+Modelo de Trabalho:
+Modelo de trabalho: Remoto
+Carga horária mensal: 220 horas
+Horários: 08h00 às 17h48
+
+O que oferecemos:
+🩺 Assistência Médica;
+🦷 Assistência odontológica;
+🛒 Vale alimentação;
+🍽️ Vale refeição;
+🏫 Auxílio creche;
+🏥 Seguro de vida;
+💪 Gympass;
+💰 Participação nos Lucros;
+📄 Previdência privada;
+🧬 Benefícios exclusivos para promover a saúde e bem-estar dos colaboradores e seus dependentes.
+
+Trabalhamos para promover a cultura inclusiva que busca a equidade e valoriza as diferenças.
+Para conhecer mais sobre o Grupo Fleury, acesse o site: http://www.grupofleury.com.br
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de dados PL
+
+Sobre a vaga
+Estamos contratando!
+
+Engenheiro de Dados PL
+
+100% Home Office
+
+Responsabilidade e atribuições
+
+Criar e manter estruturas de data pipeline com performance otimizada.
+Montar estruturas de dados escaláveis que atendam requisitos funcionais e não funcionais de negócios.
+Automatizar processos manuais, otimizar data deliveries e redesenhar a infraestrutura para melhor performance.
+Construir a infraestrutura necessária para extração, transformação e carga de dados oriundos de diversas fontes utilizando SQL e outras linguagens de dados.
+Construir ferramentas analíticas que tratem os dados gerados através dos data pipelines para aquisição de clientes, excelência operacional e outras métricas que gerem insights valiosos para o negócio.
+Atuar junto aos stakeholders executivos, de Produtos e outras áreas para fornecer uma infraestrutura de dados que suportem suas necessidades relacionados a dados e informações.
+Documentar os procedimentos e fluxos de dados da área.
+Implementar sistemas e rotinas que monitorem e garantam a qualidade e a consistência das nossas bases de dados.
+Atuar como Quality Assurance em entregas de estruturas desenvolvidas por outros integrantes do time.
+
+Requisitos e Qualificações
+
+Superior em Engenharia da Computação, Sistemas de Informação ou áreas correlatas.
+Experiência com SQL para trabalhar com bases relacionais e construção de queries.
+ Experiência em AWS Redshift.
+Atuação com diferentes tipos Banco de Dados.
+Experiência com Python para construir e manter os pipelines existentes.
+Conhecimento em Airflow, infraestrutura e controle de Dags.
+Experiência com construção e otimização de data pipelines e arquitetura de dados.
+Conhecimento em Power BI.Experiência com condução de análises de causa raiz em processos de dados internos e externos para responder questões específicas de negócio e identificar oportunidades de melhoria.
+Conhecimento em tecnologias como Jenkins e Git.
+-----------------------------------------------------------------------------------

@@ -1,0 +1,267 @@
+[Oportunidade 1]
+Oportunidade: Profissional de Engenharia de Dados Pleno
+
+Sobre a vaga
+Job Description
+
+A primeira coisa que você precisa saber é que aqui você não vai cair na rotina. A Radix desenvolve soluções para empresas de diferentes setores e indústrias. Cada projeto tem suas tecnologias, soluções e prazos e você terá oportunidade de atuar e experimentar diferentes desafios. Além da nossa atuação pelo Brasil, com escritório no Rio de janeiro, São Paulo e Belo Horizonte, temos também filiais nos Estados Unidos, fazendo com que a Radix se consolide cada vez mais como uma empresa global.
+
+Quer fazer parte dessa história e transformar ideias e sonhos em realidade?
+
+#VemPraRadix
+
+Responsibilities and assignments
+
+Buscamos pessoas que queiram somar e fazer parte de um ecossistema que leva inovação, tecnologia e soluções para os mais diversos segmentos do mercado. Por aqui, os desafios são constantes e você não vai cair na rotina, .
+
+Como Engenheiro de Dados você irá:
+
+ Projetar e implementar pipelines de dados para coleta, limpeza, transformação e armazenamento de grandes volumes de informações.
+ Desenvolver e manter infraestrutura de dados escalável e eficiente.
+ Colaborar com equipes de análise e negócios para entender requisitos e necessidades de dados.
+ Identificar e resolver problemas de desempenho e qualidade de dados.
+ Garantir a conformidade com regulamentações de privacidade e segurança de dados.
+
+Requirements And Qualifications
+
+Para essa vaga, você deve ter:
+
+Conhecimento em padrões e arquitetura de dados utilizando linguagens de programação e ferramentas como:
+
+Python
+Apache Spark ou Hadoop
+Apache Airflow
+Azure DataFactory
+Azure Databricks
+Azure Stream Analytics
+Azure Blob Storage
+
+É um diferencial se você tiver:
+
+Certificação em Arquitetura de Dados Microsoft
+
+Detalhes da vaga:
+
+ Modelo de trabalho: CLT
+ Regime de contratação: Remoto
+
+Additional information
+
+Benefícios: 
+
+ Plano de Saúde + Odontológico
+ Programa de Qualidade de Vida e Bem-Estar
+ Gympass (+3 dependentes)
+ Auxílio creche para filhos de até 3 anos
+ Licença maternidade e paternidade estendidas
+ Auxílio home office
+ VR e/ou VA
+ Day off de aniversário
+ Universidade Corporativa
+ Convênio com instituições de ensino e cursos de idioma
+ Desenvolvimento Profissional (Universidade Corporativa)
+ Plano de Incentivos atrelado à avaliação de Desempenho.
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: Análise de currículo2Análise de currículo
+Step 3: Entrevista com Gente e Gestão3Entrevista com Gente e Gestão
+Step 4: Entrevista com o Gestor da Vaga4Entrevista com o Gestor da Vaga
+Step 5: Carta Proposta5Carta Proposta
+Step 6: Hiring6Hiring
+
+Uma empresa global, movida à inovação e desafios 🚀
+
+Presente em mais de 25 países, a Radix conecta pessoas, oportunidades, projetos e negócios no mundo todo. Nós criamos e transformamos conhecimento em resultados.
+
+Com times multidisciplinares e forte atuação em Engenharia, Automação, Desenvolvimento de Software e Produtos, TI Industrial e Consultoria, oferecemos serviços e soluções tecnológicas atendendo os mais variados setores da indústria.
+
+Desde a nossa fundação, em 2010, estamos na lista das Melhores Empresas para se trabalhar no Rio de Janeiro, no Brasil e na América Latina. Aqui, a gente investe em criatividade, diversidade, capacitação e desenvolvimento de carreira. Quando um radixer cresce, nós crescemos também e, juntos, dobramos de tamanho nos últimos dois anos.
+
+A rotina da Radix é dinâmica, colaborativa e Everywhere, com profissionais atuando de 23 estados do Brasil, além de Estados Unidos, Europa e Asia. Nosso modelo de trabalho possibilita o equilíbrio para pessoas que estão sempre em movimento, gostam de liberdade e vivem a tecnologia e a inovação sem fronteiras.
+
+Somos inquietos, entusiastas da mudança e abraçamos a transformação sem perder os valores que guiam nossa trajetória: relações de longo prazo, foco nas pessoas, ética, agilidade e comprometimento.
+
+Vem com a gente se conectar ao seu futuro, #VemSerRadix.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Artificial Intelligence Trainer
+
+Sobre a vaga
+The Role: Combining Writing Expertise with AI Innovation 
+● Develop AI Training Content: Create detailed prompts and responses to guide AI learning, ensuring the models reflect a comprehensive understanding of various topics.
+● Optimize AI Performance: Evaluate and rank AI responses to enhance the model's accuracy in various contexts.
+● Ensure Model Integrity: Test AI models for potential inaccuracies or biases, validating their applicability in the respective domains.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Especialista em Inteligência Artificial
+
+Sobre a vaga
+BIREME/OPAS está iniciando um projeto para desenvolver uma biblioteca digital de ponta que aproveite os mais recentes avanços em transformação digital, Indústria 4.0 e inteligência artificial. A nova biblioteca digital visa fornecer uma plataforma intuitiva, envolvente e centrada no usuário que melhore o acesso à informação e apoie a aprendizagem ao longo da vida. Para alcançar isso, buscamos um desenvolvedor de carreira intermediária, com forte formação técnica e experiência na implementação de soluções digitais para sistemas de informação em larga escala.
+O objetivo principal desta posição é projetar, desenvolver e implementar soluções digitais que materializem a visão da nova biblioteca digital. O desenvolvedor trabalhará em estreita colaboração com equipes multifuncionais para garantir a entrega bem-sucedida de uma plataforma de biblioteca digital robusta, escalável e amigável.
+
+Responsabilidades:
+1. Projetar, desenvolver e manter a infraestrutura de software da biblioteca digital:
+Escrever código limpo, eficiente e bem documentado usando linguagens de programação como Python, Java, C++ e JavaScript.
+Utilizar frameworks e ferramentas de desenvolvimento de software como Django, React, Angular e Node.js.
+2. Gestão de Dados e Análise:
+Implementar soluções de análise de dados, mineração de dados e visualização de dados.
+Desenvolver e manter motores de busca alimentados por IA e sistemas de marcação de metadados.
+Utilizar análises de big data para obter insights sobre o comportamento do usuário e otimizar os serviços da biblioteca.
+3. Integração de Aprendizado de Máquina e IA:
+Integrar algoritmos de aprendizado de máquina, processamento de linguagem natural (NLP) e visão computacional na biblioteca digital - Desenvolver ferramentas impulsionadas por IA para recomendações de conteúdo personalizadas, caminhos de aprendizagem adaptativos e melhorias de acessibilidade. 
+4. Computação em Nuvem e Gestão de Infraestrutura:
+Implementar soluções de computação em nuvem escaláveis usando plataformas como AWS, Microsoft Azure e Google Cloud Platform.
+Gerenciar a infraestrutura em nuvem para garantir alta disponibilidade, desempenho e segurança.
+Otimizar o uso de recursos e melhorar o desempenho do sistema usando ferramentas de gestão de infraestrutura impulsionadas por IA.
+5. Design de Experiência do Usuário (UX) e Interface do Usuário (UI):
+Colaborar com designers de UX/UI para criar interfaces intuitivas e envolventes.
+Implementar princípios de design responsivo para garantir acesso contínuo em todos os dispositivos.
+Melhorar a navegação, funcionalidades de busca e a experiência geral do usuário. 
+6. Colaboração e Interoperabilidade:
+Desenvolver e integrar APIs para troca de dados sem interrupções com outras plataformas.
+Implementar ferramentas e plataformas colaborativas para apoiar atividades de pesquisa e aprendizagem.
+Garantir a interoperabilidade com sistemas existentes e a conformidade com os padrões da indústria.
+7. Preservação Digital e Sustentabilidade:
+Implementar técnicas automatizadas de preservação digital para proteger ativos digitais.
+Adotar práticas sustentáveis no armazenamento e gestão de dados.
+Garantir conformidade com regulamentos de proteção de dados e padrões éticos.
+
+Habilidades: 
+Proficiência em linguagens de programação como Python, Java, C++ e JavaScript.
+Fortes habilidades em análise de dados, aprendizado de máquina, processamento de linguagem natural e frameworks de IA.
+Experiência com plataformas de computação em nuvem e gestão de infraestrutura.
+Conhecimento de tecnologias de desenvolvimento web e gestão de banco de dados.
+
+Educação: Bacharelado ou mestrado em Ciência da Computação, Engenharia de Software, Ciência de Dados, Tecnologia da Informação ou área relacionada.
+
+Experiência: Mínimo de 5 anos de experiência em desenvolvimento de software, gestão de dados ou funções relacionadas. Experiência comprovada em desenvolver e implantar aplicações web em larga escala ou plataformas digitais. Desejável experiência anterior em sistemas de bibliotecas, repositórios digitais ou projetos de tecnologia educacional é uma vantagem.
+
+Idiomas: Conhecimentos de língua espanhola e inglesa
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+Quais serão suas responsabilidades?
+
+Busca de insights de negócio intrínsecos dentro dos dados usando técnicas de advanced analytics e estatística;
+Construir e otimizar análises usando técnicas de ML e IA;
+Realizar mineração de dados usando métodos estatísticos;
+Aprimorar procedimentos de preparação de dados par incluir informações relevantes para a construção de sistemas analíticos;
+Realizar analises e apresentar resultados.
+
+O que é necessário para participar desse processo seletivo?
+
+Habilidade em análise quantitativa e gerenciamento de dados;
+Capaz de examinar dados relevantes e desenvolver rapidamente um plano de análise que responda às principais questões de negócio e crie valor para o cliente;
+Experiência com a plataforma cloud AWS;
+Domínio na linguagem Python, Desejável Spark, PySpark e R;
+Databricks;
+Conhecimento em estatística e matemática;
+Experiência com modelos de score para ciclo de crédito( concessão, manutenção, recuperação);
+Capacidade de interação com as áreas de negócio para conseguir traduzir às necessidades em modelos estáticos e insights.
+
+Por que fazer parte do time DBC Company?
+
+ Somos a 17ª melhor empresa para trabalhar do Brasil e a 4ª melhor empresa para trabalhar no Rio Grande do Sul, segundo o GPTW 2023;
+ Todos os profissionais que estão alocados em clientes e/ou projetos são acompanhados por Gestor da DBC e também por Líder de Smartsourcing;
+ A DBC oferece incentivo a certificações a todos os colaboradores.
+
+O que é importante saber?
+
+Nosso time promove um ambiente seguro para todas as pessoas profissionais independente de sua etnia, crença religiosa, orientação sexual, identidade de gênero, deficiência, idade etc.;
+Oportunidade 100% home office.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Research Engineer
+
+Sobre a vaga
+Do you love creating innovative solutions for customers? 
+
+Thomson Reuters Labs is looking to set up a new Lab in São Paulo. We are seeking a passionate Senior Research Engineer who will bring expertise in AI and ML and is interested in building data-driven capabilities that drive transformation. As a member of Thomson Reuters Labs in São Paulo, you will have a direct impact on our company by helping to create new and innovative capabilities that will delight our customers. 
+
+What does Thomson Reuters Labs do?
+
+We experiment, we build, we deliver. We support the organization and our customers through applied research and the development of new products and technologies. TR Labs innovates collaboratively across our core segments in Legal, Tax & Accounting, Government, and Reuters News. 
+
+As a Senior Research Engineer at Thomson Reuters Labs, you will be part of a global interdisciplinary team of experts. We hire engineers and specialists across a variety of AI research areas to drive the company’s digital transformation.  The science and engineering of AI are rapidly evolving.  We are looking for an adaptable learner who can think in code and likes to learn and develop new skills as they are needed; someone comfortable with jumping into new problem spaces. 
+
+Is this you? Come join us! 
+
+About The Role 
+
+In this opportunity as a Senior Research Engineer, you will: 
+
+Develop and Deliver: Applying modern software development practices, you will be involved in the entire software development lifecycle, building, testing and delivering high-quality solutions. 
+Build Scalable ML Solutions: You will create large scale data processing pipelines to help researchers build and train novel machine learning algorithms.  You will develop high performing scalable systems in the context of large online delivery environments. 
+Be a Team Player: Working in a collaborative team-oriented environment, you will share information, value diverse ideas, partner with cross-functional and remote teams. 
+Be an Agile Person:  With a strong sense of urgency and a desire to work in a fast-paced, dynamic environment, you will deliver timely solutions. 
+Be Innovative: You are empowered to try new approaches and learn new technologies. You will contribute innovative ideas, create solutions, and be accountable for end-to-end deliveries. 
+Be an Effective Communicator: Through dynamic engagement and communication with cross-functional partners and team members, you will effectively articulate ideas and collaborate on technical developments. 
+
+
+About You 
+
+Essential skills & experience 
+
+Have a Bachelor of Science degree, computer science or related field 
+At least 5 years software engineering experience, ideally in the context of machine learning and natural language processing 
+Fluent English
+Are skilled and have a deep understanding of Python software development stacks and ecosystems, experience with other programming languages and ecosystems is ideal. 
+Can understand, apply, integrate and deploy Machine Learning capabilities and techniques into other systems. 
+Are familiar with the Python data science stack through exposure to libraries such as Numpy, Scipy, Pandas, Dask, spaCy, NLTK, scikit-learn 
+Take pride in writing clean, reusable, maintainable and well-tested code 
+Have a desire to learn and embrace new and emerging technology 
+Are familiar with probabilistic models and have an understanding of the mathematical concepts underlying machine learning methods 
+
+
+ Preferred Skills & Experience 
+
+Experience integrating Machine Learning solutions into production-grade software and have an understanding of ModelOps and MLOps principles 
+Demonstrate proficiency in automation, system monitoring, and cloud-native applications, with familiarity in AWS or Azure (or a related cloud platform) 
+Had previous exposure to Natural Language Processing (NLP) problems and have familiarity with key tasks such as Named Entity Recognition (NER), Information Extraction, Information Retrieval, etc. 
+Can understand and translate between language and methodologies used both in research and engineering fields 
+Have been successfully taking and integrating Machine Learning solutions to production-grade software 
+Hands-on experience in other programming and scripting languages (Java, TypeScript, JavaScript, etc.) 
+
+
+What's in it For You?
+
+You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through:
+
+Hybrid Work Model: We've adopted a flexible hybrid working environment for our office-based roles while delivering a seamless experience that is digitally and physically connected
+
+Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: flexible vacation, two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing.
+
+Culture:  Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more.
+
+Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking.
+
+Social Impact: Ten employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact.
+
+Purpose Driven Work: We have a superpower that we’ve never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.
+
+Optional - compensation. Compensation may only be relevant for certain positions and is recommended for use primarily by Sales:
+
+Compensation Base salary and a variable compensation that is directly related to your success.
+
+Questions? Click for Job Ad Best Practices, Gender Neutral Guidelines and Gender Decoder for Job Ads posted on the Global TA Atrium Page. For additional support, please contact the Employer Branding Team or review hiring and recruiting policies in Workday.
+
+For any specialty template (CPS, Reuters and the Thomson Reuters Foundation), please use the template found at this link.
+
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we’ve been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world’s most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility 
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+Protect yourself from fraudulent job postings click here to know more.
+
+More information about Thomson Reuters can be found on https://thomsonreuters.com.
+-----------------------------------------------------------------------------------

@@ -1,0 +1,284 @@
+[Oportunidade 1]
+Oportunidade: Profissional Engenheiro de Dados Databricks- PL
+
+Sobre a vaga
+Código da vaga: 48367
+
+Sobre a BRQ Digital
+Há 32 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia! É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+Vamos transformar juntos! Vem ser fera com a gente.
+
+Ei, Engenheiro de Dados , venha fazer parte de uma das maiores empresas de transformação digital do país!
+
+O que procuramos?
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+Experiência com PowerCenter em construção/manutenção de processos ETL.
+Conhecimento prático em Azure Data Services, com foco em Data Factory, Databricks, Blob Storage. 
+Sólidos conhecimentos em PySpark, SQL, Shell Script e manipulação de grandes volumes de dados. 
+Familiaridade com orquestração de processos (Control-M ou similar) e uso de Git para versionamento. 
+Experiência com integração de dados a partir de planilhas, arquivos e bancos relacionais. 
+
+Boa comunicação, capacidade de organização e documentação de processos. 
+Perfil pró-ativo, capaz de executar com autonomia, se adaptar rapidamente e colaborar com o time. 
+
+Diferenciais: Certificações Azure (AZ-900, DP-900, DP-203). 
+Conhecimento de ambientes Hadoop/Cloudera. 
+Familiaridade com Kedro, Jenkins e boas práticas de CI/CD. 
+Experiência anterior com projetos de migração de dados para nuvem. 
+
+
+Responsabilidades:
+Atuar na reescrita e migração de pipelines ETL do PowerCenter para Databricks, utilizando PySpark em ambiente Azure. Trabalhar com Azure Data Factory, Blob Storage, Databricks, AKS, entre outros componentes do ecossistema Azure. Participar de discussões técnicas e contribuir com sugestões de boas práticas e melhorias. • Interagir com áreas de dados e de negócio para levantamento de requisitos e entendimento funcional dos fluxos. Garantir rastreabilidade e qualidade dos dados com o uso de versionamento e orquestração (Control-M, Git, Jenkins). Trabalhar em squads ágeis, com entregas iterativas, colaboração constante e foco em melhoria contínua. • Ter atitude proativa na resolução de problemas, propondo soluções de forma independente quando necessário.
+
+Modelo hibrido- Ate 2x ao cliente - Santo Amaro- SP
+CLT pela BRQ + Pacote de benefícios
+
+- O que temos pra te oferecer?
+Mais do que um plano de carreira!
+
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+
+- E os benefícios?
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Home Office; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+
+- Como é trabalhar na BRQ?
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Machine Learning SR
+
+Sobre a vaga
+Somos uma empresa inovadora, tecnológica e premiada. A Riocard Mais, a maior empresa de bilhetagem eletrônica e digital do país, busca continuamente evoluir para entregar as melhores soluções e facilidades para os nossos clientes.
+
+Com um único cartão a Riocard Mais aumenta a empregabilidade, facilita a viabilização de políticas públicas de mobilidade através de benefícios tarifários como o Bilhete Único Intermunicipal e a Tarifa Social, ajuda o trabalhador a economizar com as integrações, dá muitas vantagens como o cashback do Clube Riocard Mais e, claro, a liberdade para ele chegar aonde quiser com praticidade e tecnologia.
+
+Nosso destino é chegar cada vez mais longe. Aproveitando, sempre, o caminho ao seu lado.
+
+Ainda bem que tem RioCard!
+
+Responsabilidades e atribuições
+
+Atribuições:
+
+ Desenvolver, implementar e manter pipelines de Machine Learning de ponta a ponta em ambiente de produção.
+ Projetar e construir modelos de Machine Learning robustos e escaláveis.
+ Garantir a integridade, qualidade e monitoramento contínuo dos dados utilizados nos modelos.
+ Colaborar ativamente com equipes de engenharia de dados, cientistas de dados e outras áreas para integrar soluções de ML.
+ Contribuir para a definição e implementação de melhores práticas em MLOps (Machine Learning Operations).
+ Realizar análises de performance de modelos e otimização para garantir eficiência e precisão.
+ Participar do processo de experimentação e validação de novas abordagens e tecnologias em ML.
+ Experiência com Contêiner e Orquestração: Docker, Kubernete, Airflow.
+
+
+Requisitos e qualificações
+
+Requisitos Obrigatórios:
+
+ Superior Completo em TI.
+ Experiência comprovada como Engenheiro(a) de Machine Learning
+ Sólida experiência em MLOps (CI/CD, monitoramento, versionamento de modelos, retreino).
+ Uso de IA generativa para MLOps;
+ Proficiência em Python.
+ Experiência com frameworks de Machine Learning (e.g., TensorFlow, PyTorch, scikit-learn).
+ Conhecimento profundo em estruturas de dados e algoritmos.
+ Experiência com bancos de dados (SQL e NoSQL).
+ Experiência com Git/controle de versão.
+
+
+Desejável:
+
+ Familiaridade com ambientes de nuvem (AWS, GCP, Azure, etc.) e serviços de ML em nuvem.
+ Noções em técnicas avançadas de Inteligência Artificial, incluindo Modelos Generativos de Linguagem (LLMs), Vector Databases, RAG e engenharia de prompts.
+ Experiência com MLFlow ou KuberFlow;
+ Experiência em ambientes de big data (Spark, Hadoop).
+
+
+Diferencial:
+
+ Portfólio de projetos de Machine Learning em produção.
+ Contribuições para a comunidade de código aberto em projetos relacionados a ML.
+ Publicações em conferências ou periódicos científicos na área.
+ Experiência com metodologias ágeis (Scrum, Kanban).
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Engenheira de Machine Learning Sênior
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+Estamos em busca de uma pessoa Engenheira de Machine Learning para integrar a nossa equipe no Data Platform & MLOps.
+
+Nossa missão é desenvolver ferramentas e processos que impulsionem a inovação e otimizem a operação de projetos de Machine Learning em toda a empresa.
+
+A squad de MLE desempenha um papel central na construção da plataforma MLOPs, focando na criação de novas funcionalidades que abrangem todo o ciclo de vida de desenvolvimento e entrega de modelos, desde a coleta de dados até o deployment em produção. Aqui, você terá a oportunidade de causar impacto direto em diferentes áreas da companhia, trabalhando com tecnologia de ponta e frameworks modernos. Oferecemos um ambiente colaborativo e dinâmico, onde você terá liberdade para explorar e inovar, com o suporte de uma equipe altamente qualificada e aberta a novas ideias.
+
+Você Será Responsável Por
+
+Colaborar com uma equipe multidisciplinar e ágil de Machine Learning Engineers, Data Engineers e Site Reliability Engineers para arquitetar e implementar soluções de ML, sejam ferramentas, serviços ou contribuindo para nossa plataforma de ML e Data;
+Desenvolver ferramentas que auxiliem nossos Data Scientists em suas funções diárias;
+Desenvolver arquiteturas robustas e escaláveis sempre tendo em foco os conceitos de MLOps.
+
+Qualifications
+
+O que estamos buscando em você?
+
+Experiência prévia atuando com Engenharia de Machine Learning;
+Conhecimento em Git;
+Experiência com cloud (AWS);
+Experiência com CI/CD (Jenkins, ArgoCD, Harness);
+Conhecimento em desenvolvimento de modelos de ML;
+Conhecimentos básicos de Engenharia de Software;
+Conhecimento sobre fundamentos de ML: Não apenas sobre algoritmos, mas como funcionam;
+Conhecimento avançado em Python;
+Conhecimento em ferramentas para manipulação de dados (spark, pandas, numpy);
+Conhecimento básico de tecnologias para conteinerização (Docker, Podman);
+Conhecimento com bibliotecas de ML (scikit-learn, tensorflow, pytorch);
+Conhecimento dos conceitos da cultura MLOps e sua importância;
+Curiosidade, adaptabilidade,colaboração, ownership e comunicação. 
+
+Desejável
+
+ Experiência com Kubernetes;
+Conhecimentos de ferramentas de workflow de projetos de ML (DVC, mlflow).
+
+Additional Information
+
+Na Serasa Experian, acreditamos que a diversidade é fundamental para um ambiente de trabalho mais saudável e inovador, onde todas as pessoas possam trocar experiências e expressar suas ideias. Por isso, contamos com diversas ações para promover um recrutamento inclusivo e apoiar no desenvolvimento profissional das nossas pessoas. Além disso, temos os nossos grupos de afinidade, criados para empoderar e acolher as pessoas de grupos sub-representados:ExperianPride (comunidade LGBTQIAPN+), Ubuntu (equidade racial), Women in Experian (equidade de gênero) e Aspire (pessoas com deficiência) e Connecting Generations (gerações). Venha fazer parte dessa transformação!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Analista Phython / Engenheiro de Dados
+
+Sobre a vaga
+A UBC está com vaga de Analista Phython / Engenheiro de Dados em nossa sede no Rio!
+
+Responsabilidades Principais:
+Experiência em desenvolvimento utilizando Python.
+Modelar e otimizar bancos relacionais (Oracle) e não relacionais (MongoDB, Solr).
+Criar e gerenciar contêineres Docker e clusters Kubernetes (dev, testes e produção).
+Configurar e executar jobs em Spark ou MapReduce; conhecimento em HDFS, YARN e Hive.
+Observabilidade: uso de Prometheus, Grafana ou ELK Stack (Elasticsearch/Logstash/Kibana).
+Documentar arquiteturas, fluxos de dados e procedimentos operacionais.
+Familiaridade com AWS ou Azure para ambientes em nuvem.
+Projetar e manter APIs backend em Python, aplicando padrões SOLID.
+ Requisitos Desejáveis:
+Observabilidade: uso de Prometheus, Grafana ou ELK Stack (Elasticsearch/Logstash/Kibana).
+Metodologias Ágeis: vivência em Scrum/Kanban e ferramentas como Azure DevOps ou Jira.
+
+Se identificou?
+Envie seu currículo para rh@ubc.org.br com o assunto 'Analista Phython / Engenheiro de Dados | UBC'.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Analista Desenvolvedor Java Sênior
+
+Sobre a vaga
+Job Description
+
+Nós movemos o mercado financeiro para o futuro, impulsionando negócios e potencializar a economia do país. Com o maior hub de dados e informações do cenário financeiro brasileiro, lideramos iniciativas que realmente importam: defendemos os interesses dos nossos parceiros e investidores, fornecemos ferramentas analíticas e dados, educamos investidores e certificamos profissionais, além de estabelecermos regras para as instituições do mercado financeiro e de capitais. 💛
+
+Você é apaixonado por desafios e inovação? Quer impactar diretamente o setor financeiro e desenvolver produtos que fazem a diferença no mercado? Então esta oportunidade é para você!
+
+Estamos em busca de um Desenvolvedor Java Sênior que queira impulsionar a transformação do setor financeiro, criando soluções robustas, escaláveis e inovadoras. Aqui, você trabalhará lado a lado com grandes talentos em SQUADs ágeis, utilizando desde tecnologias consolidadas até as mais disruptivas do mercado.
+
+Mas o que você vai encontrar quando se juntar a este time supercompetente? Na ANBIMA, o ambiente respira a cultura digital, colaboração, transparência e abertura são o ar que respiramos. Provocamos o desenvolvimento pessoal e profissional para enfrentar os desafios do mercado, com um propósito claro de transformação e impacto social.
+
+Responsibilities and assignments
+
+Desenvolver e evoluir sistemas de alta complexidade que impactam diretamente o mercado financeiro.
+Tomar decisões técnicas e estratégicas, avaliando os riscos e impactos das soluções (desempenho, escalabilidade, manutenibilidade, etc);
+Produzir documentação sobre soluções arquiteturais conforme necessário;
+Aconselhar e orientar o time para solucionar problemas;
+Realizar estimativas detalhadas e planejar o trabalho;
+Apoiar na melhoria contínua dos produtos, investigando novas tecnologias e padrões de design e apresentando descobertas para a liderança e chefia;
+Fornecer mentoria e orientação para membros mais juniores da equipe;
+Realizar revisões de design e código em artefatos;
+Realizar troubleshooting de aplicações.
+
+Por que esta oportunidade é única?
+
+💡 Desafios reais: Trabalhe com produtos que afetam diretamente o mercado financeiro.
+
+🚀 Inovação: Utilize tecnologias de ponta e contribua para soluções disruptivas.
+
+💼 Impacto na sua carreira: Cresça profissionalmente ao lado de grandes profissionais.
+
+Requirements And Qualifications
+
+Experiência mínima de 7 anos em análise e desenvolvimento Java
+Desenvolvimento WEB (javascript, HTML/CSS)
+Arquiteturas modernas baseadas em microserviços e APIs (REST)
+Framework Javascript Angular
+Framework Spring Boot
+Banco de Dados Relacional e SQL
+IDE Eclipse ou Intellij
+Versionamento de código GIT e workflows atuais
+Gerenciador de dependências Maven
+Solução de mensageria (AMQ ou IBM MQ)
+Metodologia ágil (SCRUM ou KANBAN)
+Pipelines de CI/CD
+
+Diferenciais De Conhecimento
+
+Pipelines de CI/CD com Jenkins e Maven
+Containers (Kubernetes/Docker)
+Sonar
+Nexus
+Testes de performance
+TDD e BDD (Cucumber)
+Troubleshooting com Dynatrace
+Criptografia em aplicações
+
+Additional information
+
+O Que Oferecemos
+
+Salário compatível com o mercado
+
+Plano de saúde e odontológico
+
+Auxílio Creche
+
+Vale refeição R$ 1.111,00 e alimentação R$ 875,29
+
+Vale transporte
+
+90 dias de trabalho remoto
+
+Bônus
+
+Previdência Privada
+
+Seguro de Vida
+
+Auxílio Internet
+
+Day Off
+
+Local de trabalho: Nosso escritório fica na região do centro do Rio de Janeiro. Estamos trabalhando de forma hibrida, escritório (3x por semana) e home-office (2x por semana).
+
+Quem somos
+
+Muito prazer, somos a ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais. Falamos em nome de instituições como bancos, gestoras, corretoras, distribuidoras e administradoras. Temos a missão de fortalecer a representação do setor e apoiar a evolução de um mercado de capitais capaz de financiar o desenvolvimento econômico e social do Brasil e influenciar o mercado global.
+
+Somos protagonistas da evolução da indústria de investimentos, trazendo impacto e legado positivos ao nosso país. Se você tem sede de aprender a impactar o desenvolvimento econômico e social do Brasil, a ANBIMA é para você!
+-----------------------------------------------------------------------------------

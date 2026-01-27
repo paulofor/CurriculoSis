@@ -1,0 +1,220 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor Inteligência Artificial jr/pleno
+
+Sobre a vaga
+Estamos em busca de um Desenvolvedor de IA apaixonado por tecnologia e inovação para se juntar à nossa equipe dinâmica. O profissional será responsável pelo desenvolvimento de plataformas digitais que integram soluções de inteligência artificial, com foco em processamento de linguagem natural (NLP), IA generativa e aprendizado de máquina. Se você possui experiência com as principais ferramentas e linguagens do setor e está disposto a enfrentar novos desafios, queremos conhecê-lo!
+
+Responsabilidades:
+- Projetar, desenvolver e implementar soluções de software utilizando tecnologias de inteligência artificial.
+- Trabalhar com algoritmos e técnicas específicas de IA, incluindo NLP e aprendizado de máquina.
+- Implementar soluções de IA utilizando linguagens de programação como Python, JavaScript/TypeScript/Node.js.
+- Utilizar frameworks de IA, como PyTorch, Scikit-Learn e Langchain, para desenvolver soluções escaláveis.
+- Implementar soluções de NLP com ferramentas como NLTK, spaCy e Hugging Face Transformers.
+- Realizar pré-processamento de texto, incluindo tokenização, criação de embeddings e remoção de stop words.
+- Trabalhar com Modelos de Linguagem de Grande Porte (LLMs), como GPT e Llama, aplicando melhores práticas de arquitetura de software.
+- Desenvolver aplicações web utilizando frameworks como FastAPI e React (NextJS).
+- Colaborar na implementação de soluções utilizando MLOps, Docker e Kubernetes para a implantação de modelos de IA.
+- Participar de processos de HAG (Hiper-Agilidade) para garantir entregas rápidas e eficientes.
+- Integrar e otimizar embeddings para melhorar a performance das soluções de IA.
+
+Requisitos:
+- Experiência com N8N
+- Experiência com RAG (Retrieval-Augmented Generation) e otimização de embeddings.
+- Experiência sólida no desenvolvimento de software para aplicações de inteligência artificial.
+- Proficiência em linguagens de programação: Python, JavaScript/TypeScript/Node.js.
+- Experiência com frameworks de IA, como PyTorch, Scikit-Learn e Langchain.
+- Conhecimento em bibliotecas de NLP, como NLTK, spaCy e Hugging Face Transformers.
+- Experiência em pré-processamento de texto e implementação de LLMs.
+- Vivência em arquiteturas de software escaláveis e de alto desempenho voltadas para IA.
+- Conhecimento em desenvolvimento web com FastAPI e React (NextJS).
+- Experiência com MLOps, Docker e Kubernetes para implantação de modelos de IA.
+- Habilidade de trabalho em equipe e boa comunicação.
+
+
+🥳 Benefícios:
+• Vale Refeição/Vale Alimentação
+• Assistência médica
+• Assistência odontológica
+• Day Off
+• Gympass
+• Auxílio Creche
+• Assistência Pet
+• Auxílio Combustível
+• Auxílio Home Office
+• Reembolso Educacional
+• E-learning - Academia Stefanini com diversos cursos
+• Mentoring - Plataforma de Mentoria (Essa é uma oportunidade para conhecer pessoas, desenvolver habilidades e compartilhar experiências.)
+• Descontos em instituições para Graduação, Pós Graduação, Idiomas e Cursos
+• Vantagens e descontos nos melhores estabelecimentos
+• Programa de Formação de Líderes
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Especialista em Dados e Inteligência Artificial Generativa, Brasil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+
+Estamos em busca de um(a) Especialista em Dados e IA Generativa para ser uma peça-chave em nossa jornada de inovação. Sua missão será desenhar e implementar soluções de vanguarda que utilizem o poder da Inteligência Artificial Generativa para transformar nossos processos, otimizar nossa arquitetura de dados na nuvem e gerar insights de alto valor. Se você é apaixonado(a) por explorar as fronteiras da IA para resolver desafios complexos de dados e quer gerar um impacto real em um ambiente dinâmico, esta é a sua oportunidade.
+
+Responsabilidades:
+- Desenvolver e Implementar Soluções com IA Generativa: Liderar o design com IA Generativa para automação inteligente, otimização da qualidade dos dados e criação de novas capabilities analíticas.
+- Arquitetura de Dados Inteligente: Projetar, construir e manter pipelines de dados otimizados e escaláveis (Bronze,Silver,Gold) em Databricks, garantindo a máxima eficiência e governança no ambiente de nuvem Azure.
+- Evolução Estratégica de BI: Conduzir a migração de dashboards do MicroStrategy para o Power BI, aplicando automação para a governança de metadados e elevando o padrão de nossas soluções de visualização.
+- Colaboração e Liderança Técnica: Atuar como referência técnica em IA Generativa, colaborando ativamente com engenheiros, analistas e arquitetos para disseminar conhecimento e impulsionar uma cultura de inovação orientada a dados.
+- Pesquisa e Inovação Contínua: Manter-se na vanguarda das tendências em IA Generativa, LLMs e engenharia de dados, avaliando e introduzindo novas ferramentas e metodologias para sustentar nossa vantagem competitiva.
+
+Requisitos
+- Sólida experiência em engenharia ou ciência de dados, com um portfólio que demonstre a aplicação de soluções de dados complexas.
+- Profundo conhecimento e experiência prática com Inteligência Artificial Generativa, incluindo o desenvolvimento ou fine-tuning de Large Language Models (LLMs) e a aplicação de técnicas como RAG (Retrieval-Augmented Generation).
+- Domínio avançado em Python/PySpark para engenharia de dados e Machine Learning (ex: Pandas, LangChain, LlamaIndex).
+- Experiência comprovada com plataformas de dados na nuvem, especialmente Microsoft Azure e Databricks.
+- Proficiência em bancos de dados SQL (como SQL Server, Oracle) e familiaridade com ambientes NoSQL.
+- Familiaridade com ambientes de desenvolvimento como VSCode e práticas de controle de versão (Git).
+
+Diferencial:
+- Experiência concreta na migração e otimização de plataformas de BI (MicroStrategy para Power BI).
+- Certificações em Azure, Databricks ou especializações em Machine Learning/IA.
+- Vivência em ambientes que operam com metodologias ágeis (Scrum, Kanban).
+Conhecimento em práticas de MLOps para a gestão do ciclo de vida de modelos de IA.
+
+
+
+
+
+ #Midsenior
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Tech Lead ou Coordenador(a) de Inteligência Artificial (IA)
+
+Sobre a vaga
+Descrição
+
+Liderar e desenvolver projetos de Inteligência Artificial, desde o diagnóstico até a entrega da solução final.
+Aplicar modelos de Machine Learning supervisionados e não supervisionados.
+Desenvolver e implementar soluções baseadas em IA Generativa (por exemplo, LLMs com RAG, fine-tuning, embeddings).
+Projetar e treinar modelos de Visão Computacional e OCR (como Tesseract, EasyOCR, Azure Form Recognizer e Amazon Textract).
+Propor arquiteturas para soluções de IA escaláveis, utilizando Cloud, containers e APIs.
+Trabalhar com dados estruturados e não estruturados, aplicando técnicas de NLP e Deep Learning.
+Elaborar documentação técnica e apoiar na capacitação de equipes parceiras ou clientes.
+Atuar como referência técnica em discussões com áreas de negócio e tecnologia.
+
+Requisitos
+
+O perfil que buscamos:
+
+Formação superior na área de Tecnologia ou correlatas.
+Experiência com N8n, Langflow, Crew AI e Langchain 
+Experiência comprovada com Agentes de IA
+Experiência prática na condução de projetos de IA/Data Science.
+Vivência com IA Generativa (ex.: GPT, LLaMA, Claude), incluindo integração via API, ajuste fino e pipelines de RAG.
+Domínio de modelos de Machine Learning (ex.: Regressão Logística, Random Forest, XGBoost, entre outros).
+Experiência em projetos com OCR, tanto com ferramentas open source quanto com serviços em nuvem.
+Proficiência em Python e principais bibliotecas: TensorFlow, PyTorch, Scikit-learn.
+Conhecimentos sólidos em Engenharia de Dados (pré-processamento e ETL para IA).
+Experiência com serviços em nuvem (Azure, AWS ou GCP).
+Familiaridade com versionamento de modelos (MLflow, DVC) e deploy via APIs (Flask, FastAPI, Docker).
+Experiência com Databricks.
+
+Benefícios
+
+ Cartão iFood Benefícios
+ CSP Vantagens
+ DAYOFF Aniversariante
+ Plano de Saude Sulamerica
+ PLANO ODONTO SULAMERICA
+ TotalPass
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Analista de Inteligência Artificial Sr
+
+Sobre a vaga
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+Somos globais, somos GPTW.
+
+🌈‍👵 ♿️👩🏾 Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!
+
+Todas as nossas vagas estão abertas para Pessoas com Deficiência (PCD). Caso você se enquadre ou conheça alguém com o perfil, a Foursys é a empresa ideal!
+
+Que tal se juntar a nós e se tornar um(a) #FourTalent? Então se liga nessa oportunidade incrível: 👇
+
+Responsabilidades e atribuições
+Conduzir estudos e experimentos com técnicas de Inteligência Artificial, com ênfase em Processamento de Linguagem Natural (NLP) e IA Generativa, transformando hipóteses em provas de conceito funcionais;
+Participar ativamente na concepção, desenvolvimento, validação e otimização de modelos de IA aplicados a contextos reais, alinhados às demandas de inovação do laboratório e dos clientes;
+Colaborar com times multidisciplinares na integração de modelos de IA a protótipos e produtos experimentais, considerando viabilidade técnica e tempo de entrega;
+Documentar decisões técnicas, fluxos de desenvolvimento e aprendizados para promover o reuso e a evolução contínua das soluções desenvolvidas;
+Explorar de forma autônoma tendências emergentes, papers recentes e ferramentas open source, com foco em aplicação prática e geração de valor;
+Apoiar a construção de ativos de IA reutilizáveis e frameworks internos para aceleração de P&D em projetos futuros.
+
+Habilidades e Requisitos
+
+Experiências Técnicas: Programação em Python, com domínio de bibliotecas como Pandas, NumPy, Scikit-learn, LangChain e ferramentas de deploy de modelos;
+Experiência com frameworks de machine learning e deep learning, como PyTorch, TensorFlow ou Hugging Face Transformers;
+Prática com NLP tradicional e avançado, incluindo embedding, classificação de texto, LLMs e fine-tuning de modelos baseados em Transformers;
+Familiaridade com arquiteturas modernas de IA generativa (GPT, LLaMA, Mistral, Claude, etc.) e suas APIs;
+Experiência com MLOps ou prototipagem rápida, utilizando ambientes como Docker, FastAPI, Jupyter, Streamlit ou similares;
+Conhecimentos em integrações com sistemas e dados externos, via APIs REST, scraping ou bancos de dados estruturados e não estruturados.
+
+Formato de trabalho
+
+Remoto.
+
+E temos também o Clube da Four que oferece ótimas vantagens! 👇
+🩺 Assistência médica;
+🍲 VR e VA flexível;
+🏋️ Gympass e Wellz;
+⚽ Parceria com o SESC;
+🍣 Descontos em restaurantes;
+📚 Descontos em cursos técnicos e de ensinos superior;
+🧠 Descontos em escolas e plataformas de idiomas.
+E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Especialista em IA Generativa
+
+Sobre a vaga
+Responsabilidades e atribuições
+Projetar, desenvolver e implementar modelos de Inteligência Artificial com foco em soluções práticas e escaláveis;
+Atuar com Google Cloud Platform (GCP), utilizando seus serviços para orquestração, deploy e escalabilidade de modelos;
+Programar em Python, aplicando boas práticas de desenvolvimento, versionamento e automação;
+Integrar e consumir APIs de IA como OpenAI, Microsoft Azure AI e Vertex AI Agent Builder, para desenvolvimento de soluções baseadas em IA Generativa;
+Aplicar técnicas de Processamento de Linguagem Natural (NLP) e IA Generativa em diferentes contextos de negócio;
+Realizar a integração de soluções de IA com sistemas e produtos já existentes na empresa;
+Colaborar com equipes multidisciplinares e de negócio, propondo soluções que aliem inovação e viabilidade técnica;
+Acompanhar as tendências e inovações em IA e tecnologia, mantendo-se atualizado e contribuindo com insights para o time;
+Garantir a qualidade, robustez e manutenibilidade do código, seguindo as melhores práticas de engenharia de software;
+Projetar e implementar agentes inteligentes (Intelligent Agents) para diferentes finalidades e interações com usuários.
+
+Requisitos e qualificações
+Diferenciais:
+Conhecimento em múltiplas linguagens de programação, com foco em aplicações de IA (ex: Python, JavaScript, etc.);
+Experiência com APIs de Inteligência Artificial, especialmente OpenAI, Microsoft Azure AI e demais provedores de mercado;
+Domínio de técnicas de Processamento de Linguagem Natural (NLP), com aplicação prática em projetos reais;
+Familiaridade com práticas e ferramentas de MLOps para operacionalização, monitoramento e manutenção de modelos em produção.
+-----------------------------------------------------------------------------------

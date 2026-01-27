@@ -1,0 +1,263 @@
+[Oportunidade 1]
+Oportunidade: Profissional engenheiro de dados de ia pleno remoto
+
+Sobre a vaga
+#VemPraLuby
+
+Aqui Você Terá a Oportunidade De
+
+Evoluir em um ambiente de alta performance: Uma cultura onde o desenvolvimento é contínuo, com autonomia e envolvimento em projetos nacionais e internacionais que realmente testam suas habilidades e impulsionam seu potencial.
+Integrar um time apaixonado por tecnologia: Aqui, você vai trabalhar ao lado de talentos experientes em um ambiente colaborativo e disruptivo, utilizando as tecnologias mais avançadas do mercado.
+Deixar sua marca no mundo: Nossas soluções digitais impactam diretamente a vida de milhares de pessoas, e é a sua chance de ser parte ativa na construção de um futuro mais digital e conectado.
+Trabalhar de forma remota e com flexibilidade: Seja qual for o seu lugar, estamos prontos para te receber no nosso time!
+
+Sua Missão
+
+Estamos em busca de um Engenheiro de Dados talentoso e experiente para se juntar à nossa equipe em crescimento.
+
+O profissional ideal terá um sólido conhecimento em ferramentas de AI/ML, além de experiência com infraestrutura em nuvem, redes e segurança. O Data Engineer será responsável por projetar, construir e manter nossas ferramentas de IA Generativa, bem como dar suporte à infraestrutura e segurança de IA. Este não é um cargo para Cientista de Dados. Como engenheiro de dados com conhecimentos em arquitetura de nuvem, você trabalhará em estreita colaboração com outros profissionais de dados, engenheiros de software e partes interessadas do negócio para construir e manter pipelines de dados eficientes, escaláveis e seguros.
+
+Principais Atividades
+
+Projetar e implementar arquiteturas de IA baseadas em nuvem (AWS, Azure ou GCP).
+Projetar, construir e manter pipelines de dados.
+Desenvolver e implementar designs de IA seguindo as melhores práticas e padrões de segurança em nuvem.
+Trabalhar na integração de ferramentas de AI/ML com sistemas internos.
+Implementar e monitorar ferramentas de IA.
+Preparar dados para aplicações de machine learning e inteligência artificial.
+Monitorar e solucionar problemas em pipelines de implantação.
+Monitorar e gerenciar a capacidade de modelos de IA.
+Resolver problemas de integração de modelos de IA com aplicações e ferramentas.
+Comunicar-se com parceiros internos de negócios, incluindo orientações sobre design de aplicações.
+
+Requisitos Essenciais
+
+5+ anos de experiência em engenharia de nuvem, DevOps ou área relacionada a IA.
+Experiência prática com Azure OpenAI, Google Vertex AI ou AWS Bedrock.
+Conhecimento em infraestrutura de nuvem, redes e segurança.
+Sólida experiência em conteinerização, incluindo serviços Kubernetes nativos de nuvem (AKS, EKS).
+Inglês avançado/fluente.
+Boa comunicação e habilidades de trabalho em equipe.
+
+Será Um Diferencial
+
+Experiência com CI/CD e pipelines.
+Habilidades em linguagens de script como Python e PowerShell.
+Conhecimento em ferramentas de visualização de dados como Tableau e Power BI.
+Excelente capacidade de resolução de problemas e análise.
+
+O Que Oferecemos
+
+Oportunidade no modelo CLT:
+
+Trabalho Remoto: Desfrute da flexibilidade de trabalhar de qualquer lugar do Brasil, com total autonomia e organização.
+Saúde e Bem estar: Plano de Saúde e Odontológico, Seguro de Vida e Wellhub (Gympass).
++Educação: Descontos em cursos da FIAP e MBA USP Esalq para você continuar aprendendo e se desenvolvendo.
+Ajuda de Custo: Vale refeição (Caju) e Auxílio Home Office.
+Diferenciais exclusivos: Descontos em lojas Multilaser, bonificação por indicação de profissionais e negócios.
+
+Saiba mais sobre cultura, diferenciais e como é ser um #Luber em nossa Página de Carreiras!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Software Engineer
+
+Sobre a vaga
+We are seeking a skilled and motivated Senior Data Software Engineer to join our team and contribute to building cutting-edge technology solutions for Investment functions, including trade flows, accounting, reconciliation, reporting, and more.
+
+This role will focus on application integration with the Investments Accounting Book of Record (SimCorp Dimension) while leveraging deep expertise in data engineering, cloud technologies, and financial systems.
+
+Responsibilities
+
+
+Collaborate with Product Owners, Scrum Masters, and Subject Matter Experts to define technical requirements for data-driven solutions
+Develop, implement, and maintain robust software applications using modern technology stacks
+Support data integration processes to ensure seamless capturing, transformation, and delivery of financial data
+Demonstrate integrated solutions and articulate business value to stakeholders during sprint showcases
+Facilitate high-quality iterative product delivery within Agile scrum team environments
+Utilize SQL to program views, stored procedures, and functions to handle complex data workflows
+Build and maintain CI/CD pipelines using BitBucket/GitHub and Bamboo
+Integrate reporting tools such as Power BI or Tableau for enhanced business intelligence
+Support and optimize data warehousing and Dimensional Modeling processes (e.g., Kimball methodology)
+Leverage cloud platform technologies (AWS preferred) for data processing and orchestration tasks
+Contribute to the development of scalable ETL processes using Python and related libraries (Pandas, NumPy, etc.)
+
+
+Requirements
+
+
+Bachelor’s degree in a technical discipline or equivalent professional experience
+Minimum 3 years of professional experience as a Data Engineer
+Expertise in SQL for building views, stored procedures, and data workflows
+Skills in working with cloud platforms like AWS, leveraging services such as S3, Glue, Athena, and Lambda
+Proficiency in Python for ETL tasks, along with tools like Pandas/NumPy and Python unit testing frameworks
+Familiarity with business intelligence and reporting tools such as Power BI or Tableau
+Understanding of CI/CD pipelines through tools like BitBucket/GitHub and Bamboo
+Competency in data warehousing, Dimensional Modeling, and Data Extraction Utilities
+Background in Agile software development practices, including story sizing, sprint planning, and retrospectives
+
+
+Nice to have
+
+
+Experience with financial systems and reporting, particularly in investment accounting or general ledger contexts
+Background in integrating large-scale financial investment/ERP systems such as SimCorp Dimension or similar platforms
+Expertise in agile delivery of data solutions using AWS resources, Snowflake, and orchestration tools
+Familiarity with advanced data integration tools like SnapLogic, Rest APIs, and pipeline orchestration
+Showcase of skills in developing interactive dashboards and advanced reporting using Power BI
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados (com foco em Bi na área da Saúde) - REMOTO
+
+Sobre a vaga
+Responsabilidade e Atribuições
+
+Participar de todo ciclo de implantação e validação das integrações com os clientes;
+Controlar e acompanhar cronograma de implantação, realizando o report técnico de todas as etapas do projeto;
+Contribuir para avaliação do modelo de dados;
+Trabalhar em times multidisciplinares, com foco em diferentes aspectos de uma infraestrutura de dados moderna.
+
+Requisitos e Qualificações
+
+Experiência com ETL
+Domínio de SQL e bancos de dados relacionais
+Experiência em Business Intelligence (BI) ou Engenharia de Dados/Big Data
+Familiaridade com integração via APIs RESTful e pipelines de dados
+Conhecimentos em transformação de dados com Python (Pandas)
+Vivência em rotina com metodologias ágeis
+Raciocínio lógico e modelagem de dados
+Desejável conhecimentos na área de saúde
+
+Benefícios:
+
+Day-Off: No mês do seu aniversário você tem direito a um dia folga para comemorar mais um ano de vida
+Prêmio por Indicação de novos Uppers: É uma forma de gratificar (R$) o colaborador por ajudar no crescimento e recrutamento da empresa.
+Plano de Saúde Bradesco: Mensalidade coberta de forma integral pela empresa, coparticipação de 30% nos serviços utilizados ou Plano de saúde Unimed: Mensalidade coberta de forma integral pela empresa, coparticipação de 50% nos serviços utilizados.
+Plano Odontológico Uniodonto: Mensalidade coberta de forma integral pela empresa, isento de coparticipação.
+Gympass: Parceria que oferta diversos planos que contemplam academias, estúdios de pilates, yoga, crossfit e muito mais!
+Creditas: Possibilidade de empréstimo consignado, antecipação de salário e parcelamento de compras.
+Vale alimentação/refeição: R$30,00 por dia útil trabalhado no cartão CAJU.
+Auxílio educação: Nós incentivamos o desenvolvimento do nosso time e com isso custeamos um percentual do valor para graduações, especializações e cursos de curta duração!
+Convênio com o SESC: Esta parceria permite que nossos Uppers desfrutem de todas as atividades e instalações oferecidas pelo SESC (em todas as regiões) com descontos especiais!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Sobre a Vaga
+
+
+Estamos à procura de Engenheiros de Dados altamente talentosos e motivados para se juntar à nossa equipe. Se você é um profissional apaixonado por dados, possui conhecimentos sólidos em Python, clean code e Apache Spark, esta pode ser a oportunidade perfeita para você. Além disso, se você também tiver experiência em computação em nuvem e Apache Airflow, consideraremos isso como um grande diferencial.
+
+
+Sobre o Papel
+
+
+Engenheiro de Dados na Inter & Co
+
+
+Responsabilidades
+
+
+Implementar pipelines de dados escaláveis e eficientes;
+Monitorar recursos e custos de soluções desenvolvidas;
+Desenvolver códigos e soluções com foco em clean code, boas práticas e eficiência;
+Implementar estratégias eficazes de ingestão e processamento;
+Colaborar com outras equipes de engenharia, ciência e análise de dados para desenvolver soluções de dados que impulsionem a eficiência e tomada de decisão orientada por dados.
+
+ Qualificações
+
+
+Conhecimento de Python e habilidades de programação;
+Conhecimentos de Spark e capacidade de implementar e otimizar jobs em pyspark;
+Conhecimento de clean code, boas práticas de desenvolvimento e implementação de testes automatizados;
+Familiaridade com arquiteturas de sistemas distribuídos e processamento de dados em larga escala;
+Habilidades de resolução de problemas e capacidade de trabalhar em um ambiente inovador;
+Capacidade de trabalhar de forma autônoma e em equipe, demonstrando habilidades de comunicação e colaboração;
+
+ Diferenciais
+
+Experiência em computação em nuvem (AWS, Azure ou Google Cloud Platform);
+Conhecimento em Apache Airflow para orquestração de pipelines de dados;
+Conhecimento de Apache Kafka.
+
+ Local de Trabalho
+
+
+Presencial, em Belo Horizonte / MG.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Profissional Engenheiro de Dados de IA Pleno - Remoto
+
+Sobre a vaga
+#VemPraLuby
+
+Aqui você terá a oportunidade de:
+
+Evoluir em um ambiente de alta performance: Uma cultura onde o desenvolvimento é contínuo, com autonomia e envolvimento em projetos nacionais e internacionais que realmente testam suas habilidades e impulsionam seu potencial.
+Integrar um time apaixonado por tecnologia: Aqui, você vai trabalhar ao lado de talentos experientes em um ambiente colaborativo e disruptivo, utilizando as tecnologias mais avançadas do mercado.
+Deixar sua marca no mundo: Nossas soluções digitais impactam diretamente a vida de milhares de pessoas, e é a sua chance de ser parte ativa na construção de um futuro mais digital e conectado.
+Trabalhar de forma remota e com flexibilidade: Seja qual for o seu lugar, estamos prontos para te receber no nosso time!
+
+Sua Missão:
+
+Estamos em busca de um Engenheiro de Dados talentoso e experiente para se juntar à nossa equipe em crescimento.
+
+O profissional ideal terá um sólido conhecimento em ferramentas de AI/ML, além de experiência com infraestrutura em nuvem, redes e segurança. O Data Engineer será responsável por projetar, construir e manter nossas ferramentas de IA Generativa, bem como dar suporte à infraestrutura e segurança de IA. Este não é um cargo para Cientista de Dados. Como engenheiro de dados com conhecimentos em arquitetura de nuvem, você trabalhará em estreita colaboração com outros profissionais de dados, engenheiros de software e partes interessadas do negócio para construir e manter pipelines de dados eficientes, escaláveis e seguros.
+
+Principais Atividades:
+
+Projetar e implementar arquiteturas de IA baseadas em nuvem (AWS, Azure ou GCP).
+Projetar, construir e manter pipelines de dados.
+Desenvolver e implementar designs de IA seguindo as melhores práticas e padrões de segurança em nuvem.
+Trabalhar na integração de ferramentas de AI/ML com sistemas internos.
+Implementar e monitorar ferramentas de IA.
+Preparar dados para aplicações de machine learning e inteligência artificial.
+Monitorar e solucionar problemas em pipelines de implantação.
+Monitorar e gerenciar a capacidade de modelos de IA.
+Resolver problemas de integração de modelos de IA com aplicações e ferramentas.
+Comunicar-se com parceiros internos de negócios, incluindo orientações sobre design de aplicações.
+
+Requisitos essenciais:
+
+5+ anos de experiência em engenharia de nuvem, DevOps ou área relacionada a IA.
+Experiência prática com Azure OpenAI, Google Vertex AI ou AWS Bedrock.
+Conhecimento em infraestrutura de nuvem, redes e segurança.
+Sólida experiência em conteinerização, incluindo serviços Kubernetes nativos de nuvem (AKS, EKS).
+Inglês avançado/fluente.
+Boa comunicação e habilidades de trabalho em equipe.
+
+Será um diferencial:
+
+Experiência com CI/CD e pipelines.
+Habilidades em linguagens de script como Python e PowerShell.
+Conhecimento em ferramentas de visualização de dados como Tableau e Power BI.
+Excelente capacidade de resolução de problemas e análise.
+
+O que oferecemos:
+
+Oportunidade no modelo CLT:
+
+Trabalho Remoto: Desfrute da flexibilidade de trabalhar de qualquer lugar do Brasil, com total autonomia e organização.
+Saúde e Bem estar: Plano de Saúde e Odontológico, Seguro de Vida e Wellhub (Gympass).
++Educação: Descontos em cursos da FIAP e MBA USP Esalq para você continuar aprendendo e se desenvolvendo.
+Ajuda de Custo: Vale refeição (Caju) e Auxílio Home Office.
+Diferenciais exclusivos: Descontos em lojas Multilaser, bonificação por indicação de profissionais e negócios.
+
+Saiba mais sobre cultura, diferenciais e como é ser um #Luber em nossa Página de Carreiras!
+-----------------------------------------------------------------------------------

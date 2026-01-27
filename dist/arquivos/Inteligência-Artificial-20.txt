@@ -1,0 +1,280 @@
+[Oportunidade 1]
+Oportunidade: 422024 - BOLSISTA (CHAMADA 42/2024)
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+Experiência
+
+Experiência acadêmica e/ou industrial em pesquisa relacionada com a área; experiência com escrita de publicações científicas.
+
+Conhecimentos
+
+Conhecimentos a nível de pós-graduação em algum dos campos a seguir: machine learning; visão computacional; nuvens de pontos; robótica; tecnologias de drones; arquitetura de hardware, software e firmware; projeto, construção e caracterização de sensores e equipamentos de medição; processamento de sinais para análise e interpretação de dados de sensores; projeto de circuitos analógicos e digitais; materiais para construção de sensores.
+
+Atividades a serem desempenhadas
+
+Orientar equipe de pesquisadores; propor e gerir projetos de pesquisa; conduzir estudos conceituais; publicar ao menos 1 artigo científico com Qualis Capes ao ano; conduzir pesquisas relacionadas com alguma das tecnologias habilitadoras da agricultura digital e de precisão, tais como: desenvolvimento de sensores, materiais para produção de sensores, arquitetura de hardware, software e firmware, tecnologia da informação, microeletrônica e afins. Coordenar tecnicamente projetos de pesquisa e desenvolvimento em cooperação com a indústria.
+
+Local de Trabalho
+
+ISI EM SENSORIAMENTO
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Oportunidades de Carreira: Analista Ciencia de Dados - Projeto Proadi Impacto MR (1286277)
+
+Sobre a vaga
+Com mais de 60 anos de existência, a Sociedade Beneficente Israelita Brasileira Albert Einstein ainda mantém uma premissa: inovar e crescer, sempre com excelência. Ajudamos a salvar vidas, difundir o conhecimento em educação, prevenção e inovação em saúde. Além da atuação em setores assistenciais, temos oportunidades na área de Inovação, Tecnologia, Pesquisa, Ensino, entre outras. Seguimos oferecendo qualidade, afirmando nosso compromisso com a Responsabilidade Social e com o propósito de levar uma gota de Einstein para cada cidadão. Valorizamos a diversidade e inclusão de todos os talentos e buscamos profissionais que compartilhem deste mesmo propósito!
+
+Responsabilidades
+
+ Modelagem e análise de domínio; 
+ Desenvolver e manter pipelines de dados utilizando tecnologias como Apache Spark, Airflow, e ferramentas de ETL/ELT; 
+ Garantir a integração e interoperabilidade de sistemas de saúde; 
+ Monitorar e assegurar a qualidade dos dados, realizando análises e implementando melhorias contínuas; 
+ Documentar processos, fluxos de trabalho e arquitetura das soluções desenvolvidos; 
+ Realizar apresentações técnicas; 
+ Realizar coleta de requisitos e entendimento de negócios; 
+ Atuar na interpretação de processos e conceitos clínicos, coleta e modelagem de dados e automatização de dados; 
+ Executar integrações de dados com foco em estratégia junto aos clientes - acompanhamento da entrega do começo ao fim e na sustentação dos projetos. 
+
+Requisitos
+
+ Graduação em Ciência da Computação, Engenharia de Computação, Sistemas de Informação ou áreas afins; 
+ Conhecimento em tecnologias de processamento de dados como Apache Spark, Airflow, e ferramentas de ETL/ELT; 
+ Experiência com SQL; 
+ Habilidades em programação com linguagens como Python, Java ou Scala; 
+ Conhecimento em soluções de cloud (preferencialmente AWS); 
+ Experiência em modelagem, construção e manutenção de banco de dados; 
+ Experiência em executar projetos de grandes volumes de dados e inovação. 
+
+Diferenciais
+
+ Experiência em inteligência artificial; 
+ Conhecimento em engenharia de prompt. 
+
+Sobre a Vaga
+
+Área: Big Data Analytics
+
+Trabalho remoto
+
+Horário: 09h00 às 18h00
+
+Contrato: CLT prazo indeterminado
+
+Etapas Processo Seletivo
+
+ Avaliação técnica e comportamental; 
+ Entrevista com gestores da área e do projeto. 
+
+Einstein Benefícios – Compartilhando Bem Estar 
+
+Cuidados com a saúde: Programa Cuidar com serviços realizados no Einstein para promover a saúde e bem estar dos colaboradores e dependentes, Clínicas Einstein, Telemedicina, Convênio Farmácia, Convênio Médico, Assistência Odontológica e Consultório Dental in Company.
+Bem estar: Gympass, Coral, Programa de Orientação Pessoal e SESC.
+Para você e sua família: Licença paternidade estendida, Seguro de Vida, Creche ou Auxílio Creche para mães ou pais com guarda legal, Auxílio para Filhos com Deficiência e Previdência Privada com taxa zero.
+Alimentação: Vale Alimentação, Vale Refeição ou Refeitório no local de trabalho.
+Mobilidade: Vale Transporte, Fretado, Estacionamento e Circular Metrô.
+Clube de Benefícios: Para economizar e obter vantagens nas compras de produtos e serviços de diversas categorias, como Beleza e Fitness, Comer e Beber, Compras, Cultura e Lazer, Educação Ensino Einstein, Turismo e muito mais. 
+Programa Mais Conectados: Trabalho remoto nas modalidades Teletrabalho ou Híbrido conforme atividade e área de atuação. 
+Os benefícios podem sofrer alteração de acordo com a convenção coletiva, unidade de trabalho e políticas vigentes.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Co-Founder
+
+Sobre a vaga
+Junte-se a uma Plataforma SaaS Revolucionária de Contratação de Serviços Gerais + Faturamento como CEO Cofundador. Somente Participação, Investimento Preferencial.
+
+Nosso parceiro de plataforma SaaS de ServiceTech está procurando um visionário Diretor-executivo (CEO) Cofundador com fortes conexões com investidores (VC, PE, EB-5, etc.).
+
+Qualificações Principais:
+
+Histórico comprovado em atrair e garantir capital pré-seed.
+Rede ampla dentro da comunidade de investidores.
+Disposição para investir em troca de participação, embora a equipe seja flexível.
+NDA necessário para avançar.
+
+Ofertas:
+
+Bônus de Captação de Capital: 5% de todo o capital captado acima de $100k, com uma meta de $1M para MVP e $3M para produto pronto para o mercado.
+Oportunidade de Participação: Até 5% de participação para um investimento pessoal de $100k.
+Participação pelo Papel: 1.5% de participação, adquirida com um período de carência, com base no seu papel como CEO.
+Flexibilidade de Carreira: Oportunidade de transição para Diretor de Vendas ou Diretor de Receita, ou realizar uma saída, após a conclusão de todas as rodadas de financiamento.
+Compensação Futuramente: O papel muda para participação + salário após 2 trimestres de lucro.
+
+Junte-se à Equipe:
+
+Se você é um líder dinâmico, pronto para impulsionar a inovação e garantir financiamento crítico, queremos ouvir você. Entre em contato hoje para se juntar a uma equipe altamente motivada pronta para revolucionar os serviços gerais.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: AI Developer - SR
+
+Sobre a vaga
+Sobre a vaga
+Você integrará o time Tech e será responsável por impulsionar nossos modelos de LLM e TTM e promovendo as soluções e tecnologia oferecidas pela empresa.
+
+Buscamos profissional experiente com habilidades em desenvolvimento, com foco em Python , e capacidade de liderar tecnicamente projetos complexos.
+
+REQUISITOS E QUALIFICAÇÕES
+
+Experiência em soluções de Inteligência Artificial;
+Conhecimento em práticas de segurança de aplicações.
+Amplo conhecimento em NLP, NLU, TTM, LLMs e FMs;
+Conhecimentos em Python e/ou Node.js ;
+Conhecimento em Cloud Computing;
+Conhecimentos de Metodologia Ágil;
+Familiaridade com bancos de dados relacionais (MySQL, PostgreSQL e NoSQL).
+Familiaridade com bancos de dados não relacionais relacionais.
+Conhecimentos em ferramentas de versão de código, como GitHub, BitBucket, Git em geral;
+Familiaridade com alguns frameworks de Deep Learning como Tensorflow/Keras;
+Conhecimentos de implementação de APIs RESTful, WebRTC e WebSocket.
+
+Diferenciais:
+Familiaridade com MLOps e ferramentas como MLFlow, AirFlow, DBT;
+Conhecimento de DevOps;
+Experiência com análise de grandes volumes de dados e data pipelines.
+
+INFORMAÇÕES ADICIONAIS
+
+💰 Remuneração CLT compatível com o mercado; 
+
+💻 Trabalho 100% Remoto;
+
+🕛 Horário de trabalho flexível: De acordo com área de atuação e política interna; 
+
+🍎 Flash - Cartão de Benefícios Flexíveis com todas as categorias habilitadas: 
+ Alimentação, Refeição, Mobilidade, Educação, Saúde e Cultura.
+
+🧡 Seguro de Vida (Caixa Econômica) 
+
+🚑 Plano de Saúde (Porto Seguro) 
+
+🦷 Plano Odontológico (Porto Seguro) 
+
+📊 PLR de acordo com a política da empresa; 
+
+🎂 Voucher do Ifood no dia do aniversário; 
+
+💰 Programa de indicação #amigosv8.tech
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Engenheira de Machine Learning Sênior Trabalho Remoto Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+A A3Data é uma consultoria de dados, referência em #Dados! 🚀
+
+Somos, em nossa essência, aceleradores da cultura Data Driven nas organizações. Nosso foco é implantar Inteligência Estratégica e potencializar a cultura dos dados para os nossos clientes! 🎯
+
+Somos ágeis, analíticos e avançados e temos uma cultura leve, horizontal e muito colaborativa! ✌️
+
+Nosso propósito é empoderar as pessoas por meio dos dados. E, por isso, buscamos parceiros que também sejam loucos por dados e apaixonados por gente! 🤩
+
+#VemSerUmEu.A3💙
+
+Responsabilidades e atribuições
+
+Como Engenheiro(a) de Machine Learning Sênior, você será responsável por ajudar o time de cientista de dados no processo de desenho e construção de esteiras de deploy de modelos de Machine Learning 🚀
+
+ Desenhar e construir esteiras de deploy de modelos de Machine Learning;
+ Aplicar e desenvolver técnicas de MLOps;
+ Participar de projetos em contato direto com nosso clientes.
+
+Requisitos e qualificações
+
+As Experiências Que Precisamos Que Você Tenha (requisitos)
+
+ Experiência em Python;
+ Experiência com os serviços da AWS;
+ Conhecimento em Git
+ Conhecimento em ferramentas e bibliotecas de ML, como: Scikit-learn, MLlib, TensorFlow, etc.
+ Conhecimento de um pipeline de desenvolvimento e implantação de modelos;
+ Conhecimento Docker;
+ Experiência e construção de APIs;
+ Conhecimento CI/CD;
+ Pensamento critico e analítico;
+ Já ter disponibilizado modelos em ambientes de produção.
+
+Vamos Ficar Felizes Se Você Tiver (desejável)
+
+ Atuado em empresas de consultoria;
+ Experiência com LLMOps;
+ Experiência com Serverless Framework;
+ Experiência com Airflow;
+
+Informações adicionais
+
+Nossos Benefícios
+
+Vale Alimentação/Refeição flexível (Swile);
+Total Pass (academias);
+Vittude (atendimento psicológico online);
+Plano Saúde SulAmérica- 100% subsidiado para você Eu.A3;
+Plano Dental Amil;
+Maria Saúde;
+Seguro de Vida;
+Participação nos Lucros e Resultados;
+Bônus anual;
+Desconto nos cursos de idioma da Open English;
+Parceria AWS nível Advanced;
+Desconto na conta de energia elétrica (operadora CEMIG);
+Empresa Cidadã: licenças maternidade e paternidade estendidas;
+Samsung EPP (descontos em todo portfólio de produtos Samsung);
+Guapeco (plano de saúde para seu pet).
+
+E Mais
+
+100% home office;
+40 horas semanais;
+Dia a dia descontraído e acolhedor;
+Plano de carreira e acompanhamento individual;
+Programas internos de compartilhamento de conhecimento;
+Prezamos pela diversidade, liberdade, flexibilidade e autonomia!
+
+Curtiu o desafio?
+
+Estamos ansiosos para receber seu CV 🎯
+
+Um dos nossos valores é ser transparente, sempre! Por isso, é importante que saiba que avaliamos todos os CVs cadastrados e, se você tiver fit com a vaga e com nossa cultura, te convidaremos para um primeiro bate papo! 😉
+
+Mas, caso seu CV não seja selecionado dessa vez, não se preocupe! Ficaremos de olho, para futuras oportunidades. ✅
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Bate Papo A&S2Bate Papo A&S
+Etapa 3: Bate Papo Técnico3Bate Papo Técnico
+Etapa 4: MAPA4MAPA
+Etapa 5: Desafio Técnico5Desafio Técnico
+Etapa 6: Bate-papo com Lideranças do Projeto6Bate-papo com Lideranças do Projeto
+Etapa 7: Envio de Proposta7Envio de Proposta
+Etapa 8: Contratação8Contratação
+
+Sobre Nós 💙
+
+Somos loucos por dados, apaixonados por gente e obcecados pela excelência! 🚀
+
+Somos uma consultoria especializada em dados e inteligência artificial. Nosso propósito é empoderar pessoas e corporações por meio de dados, transferindo know-how e fortalecendo bases para a criação de uma Cultura Data Driven. Atuando como um advisor, realizamos projetos de alto impacto e transformação cultural por meio de uma jornada de maturidade analítica, desde a implantação de Data Lakes, passando pelo Self-Service Analytics, até a criação de Modelos Preditivos e Prescritivos.
+
+Utilizamos, integramos e criamos diversas tecnologias em Inteligência Artificial. Nossas soluções ajudam nossos clientes a compreender padrões de comportamento e relações entre indicadores, gerando valor a partir de diferentes fontes de dados.
+
+Nossos produtos aceleram a inovação por meio da análise avançada de dados, ajudando nossos clientes a reduzirem custos e aumentarem a eficiência operacional. Atuamos nos setores de saúde, educação, finanças, infraestrutura, logística, turismo, dentre outros.
+
+Nossos princípios moldam a essência de quem somos e definem a visão que temos para o futuro. São esses pilares que norteiam nossas ações e estratégias.
+
+✅ Foco nas pessoas
+
+✅ Compromisso com a excelência
+
+✅ Simplicidade
+
+✅ Comunicação transparente e eficaz
+
+VEM SER UM EU.A3 🚀 
+
+Somos um time de pessoas engajadas em um mesmo propósito atuando juntas com orgulho e senso de pertencimento, com evolução e desafios constantes. Que tal fazer parte de uma empresa certificada pelo GPTW como uma Excelente empresa para trabalhar no Brasil? 🤩
+
+Aqui, incentivamos o trabalho em equipe, somos obcecados pela excelência e queremos pessoas para crescer com a gente! 🎯
+
+#VemSerUmEu.A3 💙
+-----------------------------------------------------------------------------------

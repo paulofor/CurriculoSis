@@ -1,0 +1,381 @@
+[Oportunidade 1]
+Oportunidade: Lead Data Scientist - MyCC
+
+Sobre a vaga
+ADP is hiring a Lead Data Scientist.
+
+Does the thought of working with one of the most comprehensive employment data sets in the US excite you?
+Are you inspired by transformation and making an impact on the lives of millions of people every day?
+
+Well, this may be the role for you. Ready to design what's next?
+
+In this role, you'll acquire, clean, and analyze large data sets and do exploratory analysis to understand our data and if it meets project requirements. It's more than digits and dials - you're making huge decisions that impact millions of customers.
+
+Every day you'll work on a global team with multiple stakeholders to identify, design, develop and implement advanced analytics projects that track the consumer conversion funnel from start to end. You'll work with your team to provide, interpret, and predict necessary metrics for decision-making. You'll code with machine learning tools like Python, DataBricks, and AWS to synthesize millions of data sets into patterns that answer ad hoc requests and generates valuable insights for our clients.
+
+To thrive in this career, you should know how to identify errors and reactively fix them. You'll need to have some formal education in quantitative analytics and know design patterns and data structures. You have the skills to leverage existing models or create new models using the technologies above. But given the scale of our data sets and the complex problems we give you to solve, you will stay challenged and engaged with years of exciting projects ahead—all while growing your skills and progressing in a rewarding career.
+
+What You'll Do
+
+Here's what you can expect on a typical day: 
+
+Advanced Analytics & Predictive Modeling. You bring prior experience to the role of formulating analytical problems, extracting & analyzing data from multiple systems, summarizing critical findings/insights, and developing a compelling visual representation of analyses with actionable recommendations—this will set you up for success on Day 1.
+Own and Manage Projects. You will identify, design, develop, and implement advanced analytical projects.
+Limitless Possibilities. You will continue learning and discovering new ways to leverage ADP data to create new products and services and find more insights. You are passionate about learning and applying new techniques within data science that leads to innovations.
+Collaboration and Communication. You'll be part of a collaborative team, listening to needs, then finding and sharing solutions. You're comfortable and skilled at presenting to both peers and leadership on your projects and findings.
+Experience. You have strong experience in relevant skills gained and developed in the same or similar role.
+
+To Succeed In This Role
+
+Bachelor's degree in Computer Science, Statistics, Engineering or a related field.
+Strong experience (including both academic and professional) of related experience in relevant skills gained and developed in the same or similar role.
+Advanced English skills (able to interact daily with a distributed team).
+Fluency in Python - including popular data science packages (pandas, sklearn, etc) and quality tests.
+Strong knowledge of data structures, algorithms and methods used in the data science field.
+Experience with Machine Learning model development and deployment.
+Knowledge of Natural Language Processing.
+Experience with Cloud solutions (AWS, GCP, Azure).
+Interest in LLMs and Generative AI.
+Willing to work with ML Ops and Software Development activities as well.
+
+Bonus Points For These
+
+Master's degree in Computer Science, Statistics, Engineering, or a related field.
+Knowledge of Computer Vision.
+Good understanding of Software Engineering.
+Exposure to Jupyter notebooks and/or Databricks platform.
+Experience with AWS cloud solutions (S3, Glue, Lambda, SageMaker).
+Experience with integrating data products (recommender systems, classifiers, chatbots, etc) into applications in production environments.
+Knowledge of Continuous Integration & Delivery methodologies.
+Experience with Vector Databases.
+
+You'll Love Working Here Because You Can
+
+Have courageous team collaboration. Courage comes from how associates are willing to have difficult conversations, speak up, be an owner, and challenge one another's ideas to find the best solution.
+Deliver at epic scale. We deliver real user outcomes using strong judgment and good instincts. We're obsessed with the art of achieving simplicity with a focus on client happiness and productivity.
+Be surrounded by curious learners. We align ourselves with other smart people in an environment where we grow and elevate one another to the next level. We encourage our associates to listen, stay agile, and learn from mistakes.
+Act like an owner & doer. Mission-driven and committed to leading change, you will be encouraged to take on any challenge and solve complex problems. No tasks are beneath or too great for us. We are hands-on and willing to master our craft.
+Give back to others. Always do the right thing for our clients and our community and humbly give back to the community where we live and work. Support our associates in times of need through ADP's Philanthropic Foundation.
+Join a company committed to equality and equity. Our goal is to impact lasting change through our actions.
+
+What are you waiting for? Apply today!
+
+Find out why people come to ADP and why they stay: https://youtu.be/ODb8lxBrxrY
+
+(ADA version: https://youtu.be/IQjUCA8SOoA )
+
+Diversity, Equity, Inclusion & Equal Employment Opportunity at ADP: ADP is committed to an inclusive, diverse and equitable workplace, and is further committed to providing equal employment opportunities regardless of any protected characteristic including: race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, protected veteran status or disability. Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.
+
+Ethics at ADP: ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: [Ambev Global Tech] Cientista de Dados Senior – Generative AI
+
+Sobre a vaga
+Job Description
+
+Se você acredita que um processo de negócio pode sempre ser aprimorado, a gente precisa conversar!
+
+A maior cervejaria do mundo está com vaga aberta para Cientista de Dados Senior – Generative AI.
+
+A equipe global de Inteligência Artificial Generativa (Gen AI, do inglês: Generative Artificial Intelligence) da Anheuser-Busch InBev (AB InBev) tem a tarefa de gerar valor para o nosso ecossistema, criando vantagem competitiva por meio de soluções analíticas que integram componentes de Gen AI. As soluções aproveitam insights contextuais e informações significativas de nossos ativos de dados corporativos e bases de conhecimento, aumentando e promovendo processos de tomada de decisão orientados por dados. Com isso, capacitamos nossa empresa a tomar decisões bem informadas em todo o ecossistema. Como cientista de dados sênior, você trabalhará na interseção de:
+
+Desenvolvimento de soluções analíticas avançadas para criar valor, concentrando-se em oportunidades de negócios, com ênfase em Gen AI;
+Desenvolvimento, integração e aplicação de soluções de inteligência artificial, incluindo aprendizado de máquina/aprendizado profundo, com foco em Gen AI;
+Criação e aprimoramento de engenharia de prompt para realizar tarefas específicas usando LLM (por exemplo, OpenAI ou outros modelos de código aberto), especialmente em contextos de Gen AI;
+Promoção de práticas recomendadas de DevOps, incluindo fornecimento de modelos, dados e controle de versão de código, com aplicação em soluções de Gen AI;
+Compartilhamento de conhecimento para formar uma equipe forte e inovadora na criação de soluções analíticas, com especial atenção à Gen AI.
+
+Além disso, você poderá criar novos recursos de produto de ponta a ponta (por exemplo, desenvolver e implantar, bem como integrar novos modelos servidos em sistemas de produção). Você também analisará e influenciará a inteligência artificial (com foco em Gen AI), o projeto de engenharia, a arquitetura e o stack de tecnologia em vários produtos, para além do seu foco de atuação direta.
+
+Responsibilities and assignments
+
+Projetar, desenvolver, implementar e integrar aplicativos inovadores de modelo de linguagem (por exemplo, usando o Azure OpenAI e o Redis como banco de dados vetorial);
+Projetar, implementar, testar e aprimorar prompts para instruir o LLM a alcançar os resultados desejados;
+Colaborar com equipes multifuncionais para integrar tecnologias à arquitetura do aplicativo (por exemplo, LangChain, OpenAI Python SDK, LammaIndex, OLamma, entre outros);
+Implementar, integrar e otimizar modelos de aprendizado de máquina para tarefas de processamento de linguagem natural;
+Garantir a escalabilidade, o desempenho e a confiabilidade dos aplicativos de modelos de linguagem;
+Integrar e configurar ferramentas de observabilidade, como mlflow, langsmith, langfuse, weight and bias, etc., para monitorar e melhorar o desempenho dos aplicativos;
+Colaborar com cientistas de dados, engenheiros de dados, engenheiros de aprendizado de máquina e outras equipes técnicas, bem como com as principais partes interessadas, para aprimorar e refinar os modelos de linguagem com base no feedback do usuário e nos requisitos em evolução;
+Manter-se informado sobre as tendências e os avanços do setor em modelos de linguagem, IA e tecnologias relacionadas para trazer oportunidades de inovação para a equipe e a empresa;
+Ser protagonista na construção de um ambiente de evolução colaborativa, ajudando a equipe a reunir as melhores oportunidades e a fornecer a solução analítica adequada para criar valor.
+
+Requirements And Qualifications
+
+Bacharelado ou mestrado em ciência da computação, engenharia, matemática ou em uma área relacionada;
+Experiência comprovada em desenvolvimento e implantação de projetos de Gen AI (melhor se estiver utilizando o Azure OpenAI e o Redis como banco de dados vetorial);
+Conhecimento sólido das tecnologias de modelos de linguagem (melhor se incluir LangChain, OpenAI Python SDK, LammaIndex, OLamma, com aplicação em Gen AI);
+Experiência na implementação e otimização de modelos de aprendizado de máquina para processamento de linguagem natural, com ênfase em Gen AI;
+Experiência com ferramentas de observabilidade, como mlflow, langsmith, langfuse, weight, bias, etc;
+Sólidas habilidades de programação em linguagens como pyspark, python e proficiência em estruturas relevantes, com aplicações em projetos de Gen AI;
+Experiência em estatística (melhor se estiver inferindo a partir de grandes modelos de linguagem);
+Excelentes habilidades de resolução de problemas e comunicação;
+Inglês fluente.
+
+Additional information
+
+Vale refeição ou alimentação ifood;
+Vale transporte;
+Bônus;
+Plano de saúde e Telemedicina;
+Convênio odontológico;
+Convênio Farmácia;
+Self Learning (auxílio em cursos, certificações e idiomas);
+Seguro de vida;
+Instituto Ambev de Previdência Privada;
+Auxílio Material Escolar;
+Cesta de Natal e Kit Congelado;
+Brinquedos de Natal;
+Empresa cidadã (licença maternidade e paternidade) e presente do bebê;
+Desconto mensal em produtos AMBEV;
+Banco de horas;
+Gympass;
+Fretado;
+Abono anual referente a um salário.
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: Validação de Perfil 2Validação de Perfil 
+Step 3: Entrevista com a Gestão 3Entrevista com a Gestão 
+Step 4: Hiring4Hiring
+
+OLÁ, SOMOS A AMBEV TECH! 🍻
+
+E ninguém une tecnologia e cerveja como a gente! Temos a missão de transformar o dia a dia da maior cervejaria do planeta. Fazemos isso com um time incrível de pessoas apaixonadas e unidas em um único propósito: mudar o mundo com tecnologia.
+
+Buscamos entregar as melhores experiências e trazer soluções ágeis e descomplicadas para fazer a bebida chegar do campo ao copo. Todos os dias, impactamos milhares de pessoas. Cada brinde tem um pouquinho de nós. Essa é a nossa jornada, é o que fazemos e o que somos.
+
+Somos feitos de pessoas
+
+Acreditamos na diversidade e no quanto ela é capaz de fazer a gente evoluir. É através da pluralidade de ideias, de experiências e opiniões que conseguimos pensar fora da caixa e trazer soluções inovadoras. Pra gente, diversidade e inclusão são assuntos sérios! Por isso, contamos com um Comitê de Autenticidade Tech para olhar essas questões com muito carinho e responsabilidade.
+
+Estamos no mundo todo
+
+Também somos Ambev Global Tech. Integramos o hub de tecnologia global da Anheuser-Busch InBev (ABInBev), uma multinacional formada por um grupo de cervejarias com sede em Leuven, na Bélgica, e com outros escritórios globais em diversos países, incluindo Estados Unidos, México, Índia e Brasil.
+
+Vem com a gente!
+
+Nossas unidades estão presentes em Blumenau (SC), Maringá (PR), São Paulo (SP), Campinas (SP), Jaguariúna (SP), e Sorocaba (SP), e contamos ainda com um time remoto de vários cantos do Brasil! Já somos mais de 2.000 pessoas encarando cada desafio pra fazer diferente, mas queremos ir muito mais longe. Pra chegar lá, precisamos fortalecer nossa equipe!
+
+Tá afim de criar soluções para a maior cervejaria do planeta? Causar impacto, trazer inovação e transformar o mundo? Então, vem com a gente 😊
+
+We’re here for tech and beer.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Sr Full-Stack Developer with Data Analysis tools Knowledge
+
+Sobre a vaga
+Somos especialistas digitais e impactamos as marcas mais valiosas do mundo. Construímos produtos e soluções digitais focados nas necessidades dos nossos clientes. Como uma nativa digital, trazemos um histórico de 29 anos de aceleração do impacto nos negócios por meio de soluções digitais completas e escaláveis. Com uma presença global de mais de 6.000 pessoas em estratégia, pesquisa, ciência de dados, design e engenharia, desbloqueamos o crescimento de primeira linha, melhoramos a experiência do cliente e impulsionamos a eficiência operacional.
+
+Importante
+
+Para as pessoas residentes na Região Metropolitana de Campinas*, a presença nos escritórios é obrigatória, tendo que cumprir um mínimo de dias ao mês, estipulado pela empresa e projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+
+Seeking a Full-Stack Developer proficient in enterprise Java development, API development, Python, and data analysis tools, with the capability to contribute significantly to our front-end development efforts. This role is crucial for individuals who are not only technical experts but also innovators ready to tackle complex problems. Your contributions will be key in modernizing our CI/CD pipelines and establishing development standards as we navigate through modernizing our tech stack and reducing technical debt. You will have the opportunity to shape our development practices, ensuring our systems are robust, scalable, and efficient.
+
+Responsibilities
+
+ Enterprise Java Development: Lead in the development of enterprise-level applications using Java, focusing on creating solutions that are robust, scalable, and easy to maintain.
+ API Development: Design and implement secure, efficient RESTful APIs to facilitate application functionality and interoperability.
+ Python and Data Analysis: Leverage Python alongside data analysis tools to enhance our data-driven decision-making processes.
+ Front-End Development Contribution: Engage in front-end development projects, employing modern frameworks and technologies to ensure a seamless, intuitive user experience.
+ DevOps & CI/CD Pipeline Modernization: Utilize DevOps to drive the modernization of our CI/CD pipelines, incorporating automation, containerization (e.g., Docker, Kubernetes), and cloud technologies to enhance development and deployment processes.
+ Development Standards Construction: Work collaboratively to develop and implement coding standards, best practices, and guidelines to mitigate technical debt and support the tech stack's modernization.
+
+Requirements
+
+ Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+ Strong experience in full-stack development, particularly in enterprise Java development and API development.
+ Proficiency in Python and experience with data analysis tools and methodologies.
+ Demonstrated ability to contribute to front-end development projects, with knowledge of modern frameworks and best practices.
+ Experience with CI/CD pipeline modernization, including automation, containerization, and cloud services.
+ Commitment to collaborative development and enforcement of coding standards and best practices.
+ Excellent problem-solving skills, detail-oriented mindset, and dedication to quality.
+ Effective communication and collaboration skills, with the ability to work in a dynamic, cross-functional team environment.
+
+Our Benefits
+
+ Health plan and dental plan;
+ Meal allowances;
+ Childcare assistance;
+ Extended parenting leave;
+ Gympass
+ Annual profit-sharing distribution;
+ Life insurance;
+ Partnership with an online mental health platform;
+ CI&T University;
+ Discount Club;
+ Support Program: financial; psychological guidance; nutritionist and more;
+ Pregnancy course and responsible parenthood;
+ Partnership with online course platforms
+ Platform for language learning;
+ And many others.
+
+#MidSenior
+
+CI&T é uma empresa que oferece oportunidades iguais. Celebramos e valorizamos a diversidade de identidades e experiências vividas de nossos CI&Ters. Estamos empenhados em construir, promover e manter uma empresa e cultura diversificada, inclusiva e equitativa focada em criar um amanhã melhor.
+
+Na CI&T, reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Nossas equipes são mais impactantes quando pessoas de todas as formações e experiências colaboram para compartilhar, criar e ouvir ideias.
+
+Antes de candidatar as nossas oportunidades confira a Política de Conflito de Interesse em nosso site.
+
+Incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+
+Cidades que compõe a Região Metropolitana de Campinas : Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Machine Learning Engineer - IBP Build
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Partner with data engineers to ensure data access for discovery and proper data is prepared for model consumption.
+Partner with ML engineers working on industrialization.
+Coordinate work activities with Business teams, other IT services and as required.
+Drive the use of the Platform toolset and to also focus on 'the art of the possible' demonstrations to the business as needed.
+Communicate with business stakeholders in the process of service design, training and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Set KPIs and metrics to evaluate analytics solution given a particular use case.
+Refine requirements into modelling problems.
+Influence product teams through data-based recommendations.
+Research in state-of-the-art methodologies.
+Create documentation for learnings and knowledge transfer.
+Create reusable packages or libraries.
+
+Qualifications
+
+What you will need to succeed
+
+2+ years’ experience building solutions in the revenue management or in the supply chain space.
+2+ years working in a team to deliver production level analytic solutions. Fluent in git (version control). Understanding of Jenkins, Docker are a plus.
+3+ years’ experience in ETL and/or data wrangling techniques. Fluent in SQL syntaxis.
+3+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. Experiences with Deep Learning are a plus.
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or R development.
+Business storytelling and communicating data insights in business consumable format. Fluent in one Visualization tool.
+Strong communications and organizational skills with the ability to deal with ambiguity while juggling multiple priorities
+Experience with Agile methodology for team work and analytics ‘product’ creation.
+
+Additional qualifications that will make you stand out for this position
+
+Experience with Azure cloud services is a plus.
+Experience with distributed machine learning is a plus.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Machine Learning Engineer
+
+Sobre a vaga
+At Bain we say “Champion the bold to achieve the extraordinary”. At the Advanced Analytics Group (AAG) we deeply embody that statement; we put remarkable data innovators in front of the world's toughest challenges, delivering impact that goes way beyond businesses. By doing that, we aim to challenge the status quo and redefine the domains in which we work.
+We are building the most influential data innovation hub in South America. We are looking for creative yet courageous professionals like you to play a key role in helping us pursue this endeavor.
+What can you expect from us?
+We are people centered and team players: we want to provide an awesome environment to work and grow. An environment where we care about people, our wellbeing and a healthy and vibrant long term development. We believe in a place where autonomy is at the core, and where servant leadership provides direction, guidance and motivation, enabling the best version of each of us so we can build teams based on trust and where we help others shine.
+We deliver positive impact and challenge the status quo: we are obsessed with unleashing our clients’ full potential by developing quick and dirty data products that evolve fast through agile experimentation. We design a vision not conquered yet, and we only seek to make it a reality and bring true impact to the domains we work on. Be it a very complex operational mining process, an NGO’s educational challenge, a retailer’s e-commerce, or a climate change endeavor, we bring state-of-the-art advanced analytics techniques to create new superior realities for our clients.
+We are playful and seek for uniqueness: complex problems require thinking out-of-the-box, giving room to challenging ideas and points of view. How we enable that? By nurturing creativity and having fun exploring novel paths and promoting curiosity and learning in empowered teams that take seriously their instincts and passions. We’ve seen over and over again that this never-ending learning philosophy make us better and stronger, broaden our capability range and enlighten our version in the future to tackle challenges that we haven’t seen before.
+We’d love if:
+You are a curious person.
+You are obsessed by learning new things, tackling new problems and being constantly challenged.
+You describe yourself as a proactive and creative person.
+You don’t feel bad facing failure, instead you learn the reason behind it and learn from it.
+You value learning from others, but you also love learning by yourself and teaching yourself new skills.
+You value when things are well-written, so you put your best effort on it. Be it code, documentation or an email.
+You feel comfortable reading, writing and speaking in English.
+You speak Spanish or Portuguese (⭐️ if you dominate both).
+You have strong communication skills and feel comfortable working with people that have different roles and seniority levels.
+You enjoy working on constantly iterative processes.
+You embrace a deep respect for diversity.
+Machine Learning Engineer @ Bain
+We are looking for a new Machine Learning Engineer to join our team in Brazil, to work in advanced analytics projects for our clients, in our factory team and/or in our own R&D team. For us, a Machine Learning Engineer is someone who has a broad knowledge of all the lifecycle of a Machine Learning project. We don’t expect you to necessarily have the deep mathematical knowledge a Data Scientist has. Nor being able to write a whole web application by yourself, as a Software Engineer does. But, you must feel very comfortable navigating between both worlds.
+As a Machine Learning Engineer, you will play a fundamental role on technical decision making, embedded in projects and working with clients of different industries. You will also get your hands dirty writing code to get Machine Learning models working at real world production environments. This role teams up closely with Data Scientists, Impact Leaders, Consultants and Team Leaders to boost, deepen and streamline the development of innovative solutions that respond to high complexity problems.
+What we expect from you?
+Strong theoretical background on machine learning, ideally practical experience on building and deploying machine learning models.
+Write code in Python, embracing good code practices.
+Being able to deal with different tasks during the whole Machine Learning life cycle. What kind of tasks? ML model deployment and maintenance, building and using tools for ML monitoring, CI/CD pipeline design, supporting experimentation with ML models, designing and building data pipelines, among others.
+You have experience working with cloud infrastructure.
+You are familiar with the lifecycle of a Machine Learning model.
+You are familiar with Containers.
+You can build a service that exposes a ML Learning model to be consumed by other applications.
+You love teaching others and sharing good practices.
+You like getting your hands dirty with new tools and languages. Sometimes it is better to take a risk and learn something new, rather than choosing the good old hammer you always use. It doesn’t matter if you take more time, it is an investment for the future.
+You like being versatile. You get bored when every day looks the same, so you like sometimes getting dressed as a Data Scientist, Data Engineer or Software Engineer.
+Constant collaboration with your teammates.
+Provide and accept frequent feedback.
+Be autonomous within a collaborative environment.
+Find the best and unique version of yourself and boost it!
+You have 2 or more years of experience and/or a relevant graduate degree.
+What can you expect working with us?
+At the beginning
+A big welcome!
+Start with one of our clients in a project that has a clear scope and timeline.
+Immediately become part of our diverse human ecosystem.
+Become familiar with our tools and methodologies.
+You will have a buddy who will support you in everything related with your entry.
+You will have a Professional Development (PD) advisor to support you in your professional development.
+During your first case
+Start with one of our clients in a project that has a clear scope and timeline.
+Be exposed to the inner-workings of a company and challenges.
+Interaction! You will have to relate with team mates as well as with clients in a dynamic style.
+Deploy a model into production that will directly impact reality.
+Start your PD plan inside AAG.
+You will receive continuous feedback from your team and leadership.
+In between cases
+It is common that when you end up a project, you have time until you are assigned into another project. This window is specially important so you can:
+Cool down and recover energies for next project.
+Document knowledge for the internal and external community.
+Join our R&D Lab and help us put into practice state-of-the-art and recently published AI papers.
+Write an article to publish on our engineering Medium.
+During your second case
+You will tackle a second problem, ideally different from your last project.
+As long as you learn new techniques, the complexity of your proposed solutions will grow.
+You will start walking ahead in your PD with your advisor.
+And from there
+You will be staffed to different projects in different industries.
+You will share with your colleagues your success and your failures.
+You will strengthen your critical thinking and be able to propose suitable solutions for each challenge.
+You will have the space to explore topics of your interest and write articles to consolidate your knowledge and share it with your colleagues.
+You will have space to work in pro-bono projects.
+Benefits
+Apple equipment.
+Maternity and Paternity leave: birth and non-birth parents will be eligible to receive 26 weeks* of paid leave.
+Life and medical insurance.
+Supplementary Health and Dental Insurance.
+Yearly bonus based on performance.
+Leave of Absence: unpaid break of 1-12 months (eligible after 1 year working with us).
+Gympass: experience fitness and wellness with gyms, studios and apps.
+Headspace: annual free subscription to the app that will provide Meditation and mindfulness for any mind, any mood, any goal.
+Language study subsidy (Spanish, Portuguese and English).
+By law, maternity leave in Chile can reach 30 weeks of paid leave.
+Note: some benefits may differ depending on location and could be subject to change.
+ABOUT US
+Bain & Company is a global consultancy that helps the world’s most ambitious change makers define the future.
+Across 62 cities in 37 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition, and redefine industries. We complement our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster, and more enduring outcomes. Our 10-year commitment to invest more than $1 billion in pro bono services brings our talent, expertise, and insight to organizations tackling today’s urgent challenges in education, racial equity, social justice, economic development, and the environment. Since our founding in 1973, we have measured our success by the success of our clients, and we proudly maintain the highest level of client advocacy in the industry.
+-----------------------------------------------------------------------------------

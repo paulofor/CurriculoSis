@@ -1,0 +1,273 @@
+[Oportunidade 1]
+Oportunidade: Senior AI Specialist (Python, AWS, Azure)
+
+Sobre a vaga
+Join Our Team
+
+Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team.
+
+As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact.
+
+We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence.
+
+Requirements
+
+Extensive experience in Python: Proven ability to design and implement complex and scalable software systems.
+Hands-on expertise with cloud platforms, particularly AWS and Azure (including CI/CD pipelines and automation).
+Strong knowledge of Artificial Intelligence, including experience with AI frameworks, algorithms, and deploying AI-driven solutions.
+Familiarity with DevOps tools such as Kubernetes, Docker, and Terraform for managing and orchestrating cloud environments.
+Experience with machine learning pipelines and large-scale distributed systems.
+Proficiency in working with data engineering tools like Apache Spark or Kafka for handling big data workflows.
+Demonstrated ability to lead cross-functional teams in delivering complex software and AI solutions.
+Strong understanding of software architecture patterns, including microservices and event-driven architectures.
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related technical field.
+
+Benefits & Perks
+
+Home office;
+
+Flexible Hours
+
+Competitive compensation based on experience;
+
+Career plans to allow for extensive growth in the company;
+
+International Projects;
+
+Oowlish English Program (Technical and Conversational);
+
+Oowlish Fitness with Total Pass;
+
+Connecting You (Internet allowance);
+
+Anniversary bonus;
+
+Wedding gift;
+
+Pet adoption incentive;
+
+New baby Oowl bonus;
+
+Back to School bonus;
+
+Streaming Subscription;
+
+PTO Bonus;
+
+Games and Competitions;
+
+Enjoy your national Holidays.
+
+You Can Also Apply Here
+
+Website: https://www.oowlish.com/work-with-us/
+
+LinkedIn: https://www.linkedin.com/company/oowlish/jobs/
+
+Instagram: https://www.instagram.com/oowlishtechnology/
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Sr. AI Lead (Gen AI)
+
+Sobre a vaga
+Job Description
+
+Chief Data Office (CDO) is a Mars Wrigley program that harnesses the power of data and insights to solve some of the critical business-wide problems we face – unlocking quality growth and operational excellence.
+
+Through CDO, we deliver connected insights across the entire Snacking ecosystem. We empower our Associates with the right data, tools and capabilities so they can take decisive action, maximizing value and making a meaningful impact on our consumers, our customers and our business.
+
+This position will play a key role in leading the Mars Snacking ecosystem into the ever-evolving world of Generative AI. This role will lead Gen AI projects in planning and execution across varying types of use cases (creative and processionary). They will create and define frameworks, guidelines and standards to make sure that Mars Snacking is taking full advantage of this field.
+
+They will also be expected to play hands-on when required and be able to guide the broader Data Science community through complex Gen AI and LLMOps projects.
+
+What are we looking for?
+
+7+ years of experience working in a quantitative role preferably in the CPG, or retail industry.
+4+ years of experience managing a team of data scientists, product analysts or data analysts
+Proven track record of delivering value through AI/ Data Science products in a fast-paced, agile environment using a scalable and reusable codebase and models to address business problems effectively.
+Partner with business leadership across functions to identify business challenges and opportunities and translate them unto actionable, integrated, data-driven solutions.
+An expert understanding of LLMs, ML Ops, LLM Ops and pertinent design architecture elements.
+An understanding of product management principles such as product definition, roadmap building and management, and product releases and commercialization
+Hands on experience in building Agents and leveraging emerging technologies within Microsoft and Google to design an agentic ecosystem.
+A strong customer centric mindset especially within an internal customer base with the purpose of driving value creation, adoption and use
+Strategic thinking, problem solving and innovation, with the ability to anticipate and navigate challenges and opportunities. 
+Ensure compliance with analytics standards, including tailoring methodologies to specific use case needs such as ML, AI, and descriptive analytics.
+Ability to translate business needs into analytical frameworks & superior verbal and written communication skills
+Proficiency and hands-on experience in advanced analytics techniques and machine learning algorithms, including NLP, time-series analysis and other relevant methods and willingness to coach data scientists tactically 
+Working understanding of ML Ops and DevOps frameworks
+Working expertise of OpenAI Endpoints, Google Vertex, Google Model Garden and Microsoft Suite of AI Models.
+
+What will be your key responsibilities?
+
+Serve as the key lead for Gen AI and LLM Ops in the Mars Snacking Community
+Applies strong expertise in AI through use of machine learning, data mining, and statistical models to design, prototype and build next generation ML engines and services 
+Design, architect and review technical architecture of data science solutions
+Plan and lead data science projects that cover a diverse range of business problems
+Serve as key point of contact with Data Engineering and DevOps teams, for solution architecture and infrastructure design
+Review work of team members identifying optimum methodologies, advising on implementation, and checking business logic
+Use machine learning techniques, visualizations, & statistical analysis to gain insight into various data sets – some readily available, and some you create and curate yourself 
+Collaborate with internal and external teams to ensure we focus on product and service recommendations and be a key player in our network of talent
+Contribute to a high performing data science function 
+Create repeatable, interpretable, dynamic and scalable models that are seamlessly incorporated into analytic data products
+Performance Monitoring: Define key performance indicators (KPIs) and implement monitoring systems for deployed data platforms and products to ensure efficient operations data operations, effective support services and incident management.
+Solution ideation and Development: Guide a team of data scientists to create fit for purpose solutions using cutting edge analytical and AI methodologies.
+Focus on setting up a Data Science AI program and delivery methodology: Entails, recruiting and forming a team to solve a specific problem; elaborating on a programmatic mindset and tracking value delivery
+
+What can you expect from Mars?
+
+Work with diverse and talented Associates, all guided by the Five Principles.
+Join a purpose driven company, where we’re striving to build the world we want tomorrow, today.
+Best-in-class learning and development support from day one, including access to our in-house Mars University.
+An industry competitive salary and benefits package, including company bonus.
+
+#TBDDT
+
+Mars is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. If you need assistance or an accommodation during the application process because of a disability, it is available upon request. The company is pleased to provide such assistance, and no applicant will be penalized as a result of such a request.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: DevOps Engineer Senior-Level
+
+Sobre a vaga
+At Globant, we are working to make the world a better place, one step at a time. We enhance business development and enterprise solutions to prepare them for a digital future. With a diverse and talented team present in more than 30 countries, we are strategic partners to leading global companies in their business process transformation.
+
+We seek a DevOps Engineer Senior-Level who shares our passion for innovation and change. This role is critical to helping our business partners evolve and adapt to consumers' personalized expectations in this new technological era.
+
+What will help you succeed:
+
+Fluent English (B2 - Upper Intermediate)
+Solid Linux/Unix administration skills.
+Good knowledge of IaC (Infrastructure as Code)
+Knowledge of automation tools (CICD)
+Knowledge of Configuration tools
+A development background and a strong scripting knowledge.
+
+
+This job can be filled in location 
+
+Create with us digital products that people love. We will bring businesses and consumers together through AI technology and creativity, driving digital transformation to positively impact the world.
+
+At Globant, we believe in fostering a diverse and inclusive workplace where everyone feels valued and respected. We are an Equal Opportunity Employer committed to creating a thriving and inclusive environment for all employees and candidates, regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. If you need any assistance or accommodations due to a disability, please let us know by applying through our Career Site or contacting your assigned recruiter.
+
+We may use AI and machine learning technologies in our recruitment process. Compensation is determined based on skills, qualifications, experience, and location. In addition to competitive salaries, we offer a comprehensive benefits package. Learn more about our commitment to diversity and inclusion and Globant’s Benefits.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Desenvolvedora Android Senior (Vaga afirmativa para Mulheres) (Presencial), Campinas, Brasil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis.Com mais de 6.500 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história.
+Importante: Posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+A Inteligência Artificial é a nossa realidade. Ao se candidatar para uma de nossas vagas, você está de acordo com a utilização de IA nas fases de triagem e pré-seleção, onde seu perfil será avaliado pela nossa assistente virtual. Para mais informações, acesse nossa página de oportunidades.
+
+Vaga Afirmativa para Mulheres!
+✨ Você, mulher talentosa, está pronta para um novo desafio? ✨
+Estamos em busca de uma Desenvolvedora Android Sênior, com inglês avançado, para se juntar à nossa equipe!
+Essa posição é para atuar em um projeto com um dos nossos maiores clientes internacionais na área financeira, que exige trabalho 100% presencial em nosso escritório em Campinas, devido a questões de segurança. 
+Você ajudará a desenvolver produtos destinados a clientes do mercado financeiro, facilitando a compra de fundos mútuos, ETFs, planos de aposentadoria, títulos e outros produtos financeiros.
+🌟 Se você é apaixonada por tecnologia, possui excelente comunicação em inglês e está pronta para embarcar em uma jornada empolgante, essa é a sua chance! 🌟
+Venha fazer parte da nossa equipe!
+Responsabilidades:
+- Colaborar com a equipe da CI&T para atender às demandas de um cliente no setor financeiro.
+- Realizar implantações ágeis, garantindo a qualidade e a estabilidade do produto.
+- Colaborar com equipes multifuncionais para identificar, priorizar e implementar melhorias e correções de bugs para melhorar o desempenho do sistema e a experiência do usuário.
+- Desenvolver e manter um código robusto, escalável e eficiente para apoiar o desenvolvimento e a manutenção contínuos de nossas aplicações.
+- Realizar testes e depuração minuciosos do código para garantir entregas de alta qualidade.
+- Participar de revisões de código e fornecer feedback construtivo às pessoas da equipe.
+Requisitos para este desafio:
+- Experiência anterior com desenvolvimento Android utilizando Kotlin.
+- Sólida atuação com a linguagem Kotlin e convenções de codificação.
+- Atuação com injeção de dependência com Dagger ou Hilt.
+- Prática com padrões arquiteturais de software como REST, MVVM, MVC e Clean.
+- Vivência anterior com testes unitários com JUnit e testes automatizados de UI, com Espresso.
+- Familiaridade com a componentização de elementos de interface e conhecimento básico de Material Design.
+- Experiência com versionamento de código usando Git e familiaridade com o fluxo Git trabalhando com várias equipes.
+- Conhecimento/Experiência trabalhando em um ambiente CI/CD maduro com GitHub Actions.
+- Nível de inglês avançado para conversação.
+Diferenciais:
+- Experiência na migração de Java para Kotlin em aplicativos Android.
+- Conhecimento prévio na migração de arquitetura de módulo único para arquitetura de múltiplos módulos.
+- Apoio a pessoas QA com automação E2E com Appium.
+- Prática com toggles de funcionalidade e desenvolvimento baseado em trunk.
+- Alguma experiência com Node.js ou leitura e compreensão de aplicações Node.
+- Conhecimento desejado em ferramentas da Adobe, como Adobe Target, Adobe Analytics, AEM, etc.
+#MidSenior
+
+
+Nossos benefícios:
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença paternagem estendida;
+- Wellhub (Gympass);
+- TotalPass;
+- PLR;
+- Seguro de Vida;
+- CI&T University;
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e paternagem responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros.
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+A colaboração é nosso superpoder, diversidade nos une, e a excelência é nosso padrão.
+Valorizamos a diversidade de identidades e experiências de vida, fomentando um ambiente de trabalho diverso, inclusivo e seguro. Incentivamos a candidatura de pessoas de comunidades diversas e sub-representadas às nossas vagas.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: IT Engineer Expert (Java)
+
+Sobre a vaga
+# QUEM SOMOS
+A F1RST é o futuro e sua carreira está aqui! Nossa cultura é baseada em “Pessoas, Inovação e Resultados”. ☝️
+Fazemos parte do maior banco Internacional do Brasil, um dos maiores bancos do mundo. Promovendo serviços e experiências para os mais de 60 milhões de clientes de todo o ecossistema Santander.
+Venha fazer parte do time que tem como propósito apoiar as pessoas e fazer os negócios prosperarem. 🚀
+Somos apaixonados por tecnologia. Somos F1RST Digital Services.
+
+Siga o nosso LinkedIn e fique por dentro de todas as novidades: https://www.linkedin.com/company/f1rstdigitalservices
+
+Temos uma vaga para você se tornar IT Engineer Expert (Java).
+
+Aqui, seu papel será:
+Análise e levantamento de requisitos para as soluções de BaaS a serem desenvolvidas pelo banco;
+Tomada de decisão e desenho de arquitetura das soluções de BaaS para a obtenção da melhor experiência para o cliente;
+Determinação das arquiteturas das soluções e design de código a serem aplicadas pelo time;
+Apoio aos desenvolvedores para execução do plano das soluções;
+Desenvolvimento das soluções quando necessário;
+Avaliação e proposição das melhores práticas de desenvolvimento de software;
+Implantação das soluções desenvolvidas;
+Estabilização e manutenção das soluções.
+
+Requisitos Imprescindíveis:
+Sólidos conhecimentos em aplicações cloud;
+Sólidos conhecimentos em Java;
+Sólidos conhecimentos de microsserviços e serviços seguindo padrões de mercado (REST API, autenticação, autorização e monitoração);
+Sólidos conhecimentos em design patterns, anti-patterns, SOLID, hexagonal architecture e clean architecture;
+Prática em testes unitários;
+Experiência com banco de dados SQL e noSQL;
+Familiaridade com a metodologia Scrum, Jira, processos de DevOps e Cloud Computing Azure ou AWS;
+Experiência de Site Reliability Engineering, APM e Logging;
+Sólidos conhecimentos em Kubernetes, AKS ou AWS;
+Conhecimento em arquitetura orientada a eventos (Kafka, Event Hub).
+
+Requisitos Desejáveis:
+Conceitos em oAuth 2.0 ou OpenID e criptografia;
+Certificações Java;
+Certificações cloud;
+Atuação em projetos de renovação tecnológica.
+
+Local de Trabalho: Radar - Rua Amador Bueno, 474 – Santo Amaro, São Paulo – SP
+
+# BENEFÍCIOS:
+➡️ Auxílio refeição;
+➡️ Convênio médico;
+➡️ Convênio Odontológico: Plano básico e intermediário;
+➡️ Vale Transporte;
+➡️ Flex Férias: 24 dias úteis de férias podendo ser divididos em até 6 vezes, e a cada 2 meses trabalhados você já pode aproveitar 4 dias úteis;
+➡️ DayOff Aniversário;
+➡️ Parceiros de academia: Wellhub, Totalpass;
+➡️ Flex Working: Modelo de trabalho híbrido: 2 dias Home Office e 3 dias presenciais;
+➡️ Plataformas de treinamento com mais de 100 mil cursos;
+➡️ Linhas de carreira para o seu desenvolvimento profissional;
+➡️ Flex Learning: Incentivo para estudos exclusivo a funcionários com Alta Performance;
+➡️ Auxílio Creche;
+➡️ Programa Nascer e Licença Paternidade estendida.
+-----------------------------------------------------------------------------------

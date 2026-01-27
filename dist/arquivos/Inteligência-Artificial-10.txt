@@ -1,0 +1,324 @@
+[Oportunidade 1]
+Oportunidade: Especialista P&D - Inteligência Artificial
+
+Sobre a vaga
+Position Summary
+
+É missão da Samsung inspirar o mundo e moldar o futuro com ideias e tecnologias transformadoras!
+
+E você sabia que muitas dessas inovações são pensadas e desenvolvidas por talentos brasileiros e impactam a vida de milhões de pessoas pelo mundo?
+
+Nosso Centro de Pesquisa e Desenvolvimento - o SRBR - conta com duas unidades no Brasil, em Campinas/SP e em Manaus/AM, com atuação nas áreas de Inteligência Artificial, Segurança da Informação, Ciência de Dados, Desenvolvimento de Software e Automação, e é referência em tecnologias aplicadas à saúde e bem-estar.
+
+Aqui no SRBR respiramos inovação! Trabalhar em um P&D é estar sempre à frente, olhando para o futuro. Por aqui, profissionais da tecnologia e da área da saúde trabalham, pesquisam e criam soluções juntos, com muita sinergia e colaboração, em um ecossistema disruptivo que inclui universidades, institutos de pesquisa e acadêmicos.
+
+Nosso DNA é de pura inovação e criatividade, sem perder nossa essência de empresa sólida, consistente e em pleno crescimento.
+
+Nosso jeito de trabalhar está em constante evolução, acreditamos na potência do trabalho presencial para a sinergia entre as equipes. ;)
+
+Vem transformar o mundo com a gente! Vem ser #SAMSUNGER
+
+Role And Responsibilities
+
+Atuar com pesquisa e desenvolvimento envolvendo inteligência artificial, com modelagem de redes neurais, processamento de sinais e técnicas de aprendizado de máquina.
+
+PRINCIPAIS RESPONSABILIDADES
+
+ Participar de projetos de P&D de Inteligência Artificial (IA) do SRBR, que têm o objetivo de produzir tecnologia inovadora para equipar os dispositivos Samsung e possibilitar novos serviços inovadores;
+ Contribuição prática projetando modelos de aprendizado de máquina, definindo e executando experimentos, realizando avaliações, gerando relatórios para várias partes interessadas (técnicas e executivas) e permitindo que a tecnologia seja implantada nos dispositivos e serviços da Samsung;
+ Contribuir para a formulação da estratégia da equipe, propondo projetos inovadores;
+ Interagir continuamente com a sede da Samsung para entender e alinhar as estratégias de IA e os roteiros e requisitos de tecnologia correspondentes;
+ Discutir e negociar novos projetos de IA;
+ Acompanhamento do progresso do projeto de IA;
+ Responsável por desenvolver tecnicamente pares;
+ Suporte à liderança técnica e condução de projetos de IA;
+
+COMPETÊNCIAS TÉCNICAS
+
+ Conhecimento em reconhecimento de padrões, processamento de sinais e redes neurais;
+ Conhecimento em design de classificadores e regressores;
+ Conhecimento em probabilidade, estatística, projeto e avaliação de experimentos;
+ Conhecimento em inteligência artificial e ambientes de big data;
+ Conhecimento em programação avançado (Python, C/C++, R e Java);
+ Conhecimento em técnicas, algoritmos e bibliotecas de aprendizado de máquina aplicados a plataformas móveis e vestíveis;
+ Conhecimento prático de execução/implantação de modelos de aprendizado de máquina em dispositivos móveis;
+ Conhecimento prático em otimização de aprendizado de máquina com o objetivo de reduzir a complexidade de redes neurais profundas;
+ Conhecimento em abordagens de aprendizado de máquina que podem ser atualizadas com dados do usuário após a implantação (aprendizado on-line, aprendizado por reforço, etc.);
+ Conhecimento em engenharia de software, incluindo metodologias, práticas recomendadas e ferramentas relacionadas;
+ Conhecimento em conjunto de ferramentas do Unix;
+ Publicação acadêmica e participação em conferências.
+
+REQUISITOS
+
+Bacharel em Ciência da Computação, Estatística, Matemática, Engenharia da Computação, Engenharia Elétrica ou ou áreas correlatas;
+Mestrado em Ciência da Computação, Estatística, Matemática, Engenharia da Computação, Engenharia Elétrica ou áreas correlatas;
+Doutorado em Ciência da Computação, Estatística, Matemática, Engenharia da Computação, Engenharia Elétrica ou áreas correlatas (Desejável);
+Inglês: avançado oral e escrito.
+
+Local: Campinas, SP.
+
+Skills And Qualifications
+
+NOSSOS BENEFÍCIOS
+
+O bem-estar das pessoas é prioridade por aqui, por isso oferecemos o SRBR Health, um programa com várias ações focadas na saúde física e mental dos colaboradores. Temos sessões de massagem, relaxamento e alongamento, oferecemos acesso à plataforma Zenklub, serviço de atendimento online com terapeuta, psicólogo, psicanalista ou coach e o Wellhub (antigo Gympass), um programa completo de bem-estar físico, mental e nutricional.
+
+ Nossas mesas de pingue-pongue fazem muito sucesso, e para descobrir os novos talentos esportivos, promovemos um torneio anual que é bem disputado.
+ Valorizamos a conexão familiar, por isso as licenças parentais por aqui são estendidas. Licença-maternidade (6 meses) e paternidade (20 dias), além de auxílio creche para cada filho com idade até 24 meses.
+ Temos a Sala Materna, um espaço de apoio à amamentação, para as mamães lactantes realizarem a retirada e estocagem de leite materno, durante o expediente.
+ Horário flexível.
+ Vale refeição.
+ Plano de saúde (extensível aos dependentes legais).
+ Plano odontológico (extensível aos dependentes legais).
+ Seguro de vida.
+ Vale transporte ou fretado.
+ Auxílio combustível (pode ser usado em outros serviços).
+ Celular corporativo.
+ PLR anual.
+ Bônus anual, com base na performance.
+ Portal com descontos exclusivos em produtos Samsung.
+ Oferecemos 4 horas semanais para dedicação exclusiva a mestrado e doutorado.
+ Temos uma plataforma de desenvolvimento e aprendizagem, o Samsung U, com acesso a milhares de cursos online totalmente gratuitos.
+ Um ambiente de trabalho que estimula a criatividade, o trabalho colaborativo e a conexão entre os times.
+
+DIVERSIDADE, INCLUSÃO E EQUIDADE
+
+Acreditamos no poder das diferenças para criar inovações que atendam e representem todas as pessoas! Estamos em um amplo processo de evolução de um local de trabalho com mais diversidade, equidade e inclusão, por isso valorizamos as candidaturas de todas as pessoas e suas identidades de gênero, etnia, raça, religião, orientação sexual, idade ou deficiência.
+
+As informações confidenciais e proprietárias obtidas por você durante seu histórico de emprego em outras empresas devem ser mantidas como tal (confidenciais e proprietárias) durante todo o processo de seleção, não podendo, em hipótese alguma, ser abertas ou compartilhadas com os entrevistadores.
+
+ Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro (a) de Soluções para Plataforma de Dados
+
+Sobre a vaga
+Job Description
+
+Somos o Time de Engenharia de Soluções para Plataforma de Dados, fazemos parte da Organização de Conhecimento, temos um papel fundamental dentro da estratégia da corporação e trabalhamos diretamente com nossos executivos na criação e condução das maiores e mais estratégicas oportunidades e contas do Brasil.
+
+Criamos e lideramos propostas provocativas e transformacionais junto nossos clientes para estabelecer processos consultivos de venda de valor, através de grupos de trabalho heterogêneos e multidisciplinares.
+
+Perfil da Vaga:
+
+A pessoa desta vaga precisa ter paixão por oferecer soluções de impacto positivo aos clientes, através da construção de relacionamentos duradouros e de excelência. Tudo isso, dentro de um ambiente de trabalho dinâmico, sem uma rotina fixa e com foco na construção de confiança entre todas as partes envolvidas.
+
+Para esta posição é um diferencial a vivência e conhecimento em tecnologia, melhores práticas das indústrias, processos de negócios e padrões de arquitetura para impulsionar iniciativas de transformação digital.
+
+Buscamos por pessoas de alta performance que gostem de trabalhar em equipe, motivados e apaixonados em aplicar inovação, tendências e tecnologia para transformar organizações e processos. Uma pessoa que atue como uma facilitadora, mantendo contato com executivos de nossos clientes, a fim de desenhar como nossas soluções possam atender seus desafios e fornecer diferenciais competitivos através de propostas inovadoras.
+
+É importante que consiga liderar, elaborar e co-criar soluções tecnológicas com tendências do mercado, realizar estudos de negócios sobre adoção de nuvem, assim como conduzir junto as nossas áreas de serviços e/ou nosso ecossistema de parceiros as estimativas de implantação e sustentação desta jornada. O entendimento dos diferentes cenários, a ênfase nos benefícios aos negócios, bem como levantamento e apresentação de casos de referências serão algumas das atividades principais da função. Internamente precisará trabalhar no dimensionamento das soluções, engajamento de recursos e profissionais; para, ao final apresentar uma proposta completa e aderente ao negócio do cliente.
+
+Career Level - IC4
+
+Responsibilities
+
+Em adicional, é esperado:
+
+Desenvolver parcerias sólidas com os clientes cultivando um relacionamento de confiança com foco na construção de uma percepção de valor positiva por parte do cliente;
+Manter proximidade dos clientes para oferecer continuidade/renovação do contrato de créditos de Cloud com a Oracle;
+Desenvolver um relacionamento de confiança com os clientes, visando sua satisfação.
+Ser ponto focal entre cliente e a equipe interna da Oracle;
+Ter atenção às oportunidades de expansão/up sell de ofertas Cloud IaaS/PaaS;
+Atuar diretamente com as equipes de Vendas, Educação, Canais, Pré-Vendas e Marketing para estabelecer uma experiência positiva aos nossos clientes através das nossas Ofertas Cloud;
+Quando necessário prestar consultoria técnica em ofertas de Cloud Oracle, bem como conhecer ofertas Multi-Cloud;
+Relacionamento com clientes, incluindo o entendimento da necessidade e apresentação/defesa de soluções, Visões e Roadmap da jornada de Transformação;
+Criatividade e flexibilidade para atuar em ambientes inovadores e dinâmicos;
+Sólidas habilidades de colaboração, comunicação, liderança no trabalho em grupos diversos;
+Espírito de dono, pensamento de startup para promover com paixão a mudança do status quo;
+Compromisso com seu constante desenvolvimento e crescimento.
+
+
+Algumas habilidades técnicas requiridas:
+
+Conhecimento em banco de dados Oracle
+Soluções de replicação em ambiente físico e/ou nuvem e conceitos sobre RTO/RPO/DR
+Conhecimentos básicos em networking e protocolos de comunicação
+
+
+Habilidades técnicas desejadas:
+
+Conhecimento de Oracle GoldenGate
+Conhecimento de banco de dados (PostegreSQL, MongoDB, MSSQL Server)
+Conhecimento de Arquitetura em nuvens públicas (Oracle, AWS, Azure e Google Cloud e etc) 
+Experiência em Multi-Cloud e Infraestrutura de TI tradicional;
+Conhecimento de arquiteturas de Data Center.
+Soluções de servidores, storage, backup, sistema operacional, banco de dados e conectividade
+Experiência prática no planejamento, desenvolvimento e entrega de projetos de migração de on-premise para nuvem;
+Inglês intermediário 
+
+
+About Us
+
+As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s problems. True innovation starts with diverse perspectives and various abilities and backgrounds.
+
+When everyone’s voice is heard, we’re inspired to go beyond what’s been done before. It’s why we’re committed to expanding our inclusive workforce that promotes diverse insights and perspectives.
+
+We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity.
+
+Oracle careers open the door to global opportunities where work-life balance flourishes. We offer a highly competitive suite of employee benefits designed on the principles of parity and consistency. We put our people first with flexible medical, life insurance and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+
+We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by calling +1 888 404 2494, option one.
+
+Disclaimer:
+
+Oracle is an Equal Employment Opportunity Employer*. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.
+
+ Which includes being a United States Affirmative Action Employer
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Engenheira de Machine Learning Sênior ou Especialista
+
+Sobre a vaga
+Por que ser zupper?
+
+Vamos direto ao ponto: o que oferecemos é um ambiente de crescimento exponencial. Mais do que palavras bonitas, isso significa que oferecemos todas as oportunidades para que você possa protagonizar sua evolução e todo o suporte necessário.
+
+Como protagonismo sem apoio não gera desenvolvimento acelerado, além de oportunidades, cada zupper tem um plano de desenvolvimento de carreira, acompanhamento próximo por uma pessoa do time de People e acesso a uma plataforma proprietária que tangibiliza o sentimento de progresso.
+
+E por que fazemos tudo isso?
+
+Porque acreditamos que somente um ambiente de crescimento exponencial vai nos fazer chegar aonde queremos: usar a tecnologia para transformar a vida de pessoas, potencializar talentos desperdiçados por falta de acesso e posicionar regiões desprivilegiadas como pólos de tecnologia de qualidade.
+
+Ah, e não podemos esquecer: na Zup acreditamos na ! Com isso, zuppers podem trabalhar de onde quiserem, seja home office, em nossos escritórios ou em um modelo híbrido
+
+Como será seu dia a dia:
+
+Apoiar no desenho, construção e evolução das esteiras de deploy de modelos de Machine Learning.
+Desenvolver arquiteturas robustas e escaláveis sempre tendo em foco os conceitos de MLOps.
+Desenvolver ferramentas que auxiliem cientistas de dados em suas funções diárias.
+Garantir implantação e operação dos modelos de Machine Learning.
+Apoiar no monitoramento dos modelos de Machine Learning.
+Colaborar com equipes multidisciplinares (Engenharia de Machine Learning, Engenharia de Dados, DevOps, Cientistas de Dados) para entender as necessidades e desenvolver/propor soluções eficazes.
+Ser referência técnica para o time, ajudando a capacitar outros engenheiros.
+
+Pré-requisitos:
+
+Experiência com linguagem de programação Python.
+Conhecimentos em nuvem, preferencialmente AWS.
+Conhecimento em ferramentas e bibliotecas de ML, como: Scikit-learn, MLlib, TensorFlow, etc.
+Experiência na construção e manutenção de ferramentas e pipelines MLOps para desenvolvimento, implantação e automação de modelos.
+Conhecimentos em sistema de controle de versões.
+Habilidade com Infra as Code (Terraform).
+
+Diferenciais:
+
+Pós-graduação (Ex.: Mestrado, MBA, Especialização) é um diferencial.
+Conhecimento em Docker/Kubernetes.
+Experiência e construção de APIs.
+Conhecimento em CI/CD.
+Vivência com métodos ágeis de desenvolvimento.
+Conhecimento com soluções de observabilidade.
+Conhecimentos em processamento distribuído.
+
+O que te tornaria Especialista
+
+Caso você tenha cinco anos de experiência em desenvolvimento utilizando as tecnologias acima, provavelmente você se encaixa como Especialista aqui na Zup.
+
+O que te oferecemos
+
+Aqui não é só a sua carreira que importa, queremos que você tenha saúde e bem estar físico e mental para a melhor jornada de experiência profissional e pessoal da sua vida.
+
+Carreira acelerada
+
+Trabalhe de onde quiser 
+Horários flexíveis
+Auxílio Educação para cursos
+Ferramenta própria e exclusiva de desenvolvimento de carreira
+Site interno de carreira
+Frameworks para liderança: treinamentos e ferramentas
+Feedbacks 1o1 semanais
+Guildas internas e outros grupos de estudo e interesse
+
+Saúde e Bem-estar
+
+Gympass
+Plano saúde
+Plano odontológico
+PrimeCare: assistência médica disponível 24 por 7
+Terapia online gratuita
+CAZ – Central de Atendimento aos zuppers 
+Licença maternidade de 180 dias
+Licença paternidade de 20 dias
+
+Conforto financeiro
+
+Vale Refeição e Alimentação
+Seguro de vida
+Vale transporte
+Subsídio para home office 
+Auxílio creche
+Auxílio Plano telefônico 
+Participação em Lucros e Resultado (PLR)
+Programa de indicação
+
+Se você é uma pessoa apaixonada por Machine Learning e quer fazer parte de uma equipe que valoriza a inovação e a excelência técnica, venha se aventurar conosco!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Agente de inovação
+
+Sobre a vaga
+Vaga de Emprego: Agente de Inovação na Amazônia Venture Builder (PJ)
+
+A Amazônia Venture Builder está em busca de um Agente de Inovação para integrar sua equipe. O profissional selecionado desempenhará um papel fundamental no fomento da cultura de inovação e no apoio ao crescimento das startups da região. Aqui está o escopo da vaga:
+
+1. Descrição da Função:
+ - Atuar como consultor especializado em inovação, orientando startups na jornada inovativa.
+ - Identificar oportunidades de inovação, desenvolver estratégias e implementar práticas inovadoras.
+ - Colaborar com as empresas para torná-las mais competitivas e adaptáveis às demandas do mercado.
+ - Participar de eventos de tecnologia e inovação, representando as startups e a Amazônia Venture Builder.
+ -Submissão de projetos em editais.
+
+2. Competências Necessárias:
+ - Proatividade: Ser ágil na identificação de oportunidades e na proposição de soluções criativas.
+ - Liderança: Capacidade de influenciar e motivar equipes, promovendo a cultura de inovação.
+ - Planejamento Estratégico: Elaborar planos de ação alinhados com os objetivos da empresa.
+ - Marketing Digital: Compreender estratégias de marketing online, mídias sociais e análise de dados.
+ - Negociação: Habilidade para conduzir negociações eficazes com parceiros, clientes e fornecedores.
+
+3. Responsabilidades:
+ - Realizar diagnósticos nas empresas para identificar oportunidades de melhoria e inovação.
+ - Desenvolver planos de ação personalizados para cada empresa, considerando suas necessidades específicas.
+ - Acompanhar a implementação das estratégias e práticas inovadoras, oferecendo suporte prático.
+
+4. Requisitos:
+ - Formado ou cursando áreas relacionadas à inovação, administração, marketing ou afins.
+ - Experiência prévia em consultoria ou gestão de projetos de inovação (diferencial).
+ - Conhecimento em ferramentas de marketing digital e análise de dados.
+ - Conhecimento em ferramentas de gestão ágil.
+
+5. Benefícios:
+ - Oportunidade de fazer parte de um ecossistema de inovação em crescimento.
+ - Impacto direto no desenvolvimento das empresas da região amazônica.
+ - Remuneração competitiva e possibilidade de crescimento profissional.
+ - Possibilidade de viagens nacionais e internacionais para participação em eventos.
+ - Excelente clima organizacional
+
+Se você é apaixonado por inovação e deseja contribuir para o desenvolvimento sustentável da Amazônia, envie seu currículo e carta de apresentação para contato@amazoniavb.com
+Junte-se a nós nessa jornada de transformação!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvedor IA / CIentista de Dados
+
+Sobre a vaga
+Estamos em busca de um desenvolvedor de nível no mínimo pleno, talentoso e entusiasmado com implementação de inteligência artificial para assumir um papel chave em nosso departamento de desenvolvimento. O candidato ideal será responsável por projetar, desenvolver e implementar soluções de software inovadoras, com foco em aplicativos que utilizem inteligência artificial e aprendizado de máquina.
+
+
+Responsabilidades:
+Desenvolver e implementar algoritmos de inteligência artificial para resolver problemas complexos.
+Projetar e construir sistemas de software escaláveis e eficientes.
+Colaborar com a equipe para integrar modelos de aprendizado de máquina em aplicações web.
+Manter-se atualizado com as últimas tendências e avanços em inteligência artificial e aprendizado de máquina.
+
+
+Requisitos:
+Cursos superior completo na área de TI.
+Conhecimento sólido em inteligência artificial, incluindo aprendizado de máquina (machine Learn), processamento de linguagem natural e visão computacional.
+Familiaridade com bibliotecas de IA populares, como TensorFlow, PyTorch ou scikit-learn.
+Conhecimento em banco de dados relacionais.
+Desejável conhecimento em bancos de dados não relacionais e big data.
+Boa comunicação para entender os requisitos do projeto e apresentar soluções de forma clara.
+Resolução de problemas e aprendizado contínuo.
+Capacidade de analisar e resolver problemas complexos de forma eficiente.
+Disposição para aprender novas tecnologias e acompanhar as tendências do mercado.
+-----------------------------------------------------------------------------------

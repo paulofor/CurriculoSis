@@ -1,0 +1,221 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Sr
+
+Sobre a vaga
+Sobre a Vaga
+Estamos em busca de um(a) profissional para atuar no desenvolvimento e automação de ambientes analíticos de dados com foco em Databricks e AWS, com domínio em PySpark e integração de APIs. Se você busca um ambiente colaborativo, desafiador e que valoriza boas práticas de engenharia, essa vaga é pra você!
+
+Responsabilidades
+• Construir ambientes analíticos escaláveis usando Databricks (Unity Catalog, Workflows, SDK)
+• Desenvolver pipelines de dados com PySpark, SQL e automações em Python
+• Atuar em desenvolvimento back-end com Node.js, especialmente com Atlassian Forge
+• Garantir padrões de qualidade com testes unitários e integrados
+• Utilizar GIT para versionamento e controle de código em equipe
+• Integrar e consumir APIs RESTful de forma segura e eficiente
+• Automatizar pipelines e fluxos de dados na nuvem AWS usando Lambda, API Gateway e S3
+
+Requisitos Obrigatórios
+• Graduação em Ciências da Computação, Engenharia de Software ou áreas relacionadas
+• Experiência comprovada em ambientes analíticos com Databricks e AWS
+• Domínio em PySpark, SQL e Python
+• Conhecimento em versionamento com GIT e boas práticas de engenharia de dados
+
+Diferenciais
+• Experiência com sistemas distribuídos e escaláveis
+• Habilidade em resolver problemas complexos em ambientes analíticos
+• Proatividade em ambientes multidisciplinares
+
+Informações da Vaga
+• Modelo de contratação: PJ
+• Formato de trabalho: Híbrido – Escritório TDW | Zona Sul de São Paulo (SP)
+• Remuneração: Compatível com o mercado PJ
+
+
+Se você é apaixonado(a) por dados e deseja atuar com tecnologias modernas em projetos relevantes, essa vaga é para você!
+Candidate-se agora e venha com a TDW transformar dados em valor estratégico!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro (a) de Dados Cloud Pleno
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você. Afinal, It’s yours to build.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Engenheiro (a) de Dados Cloud você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de dados voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você é apaixonado(a) por dados, colaboração e tem as seguintes qualificações, queremos você em nossa equipe:
+
+Ensino superior em Estatística, Ciência da Computação, Engenharia de Software, Sistemas de Informação, Física ou cursos afins.
+Experiência comprovada como Engenheiro de Dados.
+Proficiência em Pyspark, SQL, Databricks, Git, Hive, Hadoop e Azure.
+Experiência com práticas e ferramentas DevOps.
+Habilidade para trabalhar em conjunto com o cliente na migração de processos legado (SAS e Teradata) do on-premise para a Cloud (Azure, Databricks), aplicando práticas de governança de dados robustas, preferencialmente com ferramentas IBM.
+
+Desejável:
+
+Vivência na área financeira.
+Conhecimento em SAS, Hbase, Bitbucket.
+
+Principais Responsabilidades:
+
+Acompanhamento da estabilização do pipeline em Produção. 
+Sustentação pós-implantação (Durante período de garantia - 90 dias). 
+Acompanhamento da Implantação. Construir pipelines de dados, desde a extração nas diversas fontes de dados disponíveis (Arquivos de plataforma Baixa (TXT, CSV, ORC), Bancos de Dados (HBASE, BEELINE, SAS) até a ingestão e estruturação dos dados no Data Lake corporativo e DB2. 
+Criação de jobs Pyspark para processamento de dados. Registro de Atividades nas Ferramentas oficiais do Cliente (Jira, Confluence, Bitbucket).
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de Dados AWS
+
+Sobre a vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsabilidades
+Projetar, implementar e manter pipelines de dados escaláveis e eficientes em ambiente AWS, com foco em performance, robustez e custo.
+Desenvolver soluções de integração de dados utilizando os principais serviços da AWS, como AWS Glue, Lambda, S3, Athena e Redshift.
+Assegurar a governança, qualidade e segurança dos dados, atendendo rigorosamente às normas e regulamentações específicas do setor de saúde (LGPD, HIPAA, ANS, etc.).
+Atuar de forma colaborativa com equipes multidisciplinares (médica, operacional, TI, científica), compreendendo requisitos de negócio e traduzindo-os em soluções técnicas eficazes.
+Documentar rotinas, pipelines, arquitetura de sistemas, fluxos dos dados e processos, garantindo rastreabilidade e facilidade de manutenção dos sistemas implementados.
+
+Requisitos Técnicos
+Experiência sólida em engenharia de dados, com atuação comprovada em ambientes AWS.
+Conhecimento avançado em SQL (desenvolvimento, otimização de consultas, modelagem e manipulação de dados).
+Proficiência em linguagens de programação voltadas à manipulação e processamento de dados, como Python e PySpark.
+Experiência em bancos de dados relacionais (como PostgreSQL, MySQL, SQL Server) e NoSQL (DynamoDB, MongoDB, etc.).
+Vivência com ferramentas de orquestração de workflows e automação de pipelines, como Apache Airflow ou Amazon MWAA.
+Familiaridade com práticas de DevOps e automação de infraestrutura (CI/CD, Infrastructure as Code – Terraform, CloudFormation).
+Certificações AWS relevantes (Data Analytics – Specialty, Machine Learning – Specialty, Solutions Architect – Associate) serão considerados diferenciais.
+
+Diferenciais para área da saúde
+Experiência em projetos envolvendo dados de saúde, especialmente integração com prontuários eletrônicos (Tasy, MV) e sistemas de gestão hospitalar.
+Conhecimento em padrões de interoperabilidade em saúde, como FHIR e OMOP CDM.
+
+Habilidades Comportamentais
+Comunicação clara e eficaz, capaz de dialogar tanto com área técnica quanto com stakeholders não técnicos.
+Capacidade de atuação colaborativa em equipes ágeis e multidisciplinares.
+Proatividade na identificação e solução de problemas, bem como no aprimoramento contínuo dos processos de dados.
+Compromisso com aprendizagem contínua, busca pela inovação e atualização frente às tendências do setor de dados e saúde.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Pessoa Engenheira de Dados Java SR (Spring Boot e PostgreSQL)
+
+Sobre a vaga
+A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.
+
+Todas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟
+
+O DESAFIO
+● Desenvolver aplicações e serviços backend em Java (usando Spring Boot) focados no processamento e integração de dados, incluindo a construção de APIs RESTful ou microserviços que permitam o consumo e fornecimento de dados via base dimensional.
+● Implementar pipelines de dados e fluxos de processamento em Java, integrando com sistemas de mensageria (ex: Apache Kafka) e outros mecanismos de streaming quando necessário, para capturar dados transacionais em tempo real e persistí-los de forma segura.
+● Projetar e otimizar esquemas de banco de dados PostgreSQL para armazenar dados = provenientes de sistemas legados ou da camada de ingestão, garantindo normalização adequada ou modelagem relacional conforme necessário, além de criar índices e otimizar consultas para alto desempenho.
+● Colaborar com o time de arquitetura e outros engenheiros de dados para assegurar que as soluções desenvolvidas em Java/PostgreSQL estejam alinhadas com a arquitetura dimensional e não gerem redundâncias ou inconsistências com as demais fontes de dados.
+● Implementar testes (unitários e de integração) e monitoramento nos serviços desenvolvidos, assegurando que falhas sejam rapidamente identificadas (logs, métricas, telemetria) e colaborando com a equipe de SRE para implantar monitoramento e alertas adequados.
+● Participar da integração de dados entre o PostgreSQL e outras camadas da plataforma (por exemplo, exportando dados para Data Lake ou fornecendo dados atualizados para aplicações de relatório), escrevendo scripts ou procedimentos armazenados quando necessário.
+● Dar suporte e manutenção evolutiva aos componentes desenvolvidos, tanto durante a fase de construção quanto na sustentação posterior, incluindo documentação clara do código e das integrações realizadas.
+
+O QUE VOCÊ PRECISA
+● Experiência em construção de APIs REST e microserviços, com práticas de versionamento, segurança (autenticação/autorização) e documentação (OpenAPI/Swagger).
+● Familiaridade com sistemas de mensageria e event streaming (Kafka ou similares) e integração de aplicações Java com esses sistemas (producers/consumers, processamento de eventos).
+● Conhecimento de ferramentas de build e entrega contínua para Java (Maven/Gradle, Jenkins/GitLab CI) e experiência básica em containerização (Docker) para deploy dos serviços.
+
+VOCÊ VAI BRILHAR AINDA MAIS SE TIVER
+
+Experiência no mercado financeiro
+
+O QUE OFERECEMOS PARA VOCÊ
+
+🍴 Vale Alimentação: Para saborear deliciosas refeições
+＄ Previdência Privada: Planeje o futuro com segurança.
+✙ Assistência Médica e Odontológica: Cuidado completo para você e sua família.
+👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.
+‍👧‍👦 Auxílio Creche: Para ajudar nas despesas dos pequenos.
+ღ Seguro de Vida: Segurança para você e quem você ama.
+💪 Wellhub: Acesso a academias e atividades físicas para manter a saúde em dia.
+💰 Participação nos Lucros e Resultados (PLR): Sucesso compartilhado com todos.
+⚕ Einstein Conecta: Orientação médica online com os especialistas do Hospital Israelita Albert Einstein, totalmente gratuito.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Engenheira de Dados - Vaga afirmativa para pessoas LGBTQIAPN+
+
+Sobre a vaga
+Quem Nós Somos
+
+Nós da Artefact LatAm acreditamos e vivemos uma cultura com base na empatia!
+
+Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas.
+
+Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa.
+
+Queremos conosco mentes e corações incríveis! Venha ser Artefact!
+
+O Que Você Estará Fazendo
+
+Você se juntará à nossa equipe de Dados e Consultoria, que ajuda os clientes a transformar e melhorar sua estratégia de dados aplicando análises avançadas para gerar insights que criam valor de negócio a partir de big data e inteligência artificial.
+
+Inovar. Você trabalhará com sua equipe, composta por consultores, cientistas de dados, e engenheiros, para identificar as necessidades dos clientes e definir soluções inovadoras.
+Aprender e Compartilhar. Você trabalhará em uma equipe colaborativa que promove o compartilhamento de conhecimento. Você aprenderá com outras pessoas, compartilhará conhecimento e ficará a par das novidades/atualizações do setor.
+Desenvolver. Você participará da solução do início ao fim. Com o auxílio de engenheiros seniores, você gerenciará a concepção e a implementação, além de otimizar o desempenho e a escalabilidades.
+Atuar em toda a cadeia de valor dos projetos (criação de infraestruturas e plataformas, coleta de dados, aplicação de modelos de aprendizado de máquina, criações de APIs REST, de front-ends, de testes, implementações contínuas).
+Popularizar termos técnicos ou soluções para perfis mais orientados a negócios, pode trabalhar em uma equipe com perfis muito diversificados.
+Priorizar suas tarefas, respeitar prazos e se levantar a mão em caso de riscos ou problemas.
+
+O Que Nós Estamos Procurando
+
+Ter cursado graduação em ciência da computação, estatística, engenharia, economia ou uma área relacionada.
+Curiosidade: você está sempre buscando soluções inovadoras para seus clientes. Você está envolvido em toda a cadeia de valor, que pode ser front-end, back-end, infraestrutura de big data, modelo de ML...
+Colaboração: o compartilhamento de conhecimento é essencial para você e você participa ativamente da difusão de informações dentro da Artefact.
+Empreendedorismo: você traz soluções, novas ideias, inovações
+
+O Que Oferecemos
+
+VR/VT
+Free office (trabalhe de casa ou de onde quiser!)
+Gympass
+Seguros: Vida, saúde e odontológico
+Encontros Bimestrais (Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!
+Woba (pode marcar para trabalhar em coworking onde quiser!)
+Avaliações semestrais (com oportunidade de promoção)
+
+Por Que Você Deveria Se Juntar a Nós
+
+Artefact é o lugar para estar: venha e construa o futuro da área de dados.
+Progresso: cada dia oferece novos desafios e novas oportunidades de aprender.
+Cultura: Empatia e Colaboração está no nosso DNA.
+Empreendedorismo: você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!
+
+Junte-se a nós!
+-----------------------------------------------------------------------------------

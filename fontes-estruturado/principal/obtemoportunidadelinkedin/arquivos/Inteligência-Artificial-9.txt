@@ -1,0 +1,321 @@
+[Oportunidade 1]
+Oportunidade: Data Engineer - Remote
+
+Sobre a vaga
+Recognized as the leading software development company in the Americas, our client offers 100% remote modality and an excellent work environment in which employees can thrive, and work in multicultural teams, with flexible schedules and endless growth opportunities.
+
+About the Role:
+We are looking for a Data Engineer to join our team. This professional will be responsible for taking raw information – numbers or qualitative data sets – and constructing narratives that help our business colleagues to make better decisions. The primary goal of this position is to take large volumes of complex data, extract insights, and help solve problems.
+
+What You’ll Do:
+ - Work with stakeholders to understand reporting needs, identifying and querying data sources to get the required data.
+- Cleanse and massage data into the shape required, creating Tableau datasets, reports, and dashboards to meet requirements.
+- Present and gather feedback from stakeholders on the finished product.
+- Deploy data, reports, and dashboards to Tableau; develop reports according to analyst-defined specifications
+- Conduct technical training.
+- Maintain and document the operational environment.
+- Maintain and process SQL Server SPs and queries.
+
+ You Must Have: 
+
+- At least 3 years of experience working as a Data Engineer.
+- An understanding of Tableau administration, licensing, security, and deployment, and at least 1 year of previous work experience using Tableau. 
+- A solid understanding of the concepts involved in modeling relational data.
+- Strong analytic skills, with a hands-on approach with the ability to deliver commitments.
+- Superior organizational skills, with a disciplined approach to implementation, support, and documentation.
+- Experience with ETL of data from a variety of sources using SSIS, Python, or similar technologies (is a plus).
+- Knowledge of SQL Server database architecture (components and processes of the database) and/or experience with creating tabular data models in SQL Server (is a plus).
+- Advanced English level. 
+
+Benefits:
+- 100% remote work.
+- Flexible hours - make your own schedule!
+- Diverse and multicultural work environment.
+- Paid parental leave, vacation & holidays.
+- Hardware setup for you to work from home. 
+- Excellent compensation — well above the market average.
+- Extensive opportunities for growth and professional development thanks to our mentoring system.
+
+Enjoy the opportunity to have a dynamic lifestyle, better health, and wellness. Find renewed passion in your job, improve your productivity, and benefit from attractive growth opportunities for your career.
+
+If you are interested in being part of a team composed of the best professionals and working 100% goal-oriented in an innovative environment, but with the structure and resources of a multinational market leader, do not hesitate to apply!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Software Engineer, Data Product
+
+Sobre a vaga
+TRM Labs is a blockchain intelligence company committed to fighting crime and creating a safer world. By leveraging blockchain data, threat intelligence, and advanced analytics, our products empower governments, financial institutions, and crypto businesses to combat illicit activity and global security threats. At TRM, you'll join a mission-driven, fast-paced team made up of experts in law enforcement, data science, engineering, and financial intelligence, tackling complex global challenges daily. Whether analyzing blockchain data, developing cutting-edge tools, or collaborating with global organizations, you'll have the opportunity to make a meaningful and lasting impact.
+
+The Data Product team collaborates with an experienced group of data scientists, engineers, and product managers to build highly scalable features that power TRM's products and services. As a Software Engineer on the Data Product team, you will be responsible for designing and building mission-critical data services. These features analyze and provide insights into blockchain transaction activity at petabyte scale, and ultimately work to build a safer financial system for billions of people..
+
+The impact you’ll have here:
+
+Build highly scalable features that integrate with dozens of blockchains.
+Design and architect intricate data models for optimal storage and retrieval to support sub-second latency for querying blockchain data.
+Collaborate across departments, partnering with data scientists, backend engineers, and product managers to design and implement novel data models that enhance TRM’s products.
+
+What we’re looking for: 
+
+Bachelor's degree (or equivalent) in Computer Science or a related field.
+A proven track record, with 5+ years of hands-on experience in architecting scalable API development, distributed system architecture, guiding projects from initial ideation through to successful production deployment.
+Exceptional programming skills in Python, as well as adeptness in SQL or SparkSQL.
+Versatility that spans the entire spectrum of data engineering in one or more of the following areas:
+In-depth experience with data stores such as BigQuery and Postgres.
+Proficiency in data pipeline and workflow orchestration tools like Airflow and DBT.
+Expertise in data processing technologies and streaming workflows including Dataflow, Spark, Kafka, and Flink.
+Competence in deploying and monitoring infrastructure within public cloud platforms, utilizing tools such as Docker, Terraform, Kubernetes, and Datadog.
+Proven ability in loading, querying, and transforming extensive datasets
+About the Team:
+
+Our team is spread out over several countries and time zones. To leverage the opportunities and address challenges that come with this working model, we've built a culture grounded in trust, transparency, and adaptability. Even though we're scattered across different time zones, we stay closely connected through open communication and regular check-ins. Our use of digital tools helps us collaborate seamlessly and work at an impressive pace, delivering results at TRM speed while staying in sync.
+The diversity of perspectives and expertise within our team sparks creative exchanges and enhances our problem-solving capabilities, allowing us to leverage our global synergy to drive innovation and efficiency.
+We're driven by a deep sense of ownership, constant pursuit of improvement and an obsession with delivering magical experiences to our customers; these are a core part of our culture.
+We're driven by the desire to continuously hone our craft and to this end, we regularly assess our processes, seek feedback, and embrace iterative development to refine what we do.
+We structure problems and use the 80/20 rule(for many outcomes, roughly 80% of consequences come from 20% of causes) to identify where to direct our razor-sharp focus.
+Each of us is passionate about excellence and growth, and we're encouraged to challenge the status quo and experiment with new methods. This mindset creates an environment where innovation is part of our daily routine and every team member is an impact-oriented trailblazer.
+By celebrating our successes and learning from our setbacks, we stay agile and forward-thinking, always striving to elevate our performance and impact.
+
+Learn about TRM Speed in this position:
+
+The team received a request from customers to show the running balance for assets tied to an address within the product. They brainstormed to determine the minimal viable solution that could be delivered within two weeks. The team decided to develop a framework that would facilitate enabling this feature for each chain (such as BTC, ETH, etc.) individually. They successfully implemented and tested this solution for the BTC chain and delivered it to customers within the two-week timeframe. This approach allowed the team to quickly provide value to customers and establish a repeatable process.
+The team was tasked with implementing a new feature that would enable TRM to gather feedback from the user community swiftly. Due to the company's goal of showcasing the feature at an upcoming event, the timeline was tight. The team quickly adjusted to the request, assessed the requirements, and developed a solution that addressed 80% of the needs and could be executed within a very short timeframe. They successfully delivered the feature on schedule, impressing customers with both the functionality and the speed of execution.
+The team was tasked with developing a solution to reveal Indirect Exposure through cross-chain swaps in response to a competitor's similar feature. Before choosing the technical approach, the team consulted with stakeholders to establish a feasible timeline for the implementation. With this input, the team devised a solution that fit the timeline, communicated the tradeoffs to stakeholders, and successfully delivered the solution as promised.
+
+About TRM's Engineering Levels:
+
+Engineer: Responsible for helping to define project milestones and executing small decision decisions independently with the appropriate tradeoffs between simplicity, readability, and performance. Provides mentorship to junior engineers, and enhances operational excellence through tech debt reduction and knowledge sharing.
+
+Senior Engineer: Successfully designs and documents system improvements and features for an OKR/project from the ground up. Consistently delivers efficient and reusable systems, optimizes team throughput with appropriate tradeoffs, mentors team members, and enhances cross-team collaboration through documentation and knowledge sharing.
+
+Staff Engineer: Drives scoping and execution of one or more OKRs/projects that impact multiple teams. Partners with stakeholders to set the team vision and technical roadmaps for one or more products. Is a role model and mentor to the entire engineering organization. Ensures system health and quality with operational reviews, testing strategies, and monitoring rigor.
+
+Life at TRM Labs
+
+What To Expect At TRM
+
+TRM moves fast—really fast. We know a lot of startups say that, but we mean it. We operate with urgency, ownership, and high standards. As a result, you’ll be joining a team that’s highly engaged, mission-driven, and constantly evolving.
+
+To support this intensity, we’re also intentional about rest and recharge. We offer generous benefits, including PTO, Holidays, and Parental Leave for full-time employees.
+
+That said, TRM may not be the right fit for everyone. If you're optimizing for work life balance, we encourage you to:
+
+Ask your interviewers how they personally approach balance within their teams, and
+Reflect on whether this is the right season in your life to join a high-velocity environment.
+Be honest with yourself about what energizes you—and what drains you
+
+We’re upfront about this because we want every new team member to thrive—not just survive.
+
+Leadership Principles
+
+Our LPs are foundational elements of our strategy, guiding how we make decisions, how we treat each other, and how we behave day-to-day.
+
+Impact-Oriented Trailblazer – We put customers first, driving for speed, focus, and adaptability.
+Master Craftsperson – We prioritize speed, high standards, and distributed ownership.
+Inspiring Colleague – We value humility, candor, and a one-team mindset.
+
+Accelerate your Career 
+
+Join a mission-driven team of industry leaders and make a real-world impact—disrupting terrorist networks, recovering stolen funds, and more. At TRM, you will:
+
+Work alongside top experts and learn every day.
+Embrace a growth mindset with development opportunities tailored to your role.
+Take on high-impact challenges in a fast-paced, collaborative environment.
+
+Thrive as a Global Team
+
+As a remote-first company, TRM Labs is built for global collaboration.
+
+We cultivate a strong remote culture through clear communication, thorough documentation, and meaningful relationships.
+We invest in offsites, regional meetups, virtual coffee chats, and onboarding buddies to foster collaboration.
+By prioritizing trust and belonging, we harness the strengths of a global team while staying aligned with our mission and values.
+
+Join our mission!
+
+We’re looking for team members who thrive in fast-paced, high-impact environments and love building from the ground up. TRM is remote-first, with an exceptionally talented global team. If you enjoy solving tough problems and seeing your work make a difference for billions of people, we want you here. Don’t worry if your experience doesn’t perfectly match a job description— we value passion, problem-solving, and unique career paths. If you’re excited about TRM’s mission, we want to hear from you.
+
+Recruitment agencies
+
+TRM Labs does not accept unsolicited agency resumes. Please do not forward resumes to TRM employees. TRM Labs is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company without a signed agreement.
+
+Privacy Policy
+
+By submitting your application, you are agreeing to allow TRM to process your personal information in accordance with the TRM Privacy Policy
+
+Learn More: Company Values | Interviewing | FAQs
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: AI Data Engineer
+
+Sobre a vaga
+Mission: At FirstIgnite, we’re driving innovation by connecting cutting-edge research with industry partners ready to propel discoveries forward. Our mission is to build the most efficient software for deciphering complex scientific data and fostering valuable partnerships.
+
+Company Status: FirstIgnite serves a wide range of institutions and industries globally, including leading academic, research, and corporate entities. We are at the forefront of revolutionizing how research is commercialized, seamlessly integrating scientific research with industry opportunities, and enabling advances that shape the future.
+
+Role Overview: The AI Data Engineer will play a pivotal role in architecting and maintaining data systems that manage a diverse array of data sources. This role includes applying AI models to enhance data insights and build connections that drive our platform forward.
+
+Key Responsibilities
+
+Develop and optimize scalable data pipelines for integrating data from patents, grants, clinical trials, publications, labs, and firmographic sources.
+Design and manage a Neo4j graph database to organize and connect complex data relationships, supporting the use of AI-driven techniques.
+Explore and implement additional data storage solutions to complement graph approaches, if necessary.
+Deploy machine learning solutions, ranging from standard ML models to graph-based AI models.
+Ensure a high level of data integrity, accuracy, security, and governance throughout the data lifecycle.
+Work cross-functionally to innovate and deploy AI-driven insights that support FirstIgnite’s mission of industry-research engagement.
+Implement tools for data exploration and visualization to translate data insights into actionable business decisions.
+
+Preferred Qualifications And Skills
+
+Proven experience with Neo4j or related graph databases and designing graph structures.
+Expertise in programming languages, particularly Python, and related data analysis and machine learning libraries (e.g., Pandas, Scikit-learn, TensorFlow, PyTorch).
+Proficiency with machine learning platforms such as Google Cloud AI Platform (Vertex AI), AWS SageMaker, or Azure Machine Learning.
+Experience with RESTful and GraphQL APIs for data integration and strategy evaluation.
+Familiarity with ETL processes for efficient data transformation and integration.
+Analytical skills for conducting cost-benefit analyses of data ingestion methods, such as bulk storage versus real-time API use.
+Understanding of Retrieval-Augmented Generation (RAG) techniques to enhance AI applications.
+Strong version control skills using Git and experience with CI/CD pipelines.
+Problem-solving skills and the ability to work independently and collaboratively with cross-functional teams.
+
+Why FirstIgnite?: At FirstIgnite, we’re not just building software – we’re connecting the dots between research and industry to catalyze innovation. Join us in a role that challenges norms, embraces forward-thinking, and puts you at the forefront of technological advancement. If you’re passionate about using data to drive meaningful progress, we want to hear from you.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Automação e Inteligência Artificial Sênior (CLT) | Remoto
+
+Sobre a vaga
+Estamos em busca de uma pessoa Engenheira Sênior altamente capacitada para integrar nossa equipe e atuar como referência técnica em Machine Learning (ML), IA Generativa e Automação. Esta é uma oportunidade para profissionais que desejam ir além, moldar o futuro dos nossos produtos e desbloquear o potencial de um time remoto, autônomo e vibrante.
+
+Você chegará em um momento crucial da empresa, onde a experiência em lidar com sistemas em evolução e a capacidade de inovar em um ambiente cloud-centric (AWS) são diferenciais.
+
+Acreditamos em um senso de grupo forte e na autonomia das equipes para entregar valor.
+
+O Gran é um ecossistema que une educação e tecnologia, que acelera e customiza o aprendizado para diferentes necessidades e momentos e que já impactou mais de 2 milhões de vidas. Temos a plataforma de educação mais acessada do Brasil e fomos eleitos a 5ª empresa mais inovadora da América Latina. Hoje, temos 2 verticais principais: a de Cursos Preparatórios e a Gran Faculdade.
+
+Adotamos iniciativas tecnológicas para deixar a educação mais inclusiva. Por isso, temos atualmente vários produtos para fazer isso acontecer, como: os audiolivros – com técnicas avançadas de inteligência artificial, criamos um acervo com mais de 28 mil livros convertidos em 110 mil horas de áudio –; o Gerenciador de Estudos, que auxilia no planejamento diário; e os aplicativos para TV e celulares Android e iOS, que funcionam também no modo offline.
+
+Recursos tecnológicos e inovação nos acompanham desde sempre e, com o esforço do nosso time, fomos reconhecidos mundialmente pela Amazon Web Services com três cases de sucesso envolvendo Inteligência Artificial, boas práticas, inovação, inclusão e impacto.
+
+👩‍💻 Acesse nossos cases clicando nos links abaixo: 
+
+➡ 20 mil horas de vídeo legendadas com mais de 92% de precisão;
+➡ Recomendação de cursos utilizando Amazon SageMaker;
+➡ Audiolivros.
+
+Se interessou? Vem ser GranLover!
+Esta vaga está no nosso modelo de trabalho Gran Mundo, sendo 100% remoto.
+Todas as nossas vagas são no modelo de trabalho CLT.
+
+Quer saber mais sobre a gente? Clique AQUI para retornar para a página de carreiras.
+
+Responsabilidades e atribuições
+🚀 Como pessoa Engenheira Sênior, suas responsabilidades e impacto serão vastos, abrangendo:
+Liderança Técnica e Mentoria: Assumir o papel de Tech Lead, tornando-se a referência técnica da equipe. Você será o(a) parceiro(a) para discussões técnicas aprofundadas, auxiliando no esclarecimento de dúvidas, desmistificando complexidades e orientando membros menos experientes. Sua visão prática será fundamental para identificar e propor sugestões de melhoria contínua em nossos processos e arquiteturas.
+Desbloqueio e Agilidade no Dia a Dia: Sua experiência prática e "timing" serão essenciais para identificar e remover gargalos rapidamente, garantindo o fluxo e a produtividade da equipe.
+Fundamentos de Engenharia e Autonomia: Possuir uma base sólida em Engenharia de Software e experiência com metodologias Ágeis (como Scrum, Kanban ou inspiradas em Shape Up). Você deve ser autônomo(a), capaz de cobrar autonomia e responsabilidade de si e dos outros, prosperando em um ambiente onde "done means deployed".
+Expertise em Cloud (AWS e GCP): Profundo conhecimento e experiência prática com ambientes Cloud, com foco em AWS. Você será capaz de argumentar e questionar soluções, entendendo a fundo os serviços e projetando arquiteturas que façam o match perfeito entre as necessidades do negócio e as capacidades da nuvem, dada a alta relevância da AWS e GCP em nossos projetos.
+Conhecimento em IA/ML/Automação com Profundidade: Buscamos um conhecimento balanceado em Engenharia de Software Tradicional, Automação e IA (incluindo ML Tradicional, Deep Learning e IA Generativa/LLMs). É essencial ter profundidade comprovada em pelo menos uma dessas áreas (ML, IA Generativa ou Automação), entendendo desde conceitos fundamentais até aplicações avançadas (ex: Transformers, Prompt Engineering, RAG, modelos como BERT, GPT, etc.).
+Visão do Ciclo de Vida de Data Science: Capacidade de atuar e orientar em todas as fases do ciclo de vida de Data Science, desde o entendimento do negócio (Business Understanding), passando pela compreensão e preparação de dados (lidando com dados de alta variedade, Feature Engineering), modelagem, avaliação rigorosa (incluindo métricas de performance e detecção de bias), até a deploy e monitoramento, preferencialmente com familiaridade em metodologias como CRISP-DM.
+Colaboração e Senso de Grupo: Um forte "senso de grupo" é fundamental. Você colaborará ativamente com outros engenheiros, Cientistas de Dados e áreas de negócio e Gerentes de Produto, fomentando um ambiente de confiança e trabalho em equipe.
+
+Requisitos e qualificações
+📝 O que buscamos:
+Experiência sólida em desenvolvimento de software, com ênfase em AI e automação.
+Proficiência avançada em linguagens de programação, como Python ou outras linguagens voltadas para IA.
+Experiência com frameworks como LangChain, LangGraph, PyTorch, TensorFlow, ou similares.
+Experiência em construção, treinamento e deployment de modelos de Machine Learning, incluindo aprendizado supervisionado, não supervisionado e reinforcement learning.
+Conhecimento profundo de frameworks e ferramentas de automação.
+Profundo conhecimento em design de sistemas escaláveis e arquiteturas distribuídas. Familiaridade com microservices e event-driven architectures.
+Conhecimento em plataformas de cloud (principalmente AWS) e big data.
+Capacidade de comunicar de forma clara e concisa conceitos técnicos complexos tanto para equipes técnicas quanto não técnicas.
+Vontade de inovar e fazer parte de um time que está sempre à frente.
+
+📝 Qualificação:
+Bacharelado ou Mestrado em Ciência da Computação, Engenharia de Software, Engenharia Elétrica, ou áreas afins.
+Pelo menos 5 anos de experiência prática em AI e automação.
+Experiência em um ambiente ágil (Scrum, Kanban).
+
+Informações adicionais
+✨ Aqui você vai encontrar benefícios como:
+
+ Saúde e Bem-Estar:
+Plano de Saúde e Odontológico SulAmérica com cobertura nacional, custeado em 100% pela empresa.
+Wellhub (Gympass) ou reembolso de academia.
+Aplicativo bc.app, com serviços de massagem.
+Convênio com Sesc, proporcionando acesso a atividades culturais e de lazer.
+Aplicativos Starbem, Avus e Auster: saúde, bem-estar e suporte completo, incluindo assistência psicológica, financeira e jurídica.
+
+ Alimentação:
+Vale Refeição ou Vale Alimentação pagos no cartão Alelo.
+
+Reconhecimento e Incentivos:
+Auxílio Home Office pago no cartão iFood.
+PLR de acordo com as regras vigentes.
+Licença maternidade e paternidade estendidas.
+GranPix - Programa de reconhecimento de projetos com premiações.
+Auxílio-Creche.
+
+ Desenvolvimento Profissional:
+Bolsa de estudos integral para Graduação e Pós-Graduação na Gran Faculdade.
+Assinatura Ilimitada Gran Concursos gratuita.
+Gran Academy - Universidade Corporativa para desenvolvimento dos GranLovers.
+Políticas de incentivo ao estudo, promovendo o aprendizado contínuo.
+
+ Benefícios Especiais:
+Kit onboarding e equipamentos disponibilizados pelo Gran.
+Vale Natal em dezembro.
+Kit Gran Baby, um presente para celebrar o nascimento de bebês na família.
+M.O.M - Momento Off Mamãe: 1 (um) dia de descanso adicional no ano, a ser definido junto com a liderança direta.
+Gran Kit Escolar - auxílio material escolar.
+Auxílio Inclusão - exclusivo para PcD.
+Petlove – plano de saúde para os pets da família.
+
+🫂 Tempo para você:
+Day Off no aniversário.
+Seguro de vida.
+
+Local de trabalho: Trabalhe de qualquer lugar! Nós estamos em home office, e temos colaboradores espalhados por todo o Brasil!
+
+Jornada de Trabalho: 40h semanais
+
+Nós valorizamos a diversidade e todas as pessoas são bem-vindas nos nossos processos seletivos. Vem ser GranLover!!!
+
+A nossa comunicação é feita por e-mail e/ou WhatsApp. Por isso, não esqueça de deixar o seu cadastro atualizado e fique de olho na sua caixa de entrada e spam.
+Todo o processo do Gran é feito de forma online e enviamos feedback ao fim de todos os processos.
+
+Etapas do processo
+Cadastro
+Entrevista com time de Pessoas e Cultura
+Entrevista Técnica
+Entrevista Final
+Contratação
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados SQL/ETL - Remoto
+
+Sobre a vaga
+Key Skills:
+
+Fluent English
+SQL & Data Warehousing / Business Intelligence skills
+ETL/ data pipeline development experience
+
+
+
+Detailed Qualifications / Skills:
+
+
+Experience in delivering Data Warehousing/Business Intelligence solutions
+
+Preferably experienced in multiple DW/BI aspects from ETL, Data Access Control, Data quality to Metadata management & data governance
+
+Strong SQL skills in complex queries and data manipulation a must
+
+Experience in developing ETL / building data pipelines with ETL
+tools or programming languages
+
+Experience in Pentaho a plus
+
+Python programming, shell scripting, java scripting experience a plus
+
+Ability to prioritize own tasks and manage project resources and dates
+
+Experience in dashboarding and data visualization a plus
+-----------------------------------------------------------------------------------

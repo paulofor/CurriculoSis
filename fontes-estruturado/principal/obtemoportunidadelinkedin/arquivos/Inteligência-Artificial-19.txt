@@ -1,0 +1,256 @@
+[Oportunidade 1]
+Oportunidade: Profissional Engenharia de Dados
+
+Sobre a vaga
+Código: 44855
+Sobre a BRQ Digital
+Há 31 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+Vamos transformar juntos! Vem ser fera com a gente.
+
+
+Ei Engenheiro de Dados, venha fazer parte de uma das maiores empresas de transformação digital do país!
+
+- O que procuramos?
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+Engenheiro de Dados Pleno com expertise em Databricks e AWS para atuar em um grande banco privado. Este profissional será parte fundamental na nossa equipe, auxiliando na migração de projetos críticos, colaborando com diversas áreas e assegurando a eficiência e integridade das soluções de engenharia de dados implementadas. Responsabilidades: Migração de Projetos: Contribuir para a migração de um projeto Python de Databricks para AWS, garantindo a integridade e a performance do código. Trabalho em Equipe: Colaborar com equipes multifuncionais para entender os requisitos e implementar soluções eficazes. Otimização e Escalabilidade: Trabalhar na otimização do desempenho do código e garantir a escalabilidade da nova arquitetura AWS. Processos de Orquestração: Desenvolver e manter pipelines de AirFlow para orquestração de dados. Sustentação e Manutenção: Fornecer suporte e manutenção contínua das soluções de dados implementadas. Rotinas de Homologação: Desenvolver rotinas e automações que acelerem a homologação da migração. Requisitos: Experiência Profissional: Experiência comprovada em desenvolvimento de software utilizando Python. Orientação a Objetos: Proficiência em conceitos de programação orientada a objetos. Databricks e AWS: Experiência prática com as plataformas Databricks e AWS. Resolução de Problemas: Habilidade para resolver problemas de forma independente e eficiente. Trabalho em Equipe: Excelentes habilidades de comunicação e colaboração. SQL/PL-SQL Oracle: Conhecimentos sólidos em SQL/PL-SQL, especialmente com banco de dados Oracle. Diferenciais: Certificações: Certificações em AWS (AWS Certified Data Analytics, AWS Certified Solutions Architect, etc.) ou outras tecnologias relevantes.
+3x na semana presencial
+
+- O que temos pra te oferecer?
+Mais do que um plano de carreira!
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+- E os benefícios?
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Home Office; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+- Como é trabalhar na BRQ?
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de dados Sênior
+
+Sobre a vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Sobre a posição
+Buscamos um Engenheiro de dados Sênior com sólida experiência em Python para liderar o desenvolvimento e implementação de um Master Data Management (MDM) de Pacientes. O profissional irá trabalhar na modelagem de dados, especificação de regras de negócios e implementação dessas regras e tabelas no ambiente Databricks, unificando dados de pacientes provenientes de múltiplos sistemas de origem.
+
+Responsabilidades
+· Desenvolver e implementar a arquitetura de modelagem de dados do MDM de Pacientes
+· Especificar e documentar regras de negócios para unificação e tratamento de dados de pacientes
+· Implementar pipelines de processamento de dados no Databricks
+· Desenvolver lógicas para matching, deduplicate e golden record de pacientes
+· Estabelecer fluxos de qualidade de dados e validação
+· Criar e manter tabelas integradas seguindo as regras de negócios estabelecidas
+· Implementar rotinas de atualização e sincronização de dados
+· Participar de code reviews e mentoria técnica da equipe
+· Colaborar com stakeholders de negócios para refinar regras e requisitos
+
+Requisitos Técnicos
+
+Essenciais
+· Experiência avançada com Python
+· Sólidos conhecimentos em:
+ Databricks e Delta Lake
+ PySpark para processamento de dados em larga escala
+ SQL e modelagem de dados
+ ETL/ELT e pipelines de dados
+
+· Experiência com Master Data Management (MDM) ou projetos similares de integração de dados
+· Conhecimento em técnicas de matching, fuzzy matching e deduplicação de registros
+· Experiência com implementação de regras de negócios complexas em código
+· Domínio de versionamento Git e metodologias ágeis
+· Experiência com boas práticas de desenvolvimento (testes unitários, documentação)
+
+Diferenciais
+· Experiência prévia com MDM na área de saúde
+· Conhecimento em FHIR ou outros padrões de dados de saúde
+· Experiência com Great Expectations para qualidade de dados
+· Conhecimento em frameworks de governança de dados
+· Experiência com mensageria (Kafka, Event Hubs)
+· Familiaridade com ferramentas de CDC (Change Data Capture)
+· Conhecimento em observabilidade (Databricks SQL Analytics, Grafana)
+· Experiência com APIs RESTful para exposição de dados
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Coodernador de Desenvolvimento de Software | IT Onboarding
+
+Sobre a vaga
+O BTG Pactual está contratando um Gerente de Desenvolvimento de Software para liderar equipes de desenvolvimento em projetos estratégicos. Este profissional terá profunda interação com usuários e será responsável por tomar decisões estratégicas sobre a definição, priorização e planejamento dos projetos, além de direcionar os times de tecnologia.
+
+No Seu Dia a Dia
+
+Liderar equipes de desenvolvimento de software em projetos ágeis.
+Interagir com usuários e stakeholders para entender necessidades e definir prioridades.
+Tomar decisões estratégicas sobre o planejamento e execução dos projetos.
+Garantir a alta disponibilidade dos sistemas.
+Participar de todo o ciclo das aplicações desde a concepção à sustentação do projeto/produto.
+Desenvolver sistemas utilizando as tecnologias mais recentes para construir soluções inovadoras para o mercado financeiro.
+
+Esperamos De Você
+
+Graduação completa em Sistemas de Informação, Análise de Sistemas, Ciência da Computação, Engenharia da Computação ou áreas relacionadas.
+Experiência em gerenciamento de projetos ágeis.
+Experiência em gerenciamento de múltiplos programas, projetos e equipes de desenvolvimento em um ambiente ágil.
+Experiência em design e desenvolvimento de aplicações de grande escala e alto tráfego.
+Experiência em parceria com equipes de produto e gerenciamento de programas.
+Boa capacidade de comunicação e proatividade.
+Disponibilidade para o modelo híbrido ou presencial em SP ou RJ.
+
+Diferencial
+
+Experiência em tecnologia cloud AWS.
+Experiência na linguagem de programação C#.
+Experiência com banco de dados relacional (SQLServer, MySql, PostgreSQL).
+Boas práticas de programação e Design Patterns.
+Experiência com microserviços e frameworks de mensageria (Kafka, SQS, RabbitMQ).
+Conhecimento em Docker e Kubernetes.
+Experiência com testes unitários (TDD).
+Experiência em mercado financeiro.
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Pessoa Arquiteta de Dados
+
+Sobre a vaga
+A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.
+
+Todas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟
+
+O DESAFIO
+
+Projetar e seguir a arquitetura de dados global do projeto, incluindo modelos conceituais, lógicos e físicos dos produtos.
+Definir padrões de modelagem de dados (especialmente modelagem dimensional) e garantir a integração de múltiplas fontes de dados (transacionais, históricos, semiestruturados).
+Assegurar a qualidade, segurança e governança dos dados, implementando políticas de acesso, controle de versões de dados e conformidade com LGPD ou outras normas relevantes.
+Avaliar e selecionar tecnologias de banco de dados, big data e integração de dados (por exemplo, ferramentas ETL/ELT, plataformas de streaming como Kafka, bancos de dados relacionais e NoSQL) adequadas aos requisitos de desempenho e escalabilidade do projeto.
+Colaborar com times de engenharia de dados, desenvolvimento e SRE para orientar a implementação da solução de acordo com a arquitetura definida, fornecendo diretrizes técnicas e revisando soluções propostas.
+Monitorar e validar a implementação da arquitetura ao longo do projeto, fazendo ajustes conforme necessário para atender às necessidades de relatórios operacionais (OLTP) e analíticos (OLAP), bem como preparar terreno para a fase de sustentação após a implantação.
+
+O QUE VOCÊ PRECISA
+
+Domínio de modelagem de dados dimensional e design de Data Warehouses, com experiência em bancos de dados relacionais (ex: SQL Server, Oracle, PostgreSQL) e tecnologias NoSQL (ex: MongoDB)
+Conhecimentos sólidos em ferramentas de integração de dados e ETL/ELT (por exemplo, Spark/Databricks, Kafka Stream, Talend, Informatica) e conceitos de Big Data.
+Experiência em garantir governança de dados (catálogo de dados, metadados, qualidade de dados) e segurança (mascaramento, criptografia, controle de acesso).
+
+VOCÊ VAI BRILHAR AINDA MAIS SE TIVER
+
+Experiência no mercado financeiro
+
+O QUE OFERECEMOS PARA VOCÊ
+
+🍴 Vale Alimentação: Para saborear deliciosas refeições
+＄ Previdência Privada: Planeje o futuro com segurança.
+✙ Assistência Médica e Odontológica: Cuidado completo para você e sua família.
+👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.
+‍👧‍👦 Auxílio Creche: Para ajudar nas despesas dos pequenos.
+ღ Seguro de Vida: Segurança para você e quem você ama.
+💪 Wellhub: Acesso a academias e atividades físicas para manter a saúde em dia.
+💰 Participação nos Lucros e Resultados (PLR): Sucesso compartilhado com todos.
+⚕ Einstein Conecta: Orientação médica online com os especialistas do Hospital Israelita Albert Einstein, totalmente gratuito.
+
+Por que escolher a Dimensa?
+
+Na Dimensa, você fará parte de um time que está revolucionando o mercado de operações financeiras, crédito e risco, e seguros, com inovação e tecnologia de ponta. Queremos conhecer você e ver como você pode contribuir para nossa missão!
+Junte-se a nós e faça a diferença, #VEMFAZERPARTEDAONDAVERDE! 💚
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Staff Data Scientist / ML Engineer
+
+Sobre a vaga
+Data Scientist / ML Engineer (Staff)
+
+Who We Are
+
+Welcome to TELUS Digital, where innovation meets impact. As an award-winning digital product consultancy, we're shaping the future of digital experiences through cutting-edge technology, agile thinking, and a culture that puts people first.
+
+We are the global digital section of TELUS, one of Canada’s largest telecommunications providers. Our global teams deliver transformative digital solutions and customer experiences for industry leaders in consumer electronics, finance, telecommunications, and utilities. With robust multi-shore delivery capabilities, multi-language programs, and secure infrastructure, we ensure exceptional service backed by our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+As a Data Scientist / Machine Learning Engineer on our team, you'll design, develop, and deliver machine learning solutions, decipher loosely defined problems using complex datasets, and determine appropriate analytical and modeling techniques. You'll analyze structured and unstructured data, establish automated processes for large-scale modeling, perform exploratory analysis, and collaborate with peers on data acquisition and exploration, demonstrating a strong sense of ownership and urgency.
+
+Responsibilities
+
+Work on all aspects of the design, development and delivery of machine learning enabled solutions for our clients;
+Come up with solutions to loosely defined business problems by leveraging pattern detection over complex datasets across multiple platforms;
+Establish efficient, automated processes for large-scale modeling;
+Become part of a highly skilled and geographically distributed team;
+Collaborate with peers on problem definitions, data acquisition, data exploration, visualization as well as building the tools that support this process;
+Strong sense of ownership, urgency and drive.
+
+Qualifications
+
+Relevant experience in data science/ machine learning development
+Bachelor and/or Master degree in Statistics, Mathematics, Physics, Computer Science or other related subject.
+Proficiency in Python.
+Experience with machine learning frameworks (like Keras, TensorFlow, or PyTorch) and libraries (like scikit-learn).
+Strong understanding of machine learning algorithms, processes, tools and platforms.
+Ability to work on distributed cloud platforms
+Fluent English
+
+Bonus Points
+
+Experience with container management and machine learning deployment frameworks, such as Kubernetes, Kubeflow and MLFlow.
+Software development experience from scoping, requirements design, development, integration, testing, go live to PROD (vs internal research work)
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that Information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------

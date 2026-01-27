@@ -1,0 +1,282 @@
+[Oportunidade 1]
+Oportunidade: Especialista em Desenvolvimento de Agentes de IA
+
+Sobre a vaga
+Sobre o BS2
+Somos um banco 100% digital e focado em empresas, com atendimento humanizado e soluções sob medida para cada cliente - afinal, nenhum negócio é igual ao outro. Essa lógica também se aplica à nossa cultura: temos um DNA inovador que instiga todo o nosso time a se reinventar constantemente. Por aqui, nossos colaboradores (os bessers) podem contar com um ambiente que impulsiona o crescimento da carreira e traz a oportunidade de lidar com os desafios do mercado financeiro com quem mais entende do assunto.
+
+Responsabilidades Principais:
+Projetar, implementar e evoluir agentes de IA para automatizar processos e apoiar a tomada de decisão na organização.
+Monitorar e manter o desempenho dos agentes implantados, garantindo alinhamento com os objetivos de negócio e necessidades dos usuários.
+Colaborar com equipes para identificar oportunidades de automação baseada em agentes e recomendar soluções adequadas.
+Contribuir para o desenvolvimento de componentes reutilizáveis, pipelines de orquestração e boas práticas para o ciclo de vida dos agentes.
+Avaliar e integrar ferramentas como Vertex AI Agent Builder, LangChain e outros frameworks de orquestração.
+Apoiar a equipe de governança com insights técnicos sobre comportamento, desempenho e oportunidades de melhoria dos agentes.
+Liderar ou coordenar projetos multifuncionais envolvendo implantação e monitoramento de agentes de IA.
+
+Requisitos Técnicos:
+
+Proficiência em Python ou C#, com foco em desenvolvimento limpo e escalável.
+Domínio de SQL para manipulação e análise de dados.
+Experiência com APIs de LLMs (como OpenAI, Vertex AI) e técnicas de orquestração de agentes.
+Conhecimento em arquitetura de agentes, incluindo memória, gerenciamento de contexto e interações multi-turno.
+Vivência com ambientes em nuvem, especialmente Google Cloud Platform (GCP).
+Inglês avançado (será necessário para participação de reuniões)
+
+Diferenciais:
+Experiência com observabilidade de agentes e ferramentas de monitoramento.
+Conhecimento em governança de RAG (Retrieval-Augmented Generation).
+
+Modelo de Trabalho:
+O modelo de trabalho dessa posição é híbrido 3x2 (três dias presenciais e 2 de home office) na Vila Olímpia em São Paulo
+
+Nossos benefícios:
+🍽️ Vale refeição no valor de R$ 1.003,48 ao mês;
+🛒 Vale alimentação no valore de R$ 797,99 ao mês;
+🍾 13º do vale alimentação;
+💰 PLR;
+👨🏻‍⚕️ Assistência médica;
+🦷 Assistência odontológica;
+🗣️ Programa + Saúde: Telemedicina;
+🚀 Previdência Privada;
+👶🏽 Auxílio Creche no valor de R$ 613,19 por filho até 6 anos;
+🤰🏼 Programa Maternar: Acompanhamento profissional da gestação e puerpério;
+🍼 Espaço Lactário, para o retorno das mamães;
+🏋🏻 Wellhub, o antigo Gympass;
+🏖️ Dayoff, um dia de folga no seu aniversário;
+🤓 Potencializa: Nossa plataforma de cursos internos;
+💵 Empréstimo para colaboradores;
+⏰ Jornada reduzida, 40 horas semanais;
+
+No BS2, incentivamos candidaturas de diferentes etnias, gêneros, religiões, orientações sexuais e/ou nacionalidades. Consideramos pessoas com deficiência para todas as nossas oportunidades. Todas as pessoas são muito bem-vindas!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Staff AI Engineer (Conversational AI)
+
+Sobre a vaga
+Chatbot Engineer (Staff)
+
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+TELUS Digital seeks an AI Engineer with strong conversational AI and architecture skills to turn client needs into scalable generative AI solutions. You’ll design and implement conversational AI architectures, working with stakeholders and conversation designers to build, test, and optimize LLM-driven workflows. Using API development, SQL, and the Google suite, you’ll integrate, prompt engineer, and secure AI models while ensuring compliance and performance.
+
+Responsibilities
+
+Discover and analyze business requirements, being the advocate for the customer while also understanding existing technology capabilities.
+Develop application architecture design for high complexity projects, with emphasis on technical architecture, and implement solutions.
+Participate in the review of detailed design specifications, test plans, and user documentation for functional and technical completeness and accuracy.
+Bring creativity, strong logic skills, and the ability to work in a dynamic, challenging, and consultative environment.
+Apply your knowledge of software engineering and AI systems to develop AI solutions targeted at conversational AI use cases.
+Partner with Conversation Designers who specialize in advanced linguistics and conversational best practices, ensuring optimal architecture and conversational flows are being designed.
+Take ownership of implementing and optimizing conversational flows, prompt engineering, and AI components, ensuring they meet project needs with high complexity and scale.
+Navigate and manipulate generative AI models, including large language models, to create prompts and solutions tailored to specific use cases.
+Develop and incorporate AI solutions while adhering to industry best practices, including moderation, security, and compliance standards.
+Lead the charge in testing and evaluating conversational flows, leveraging standard metrics to ensure alignment with business objectives.
+Meet with stakeholders and partners, understanding requirements and translating technical concepts into non-technical verbiage.
+
+Qualifications
+
+Experience with call center technology, Virtual Assistants, GenAI-powered Chatbot development, and conversational voice and chat implementations.
+Experience in the GCP environment, including Google Dialogflow CX, Google CCAI, Google CES, or similar.
+Demonstrable experience with Generative AI and NLP, leveraging LLMs, and prompt engineering for conversational use cases.
+Strong prompt engineering skills, understanding, and leveraging key techniques such as zero-shot, few-shot, chain-of-thought, and others.
+Understanding of the trade-offs between generative AI models and the ability to choose the right model for specific use cases.
+Experience with API development with Python and/or JavaScript, and SQL and SQL-based databases. 
+Experience with solution observability, monitoring, and performance evaluation.
+Familiarity with testing and evaluating AI systems using state-of-the-art methods and best practices.
+Self-starter characteristic, willing to operate nimbly to drive execution/to meet deliverables, and experience working remotely.
+Ability to communicate complex technical terms and concepts effectively to technical and non-technical stakeholders.
+Present strong analytical, creative thinking, decision-making skills, and have the ability to think outside the box to drive continuous improvement.
+Strong collaboration skills and ability to work alongside Data Science specialists, drawing on their expertise in AI model development and fine-tuning to deliver sophisticated AI solutions.
+
+Bonus Points
+
+Experience with data embeddings and vector databases, understanding the trade-off between available options, and leveraging it to optimize data ingestion.
+Experience designing and implementing large-scale conversational systems for a large number of intents and use cases.
+Previous experience in the contact center world.
+Contributions to AI thought leadership in the industry.
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor Inteligência Artificial - IA
+
+Sobre a vaga
+Descrição
+
+Somos um Reg Tech que está revolucionando o compliance regulatório com tecnologia de inteligência artificial e busca semântica, automatizando processos e simplificando a complexidade jurídica para empresas. Estamos em busca de um Desenvolvedor de Software apaixonado por IA, aprendizado de máquina e desenvolvimento de sistemas escaláveis para impulsionar nossa plataforma. Se você busca desafios reais, inovação e impacto direto em um produto líder, essa vaga é para você!
+
+Requisitos Obrigatórios
+
+Linguagens de Programação:
+
+Proficiência em Python (essencial) e familiaridade com outras linguagens como R, Java ou C++ (dependendo do projeto).
+
+Bibliotecas e Frameworks De IA/ML
+
+Experiência com bibliotecas/frameworks de machine learning e deep learning, como TensorFlow, PyTorch, Scikit-learn, Keras ou FastAI.
+
+Fundamentos De IA e ML
+
+Compreensão de algoritmos de aprendizado supervisionado, não supervisionado e aprendizado por reforço.
+Conhecimento de algoritmos clássicos como regressão linear, árvores de decisão, SVM, redes neurais, etc.
+
+Matemática e Estatística
+
+Domínio de álgebra linear, cálculo, estatística e probabilidade, aplicados ao desenvolvimento de modelos de IA.
+
+Análise De Dados
+
+Experiência em limpeza, preparação e análise de grandes conjuntos de dados (usando ferramentas como Pandas e NumPy).
+Familiaridade com bancos de dados SQL e NoSQL.
+
+Habilidade Interpessoal
+
+Raciocínio lógico e resolução de problemas: pensar criticamente sobre problemas e propor soluções inovadoras.
+Trabalho em equipe: colaborar com engenheiros de dados, cientistas de dados e outras equipes.
+Autonomia e Proatividade: buscar soluções por conta própria e sugerir melhorias no processo.
+Comunicação: capacidade de traduzir conceitos técnicos complexos para stakeholders não técnicos.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: [Tecnologia] Desenvolvedor(a) Backend Sênior IA
+
+Sobre a vaga
+Descrição da vaga
+
+A sua missão:
+Irá atuar na diretoria de tecnologia com foco em IA. Entregar soluções baseadas em software de alta performance e qualidade, construído de maneira colaborativa com outros desenvolvedores e colaboradores do seu time. Propor soluções técnicas que viabilizem objetivos estratégicos de maneira eficiente, monitorável escalável e segura. Atuar em conjunto com o time técnico e negocial na busca por oportunidades e soluções alinhadas com os objetivos da equipe, viabilizando e acompanhando as soluções para o atingimento dos resultados.
+
+Responsabilidades e atribuições
+
+Como será o seu dia a dia:
+Desenhar a solução (arquitetura, modelagem, design de código), focada na integração de modelos e soluções de IA (generativa), desenvolvendo sistemas que entreguem valor e estejam alinhados com os objetivos estratégicos da companhia.
+Disseminar e compartilhar conhecimento com as comunidades interna e externa; mantendo-se atualizado sobre tendências de Inteligencia Artificial e melhores práticas, contribuindo para aumentar a relevância da companhia no mercado de IA.
+Ajudar no desenvolvimento técnico de profissionais com menos experiência, apoiando o desenvolvimento do time em nível adequado de qualificação e entregas.
+Identificar problemas na base de código existente e de arquitetura com foco na integração e eficiência dos modelos de IA generativa, aplicando melhorias que otimizem o desempenho, escalabilidade, custo e a interação com IA.
+Entregar e revisar código testável assegurando qualidade das entregas da equipe, resolvendo problemas e impedimentos que impactam no prazo acordado e realinhando expectativas acordadas.
+Implementar monitoramento e observabilidade de todas funcionalidades e rotinas de back-end, assegurando saúde das aplicações.
+Projetar, desenvolver e manter aplicações back-end, suportando atividades de integração com modelos de IA generativa e interfaces diversas, para otimizar o desempenho dos sistemas existentes e garantir que as soluções entreguem a melhor performance possível, alinhadas com as capacidades de IA.
+Comunicar de forma clara e objetiva conceitos técnicos de maneira acessível para diferentes públicos, incluindo não técnicos.
+Identificar e resolver problemas técnicos e de processo de forma proativa, usando dados como base decisória.
+Analisar problemas complexos e encontrar soluções criativas e eficientes de resolver problemas e entregar valor através de soluções de software.
+Trabalhar bem em equipe, lidando com diferentes personalidades e perspectivas.
+Ouvir e respeitar as opiniões dos outros, contribuindo para um ambiente de trabalho produtivo e propositivo.
+Gerenciar múltiplas tarefas e prazos, organizando o trabalho de maneira eficaz.
+Priorizar tarefas importantes e garantir comunicação eficiente e em tempo com seus pares e liderança quando frente à impedimentos.
+Negociar prazos, escopos e requisitos com o time e stakeholders.
+Trabalhar de forma autônoma e gerenciar suas próprias responsabilidades sem supervisão constante.
+
+Requisitos e qualificações
+
+O que buscamos:
+Ensino superior completo (Análise de Sistemas, Engenharia da Computação e áreas correlatas).
+Domínio de Sistemas distribuidos (preferencialmente Monolitos e Micro Serviços).
+Domínio de abordagens de qualidade (preferencialmente Testes Unitários, TDD, BDD).
+Domínio de Cloud (preferencialmente GCP: Google Cloud Plataform).
+Domínio de Devops Git, PR, Release, Deploy, CI e CD).
+Experiência relevante em projetos críticos e de alto desempenho.
+Domínio de Paradigmas (preferencialmente Estruturada, Orientação Objeto e Funcional).
+Domínio de Bancos de dados (preferencialmente Pinecone, DataStore e PostgreSQL).
+Conhecimento de metodologias ágeis (preferencialmente Scrum, Kanban).
+Domínio de linguagens de programação (preferencialmente Python e Java).
+
+Pontos a mais que você possui:
+Conhecimento em tecnologias de IA (ML, LLM, outras ferramentas de Deep Learning).
+
+Informações adicionais
+
+Benefícios:
+Plano de Saúde;
+Plano Dental;
+Psicoterapia Online;
+Totalpass;
+Seguro de Vida;
+Vale Alimentação e Vale Refeição (VA/VR);
+Parcerias de Desconto (Universidade e Escolas de Idiomas);
+Despreocupe-se - Seguros Diversos;
+No dress code;
+Aqui você escolhe: remoto ou híbrido.
+
+#VEMPRACONTABILIZEI 💙
+
+Cultura e Desenvolvimento = Construímos Juntos e Juntas 🚀
+
+Acreditando que o sucesso de pessoas empreendedoras é o nosso sucesso, Guardiões e Guardiãs de nossa cultura constroem todos os dias o melhor lugar para se trabalhar. Crescendo com a Contabilizei e contando suas próprias histórias!
+
+Buscar ser 1% melhor todos os dias é um valor importante no foguete. Um dos pilares para o encorajamento ao protagonismo dos nossos Guardiões e Guardiãs é feito através do Ciclo de Performance, com possibilidades de Carreira em Y, Cultura de Feedback (1:1) e ferramentas que ajudam entender oportunidades de desenvolvimento e evolução constante de nossos valores.
+
+É importante que saiba, você pode ser quem é! Estamos conscientizando e construindo um ambiente psicologicamente seguro com iniciativas de Diversidade e Inclusão. Somos verdadeiros(as) e acreditamos que essa seja uma responsabilidade de todos os Guardiões e Guardiãs! Todas as nossas oportunidades estão abertas para pessoas diversas em identidade de gênero, cor e etnia, orientação sexual, origem, pessoas com deficiência (PcD), e todas as interseccionalidades possíveis.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Consultora de Inteligência Artificial | CIEDS
+
+Sobre a vaga
+Responsabilidades
+
+Realizar diagnósticos e mapeamentos de oportunidades de aplicação de IA nos processos da organização;
+Apoiar o desenho e implementação de soluções com uso de IA generativa, machine learning ou automação inteligentes;
+Avaliar ferramentas e plataformas de IA, indicando as melhores soluções para cada necessidade;
+Apoiar a definição de políticas e diretrizes éticas relacionadas ao uso de IA;
+Criar documentos técnicos e materiais de capacitação sobre uso consciente e estratégico da IA;
+Atuar em reuniões executivas com o corpo diretivo, identificando as principais oportunidades de melhorias do CIEDS 
+
+Requisitos
+
+Experiência com projetos envolvendo IA (ex: chatbots, automações com LLMs, classificação de dados etc.);
+Conhecimento em ferramentas como ChatGPT, Bard, Copilot, entre outras;
+Capacidade de traduzir temas técnicos em linguagem acessível para públicos diversos;
+Boa comunicação e habilidade de facilitação com equipes multidisciplinares;
+Capacidade de conduzir reuniões de forma executiva.
+
+Desejáveis
+
+Experiência com frameworks de ética em IA;
+Familiaridade com linguagens de programação (Python, R) e bibliotecas de IA;
+Vivência em projetos de inovação ou transformação digital.
+
+Diferenciais
+
+Ter atuado no terceiro setor ou em organizações de impacto social;
+Conhecimento em Design Thinking e metodologias ágeis;
+Experiência com treinamentos e workshops sobre IA.
+-----------------------------------------------------------------------------------

@@ -1,0 +1,344 @@
+[Oportunidade 1]
+Oportunidade: Pessoa Engenheira de Dados - Senior
+
+Sobre a vaga
+PESSOA ENGENHEIRA DE DADOS - SENIOR
+Sobre a Monuv:
+Prazer, nós somos a MONUV e existimos para impulsionar um ecossistema de segurança mais inovador e justo, garantindo tranquilidade para viver.
+Provavelmente vai ser a primeira vez que você vai entrar em contato com uma Empresa Tech que possui uma vontade IMENSA de revolucionar o setor de segurança no nosso país. Isso mesmo que você leu, de SEGURANÇA!
+A segurança em geral no mundo vem sendo revolucionada pelo uso de câmeras, mas ainda há um caminho muito longo para tornar essas câmeras eficientes e com a capacidade de entregar todo potencial de proteção que elas têm.
+E, é para isso que a MONUV nasceu, aplicamos o que há de melhor da Inteligência Artificial transformando qualquer câmera em um verdadeiro dispositivo de segurança, garantindo armazenamento seguro, e aplicação de Inteligência Artificial com a confiança de que estaremos protegidos.
+Se assim como nós você acha que podemos revolucionar a segurança, se liga nessa oportunidade
+
+Sobre a Vaga:
+Objetivo da Posição: 
+Empregar habilidades analíticas avançadas na construção de estruturas de dados robustas bem como desenvolver modelos de análise quantitativa, e colaborar com equipes multidisciplinares para otimizar decisões e processos baseados em dados.
+São atividades da posição:
+Coleta, organização e limpeza e preparação de dados para análise.
+Desenvolvimento e manutenção de pipelines de dados.
+Análise exploratória de dados para identificar padrões, tendências e insights, sempre como foco no entendimento do negócio.
+Construção de visualizações de dados claras e informativas.
+Pesquisa e adoção de novas técnicas e tecnologias para aprimorar a análise de dados.
+Gestão e consolidação de políticas de governança de dados.
+
+Quais são os pré-requisitos:
+Cloud (AWS - EC2, RDS, Redshift, Glue, Dynamo)
+Python, SQL, Bash
+Stacks de tratamento e ciência de dados (Pandas, Spark, Jupiter, Scikit)
+Ferramentas de visualização de dados (Grafana, Quicksight)
+Comunicação, capacidade de apresentar conceitos complexos de forma simples
+Interesse no desenvolvimento de pessoas
+Forte pensamento cético e viés acadêmico
+Boa capacidade analítica
+Bom relacionamento interpessoal
+O que seria bacana se você tivesse:
+Git e CI/CD
+RESTful APIs
+Linux e Redes
+Inglês Avançado
+Noções de infraestrutura em nuvem - (Terraform, Kubernetes, AWS Auto Scaling)
+Já sobre nossa cultura esperamos que todos os MONUVERS possam seguir nossos princípios:
+Erro não é o oposto de sucesso. O erro faz parte do sucesso.,
+Não sou eu contra você, somos nós juntos contra o problema.,
+Resolverei os problemas da forma mais simples possível.
+
+Por aqui você vai encontrar: 
+Atuação 100% Remoto, você pode trabalhar de onde se sentir melhor;
+Day off de aniversário, no seu aniversário de empresa e se tiver filho(a) esse dia você também ganha uma day off para comemorar;
+Licença maternidade e paternidade estendida;
+Ambiente leve, descontraído e cheio de oportunidades;
+Nossos Benefícios: Plano de Saúde e Odontológico, Seguro de Vida, Vale Alimentação e Refeição Flexível, Auxilio Home Office, Totalpass.
+
+E aí, topa esse desafio ? Bora fazer parte dessa revolução?
+
+Na Monuv, acreditamos na força da diversidade e na importância de criar um ambiente de trabalho inclusivo onde todas as pessoas se sintam valorizadas, respeitadas e capacitadas a contribuir de maneira significativa. Estamos comprometidos em ser tolerantes com todos, mas seremos totalmente intolerantes com qualquer forma de desrespeito por raça, aparência, cor, deficiência, gênero, crença, nível de conhecimento ou preconceito de qualquer natureza.
+Nossa empresa é composta por indivíduos únicos, com experiências e perspectivas diversas que enriquecem nosso ambiente. Queremos que todos se sintam livres para serem autênticos, expressar suas opiniões e se desenvolverem plenamente, independentemente de suas diferenças.
+
+Nossas Redes:
+Site: https://monuv.com.br/
+Linkedin: https://www.linkedin.com/company/monuv/mycompany/
+Instagram: https://www.instagram.com/monuvbrasil/
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Especialista em Ciência de Dados
+
+Sobre a vaga
+Na Bemobi valorizamos o espírito inovador e colaboramos para que pessoas potencializem o seu melhor e, juntos, identificamos afinidades e oportunidades. 
+Se você procura desenvolvimento, desafios e um ótimo ambiente de trabalho, está no lugar certo!
+
+Criada em 2009 no Brasil como empresa independente, a Bemobi é uma empresa de tecnologia multinacional de capital aberto com escritórios espalhados pelo mundo. Podemos ser considerados pioneiros na distribuição e monetização da venda de aplicativos, jogos e serviços digitais de telefonia celular, viabilizando o acesso a um portfólio amplo e inovador de produtos e serviços a milhões de usuários, por um preço acessível e forma facilitada de pagamento.
+
+Nosso modelo de negócios se baseia no tripé canais, serviços e meios de pagamentos suportado pela aplicação do melhor da tecnologia de forma a criar escala e viabilizar o acesso e a cobrança de nossos serviços.
+
+Somos GPTW há mais de 5 anos, ou seja, somos considerados uma das Melhores Empresas Para Trabalhar do Brasil. Nossa cultura é bem divertida e leve, de forma que sempre buscamos o bem-estar dos nossos Bemobers.
+
+#BeABemober 💙🚀
+
+Responsabilidades e atribuições
+Participar do ciclo de criação de modelos de aprendizado de máquina, fim a fim, desde a prototipação e avaliação, até a publicação e acompanhamento de desempenho.
+Avaliar desempenho e métricas, levando em consideração variações no dado e incertezas.
+Criar e manter pipelines e DAGs de processamento de dados.
+Realizar estudos e investigações sobre o comportamento de fraudes e fraudadores.
+Desenvolver visualizações e dashboards simples.
+Conduzir Testes A/B.
+Participar ativamente do planejamento, idealização e propostas de melhorias e novas soluções ou processos.
+
+Requisitos e qualificações
+Domínio da linguagem de programação Python.
+Conhecimento em SQL.
+Familiaridade com SPARK.
+Familiaridade com as principais bibliotecas de Python para ciência de dados, como numpy, scipy, scikit-learn, tensorflow, pytorch, matplotlib, pandas, entre outras.
+Experiência em aprendizado de máquina, análise de dados e estatística.
+Experiência com métodos de experimentação e avaliação de processos.
+Habilidade para trabalhar em equipe e resolver problemas de forma criativa.
+
+Diferencial:
+Mestrado ou Pós-Graduação em Ciência de Dados, Aprendizado de Máquina ou áreas afins.
+
+Informações adicionais
+
+O QUE VOCÊ VAI ENCONTRAR AQUI! ✌️
+
+🥼Plano de Saúde Bradesco Rede Nacional - estendido a dependentes sem desconto por beneficiário;
+
+🦷Plano odontológico Bradesco - opcional;
+
+🏖️VR/VA flexível - mantido durante as férias;
+
+🤑PLR - participação nos lucros;
+
+💦Wellhub;
+
+🎉Day off de aniversário;
+
+🏠Auxílio Home Office;
+
+🕜Flexibilidade no horário e modelo de trabalho;
+
+🚌VT conforme necessidade - desconto permitido por lei;
+
+❤️ Seguro de Vida Icatu;
+
+📱Acesso gratuito a todos os nossos produtos - AppsClub, Clube de Descontos, TrueCaller, BTFit e Busuu;
+
+📚 Acesso a treinamentos internos por meio de plataformas digitais;
+
+🏆Programa de reconhecimento interno entre colaboradores - Bemobucks.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Engenheira de Dados Sênior
+
+Sobre a vaga
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+Somos globais, somos GPTW.
+🌈‍👵 ♿️👩🏾 Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!
+
+Que tal se juntar a nós e se tornar um(a) #FourTalent?
+
+Então se liga nessa oportunidade incrível: 👇
+
+Pessoa Engenheira de Dados Sênior
+
+Conhecimento Técnico:
+Java 17, Python 3.9+, Apache Beam, Apache Spark, GCP Dataflow/Dataproc, Scala, Spark SQL, Modelagem Para NoSQL, Modelagem para SQL.
+Necessário Inglês Avançado/Fluente
+
+Responsabilidades:
+Gerenciamento eficaz de informações e dados, garantindo integridade, segurança e qualidade.
+Desenvolvimento e implementação de processos para a ingestão, manipulação e transformação de dados.
+Colaboração com equipes técnicas e de negócios na definição de esquemas de dados e escolha de formatos adequados.
+Utilização de ferramentas de manipulação e qualidade de dados para garantir consistência e confiabilidade.
+Execução de consultas SQL para análises ad hoc e geração de insights relevantes.
+Identificação e resolução de problemas relacionados aos dados, visando melhorias contínuas nos processos e qualidade dos dados.
+
+• E temos também o Clube da Four que oferece ótimas vantagens! 👇
+
+🩺 Assistência médica;
+🍲 VR e VA flexível;
+🏋️ Gympass e Wellz;
+⚽ Parceria com o SESC;
+🍣 Descontos em restaurantes;
+📚 Descontos em cursos técnicos e de ensinos superior;
+🧠 Descontos em escolas e plataformas de idiomas
+
+Que tal se juntar a nós e se tornar um(a) #FourTalent?
+
+Aceita o desafio? Então conclua sua inscrição
+
+#VemSerFoursys!
+
+Boa sorte! 🍀
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Research Engineer
+
+Sobre a vaga
+Do you love creating innovative solutions for customers? 
+
+Thomson Reuters Labs is looking to set up a new Lab in São Paulo. We are seeking a passionate Senior Research Engineer who will bring expertise in AI and ML and is interested in building data-driven capabilities that drive transformation. As a member of Thomson Reuters Labs in São Paulo, you will have a direct impact on our company by helping to create new and innovative capabilities that will delight our customers. 
+
+What does Thomson Reuters Labs do?
+
+We experiment, we build, we deliver. We support the organization and our customers through applied research and the development of new products and technologies. TR Labs innovates collaboratively across our core segments in Legal, Tax & Accounting, Government, and Reuters News. 
+
+As a Senior Research Engineer at Thomson Reuters Labs, you will be part of a global interdisciplinary team of experts. We hire engineers and specialists across a variety of AI research areas to drive the company’s digital transformation.  The science and engineering of AI are rapidly evolving.  We are looking for an adaptable learner who can think in code and likes to learn and develop new skills as they are needed; someone comfortable with jumping into new problem spaces. 
+
+Is this you? Come join us! 
+
+About The Role 
+
+In this opportunity as a Senior Research Engineer, you will: 
+
+Develop and Deliver: Applying modern software development practices, you will be involved in the entire software development lifecycle, building, testing and delivering high-quality solutions. 
+Build Scalable ML Solutions: You will create large scale data processing pipelines to help researchers build and train novel machine learning algorithms.  You will develop high performing scalable systems in the context of large online delivery environments. 
+Be a Team Player: Working in a collaborative team-oriented environment, you will share information, value diverse ideas, partner with cross-functional and remote teams. 
+Be an Agile Person:  With a strong sense of urgency and a desire to work in a fast-paced, dynamic environment, you will deliver timely solutions. 
+Be Innovative: You are empowered to try new approaches and learn new technologies. You will contribute innovative ideas, create solutions, and be accountable for end-to-end deliveries. 
+Be an Effective Communicator: Through dynamic engagement and communication with cross-functional partners and team members, you will effectively articulate ideas and collaborate on technical developments. 
+
+
+About You 
+
+Essential skills & experience 
+
+Have a Bachelor of Science degree, computer science or related field 
+At least 5 years software engineering experience, ideally in the context of machine learning and natural language processing 
+Fluent English
+Are skilled and have a deep understanding of Python software development stacks and ecosystems, experience with other programming languages and ecosystems is ideal. 
+Can understand, apply, integrate and deploy Machine Learning capabilities and techniques into other systems. 
+Are familiar with the Python data science stack through exposure to libraries such as Numpy, Scipy, Pandas, Dask, spaCy, NLTK, scikit-learn 
+Take pride in writing clean, reusable, maintainable and well-tested code 
+Have a desire to learn and embrace new and emerging technology 
+Are familiar with probabilistic models and have an understanding of the mathematical concepts underlying machine learning methods 
+
+
+ Preferred Skills & Experience 
+
+Experience integrating Machine Learning solutions into production-grade software and have an understanding of ModelOps and MLOps principles 
+Demonstrate proficiency in automation, system monitoring, and cloud-native applications, with familiarity in AWS or Azure (or a related cloud platform) 
+Had previous exposure to Natural Language Processing (NLP) problems and have familiarity with key tasks such as Named Entity Recognition (NER), Information Extraction, Information Retrieval, etc. 
+Can understand and translate between language and methodologies used both in research and engineering fields 
+Have been successfully taking and integrating Machine Learning solutions to production-grade software 
+Hands-on experience in other programming and scripting languages (Java, TypeScript, JavaScript, etc.) 
+
+
+What's in it For You?
+
+You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through:
+
+Hybrid Work Model: We've adopted a flexible hybrid working environment for our office-based roles while delivering a seamless experience that is digitally and physically connected
+
+Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: flexible vacation, two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing.
+
+Culture:  Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more.
+
+Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking.
+
+Social Impact: Ten employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact.
+
+Purpose Driven Work: We have a superpower that we’ve never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.
+
+Optional - compensation. Compensation may only be relevant for certain positions and is recommended for use primarily by Sales:
+
+Compensation Base salary and a variable compensation that is directly related to your success.
+
+Questions? Click for Job Ad Best Practices, Gender Neutral Guidelines and Gender Decoder for Job Ads posted on the Global TA Atrium Page. For additional support, please contact the Employer Branding Team or review hiring and recruiting policies in Workday.
+
+For any specialty template (CPS, Reuters and the Thomson Reuters Foundation), please use the template found at this link.
+
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we’ve been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world’s most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility 
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+Protect yourself from fraudulent job postings click here to know more.
+
+More information about Thomson Reuters can be found on https://thomsonreuters.com.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Engenheira de Dados e AWS Sênior
+
+Sobre a vaga
+Por que ser zupper?
+
+Vamos direto ao ponto: o que oferecemos é um ambiente de crescimento exponencial. Mais do que palavras bonitas, isso significa que oferecemos todas as oportunidades para que você possa protagonizar sua evolução e todo o suporte necessário.
+
+Como protagonismo sem apoio não gera desenvolvimento acelerado, além de oportunidades, cada zupper tem um plano de desenvolvimento de carreira, acompanhamento próximo por uma pessoa do time de People e acesso a uma plataforma proprietária que tangibiliza o sentimento de progresso.
+
+E por que fazemos tudo isso?
+
+Porque acreditamos que somente um ambiente de crescimento exponencial vai nos fazer chegar aonde queremos: usar a tecnologia para transformar a vida de pessoas, potencializar talentos desperdiçados por falta de acesso e posicionar regiões desprivilegiadas como pólos de tecnologia de qualidade.
+
+Ah, e não podemos esquecer: na Zup acreditamos na #Liberdade! Com isso, zuppers podem trabalhar de onde quiserem, seja home office, em nossos escritórios ou em um modelo híbrido
+
+O que você fará por aqui
+Certamente você já ouviu falar de como a Zup e os zuppers são fora da curva quando se trata de serviços de migração em nuvem, modernização de aplicações, soluções mobile e em arquiteturas de microsserviços.
+
+E agora, queremos chegar no mesmo patamar de referência quando se trata de soluções e produtos de Data & AI. Já se imaginou fazendo parte desse momento pioneiro e ajudando a lançar as bases da empresa nestas disciplinas?
+Como parte do time de Dados da Zup, sua missão é utilizar seus conhecimentos, habilidades e experiências para contribuir com a criação de uma cultura data-driven em nossos clientes e produtos, seja através da criação de tecnologias e componentes que aceleram o trabalho das áreas responsáveis ou criando pipelines e processos de ingestão, enriquecimento e disponibilização de dados adequados ao uso por diversas fontes.
+
+Por aqui você vai
+Participar do processo de entendimento das necessidades do negócio ,entendendo e garantindo a entrega de valor
+Desenhar a arquitetura e avaliar as tecnologias disponíveis para resolver o problema certo
+Implementar pipelines de Dados para democratização de dados em uma arquitetura Data Mesh
+Combinar a arquitetura e tecnologia para desenvolver e entregar componentes reutilizáveis como conectores, APIs, SDKs, CLIs
+Testar e automatizar tudo que for possível
+Validar e adaptar os componentes de acordo com os feedbacks dos usuários
+Colaborar com a qualidade e inovação tecnológica do produto e ambiente de trabalho
+
+O que esperamos que você saiba
+Conhecimento em processamento de dados em larga escala, processamento paralelo e distribuído (Apache Spark, Hadoop, Hive, etc);
+Experiência com serviços de Data & Analytics da nuvem AWS (Glue, EMR, Athena, Quicksight);
+Conhecimento de linguagem de programação Python;
+Domínio sobre os principais serviços da Cloud AWS (S3, Lambda, SQS, DynamoDB, API Gateway);
+Atuação prática consistente com bases de dados relacionais (SQL) e NoSQL (documentos e chave-valor);
+Domínio de práticas de DevOps e infraestrutura como código (Terraform, CodePipeline, etc)
+
+O que seria muito legal se você soubesse
+Experiência anterior em iniciativas de democratização de dados com Data Mesh;
+Conhecer Stackspot ou outra EDP (Entrerprise Developer Platform);
+Conhecimentos de Observability (Cloudwatch, CloudTrail, Prometheus, AppDynamics, Splunk, ElasticSearch, Grafana e etc.);
+Ter experiência no desenvolvimento de soluções para instituições financeiras
+
+O que te oferecemos
+
+Aqui não é só a sua carreira que importa, queremos que você tenha saúde e bem estar físico e mental para a melhor jornada de experiência profissional e pessoal da sua vida.
+
+Carreira acelerada
+Trabalhe de onde quiser
+Horários flexíveis
+Auxílio Educação para cursos
+Carreira
+Liberdade para trabalhar de onde quiser 
+Horários flexíveis*
+Auxílio Educação 
+Ferramenta própria de desenvolvimento de carreira
+Guildas internas e outros grupos de estudo e interesse
+
+Saúde e bem-estar
+Plano saúde 
+Plano odontológico
+Parceria na compra de medicamentos
+Telemedicina: assistência médica disponível 24x7
+Terapia online gratuita
+Wellhub
+Licença maternidade estendida
+Licença paternidade estendida
+CAZ – Central de Atendimento a Zuppers
+
+Conforto financeiro
+Vale-refeição e alimentação
+Seguro de vida
+Vale-transporte
+Auxílio home office 
+Auxílio Creche
+Auxílio plano telefônico
+Participação em Lucros e Resultado
+
+(*) Disponível somente para alguns projetos
+-----------------------------------------------------------------------------------

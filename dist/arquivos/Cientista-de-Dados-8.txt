@@ -1,0 +1,334 @@
+[Oportunidade 1]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Xometry (NASDAQ: XMTR) powers the industries of today and tomorrow by connecting the people with big ideas to the manufacturers who can bring them to life. Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.
+
+We are looking for an experienced senior-level Data Engineer to join our Supplier Services team that helps businesses connect with over 500,000 suppliers in their sourcing needs. Our product and service suite is designed to help suppliers attract, convert, and retain customers in the industrial space. You will play a crucial role in a rapidly growing part of the Xometry business, and everything you do will matter.
+
+This is the perfect opportunity if you are a self-starter who is up for a new challenge in a fast-paced, energetic, and constantly changing environment. You will help move our platform to the next level. You’ll be working as part of a skilled, collaborative team to jointly design and implement high visibility applications. This is an ideal position if you are an experienced data engineer and you want to be part of a small, intensely skilled team, who feel total ownership of their work, and can’t imagine a day without learning & coding. This is a 1-year contract.
+
+Responsibilities: 
+
+Active participation on a software development team designing, coding, testing, and releasing functionality to our customers
+Close collaboration with other engineers and product managers to become a valued member of an autonomous, cross-functional team
+Operational responsibility for the services that are owned by your team, potentially including taking part in on-call rotation
+Work in an environment that supports your individual growth
+Assemble data sets that meet functional / non-functional business requirements. 
+Build analytics models that utilize the data pipeline to provide actionable insights into key business performance metrics. 
+Maintain data pipelines and perform any changes or alterations as requested. 
+Work with stakeholders including the Product Managers, Data, and Design teams to assist with data-related technical issues and support their data needs. 
+Develop data models for analytics and data scientist team members that assist them in building and optimizing data
+Work with data and analytics experts to strive for greater functionality in our data systems. 
+Design and Develop data transformation program in Python and other programming languages based on use case and business requirements
+Create software to automate bulk updates to database objects
+Develop deployment and release of functionality through software integration to support devops and CI/CD pipelines
+Develop automated test to catch any issues during software deployments
+
+Qualifications: 
+
+3+ years of prior experience as a software engineer or data engineer in a fast-paced, technical, problem-solving environment
+Cloud Data Warehouse experience - Redshift/Snowflake
+Event tracking experience - Segment, Tealium
+Design experience with Relational Model, Dimensional Model, 3NF, Data Vault
+Data modeling best practices for transactional and analytical processing
+SQL, Querying JSON and XML
+Knowledge and understanding of AWS data ecosystem like RDS, Data Migration Service, S3, Athena, Kinesis and others
+Experience with programming language like Python, JavaScript
+Experience working in and with DevOps/Site Reliability environment and teams
+Ability to work with APIs - Familiarity with technologies such as REST or GraphQL
+Ability to design and propose a solution with a variety of data formats and data stores
+Working knowledge of message queuing, stream processing, and highly scalable data stores
+Understanding of web application architectures like micro-services, domain driven design, service-oriented architecture
+
+Here at Xometry we believe in diversity, equity, inclusion and belonging. We are committed to welcoming, respecting, and valuing people for who they are as individuals, learning from their differences, embracing their uniqueness, and providing a positive workplace for all.
+
+Xometry is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.
+
+Xometry participates in E-Verify and after a job offer is accepted, will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Especialista em Ciência de Dados
+
+Sobre a vaga
+Acreditamos no poder transformador da tecnologia e na sua capacidade de contribuir para a construção de uma sociedade mais diversa e inclusiva. Como a maior empresa brasileira de tecnologia, temos o compromisso com uma política e programa de diversidade e inclusão para termos um ecossistema cada vez mais representativo, respeitoso e acolhedor.
+
+O QUE VOCÊ VAI FAZER:
+
+Desenvolvimento de produtos de dados para otimizar a tomada de decisão na cia;
+Identificar e desenvolver novas oportunidades para aplicação de modelagem estatística e algoritmos de otimização;
+Ser referência técnica em projetos de ciência de dados com atuação end-to-end;
+Explorar com criatividade os diversos conjuntos de dados disponíveis para desenvolver produtos de qualidade;
+Experiência prévia com modelos de crédito será considerado um diferencial.
+
+O QUE ESPERAMOS DE VOCÊ:
+
+Formação em cursos de exatas ou correlatas;
+Conhecimentos sólidos em SQL, Python;
+Conhecimento sobre técnicas de Machine Learning aplicadas na prática para solucionar problemas de negócio;
+Conhecimento das principais técnicas de estatística;
+Perfil analítico e crítico, com foco na resolução de problemas;
+Pragmático, equilibrando qualidade e simplicidade.
+
+INFORMAÇÕES ADICIONAIS
+TOTVS TECHFIN, a joint venture que nasceu da parceria entre TOTVS, maior empresa de tecnologia do Brasil, e Itaú, maior banco da América Latina, com a missão de aliar tecnologia e inovação para proporcionar as melhores soluções de crédito, pagamentos e serviços para ajudar as empresas a superar os desafios dos seus negócios.
+
+Você sabe qual a diferença entre uma “Fintech” e uma “Techfin”? A gente te explica!
+Fintechs são empresas financeiras que querem utilizar tecnologia para melhorar a distribuição e a experiência de uso dos seus produtos financeiros.
+
+Techfins são empresas de tecnologia que querem utilizar sua força de desenvolvimento para distribuir e democratizar o acesso aos melhores produtos financeiros.
+
+Nossa missão é ampliar, baratear e simplificar a contratação de serviços financeiros das empresas brasileiras para que elas possam comprar, pagar, vender e receber de forma ágil e sem complicações.
+
+#SOMOSTECHFINERS
+
+Dito isso, oferecemos:
+Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos;
+Programa +Saudáveis, com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;
+Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos;
+Plano de saúde e odontológico;
+Vale refeição/alimentação;
+Vale transporte;
+Seguro de vida;
+Auxílio creche;
+Previdência privada;
+Gympass;
+PLR.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Cientista de Dados - Especialista
+
+Sobre a vaga
+Um time que faz parte da mudança 
+
+Abraçamos o poder da mudança para criar valor e sucesso compartilhado para nossos clientes, funcionários, acionistas, parceiros e comunidades. Contamos com a maior rede mundial de centros de tecnologia avançada e operações inteligentes.
+
+Provocamos a mudança no mercado 
+
+Trabalhamos juntos mundo afora para fazer um mundo de diferenças. A Accenture é uma empresa global de serviços profissionais líder em soluções para digital, nuvem e segurança. Ao combinar experiência incomparável e habilidades especializadas em mais de 40 setores, oferecemos serviços em Estratégia e Consultoria, Tecnologia, Operações, Industry X e a Accenture Song.
+
+Ao trabalharmos juntos, a mudança se torna a fonte de progresso mais dinâmica e poderosa que você tem. Somos mais de 738 mil pessoas, presentes em mais de 120 países, engajados em fazer inovação todos os dias e transformar o mundo em um lugar melhor para as pessoas.
+
+As Melhores Pessoas
+
+Nosso principal valor é o Respeito pelo Indivíduo. O nosso maior ativo são as pessoas, não fazemos distinção de gênero, cor, orientação sexual, posição social ou deficiências. Todos têm oportunidades iguais de construir sua carreira em uma empresa inclusiva e diversificada.
+
+Junte-se a nós
+
+Somos uma equipe que tem objetivo de colocar a nuvem no coração dos negócios das maiores empresas do mundo, desenvolvendo soluções específicas de migração para nuvem com a possibilidade de usufruir o melhor dela. Anunciamos em 2020 investimento de USD 3 bilhões para apoiar nossos clientes de todos os setores a se tornarem rapidamente “cloud-first” e acelerar sua transformação digital com velocidade e em escala.
+
+Requisitos:
+
+
+Experiência com Python: Habilidade comprovada em utilizar Python para análise de dados e modelagem estatística.
+
+Experiência com AWS: Conhecimento das ferramentas e serviços da AWS, como AWS S3, AWS Athena, AWS Glue, e Amazon SageMaker.
+
+Experiência com análise de dados: Experiência sólida em trabalhar com grandes volumes de dados e em criar insights acionáveis.
+
+Experiência com SQL: Habilidade em escrever consultas SQL complexas.
+
+Modelagem estatística e machine learning: Experiência em desenvolver e validar modelos preditivos e estatísticos.
+
+Boas práticas de desenvolvimento: Familiaridade com boas práticas de desenvolvimento de software, como design patterns e clean code.
+
+Inglês Avançado para comunicação diariamente 
+
+
+Diferencial: Experiência em desenvolvimento de algoritmos de machine learning com Python.
+
+Benefícios:
+
+Assistência Médica – 100% subsidiada pela empresa (titular e dependentes)
+
+Assistência Odontológica
+
+Vale Refeição ou Alimentação sem desconto
+
+Seguro de vida
+
+Previdência Privada
+
+Gympass
+
+Opção de compra de ações da empresa com desconto
+
+Desconto Farmácia
+
+Auxílio Creche
+
+Parceria com escola de idiomas
+
+Licença Maternidade e Paternidade Estendida
+
+PPR *Conforme política vigente
+
+Localidade da vaga: 
+
+Recife - PE Campina Grande - PB
+
+Fortaleza - CE São Paulo - SP Curitiba - PR Rio de Janeiro - RJ Belo Horizonte - MG
+
+Buscamos perfis que estejam alinhados aos valores da empresa, entusiastas em trabalhar em um ambiente colaborativo e dinâmico e que tenham a excelência na entrega e a inovação presentes em seu dia a dia.
+
+Valorizamos a competência independentemente da sua raça, idade, gênero, orientação sexual, credo, convicção política. A diversidade das nossas pessoas é o que faz Accenture excepcional. Nós reconhecemos que cada pessoa possui forças exclusivas e diversas.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você. Afinal, It’s yours to build.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Cientista de Vagas Pleno você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de dados voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Formação: - Ciências da Computação, Ciência de Dados, Tecnologia da Informação, Engenharia, Matemática, Estatística e/ou formações em áreas correlatas; Pós-graduação/MBA: na área de tecnologia.
+Conhecimento em Aprendizado de Máquina (ML): É necessário que o candidato entenda técnicas de ML, como regressão, classificação, agrupamento e processamento de linguagem natural (PLN). 
+Jupyter Notebooks: A familiaridade com Jupyter Notebooks é crucial, já que é uma ferramenta amplamente utilizada por nossa equipe para prototipagem, experimentação e documentação de modelos. 
+Habilidades em SQL e Hive: Espera-se que o candidato possa elaborar consultas SQL complexas e possua conhecimento em Hive para manipular dados no Hadoop. 
+Ferramentas de Visualização de Dados: É preferível ter experiência com ferramentas como Hue para a visualização e análise de dados. 
+Bancos de Dados Relacionais: O candidato deve ter familiaridade com bancos de dados relacionais e competência para otimizar consultas. 
+Erwin: A experiência com a ferramenta de modelagem de dados Erwin será considerada um diferencial. 
+Comunicação e Colaboração: O candidato precisa ter habilidade para trabalhar em grupo, comunicar claramente os resultados das análises e cooperar com os demais integrantes da equipe.
+
+Requisito Desejável:
+
+Certificados de treinamento em ciência de dados são desejáveis.
+Erwin - experiência com a ferramenta de modelagem de dados Erwin será considerada um diferencial.
+
+Requisitos Mandatórios:
+
+Experiencia em trabalhos com Ciência de Dados, Machine Learning, Estatística e Analise de dados.
+Python, SQL, Pandas, Scikit-Learn, Data Science (Modelagem de modelos supervisionados e não supervisionados)
+
+Principais responsabilidades:
+
+Desenvolvimento de modelos de machine leaning e estudos usando tecnica de ciência de dados
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Machine Learning Engineer
+
+Sobre a vaga
+Descubra o impacto dos dados e da análise avançada em decisões de negócios, integrando-se ao nosso time de especialistas!
+
+Come join us
+
+Embarque na jornada de transformação de dados com a Avanade! No seu dia a dia, você irá traduzir requisitos de negócios em soluções técnicas inovadoras, analisar práticas atuais e identificar oportunidades futuras, além de projetar e construir soluções modernas de dados na nuvem. Seu papel é fundamental na cadeia de suprimentos de dados, garantindo que os stakeholders tenham acesso e possam manipular dados para análises rotineiras e ad hoc. Together we do what matters.
+
+Skills And Experiences
+
+Experiência comprovada na transformação de casos de uso de negócios em soluções técnicas
+Conhecimento em mapeamento de processos de negócios para soluções de dados e análises
+Habilidade para realizar perfilagem de dados, catalogação e mapeamento para design técnico
+Domínio de .NET C#, T-SQL e familiaridade com Python e Spark
+Conhecimento em Azure Data Factory, Azure Data Lake, Azure Databricks, Azure SQL DW, Azure SQL e Azure App Service
+
+About You
+
+Características que demonstram sucesso para este papel:
+
+Analítico, curioso e ágil
+Espírito de equipe e boa comunicação
+Solucionador de problemas, paciente e focado na qualidade
+Autodidata
+Mentalidade inovadora
+
+What You'll Do
+
+Traduzir requisitos de negócios em soluções técnicas com acurácia
+Analisar e mapear processos de negócios para soluções de dados e análises
+Contribuir no planejamento e implementação de serviços de design de dados
+Desenvolver e manter esquemas de data warehouse e bancos de dados para acesso a dados e análises avançadas
+Expor dados aos usuários finais utilizando plataformas modernas de visualização
+
+Learn more
+
+Para Saber Mais Sobre a Avanade, Confira Estes Links
+
+Blog do LinkedIn
+
+dentro da Avanade
+
+Carreira na Avanade
+
+Enjoy your career
+
+Algumas Das Melhores Coisas Para Trabalhar Na Avanade
+
+Oportunidade de trabalho para o Parceiro Global da Aliança da Microsoft do Ano (14 anos trabalhadores), com desenvolvimento e treinamento especial (mínimo de 80 horas por ano para treinamentos e certificações pagas)
+Acesso em tempo real a recursos técnicos e científicos globalmente
+Conselheiro de carreira dedicado para incentivo ao seu crescimento
+Colegas de trabalho engajadas e prestativas genuinamente específicas para você
+Saiba mais sobre alguns de nossos benefícios:
+Vale refeição ou alimentação; 
+Cartão Multibenefícios até Consultor Sênior; 
+Convênio médico e odontológico; 
+NAV: Plataforma online para cuidar da saúde; 
+Certificações e treinamentos; 
+Seguro de Vida; 
+Previdência Privada; 
+Avababy: acompanhamento da gestação e kit para os novos pais e mães Avanade; 
+Participação nos resultados da empresa;
+Gympass; Auxílio Creche; 
+Orientador de Carreira - Mentoria de carreira; 
+Política de Birthday Off em seu aniversário e de filhos até 12 anos; 
+Sessões de Bem-Estar; 
+Para função gerencial ou superior - Veículo corporativo, estacionamento e auxílio combustível.
+
+A great place to work
+
+Ao trazer suas habilidades e capacidades para a Avanade, você terá experiências específicas, aprendizado ilimitado e crescimento ambicioso em troca. À medida que continuamos a construir nossa cultura diversa e inclusiva, nos tornamos ainda mais inovadores e criativos, ajudando-nos a servir melhor nossos clientes e comunidades. Você se juntará a uma comunidade de colaboradores inteligentes e solidários para elevar, orientar e orientar você, e contar com sua expertise. Você terá uma empresa construída para soluções tecnológicas de ponta e críticas para os negócios, comprometida em melhorar a forma como os humanos trabalham, interagem e vivem. Está tudo aqui, então dê uma olhada mais de perto!
+
+Trabalhamos arduamente para proporcionar uma cultura inclusiva e diversificada, com um profundo senso de pertencimento para todos os nossos funcionários. Visite nossa página de Inclusão & Diversidade. 
+
+Crie um futuro para nossas pessoas que se concentram em:
+
+ Expandir seu pensamento
+ Experimentar intensamente
+ Aprender e girar
+
+Inspire Grandeza Em Nossas Pessoas Por
+
+ Empoderar cada voz
+ Encorajar a ousadia
+ Comemorar o progresso
+
+Acelere o Impacto De Nossas Pessoas Por
+
+ Surpreender o cliente
+ Priorizar o que importa
+ Agir como um só
+-----------------------------------------------------------------------------------

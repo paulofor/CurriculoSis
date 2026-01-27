@@ -1,0 +1,337 @@
+[Oportunidade 1]
+Oportunidade: Lead Data Engineer – Data Platform (Bangkok-Based, Relocation Provided)
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know Our Team
+
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+Why Agoda Hadoop Apps Team?
+
+Joining this team, you will be solving some of the most difficult challenges out there today for the Hadoop ecosystem. We focus largely on building user tools and applications for other teams to use, most of these are built on top of Yarn utilizing Apache Spark as well as other cutting edge technologies.
+
+We are also the engine that drives a fully functional world class data warehouse on top of Hadoop, this means providing tools to define data cubes and syncing high load of data from a processing Hadoop to other systems using in-house built Applications.
+
+ In this Role, you will get to 
+
+ Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing Data Platform 
+ Build, administer and scale Data Platform 
+ Be comfortable navigating the following technology stack: S3, Kubernetes, KubeFlow, Spark, SQL, Impala, Scala, java, Python, scripting (Bash/Python) etc. 
+ Work with experienced engineers to identify and build tools to automate many large-scale data platform management 
+
+What You’ll Need To Succeed
+
+ Bachelor’s degree in Computer Science /Information Systems/Engineering/related field 
+ 6+ years of experience in Data Platform Administration eg. Hadoop, S3, AWS, Google Cloud etc. 
+ 6+ years of experience in Kubernetes Administration 
+ Good experience in Apache Spark performance tuning and debugging 
+ Good level understanding of JVM and either Java or Scala 
+ Experience in WorkFlow Scheduler eg. KubeFlow, AirFlow, Oozie etc. 
+ SQL experience eg. SparkSql, Impala, BigQuery, Presto/Trino, StarRocks etc. 
+ Experience debugging and reasoning about production issues is desirable 
+ Analytical problem-solving capabilities & experience. 
+ Systems administration skills in Linux 
+
+ It’s great if you have 
+
+ Experience working with Open-source products 
+ Python/Shell scripting skills 
+ Working in an agile environment using test driven methodologies 
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #budapest #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #osaka #malta #amsterdam #oslo #warsaw #krakow #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4 #bangalore #delhi #hyderabad #pune #singapore #beijing #shanghai #shenzhen #tokyo #seoul #hongkong #taipei #kualalumpur #jakarta #hochiminh #hochiminhcity #manila #instanbul #makati #dubai #riyadh #gurgaon #noida
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: 15480-ENGENHEIRO DE DADOS
+
+Sobre a vaga
+Na Global Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia. Se você é movido pela paixão em criar soluções tecnológicas disruptivas, se busca constantemente desafios que ampliem os limites do possível e se acredita que colocar o cliente em primeiro lugar é a chave para o sucesso, então você está no lugar certo.
+
+Queremos pessoas que se destaquem, que pensem fora da caixa e estejam dispostas a desbravar novos horizontes. Aqui, cada ideia é valorizada, cada pergunta é incentivada e cada desafio é encarado como uma oportunidade de aprendizado e crescimento.
+
+Junte-se a nós e faça parte de uma cultura vibrante, onde a inovação é alimentada pela curiosidade incessante e onde o respeito pelo cliente permeia todas as nossas ações. Aqui, você terá a liberdade de explorar suas habilidades, colaborar com mentes brilhantes e transformar o futuro da tecnologia.
+
+Se você está pronto para fazer parte de uma empresa que acredita que o talento é a chave para o sucesso, envie seu currículo e junte-se à nossa equipe.
+
+Estamos ansiosos para conhecer você e impulsionar juntos a próxima geração de soluções tecnológicas.
+
+Venha ser um Hit!
+
+Responsabilidades e atribuições
+
+Extração, transformação e carga de dados; 
+Catalogação, indexação e busca; 
+Algoritmos e modelagem estatística de modelos computacionais; 
+Treino, retreino, fine tunning ou engenharia de prompts de modelos de inteligência artificial;
+Apoio técnico a usuários finais no desenvolvimento de análises de negócio e BPM em plataforma LowCode.
+
+
+Requisitos e qualificações
+
+Requisitos necessários
+
+Ensino superior completo;
+
+Experiência com:
+
+BI – Business Intelligence, OLAP e Big Data.
+Plataformas e ferramentas LowCode para BPM, como Power BI/Automate e QlikSense. 
+Search Engines e bancos de dados no-SQL;
+ Ciência de Dados para IA
+
+
+Informações adicionais
+
+Quer conhecer todas as nossas vagas? Acesse a nossa página:
+
+Global Hitss - Trabalhe Conosco
+
+https://globalhitss.gupy.io/
+
+Importante: Todas as nossas vagas são elegíveis para profissionais com deficiência, equidade de gênero e raça/ etnia.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Engenheira de Dados |Pleno
+
+Sobre a vaga
+Buscamos alguém com perfil resolutivo e com boa comunicação para uma posição estratégica no Time de Dados.
+
+Para se sair bem, você precisa ser uma pessoa curiosa, com muita vontade de aprender e aplicar seus conhecimentos para resolver problemas voltados para Dados.
+
+Além disso, ter disciplina é muito importante — buscamos pessoas que consigam entregar resultados e que possam ir desenvolvendo a autonomia no dia a dia de trabalho. Nosso ambiente de trabalho é amigável, colaborativo e prezamos muito por ele e, portanto, saber se comunicar, receber e passar feedbacks de forma positiva é importantíssimo.
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+Planejar e ajudar-nos a construir uma arquitetura de dados simples e escalável;
+Levantar hipóteses e fazer testes que possam ser validados ou descartados rapidamente;
+Auxiliar os analistas de dados a obterem os dados necessários em suas análises;
+Compartilhar conhecimento com o time;
+Documentar e catalogar os dados carregados;
+Estar atento ao volume de dados e tempo de cada carga;
+Está atento aos detalhes e ter habilidades organizacionais bem desenvolvidas, incluindo a capacidade de priorizar as tarefas e cumprir os prazos.
+
+REQUISITOS E QUALIFICAÇÕES
+
+Vivência prévia com extração, transformação e carga de dados;
+Conhecimento de deploy e manutenção de Dags.
+Capacidade de estruturar conceitos e problemas para lidar com projetos desde a concepção até a proposta de solução;
+Familiaridade com ferramentas como Azure Data Factory e DataBricks;
+Valorizar a diversidade de perspectivas e garantir que todos os membros da equipe se sintam incluídos e ouvidos;
+Facilidade na comunicação de ideias e apresentações;
+Experiência com linguagens SQL e Python.
+
+Como Você Pode Nos Surpreender
+
+Familiaridade com ferramentas como Big Query, Delta Lake e CloudStorage;
+Conhecimento de CI/CD, IaC e container;
+Experiência Azure DevOps / Git;
+Conhecimento em ferramentas SAST e de Qualidade de Código;
+Conhecimento em Data Quality e Data Governance.
+
+INFORMAÇÕES ADICIONAIS
+
+📍 Local de trabalho: Remoto
+
+Benefícios
+
+PLR;
+Plano de Saúde, Plano Odontológico e Seguro de Vida;
+Convênio Farmácia;
+Ben Visa Vale (vale alimentação e/ou vale refeição);
+Gympass - programa de academias e de cuidado com a saúde mental;
+Wellz - auxílio psicológico;
+Linkedin Learning - Plataforma de Treinamento e Desenvolvimento com +20.000 cursos online e trilhas de estudo personalizáveis;
+Auxílio creche;
+Extensão da Licença Maternidade/Paternidade;
+Day off de aniversário;
+Vale Transporte.
+
+A MELHOR COMBINAÇÃO DE PESSOAS E TECNOLOGIA 💜
+
+🚀 Somos uma das maiores fintechs de investimentos do mundo!
+
+Fazemos parte do maior banco da Zona do Euro e estamos dobrando de tamanho a cada ano.
+
+Nosso propósito é gerar liberdade financeira para as pessoas, sendo a ponte entre elas e seus objetivos! Por isso, sonhamos grande e buscamos inovação contínua para ajudá-las a encontrar as melhores oportunidades de investimentos do mercado e a investir de um jeito fácil, seguro e com Corretagem Zero de verdade
+
+Para isso, combinamos pessoas e tecnologia, valorizando e preservando o espírito colaborativo, diverso e inovador. Todas as pessoas do nosso time são essenciais para o nosso desenvolvimento e sucesso.
+
+💜 Nossa Cultura
+
+Dividimos e tangibilizamos em 3 valores as nossas atitudes e práticas da cultura que vivemos todos os dia na Toro.
+
+Ação de Dono: Somos protagonistas, gostamos de fazer a diferença. Assumimos a responsabilidade e colocamos a mão na massa pensando na empresa como um todo. Entregamos resultado fazendo mais com menos e valorizando a meritocracia.
+Visão de Time: Somos uma empresa colaborativa, estamos espalhados por todo o Brasil. Trabalhamos de forma colaborativa com transparência, humildade e respeito. Praticamos a autonomia com alinhamento e atuamos sempre a favor dos maiores objetivos da empresa e do cliente.
+Foco no Cliente: Temos como objetivo fazer com que o nosso cliente possua as melhores oportunidades, que ele seja feliz e atinja os seus objetivos. Entregamos resultados gerando valor para o cliente com soluções simples e prazer em servir. Inovamos aprendendo com agilidade e sem medo de errar.
+
+Nosso Compromisso Com a Diversidade
+
+A Toro respeita a pluralidade de identidades e trabalha para promover uma cultura inclusiva.
+
+Sabemos que temos muito a fazer e por isso, buscamos pessoas que querem sonhar esse sonho com a gente.
+
+Se identificou? Então embarque nessa constante evolução e #venhasertoro 💜🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Mid-Level AI/LLMOps Developer - Brasil
+
+Sobre a vaga
+Somos especialistas digitais e impactamos as marcas mais valiosas do mundo. Construímos produtos e soluções digitais focados nas necessidades dos nossos clientes. Como uma nativa digital, trazemos um histórico de 29 anos de aceleração do impacto nos negócios por meio de soluções digitais completas e escaláveis. Com uma presença global de mais de 6.000 pessoas em estratégia, pesquisa, ciência de dados, design e engenharia, desbloqueamos o crescimento de primeira linha, melhoramos a experiência do cliente e impulsionamos a eficiência operacional.
+
+Importante
+
+Para as pessoas residentes na Região Metropolitana de Campinas*, a presença nos escritórios é obrigatória, tendo que cumprir um mínimo de dias ao mês, estipulado pela empresa e projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+
+Estamos buscando uma pessoa com grande interesse em tecnologias emergentes e modelos de IA generativa como LLaMA, Gemini e modelos de código aberto.
+
+Neste papel, você estará na vanguarda da inovação tecnológica, fazendo parte de um time de pesquisas e integrações dos mais recentes avanços em IA aos nossos produtos.
+
+Principais Responsabilidades
+
+Protagonizar a construção e integração de automações e tecnologias de IA para o pipeline de LLMOps da PlataformaImpulsionar a melhoria contínua de nossos sistemas de IA, garantindo que sejam escaláveis, eficientes e alinhados com os padrões mais recentes da indústria.
+
+Ter uma visão holística do processo como um todo, sugerindo as melhores práticas e soluções.
+
+Implementar e manter pipelines de CI/CD para modelos de linguagem.Manter-se atualizado com os últimos desenvolvimentos em tecnologias e modelos de IA generativa, incluindo LLaMA, Gemini e assistentes de IA, e avaliar seu impacto potencial em nossos produtos.
+
+Atuar como um farol de conhecimento dentro da equipe, compartilhando insights e melhores práticas em sistemas de IA e APIs.Colaborar com equipes multifuncionais para alinhar os avanços em IA aos objetivos de negócios e às necessidades dos usuários.Otimizar prompts e interações com Generative IA para melhorar a eficiência, precisão e engajamento do usuário.
+
+Qualificações
+
+Experiência com automação com DevOps ou MLOps, com versionamento de artefatos, deployment automatizado e governança, tendo trabalhado com CI/CD.
+
+Proficiência em linguagens de programação backend, como Python e NodeJS (Typescript) e familiaridade com serviços Cloud.
+
+Histórico comprovado de integração de novas tecnologias em sistemas existentes.
+
+Excelentes habilidades de colaboração e comunicação, com a capacidade de compartilhar conhecimentos e orientar a equipe na adoção de inovações em IA.
+
+Habilidades Preferenciais
+
+Habilidade em modelos de linguagem, geração de texto e técnicas de NLP.
+
+Familiaridade com IA e ML, com foco em modelos de IA generativa.
+
+Experiência com Infra as Code, usando ferramentas como Terraform.
+
+Experiência com APIs e frameworks, como FastAPI e NestJS.
+
+Experiência com frameworks para modelos fundamentais, como LangChain.
+
+Curiosidade e forte desejo de explorar novas tecnologias, frameworks e modelos e ferramentas de IA.
+
+Capacidade de inovar e pensar criativamente para resolver problemas complexos e melhorar o desempenho do produto.
+
+#Midsenior
+
+CI&T é uma empresa que oferece oportunidades iguais. Celebramos e valorizamos a diversidade de identidades e experiências vividas de nossos CI&Ters. Estamos empenhados em construir, promover e manter uma empresa e cultura diversificada, inclusiva e equitativa focada em criar um amanhã melhor.
+
+Na CI&T, reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Nossas equipes são mais impactantes quando pessoas de todas as formações e experiências colaboram para compartilhar, criar e ouvir ideias.
+
+Antes de candidatar as nossas oportunidades confira a Política de Conflito de Interesse em nosso site.
+
+Incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+
+Cidades que compõe a Região Metropolitana de Campinas : Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: DATA ENGINEER III
+
+Sobre a vaga
+Sobre o Bradesco 
+
+Trazendo um pouco mais da nossa história de contribuição e impacto na sociedade, com pioneirismo e inovação, o Bradesco surgiu com o propósito de democratizar o acesso aos serviços bancários no Brasil. Nesses 81 anos, sempre ao lado dos brasileiros, nos tornamos uma das maiores Organizações do país, formada por empresas e fundações que oferecem produtos e serviços que vão de soluções financeiras a seguros, saúde e educação.
+
+E estamos sempre em busca de pessoas dispostas a fazer a diferença na vida de milhões de brasileiros, contribuindo para o desenvolvimento da sociedade.
+
+ Responsabilidades e atribuições 
+
+O que é o nosso time de Inteligência de dados?
+
+O Departamento de Inteligência de Dados tem o propósito de avançar nas fronteiras das tecnologias de dados e IA para gerar valor às unidades de negócio de maneira sustentável e ética. Nossas equipes estão organizadas em três grandes pilares: Analytics (orientado a profit pools), plataforma & estrutural, e governança & qualidade. E, junto às unidades de negócio, desenvolvemos e implantamos soluções de inteligência analítica que trazem incremento de receita, aumento de eficiência operacional, mitigação de riscos e melhoria da experiência do cliente.
+
+Modelo de trabalho : Híbrido (4 vezes remoto e 1 vez presencial)
+
+Local: Osasco
+
+ Como será seu dia a dia? 
+
+O Foco é na estruturação e habilitação do ambiente analítico na cloud, contando com a migração do legado (on premisses).
+
+
+ Definição de boas práticas
+ Desenvolvimento de automações (DevOps)
+ Participação no desenvolvimento de arquiteturas
+ Desenvolvimento de processos de monitoramento da saúde do ambiente
+ Automação de processos
+
+
+ Requisitos e Qualificações 
+
+O que você precisa ter ou saber?
+
+
+ Obrigatório conhecimento avançado em linguagem de Programação (Python ou Java); 
+ Obrigatório conhecimento em Cloud (Azure e/ou GCP). 
+ Obrigatório conhecimento em tecnologia Spark; 
+ Vivência anterior em Engenharia e Arquitetura Cloud para Ambiente Analítico 
+ Vivência em automação de processos de dados. 
+ Vivência em desenvolvimento de pipelines de dados. 
+ Inglês Intermediário/avançado para participação em reuniões; 
+ Graduação completa em cursos de Ciência de Dados, Matemática, Estatística, Economia, Física, Engenharia ou Computação, Sistemas de Informação e Análise de Desenvolvimento de Sistemas. 
+
+
+Será um diferencial se você tiver:
+
+
+ Conhecimento em DataBricks 
+
+
+ O que nós oferecemos 
+
+No Bradesco valorizamos a saúde e bem-estar, oferecendo um extenso portfólio de benefícios as todas nossas pessoas colaboradoras.
+
+
+ PLR ou Bônus: Conforme a elegibilidade de cargo* 
+ Convênio Médico 
+ Convênio Odontológico 
+ Seguro de Vida 
+ Vale Alimentação 
+ Vale Refeição 
+ Total Pass 
+ 13º Cesta Alimentação 
+ Vale Transporte (adesão opcional) 
+ Descontos em produtos e serviços em empresas parceiras 
+ Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco) 
+ Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida 
+ Unibrad: Universidade Corporativa Bradesco 
+ Isenção de Tarifas: condições especiais em diversos produtos e serviços 
+ Auxílio Creche ou Babá 
+ Licença Paternidade estendida de 20 dias 
+ Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto 
+ Auxílio para filho atípico* 
+
+
+ Saiba mais sobre o Bradesco 
+
+Para mais informações sobre as nossas práticas de gestão de pessoas e indicadores, acesse bradescori.com.br/o-bradesco/capital-humano/ .
+
+Para mais informações institucionais, de negócios e financeiras, além das práticas e iniciativas de sustentabilidade, acesse bradescori.com.br/o-bradesco/relatorio-integrado/ .
+-----------------------------------------------------------------------------------

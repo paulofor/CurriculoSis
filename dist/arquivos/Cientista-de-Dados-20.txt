@@ -1,0 +1,306 @@
+[Oportunidade 1]
+Oportunidade: Senior AI Machine Learning Engineer - Remote - Latin America
+
+Sobre a vaga
+About FullStack
+
+FullStack is the fastest-growing software consultancy in the Americas. We help organizations like Uber, GoDaddy, MGM, Siemens, and Stanford University build distributed software development teams, and deliver transformational digital solutions. As an employee-first company, we focus on hiring the most talented software designers and developers in the western hemisphere, by creating a positive, respectful, and supportive work environment where they can achieve their greatest potential.
+
+We’re Most Proud Of
+
+Offering life-changing career opportunities to talented software professionals across the Americas.
+Building highly-skilled software development teams for hundreds of the world’s greatest companies.
+Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+Our 4.5-star rating on GlassDoor.
+Our client Net Promoter Score of 68, twice the industry average.
+
+The Position
+
+We're Looking To Hire a Senior AI Machine Learning Engineer To Join Our Team. You'll Work With Our Incredible Clients In One Of Two Ways
+
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+What We Are Looking For
+
+5+ years of professional experience as a Machine Learning Engineer with strong knowledge of AI.
+Design, develop, and test machine learning algorithms and models. 
+Analyze and interpret large amounts of data to identify patterns and trends. 
+Implement and optimize models in production environments. 
+Develop and maintain documentation on machine learning models and processes. 
+Identify and address issues that may arise during development and deployment. 
+Strong programming skills in languages such as Python, R, or Java.
+Experience with machine learning frameworks such as TensorFlow or PyTorch. 
+Experience with data analysis and visualization tools like Pandas, NumPy, or Matplotlib. 
+Knowledge of LLM.
+Familiarity with GenAI.
+Knowledge of statistical modeling and inference techniques. 
+Successful completion of a four-year college degree is required.
+Advanced English is required.
+Experience working on Agile/Scrum teams. 
+Forensic attention to detail.
+A positive mindset and a can-do attitude.
+Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+Ability to consistently work 40 hours per week. 
+
+What We Offer
+
+Competitive pay in your local currency.
+100% remote work.
+The ability to work with leading startups and Fortune 500 companies.
+English Classes.
+Virtual company events each month.
+Ample opportunity for career advancement.
+Continuing education opportunities.
+Depending on your location other benefits may apply.
+
+FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form, which can be provided upon request during our hiring and interview process.
+
+Learn more about our Applicants Privacy Notice.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Lead DS (Data Scientist) Bangkok based, Relocation provided
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know Our Team
+
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+The Opportunity
+
+We are looking for ambitious and agile data scientists that would like to seize the opportunity to work on some of the most challenging productive machine learning and big data platforms worldwide, processing some 600B events every day and making some 5B predictions.
+
+As part of the Data Science and Machine Learning (AI/ML) team you will be exposed to real-world challenges such as: dynamic pricing, predicting customer intents in real time, ranking search results to maximize lifetime value, classifying and deep learning content and personalization signals from unstructured data such as images and text, making personalized recommendations, innovating algorithm-supported promotions and products for supply partners, discovering insights from big data, and innovating the user experience. To tackle these challenges, you will have the opportunity to work on one of the world’s largest ML infrastructure employing dozens of GPUs working in parallel, 30K+ CPU cores and 150TB of memory.
+
+In This Role, You’ll Get to
+
+Design, code, experiment and implement models and algorithms to maximize customer experience, supply side value, business outcomes, and infrastructure readiness
+Mine a big data of hundreds of millions of customers and more than 600M daily user generated events, supplier and pricing data, and discover actionable insights to drive improvements and innovation
+Work with developers and a variety of business owners to deliver daily results with the best quality
+Research discover and harness new ideas that can make a difference
+
+What You’ll Need To Succeed
+
+4+ years hands-on data science experience
+Excellent understanding of AI/ML/DL and Statistics, as well as coding proficiency using related open source libraries and frameworks
+Significant proficiency in SQL and languages like Python, PySpark and/or Scala
+Can lead, work independently as well as play a key role in a team
+Good communication and interpersonal skills for working in a multicultural work environment
+
+It’s Great if You Have
+
+PhD or MSc in Computer Science / Operations Research / Statistics or other quantitative fields
+Experience in NLP, image processing and/or recommendation systems
+Hands on experience in data engineering, working with big data framework like Spark/Hadoop
+Experience in data science for e-commerce and/or OTA
+
+We welcome both local and international applications for this role. Full visa sponsorship and relocation assistance available for eligible candidates.
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior AI Machine Learning Engineer - Remote - Latin America
+
+Sobre a vaga
+About FullStack
+
+FullStack is the fastest-growing software consultancy in the Americas. We help organizations like Uber, GoDaddy, MGM, Siemens, and Stanford University build distributed software development teams, and deliver transformational digital solutions. As an employee-first company, we focus on hiring the most talented software designers and developers in the western hemisphere, by creating a positive, respectful, and supportive work environment where they can achieve their greatest potential.
+
+We’re Most Proud Of
+
+Offering life-changing career opportunities to talented software professionals across the Americas.
+Building highly-skilled software development teams for hundreds of the world’s greatest companies.
+Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+Our 4.5-star rating on GlassDoor.
+Our client Net Promoter Score of 68, twice the industry average.
+
+The Position
+
+We're Looking To Hire a Senior AI Machine Learning Engineer To Join Our Team. You'll Work With Our Incredible Clients In One Of Two Ways
+
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+What We Are Looking For
+
+5+ years of professional experience as a Machine Learning Engineer with strong knowledge of AI.
+Design, develop, and test machine learning algorithms and models. 
+Analyze and interpret large amounts of data to identify patterns and trends. 
+Implement and optimize models in production environments. 
+Develop and maintain documentation on machine learning models and processes. 
+Identify and address issues that may arise during development and deployment. 
+Strong programming skills in languages such as Python, R, or Java.
+Experience with machine learning frameworks such as TensorFlow or PyTorch. 
+Experience with data analysis and visualization tools like Pandas, NumPy, or Matplotlib. 
+Knowledge of LLM.
+Familiarity with GenAI.
+Knowledge of statistical modeling and inference techniques. 
+Successful completion of a four-year college degree is required.
+Advanced English is required.
+Experience working on Agile/Scrum teams. 
+Forensic attention to detail.
+A positive mindset and a can-do attitude.
+Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+Ability to consistently work 40 hours per week. 
+
+What We Offer
+
+Competitive pay in your local currency.
+100% remote work.
+The ability to work with leading startups and Fortune 500 companies.
+English Classes.
+Virtual company events each month.
+Ample opportunity for career advancement.
+Continuing education opportunities.
+Depending on your location other benefits may apply.
+
+FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form, which can be provided upon request during our hiring and interview process.
+
+Learn more about our Applicants Privacy Notice.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Cientista de Dados Trabalho Remoto Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+A LBCA é um escritório full service, formado por profissionais com atuação multidisciplinar, presente nas mais diversas áreas de atividade jurídica empresarial no Brasil.
+
+Você já pensou em fazer parte de uma equipe que conta com uma plataforma de tecnologia pioneira desenvolvida pela própria banca, que auxilia na administração de carteiras jurídicas e de todos os tipos de dados e documentos das empresas, possibilitando a avaliação de riscos, a tomada de decisões e a gestão estratégica de negócios?
+
+Se respondeu sim para todas estas perguntas, saiba que esta é a LBCA!
+
+Essa vaga é exclusiva para CIENTISTA DE DADOS .
+
+Lembre-se de candidatar-se a esta vaga e manter os dados do seu currículo sempre atualizados.
+
+Caso não seja seu perfil, temos outras oportunidades em nossa página de carreiras: lbca.gupy.io
+
+#VEMSERLBCA
+
+Responsabilidades e atribuições
+
+Desenvolver e implementar modelos de inteligência artificial avançados para resolver problemas complexos em diversos domínios, incluindo análise de dados, previsão, otimização e reconhecimento de padrões;
+Colaborar com as equipes internas para entender as necessidades do negócio e identificar oportunidades para aplicar técnicas de inteligência artificial que melhorem os processos e a eficiência operacional;
+Projetar e criar ferramentas plugadas aos motores de IA existentes e disponíveis para tratar demandas internas, automatizando tarefas repetitivas, melhorando a tomada de decisão e impulsionando a inovação;
+Realizar análises exploratórias de dados para identificar insights relevantes e propor soluções baseadas em dados que impulsionem o crescimento e a vantagem competitiva da organização;
+Desenvolver e implementar algoritmos de aprendizado de máquina e técnicas de mineração de dados para resolver problemas específicos, como segmentação de clientes, recomendação de produtos e detecção de anomalias;
+Colaborar com arquitetos, desenvolvedores e engenheiros de software para integrar modelos de inteligência artificial em sistemas de produção e garantir sua escalabilidade, desempenho e robustez;
+Interagir com os membros da equipe, compartilhando conhecimentos e melhores práticas em ciência de dados e inteligência artificial;
+Ficar atualizado com os avanços mais recentes em inteligência artificial, participando de conferências, workshops e cursos de treinamento, e aplicar esses conhecimentos para impulsionar a inovação dentro da organização.
+
+Requisitos e qualificações
+
+Imprescindível Formação Superior em Ciências da Computação / Sistemas de Informação/ Matemática Estatística / Engenharia ou Áreas Correlatas.
+Experiência comprovada em desenvolvimento e implementação de modelos de inteligência artificial em ambientes de produção, utilizando ferramentas e bibliotecas como TensorFlow, PyTorch, scikit-learn e Keras;
+Proficiência em linguagens de programação como Python ou R, bem como em técnicas de manipulação e análise de dados;
+Conhecimento sólido em algoritmos de aprendizado de máquina, técnicas de mineração de dados, estatística e otimização;
+Experiência em projetar e criar ferramentas plugadas aos motores de IA existentes e disponíveis para tratar demandas internas, com habilidades em desenvolvimento de software e integração de sistemas;
+Conhecimento em PLN (pré-processamento, engenharia de características, classificação)
+Experiência em prompt-engineering e fine-tuning de LLMs (BERT, GPT, LLAMA, CLAUDE, dentre outros)
+Capacidade de interpretar resultados e ajustar modelos conforme necessário;
+Habilidades de comunicação e colaboração, com capacidade demonstrada de trabalhar em equipe multidisciplinar e traduzir requisitos de negócios em soluções de IA escaláveis e eficazes;
+Desejável um histórico de publicações em conferências ou revistas relevantes, bem como participação em projetos de código aberto ou contribuições para a comunidade de ciência de dados, são altamente valorizados.
+
+Informações adicionais
+
+VR;
+Auxílio Remoto;
+Assistência Médica (coparticipava);
+Auxílio Creche.
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Entrevista com RH2Entrevista com RH
+Etapa 3: Entrevista com a área3Entrevista com a área
+Etapa 4: Contratação4Contratação
+
+Nós Transformamos!
+
+A Lee, Brock, Camargo Advogados (LBCA) se propõe a ter uma relação cooperativa com os clientes, procurando respostas novas para antigos problemas. Essa cultura gerou a busca por soluções ágeis, customizadas e inovadoras em todos os ramos do direito empresarial. Pioneira no desenvolvimento de plataforma tecnológica própria (Legalbox) e com a implementação da DIANA, a Inteligência Artificial da LBCA.
+
+Para a LBCA, a diversidade é uma riqueza que integra a missão da sociedade, que atua contra todos os tipos de desigualdades e busca estabelecer um ambiente de trabalho seguro e inclusivo, onde todos os sócios e colaboradores se sintam valorizados por seus talentos e identidades.
+
+A LBCA valoriza a privacidade e a proteção dos dados pessoais dos titulares que se candidatam às vagas aqui publicadas, assim, todas as operações de tratamento de dados serão realizadas nos termos da Lei Geral de Proteção de Dados Pessoais e demais leis sobre o tema, bem como de acordo com a política de privacidade encontrada em www.lbca.com.br. Ainda, o candidato deverá observar que, para se candidatar às vagas, está, neste momento, na plataforma Gupy, devendo também conhecer e estar de acordo com os Termos de Uso e a Política de Privacidade deste ambiente.
+
+Pilares ESG: E Ambiente sustentável, Green IT, política paper free, logística reversa e descarte de produtos; S Comitês e políticas de Diversidade e Inclusão, fomento à cultura de doação e responsabilidade social; G Código de Conduta e de Ética, regras de Compliance, segurança da informação, LGPD e Política Anticorrupção.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior AI Machine Learning Engineer - Remote - Latin America
+
+Sobre a vaga
+About FullStack
+
+FullStack is the fastest-growing software consultancy in the Americas. We help organizations like Uber, GoDaddy, MGM, Siemens, and Stanford University build distributed software development teams, and deliver transformational digital solutions. As an employee-first company, we focus on hiring the most talented software designers and developers in the western hemisphere, by creating a positive, respectful, and supportive work environment where they can achieve their greatest potential.
+
+We’re Most Proud Of
+
+Offering life-changing career opportunities to talented software professionals across the Americas.
+Building highly-skilled software development teams for hundreds of the world’s greatest companies.
+Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+Our 4.5-star rating on GlassDoor.
+Our client Net Promoter Score of 68, twice the industry average.
+
+The Position
+
+We're Looking To Hire a Senior AI Machine Learning Engineer To Join Our Team. You'll Work With Our Incredible Clients In One Of Two Ways
+
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+What We Are Looking For
+
+5+ years of professional experience as a Machine Learning Engineer with strong knowledge of AI.
+Design, develop, and test machine learning algorithms and models. 
+Analyze and interpret large amounts of data to identify patterns and trends. 
+Implement and optimize models in production environments. 
+Develop and maintain documentation on machine learning models and processes. 
+Identify and address issues that may arise during development and deployment. 
+Strong programming skills in languages such as Python, R, or Java.
+Experience with machine learning frameworks such as TensorFlow or PyTorch. 
+Experience with data analysis and visualization tools like Pandas, NumPy, or Matplotlib. 
+Knowledge of LLM.
+Familiarity with GenAI.
+Knowledge of statistical modeling and inference techniques. 
+Successful completion of a four-year college degree is required.
+Advanced English is required.
+Experience working on Agile/Scrum teams. 
+Forensic attention to detail.
+A positive mindset and a can-do attitude.
+Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+Ability to consistently work 40 hours per week. 
+
+What We Offer
+
+Competitive pay in your local currency.
+100% remote work.
+The ability to work with leading startups and Fortune 500 companies.
+English Classes.
+Virtual company events each month.
+Ample opportunity for career advancement.
+Continuing education opportunities.
+Depending on your location other benefits may apply.
+
+FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form, which can be provided upon request during our hiring and interview process.
+
+Learn more about our Applicants Privacy Notice.
+-----------------------------------------------------------------------------------

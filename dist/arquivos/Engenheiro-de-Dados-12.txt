@@ -1,0 +1,322 @@
+[Oportunidade 1]
+Oportunidade: Sr Database Engineer (Sr SRE) | Engenheiro de Banco de Dados Sr (SRE Sr)
+
+Sobre a vaga
+O que você fará
+
+Avalara is the worldwide leader in sales and use tax calculation. We are the first to admit it - sales tax calculation is not great. But revolutionizing fundamental business processes - that's big time. And that is what we are doing every day, bringing technology to bear on arcane, tedious tasks that every business in the world must deal with.
+
+MongoDB is a critical technology within our Avatax Determination and Returns products . Our micro-services rely on its correct integration resulting in necessary five 9's uptime, ability to scale horizontally, data integrity , auto failover to ensure best Customer experience including its ability to recovery quickly from failures .
+
+MongoDB is also set to expand into other products like Brazil Taxdoc, Comms, EMEA and having an in-house expert DBA Team will ensure maximum uptime with right architecture and configuration with automation is in place.
+
+Database Deployment and Configuration: Deploy, configure, and maintain MongoDB database instances, ensuring optimal performance, reliability, and scalability. Utilize MongoDB Atlas for cloud-based deployments, including configuration of clusters, replication, and sharding as needed.
+
+Monitoring and Performance Tuning: Set up monitoring tools to track MongoDB performance metrics and identify areas for optimization. Proactively tune database configurations, indexes, and queries to improve performance and resource utilization.
+
+Backup and Recovery Management: Implement and manage backup and recovery strategies for MongoDB databases, leveraging features provided by MongoDB Atlas such as continuous backups and point-in-time restores. Ensure data integrity and availability in case of failures or disasters.
+
+Security and Access Control: Configure and maintain security measures for MongoDB databases, including authentication, authorization, encryption, and auditing. Implement best practices for securing data both at rest and in transit, in compliance with industry standards and regulations.
+
+Database Schema Design: Collaborate with development teams to design MongoDB schema structures optimized for performance, scalability, and maintainability. Provide guidance on data modeling best practices and assist with schema migrations as needed.
+
+High Availability and Disaster Recovery: Design and implement high availability architectures for MongoDB deployments, including replication setups and failover configurations. Develop and test disaster recovery procedures to minimize data loss and downtime.
+
+Capacity Planning and Scaling: Monitor database growth trends and forecast resource requirements for MongoDB deployments. Plan and execute scaling operations to accommodate increasing data volumes and user loads, leveraging MongoDB Atlas features for automatic scaling.
+
+Automation and Tooling: Develop automation scripts and tools to streamline routine administrative tasks, such as provisioning, configuration management, and monitoring. Utilize MongoDB Atlas APIs and integrations to automate deployment and management workflows.
+
+Documentation and Knowledge Sharing: Document MongoDB configurations, procedures, and troubleshooting steps. Share knowledge and best practices with team members, fostering collaboration and continuous improvement.
+
+Incident Response and Troubleshooting: Respond to and resolve MongoDB-related incidents and performance issues in a timely manner. Utilize troubleshooting skills and diagnostic tools to identify root causes and implement corrective actions.
+
+Compliance and Governance: Ensure MongoDB deployments adhere to regulatory requirements and internal governance policies. Maintain audit logs and records of database activities for compliance and reporting purposes.
+
+Vendor Management: Liaise with MongoDB Atlas support and engineering teams to escalate issues, request assistance, and stay informed about product updates and roadmap changes. Provide feedback and feature requests to improve the MongoDB Atlas platform.
+
+O que precisa possuir para ser bem sucedido
+
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+Proven experience as a MongoDB Database Administrator, with hands-on experience managing MongoDB deployments in production environments.
+Proficiency in MongoDB administration tasks such as deployment, configuration, monitoring, and troubleshooting.
+Experience with MongoDB Atlas for cloud-based deployments, including cluster configuration, automation, and management.
+Strong understanding of MongoDB architecture, replication, sharding, and performance optimization techniques.
+Familiarity with cloud platforms such as AWS,, Google Cloud Platform, and their integration with MongoDB Atlas.
+Excellent problem-solving skills and the ability to troubleshoot complex issues independently.
+Strong communication and collaboration skills, with the ability to work effectively in a team environment.
+Experience with automation tools and scripting languages such as Python, Bash, or PowerShell is a plus.
+Experience with running mongoDB in containerized environment (EKS clusters) is a plus
+Experience with Cloud or Ops Manager (a plus)
+
+
+Sobre a equipe
+
+Discover what it means to work with some of the smartest people in the industry, and help solve some of the most challenging customer problems. We offer flexible hours, competitive salaries, the ability to work remote and the amazing experience of working with a multinational team of experts.
+
+As a part of DB SRE team, you will troubleshoot and resolve products issues related to DB systems availability and performance. You will develop relationships with development teams, comprehend and fulfill their needs, and maintain their satisfaction through regular communication and engagement with their environments. You will perform technical work that requires planning and scheduling to ensure the best possible solution is delivered on time. You will react on incidents and provide solutions aiming at maintained environments’ improvements.
+
+You will work in a fast paced environment where we are responsible for companies’ most critical systems. Customers count on us to keep their MongoDB, PostgreSQL , SQL server, Snowflake and MySQL DB’s databases running and we are vital to the success of their business.
+
+Sobre a Avalara
+
+We’re Avalara. We’re defining the relationship between tax and tech.
+
+We’ve already built an industry-leading cloud compliance platform, processing nearly 40 billion customer API calls and over 5 million tax returns a year.
+
+Last year, we became a billion-dollar business, and our tribe expanded by a cool thousand people - there’s nearly 5,000 of us now. Our growth is real, and we’re not slowing down - not until we’ve achieved our mission - to be part of every transaction in the world.
+
+We’re bright, innovative and disruptive, like the orange we love to wear. It captures our quirky spirit and optimistic mindset. It shows off the culture we’ve designed, that empowers our people to win. Ownership and achievement go hand in hand here. We instill passion in our people through the trust we place in them.
+
+We’ve been different from day one. Join us, and your career will be too.
+
+EEO Statement
+
+We’re an Equal Opportunity Employer. Supporting diversity and inclusion is a cornerstone of our company — we don’t want people to fit into our culture, but to enrich it. All qualified candidates will receive consideration for employment without regard to race, color, creed, religion, age, gender, national orientation, disability, sexual orientation, US Veteran status, or any other factor protected by law. If you require any reasonable adjustments during the recruitment process, please let us know.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Sr. Machine Learning Engineer - IBP
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Actively contribute to code development in projects and services, leading and coaching ML engineers and data scientists.
+Act as a contributor in innovation activities.
+Work with data scientists, IBP process leads, and BU subject matter experts to identify data clusters for optimal forecasting performance.
+Partner with data scientists on discovery, prototypes, and pilot projects, focusing on experiment tracking and translating business models to ML/statistical models.
+Collaborate with IBP market deploy and sustain teams to design, implement, and test pre-processing and post-processing modules for improved demand forecasts.
+Work with data engineers to ensure proper data access and preparation for model consumption.
+Partner with ML engineers and data scientists on industrialization efforts.
+Drive the use of the Platform toolset and demonstrate 'the art of the possible' to the business.
+Communicate with business stakeholders during service design, training, and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Research state-of-the-art methodologies and techniques for feature engineering and model data preprocessing.
+
+Qualifications
+
+What you will need to succeed
+
+4+ years working in a team to deliver production level analytic solutions - Fluent in git (version control) and with Docker.
+4+ years’ experience in ETL and/or data wrangling techniques - Fluent in SQL syntaxis.
+4+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. 
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or Scala development.
+Effective business storytelling and communicating data insights in business consumable format - Fluent in one Visualization tool.
+Experience with Agile methodology for team work and analytics ‘product’ creation - Fluent in Jira, Confluence.
+On-the-job experience with Azure cloud services is essential.
+
+Additional qualifications that will make you stand out for this position
+
+Experiences with Deep Learning are a plus.
+experience building solutions in the revenue management or in the supply chain space.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Machine Learning Engineer - IBP Build
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Partner with data engineers to ensure data access for discovery and proper data is prepared for model consumption.
+Partner with ML engineers working on industrialization.
+Coordinate work activities with Business teams, other IT services and as required.
+Drive the use of the Platform toolset and to also focus on 'the art of the possible' demonstrations to the business as needed.
+Communicate with business stakeholders in the process of service design, training and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Set KPIs and metrics to evaluate analytics solution given a particular use case.
+Refine requirements into modelling problems.
+Influence product teams through data-based recommendations.
+Research in state-of-the-art methodologies.
+Create documentation for learnings and knowledge transfer.
+Create reusable packages or libraries.
+
+Qualifications
+
+What you will need to succeed
+
+2+ years’ experience building solutions in the revenue management or in the supply chain space.
+2+ years working in a team to deliver production level analytic solutions. Fluent in git (version control). Understanding of Jenkins, Docker are a plus.
+3+ years’ experience in ETL and/or data wrangling techniques. Fluent in SQL syntaxis.
+3+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. Experiences with Deep Learning are a plus.
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or R development.
+Business storytelling and communicating data insights in business consumable format. Fluent in one Visualization tool.
+Strong communications and organizational skills with the ability to deal with ambiguity while juggling multiple priorities
+Experience with Agile methodology for team work and analytics ‘product’ creation.
+
+Additional qualifications that will make you stand out for this position
+
+Experience with Azure cloud services is a plus.
+Experience with distributed machine learning is a plus.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Developer - DataCloud Support Team
+
+Sobre a vaga
+ADP is hiring a Senior Developer - DataCloud Support Team 
+
+Are you empathetic to client needs and inspired by transformation and impacting the lives of millions of people every day?
+Are you looking to join a dynamic, inclusive team environment with a culture of collaboration and belonging? 
+
+Well, this may be the role for you. Ready to design what's next?
+
+We're looking for self-motivated individuals who are looking for a challenging career delivering enterprise class software. You will be automating a Support Tool application using Python and scripting languages to facilitate complex tasks. This application is responsible for monitoring clients and their data in Advanced Enterprise Reporting Application. Our challenge here is to find a balance between troubleshooting issues in this Reporting Application and developing Python solutions in the Support Tool to facilitate our daily job.
+
+Like what you see? Apply now!
+
+Learn More About ADP At Tech.adp.com/careers
+
+A little about ADP: We are a global leader in HR technology, offering the latest AI and machine learning-enhanced payroll, tax, HR, benefits, and much more. We believe our people make all the difference in cultivating an inclusive, down-to-earth culture that welcomes ideas, encourages innovation, and values belonging. ADP has a deep commitment to diversity, equity, and inclusion as a global Best Places to Work, DiversityInc® Top 50 Company, Best CEO and company for women, LGBTQ+, multicultural talent, and more. Learn more about ADP's commitment on our YouTube channel: http://adp.careers/DEI_Videos
+
+What We're Looking For
+
+Experience researching and evaluating possible root causes of issues;
+Experience developing workarounds and redirect the problems to a final solution;
+Software development experience in a product-based company involving in complete SDLC of the product development particularly using Agile SCRUM methodology;
+Knowledge of DevOps resources in providing solutions for continuous development and delivery of products;
+Splunk knowledge;
+Understanding of RESTful and microservices development;
+Analytical mind;
+Knowledge of Automation and Continuous Integration Tools;
+Knowledge of Python;
+Knowledge of AWS or other cloud environment.
+
+You'll Love Working Here Because You Can
+
+Have courageous team collaboration. Courage comes from how associates are willing to have difficult conversations, speak up, be an owner, and challenge one another's ideas to find the best solution.
+Deliver at epic scale. We deliver real user outcomes using strong judgment and good instincts. We're obsessed with the art of achieving simplicity with a focus on client happiness and productivity.
+Be surrounded by curious learners. We align ourselves with other smart people in an environment where we grow and elevate one another to the next level. We encourage our associates to listen, stay agile, and learn from mistakes.
+Act like an owner & doer. Mission-driven and committed to leading change, you will be encouraged to take on any challenge and solve complex problems. No tasks are beneath or too great for us. We are hands-on and willing to master our craft.
+Give back to others. Always do the right thing for our clients and our community and humbly give back to the community where we live and work. Support our associates in times of need through ADP's Philanthropic Foundation.
+Join a company committed to equality and equity. Our goal is to impact lasting change through our actions. What are you waiting for? Apply today!
+
+Find out why people come to ADP and why they stay: https://youtu.be/ODb8lxBrxrY
+
+(ADA version: https://youtu.be/IQjUCA8SOoA)
+
+O modelo de trabalho adotado pela ADP é office based/presencial, com a possibilidade de trabalho em home-office por até duas vezes na semana.
+
+Considerando que as atividades desempenhadas pelos ocupantes deste cargo envolvem acesso a informações altamente confidenciais e sensíveis de clientes da ADP e de seus respectivos empregados, a ADP reserva-se o direito de conduzir checagem de histórico, de tempos em tempos, conforme autoriza o Incidente de Recurso de Revista Repetitivo nº 01 do Tribunal Superior do Trabalho, mediante consentimento do candidato/trabalhador.
+
+Diversity, Equity, Inclusion & Equal Employment Opportunity at ADP: ADP is committed to an inclusive, diverse and equitable workplace, and is further committed to providing equal employment opportunities regardless of any protected characteristic including: race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, protected veteran status or disability. Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.
+
+Ethics at ADP: ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Sr Full-Stack Developer with Data Analysis tools Knowledge
+
+Sobre a vaga
+Somos especialistas digitais e impactamos as marcas mais valiosas do mundo. Construímos produtos e soluções digitais focados nas necessidades dos nossos clientes. Como uma nativa digital, trazemos um histórico de 29 anos de aceleração do impacto nos negócios por meio de soluções digitais completas e escaláveis. Com uma presença global de mais de 6.000 pessoas em estratégia, pesquisa, ciência de dados, design e engenharia, desbloqueamos o crescimento de primeira linha, melhoramos a experiência do cliente e impulsionamos a eficiência operacional.
+
+Importante
+
+Para as pessoas residentes na Região Metropolitana de Campinas*, a presença nos escritórios é obrigatória, tendo que cumprir um mínimo de dias ao mês, estipulado pela empresa e projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+
+Seeking a Full-Stack Developer proficient in enterprise Java development, API development, Python, and data analysis tools, with the capability to contribute significantly to our front-end development efforts. This role is crucial for individuals who are not only technical experts but also innovators ready to tackle complex problems. Your contributions will be key in modernizing our CI/CD pipelines and establishing development standards as we navigate through modernizing our tech stack and reducing technical debt. You will have the opportunity to shape our development practices, ensuring our systems are robust, scalable, and efficient.
+
+Responsibilities
+
+ Enterprise Java Development: Lead in the development of enterprise-level applications using Java, focusing on creating solutions that are robust, scalable, and easy to maintain.
+ API Development: Design and implement secure, efficient RESTful APIs to facilitate application functionality and interoperability.
+ Python and Data Analysis: Leverage Python alongside data analysis tools to enhance our data-driven decision-making processes.
+ Front-End Development Contribution: Engage in front-end development projects, employing modern frameworks and technologies to ensure a seamless, intuitive user experience.
+ DevOps & CI/CD Pipeline Modernization: Utilize DevOps to drive the modernization of our CI/CD pipelines, incorporating automation, containerization (e.g., Docker, Kubernetes), and cloud technologies to enhance development and deployment processes.
+ Development Standards Construction: Work collaboratively to develop and implement coding standards, best practices, and guidelines to mitigate technical debt and support the tech stack's modernization.
+
+Requirements
+
+ Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+ Strong experience in full-stack development, particularly in enterprise Java development and API development.
+ Proficiency in Python and experience with data analysis tools and methodologies.
+ Demonstrated ability to contribute to front-end development projects, with knowledge of modern frameworks and best practices.
+ Experience with CI/CD pipeline modernization, including automation, containerization, and cloud services.
+ Commitment to collaborative development and enforcement of coding standards and best practices.
+ Excellent problem-solving skills, detail-oriented mindset, and dedication to quality.
+ Effective communication and collaboration skills, with the ability to work in a dynamic, cross-functional team environment.
+
+Our Benefits
+
+ Health plan and dental plan;
+ Meal allowances;
+ Childcare assistance;
+ Extended parenting leave;
+ Gympass
+ Annual profit-sharing distribution;
+ Life insurance;
+ Partnership with an online mental health platform;
+ CI&T University;
+ Discount Club;
+ Support Program: financial; psychological guidance; nutritionist and more;
+ Pregnancy course and responsible parenthood;
+ Partnership with online course platforms
+ Platform for language learning;
+ And many others.
+
+#MidSenior
+
+CI&T é uma empresa que oferece oportunidades iguais. Celebramos e valorizamos a diversidade de identidades e experiências vividas de nossos CI&Ters. Estamos empenhados em construir, promover e manter uma empresa e cultura diversificada, inclusiva e equitativa focada em criar um amanhã melhor.
+
+Na CI&T, reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Nossas equipes são mais impactantes quando pessoas de todas as formações e experiências colaboram para compartilhar, criar e ouvir ideias.
+
+Antes de candidatar as nossas oportunidades confira a Política de Conflito de Interesse em nosso site.
+
+Incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+
+Cidades que compõe a Região Metropolitana de Campinas : Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+-----------------------------------------------------------------------------------

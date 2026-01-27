@@ -1,0 +1,56 @@
+{
+	"name": "OportunidadePalavra",
+	"base": "PersistedModel",
+	"idInjection": true,
+	"options": {
+		"validateUpsert": true
+	},
+  	"mixins": {
+    	"Counts": true
+  	},
+	"properties": {
+		"palavraChaveId": {
+			"type": "number"
+			,"id": true
+		},
+		"oportunidadeLinkedinId": {
+			"type": "number"
+			,"id": true
+		}
+	},
+	"validations": [],
+	"relations": {
+		"oportunidadeLinkedin": {
+			"type": "belongsTo",
+			"model": "OportunidadeLinkedin",
+			"foreignKey": "oportunidadeLinkedinId"
+		},
+		"palavraChave": {
+			"type": "belongsTo",
+			"model": "PalavraChave",
+			"foreignKey": "palavraChaveId"
+		}
+	},
+	"acls": [],
+	"methods": {
+		"Atualiza": {
+			"accepts": [
+			],
+			"returns": [
+ 				{
+     				"arg": "resultado",
+     				"type": "object",
+   					"root": true,
+    				"description": ""
+   				}
+			],
+			"description": "",
+			"http": [
+         		{
+          			"path": "/atualiza",
+   					"verb": "post"
+ 				}
+ 			]
+		}
+	}
+}

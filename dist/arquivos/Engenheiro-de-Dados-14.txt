@@ -1,0 +1,295 @@
+[Oportunidade 1]
+Oportunidade: Senior Database Engineer – (Product Support Team – PostgreSQL) (Bangkok based)
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know our Team:
+
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+The Opportunity:
+
+As a member of the Database Development team, you will engage in database design, data management, and database development, all integrated with automated Continuous Integration/Continuous Delivery (CI/CD) pipelines. We work in close coordination with product teams, ensuring to offer support and solutions that uphold technical excellence and fulfill business needs.
+
+In this Role, you’ll get to:
+
+Design efficient, scalable, and maintainable database architectures, schemas and tables
+Write optimized PostgreSQL queries, SPs and functions to support various requirements
+Conduct database code review to ensure quality, efficiency, and adherence to best practices
+Diagnose and resolve performance issues, including queries, indexing and execution plan analysis
+Transfer and migrate data from various sources to PostgreSQL, ensuring data integrity and optimizing performance
+Collaborate with development teams for seamless database integration
+Utilize automated database CI/CD pipelines to streamline the development process
+Leverage advanced PostgreSQL features to enhance database performance and reliability
+
+What you’ll Need to Succeed:
+
+Minimum 4 years of hands-on experience with PostgreSQL database development and administration
+Bachelor’s degree in computer science, computer engineering or a related field
+Proficient in database design, ER Diagram with advanced knowledge in writing complex SQL queries, stored procedures, and functions
+Demonstrated expertise in query optimization and analyzing execution plans
+Ability to prioritize tasks and work under pressure to meet deadlines
+Collaborative team player with good interpersonal and communication skills
+Be able to attend on-call rotation
+
+It’s Great if you have:
+
+PostgreSQL certification is a plus
+Experience with GitLab version control systems and containerization with Docker
+Familiarity with Agile development methodologies
+Familiarity with NoSQL databases and concepts for handling unstructured data
+
+This position is based in Bangkok, Thailand (Relocation Provided)
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #ENG #4 #IT #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Database Developer – (Product Support Team – PostgreSQL) (Bangkok based)
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know our Team:
+
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+The Opportunity:
+
+As a member of the Database Development team, you will engage in database design, data management, and database development, all integrated with automated Continuous Integration/Continuous Delivery (CI/CD) pipelines. We work in close coordination with product teams, ensuring to offer support and solutions that uphold technical excellence and fulfill business needs.
+
+In this Role, you’ll get to:
+
+Design efficient, scalable, and maintainable database architectures, schemas and tables
+Write optimized PostgreSQL queries, SPs and functions to support various requirements
+Conduct database code review to ensure quality, efficiency, and adherence to best practices
+Diagnose and resolve performance issues, including queries, indexing and execution plan analysis
+Transfer and migrate data from various sources to PostgreSQL, ensuring data integrity and optimizing performance
+Collaborate with development teams for seamless database integration
+Utilize automated database CI/CD pipelines to streamline the development process
+Leverage advanced PostgreSQL features to enhance database performance and reliability
+
+What you’ll Need to Succeed:
+
+Minimum 4 years of hands-on experience with PostgreSQL database development and administration
+Bachelor’s degree in computer science, computer engineering or a related field
+Proficient in database design, ER Diagram with advanced knowledge in writing complex SQL queries, stored procedures, and functions
+Demonstrated expertise in query optimization and analyzing execution plans
+Ability to prioritize tasks and work under pressure to meet deadlines
+Collaborative team player with good interpersonal and communication skills
+Be able to attend on-call rotation
+
+It’s Great if you have:
+
+PostgreSQL certification is a plus
+Experience with GitLab version control systems and containerization with Docker
+Familiarity with Agile development methodologies
+Familiarity with NoSQL databases and concepts for handling unstructured data
+
+This position is based in Bangkok, Thailand (Relocation Provided)
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #ENG #4 #IT #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Observability - Intake Services - Principal Go Engineer
+
+Sobre a vaga
+Elastic is a free and open search company that powers enterprise search, observability, and security solutions built on one technology stack that can be deployed anywhere. From finding documents to monitoring infrastructure to hunting for threats, Elastic makes data usable in real-time and at scale. Thousands of organizations worldwide, including Barclays, Cisco, eBay, Fairfax, ING, Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon, use Elastic to power mission-critical systems. Founded in 2012, Elastic is a distributed company with Elasticians around the globe. Learn more at elastic.co.
+
+About The Role
+
+The Observability team is developing and providing solutions to application developers and engineers that run infrastructure and services supporting these applications. Elasticsearch is an efficient datastore for logs, metrics, application traces and profiling data. The Observability team builds and maintains solutions that make getting insights from this data turnkey and efficient, such as our APM, Infrastructure Monitoring, Logs and Universal Profiling solutions. When developing these solutions, we think about the problem end-to-end: how do we automatically collect data from common data sources, how do we store it efficiently in Elasticsearch, how do we present this information to the user, what actions do we take on the insights from the data? All of these aspects are important in bringing a turnkey solution to the market.
+
+As a Principal Go Engineer in the Observability Intake Services team, you will be part of a team developing high quality observability products that are essential to the ingest flow of the Elastic Observability solution. The team’s main focus is on building and maintaining backend intake service components for cloud managed and on-prem deployments, and owning operational stability through extensive monitoring and SLOs. We have a focus on quality, performance, reliability, security and testability, as well as automation and continuous improvements.
+
+We build components and services that receive and validate signals from various edge collectors, such as Elastic APM, OpenTelemetry SDKs, as well as profiling agents, and transform them into Elasticsearch documents. The intake service components control the amount of data flowing into Elasticsearch and can buffer data temporarily without adding overhead to the edge applications.
+
+We appreciate community contributions, and as such, engaging with the open source community is also an important part of this role.
+
+You’ll be collaborating with immediate team colleagues and across team boundaries. The team is diverse and distributed across the world, and collaborates on a daily basis over GitHub, Zoom, and Slack.
+
+What you will be doing:
+
+Lead technical designs and implementation for the observability intake services in Go
+Be a hands-on contributor to the team’s services
+Maintain, update and improve existing code and dependencies while ensuring automated test coverage.
+Create and improve the development infrastructure using modern tooling such as Tilt and Terraform.
+Build a strong backend solution for the OpenTelemetry data flow.
+Design data formats for optimized data storage and query performance in Elasticsearch.
+Provide Pull Request reviews and strong technical guidance to your peers.
+Build SLIs and SLOs and participate in an on-call rotation for the services in the team’s ownership.
+Proactively participate in team conversations and contribute to a positive team culture. 
+Collaborate with other parts of the company on cross team features and topics.
+Collaborate with the support team on customer requests, and engage with the community via pull requests, issues and discuss forums. 
+
+What you bring along: 
+
+A positive attitude and a curious mindset.
+Expert level knowledge of Go, including advanced topics such as memory management, benchmarking and profiling.
+Strong knowledge in systems design.
+Strong analytical, debugging, and troubleshooting skills.
+Experience developing high throughput, low latency services.
+Hands-on experience with Docker and Kubernetes. 
+Ability to work independently in a globally distributed team
+Willingness and ability to share knowledge with others and enable your peers.
+
+Bonus points
+
+Experience and knowledge in the observability space, including OpenTelemetry
+Experience working with stream processing platforms such as Apache Kafka or cloud provider managed queues.
+Understanding how to design and implement SLOs
+Experience working with various cloud service providers 
+Knowledge of Elasticsearch and/or Kibana.
+Experience participating in technical decision-making across different engineering teams.
+Experience in service operations
+
+Compensation for this role is in the form of base salary. This role does not have a variable compensation component.
+
+The typical starting salary range for new hires in this role is listed below. In select locations (including Seattle WA, Los Angeles CA, the San Francisco Bay Area CA, and the New York City Metro Area), an alternate range may apply as specified below.
+
+These ranges represent the lowest to highest salary we reasonably and in good faith believe we would pay for this role at the time of this posting. We may ultimately pay more or less than the posted range, and the ranges may be modified in the future.
+
+An employee's position within the salary range will be based on several factors including, but not limited to, relevant education, qualifications, certifications, experience, skills, geographic location, performance, and business or organizational needs.
+
+Elastic believes that employees should have the opportunity to share in the value that we create together for our shareholders. Therefore, in addition to cash compensation, this role is currently eligible to participate in Elastic's stock program. Our total rewards package also includes a company-matched 401k with dollar-for-dollar matching up to 6% of eligible earnings, along with a range of other benefits offered with a holistic emphasis on employee well-being.
+
+The typical starting salary range for this role is:
+
+$159,800—$252,800 USD
+
+The typical starting salary range for this role in the select locations listed above is:
+
+$191,900—$303,500 USD
+
+Additional Information - We Take Care Of Our People
+
+As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.
+
+We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.
+
+Competitive pay based on the work you do here and not your previous salary
+Health coverage for you and your family in many locations
+Ability to craft your calendar with flexible locations and schedules for many roles
+Generous number of vacation days each year
+Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service
+Up to 40 hours each year to use toward volunteer projects you love
+Embracing parenthood with minimum of 16 weeks of parental leave
+
+Different people approach problems differently. We need that. Elastic is an equal opportunity/affirmative action employer committed to diversity, equity, and inclusion. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.
+
+We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email candidate_accessibility@elastic.co We will reply to your request within 24 business hours of submission.
+
+Applicants have rights under Federal Employment Laws, view posters linked below: Family and Medical Leave Act (FMLA) Poster; Pay Transparency Nondiscrimination Provision Poster; Employee Polygraph Protection Act (EPPA) Poster and Know Your Rights (Poster)
+
+Please see here for our Privacy Statement.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Staff Software Engineer - Python/Rust
+
+Sobre a vaga
+Xometry (NASDAQ: XMTR) powers the industries of today and tomorrow by connecting the people with big ideas to the manufacturers who can bring them to life. Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.
+
+We are looking for an experienced Staff-level Backend Engineer with strong Python or Rust coding expertise to join our software engineering organization. You’ll be working as part of a skilled, collaborative team to evolve our instant-quote product and the technology platform behind it. You want to be part of a small, intensely skilled team, who feel total ownership of their work, and can’t imagine a day without learning & coding. You will play a crucial role in the Xometry platform and everything you do will matter. This is a 1-year contract.
+
+Responsibilities:
+
+You will be responsible for designing, coding, testing, and releasing software
+Reading, writing, and reviewing code written in HTML, Typescript/Javascript/React, Python, and Rust. 
+Close collaboration with other engineers and product managers to become a valued member of an autonomous, cross-functional team
+Operational responsibility for the services that are owned by your team, including deploying services into an AWS and kubernetes environment and taking part in an on-call rotation
+Work in an environment that supports your individual growth
+
+Qualifications:
+
+Required: 10+ years of experience in a fast-paced technical, problem-solving environment as a software developer
+Required: Strong English speaking and writing skills, including the ability to communicate clearly and effectively with diverse audiences. 
+Required: Demonstrable understanding of software engineering fundamentals
+Required: Knowledge of HTML, CSS, DOM web programming. 
+Required: Knowledge and demonstrated experience in at least two of Python, Rust and React
+Desired: Experience with build and testing technologies using one or more of the following Git/Github actions, GitLab. 
+Required: Experience with software engineering principles related to security, scalability, asynchronous programming and transactions
+Desired: Demonstrated knowledge of principles of service-oriented architectures and ability to lead efforts in defining and implementing a service strategy
+Desired: Experience with relational and/or NoSQL databases with understanding of Normalization/Denormalization, Constraints, Transactions, Replication, and Sharding
+Required: attention to detail, good work ethic, ability to work on multiple projects simultaneously, and good communication skills
+
+Here at Xometry we believe in diversity, equity, inclusion and belonging. We are committed to welcoming, respecting, and valuing people for who they are as individuals, learning from their differences, embracing their uniqueness, and providing a positive workplace for all.
+
+Xometry is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.
+
+Xometry participates in E-Verify and after a job offer is accepted, will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro(a) de Software Sênior (Java)
+
+Sobre a vaga
+Sobre a Área
+
+A área é responsável pela plataforma utilizada pelo time de BackOffice para batimento de boletas, custódia e caixa, além da alocação/execução/confirmação dos trades, valuation e settlement. Atuamos no desenvolvimento de melhorias operacionais e incorporação de novos produtos financeiros na plataforma, que é desenvolvida em Java e hospedada na cloud AWS. Também somos responsáveis por soluções desenvolvidas em outras linguagens que compõem o ecossistema da plataforma. Nosso grupo interage diretamente com usuários do BackOffice para entender as novas demandas da área e como agregar ao core business do banco.
+
+No Seu Dia a Dia
+
+Interação diretamente com usuários do BackOffice para entender as suas demandas e como agregar ao core business do banco; 
+Interação com áreas de negócios e outras áreas de tecnologia; 
+Atuar diretamente no suporte a produção, corrigindo bugs, desenvolvendo melhorias e realizando troubleshooting dos issues da aplicação; 
+Interação com parceiros globais; 
+Promover melhoria contínua da equipe. 
+
+Esperamos De Você
+
+Graduação superior completa preferencialmente em  Sistemas de Informação, Análise de Sistemas, Ciência da Computação, Engenharia da Computação e área relacionadas;
+Experiência com desenvolvimento em Java; 
+Conhecimento de AWS; 
+Conhecimentos com banco de dados (Oracle, SQL Server); 
+Desejável conhecimento de mercado financeiro;
+Desejável experiência em suporte a produção;
+Proatividade, trabalho em equipe e boa comunicação.
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------

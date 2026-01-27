@@ -1,0 +1,254 @@
+[Oportunidade 1]
+Oportunidade: Senior Machine Learning Engineer
+
+Sobre a vaga
+Vaga: Machine Learning Engineer 
+
+Sobre a ATRA Informatica:
+A ATRA Informatica é uma consultoria de TI especializada em Dados, líder no mercado e localizada em São Paulo. Oferecemos uma cultura de inovação e crescimento contínuo para nossos colaboradores.
+
+Descrição da Vaga:
+Estamos em busca de um(a) Machine Learning Engineer especializado(a) em Google Cloud Platform (GCP) para integrar nosso time. O profissional será responsável pelo desenvolvimento, implantação e manutenção de modelos de Machine Learning, utilizando tecnologias de ponta para resolver problemas complexos e melhorando produtos e serviços.
+
+Responsabilidades:
+Desenvolver e implementar modelos de Machine Learning utilizando GCP 
+Utilizar bibliotecas de Python, como Scikit-learn, TensorFlow e Pandas, para o desenvolvimento de soluções 
+Trabalhar com Inteligência Artificial Generativa para criar soluções inovadoras 
+Utilizar ferramentas como Gemini e Vertex AI para gerenciamento e deploy de modelos 
+Desenvolver e gerenciar chatbots utilizando Dialogflow CX 
+Colaborar com equipes multidisciplinares para entender as necessidades do negócio e traduzir requisitos em soluções técnicas
+Monitorar e otimizar a performance dos modelos em produção 
+Documentar processos e soluções desenvolvidas 
+
+Requisitos:
+Experiência comprovada como Machine Learning Engineer 
+Proficiência em Python e bibliotecas como Scikit-learn, TensorFlow e Pandas 
+Experiência com Google Cloud Platform (GCP) 
+Conhecimento em Inteligência Artificial Generativa 
+Experiência com Gemini e Vertex AI 
+Experiência com desenvolvimento e gerenciamento de chatbots utilizando Dialogflow CX 
+Habilidade para trabalhar em equipe e boa comunicação 
+Graduação em Ciência da Computação, Engenharia, Matemática ou áreas relacionadas 
+
+Benefícios:
+📚 Treinamentos e cursos em tecnologias de dados de mercado 
+💳 Auxílio com certificações (100% de reembolso) 
+📊 Trilhas de conhecimento em tecnologias de dados e cloud 
+🎓 Parcerias com instituições de ensino para pós-graduação 
+🏋️‍♂️ Totalpass 
+🧠 Parcerias com profissionais de psicologia e nutrição para o seu bem-estar 
+💰 Contratação PJ e salário negociável 
+
+🌍 Localização: Remoto
+
+Se você tem o perfil que buscamos e deseja fazer parte de um ambiente dinâmico e desafiador, envie seu currículo! Venha fazer a diferença na governança de dados!
+
+Interessado(a)? Candidate-se!
+
+Estamos ansiosos para conhecer você! 🌟
+
+#Vagas #MachineLearning #GCP #InteligênciaArtificial #Tecnologia #Dados #Oportunidade #Carreira #TrabalhoRemoto #ATRAInformatica
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Data Scientist SR
+
+Sobre a vaga
+Description
+
+Important Information 
+Location: Brazil
+ Job Mode: CLT 
+Work Mode: Work from home
+
+Job Summary
+We seek a talented and motivated Data Scientist to join our dynamic team. The ideal candidate will have a strong background in artificial intelligence, specifically in generative AI for image generation, deep learning for computer vision, and image processing. You will be responsible for developing and deploying AI applications using Azure AI Studio to enhance our product offerings.
+
+Responsibilities and Duties
+Develop and implement AI/ML models and applications for image generation tasks;
+Utilize Azure AI Studio to deploy, scale, and maintain AI models and applications;
+Conduct data analysis to extract meaningful insights and guide decision-making processes;
+Stay updated with the latest advancements in AI, image generation and computer vision to drive continuous innovation;
+Write and maintain clear, concise documentation for developed models and systems;
+Collaborate with cross-functional teams to integrate AI solutions into our products.
+
+Essential Skills
+Proven experience in using generative AI models for image generation;
+Strong understanding of computer vision principles and applications;
+Proficiency in Python and common AI/ML frameworks (e.g., TensorFlow, PyTorch);
+Hands-on experience with Azure technologies preferably Azure AI Studio;
+Solid understanding of data preprocessing, analysis, and visualization techniques.
+
+About Encora
+
+Encora is the preferred digital engineering and modernization partner of some of the world’s leading enterprises and digital native companies. With over 9,000 experts in 47+ offices and innovation labs worldwide, Encora’s technology practices include Product Engineering & Development, Cloud Services, Quality Engineering, DevSecOps, Data & Analytics, Digital Experience, Cybersecurity, and AI & LLM Engineering.
+
+At Encora, we hire professionals based solely on their skills and qualifications, and do not discriminate based on age, disability, religion, gender, sexual orientation, socioeconomic status, or nationality.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Senior Data Engineer 
+Andela 
+Location Requirement: Brazil, Canada, Egypt. 
+ About Andela 
+Andela exists to connect brilliance and opportunity. Since 2014, we have been dedicated to breaking down global barriers and accelerating the future of work for both technologists and organizations around the world. For technologists, Andela offers competitive long-term career opportunities with leading organizations, access to a global community of professionals, and educational opportunities with leading technology providers. 
+ At Andela, we’re deeply passionate about creating long-lasting and transformative growth opportunities for all - and doing it in an E.P.I.C. way! We’re excited to continue building our remote-first team with incredible people like you. After applying for this role, you will join our Andela Community of brilliant technologists by passing a technical screening and live interview. As a community member, you’ll have access to many exclusive technologist roles. Join Andela today to access this opportunity and more in our global marketplace! 
+ Our roles are typically filled at lightning speed, so if you’re considering applying, get your application in quickly! 
+ Andela´s Benefits: 
+-- 100% payment in USD. 
+ This is a fully remote opportunity for one of our esteemed clients.  
+ About the role 
+ Responsibilities: 
+Developing pipelines to ingest data across multiple security products and delivering this data for use in Cisco’s XDR product. 
+Using AWS services to deliver, process, and transform data 
+Managing and monitoring application health and status across testing and production systems to ensure stability, high availability, and consistent delivery of data for the product 
+Collaborating with other engineers to review code changes, communicate progress, and finalize system requirements 
+Testing new features using unit tests, manual verification, and supporting end-to-end integration tests 
+Building and maintaining data access layers to control access to sensitive data 
+The role is a 70/30 split between Data Engineering and Data Architecture respectivel 
+ Must have requirements: 
+Data Engineering 
+Python including libs e.g. pandas 
+AWS services e.g., Lambda, Redshift, RDS, S3 (nice to have services include: CloudWatch, Aurora, Kinesis, Firehose, SQS, SNS, IAM) 
+Terraform to help manage AWS serverless resources 
+Strong Data Architecture experience 
+Strong Communication & Stakeholder Management Skills 
+Self-directed & Autonomous 
+ Nice to have requirements: 
+Project tracking management software (e.g., Jira, GitHub) 
+CI/CD - control and continuous integration tools e.g., Jenkins, TeamCity, GitHub 
+Performance monitoring & error tracking solutions 
+Testing software code (e.g., manually testing functionality, writing automated unit tests, automating end-to-end tests) 
+Support 
+ Required skills 
+Data Engineering (7 - 9 yrs) 
+Python (4 - 6 yrs) 
+AWS (Amazon Web Services) (4 - 6 yrs) 
+Terraform (2 - 3 yrs) 
+ Optional skills 
+Jira (Atlassian) (4 - 6 yrs) 
+Jenkins (4 - 6 yrs) 
+ Must-Haves: Data Engineering (5+ years), Data Architecture (5+ years), Python (5+ years), AWS (5+ years), Terraform (2+ years) 
+ Main job time zone: EST 
+Time zone overlap requirements: Fully overlap hours with EST (9 am - 5 pm) 
+Location Requirements: Brazil, Canada, Egypt. 
+Working hours: Full-time dedication (8 hours/Day - 40 hours/week) 
+ Offer 
+Estimated Duration: 11-month-term contractor position (Renewable) 
+Full-time dedication (40 hours/week) 
+ At Andela, we know our strengths lie in our diverse community whose talents, perspectives, backgrounds, and orientations we take pride in. Andela is committed to nurturing a work environment where all individuals are treated with respect and dignity. Everyone has the right to work in a professional atmosphere that promotes equal employment opportunities and prohibits discriminatory practices. Andela provides equal employment opportunities to all employees and applicants without regard to factors including but not limited to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, pregnancy (including breastfeeding), genetic information, HIV/AIDS or any other medical status, family or parental status, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state and local laws. This commitment applies to all terms and conditions of employment, including but not limited to hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. Our policies expressly prohibit any form of harassment and/or discrimination, as stated above. 
+ Andela is home for all. Come as you are.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenvolver novos produtos de dados para o negócio e garantir a sustentação de
+
+pipelines legados através do uso de técnicas de transformação (ETL/ELT) e modelagem
+
+de dados;
+
+Processar dados em near real time;
+
+Garantir a qualidade dos dados;
+
+Garantir que os dados sejam armazenados, processados e compartilhados de forma
+
+segura e em conformidade com as leis e regulamentos de proteção de dados, como
+
+LGPD.
+
+Lidar com grandes volumes de dados provenientes de diferentes fontes (Big Data)
+
+Possuir boa interface com o negócio
+
+Perfil proativo
+
+Realizar levantamento de requisitos para auxílio na modelagem de novos produtos de
+
+dados.
+
+Qualificações Essenciais
+
+Docker
+Ecosistema Hadoop
+Confluent Cloud (Desejável)
+Ingestão de dados avançado
+Ingestões BIG Data
+Ingestões Batch e Streaming
+Kafka
+DMS
+Hudi
+Modelagem de dados avançado
+AWS intermediário
+S3
+Redshift
+EMR
+Athena
+Glue
+DynamoDB
+
+Qualificações Desejáveis
+
+Conhecimento no Mercado Segurador, Financeiro, Imobiliário ou Crédito sera
+
+um diferencial.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Arquiteto(a) de soluções
+
+Sobre a vaga
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+
+Somos globais, somos GPTW.
+
+Nossas vagas estão disponíveis para Pessoas com Deficiência. Valorizamos seu talento, trabalhamos com equidade e inclusão.
+
+Que tal se juntar a nós e se tornar um(a) #FourTalent? Então se liga nessa oportunidade incrível: 👇
+
+Conhecimento Técnico:
+
+Inglês Intermediário/Avançado (Fala e Escuta);
+Experiência em desenvolvimento de Software;
+Experiência prévia como engenheiro de sistemas em projetos de migração e/ou modernização e de qualquer outras tecnologias disruptivas como IA, ML, Blockchain e IoT;
+Experiência em metodologias Agile;
+Experiência na definição de arquitetura de sistemas;
+Gestão e Desenvolvimento de produtos e soluções digitais envolvendo tecnologias de Cloud, IA, ML, IoT;
+Disponibilidade para trabalhar em um ambiente multi tecnológico.
+
+Responsabilidades:
+
+Participar do planejamento, definição e design de alto nível da solução e exploração de alternativas de solução técnica.
+Planejar e desenvolver a arquitetura desenhada e adaptar quando necessários novos recursos para atender as necessidades de negócios dentro do orçamento previso.
+Habilitar o Pipeline de Entrega Contínua por meio de diretrizes de engenharia de software apropriadas e defesa de investimentos.
+Definir subsistemas e suas interfaces, atribuir responsabilidades aos subsistemas, entender a implantação da solução e comunicar os requisitos para interações com outras equipes dentro do contexto.
+Trabalhar com clientes, partes interessadas e fornecedores para estabelecer a intenção da solução de alto e baixo nível além dos modelos de informações e documentação dos requisitos.
+
+E temos também o Clube da Four que oferece ótimas vantagens! 👇
+
+🩺 Assistência médica;
+🍲 VR e VA flexível;
+🏋️ Gympass e Wellz;
+⚽ Parceria com o SESC;
+🍣 Descontos em restaurantes;
+📚 Descontos em cursos técnicos e de ensinos superior;
+🧠 Descontos em escolas e plataformas de idiomas.
+
+E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀
+-----------------------------------------------------------------------------------

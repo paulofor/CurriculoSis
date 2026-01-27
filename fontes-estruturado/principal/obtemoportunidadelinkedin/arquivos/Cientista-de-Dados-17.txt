@@ -1,0 +1,303 @@
+[Oportunidade 1]
+Oportunidade: Senior Data Science Consultant
+
+Sobre a vaga
+We are seeking an experienced Senior Data Science Consultant to join our team.
+
+In this role, you will use your deep knowledge of data science to create impactful solutions for complex business problems. You will collaborate with clients and internal teams to develop, implement, and refine data strategies that drive measurable results. This role emphasizes leadership, creativity, and the ability to convert business requirements into actionable data insights. Additionally, you will mentor team members and champion the adoption of innovative tools and methodologies.
+
+Responsibilities
+
+
+Oversee the creation and deployment of data science solutions to address key business needs
+Work closely with stakeholders to identify data opportunities that support strategic goals
+Develop and fine-tune machine learning models to enhance processes and outcomes
+Create and maintain advanced analytics frameworks to support data-driven decision-making
+Ensure the reliability and scalability of data science systems in diverse environments
+Provide leadership and mentorship to data science teams, helping them grow their skills and expertise
+Perform exploratory data analysis to identify trends, patterns, and actionable insights
+Communicate findings and recommendations effectively to both technical and non-technical audiences
+Stay informed on advancements in AI, machine learning, and data science to maintain cutting-edge expertise
+Promote innovation by integrating emerging technologies and methodologies into workflows
+
+
+Requirements
+
+
+More than 10 years of experience in IT, with a strong emphasis on data science and analytics
+At least 5 years in leadership positions, such as Lead, Manager, or Architect, within Agile or hybrid work environments
+Demonstrated ability to manage teams of 40 or more, ensuring alignment with project goals and timelines
+Experience completing at least 8 full project lifecycles or launching 2 or more key products or capabilities to the market
+Expertise in data analytics engineering, including data preparation, modeling, and visualization to inform business decisions
+Strong knowledge of machine learning techniques, including supervised and unsupervised learning, and their practical applications
+Proven ability to design AI and ML strategies to address complex organizational challenges
+Advanced proficiency in Python for data processing, analysis, and building machine learning workflows
+Practical experience with PyTorch for developing and deploying deep learning models
+Familiarity with TensorFlow for creating scalable machine learning systems
+Solid understanding of cloud platforms such as AWS, Azure, or GCP for deploying and managing data science solutions
+Advanced English communication skills, both written and verbal, with the ability to articulate technical concepts clearly
+
+
+Nice to have
+
+
+Certifications in data science, machine learning, or cloud computing to validate expertise
+Hands-on experience integrating data science solutions with enterprise applications to improve workflows
+Familiarity with advanced visualization tools or techniques to present insights effectively
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Developer Phyton , Brasil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Responsabilidades
+- Entender as necessidades técnicas do projeto, participar de inceptions e refinamentos, e atuar no desenvolvimento e evolução de uma solução escalável e de alta performance.
+- Compreender as necessidades técnicas, colaborando ativamente em inceptions e refinamentos.
+- Desenvolver e evoluir soluções de software que atendam aos padrões de escalabilidade e alta performance.
+
+
+Requisitos necessários:
+- Experiência em Python: Sólido conhecimento em desenvolvimento backend utilizando frameworks como FastAPI, Flask ou Django.
+- Testes Unitários: Habilidade para implementar e manter testes unitários.
+- CI/CD: Familiaridade com processos de integração e entrega contínua.
+- Padrões de Projeto: Conhecimento em design patterns.
+- Docker e Conteinerização: Experiência em containerizar aplicações utilizando Docker.
+- Versionamento de Código: Proficiência em ferramentas de versionamento, especialmente Git.
+- Clean Code: Compromisso com boas práticas de codificação.
+- DevOps/DevSecOps: Conhecimento e práticas de DevOps e segurança em DevOps.
+- TDD: Experiência com Test-Driven Development (TDD).
+- SOLID: Compreensão dos princípios SOLID de design de software.
+
+
+Qualificações desejáveis (diferencial)
+- IA/ML: Experiência no desenvolvimento e implantação de soluções de Inteligência Artificial e Machine Learning.
+- LLM e LangChain: Conhecimento em Large Language Models e LangChain.
+- Cloud: Experiência em serviços de nuvem, preferencialmente Azure ou AWS.
+Frontend: Habilidade em desenvolvimento frontend utilizando Angular e TypeScript.
+- Microsserviços: Familiaridade com arquiteturas de microsserviços.
+- Bancos de Dados: Relacional: PostgreSQL, NoSQL: MongoDB, Vetorial: Pinecone, Graph: Neo4j
+
+ #Midsenior
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Profissional Cientista de Dados SR
+
+Sobre a vaga
+Código da vaga: 47218
+
+Sobre a BRQ Digital
+Há 31 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia! É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+Vamos transformar juntos! Vem ser fera com a gente.
+
+
+Ei , Cientista de Dados, venha fazer parte de uma das maiores empresas de transformação digital do país!
+
+O que procuramos?
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+sólida experiência em Processamento de Linguagem Natural (NLP) e Inteligência Artificial Generativa, para atuar em um projeto estratégico de sustentação e evolução de soluções de IA já implantadas.
+Requisitos Obrigatórios:
+Experiência prática e comprovada no desenvolvimento de modelos de NLP, incluindo:
+Processamento e limpeza de texto.
+Classificação de sentimentos.
+Análise de tópicos.
+Aplicações de IA Generativa.
+Experiência com AWS é altamente valorizada 
+Profundo conhecimento em aprendizado de máquina e bibliotecas como:
+PyTorch, scikit-learn, spaCy, NLTK, entre outras.
+Forte habilidade de programação em Python e domínio de ferramentas de análise de dados como pandas, NumPy, etc.
+Capacidade de trabalhar de forma autônoma e também em equipe multidisciplinar.
+Excelente habilidade de comunicação para traduzir soluções técnicas em linguagem acessível a diferentes stakeholders.
+Desejável:
+Vivência anterior com atendimento digital ou setores correlatos (bancos, e-commerce, telecom, etc.).
+Conhecimento prévio em plataformas Microsoft (Power Platform, Azure, etc.) – diferencial.
+Responsabilidades:
+Atuar na manutenção, sustentação e evolução de modelos de IA já implantados.
+Explorar novas possibilidades de aplicação de IA Generativa em fluxos já existentes.
+Desenvolver e implementar modelos preditivos e classificatórios alinhados aos objetivos de negócio.
+Trabalhar em conjunto com times de tecnologia, produto e negócio para garantir entregas de alto impacto.
+
+
+Modelo 100% home office
+CLT pela BRQ + Pacote de benefícios
+
+- O que temos pra te oferecer?
+Mais do que um plano de carreira!
+
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+
+- E os benefícios?
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Home Office; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+
+- Como é trabalhar na BRQ?
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados - Sênior
+
+Sobre a vaga
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você.
+
+Em Tech Consulting, estamos construindo um mundo de negócios melhor ajudando empresas a entenderem os impactos e oportunidades apresentados pelo cenário digital em rápida evolução. Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, alavancando tecnologias como cybersecurity, e-commerce, mobile, inteligência artificial, Blockchain, data & analytics e muito mais.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Data Enginering - Sênior, você fará parte de equipe multifuncional e com grandes Projetos.
+
+Projetar, desenvolver e manter pipelines de dados escaláveis e eficientes
+Participar da construção e evolução de arquiteturas modernas (Data Lake, Data Warehouse, Lakehouse)
+Garantir qualidade, segurança e governança dos dados ao longo dos fluxos
+Colaborar com times de produto, ciência de dados, BI e tecnologia
+Atuar como referência técnica para engenheiros de dados juniores
+Apoiar na definição de padrões técnicos e boas práticas de engenharia de dados
+Avaliar e implementar ferramentas que otimizem o fluxo de dados e os custos de processamento
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Formação superior em Ciência da Computação, Matemática, Estatística, Análise de Sistemas ou áreas correlatas
+Experiência com Python (avançado), SQL (avançado) e Scala (desejável)
+Vivência com ferramentas de orquestração como Airflow, Prefect ou similares
+Conhecimento em Spark, Delta Lake, Databricks e Snowflake (desejável)
+Atuação com serviços em nuvem como AWS (S3, Redshift, Glue, Lambda), GCP ou Azure
+Uso de ferramentas de versionamento e CI/CD como Git, Docker, GitLab CI e Jenkins
+Experiência em modelagem de dados (dimensional, normalização, particionamento e performance)
+Domínio de ferramentas de transformação de dados, especialmente dbt (fortemente desejável)
+Conhecimento em práticas de DataOps e governança de dados
+Inglês em nível intermediário a avançado
+Participação em projetos de construção de data lakes e data warehouses modernos
+Experiência em engenharia de dados voltada para produtos analíticos e iniciativas de IA/M
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Oportunidade disponível em modelo presencial com flexibilidade para remoto no escritório do Rio de Janeiro.
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Data Science Consultant
+
+Sobre a vaga
+We are looking for a highly skilled Senior Data Science Consultant to join our team.
+
+In this role, you will leverage your expertise in data science and analytics to deliver impactful solutions for complex business challenges. You will work closely with clients and cross-functional teams to design, implement, and optimize data-driven strategies. This position requires a strong focus on leadership, innovation, and the ability to translate business needs into actionable insights. You will also play a critical role in mentoring teams and driving the adoption of cutting-edge technologies.
+
+Responsibilities
+
+
+Lead the design and implementation of data science solutions to address business challenges
+Collaborate with stakeholders to identify opportunities for leveraging data for strategic decision-making
+Build and optimize machine learning models to improve business processes and outcomes
+Develop and maintain advanced analytics tools and frameworks to support data-driven decision-making
+Ensure the scalability and reliability of data science solutions across various environments
+Provide technical leadership and mentorship to data science teams to foster skill development
+Conduct exploratory data analysis to uncover patterns, trends, and insights
+Present findings and recommendations to both technical and non-technical stakeholders
+Stay updated on the latest advancements in data science, machine learning, and AI technologies
+Drive innovation by identifying and implementing emerging technologies and methods
+
+
+Requirements
+
+
+Over 10 years of professional experience in IT with a strong focus on data science and analytics
+A minimum of 5 years in senior leadership roles, such as Lead, Manager, or Architect, within Agile or hybrid project environments
+Proven experience managing teams of 40+ members, ensuring alignment and productivity
+Participation in at least 8 full project lifecycles or experience launching 2+ products or major product capabilities to the market
+Expertise in data analytics engineering, including data transformation, modeling, and visualization for actionable insights
+Deep understanding of machine learning concepts, including supervised and unsupervised learning, and their applications in real-world scenarios
+Experience in developing AI and ML strategies to solve complex business problems
+Proficiency in Python for data manipulation, analysis, and building machine learning pipelines
+Hands-on experience with PyTorch for deep learning model development and deployment
+Familiarity with TensorFlow for building and training machine learning models at scale
+Strong understanding of cloud platforms such as AWS, Azure, or GCP for deploying and scaling data science solutions
+Exceptional written and verbal communication skills in English, with the ability to convey complex ideas clearly
+
+
+Nice to have
+
+
+Relevant certifications in data science, machine learning, or cloud platforms to demonstrate expertise
+Experience in integrating data science solutions with enterprise systems to enhance business workflows
+Knowledge of advanced data visualization techniques or tools to communicate insights effectively
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------

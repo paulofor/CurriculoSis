@@ -1,0 +1,243 @@
+[Oportunidade 1]
+Oportunidade: Especialista em Desenvolvimento de software e IA Generativa
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+Você é apaixonado por tecnologia e inovação? Tem experiência em arquitetura de software, desenvolvimento e IA generativa? Então, queremos você na nossa equipe!
+
+Qualifications
+
+O que buscamos em você!!
+
+Proficiência em Python.
+Experiência com ferramentas e frameworks de IA Generativa.
+Conhecimento em desenvolvimento e implementação de chatbots.
+Habilidade em arquitetura de sistemas e tomada de decisões técnicas.
+Experiência em metodologias ágeis e práticas de DevOps.
+Conhecimento desejável em engenharia de dados.
+Inglês avançado.
+
+Quais Serão Às Principais Atividades
+
+Atuar no desenvolvimento de uma plataforma de IA Generativa.
+Manter e melhorar as funcionalidades existentes.
+Contribuir para a definição da arquitetura do sistema.
+Oferecer suporte técnico e orientação para a equipe de desenvolvimento.
+Participar ativamente na tomada de decisões técnicas e estratégicas.
+
+Additional Information
+
+Na Serasa Experian, acreditamos que a diversidade é fundamental para um ambiente de trabalho mais saudável e inovador, onde todas as pessoas possam trocar experiências e expressar suas ideias. Por isso, contamos com diversas ações para promover um recrutamento inclusivo e apoiar no desenvolvimento profissional das nossas pessoas. Além disso, temos os nossos grupos de afinidade, criados para empoderar e acolher as pessoas de grupos sub-representados:
+
+ExperianPride (comunidade LGBTQIAPN+), Ubuntu (equidade racial), Women in Experian (equidade de gênero) e aspire (pessoas com deficiência) e Connecting Generations (gerações).
+
+Venha fazer parte dessa transformação!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Desenvolvedora Java Especialista II
+
+Sobre a vaga
+Liderar tecnicamente, inspirar e capacitar a equipe técnica, promovendo um ambiente colaborativo e de alto desempenho;
+Colaborar ativamente com outros líderes para garantir a integração eficiente de tecnologias e soluções em toda a plataforma;
+Participar ativamente no design, arquitetura e desenvolvimento de aplicações Web/Mobile;
+Propor melhorias de processos de desenvolvimento de software, garantindo entrega pontual e de alta qualidade;
+Avaliar a capacidade de entrega da squad e garantir que os resultados definidos sejam alcançados, alinhando deadline e visibilidade de delivery para todas as áreas envolvidas;
+Trabalhar em um ambiente ágil, apoiado em métricas e focado em resultados;
+Ser referência técnica onde atua, contribuindo com a evolução técnica do time e resolução de problemas complexos
+
+
+Requisitos:
+Vasto conhecimento de Java e JVM;
+Experiência com Reactjs e gerenciamento de estados;
+Experiência com arquiteturas distribuídas;
+Experiência no desenvolvimento de APIs RESTFul;
+Excelentes habilidades de comunicação e liderança técnica;
+Experiência em banco de dados Relacional e não-Relacional;
+Experiência em mensageria;
+Experiência em CI/CD (Jenkins, GitHub Actions);
+Ferramentas de observabilidade (Logs, Métricas, Traces e APMs);
+Experiência com aplicações AWS;
+Conhecimento de boas práticas de qualidade como: TDD, BDD, SOLID, Clean Arch, Clean Code, KISS, entre outros;
+Conhecimento em programação orientada a objetos;
+Vivência em times ágeis (Scrum, Kanban, etc);
+Experiência prévia em gestão de times multidisciplinares de desenvolvimento de software;
+Capacidade de trabalhar em um ambiente multifuncional, multi-linguagem e colaborativo, de maneira autônoma;
+Pragmatismo para resolução de problemas;
+Conhecimento em HTML, CSS, JavaScript e Typescript;
+Noção de Performance web, acessibilidade e SEO;
+Experiência com versionamento de código usando Git.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Staff Machine Learning Engineer
+
+Sobre a vaga
+About SecurityScorecard:
+
+SecurityScorecard is the global leader in cybersecurity ratings, with over 12 million companies continuously rated, operating in 64 countries. Founded in 2013 by security and risk experts Dr. Alex Yampolskiy and Sam Kassoumeh and funded by world-class investors, SecurityScorecard’s patented rating technology is used by over 25,000 organizations for self-monitoring, third-party risk management, board reporting, and cyber insurance underwriting; making all organizations more resilient by allowing them to easily find and fix cybersecurity risks across their digital footprint.
+
+Headquartered in New York City, our culture has been recognized by Inc Magazine as a "Best Workplace,” by Crain’s NY as a "Best Places to Work in NYC," and as one of the 10 hottest SaaS startups in New York for two years in a row. Most recently, SecurityScorecard was named to Fast Company’s annual list of the World’s Most Innovative Companies for 2023 and to the Achievers 50 Most Engaged Workplaces in 2023 award recognizing “forward-thinking employers for their unwavering commitment to employee engagement.” SecurityScorecard is proud to be funded by world-class investors including Silver Lake Waterman, Moody’s, Sequoia Capital, GV and Riverwood Capital.
+
+About the Team:
+
+At SecurityScorecard, the Data Science organization builds AI and ML products that empower our customers to manage cybersecurity risk. We leverage massive datasets sourced by our internal Threat Intelligence teams to create the core rating models that our customers use for assessing third-party risk and self-assessment. We also build LLM-powered systems for automating and accelerating cybersecurity risk assessment workflows.
+
+About the Role:
+
+As an ML Engineer, you will design and optimize machine learning algorithms, build scalable data pipelines, and deploy reliable models into production environments. You'll collaborate with cross-functional teams to integrate ML solutions into products, conduct research to stay ahead of emerging technologies, and ensure models perform optimally through ongoing monitoring and refinement. Your work will directly enhance cybersecurity resilience for organizations worldwide, making the world a safer place. If you’re passionate about solving complex problems and creating impactful solutions, this role offers the opportunity to make a significant impact while working in a dynamic, collaborative environment.
+
+Responsibilities:
+
+Technical Leadership: Establish best practices and share expertise through mentorship.
+Model Development: Design, train, and optimize machine learning models and algorithms.
+Data Pipeline Creation: Build and maintain scalable data pipelines to preprocess, clean, and transform raw data for analysis and model training.
+Model Deployment: Implement and manage models in production environments, ensuring scalability, reliability, and performance.
+Research and Experimentation: Stay updated on the latest machine learning techniques, tools, and frameworks to enhance model accuracy and efficiency.
+Collaboration: Work closely with data scientists, software engineers, and product teams to understand requirements and integrate ML solutions into products.
+Performance Monitoring: Continuously monitor, evaluate, and fine-tune models post-deployment to maintain accuracy and robustness.
+Documentation: Create clear and concise documentation for models, processes, and systems to support team collaboration and knowledge sharing.
+
+Required Qualifications:
+
+7+ years of experience or equivalent demonstrable skills in ML Engineering, Data Science or related discipline.
+Bachelor’s or Master’s degree in Computer Science, Engineering, Mathematics, Physics, or a related field.
+Strong programming skills in Python.
+Experience with machine learning frameworks such as PyTorch, TensorFlow, or Scikit-learn.
+Proficiency in data manipulation and analysis using tools such as Polars, Pandas, NumPy, or SQL.
+Solid understanding of algorithms, statistics, and data structures.
+Experience with cloud platforms (AWS, Azure, GCP) and containerization (Docker, Kubernetes).
+Knowledge of CI/CD pipelines and version control systems (e.g. Git).
+Familiarity with Linux/Unix command line tools.
+
+Preferred Qualifications:
+
+PhD degree in Computer Science, Engineering, Mathematics, Physics or a related field.
+Hands-on experience with LLMs, RAG, LangChain, or LlamaIndex.
+Experience with big data technologies such as Hadoop, Spark, or Kafka.
+
+Benefits:
+
+The estimated total compensation range for this position is $75,000 - $90,000 (USD base plus bonus). Actual compensation for the position is based on a variety of factors, including, but not limited to affordability, skills, qualifications and experience, and may vary from the range. In addition to base salary, employees may also be eligible for annual performance-based incentive compensation awards and equity, among other company benefits.
+
+SecurityScorecard is committed to Equal Employment Opportunity and embraces diversity. We believe that our team is strengthened through hiring and retaining employees with diverse backgrounds, skill sets, ideas, and perspectives. We make hiring decisions based on merit and do not discriminate based on race, color, religion, national origin, sex or gender (including pregnancy) gender identity or expression (including transgender status), sexual orientation, age, marital, veteran, disability status or any other protected category in accordance with applicable law. 
+
+We also consider qualified applicants regardless of criminal histories, in accordance with applicable law. We are committed to providing reasonable accommodations for qualified individuals with disabilities in our job application procedures. If you need assistance or accommodation due to a disability, please contact talentacquisitionoperations@securityscorecard.io.
+
+Any information you submit to SecurityScorecard as part of your application will be processed in accordance with the Company’s privacy policy and applicable law. 
+
+SecurityScorecard does not accept unsolicited resumes from employment agencies. Please note that we do not provide immigration sponsorship for this position.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Consultor(a) de IA
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Avaliar processos e identificar oportunidades para aplicação de IA Generativa.
+
+Desenvolver estratégias de adoção e roadmaps alinhados ao negócio.
+
+Propor soluções conceituais e orientar a implementação de projetos de IA.
+
+Promover a capacitação das equipes e apoiar na gestão da mudança.
+
+Atuar como ponte entre áreas técnicas e de negócio.
+
+Aconselhar sobre governança, ética e melhores práticas em IA.
+
+Acompanhar tendências do mercado para recomendar soluções atualizadas.
+
+Qualificações Essenciais
+
+Formação superior em Ciência da Computação, Engenharia, Estatística, Matemática, Física, Administração com foco em tecnologia ou áreas relacionadas.
+Experiência prática na aplicação de IA/ML em contextos reais de negócio (tecnologia, produto ou consultoria).
+Conhecimento avançado em IA, Machine Learning, Deep Learning, Processamento de Linguagem Natural e/ou Visão Computacional.
+Familiaridade com as capacidades e limitações da IA Generativa (ex: LLMs).
+Habilidade para comunicar conceitos complexos de forma clara, com escuta ativa e adaptação ao público.
+Capacidade analítica, pensamento estratégico e orientação para resolução de problemas.
+Flexibilidade para entender rapidamente diferentes contextos e setores de atuação.
+
+Serão Considerados Diferenciais
+
+Familiaridade com ambientes de nuvem (AWS, Azure, GCP) e ferramentas de IA/ML.
+Conhecimento em gestão de projetos ou programas.
+Entendimento de práticas de governança, ética e regulamentações aplicadas à IA.
+Atuação em setores específicos como saúde, varejo, finanças, indústria ou educação.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Machine Learning Engineer - Remote Work
+
+Sobre a vaga
+At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.
+
+Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.
+
+When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.
+
+Machine Learning Engineer at BairesDev
+
+We are looking for an outstanding Machine Learning Engineer to join our team. This professional will use data and machine learning techniques to help the business automate and scale decision-making, mainly by producing advanced data analysis reports and data-based models to infer and predict patterns.
+
+What You Will Do:
+
+- Help to improve data literacy and the overall analytical environment across the company.
+- Handle both structured and unstructured data using SQL and other programming languages.
+- Perform advanced data analysis and report results.
+- Tell the story behind data in a compelling manner for business people.
+- Build predictive models and machine-learning algorithms.
+- Combine models through ensemble modeling.
+- Propose solutions and strategies to business challenges.
+- Help to design and execute experiments for hypothesis testing.
+- Participate actively in discussions and decisions regarding the whole Machile Learning / Data Science chapter.
+- Collaborate with data product managers to build awesome data products.
+- Work with management to prioritize business and information needs.
+- Help to spread a data-driven mindset and to improve data literacy. Be a data evangelist.
+
+Here’s what we are looking for:
+
+- 3+ years of experience with Machine Learning, data science, IA, statistical, and other related areas.
+- Proficiency with MySQL.
+- Proficiency in Python, R, or another major programming language.
+- Excellent communication skills, and capacity to collaborate and build relationships with non-technical users.
+- Strong knowledge of probability and statistics, including experimental design, predictive modeling, optimization, and causal inference.
+- Hands-on experience with machine learning, like regression classification, clustering, neural networks, feature selection, cross-validation, the curse of dimensionality, bias-variance tradeoff, model explainability, NLP, etc.
+
+Desirable:
+- Experience with people analytics or growth.
+- Experience with data visualization tools.
+- Good understanding of the engineering challenges to deploying machine learning systems to production.
+
+How we do make your work (and your life) easier:
+
+- 100% remote work (from anywhere).
+- Excellent compensation in USD or your local currency if preferred
+- Hardware and software setup for you to work from home.
+- Flexible hours: create your own schedule.
+- Paid parental leaves, vacations, and national holidays.
+- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.
+- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.
+
+Apply now and become part of a global team where your unique talents can truly thrive!
+-----------------------------------------------------------------------------------

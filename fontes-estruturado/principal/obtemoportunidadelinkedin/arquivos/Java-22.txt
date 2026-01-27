@@ -1,0 +1,202 @@
+[Oportunidade 1]
+Oportunidade: Java developer
+
+Sobre a vaga
+Venha para uma das maiores empresas de Serviços IT do mundo!! Aqui você pode transformar sua carreira!
+
+Por que fazer parte da TCS? Aqui na TCS acreditamos que as pessoas fazem a diferença, por isso vivemos uma cultura de aprendizado ilimitado cheio de oportunidades de melhorias e desenvolvimento mútuo. O cenário ideal para expandir ideias através das ferramentas certas, contribuindo para nosso sucesso num ambiente colaborativo.
+
+Procuramos (Java Developer ) que queira aprender e transformar sua carreira.
+
+Nesta função você irá: 
+
+Desenvolvimento/Manutenção de soluções utilizando as melhores práticas de desenvolvimento.
+Participar de discussões dentro da equipe e com outras áreas de negócios, apoiando decisões importantes.
+Implementar e manter APIs para disponibilização de informações como produtos.
+Colaborar na análise e solução de problemas de desempenho e otimização.
+Trabalhar de forma colaborativa com outros desenvolvedores e stakeholders.
+
+O que você pode esperar de nós? 
+Desenvolvimento profissional e evolução constante das suas competências, sempre de acordo com os seus interesses.
+Oportunidades para trabalho fora do Brasil
+Um ambiente colaborativo, diverso e inovador, que incentiva o trabalho em equipe.
+
+O que oferecemos? 
+Benefícios TCS – Brasil:
+Plano de Saúde
+Plano Odontológico
+Seguro de Vida
+Vale Transporte
+Vale Refeição/Alimentação
+Auxílio Creche
+Gympass
+TCS Cares – 0800 gratuito que fornece assistência psicológica (24 hrs/dia), jurídica, social e financeira aos associados
+Parceria com SESC
+Reembolso de Certificações
+Portal de aprendizagem gratuito da TCS – cursos online e treinamentos ao vivo
+Oportunidade de experiência internacional
+Parceria de Descontos com Universidades e Escolas de Idiomas
+Bring Your Buddy – Ao indicar pessoas você se torna elegível a receber um bônus para cada contratação
+TCS Gems – Reconhecimento por performance
+Xcelerate – Plataforma de carreira com mentoria gratuita
+
+Na TATA Consultancy Services promovemos uma cultura inclusiva, trabalhamos sempre pela equidade. Isso se aplica em Gênero, Pessoas com Deficiência, LGBTQIA+, Religião, Raça, Etnia, ou seja, todas as nossas oportunidades são trabalhadas com esses princípios. Pensamos em ações diversas de inclusão e de responsabilidade social, a fim de construir uma TCS que respeita a individualidade. Seja um TCSer!
+
+#Buildingonbelief
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor JAVA Sênior
+
+Sobre a vaga
+DESCRIÇÃO DA VAGA
+Somos aproximadamente 50k Minsaiters no Mundo e mais de 9k Minsaiters no Brasil e estamos presentes nas maiores empresas em todos os setores. Nossa estrutura permite participar de projetos globais e proporciona um ambiente colaborativo que nos certifica em GreatPlacesToWork e planos diferenciados para Jovens Profissionais também reconhecidos pela Employers for Youth.
+
+Você atuará no nosso time de Desenvolvimento em um projeto estratégico, utilizando metodologias ágeis e em um ambiente de inovação.
+Buscamos profissionais com senso de dono, comprometidos com o sucesso do nosso cliente e com o desenvolvimento da sua carreira dentro da Minsait
+Você será um pilar fundamental nos melhores e maiores projetos de TI do Brasil e em nível global.
+
+
+Venha ser um Minsaiter!
+
+
+📚 Requisitos:
+Experiência com Java 11, Hibernate , JPA, JUnit
+Experiência com WebServices SOAP/REST
+Experiência com Spring Boot, Microservices
+Experiência com MongoDB , No SQL DB, Redis, Microservice design patterns
+Domínio em desenvolvimento em orientação a objetos
+Experiência com Testes unitários, BDD e integração
+Vivência com arquitetura REST
+Experiência em Ferramentas de versionamento preferencialmente git
+Experiências com projetos de produtos digitais;
+Empacotamento/buid de aplicação angular
+Experiência com NGINX, Conceitos de otimização e performance de aplicações
+
+
+
+
+Se você possui a experiência e as habilidades necessárias para se destacar como Pessoa Desenvolvedora JAVA Sênior, candidate-se! ✨ Aguardamos ansiosamente para conhecer você e discutir como sua expertise pode contribuir para o sucesso de nossa equipe!
+
+
+INFORMAÇÕES ADICIONAIS
+TRABALHE NA MINSAIT
+
+Modelo de contratação CLT.
+Plano de Saúde subsidiado pela empresa para o titular.
+Opção de inclusão de dependentes no Plano de Saúde com desconto em folha de pagamento.
+Assistência Odontológica (opcional).
+Opção de inclusão de dependentes no Plano de Assistência Odontológica com desconto em folha de pagamento.
+Vale Refeição ou Vale Alimentação.
+Vale Transporte (opcional).
+POP - Programa de Orientação Pessoal que visa oferecer suporte emocional e aconselhamento com orientação confidencial nas áreas psicológica, jurídica, financeira, social e pet sem custo para titular e dependentes legais.
+Gympass (Acesso a mais de 700 academias em todo o Brasil com planos a partir de R$ 39,90 descontado em folha de pagamento).
+Opção de inclusão de dependentes no Gympass (até 03 dependentes - pago via cartão de crédito).
+Parcerias com grandes marcas de consumo.
+Convênio com o SESC para titular e dependentes.
+Convênios para descontos com instituições de ensino (graduação e pós-graduação) e escola de idiomas.
+Seguro de vida em grupo.
+
+Nosso compromisso com a diversidade é um elemento-chave da nossa cultura: Igualdade de oportunidades, respeito pelas pessoas e não discriminação são princípios de atuação para todos os profissionais da Minsait. Integramos o Bloomberg Gender-Equality Index (GEI) 2021 em termos de diversidade e igualdade de gênero.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de Software (Java) | IT Offshore
+
+Sobre a vaga
+Sobre a Área
+
+A área é responsável pela plataforma de liquidação e custódia offshore. Atuamos no desenvolvimento de melhorias operacionais e incorporação de novos produtos financeiros no sistema, que é desenvolvido em Java e hospedada na AWS. Também somos responsáveis por soluções em outras linguagens, e que compõem o ecossistema da plataforma. Nosso grupo interage diretamente com usuários do BackOffice e FrontOffice para entender as novas demandas da área e como agregar ao core business do banco.
+
+No Seu Dia a Dia
+
+Entender a necessidade do cliente interno, analisar, estimar custo em horas e definir a entrega e, por último, desenvolver e/ou configurar o sistema já existente. Além disso, ainda terá oportunidade de atuar com agentes reguladores internacionais e eventualmente acionar a empresa proprietária do sistema “pacote” sediada no USA para nos auxiliar em algumas configurações sistêmicas.
+
+Esperamos De Você
+
+Graduação superior completa ou em andamento, preferencialmente em  Sistemas de Informação, Análise de Sistemas, Ciência da Computação, Engenharia da Computação e área relacionadas;
+Desejável conhecimento avançado em Java 8 ou superior;
+Desejável onhecimentos AWS para configuração de ambientes;
+Conhecimento metodologia ágil;
+Desejável inglês intermediário; 
+Disponibilidade para trabalhar de forma híbrida (3x por semana) na região da Faria Lima. 
+
+Benefícios CLT
+
+Participação nos Lucros e Resultados (PLR); 
+Remuneração variável por performance (bônus anual); 
+Auxílio Alimentação e Refeição; 
+Plano Médico; 
+Plano Odontológico; 
+Auxílio Creche/Babá; 
+Vale Transporte; 
+WellHub; 
+TotalPass; 
+Programa de Apoio Pessoal (EAP); 
+Planos por adesão como Previdência Privada e Seguro de Vida; 
+Desconto em Farmácia; 
+Programa de Nutrição; 
+Programa de Gestantes; 
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenharia de Software Sênior - Java/AWS/Kubernetes
+
+Sobre a vaga
+O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 98 milhões de clientes em 18 países.
+
+Somos feitos de pessoas e acreditamos que ter um time com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das diferenças.
+
+Estamos buscando uma pessoa para a posição de Engenharia de Software Sênior do nosso time de Recuperação PF, que queira se desenvolver e aprender, compartilhar, colaborar e inovar, entregando valor para todos os nossos clientes.
+
+Nessa função você vai:
+Atuação como Team member da squad
+Desenvolvimento e aprimoramento de aplicações
+Apoio na evolução da arquitetura dos serviços para AWS através das melhores práticas de DevOps
+Mapeamento e melhoria de processos
+
+No que você precisa mandar bem?
+Conhecimento sólido em Java
+Conhecimento do framework Spring Boot
+Conhecimentos sólidos de serviços da Amazon Web Services (AWS)
+Noções de arquitetura de sistemas e conteinerização (Docker, EKS, Kubernetes)
+Conhecimentos de conceitos DevOps
+
+Você sairá na frente se mandar bem em...
+Conhecimentos de Infra as a Code - IaC (Terraform e/ou CloudFormation)
+Conhecimentos de desenvolvimento front-end com Angular
+Conhecimentos de ferramentas de observabilidade
+
+Ao se tornar um ituber você tem
+Vale-Transporte
+Vale-Refeição (Restaurantes) / Vale-Alimentação (Supermercados)
+Plano médico (Fundação Saúde Itaú ou Central Nacional Unimed)
+Plano odontológico (Odontoprev ou Interodonto)
+Seguro de Vida
+PLR – Participação nos Lucros e Resultados (Mediante resultados do banco)
+Previdência privada
+Descontos exclusivos em nossos produtos financeiros
+Licença maternidade e paternidade estendida
+Auxílio Creche / Babá (para papais e mamães)
+Incentivo a estudos
+Wellhub ou TotalPass
+Acesso aos Clubes de Lazer Itaú (Guarapiranga / Itanhaém e São Sebastião)
++ Algumas vantagens que você pode conhecer durante o processo 😊
+
+Conheça mais sobre nossa cultura: https://www.itau.com.br/relacoes-com-investidores/noticias/cultura-itubers-e-nosso-novo-conjunto-de-valores/
+ *Estimulamos candidaturas de pessoas com deficiência em todas as nossas posições, sendo assim, sinta-se à vontade para se candidatar em vagas sinalizadas como exclusivas ou não para pessoas com deficiência. Somos comprometidos com a inclusão e valorizamos a diversidade.
+
+ #VemProItaú #VemSerItuber
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvimento Java Sênior
+
+Sobre a vaga
+A NT: Somos uma consultoria global de desenvolvimento de software personalizado e contratação de projetos de TI sem restrições geográficas; operamos globalmente, navegando em desafios tecnológicos e empresariais com expertise. Nossa sede nos Estados Unidos está localizada em San Diego, Califórnia, e também temos centros de desenvolvimento estrategicamente localizados no Brasil, México, Peru e Uruguai. Nossa sede na América Latina está sediada em Porto Alegre, Brasil, com uma filial em São Paulo. Há mais de duas décadas, somos reconhecidos globalmente no mercado de software e inovação por entregar projetos com valor agregado, elaborados por equipes ágeis de profissionais qualificados. Confira nossa página nacional e internacional em: ntconsult.com.br e ntconsultcorp.com.
+
+O projeto: Estamos procurando excepcionais profissionais em Desenvolvimento Java para esta oportunidade totalmente remota de trabalhar com um cliente na indústria financeira. São a primeira instituição financeira cooperativa do Brasil onde o modelo de negócio constrói uma cadeia de valor que beneficia o associado, a cooperativa e a comunidade local, oferecendo mais de 300 produtos e serviços financeiros.
+
+As principais atribuições incluem:- Projetar, desenvolver e implementar soluções de software robustas e escaláveis, utilizando as melhores práticas de desenvolvimento.- Colaborar com equipes multidisciplinares para entender requisitos de negócios e propor soluções técnicas adequadas.- Realizar a manutenção e otimização de sistemas existentes, garantindo a performance e a segurança das aplicações.- Participar ativamente de revisões de código e fornecer feedback construtivo para outros desenvolvedores.- Contribuir para a definição de padrões e processos de desenvolvimento, promovendo a melhoria contínua da equipe.- Manter-se atualizado sobre novas tecnologias e tendências do setor, propondo inovações que possam agregar valor ao negócio.
+
+Os requisitos para a vaga incluem:- Experiência sólida em desenvolvimento BackEnd, com domínio em linguagens como Java.- Conhecimento em bancos de dados relacionais e não relacionais, incluindo Oracle e MongoDB.- Conhecimento em plataformas de streaming distribuído de eventos (Apache Kafka).- Familiaridade com práticas de desenvolvimento ágil e metodologias como Scrum ou Kanban.- Habilidade em trabalhar com APIs RESTful e integração de sistemas.- Experiência com ferramentas de versionamento de código, como Git.
+
+Experiências desejáveis que podem diferenciar o candidato incluem:- Vivência em ambientes de microserviços e arquitetura orientada a serviços.- Conhecimento em práticas de DevOps e automação de processos de desenvolvimento e implantação.- Experiência com testes automatizados e ferramentas de CI/CD.- Contribuições para projetos de código aberto ou participação em comunidades de desenvolvimento.
+-----------------------------------------------------------------------------------

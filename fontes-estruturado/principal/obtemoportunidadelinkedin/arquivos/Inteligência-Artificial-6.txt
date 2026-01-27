@@ -1,0 +1,349 @@
+[Oportunidade 1]
+Oportunidade: Artificial Intelligence Engineer, LearnWith.AI (Remote) - $200,000/year USD
+
+Sobre a vaga
+Tired of building AI tools that never see real-world impact? Join us in creating the AI-powered "Second Brain" that's revolutionizing education for millions of students who deserve better than one-size-fits-all learning.
+
+What You Will Be Doing
+
+Architect sophisticated AI-driven workflows that transform raw LLM capabilities into powerful educational tools that adapt to individual learning styles
+Engineer domain-specific knowledge repositories and contextual frameworks that enable our AI systems to generate truly personalized learning content
+Design scalable data structures that support complex educational content generation while maintaining pedagogical integrity
+
+What You Won’t Be Doing
+
+Implementing basic chatbots or simple AI integrations that merely automate existing processes
+Building theoretical models that never reach students or make meaningful educational impact
+Maintaining legacy systems or working on incremental improvements to existing technologies
+
+Artificial Intelligence Engineer Key Responsibilities
+
+Transform LearnWith.AI into the industry leader by engineering AI systems that generate personalized, engaging educational content at scale—effectively bridging the gap between technological innovation and meaningful learning outcomes.
+
+Basic Requirements
+
+Minimum 4 years of software engineering experience with demonstrated ability to architect complex systems
+Proven track record implementing AI tools (ChatGPT, Gemini, Grok) in professional environments with measurable outcomes
+Passionate interest in EdTech backed by knowledge of educational challenges and opportunities
+
+Nice-to-have Requirements
+
+Experience with prompt engineering and LLM fine-tuning techniques
+Background in educational content development or instructional design
+Familiarity with knowledge graph structures and semantic data modeling
+
+About LearnWith.AI
+
+LearnWith.AI is an edtech startup that leverages AI and subject matter experts to cultivate a new way of learning. Our unique approach leverages 50+ years of learning science, cutting-edge data analytics and AI-powered coaching. In doing so, we can help students learn more, learn faster, and learn better - and have fun while doing it. We are a remote-first company that hires globally via Crossover.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with us
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover as a Contractor of Record. The compensation level for this role is $100 USD/hour, which equates to $200,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+Crossover Job Code: LJ-5532-BR-COUNTRY-ArtificialInte.004
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Arquiteta de Inteligência Artificial (IA)
+
+Sobre a vaga
+Job Description
+
+A FCamara está em busca de uma pessoa para atuar como Pessoa Arquiteta de Inteligência Artificial (IA), para se juntar a nossa equipe dinâmica e atuar em parceria com a maior construtora da América Latina, que ao longo de sua existência, sempre esteve sintonizada com o mercado e as melhores práticas, além de priorizar sempre as necessidades de seus clientes. É uma empresa que está em constante movimento, se reinventando a cada dia para oferecer soluções de moradia para todas as gerações.
+
+Buscamos uma Pessoa Arquiteta de Inteligência Artificial (IA) talentoso(a) e experiente para se juntar à nossa equipe inovadora. Você será fundamental na concepção, desenvolvimento e implementação de soluções de IA que transformarão nossos processos de negócios, otimizarão operações e impulsionarão a tomada de decisões estratégicas em toda a companhia. Se você é apaixonado por dados, algoritmos e por criar o futuro da construção civil através da inteligência artificial, esta é a sua oportunidade!
+
+Responsibilities And Assignments
+
+Liderar a arquitetura e o design de soluções de Inteligência Artificial e Machine Learning, desde a concepção até a implantação em produção.
+Colaborar com equipes multidisciplinares (engenharia de dados, desenvolvimento de software, negócios) para identificar oportunidades de aplicação de IA e definir requisitos técnicos.
+Desenvolver e implementar modelos de Machine Learning, Deep Learning e outras técnicas de IA para resolver desafios complexos de negócios.
+Definir a infraestrutura tecnológica necessária para suportar as soluções de IA, incluindo plataformas de nuvem, ferramentas de MLOps e pipelines de dados.
+Garantir a escalabilidade, robustez, segurança e manutenibilidade das soluções de IA implementadas.
+Realizar provas de conceito (PoCs) e protótipos para validar a viabilidade e o impacto de novas soluções de IA.
+Manter-se atualizado com as últimas tendências, tecnologias e melhores práticas em Inteligência Artificial e Machine Learning.
+Documentar as arquiteturas de solução, modelos e processos implementados.
+Fornecer orientação técnica e mentoria para outros membros da equipe.
+Avaliar e selecionar tecnologias, frameworks e ferramentas de IA.
+Comunicar de forma clara e eficaz os aspectos técnicos e os resultados dos projetos para stakeholders técnicos e não técnicos.
+
+Requirements And Qualifications
+
+Formação superior completa em Ciência da Computação, Engenharia de Software, Engenharia da Computação, Estatística, Matemática ou áreas correlatas.
+Experiência comprovada como Arquiteto de IA, Engenheiro de Machine Learning Sênior ou função similar.
+Profundo conhecimento em algoritmos de Machine Learning (regressão, classificação, clusterização, etc.), Deep Learning (redes neurais convolucionais, recorrentes, transformers, etc.) e processamento de linguagem natural (PLN).
+Experiência sólida em linguagens de programação como Python e suas bibliotecas de IA/ML (scikit-learn, TensorFlow, PyTorch, Keras, Pandas, NumPy).
+Experiência com plataformas de nuvem (AWS, Azure ou Google Cloud Platform) e seus respectivos serviços de IA/ML (SageMaker, Azure ML, Vertex AI, etc.).
+Conhecimento em bancos de dados SQL e NoSQL.
+Experiência com ferramentas e práticas de MLOps (versionamento de modelos, CI/CD para ML, monitoramento de modelos).
+Familiaridade com ferramentas de Big Data (Spark, Hadoop, etc.).
+Excelentes habilidades analíticas e de resolução de problemas complexos.
+Capacidade de traduzir necessidades de negócios em soluções técnicas de IA.
+Fortes habilidades de comunicação e colaboração.
+
+Desejável:
+
+Mestrado ou Doutorado em Inteligência Artificial ou área relacionada.
+Experiência no setor de construção civil, imobiliário ou áreas afins.
+Conhecimento em desenvolvimento de APIs e microsserviços.
+Experiência com ferramentas de visualização de dados (Tableau, Power BI, etc.).
+Certificações em plataformas de nuvem (AWS Certified Machine Learning, Azure AI Engineer, Google Professional Machine Learning Engineer).
+Experiência com metodologias ágeis (Scrum, Kanban).
+Publicações científicas ou contribuições para projetos open-source na área de IA.
+Inglês avançado para leitura e escrita técnica.
+
+Transformamos mundos sonhados em trajetórias reais.🧡🚀
+
+Aqui somos #SangueLaranja!
+
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras.
+
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+
+tem o poder da transformação!
+
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs.
+
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Developer (Engenharia de Dados) Sênior/Especialista
+
+Sobre a vaga
+Estamos com uma oportunidade para um(a) Data Developer Sênior ou Especialista (Engenharia de Dados). Como parte do time de produtos de dados, sua missão é usar seus conhecimentos, habilidades para explorar problemas, desenhar, desenvolver produtos impactantes, entregar observando governança, segurança e performance, em um ambiente colaborativo e de inovação.
+
+Acreditamos que a engenharia de dados é uma disciplina essencial para este produto, sendo responsável pela arquitetura e tecnologias para movimentar e organizar grandes volumes de dados, observando governança, segurança e performance.
+
+🧑‍🦽Todas as nossas vagas estão disponíveis para pessoas com deficiência! Que tal se juntar ao nosso time e embarcar nessa jornada com a gente?
+
+Responsabilidades:
+Participar das conversas sobre o produto e parear com Group Product Manager e Product Managers, entendendo e garantindo a entrega de valor;
+Criar dashboards e visualizações de dados que apoiem a tomada de decisão;
+Desenhar a arquitetura e avaliar as tecnologias disponíveis para resolver o problema certo;
+Combinar a arquitetura e tecnologia para desenvolver e entregar componentes reutilizáveis como conectores, APIs, SDKs, CLIs;
+Testar e automatizar tudo que for possível;
+Validar e adaptar os componentes de acordo com os feedbacks dos usuários;
+Colaborar com a qualidade e inovação tecnológica do produto e ambiente de trabalho.
+Conhecimentos e Habilidades
+Facilidade para aprender novas tecnologias e se adaptar às mudanças;
+Git Workflows, CI/CD e automação de processos;
+Infra as a Code - OpenTofu/Terraform;
+Facilidade de comunicação e colaboração com outras pessoas;
+Conhecimento e habilidade em alguma linguagem de programação e consulta, preferencialmente Python e/ou Java e SQL;
+Conhecimento e habilidade em alguma tecnologia de processamento distribuído, preferencialmente Spark;
+Conhecimento e habilidade em alguma nuvem, incluindo serviços de computação, armazenamento, bancos de dados e Analytics em AWS;
+Conhecimento e habilidade em bancos de dados SQL, NoSQL e serviços de streaming distribuídos, por exemplo: PostgreSQL, Cassandra e Kafka;
+Conhecimento sobre arquiteturas de Big Data, por exemplo: Data Warehouse, Data Lake, Lambda, Kappa, Data Mesh;
+Conhecimento sobre modelagem e cargas de trabalho de dados, incluindo modelagem normalizada, multi-dimensional, e cargas de trabalho OLTP e OLAP;
+Vivência com grande volume de dados;
+
+Requisitos e Qualificações:
+Git Workflows, CI/CD e automação de processos;
+Infra as a Code - OpenTofu/Terraform;
+Conhecimento e habilidade em alguma linguagem de programação e consulta, preferencialmente Python e/ou Java e SQL;
+Conhecimento e habilidade em alguma tecnologia de processamento distribuído, preferencialmente Spark;
+Conhecimento e habilidade em alguma nuvem, incluindo serviços de computação, armazenamento, bancos de dados e Analytics em AWS;
+Conhecimento e habilidade em bancos de dados SQL, NoSQL e serviços de streaming distribuídos, por exemplo: PostgreSQL, Cassandra e Kafka;
+Conhecimento sobre arquiteturas de Big Data, por exemplo: Data Warehouse, Data Lake, Lambda, Kappa, Data Mesh;
+Conhecimento sobre modelagem e cargas de trabalho de dados, incluindo modelagem normalizada, multi-dimensional, e cargas de trabalho OLTP e OLAP;
+Vivência com grande volume de dados;
+
+O que te tornaria um especialista para essa vaga:
+Conhecimento avançado em alguma tecnologia de processamento distribuído, preferencialmente Spark, e/ou bancos de dados SQL e/ou NoSQL, preferencialmente Oracle, PostgreSQL e/ou DynamoDB;
+Experiência com ambientes de Big Data em produção, incluindo o desenho da arquitetura, provisionamento de infraestrutura, desenvolvimento de integração de dados (pipelines, workflows), monitoramento de performance e custos;
+
+O que seria muito legal se você tivesse:
+Experiência com produtos em especial ERP;
+Conhecimento em AWS: Athena, S3, Lambda, IAM;
+Conhecimento em Cloud em especial AWS;
+Conhecimento em em alguma plataforma como DataBricks, SnowFlake ou DataIku.
+Ter participado em construção de produtos de dados e inteligência artificial
+
+O modelo de trabalho varia conforme a localização: presencial para quem está em Uberlândia/MG, híbrido (3x por semana no escritório) para São Paulo/SP e remoto para as demais regiões.
+
+Se você deseja crescer, encarar novos desafios e fazer parte de um time que está construindo algo grande, seu lugar é aqui! Topa o desafio?
+
+Benefícios que vão além da Jornada Sankher
+Na Sankhya, valorizamos a individualidade e oferecemos benefícios que promovem liberdade, equilíbrio e bem-estar em todas as áreas da vida.
+
+💵 Participação nos Resultados (PPR)
+🥗 Vale Alimentação/Refeição iFood
+🤰 Licença Maternidade e Paternidade Estendida
+👶 Auxílio Creche
+🩺 Plano de saúde
+😁 Plano odontológico
+🎉 Day OFF no Aniversário
+💵 Empréstimo Consignado
+🏋️ Auxílio vida saudável
+💚 Seguro de Vida
+🚍 Vale Transporte
+💻 Equipamentos Fornecidos pela Empresa
+🌎 Auxílio Idiomas
+📜 Auxílio Graduação, Pós-Graduação, Auxílio Certificações, Universidade Corporativa Sankhya
+
+🔝 Na Sankhya, sua jornada de crescimento nunca para. 🚀💚
+
+🎯 Plano de Performance e Desenvolvimento Individual: Plano personalizado para seu crescimento profissional.
+📌 Touchpoints de Evolução com a Liderança: Encontros regulares com líderes para discutir seu progresso e desenvolvimento.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de Dados Pleno | Data Analytics
+
+Sobre a vaga
+Descrição da vaga
+
+Com uma trajetória de 95 anos, a Americanas S.A. está presente na vida de milhões de brasileiros.
+Nossas +1600 lojas físicas estão distribuídas por todos os estados do Brasil, em mais de 800 cidades, levando nossos produtos e serviços a mais de 40 milhões de clientes em todo o país.
+ Responsabilidades e atribuições
+
+Nesse time, você terá a oportunidade de:
+
+Desenvolver e dar manutenção em pipelines e processos de engenharia de dados seguindo as recomendações de governança e as melhores práticas de desenvolvimento;
+
+Utilizar e disseminar junto aos pares da área de dados os padrões de desenvolvimento, boas práticas e qualidade do time;
+
+Criar e manter documentação técnica dos fluxos desenvolvidos;
+
+Acompanhar os fluxos de monitoria dos processos, reportar e corrigir inconsistências encontradas.
+
+Requisitos e qualificações
+
+O que esperamos de você para essa vaga:
+
+Possuir graduação em área de exatas (Sistemas de informação, Engenharia, Estatística, Economia etc) ou experiência equivalente.;
+
+Possuir experiência com plataforma de dados em Clouds (Preferencialmente GCP);
+
+Possuir experiência com SQL e em alguma linguagem de programação Python/Scala/Java;
+
+Possuir experiência com ferramentas de versionamento de código e processo de CI/CD;
+
+Possuir experiência em aplicações de gerencialmente de cargas de trabalho como Airflow, workflows, etc;
+
+Possuir experiência com Docker ou similares;
+
+Possuir conhecimento com ferramentas de monitoria de métricas de aplicações e logs (Datadog, Grafana, Kibana, Cloud Logging/ Log base metrics, etc);
+
+Possuir conhecimento de métodos de trabalho ágil (Scrum, Kanban).
+
+Será um diferencial, caso você conheça:
+
+Possuir conhecimento em fluxos de data quality;
+
+Possuir conhecimento em manutenção de fluxos de CI/CD;
+
+Possuir conhecimento em fluxos de mensageria;
+
+Possuir conhecimento em DBT;
+
+Possuir conhecimento de fluxos Pub/Sub.
+
+
+OBS: Nossos processos seletivos estão sendo conduzidos totalmente online, portanto, fique atento nos emails e no spam.
+
+Informações adicionais
+
+Nossos benefícios:
+
+Somos adeptos ao regime e benefícios CLT, oferecemos:
+
+Vale Refeição;
+Plano de saúde Bradesco;
+Plano odontológico Amil;
+Wellhub;
+Seguro de vida;
+Fazemos nossa proposta salarial de acordo com o nosso plano de cargos e salários, sua pretensão salarial e avaliação técnica;
+Somos uma Empresa Cidadã: 180 dias de licença maternidade e 20 dias licença paternidade;
+Descontos em nossas lojas físicas, após o período de experiência;
+Allya: app que oferece descontos em quase 30 mil estabelecimentos por todo Brasil, ex: farmácia, restaurante, salão, academia, etc;
+Ambiente colaborativo: perfeito pra ensinar e aprender muito.
+
+Local de Trabalho: Remoto/ Brasil
+
+QUEM SOMOS
+Quem Somos:
+
+Somos a Americanas, uma das maiores varejistas do país, com mais de 95 anos de história. Nossa marca, amada pelos brasileiros, tem o propósito de resolver a vida das famílias de maneira simples e descomplicada. A integração das mais de 1.600 lojas, presentes em todos os estados, e um e-commerce que complementa a experiência do físico nos permitem a realização de uma estratégia de vendas multicanal e eficiente, com foco na geração de caixa e na rentabilidade. Venha construir o futuro com a gente!
+
+Nosso Jeito:
+Nossa cultura é centrada no cliente, e buscamos constantemente soluções para aprimorar sua experiência. Valorizamos um jeito de trabalhar simples e descomplicado, que realmente gera impacto positivo na vida das pessoas. Aqui, incentivamos o trabalho em equipe e a troca de ideias, pois acreditamos que é assim que crescemos juntos, tanto como profissionais quanto como pessoas.
+
+Valores e Propósito:
+Nosso propósito é resolver a vida das pessoas, de maneira simples e descomplicada, guiada por valores autênticos e que representem a nossa gente. Buscamos entregar resultados com integridade, sempre servindo o cliente da melhor forma; priorizamos a conveniência em cada experiência, seja nas lojas, no site ou no coração de milhões de famílias; valorizamos a pluralidade e a resiliência, além de reconhecer e cuidar das nossas pessoas. Acima de tudo, nos comprometemos a ter um impacto positivo em tudo o que fazemos.
+
+
+Diversidade e inclusão:
+A Americanas S.A. acredita que diferentes perspectivas enriquecem o ambiente de trabalho. Por isso, temos o objetivo de promover um lugar cada vez mais diverso, inclusivo e acolhedor. Estamos construindo a cada dia uma cultura com base no respeito e valorização das diferenças, encorajando as pessoas a serem quem elas são, independente de gênero, etnia, raça, orientação sexual, religião ou deficiência. Nós acreditamos na integração das diversas culturas e tradições do Brasil, e queremos refletir a riqueza e a pluralidade do nosso país. Todas as nossas oportunidades são trabalhadas com base nesse princípio.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro(a) de Dados (Sênior)
+
+Sobre a vaga
+Descrição da função
+
+Atua na concepção, desenvolvimento e manutenção de ambientes que suportam inteligência de negócios e processos analíticos ao longo do ciclo de vida da engenharia de dados, garantindo alta disponibilidade, eficiência e escalabilidade de soluções transacionais e analíticas.
+
+Responsabilidades
+
+Projetar, implementar e manter pipelines de dados escaláveis, resilientes e eficientes.
+
+Garantir a ingestão, integração, processamento e armazenamento de grandes volumes de dados, promovendo performance e confiabilidade.
+
+Assegurar a qualidade, integridade e governança dos dados ao longo do ciclo de vida da informação, definindo e aplicando boas práticas de engenharia de dados e big data.
+
+Competências Iniciais /Requisitos
+
+Implementação e otimização de soluções de processamento distribuído de dados com Spark (PySpark, Scala).
+
+Definição, implementação e manutenção de pipelines de dados robustos e escaláveis (ETL/ELT), em cenários de big data, com a stack de dados da AWS (especialmente EMR e Glue).
+
+Orquestração de pipelines de dados com Airflow.
+
+Domínio de Python e SQL para consulta e manipulação de dados.
+
+Diferenciais
+
+ Experiência com projetos envolvendo ingestão e processamento de dados Near Real-Time (NRT).
+ Experiência com projetos de data quality.
+
+Atividades e desafios
+
+Implementar e otimizar soluções de big data baseadas em processamento distribuído.
+
+Definir e implementar soluções de data quality, provendo informações consolidadas sobre a saúde dos dados.
+
+Atuar na integração de diferentes fontes de dados, incluindo dados estruturados e semiestruturados.
+
+Implementar e monitorar boas práticas de engenharia de dados, garantindo disponibilidade, performance e governança das soluções de dados.
+
+Tecnologias
+
+ETL e Catálogo: AWS Glue
+
+Processamento distribuído de dados: Apache Spark, PySpark, Scala e AWS EMR.
+
+Linguagens: Python e SQL
+
+Orquestração de pipelines: Airflow
+
+Visualização: PowerBI e AWS Athena
+
+About The Company
+
+A Solutis é Digital!
+
+Somos apaixonados por tecnologia e esse valor está presente em nossas ações e proposta de trabalho. Ambiente descontraído e criativo, horário flexível, possibilidade de trabalho home office, eventos e programas internos com games... Isso faz parte do nosso dia-a-dia.
+
+Engajamento, busca intensa por conhecimento, empatia e criatividade são a nossa receita para cultivar e colher, sempre, o melhor resultado tecnológico.
+
+Essa é a Solutis, flexível, acolhedora, inquieta, amante da tecnologia e de tudo que ela nos proporciona de mais incrível.
+
+Venha fazer parte do nosso time!
+-----------------------------------------------------------------------------------

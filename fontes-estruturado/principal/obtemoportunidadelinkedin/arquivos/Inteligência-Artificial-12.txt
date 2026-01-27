@@ -1,0 +1,269 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Estamos em busca de uma pessoa versátil e apaixonada por dados para atuar como DBA com perfil de Engenheiro de Dados, com vivência em ambientes diversos e disposição para trabalhar com múltiplos bancos de dados (relacionais e NoSQL). Você será peça-chave na evolução da nossa arquitetura de dados, garantindo performance, escalabilidade e disponibilidade dos nossos sistemas.
+ 🎯 Responsabilidades
+  Administrar, monitorar e otimizar bancos de dados relacionais e NoSQL (MySQL, PostgreSQL, MongoDB, Cassandra e Amazon Aurora)
+Planejar e executar estratégias de backup, recuperação e alta disponibilidade
+Desenvolver e manter pipelines de dados para cargas e transformações (ETL/ELT)
+Colaborar com equipes de desenvolvimento e DevOps para definição de boas práticas de modelagem de dados
+Participar da arquitetura de soluções em nuvem (AWS), integrando serviços de dados, segurança e automação
+Garantir governança, consistência e integridade dos dados nas diversas fontes
+Suportar operações críticas com mindset proativo e orientado a performance
+  💡 Requisitos obrigatórios
+  Experiência prática como DBA e/ou Engenheiro de Dados
+Proficiência em MySQL, PostgreSQL e pelo menos um banco NoSQL (como MongoDB ou Cassandra)
+Conhecimento sólido em Amazon Aurora e serviços AWS relacionados a dados (RDS, EC2, S3, Glue, Lambda, etc.)
+Experiência com modelagem de dados relacional e não relacional
+Familiaridade com ferramentas de monitoramento, tunning e automação de banco de dados
+Boas práticas de segurança e compliance em bancos de dados
+Versionamento de scripts com Git e CI/CD para dados
+ 🚀 Diferenciais que valorizamos
+  Certificações AWS (ex: AWS Certified Database Specialty, Solutions Architect) 
+Experiência com ferramentas de ETL/ELT (Airflow, dbt, Glue, etc.)
+Conhecimento em Kafka, Spark, Athena ou Redshift
+Vivência com grandes volumes de dados e ambientes de alta criticidade
+Perfil colaborativo, comunicativo e com sede de aprendizado
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Arquiteto de IA
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenhar arquiteturas robustas para soluções baseadas em IA Generativa, incluindo fluxos de dados, APIs, integrações com sistemas legados e infraestrutura (cloud, on-premise, híbrida).
+Selecionar tecnologias e frameworks de ponta (LLMs, LangChain, CrewAI, etc.), considerando performance, custo (FINOPS), escalabilidade e aderência ao negócio.
+Definir e disseminar boas práticas, padrões de arquitetura (ex: DDD, arquitetura hexagonal) e governança de IA, com foco em segurança, privacidade, ética e conformidade.
+Liderar tecnicamente times multidisciplinares, conectando áreas técnicas e de negócio para garantir o alinhamento e a entrega de valor.
+Conduzir PoCs e protótipos, testando novas abordagens e comprovando sua viabilidade técnica e estratégica.
+Planejar infraestrutura ideal para treinamentos e inferência de modelos complexos (ex: LLMs), otimizando custos e desempenho em ambientes cloud-first.
+Atuar estrategicamente, mapeando oportunidades de aplicação da IA Generativa e contribuindo para a definição de roadmaps tecnológicos.
+Projetar arquiteturas para sistemas multiagentes (SMA) com múltiplos agentes colaborativos, utilizando frameworks modernos e topologias adequadas a cada desafio.
+Garantir governança e rastreabilidade, promovendo a atuação ética, segura e transparente de agentes autônomos e modelos generativos.
+
+Qualificações Essenciais
+
++7 anos de experiência em arquitetura de software, engenharia de dados ou desenvolvimento de soluções complexas em ambientes de alta escala.
+Sólido conhecimento de arquitetura moderna: microsserviços, APIs, eventos, DDD e design patterns.
+Experiência com ambientes em nuvem (AWS, Azure ou GCP), especialmente com serviços voltados para IA/ML e Big Data.
+Domínio de pelo menos uma linguagem como Python, Java ou C#.
+Experiência com práticas de DevOps/MLOps e ferramentas de modelagem (como UML).
+Familiaridade com fundamentos de ML, Deep Learning e IA Generativa.
+Conhecimento prático em sistemas multiagentes, comunicação entre agentes e uso de frameworks como LangChain, AutoGen, CrewAI, entre outros.
+Entendimento de princípios de governança em IA: rastreabilidade, explainability, compliance e segurança.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor de IA
+
+Sobre a vaga
+Job Description
+
+A SCForce é o time de Trade Marketing do GrupoSC 🚀
+
+Nossa missão é desbloquear todo o potencial de vendas dos nossos clientes, aumentar a presença e força de suas marcas, através do trade marketing com soluções tecnológicas inovadoras e customizadas.
+
+Representamos a ligação estratégica entre indústria e varejo. Nossa cultura é fundamentada na credibilidade, na empatia e em atitudes que fortalecem a colaboração e impulsionam a excelência.
+
+Saiba mais sobre a gente: www.scforce.com.br
+
+#VempraSCForce 🧡💙
+
+Responsibilities and assignments
+
+No dia a dia você vai:
+
+Liderar o design e a implementação de arquiteturas de soluções de Inteligência Artificial, garantindo escalabilidade, performance e segurança, com forte ênfase no uso de serviços e plataformas Microsoft Azure AI;
+Desenvolver IA e RPA, desde a experimentação até a implantação e gestão de modelos em larga escala;
+Desenvolver, customizar e integrar agentes e extensões para o Microsoft Copilot;
+Otimizar modelos de ML e DL para resolver problemas de negócio complexos, utilizando frameworks como TensorFlow, PyTorch, scikit-learn e bibliotecas do Azure ML;
+Implementar soluções utilizando uma ampla gama de serviços de IA do Azure, como Azure Machine Learning, Cognitive Services, Azure OpenAI Service, entre outros;
+Conectar soluções de IA com sistemas existentes, bancos de dados e APIs de terceiros (REST, SOAP) para garantir o fluxo de dados e a operacionalização dos modelos;
+Implementar práticas de MLOps (Machine Learning Operations) para automatizar o ciclo de vida dos modelos de IA, utilizando ferramentas como Azure DevOps, MLflow, ou pipelines de CI/CD dedicados a IA;
+Desenvolver e executar testes (unitários, de integração, de performance) para garantir a robustez, precisão e confiabilidade das soluções de IA;
+Elaborar documentações técnicas claras sobre as arquiteturas, modelos, código e processos de implantação das soluções de IA desenvolvidas.
+
+Requirements And Qualifications
+
+E o que você precisa ter?
+
+⚡ Conhecimentos em Power Platform, Microsoft Fabric;
+ 🤖 Microsoft Copilot Studio e desenvolvimento de extensões/agentes Copilot;
+ 💻 Linguagens de programação: Python (com bibliotecas de ML/DL), C# e .NET;
+ 🧠 Conhecimento em Inteligência Artificial e Machine Learning;
+ 🚀 Experiência comprovada no desenvolvimento e implantação de modelos de ML/DL em ambientes de produção.
+
+Additional information
+
+Modelo de contrato: PJ
+
+Process stages
+
+Registration
+Mapeamento Comportamental
+Entrevista RH
+Entrevista Liderança 1
+Hiring
+
+Sobre a SCForce
+
+A SCforce é o seu time de trade marketing do GrupoSC
+
+Nossa missão é desbloquear todo o potencial de vendas dos nossos clientes, aumentar a presença e força de suas marcas, através do trade marketing com soluções tecnológicas inovadoras e customizadas, aliadas a uma equipe de profissionais experientes e competentes.
+
+Representamos a ligação estratégica entre indústria e varejo, unindo tradição e experiência de mercado com soluções baseadas em dados e IA. Focamos em três princípios fundamentais: pessoas, experiência e tecnologia de ponta.
+
+Nossa cultura se baseia na credibilidade, empatia e atitudes que visam sempre a promoção do bem-estar e melhores resultados.
+
+Saiba mais sobre a gente https://www.scforce.com.br/
+
+#VempraSCforce
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Mid Level AI Engineer (MLOps)
+
+Sobre a vaga
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+TELUS Digital seeks an AI Engineer with MLOps and LLMOps background to own projects’ pipelines and CI/CD infrastructure, supporting the turning business requirements into production-ready AI/GenAI features. You’ll build scalable MLOps frameworks, convert AI research into seamless integrations, and optimize models through prompt engineering and embeddings. Strong skills in Python or TypeScript, machine learning (including deep learning and NLP/LLMs), and the ability to explain complex concepts to all stakeholders are essential.
+
+Responsibilities
+
+Design, implement, and maintain scalable ML and LLM pipelines for training, validation, deployment, and monitoring.
+Apply your knowledge of software engineering and AI systems to develop AI solutions that directly address and resolve business problems.
+Take ownership of implementing and optimizing applied AI components, ensuring they meet project needs with high complexity and scale.
+Partner with other data and AI professionals to compile the team's work into comprehensive pipelines for continuous integration, deployment, and delivery
+Own end-to-end infrastructure for model CI/CD, including versioning, automated testing, and evaluations.
+Develop and incorporate AI and GenAI solutions and pipelines while adhering to industry best practices, including moderation, security, and compliance standards.
+Lead the charge in designing, measuring, and evaluating AI model outputs, developing standard and custom metrics to ensure alignment with business objectives.
+Translate AI research into production-ready features, delivering robust and scalable AI components that integrate seamlessly with larger systems.
+Drive the selection and application of appropriate evaluation metrics, ensuring that AI solutions are robust, unbiased, and meet all necessary performance standards.
+
+Qualifications
+
+Hands-on experience building and operating MLOps platforms (Docker, Kubernetes, Terraform) and LLMOps frameworks.
+Strong experience with CI/CD in the GCP environment, leveraging services and frameworks such as Vertex AI, Kubeflow, DataFlow, Cloud Build, Cloud Deploy, Artifact Registry, and Container Registry.
+Experience configuring and deploying LLM Guardrails, while ensuring security and compliance among AI-powered solutions.
+Expertise in tracking application execution with observability tools such as LangFuse, Phoenix, while leveraging Cloud Monitoring dashboards and alerts.
+Strong understanding of the trade-offs between Generative AI models, considering the balance of cost and performance, depending on the use case.
+Demonstrable experience in applied AI, with a foundation in machine learning, deep learning, NLP, LLMs, and statistical analysis.
+Experience with data embeddings and vector databases, understanding the trade-off between available options, and leveraging it to optimize data ingestion.
+Experience with software development in Python and/or TypeScript for API development and orchestration. 
+Skilled in creating and adjusting prompts for complex AI systems to meet diverse project requirements.
+Familiarity with testing and evaluating AI systems using state-of-the-art methods and best practices.
+Ability to communicate complex AI solutions and concepts effectively to technical and non-technical stakeholders.
+
+Bonus Points
+
+Withhold a GCP certification on AI/ML, Cloud, or Data segments. 
+Experience deploying and maintaining large-scale data-intensive solutions, maintaining high throughput, low latency, and data security.
+Experience with advanced Agentic AI architecture, performance optimization of machine learning models, and the integration of AI into larger software ecosystems.
+Contributions to AI thought leadership in the industry.
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Cientista de Dados Sênior / Híbrido - Rio de Janeiro
+
+Sobre a vaga
+REQUISITOS MANDATÓRIOS
+
+EXPERIÊNCIA
+
+5 anos de experiência como Cientista de Dados;
+Programação avançada em Python;
+Experiência prática na criação e avaliação de modelos de Machine Learning;
+Experiência com desenvolvimento Front-end (React, Vue.js ou similares);
+Domínio de bancos vetorizados (FAISS, Chroma, Pinecone, etc.);
+Experiência prática com RAG e integração com modelos de linguagem (LLMs);
+Capacidade de atuar no ciclo completo de produto: concepção, prototipagem e entrega;
+Experiência com ambientes em nuvem (AWS, GCP ou Azure),
+
+REQUISITOS DESEJÁVEIS
+
+Vivência com MLOps e ferramentas de CI/CD;
+Projetos com foco em IA generativa;
+Conhecimento em notas de avaliação de LLMs;
+Noções de UX/UI voltadas para a colaboração com o tempo de produto.
+
+ATRIBUIÇÕES
+
+Estamos em busca de um(a) Cientista de Dados Sênior, com forte base técnica e visão de produto, para atuar na construção de soluções de IA ponta a ponta, com foco em projetos estratégicos de alto impacto;
+Você fará parte de um tempo multidisciplinar, atuando em todo o ciclo — da concepção à entrega — com liberdade para criar, experimentar e gerar valor real para nossos clientes;
+Projetar e implementar pipelines de dados escaláveis e eficientes;
+Desenvolver e integrar modelos de machine learning, com foco em aplicações reais;
+Atuar na criação, treinamento e validação dos principais tipos de modelos:
+ Classificação
+ Regressão
+ Clusterização
+ Séries temporais;
+Aplicar técnicas de RAG (Retrieval-Augmented Generation) com bancos vetorizados;
+Contribuir no desenvolvimento de produtos com interface Front-end;
+Trabalhar em parceria com áreas de engenharia, produto e negócios.
+
+Sobre a CAPCO
+
+Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. 
+
+Pensamos, em conjunto, sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros.
+
+Nossas oportunidades são trabalhadas para todos(as)!!!
+
+
+
+Próximos Passos
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+-----------------------------------------------------------------------------------

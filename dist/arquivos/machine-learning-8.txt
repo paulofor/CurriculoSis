@@ -1,0 +1,219 @@
+[Oportunidade 1]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+ Realizar estudos para buscar oportunidades de otimização e melhoria nos produtos com estudos estatístico;
+ Modelagem preditiva para o crescimento da performance e receita dos produtos;
+ Desenvolver estudos Ad Hoc e análises estatísticas de acordo com a necessidade do cliente;
+ Desenvolver modelos de machine learning;
+ Trabalhar com inteligência artificial generativa;
+ Iniciativas para mapear o funcionamento do negócio e buscar ativamente melhorias e eficiência nos modelos.
+
+Qualifications
+
+Visão de negócio para entender a necessidade do produto e traduzir em uma solução estratégica utilizando estatística ou métodos matemáticos;
+ Capacidade de se comunicar de forma colaborativa com as demais equipes demandantes ou de tecnologia;
+ Habilidade em mensurar e analisar os ganhos da estratégia do uso de dados;
+ Possuir conhecimentos de programação em SQL, Python;
+ Experiência em modelagem estatística;
+ Diferencial conhecimento em Spark e nuvem AWS e Azure.
+
+Additional Information
+
+Não atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!
+
+Temos importantes reconhecimentos do mercado como selo Ideia Sustentável e WEPS – Empresas empoderando mulheres. Além disso, fomos considerados, pela quinta vez consecutiva, uma das empresas mais inovadoras do mundo pela revista Forbes.
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+E ainda tem mais! Não deixe de acessar a nossa página de carreiras para conhecer todos os nossos benefícios e diferenciais!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Especialista Tecnologia ( IA Generativa para Criação de Prompt ) - Curitiba PR
+
+Sobre a vaga
+Que tal construir a sua carreira em uma das maiores companhias de alimentos do mundo?
+
+Venha trabalhar na BRF! Uma empresa que está presente na vida de milhares de famílias ao redor do mundo. Dos momentos mais simples até os mais especiais, nós ajudamos a deixar a vida de muita gente mais saborosa.
+
+Descrição do Cargo
+
+ Educação: 
+
+Graduação em áreas como Ciência da Computação, Linguística Computacional, Comunicação, Psicologia ou afins.
+
+Cursos e certificações específicos em IA, aprendizado de máquina, ou processamento de linguagem natural (NLP).
+
+ Experiência: 
+
+Experiência com modelos de linguagem de grande escala (LLMs), como GPT-3, GPT-4, ou outros modelos de NLP.
+
+Experiência prática em criação, teste e otimização de prompts para modelos de IA generativa.
+
+Histórico de trabalho em projetos que envolvem a interação entre humanos e IA, como chatbots ou assistentes virtuais.
+
+ Habilidades Técnicas: 
+
+Conhecimento profundo de técnicas de NLP e de como os modelos de linguagem processam e geram texto.
+
+Proficiência em Python e familiaridade com bibliotecas e frameworks de NLP, como Hugging Face Transformers.
+
+Experiência com ferramentas de anotação e análise de texto.
+
+Capacidade de experimentar e ajustar prompts para maximizar a eficácia e relevância das respostas geradas pelo modelo.
+
+ Outras Competências: 
+
+Excelentes habilidades de comunicação escrita e verbal.
+
+Capacidade de entender e capturar nuances e contextos linguísticos.
+
+Habilidades analíticas para avaliar a qualidade e a precisão das respostas geradas.
+
+Criatividade e pensamento crítico para desenvolver prompts que atendam a diversas necessidades e cenários.
+
+Inscreva-se agora e faça parte da BRF!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Cientista de dados Pleno | Data & AI
+
+Sobre a vaga
+O Hub Digital faz parte da nossa área de Estratégia e Tecnologia, tendo papel de destaque na nossa transformação em uma empresa media tech e D2C. Aqui cuidamos da gestão de dados e do desenvolvimento dos nossos produtos digitais como Globoplay, Globo.com, família G (G1, Ge, Gshow) e Cartola, visando a melhor experiência de consumo, interação e relacionamento com os nossos usuários.
+A frente de Data & AI desenvolve as plataformas de dados, experimentação, machine learning, recomendação e segmentação de audiência para os produtos digitais da Globo (Globoplay, G1, GE, GShow, etc).
+Essas plataformas são base para entrega de conteúdo para mais de 100 milhões de usuários todo mês. Também são usadas para criação e evolução dos nossos modelos para predição de churn/prospecção/afinidades/anomalias, modelos extração de metadados para publicidade contextual, modelos de inferência de relações, entidades e propriedades em nosso grafo de usuários, modelos otimização de inventário de publicidade, de otimização de cache para distribuição e playback de vídeos, entre outros.
+Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação.
+
+Modelo de trabalho: Híbrido (RJ, SP, BH, POA, Recife e Brasília) ou Remoto (demais regiões do Brasil)
+
+Como será seu dia a dia:
+Realizar análises em grandes e ricos conjuntos de dados para extrair insights acionáveis que ajudarão na tomada de decisão visando objetivos de negócio;
+Trabalhar em time multidisciplinar colaborando com outros cientistas de dados, engenheiros de machine learning, desenvolvedores, POs e engenheiros de dados para ajudar na formulação e avaliação de hipóteses que apoiem o desenvolvimento do produto;
+Defender a tomada de decisões orientada por dados, fornecendo recomendações para aprimorar o desempenho e a experiência do usuário;
+Construir, produtizar, avaliar e dar manutenção a modelos de Machine Learning visando o aumento de engajamento, retenção e entendimento do comportamento dos usuários.
+Do que você precisa:
+Experiência comprovada como Cientista de Dados;
+Graduação em Ciência de Dados, Estatística, Matemática, Ciência da Computação ou Engenharias;
+Proficiência em Python e SQL para análise e modelagem de dados;
+Ter trabalhado com computação em nuvem (GCP e AWS);
+Experiência com manipulação de grandes volumes de dados;
+Sólido conhecimento sobre conceitos e técnicas estatísticas (distribuições estatísticas, testes de hipótese, estatística multivariada, entre outros);
+Experiência em técnicas tradicionais de Machine Learning (classificação, regressão, séries temporais, entre outras);
+Vivência com frameworks de Machine Learning (TensorFlow; Keras; Scikit Learn; PyTorch);
+Boa capacidade de comunicar insights baseadas em dados de forma clara, objetiva e assertiva;
+Ter conhecimento em ferramentas de versionamento de código (git).
+ Conhecimentos que te destacam:
+Experiência em empresas de mídia digital, especialmente suportada por publicidade;
+Pós-graduação com foco em Machine Learning;
+Vivência com arquiteturas de Deep Learning (Transformers; CNNs; RNNs; AutoEncoders; LLMs);
+Experiências com produtificação de modelos de Machine Learning;
+Conhecimento de ferramentas e práticas de MLOPs (Docker/Kubernetes; Vertex pipelines; Model Monitoring; Continuous Traning);
+Inglês intermediário (escrita, leitura e conversação);
+Experiência com Google Cloud Platform (BigQuery, Vertex AI, Dataflow etc).
+
+Por que vir para Globo:
+Vem e vamos criar histórias e tecnologias juntos.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.
+Aqui, cada um faz a transformação acontecer.
+Nossos processos seletivos estão acontecendo de forma 100% remota e nós encorajamos inscrições de qualquer lugar do Brasil. #vempraglobo
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação. 
+Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes:
+https://www.linkedin.com/company/globo
+https://www.instagram.com/vempraglobo
+https://www.youtube.com/c/VemPraGlobo/
+Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://vempraglobo.g.globo/files/politica_de_privacidade.pdf
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos.
+✨somos globo✨
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação. 
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles. 
+Aqui, cada um faz a transformação acontecer. 
+Quer fazer parte dessa transformação também?
+#VemPraGlobo ;)
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Data Engineer | Senior
+
+Sobre a vaga
+Descrição da Vaga
+
+Responsibilities and assignments
+
+Desenvolver e otimizar pipelines de dados para ingestão, transformação e carga (ETL) de dados em ambientes distribuídos e em tempo real;
+Criar sistemas para coletar e armazenar dados;
+Construir processos de agregação e transformação de dados para fins analíticos.
+
+Requirements And Qualifications
+
+Experiência na criação/sustentação de pipelines de ETL para bases de dados analíticas;
+Domínio do Azure Databtricks, Pyspark e Spark SQL;
+Familiaridade com Azure Data Factory, Azure Dataflow e Sinapse Analytics;
+Domínio em SQL (DML, DDL, DQL);
+Habilidades no desenvolvimento de processos ETL e workflows;
+Conhecimentos avançados na linguagem Python;
+Domínio do Git Workflow (Git, Git Hub);
+Geração de scripts;
+Experiência com virtualização de dados de fontes diversas: SQL, NoSQL, ServiceNow, arquivos etc.);
+Habilidade para realizar análise de negócio e levantamento de requisitos e regras com o cliente; 
+Diferenciais: Familiaridade com banco de dados Oracle, SQL-Server, PostgreSQL, consumo de API¿s, arquivos CSV/JSON, metadados de arquivos binários etc; Experiência com leitura, processamento e manipulação de dados em arquivos, stored procedures, banco de dados Oracle/SQLServer; Experiência com ingestão e migração de bases de dados do legado para nuvem: Oracle/SQL-Server/PostgreSQL on Premise
+
+Não possui todos os requisitos para a vaga?
+
+Está tudo bem! Na Compass UOL, estimulamos o desenvolvimento contínuo de novos talentos e transformamos desafios em oportunidades.
+
+
+Informações Adicionais
+
+#remote
+
+"remote"
+
+Nós somos a Compass.
+
+Projetamos e construímos plataformas nativas digitais usando tecnologias de ponta para ajudar empresas líderes globais a inovar, transformar seus negócios e prosperar em seus setores.
+
+Nosso Norte é criar coisas que ninguém jamais imaginou que seriam possíveis.
+
+E fazemos isso porque temos pessoas criativas e incríveis com a gente! 😊
+
+Se você quer fazer parte de um time com mais de 4.000 profissionais ao redor mundo, completamente apaixonados pelo que fazem, junte-se a nós e torne-se um Compasser!
+
+Aqui nós prezamos e valorizamos a diversidade em todos os âmbitos da nossa cultura e por isso todas as nossas vagas são também destinadas a Pessoas com Deficiência e/ou beneficiários reabilitados.
+
+Nós estamos esperando por você.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Data Scientist (NLP) | Mid/Senior
+
+Sobre a vaga
+DESCRIÇÃO DA VAGA
+.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Traduzir desafios de negócio em soluções data-driven;
+Desenvolver e implementar modelos avançados de machine learning e IA;
+Liderar projetos de análise preditiva e prescritiva;
+Criar dashboards e visualizações de dados intuitivas;
+Colaborar com equipes multidisciplinares para impulsionar inovação;
+Combinar expertise técnica com visão estratégica, transformando dados complexos em soluções impactantes para o negócio.
+
+REQUISITOS E QUALIFICAÇÕES
+Proficiência em SQL;
+Expertise em modelagem estatística e técnicas de machine learning;
+Conhecimento aprofundado em NLP, Gen AI, LLM e RAG;
+Experiência com frameworks de deep learning (TensorFlow, PyTorch);
+Familiaridade com cloud computing (AWS, Azure, GCP);
+Habilidades de comunicação e apresentação;
+Desejável: experiência no setor financeiro ou fintechs, experiência com construção de Chatbots, publicações na área de Data Science, contribuições para projetos open-source, certificações relevantes (AWS, Google Cloud, Microsoft Azure), domínio avançado de Python e R;
+Formação e/ou especialização (mínimo 360 horas) completa na área da tecnologia de informação (Ciência da Computação, Análise e Desenvolvimento de Sistemas ou correlatos).
+-----------------------------------------------------------------------------------

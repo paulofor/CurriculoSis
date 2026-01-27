@@ -1,0 +1,285 @@
+[Oportunidade 1]
+Oportunidade: Machine Learning Engineer
+
+Sobre a vaga
+About us
+AB InBev is the leading global brewer and one of the world’s top 5 consumer product companies. With over 500 beer brands, we’re number one or two in many of the world’s top beer markets, including North America, Latin America, Europe, Asia, and Africa.
+
+
+About ABI Growth Grou
+pCreated in 2022, the Growth Group unifies our business-to-business (B2B), direct-to-consumer (DTC), Sales & Distribution, and Marketing teams. By bringing together global tech and commercial functions, the Growth Group allows us to fully leverage data and drive digital transformation and organic growth for AB InBev around the world
+.In addition to supporting well known global beer brands like Corona, Budweiser and Michelob Ultra, the Growth Group is home to a robust suite of digital products including our B2B digital commerce platform BEES, on-demand delivery services Ze Delivery and TaDa Delivery, and table top beer keg PerfectDraft
+.We are an exceptional team, focused on understanding and supporting consumer and customer needs, harnessing new technology, and scaling growth opportunities
+
+.
+What you'll d
+o:Architect and orchestrate the implementation of BEES Ai's Mission, Vision, and ML Strateg
+y.Own technical end-to-end delivery of ML pipelines from architecture to production scalin
+g.Create a culture of empathy and psychological safety that encourages those you collaborate with to be owners of the solutions you ow
+n.Spearheaded a diagram-based approach to articulating planned green-field and brown-field development to ensure unambiguous communication of your planned endeavor
+s.Manage product resourcing allocation to meet deadline
+
+s.
+What you'll ne
+ed:Bachelor's degree in computer science, engineering, mathematics, or any quantitative field. A master's degree is a pl
+us.Relevant experience with Machine Learning Platform Architect
+ureSystems Thinking and Software Design Patte
+rnsGitHub Workflows, Python, PySpark, DataDog, Terraform, API Management, Front End technology frameworks, Software Development Lifecycle, Bash, Docker, Software System Integration, Software Refactoring Techniques, Test Driven Developme
+nt.Solution runtime efficiency optimizati
+
+ons
+More about 
+you:You´re motivated by building up world-class solutions that impact millions of users all over the wo
+rld;You´re creative when solving problems and is continuously seeking improvements for processes and soluti
+ons;You can communicate clearly with your team and the company to identify issues and dema
+nds;You have the autonomy to recognize the current and new priorities, evaluating the impact of their outcomes in the final res
+
+ult.
+What We O
+ffer:Performance based b
+onus*Attendance B
+onus*Private pension
+ planMeal Allo
+wanceCasual office and dress
+ codeDays
+ off*Health, dental, and life insu
+ranceMedicines disc
+ountsWellHub partne
+rshipChildcare subs
+idiesDiscounts on Ambev prod
+ucts*Clube Ben partne
+rshipScholar
+ship*School materials assu
+ranceLanguage and training plat
+formsTransport allo
+
+wance
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Engineer, Full Stack
+
+Sobre a vaga
+About Us
+
+WEX is a global leader in financial technology solutions, based in Portland, Maine, United States, with over 6,000 WEXers distributed in over 40 countries. We simplify the complexities of payment systems across continents and industries like Fleet, Corporate Payments, and Benefits. We look to manage employee benefits, streamline how companies pay and get paid by suppliers, save on fuel costs, or modernize how companies manage their fleet, WEX solutions reduce the administrative burdens.
+
+About The Opportunity
+
+We are seeking an experienced Data Engineer to play a critical role in the development of WEX's enterprise data & analytics capabilities. You will be part of an organization focusing on the development and delivery of data solutions and capabilities for WEX’s data platform. The successful candidate is motivated by thinking big data, technically proficient, and enjoys working in a fast paced environment.
+
+You Will Be Expected To
+
+At WEX, we treat data and data artifacts as first-class citizens. They form our backbone and drive the business insight we generate. We are looking for an experienced Qlik Replicate Administrator to join our Data Engineering & Operations team. You’ll work with on-premise and cloud databases to configure source/target end points and create high performing data replication tasks. You’ll be part of a team that is also responsible for:
+
+Continuously training our SRE team to handle L1 and L2 production support issues
+Monitoring production servers, scheduled jobs, and incident management
+Developing standards, best practices, and how-to guides
+Mentoring other Data Engineers to create robust tasks
+Understanding Qlik’s product roadmap, including depreciated/new features, patch & version releases, and QCDI, to make adjustments to our data pipelines
+Working with DBAs to configure source databases and Qlik endpoints
+Working with DevOps to address network changes (VPC peering, subnets, firewalls, etc.)
+
+You’ll be part of a collaborative scrum team that consists of an Agility Engineer, Technical Program Manager, Data Engineers, QA, and DevOps. You’ll also be supported by a manager that is here to listen and help you grow.
+
+We Are Looking For a Professional Who Has
+
+You care deeply about the veracity (i.e. consistency, accuracy, quality, and trustworthiness) of data. You enjoy designing, maintaining, and optimizing data pipelines & infrastructure, for data collection, management, transformation, and access. In addition, you:
+
+Are a strong critical thinker with analytical and problem-solving abilities
+Are self motivated and able to work independently with minimum supervision
+Bring thought leadership to your area of responsibility and enjoy staying ahead in your field
+
+This position requires you to collaborate across multiple groups at WEX, so you are someone with excellent communication skills and persuasive power. You can make rational arguments for action to evoke positive responses.
+
+Skills
+
+Our core stack for this position consists of Qlik Replicate, Snowflake, AWS Services, and various RDBMS. You possess the following skills and experiences:
+
+Advanced knowledge of Qlik Replicate and Enterprise Manager, managing endpoints and streaming CDC (change data capture) tasks
+Solid SQL skills and understanding of query optimization strategies in Snowflake; plus, ability to monitor, visualize and optimize the end-to-end database execution flow with a keen focus on performance and correctness
+Fundamental understanding of the following AWS services:
+Elastic Compute Cloud (EC2) - performance monitoring & optimization and knowledge of instance types
+Virtual Private Cloud (VPC) - provisioning of virtual networks and all its basic components (security group, network access control list, route tables, subnet, etc.)
+S3, IAM, Secrets Manager, AWS CLI
+Mastery of RDBMS concepts, specifically the mechanics of transaction logs, RBAC, standby configuration/availability groups, encryption, and datatypes
+
+Bonus: You have successfully implemented CI/CD of Qlik Replicate tasks in a production environment.
+
+If you are looking for a growing career – come be part of WEX today!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Sales Development Representative - Sênior (SDR)
+
+Sobre a vaga
+Descrição da vaga
+
+Na DataRain Consulting, a nossa cultura é o coração do nosso sucesso. Somos uma empresa dedicada ao mundo da tecnologia, mas o que nos diferencia é o nosso compromisso com as pessoas. Acreditamos que o verdadeiro valor reside na diversidade de experiências, perspectivas e talentos que cada indivíduo traz para a equipe.
+
+Além disso, valorizamos a experiência em todas as suas formas. Cada projeto é uma oportunidade para aprender e crescer, e cada desafio é uma chance de inovar.
+
+Aqui, somos uma comunidade que valoriza e nutre a aprendizagem constante e a colaboração. Junte-se a nós e faça parte do time de elite da dataRain Consulting!
+
+Responsabilidades e atribuições: 
+
+Apoiar a Área de Marketing na formulação de estratégias com o objetivo de trazer novos Leads Qualificados;
+Responsável pela qualificação e entendimento da necessidade do cliente.
+Utilizar o CRM para executar o processo de prospecção, identificação e qualificação de contatos, através de ligações e e-mails, dentro do processo de vendas, garantindo a perfeita identificação das pessoas certas para o objeto da campanha;
+Identificar as necessidades de cada prospect, de acordo com o perfil de negócio de cada empresa; 
+Conhecer profundamente nossas ferramentas (Salesforce, Linkedin, Sales Navigator e outras)
+Iniciar o processo de vendas identificando oportunidades e projetos voltados à Nuvem AWS, dataRain e suas soluções;
+
+Requisitos e qualificações:
+
+Inglês avançado (Diferencial);
+Inglês para leitura e escrita (Obrigatório);
+Conhecimento no Pacote Office;
+Experiência em empresas de tecnologia;
+Forte comunicação, sabendo construir mensagens efetivas e adaptando-as a diferentes públicos;
+Conhecimento em metodologias e práticas ágeis.
+Ter experiência prévias na área de vendas, televendas, ou de Customer Success;
+Bom relacionamento interpessoal.
+
+Formação superior ou em andamento nas seguintes áreas:
+
+Análise e Desenvolvimento de Sistemas, Ciências da Computação, Engenharia da Computação ou áreas correlatas.
+
+Contratação:
+
+PJ, com definição de nível/remuneração conforme a experiência comprovada
+Híbrido (Presencial e Home Office)
+Local de Trabalho no Brooklin, próximo a estação do Metrô, ou no cliente final.
+
+Informações adicionais
+Priorização e geração de backlog, mantendo atualizada visão cliente e mercado;
+Certificações oficiais AWS;
+Experiência com os principais serviços AWS.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Data Engineer (Mid/Senior Level)
+
+Sobre a vaga
+Data Engineer
+
+ São Paulo-SP, Brazil or Porto Alegre-RS, Brazil 
+
+Who We Are
+
+In 2021, Poatek was acquired by WillowTree, an award-winning digital product consultancy recognized as one of the fastest growing and best places to work in the United States. Now a TELUS International company , with offices across the globe, we continue to partner with the world’s leading brands, such as HBO, PepsiCo, Domino’s and more, to design, build, and transform their digital products and strategies. We’re looking to grow our Poatek offices in Brazil with top talent excited to collaborate with team members across the globe to deliver innovative solutions for our clients.
+
+Location and Flexibility
+
+You’ll work on-site from either our São Paulo or Porto Alegre office at least three days a week and have the flexibility to work remotely for two days a week. Our office culture is designed to foster in-person innovation, collaboration, and connection with team members local and visiting from other global offices.
+
+The Opportunity
+
+As a Data Engineer part of our growing Data Science team, you will be responsible for designing, implementing, and maintaining robust and scalable data pipelines, enabling efficient data integration, storage, and processing across our various data sources. You will collaborate with cross-functional teams, including Data Scientists, Software Engineers, and other technical stakeholders, to ensure data quality and support data-driven decision-making.
+
+Responsibilities
+
+Develop and optimize scalable, high-performing, secure, and reliable data pipelines that address diverse business needs and considerations
+Identify opportunities to enhance internal processes, implement automation to streamline manual tasks, and contribute to infrastructure redesign 
+Act as a guide and mentor to junior engineers, supporting their professional growth and fostering an inclusive working environment
+Collaborate with cross-functional teams to ensure data quality and support data-driven decision-making to strive for greater functionality in our data systems
+Collaborate with project managers and product owners to assist in prioritizing, estimating, and planning development tasks
+Provide constructive feedback, and share expertise with fellow team members, fostering mutual growth and learning
+Engage in ongoing research and adoption of new technologies, libraries, frameworks, and best practices to enhance the capabilities of the data team
+Demonstrate a commitment to accessibility and ensure that your work considers and positively impacts others
+
+Qualifications
+
+BSc, MSc, and/or PhD in Statistics, Mathematics, Physics, CS, or another related subject
+Experience in technology-related fields, which can be industry and/or academic research (e.g. BI, Software, Data Science, Data Engineering)
+At least 2 years of experience as Data Engineer
+Have actively participated in the design and development of data architectures
+Hands-on experience in developing and optimizing data pipelines
+Experience working with databases and data modeling projects, as well as practical experience utilizing SQL
+Effective English communication - able to explain technical and non-technical concepts to different audiences
+Experience with a general-purpose programming language such as Python or Scala
+Ability to work well in teams and interact effectively with others
+Ability to work independently and manage multiple tasks simultaneously while meeting deadlines
+
+Bonus Points
+
+Cloud platforms and services, such as AWS, GCP, or Azure
+Big data tools such as Hadoop, Spark or Kafka
+Orchestration tools such as Airflow
+NoSQL databases
+Containerization technologies such as Docker and Kubernetes
+Agile development environment and familiarity with Agile methodologies
+
+Why Poatek / WillowTree?
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+Flexible hours and autonomy
+ Work with cutting edge technologies 
+ Partner with global and relevant brands in the market 
+ Collaborative team and learning ecosystem 
+ Career development plan & growth 
+ Internacional travel opportunities (optional) 
+
+Some Of Our Benefits
+
+ Health and dental plan 
+ Life insurance 
+ Monthly voucher for meals, culture, education, health and mobility 
+ Child care assistance and more! 
+
+Equality is a principle here at Poatek. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing those information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Data Scientist (LLM)
+
+Sobre a vaga
+Join the CloudWalk Wolfpack as a LLM Data Scientist.
+
+Your Mission:
+
+As an LLM Data Scientist at CloudWalk, your role is central to exploring and expanding the capabilities of Large Language Models (LLMs), including the specialized area of Retrieval-Augmented Generation (RAG) and overall retrieval-generated technologies. This encompasses staying abreast with the latest research in the field, writing full pipelines for distributed training across various tasks and models simultaneously, and delving deep into human reasoning and cognition through the lens of advanced AI technologies.
+
+In this position, you will bridge the gap between theoretical AI research and practical, scalable solutions in the fintech sector, with a specific focus on the integration of retrieval mechanisms in LLMs. Scaling models is a critical part of your role.
+
+You will be responsible for training models on a large scale, managing the complexities of deploying these sophisticated systems across extensive hardware infrastructures. This will involve not only a deep understanding of the technical aspects of machine learning, NLP, and retrieval systems but also a strategic approach to resource management and performance optimization.
+
+Your work involves not only technical skill but also intellectual curiosity. You will delve into profound questions that are at the forefront of AI research and development: Is human knowledge embedded in language? Can transformers and retrieval-augmented models learn non-linguistic patterns? What is the relationship between language, consciousness, and AI-driven insights? How does the integration of retrieval systems enhance the capabilities of LLMs in understanding and generating human-like responses?
+
+Your contributions will be pivotal in advancing CloudWalk's mission to revolutionize financial technologies through cutting-edge AI, particularly through the innovative use of retrieval-augmented language models.
+
+What You'll Do:
+
+Fine-tune and deploy Large Language Models (LLMs), including Retrieval-Augmented Generation (RAG), to develop cutting-edge workflow tools that directly impact millions of customers every day.
+Be an integral part of a dynamic, startup-like team within our R&D department, thriving in an environment of chaos, camaraderie, and creativity.
+Continuously absorb and apply the latest in NLP, LLMs, and RAG, driving innovation and excellence in our solutions.
+Experiment, research, and benchmark to refine model architectures, optimizing performance and efficiency with a specific focus on the integration of retrieval systems in LLMs.
+Technologies you will work with on a daily basis include: Hugging Face's libraries (such as Transformers, Accelerate, Datasets, and PEFT) and CLI, PyTorch's torchrun, GCP for Cloud Computing, Kubernetes for scalability, Tim Dettmers' bitsandbytes, standard data analysis tools (Pandas, NumPy, SciKit-Learn, Matplotlib), Git, vector databases (Qdrant, Pinecone), and Bash scripting.
+Bonus: we love Weights and Biases and MLflow.
+
+Key Responsibilities:
+
+Innovate and improve LLM training and serving methodologies, with a special emphasis on integrating retrieval mechanisms in the models.
+Stay relentlessly updated with industry trends, new techniques, and novel applications of LLMs, particularly in the context of RAG.
+Develop, test, and deploy LLMs, including those with retrieval-augmented capabilities, for various generation tasks, ensuring seamless integration and high performance.
+Share your knowledge and findings on RAG and other LLM advancements, fostering a culture of learning and growth within the team.
+Tackle challenges head-on during model training and deployment, including the unique aspects of integrating retrieval systems with generative models, ensuring smooth and effective resolutions.
+
+What We Expect From You:
+
+While we are looking for someone with a strong foundation in LLMs and RAG, we understand that the field of AI is vast and constantly evolving. We value candidates who have a solid base in some of the key areas and are enthusiastic about learning and growing in others.
+Foundational Knowledge: A strong understanding of machine learning, NLP, and basic principles of neural networks. Familiarity with the concepts behind large language models and retrieval-augmented generation is a plus.
+Technical Experience: Hands-on experience with some of the technologies we use, such as Hugging Face’s libraries, PyTorch, GCP, Kubernetes, and data analysis tools. If you’ve worked with vector databases or have experience in Bash scripting, that’s a bonus.
+Problem-Solving Skills: The ability to tackle complex challenges, think strategically about resource management, and optimize model performance.
+Learning Attitude: A keen interest in staying updated with the latest trends and developments in AI and the willingness to continuously learn and apply new techniques and methodologies.
+Team Collaboration: Strong communication skills and the ability to work collaboratively within a diverse team, sharing knowledge and contributing to a learning culture.
+
+We understand that not every candidate will be an expert in all these areas. What's more important is your eagerness to learn, adapt, and contribute to our mission. We value diversity in skills and backgrounds and believe in nurturing talent to reach its full potential.
+
+Why CloudWalk?
+
+Join us, and you're not just joining a company; you're joining a movement. A movement that's redefining fintech with innovation and a team that's as diverse in its talents as it is united in its vision. With CloudWalk, you don't just build a career; you contribute to a mission that's transforming the financial landscapes for thousands.
+
+Dare to dream, dare to create, dare to join the Wolfpack. Apply now!
+-----------------------------------------------------------------------------------

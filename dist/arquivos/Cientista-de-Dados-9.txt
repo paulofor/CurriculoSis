@@ -1,0 +1,240 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro(a) de Dados Sênior
+
+Sobre a vaga
+Funções que serão desempenhadas: 
+
+ Atuar com engenharia de dados (coleta, armazenamento, tratamento e exposição); 
+ Impulsionar o design, a construção e o lançamento de novos modelos de dados e pipelines de dados em produção; 
+ Impulsionar a qualidade dos dados em todas as áreas de negócios relacionadas; 
+ Gerenciar a entrega de painéis e visualizações de dados de alto impacto; 
+ Facilitar e acelerar a movimentação dos principais ativos de dados de D&A para o GCP. 
+
+ Requisitos necessários: 
+
+ Ensino Superior em Ciência da Computação, Matemática, Física ou outros cursos relacionados à Tecnologia; 
+ Experiência em Engenharia de Dados, BI ou Data Warehousing; 
+ Experiência em criação de API's; 
+ Experiência em linguagem de programação Python; 
+ Experiência com ferramentas de visualização de dados (por exemplo, Tableau) e/ou sistemas de gerenciamento de banco de dados relacional; 
+ Experiência em cloud (GCP, Azure ou AWS). 
+
+#BVS
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Technical Presales Specialist for AI & ML
+
+Sobre a vaga
+Descrição da Vaga
+
+Responsibilities and assignments
+
+Atuar como Technical Presales Specialist for AI & ML, sendo responsável por interagir com potenciais clientes para entender suas necessidades, propor soluções customizadas de Machine Learning e Inteligência Artificial demonstrando o valor e diferencial de nossas ofertas;
+ Utilizar de sua expertise técnica e suas habilidades de comunicação para apoiar a equipe de vendas no crescimento dos negócios;
+Realizar o entendimento profundo das necessidades e coletar requisitos dos clientes para propor soluções eficazes;
+Desenhar e apresentar arquiteturas e soluções que atendam os desafios de negócios dos clientes;
+Criar apresentações e propostas, realizar defesa técnica e provas de conceito atraentes para mostrar nossas capacidades na entrega de serviços de Machine Learning e Inteligência Artificial;
+Fornecer orientação técnica especializada durante todo o ciclo de vendas, incluindo resposta a RFPs, RFIs e similares.
+Desenvolver relacionamentos sólidos com parceiros estratégicos, clientes e demais stakeholders para criar confiança e credibilidade.
+Manter-se atualizado com os últimos avanços e tecnologias relacionadas a Machine Learning e Inteligência Artificial;
+Trabalhar em estreita colaboração com os times de engenharia e delivery para garantir que as soluções propostas possam ser implementadas de forma eficaz.
+
+Requirements And Qualifications
+
+Bacharelado ou Mestrado em Ciência da Computação, Tecnologia da Informação ou área relacionada;
+Vasta experiência em pré-venda, arquiteto de soluções ou função similar em projetos complexos de grandes empresas com foco em Inteligência Artificial e Machine Learning;
+Capacidade de traduzir conceitos técnicos complexos em soluções claras e orientadas a gerar valor para o negócio dos clientes;
+Fortes hábilidades técnicas em NLP, NLU, LLM’s e FM’s. Experiência com as principais Clouds (AWS, Oracle e/ou GCP);
+Sólidos conhecimentos em soluções e ferramentas de Inteligência Artificial e Machine Learning;
+Conhecimento em Visão Computacional;
+Experiência com as principais Clouds (AWS, Oracle e/ou GCP);
+Conhecimento em IA Generativa e Conhecimento no treinamento de modelos de inteligência artificial;
+Desenvolvimento de Chatbots;
+Conhecimentos em linguagens de programação como Python e Javascript (Node.js);
+Conhecimentos em ferramentas de versão de código, como GitHub, BitBucket, Git em geral;
+Conhecimento em alguns frameworks de Deep Learning como Tensorflow/Keras;
+Conhecimentos de implementação de APIs RESTful, WebRTC e WebSocket;
+Conhecimentos em autenticação e autorização de usuário entre vários sistemas, servidores e ambientes (JWT, OAuth, etc);
+Conhecimentos em Metodologia Ágil e Metodologia de Gerenciamento de Projetos;
+Conhecimento da estrutura analítica do projeto (EAP) e arquitetura de alto nível;
+Excelentes habilidades de apresentação, comunicação, organização e relacionamento interpessoal.
+Necessário inglês avançado;
+A atuação é remota, porém residir em São Paulo é um diferencial para agendas em clientes e parceiros, caso não resida, é necessário disponibilidade para viagens.
+
+Não possui todos os requisitos para a vaga?
+
+Está tudo bem! Na Compass UOL, estimulamos o desenvolvimento contínuo de novos talentos e transformamos desafios em oportunidades.
+
+
+Informações Adicionais
+
+#remote
+
+"remote"
+
+Nós somos a Compass.
+
+Projetamos e construímos plataformas nativas digitais usando tecnologias de ponta para ajudar empresas líderes globais a inovar, transformar seus negócios e prosperar em seus setores.
+
+Nosso Norte é criar coisas que ninguém jamais imaginou que seriam possíveis.
+
+E fazemos isso porque temos pessoas criativas e incríveis com a gente! 😊
+
+Se você quer fazer parte de um time com mais de 4.000 profissionais ao redor mundo, completamente apaixonados pelo que fazem, junte-se a nós e torne-se um Compasser!
+
+Aqui nós prezamos e valorizamos a diversidade em todos os âmbitos da nossa cultura e por isso todas as nossas vagas são também destinadas a Pessoas com Deficiência e/ou beneficiários reabilitados.
+
+Nós estamos esperando por você.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Engineering Lead, Brazil - X Delivery
+
+Sobre a vaga
+Locations: São Paulo | Rio de Janeiro
+
+Who We Are
+
+Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact.
+
+To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive.
+
+We Are BCG X
+
+We’re a diverse team of more than 3,000 tech experts united by a drive to make a difference. Working across industries and disciplines, we combine our experience and expertise to tackle the biggest challenges faced by society today. We go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. Leveraging BCG’s global network and partnerships with leading organizations, BCG X provides a stable ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions.
+
+What You'll Do
+
+Join the BCG X Delivery team and immerse yourself in cutting-edge projects alongside our consulting units. Your role will be pivotal in employing data engineering methodologies to enhance the capabilities of both BCG Consulting and BCG X teams, across various domains. You'll be the go-to expert for data engineering, offering accelerated execution support to bring visions to life. Your collaboration will be key in understanding project requirements, leading the design, development, delivery, and support of solutions tailored to client needs. Expect to dive deep into tools and processes, ensuring the delivery of high-quality and efficient technology solutions. Whether it's short-term prototypes or long-term enterprise-grade developments, your contribution will significantly impact our project outcomes and organizational goals.
+
+What You'll Bring
+
+Technical Skills - Knowledge and Experience with:
+
+Unix-based command line & development tools
+Version control (e.g. Git)
+Python
+Charting libraries (e.g. HighCharts, D3.js, Recharts, Plotly, Altair)
+Cloud computing platforms (e.g. AWS, Azure, Google Cloud, etc.)
+Containerization (Docker, Kubernetes, etc.)
+Relational databases (e.g. PostgreSQL, MariaDB, MySQL, etc.)
+NoSQL databases (e.g. MongoDB, Neo4j, Redis, etc)
+Spark or other distributed big data systems (e.g. Hadoop, Pig, Hive, etc.)
+Stream-processing frameworks (e.g. Kafka)
+Data pipeline orchestration tools (e.g. Airflow, Prefect, Dagster, etc.)
+
+Job Requirements:
+
+Bachelor's / Master's in Computer Science, a related field, or equivalent work experience
+Fluency in Portuguese and English
+Experience in Data Engineering across various industries, demonstrating a track record of delivering analytics solutions in commercial environments
+
+Core attributes:
+
+Harness Big Data tools and frameworks to fulfill specific requirements. 
+Implement ETL processes across diverse architectures, ensuring optimal performance and advising on infrastructure enhancements. 
+Collaborate with case and proposal teams to define analytics outcomes, select methodologies, and deliver unique insights. 
+Lead analytics modules, establishing trust through expertise in analytics and effective communication of findings. 
+Integrate learnings into new best practices, manage content confidentiality, and maintain stakeholder relationships for project security. 
+Guide junior team members, contribute to intellectual property, and conduct technical training. 
+Exhibit strong communication skills, both written and verbal, for clear message delivery. 
+Utilize analytical skills throughout the analytics lifecycle, providing advice and expanding knowledge in advanced analytics. 
+
+Additional info
+
+Please apply for the positions equivalent to your previous work experiences. The seniority will be evaluated according to your experience and career structure at BCG X during the process.
+
+Even if you don’t meet all these requirements, we encourage you to apply if this job description excites you.
+
+Note: For this position, we are considering applicants from São Paulo and Rio de Janeiro, including both the capital cities and the surrounding areas within a 150km radius of the capitals.
+
+#BCGXjob
+
+Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.
+
+BCG is an E - Verify Employer. Click here  for more information on E-Verify.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Machine Learning Engineer
+
+Sobre a vaga
+No software farms and no part-time jobs at the moment. We build our software in-house.
+
+Looking for a Machine Learning Engineer with interest in product. As we are an early-stage startup, the range of projects is quite broad, so fluency and willingness to go across the stack to solve problems are a big plus. Experience with system design is also a plus.
+
+Minimum qualifications:
+Fluency in Python
+Experience with System Design
+Fluency in English
+Experience building production machine learning systems
+Experience with Machine Learning Research
+Experience creating backend systems in Python
+
+Projects include:
+Developing and Serving Machine Learning models
+Optimizing ML models i.e. fine-tuning, prompt engineering
+Data preparation and cleaning
+Maintaining our Python backend
+
+At Findly, we created a culture where developers have complete ownership of the projects and tools they build, from prototyping to deploying it on prod.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Lead Data Scientist
+
+Sobre a vaga
+ADP is hiring a Lead Data Scientist
+
+Does the idea of working with one of the most comprehensive US employment data sets excite you?
+Are you inspired by transformation and making impact on the lives of millions of people every day?
+
+Well, this may be the role for you. Ready to design what's next?
+
+You'll work in a geographically distributed team developing processes and tools to analyze and proactivelly detect insights. You'll code with machine learning tools like Python and AWS to synthesize millions of data sets into patterns that support and enchance the process.
+
+To thrive in this career, you need to have some formal education in quantitative analytics and technical skills to leverage existing models or create new ones. The ever increasing scale of our data sets means uncountable challenges ahead. You will stay engaged with years of exciting projects ahead - all while growing your skills and progressing in a rewarding career.
+
+Availability to work in a hybrid work model, office located in Porto Alegre.
+
+What You'll Do
+
+Here's what you can expect on a typical day: 
+
+Advanced Analytics & Predictive Modeling. You bring prior experience to the role of formulating analytical problems, extracting & analyzing data from multiple systems, summarizing critical findings, and developing a compelling visual representation of analyses with actionable recommendations — this will set you up for success on Day 1.
+Own and Manage Projects. You will identify, design, develop, and implement advanced analytical projects.
+Limitless Possibilities. You will continue learning and discovering new ways to leverage ADP data to create new products and services and find more insights. You are passionate about learning and applying new techniques within Data Science that lead to innovations.
+Collaboration and Communication. You'll be part of a collaborative team, listening to needs, then finding and sharing solutions. You're comfortable and skilled at presenting your projects and findings to both peers and leadership.
+
+To Succeed In This Role
+
+Bachelor's degree in Computer Science, Statistics, Engineering or a related field.
+Advanced English skills (able to interact daily with a distributed team).
+Good understanding of Software Development Life Cycle (SDLC).
+Good working experience with an IDE and version control tools (Git + Github/Gitlab/Bitbucket).
+Strong knowledge of data structures, algorithms and methods used in Data Science.
+Experience with Machine Learning model development and deployment.
+
+Bonus Points
+
+Formal education and/or proven previous experience with statistical analysis.
+Experience with Time series analysis and forecasting.
+Experience with Anomaly detection.
+Fluency in Python and its popular Data Science packages.
+Exposure to (Python) Jupyter notebook and/or Databricks platform.
+
+You'll Love Working Here Because You Can
+
+ Have courageous team collaboration. Courage comes from how associates are willing to have difficult conversations, speak up, be an owner, and challenge one another's ideas to find the best solution.
+Deliver at epic scale. We deliver real user outcomes using strong judgment and good instincts. We're obsessed with the art of achieving simplicity with focus on client happiness and productivity.
+Be surrounded by curious learners. We align ourselves with other smart people in an environment where we grow and elevate one another to the next level. We encourage our associates to listen, stay agile, and learn from mistakes.
+Act like an owner & doer. Mission-driven and committed to leading change, you will be encouraged to take on any challenge and solve complex problems. No tasks are beneath or too great for us. We are hands-on and willing to master our craft.
+Give back to others. Always do the right thing for our clients and our community and humbly give back to the community where we live and work. Support our associates in times of need through ADP's Philanthropic Foundation.
+Join a company committed to equality and equity. Our goal is to impact lasting change through our actions.
+O modelo de trabalho adotado pela ADP é office based/presencial, com a possibilidade de trabalho em home-office por até duas vezes na semana.
+
+Considerando que as atividades desempenhadas pelos ocupantes deste cargo envolvem acesso a informações altamente confidenciais e sensíveis de clientes da ADP e de seus respectivos empregados, a ADP reserva-se o direito de conduzir checagem de histórico, de tempos em tempos, conforme autoriza o Incidente de Recurso de Revista Repetitivo nº 01 do Tribunal Superior do Trabalho, mediante consentimento do candidato/trabalhador
+
+What are you waiting for? Apply today!
+
+Diversity, Equity, Inclusion & Equal Employment Opportunity at ADP: ADP is committed to an inclusive, diverse and equitable workplace, and is further committed to providing equal employment opportunities regardless of any protected characteristic including: race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, protected veteran status or disability. Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.
+
+Ethics at ADP: ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.
+-----------------------------------------------------------------------------------

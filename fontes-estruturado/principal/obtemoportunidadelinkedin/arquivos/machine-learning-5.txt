@@ -1,0 +1,230 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Software Backend IA
+
+Sobre a vaga
+Estamos em busca de uma pessoa desenvolvedora com foco em soluções de IA Generativa, que seja apaixonada por arquiteturas escaláveis, automações e inteligência conversacional. Buscamos alguém com domínio de Python e experiência prática com soluções modernas de IA aplicadas ao mercado real — especialmente com agentes autônomos, RAG e integrações em nuvem.
+
+Responsabilidades:
+Desenvolver e manter backends orientados a modelos de linguagem, utilizando LangChain, RAG e arquiteturas baseadas em agentes (multi-agent systems);
+Construir e orquestrar fluxos com filas (SQS) para garantir escalabilidade e processamento assíncrono;
+Implementar soluções de IA generativa aplicadas a assistentes virtuais e automações;
+Realizar integrações com serviços AWS (Lambda, S3, DynamoDB, SQS, etc.);
+Monitorar o desempenho de agentes e sistemas de IA em produção, ajustando quando necessário;
+Colaborar com times de produto, dados e engenharia para evoluir continuamente a arquitetura.
+
+Qualificações obrigatórias:
+Domínio de Python;
+Experiência prática com LangChain e/ou frameworks similares de orquestração de LLMs;
+Conhecimento sobre RAG (Retrieval-Augmented Generation) e integração com vetores;
+Experiência com AWS, especialmente SQS, Lambda, DynamoDB e S3;
+Vivência em arquiteturas com agentes autônomos (multi-agents);
+Familiaridade com consumo de APIs de LLMs (como OpenAI);
+Capacidade de documentar, testar e manter código escalável e sustentável;
+Conhecimento sólido em bibliotecas de IA como TensorFlow, PyTorch, Scikit-learn, e similares;
+Experiência em desenvolvimento e integração de chatbots.
+
+Diferenciais:
+Experiência com MLOps ou deploy de modelos em produção;
+Conhecimentos em bancos vetoriais como Pinecone, FAISS ou Weaviate;
+Noções de arquitetura de microsserviços e mensageria distribuída.
+
+Benefícios:
+Assistência odontológica
+Empréstimo consignado
+Plano de carreira
+Seguro de vida
+Vale refeição
+Assistência médica
+Programa de orientação pessoal - C4 Life
+Day Off
+Vale alimentação
+
+Local de trabalho
+Rua José Versolato, Centro, São Bernardo do Campo - São Paulo, 09750-730, Brasil
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Machine Learning Sr
+
+Sobre a vaga
+We are seeking a highly skilled and experienced Senior Machine Learning Engineer to join our Personalization Team. In this critical role, you will be responsible for building the machine learning models that will serve relevant and personal content to millions of customers every month across all our businesses and markets. As a key player in our personalization efforts, you will have the opportunity to make a significant impact on the customers’ experience and driving business performance. If you are passionate about delivering world-class ML systems and want to contribute to a cutting-edge tech startup, then we want to hear from you!.
+
+Develop and optimize algorithms to serve relevant and personal content to millions of customers every month across all our businesses and markets. 
+Collaborate with a cross-functional team of engineers, data scientists, and product managers to develop, test, and deploy machine learning models for personalization across Rappi’s customer app.
+Perform feature engineering and selection to improve the overall effectiveness of our personalization systems.
+Work closely with the data infrastructure team to ensure seamless integration of machine learning models with our existing systems and data pipelines.
+Continuously monitor and analyze personalization performance, identifying opportunities for improvement and implementing necessary changes.
+Stay up-to-date with the latest industry trends and technologies to ensure our personalization capabilities remain competitive and cutting-edge.
+Mentor junior team members and contribute to the growth of the team's overall expertise in machine learning and personalization.
+
+
+BSc or MSc in Computer Science, Engineering, or a related field with a focus on machine learning; - PhD is a plus.
+5+ years of experience in machine learning engineering, preferably in personalization, recommendation, or ranking systems with demonstrable customer and business results.
+Strong proficiency in Python, with experience in ML libraries and frameworks such as TensorFlow, PyTorch, or scikit-learn.
+Familiarity with data processing and ETL tools such as Airflow, Snowflake, Postgres, Kafka, and Redis.
+Proven experience with large-scale, complex systems and the ability to adapt to a fast-paced, rapidly evolving environment.
+Excellent problem-solving and analytical skills, with a passion for optimizing algorithms and models for high performance.
+Strong communication and collaboration skills, with the ability to work effectively within a diverse, cross-functional team.
+Fluency in Spanish (written and spoken) is required; proficiency in English is strongly preferred. 
+Preference will be given to candidates in Latin America. Globally-located candidates are possible in the right circumstances.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Analista de Machine Learning Sênior
+
+Sobre a vaga
+A Minerva Foods é líder em exportação de carne bovina na América do Sul e atua também no segmento de industrializados, comercializando seus produtos para mais de 100 países. Além do Brasil, a Minerva Foods está presente no Paraguai, na Argentina, no Uruguai, na Colômbia, e possui plantas especializadas em ovinos na Austrália.
+
+Com nossas 46 unidades industriais, oferecemos produtos saudáveis e nutritivos, que são comercializados para clientes do mundo todo por meio de nossos 23 centros de distribuição e 17 escritórios internacionais.
+
+A área de Business Analytics tem como propósito resolver problemas de negócio complexos; em outras palavras, a equipe de Business Analytics utiliza técnicas de estatística, algoritmos, e métodos estocásticos para modelar dados internos e externos para gerar informações valiosas que possam conduzir ações de melhoria de negócios.
+
+O machine learning engineer sênior atuará na equipe de business analytics e será responsável por produtizar soluções de modelagens, aprendizado de máquina e modelos matemáticos em ambientes de nuvem ou interno, além de monitorar a qualidade dos modelos em produção. Garantir o funcionamento dos modelos em produção é imprescindível para o momento da empresa pois os modelos tomam decisão no negócio.
+
+As soluções deverão ser organizadas e disciplinadas a ponto de gerar insight, retroalimentando novos modelos para melhor performance. O acompanhamento do desempenho dos modelos assim como a estabilidade das variáveis envolvidas é de grande importância e devem ser mantidas atualizadas de acordo com a frequência definida.
+
+Responsabilidades e Atribuições
+Ser responsável por configurar a infraestrutura de projetos escaláveis de aprendizado de máquina e modelos estatísticos;
+Implementar pipelines de MLOps de acordo com as melhores práticas de mercado, garantindo versionamento e funcionalidade robusta da solução;
+Trabalhar em conjunto com Cientista de Dados para projetar soluções end-to-end em projetos de IA;
+Colaborar com demais machine learning engineer com menos experiência;
+Experiência com ferramentas e abordagens de MLOps como MLFlow, Spark, Git, entre outros;
+Domínio de técnicas em conteinerização via Docker;
+Habilidades de desenvolvimento de software. Diferencial se tiver experiência com arquiteturas de microserviços;
+Familiaridade com ambientes Cloud, preferencialmente AWS / Azure;
+Experiência em processos de Devops, especialmente conceitos de CI/CD.
+
+Requisitos e Qualificações
+Pré-requisitos
+Superior completo em áreas correlatas a computação e/ou exatas;
+Experiência comprovada de 4 anos na área de MLOPs;
+Conhecimento de Cloud em AWS/Azure - Experiência com tecnologia de containers em cloud (AWS ECS/EKS, ECR, e/ou Azure AKS), Arquitetura Serverless (AWS Api Gateway, AWS Lambda e/ou Azure Functions);
+Conhecimento avançado em Python;
+Desejável: Experiência com o desenvolvimento e implementação de API’s (Flask, FastAPI);
+Desejável: Inglês - Nível Intermediário;
+Desejável: Mestrado ou pós-graduação em ciência da computação;
+Capacidade de comunicação com stakeholders não técnicos;
+Habilidade para traduzir requisitos de negócio em soluções técnicas.
+
+Diferencial
+Conhecimento em Kubernets;
+Conhecimento em Terraform.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+Pessoa Cientista de Dados SÊNIOR
+
+Local: Remoto
+
+Estamos em busca de uma Pessoa Cientista de Dados SÊNIOR com com ênfase em Generative AI para ingressar em nossa nave e juntos, decolar o foguete que impulsiona pessoas para inovar o mundo.
+
+E antes de apresentar a vaga, queremos te mostrar as razões para ser South System:
+
+As +350 pessoas do nosso time nos elegeram 2 vezes uma das melhores empresas para se trabalhar no país (GPTW) e nos deram 4.9 estrelas no Glassdoor e Indeed;
+Somos Talent Awards pelo LinkedIn;
+Somos Carbon neutral – contribuímos com a compensação das emissões de carbono;
+Estamos operando com oportunidades em home office e também com oportunidades híbridas;
+Contemplamos benefícios variados como.
+Acesso livre a plataforma de cursos Udemy com certificações exclusivas;
+Benefício de home office;
+Benefício de educação financeira;
+Cartão de benefícios flash.
+
+Nosso código de cultura é norteado por atitudes e práticas que fazem parte do nosso dia a dia:
+
+Apoio e incentivo ao crescimento e desenvolvimento das pessoas;
+Respeito, lealdade, colaboração e engajamento fazem parte do nosso DNA, cultivamos um ambiente seguro para todos;
+Somos diversos e acreditamos no poder da inclusão e da diversidade dos times;
+Unimos pessoas e inovação para prover soluções de TI.
+Amamos nosso planeta e queremos fazer dele um lugar melhor para as próximas gerações por isso cultivamos diversas ações de sustentabilidade;
+Mantemos e apoiamos ações sociais.
+
+Agora, vamos falar dessa oportunidade!
+
+Nossos profissionais atuam em projetos alocados em clientes, ou projetos de fábrica, e todos têm acompanhamento das nossas Business Partners, com suporte especializado para que tenham um bom desempenho e progresso de carreira. Nossas Squads são multidisciplinares disponíveis de forma global. Esta oportunidade é para um cliente no segmento financeiro.
+
+As principais atribuições da posição incluem:
+
+Construir chatbots/copilots no Microsoft Copilot Studio integrando Azure 
+OpenAI.
+Desenvolver fluxos de RAG, funções e ferramentas para agentes de IA.
+Expor serviços via REST/gRPC e integrar com sistemas legados.
+Automatizar testes e deploys contínuos em pipelines de MLOps.
+Refinar prompts, embeddings e controles de qualidade/segurança das 
+respostas.
+Colaborar com arquiteto e QA para garantir aderência a requisitos de negócio.
+
+Os requisitos para a vaga incluem:
+
+Bacharelado em Computação, Engenharias ou áreas correlatas; cursos em IA 
+Generativa ou desenvolvimento cloud são diferenciais.
+Forte em Python e JavaScript/TypeScript; experiência com Azure Functions ou 
+Containers Apps.
+Prática em Copilot Studio, LangChain/LlamaIndex, Cognitive Search e Vector 
+Stores (Faiss, Redis, Pinecone).
+Experiência com Git, CI/CD e testes automatizados.
+Certificações diferenciais: Power Platform Developer (PL-400), Azure AI 
+Engineer (AI-102).
+Soft skills: mentalidade maker, colaboração, curiosidade por novas técnicas, 
+atenção a segurança.
+
+Estamos em busca de um profissional proativo, que tenha paixão por tecnologia e que esteja disposto a contribuir para o crescimento e a inovação.
+
+Junte-se a nós e ajude a impulsionar e transformar o mundo!
+
+Experiência e competências desejadas
+MLOps
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Desenvolvedora Machine Learning II (Redes 5G)
+
+Sobre a vaga
+O Inatel está recrutando Especialista com sólidos conhecimentos em Redes 5G, para atuar em projeto de desenvolvimento na área de Machine Learning. Este profissional fará parte de uma equipe multidisciplinar, focada em desenvolver soluções inovadoras que alavanquem o potencial das redes 5G aplicadas à inteligência artificial e análise de dados, no ICC PDI SW.
+
+Responsabilidades e atribuições
+
+Desenvolver modelos estatísticos e de aprendizado de máquina usando técnicas modernas de Ciência de Dados e Machine Learning;
+Desenvolver aplicações para plataformas que podem envolver IA/ML;
+Familiaridade com infraestrutura e arquitetura de redes, especialmente com foco em ambientes de redes móveis e 5G;
+Conceber soluções inovadoras para plataformas Network as a Service (NaaS);
+Realizar estudos e análises de estruturas, dados, plataformas e ferramentas de IA/ML;
+Elaborar documentação técnica sobre as soluções propostas/adotadas;
+Conhecimento profundo sobre arquiteturas de redes 5G e suas particularidades, como baixa latência, alta velocidade e edge computing;
+Prover suporte ao time de QA;
+Revisar código desenvolvido conforme boas práticas da tecnologia;
+Familiaridade com infraestrutura e arquitetura de redes, especialmente com foco em ambientes de redes móveis e 5G;
+Elaborar documentação técnica;
+Atuar como agente multiplicador de conhecimentos, prestando suporte técnico a seus pares.
+
+Requisitos e qualificações
+Ensino Superior completo, preferencialmente na área de tecnologia ou exatas;
+
+Experiência em:
+Linguagem de programação Python ou Go;
+Métodos estatísticos para análise de dados;
+Desenvolvimento de algoritmos de Machine Learning/Deep Learning;
+Arquitetura em microserviços;
+Desenvolvimento de aplicações web modernas;
+Banco de dados de alto volume (relacional, não relacional, data lake ou data warehouse);
+
+Conhecimentos em:
+Keras, PyTorch e TensorFlow
+MLOps;
+Plataformas Cloud (AWS ou Azure);
+CI/CD;
+Melhores práticas de desenvolvimento;
+Metodologias ágeis.
+
+Seria interessante se você tivesse ou soubesse:
+
+Conhecimento em soluções SDN;
+Prática em projetos com equipes multidisciplinares;
+Experiência em aplicações que demandem processamento de borda em tempo real, utilizando 5G;
+Conhecimento em: Big Data, Data Science, gRPC, banco de dados temporal e mock de dados;
+Inglês avançado para leitura e escrita e intermediário para conversação.
+
+Informações adicionais
+
+Horário de trabalho: Segunda a sexta das 08h às 12h e das 13h30 às 17h30
+Local de trabalho: As atividades serão executadas em formato de Teletrabalho "Home Office".
+-----------------------------------------------------------------------------------

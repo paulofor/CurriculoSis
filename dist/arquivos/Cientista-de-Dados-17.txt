@@ -1,0 +1,362 @@
+[Oportunidade 1]
+Oportunidade: Senior Machine Learning Engineer
+
+Sobre a vaga
+About The Role
+
+The RealReal is the world’s largest authenticated luxury resale marketplace. We partner with our 34M+ buyers and consignors to build a more sustainable future for fashion, and that starts with our employees. If you want to be a part of building a more sustainable world, and are passionate about applying your machine learning and AI skills to delight our customers, we’d love for you to join our dynamic team!The Senior Machine Learning Engineer owns the development and deployment of machine learning solutions and influences the technical direction of their team. They will work closely with Product and Engineering partners in the development of the solution.
+
+What You Get To Do Every Day
+
+Lead the development and deployment of Machine Learning solutions to solve business problems.
+Develop and maintain clean, efficient, and scalable code that meets industry standards.
+Analyze large datasets to extract actionable insights and make informed decisions.
+Employ state-of-the-art Machine Learning methodologies and frameworks to develop robust and scalable models.
+Influence technical direction and take ownership of key components of systems and solutions, ensuring that they meet the needs of the business.
+Collaborate with key stakeholders in the development of data-driven solutions and deployable products. 
+Mentor junior team members to help establish team domain expertise.
+Contribute to the company’s intellectual property and technical leadership through patents and publications at top-tier conferences and journals.
+
+What You Bring To The Role
+
+Minimum Requirements:
+
+5+ years of industry experience in applied Machine Learning
+Masters Degree or PhD in CS / ML or related field
+3+ years experience in building, deploying, and managing machine learning and deep learning models in production environments at scale
+Deep understanding of ML best practices (A/B testing, training/serving pipelines, feature engineering etc), algorithms/techniques (gradient boosting, deep neural networks, optimization, regularization), and experiment design
+Experience in at least one of these domains: price estimation, personalization, recommender systems, computer vision, fraud detection and authentication, marketing
+Extensive experience in scientific libraries in Python (numpy, pandas) and Machine Learning tools and frameworks (Scikit-Learn, Tensorflow, Keras, PyTorch)
+Strong data engineering skills and experience working with large scale datasets
+Experience with big data tools (Apache Beam, Apache Kafka, Spark)
+Experience with cloud technologies AWS, GCP or Azure
+Fluency in Python, SQL
+
+Preferred Requirements:
+
+PhD preferred (CS, ML, AI or related field)
+Background in applying ML techniques to solve real-world business problems in the retail sector.
+Familiarity with MLOps tools and pipelines.
+Impact-focused and passionate about delivering high-quality models.
+Demonstrated leadership experience, with the ability to lead and inspire a team.
+
+Compensation, Benefits, + Perks
+
+This role is not eligible for benefits.
+
+The RealReal is the world’s largest online marketplace for authenticated, resale luxury goods, with more than 30 million members. With a rigorous authentication process overseen by experts, The RealReal provides a safe and reliable platform for consumers to buy and sell their luxury items. We have hundreds of in-house gemologists, horologists and brand authenticators who inspect thousands of items each day. As a sustainable company, we give new life to pieces by thousands of brands across numerous categories—including women's and men's fashion, fine jewelry and watches, art and home—in support of the circular economy. We make selling effortless with free virtual appointments, in-home pickup, drop-off and direct shipping. We do all of the work for consignors, including authenticating, using AI and machine learning to determine optimal pricing, photographing and listing their items, as well as handling shipping and customer service. At our 13 retail locations, including our twelve shoppable stores, customers can sell, meet with our experts and receive free valuations.
+
+The RealReal is committed to providing an equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or Veteran status. We will consider qualified applicants for a position regardless of arrest or conviction records. At TRR, People Come First. That’s why diversity and inclusion are vital to our priorities as an equal opportunity employer. You can read about our Diversity Equity and Inclusion program here.
+
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The employee is regularly required to sit; use hands to finger, handle, or feel and talk or hear. The employee is occasionally required to stand; walk; reach with hands and arms; climb or balance; stoop, kneel, crouch, or crawl; and taste or smell. The employee must occasionally lift and/or move up to 10 pounds. Specific vision abilities required by this job include close vision. The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Machine Learning Engineer
+
+Sobre a vaga
+
+Description
+
+We are in search of a seasoned Senior Machine Learning Engineer to join our remote team. As part of our team, you'll be required to design and establish standardized procedures for building, deploying, and overseeing Machine Learning systems rapidly and reliably. You'll also be tasked with providing leadership in defining and implementing tools and strategies that align with internal and external stakeholders.
+
+Responsibilities
+
+Contribute to the refinement, establishment, and operational lifecycle of ML pipelines using industry best practices
+Design, create, maintain, troubleshoot, and enhance steps in ML pipelines
+Own and contribute to the design and execution of ML prediction endpoints
+Collaborate with System Engineers to establish an ML lifecycle management environment
+Draft specifications, documentation, and user guides for developed applications
+Support the enhancement of coding practices and organization of scientific work cycle repositories
+Set up pipelines for different projects
+Regularly identify technical risks and gaps and formulate risk mitigation strategies
+Collaborate with data scientists to transition predictive models into production, creating scalable data preparation pipelines, and understanding model scopes and purposes
+
+
+Requirements
+
+Minimum of 3 years of experience as a Machine Learning Engineer or in a similar capacity
+Strong proficiency in programming languages, particularly Python
+Solid grasp of Data Science principles and Machine Learning Engineering model creation experience
+Expertise in Engineering Best Practices
+Comprehensive understanding of Machine Learning fundamentals
+Hands-on experience implementing Data Products using technologies like the Apache Spark Ecosystem (Spark SQL, MLlib/Spark ML) or equivalent technologies
+Experience with Big Data technologies such as Hadoop, Spark, Kafka, Cassandra, GCP BigQuery, AWS Redshift, Apache Beam, etc
+Experience with automated data pipeline and workflow management tools like Airflow, Argo Workflow, etc
+Familiarity with different data processing paradigms (batch, micro-batch, streaming)
+Practical experience with one or more major Cloud Providers such as AWS, GCP, or Azure
+Experience with at least one MLOps-related platform/technology such as AWS SageMaker, Azure ML, GCP Vertex AI/AI Platform, Databricks MLOps-related tools/technologies like MLFlow, Kubeflow, TensorFlow Extended (TFX)
+Experience integrating ML models into complicated data-driven systems in a production environment
+Fluent in English with a B2+ level
+
+
+Nice to have
+
+AWS, GCP, or Azure Certified would be a significant advantage
+Aptitude for rapidly adapting and applying new technologies
+Experience in a startup/environment, demonstrating the ability to deal with ambiguity
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Fops and Project Senior Contract Specialist
+
+Sobre a vaga
+Profil du candidat 
+
+C&P Competencies:
+
+ Advanced Contracts and Purchasing Technical Competencies required
+ Basic or intermediate on other technical competencies
+
+
+Qualification and Background:
+
+ Typically, a University degree in Law, Quantity Surveying, Engineering or relevant business area, ideally with a post-graduate qualification in a complementary area
+ Ideally a professional qualification (or working towards) in Procurement, Surveying or other relevant profession.
+ Knowledge & understanding of procurement processes including ethical principles; bidder prequalification; invitation to tender; comparative evaluation of contractors; & award, claims management, administration, amendment & close out of contracts
+ At least 5 years practical experience in preparation, negotiation and administration of complex projects contracts, preferably in the offshore oil industry
+ General knowledge & understanding of the technologies utilised by oil and gas operators and packages like SURF, Topsides and FPSO´s in general.
+ Demonstrable professional knowledge & understanding of commercial, legal and insurance issues affecting the Company in general, & “in depth” understanding where relevant to contracts for works, goods & services.
+ Demonstrable experience in drafting & administration of EPC, EPIC, & EPSCC type contracts.
+ Good knowledge & understanding of different means of contractor remuneration & their commercial implications, practical experience of their use, & sound ability to select & draft appropriate provisions.
+ General knowledge & understanding of Company’s business functions, with “in depth” understanding of the Contracts function & how it adds value, and a commitment to deliver added value
+ Proficient in English. Fluent in Portuguese.
+ Ability to work in a Project environment and go above and beyond to deliver the project deadlines.
+
+
+ Activités 
+
+The job holder main activities are:
+
+ Focal point for Field Operations (except FPSO Contracts);
+ Establishment of the FEED, EPSCC, EPCI, EPFS, LOF, L&O and various minor contracts and amendments;
+ Validate or ensure validation of all the all contractual documents and formal letters issues by the contracts;
+ Define contracting strategy with ‘Duet’ counterpart in to serve & protect Company’s best commercial interest;
+ Propose, pre-qualify & recommend suitable contractors/suppliers for bid lists to maximise tendering efficiency;
+ Compile issue and administer ‘Invitation to Tender’ packages to procure the most realistic and commercially attractive proposals from potential contractors/suppliers. (This includes reviewing and compiling the technical part of the ITT package based on input received from Technician & providing commercially relevant advice);
+ Draft appropriate contractual and commercial terms & conditions to best serve & protect Company’s interests;
+ Review bids, participate in contractual & commercial clarifications & negotiations, prepare all the associated documents such as presentations, minutes of meetings, contractual & commercial qualifications log, draft Recommendation to Award, finalize the Contract, administer the award of contracts, change/variation orders, contract amendments, claims and all associated correspondence;
+ Review and consider legal aspects associated with contract award & administration, liaising with the Legal Department, providing advice to clients as appropriate & assisting as appropriate in settlement of law suits;
+ File contractual documentation and correspondence in a logical, organized and auditable manner;
+ Ensure all proper contractual certificates, bonds, guarantees and insurance required under contract portfolio are in place on time;
+ Prepare various contractual certificates (i.e. Milestone Certificates, Provisional Acceptance Certificate, Final Acceptance Certificate), which are required to be issued by Company to Contractor in accordance to the contract;
+ Review Change Order Requests, draft Change Order Instructions, negotiate and administer change orders initiated by Company or Contractor and contract amendments;
+ Participate in weekly meetings with suppliers/contractors providing general assistance and advice on contractual and procurement matters as required to support the project’s activities;
+ Provide input to cost with potential changes and actual changes throughout the project - Perform contractual activities using tools such as SAP, e-Sourcing, Agora, etc;
+ Embedding a culture of continuous improvement with responsibility for ensuring the sharing of lessons learned and best practice;
+ Perform all contracting activities in compliance with Company policies & procedures and Brazilian legislation;
+ Facilitate any meetings required to conduct the activities of the job;
+
+
+The Job holder manages the Compliance:
+
+ Verify that company’s Contractual and Purchasing Policies and applicable laws and regulations are adhered to, especially related to ethic and transparency;
+ Verify that procurement documents and procedures comply with the standards of the company and the agreements with the partners;
+ Ensure the application and respect of the procedures in the tender process;
+ Ensure the application of TEPBR General Terms and Conditions for purchase of equipments especially as it concerns complex, high value, - high risk equipment;
+
+
+The Job holder adheres to the HSSE rules:
+
+ The employee shall perform his/her activities in compliance with the HSE Management System, aligned with One Maestro Principles and oriented to safeguard the integrity of people, the environment and Company’s assets and reputation;
+ Set a personal example in adherence to TEPBR HSE procedures;
+ Raise awareness and provide guidance in directing employees under their supervision with regard to the execution of the HSE rules, both for Company Staff and suppliers without detracting from Contractor's legal obligations;
+ Assure themselves and the persons under their supervision of the safety of the workplace to avoid danger to persons, installations and avoid impact to the environment;
+ Maintain the means for personal protection and safety emergency procedures;
+ Conduct regular inspections and report any incidents (Anomaly, unsafe acts, near miss, damage, spill, injury, etc...);
+ Notify relevant staff on accidents, incidents and near-misses and initiating corrective actions;
+
+
+Accountable:
+
+ To prepare, negotiate, award and administrate contracts/purchase orders for works/goods/services in such a manner as to ensure the Company’s best commercial interests are both served and protected;
+ To conduct the job in a way that best optimizes Company’s HSEQ performance, reputation & profitability and in strict compliance with the highest standards of business ethics;
+ To be compliant with the requirements of the Company Management System (‘CMS’), relevant to the job, reporting any non-conformities to line management;
+
+
+The job holder will ensure that:
+
+ Company rules are followed or derogated for;
+ General Specifications, Guidelines and Manuals are taken into account;
+ Metrics and KPIs are observed, monitored and properly reported;
+ Will act as the Project & Subsea Contract Lead when required;
+
+
+ Contexte et environnement 
+
+Newly Producing subsidiary with exploration/appraisal/development phases on operated assets. Projects are predominately on LAPA (Production, Projects & Appraisal Drilling) and CM 541 (exploration drilling with potential to progress to appraisal drilling)
+
+ High cost environment with stringent local regulations;
+ Deep water / Ultra-deepwater context;
+ Taking over an existing facility operated by third party;
+ New Infrastructures o Contractual Assistance to Assets Operated by Others (OBO);
+ High level of technical risks due to the operational costs;
+ High level of performance objectives;
+ Team work within a lean structure;
+ Relation with state authorities/regulators if applicable;
+
+
+The job holder works in a multidisciplinary contracts environment (exploration, drilling, development, work in sea and land) in an international environment and in a strong local content environment all at once. Lack or untimely delivery of materials or services whatever its value may have important production and financial consequences.
+
+Job Dimensions:
+
+The job holder is part of the Project Contracts team of TotalEnergies EP Brasil (affiliate with high complexity)
+
+Annual turnover purchasing: 500 – 700 MUSD
+
+Global contract value: > 1.5 BUSD
+
+Number of Materials items in stock > 2000
+
+Number of import files/year: > 50
+
+Number of staff in C&P: 18
+
+The Job holder’s dimensions are as below:
+
+Global contract value: > 200 MUSD
+
+Number of import files/year: > 20
+
+Number of Purchase Orders /Year: >5 000
+
+Number of contracts /Year: > 200
+
+Stock value: >50 MUSD
+
+Number of suppliers: >60
+
+Number of staff in TEPBr: ~350
+
+Number of contracts /Year: 3 to 7 depending on complexity
+
+Project phase Number of suppliers: >10
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você. Afinal, It’s yours to build.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Cientista de Vagas Pleno você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de dados voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Formação: - Ciências da Computação, Ciência de Dados, Tecnologia da Informação, Engenharia, Matemática, Estatística e/ou formações em áreas correlatas; Pós-graduação/MBA: na área de tecnologia.
+Conhecimento em Aprendizado de Máquina (ML): É necessário que o candidato entenda técnicas de ML, como regressão, classificação, agrupamento e processamento de linguagem natural (PLN). 
+Jupyter Notebooks: A familiaridade com Jupyter Notebooks é crucial, já que é uma ferramenta amplamente utilizada por nossa equipe para prototipagem, experimentação e documentação de modelos. 
+Habilidades em SQL e Hive: Espera-se que o candidato possa elaborar consultas SQL complexas e possua conhecimento em Hive para manipular dados no Hadoop. 
+Ferramentas de Visualização de Dados: É preferível ter experiência com ferramentas como Hue para a visualização e análise de dados. 
+Bancos de Dados Relacionais: O candidato deve ter familiaridade com bancos de dados relacionais e competência para otimizar consultas. 
+Erwin: A experiência com a ferramenta de modelagem de dados Erwin será considerada um diferencial. 
+Comunicação e Colaboração: O candidato precisa ter habilidade para trabalhar em grupo, comunicar claramente os resultados das análises e cooperar com os demais integrantes da equipe.
+
+Requisito Desejável:
+
+Certificados de treinamento em ciência de dados são desejáveis.
+Erwin - experiência com a ferramenta de modelagem de dados Erwin será considerada um diferencial.
+
+Requisitos Mandatórios:
+
+Experiencia em trabalhos com Ciência de Dados, Machine Learning, Estatística e Analise de dados.
+Python, SQL, Pandas, Scikit-Learn, Data Science (Modelagem de modelos supervisionados e não supervisionados)
+
+Principais responsabilidades:
+
+Desenvolvimento de modelos de machine leaning e estudos usando tecnica de ciência de dados
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Sr. Machine Learning Engineer - IBP
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Actively contribute to code development in projects and services, leading and coaching ML engineers and data scientists.
+Act as a contributor in innovation activities.
+Work with data scientists, IBP process leads, and BU subject matter experts to identify data clusters for optimal forecasting performance.
+Partner with data scientists on discovery, prototypes, and pilot projects, focusing on experiment tracking and translating business models to ML/statistical models.
+Collaborate with IBP market deploy and sustain teams to design, implement, and test pre-processing and post-processing modules for improved demand forecasts.
+Work with data engineers to ensure proper data access and preparation for model consumption.
+Partner with ML engineers and data scientists on industrialization efforts.
+Drive the use of the Platform toolset and demonstrate 'the art of the possible' to the business.
+Communicate with business stakeholders during service design, training, and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Research state-of-the-art methodologies and techniques for feature engineering and model data preprocessing.
+
+Qualifications
+
+What you will need to succeed
+
+4+ years working in a team to deliver production level analytic solutions - Fluent in git (version control) and with Docker.
+4+ years’ experience in ETL and/or data wrangling techniques - Fluent in SQL syntaxis.
+4+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. 
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or Scala development.
+Effective business storytelling and communicating data insights in business consumable format - Fluent in one Visualization tool.
+Experience with Agile methodology for team work and analytics ‘product’ creation - Fluent in Jira, Confluence.
+On-the-job experience with Azure cloud services is essential.
+
+Additional qualifications that will make you stand out for this position
+
+Experiences with Deep Learning are a plus.
+experience building solutions in the revenue management or in the supply chain space.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------

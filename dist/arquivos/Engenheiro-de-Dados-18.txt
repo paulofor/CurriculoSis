@@ -1,0 +1,280 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro (a) de IA Trabalho Remoto Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+Você já pensou em trabalhar em uma empresa que surgiu para fazer diferente e ser uma nova forma de pensar em seguros?
+
+Somos uma seguradora versátil e moderna, que oferece respostas sob medida de maneira simples, justas e transparentes.
+
+Construiremos o amanhã e caminharemos lado a lado. E faremos isso juntos, pois acreditamos no poder transformador das pessoas.
+
+Tudo isso para ver gente realizada cuidando dos nossos produtos e soluções. Fazemos tudo para que nossos clientes possam fazer mais!
+
+Se você deseja trabalhar em uma empresa que sempre está desenvolvendo soluções inovadoras em um mercado cheio de oportunidades, junte-se ao nosso time de Akadians e tenha a experiência de escrever a história conosco!
+
+Somos uma empresa aberta para todas as pessoas. Trabalhamos em um ambiente que estimula novas ideias, o compartilhamento de experiências e valoriza a pluralidade e diversidade.
+
+Aqui, nos sentimos à vontade para sermos nós mesmos!
+
+Responsabilidades e atribuições
+
+Quais são as principais atividades dessa vaga? 
+
+Liderar o desenvolvimento e implementação de soluções de IA, com ênfase em LLMs
+Conduzir pesquisas e implementar as mais recentes técnicas em IA e processamento de linguagem natural
+Colaborar com equipes multidisciplinares para identificar oportunidades de aplicação de IA em nossos produtos
+Realizar análises pontuais para entendimento do negócio, descoberta de insights e auxílio em processos de tomada de decisão
+Ser referência e exercer um papel de mentor de engenheiros juniores, compartilhando conhecimentos sobre melhores práticas em IA e desenvolvimento de software
+
+Requisitos e qualificações
+
+O que você precisa ter?
+
+Experiência comprovada e de alto impacto como Engenheiro de IA ou Cientista de Dados
+Domínio avançado de Python e SQL
+Domínio das bibliotecas NumPy e Pandas para manipulação e análise de dados
+Experiência com implementação de modelos de IA em produção (aprendizado supervisionado e não supervisionado, principalmente)
+Proficiência em pelo menos um framework de deep learning (PyTorch ou TensorFlow)
+Experiência prática comprovada no uso de LLMs (como GPT, Llama ou Claude) via APIs em produtos de software
+Habilidade para projetar e implementar arquiteturas de software escaláveis e eficientes
+Experiência com serviços AWS (ex.: EC2, EMR, Lambda)
+Experiência com ferramentas de desenvolvimento como Git e Docker
+Excelentes habilidades de comunicação e capacidade de trabalhar efetivamente em equipes multidisciplinares, traduzindo requisitos de negócios em soluções técnicas
+Ter interesse em trabalhar com autonomia e foco em resultados concretos, em um ambiente que valoriza melhoria contínua
+Ser curioso e ter interesse em se envolver com uma variedade de desafios distintos que envolvem dados
+
+Será Um Diferencial
+
+Familiaridade com técnicas de MLOps/LLMOps e CI/CD para soluções de IA
+Publicações ou contribuições para projetos open-source relacionados a IA ou LLMs
+Experiência prática com inferência causal
+Experiência em seguros
+
+Informações adicionais
+
+O que oferecemos?
+
+Oportunidade de carreira e desenvolvimento;
+Um time de excelência técnica, focado na melhoria contínua e inovação;
+Programa de participação nos resultados atrelado a sua performance individual;
+Benefícios diferenciados;
+Ambiente de trabalho leve, descontraído e flexível;
+Modelo de trabalho 100% Remoto
+Liberdade para ser você mesmo.
+
+Se identificou? Então venha ser um Akadian e se candidate nessa vaga!😊
+
+Boa Sorte!
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Bate papo com a equipe de Gente e Gestão2Bate papo com a equipe de Gente e Gestão
+Etapa 3: Entrevista com a Liderança3Entrevista com a Liderança
+Etapa 4: Entrevista CTO4Entrevista CTO
+Etapa 5: Contratação5Contratação
+
+Conheça mais sobre a Akad
+
+Viemos para fazer diferente e somos uma nova forma de pensar em seguros!
+
+Evoluímos a passos firmes em uma nova direção e miramos no mesmo propósito, que é o resultado com segurança.
+
+Somos uma seguradora versátil e moderna, que oferece respostas sob medida de maneira simples, justas e transparentes.
+
+Entendemos as necessidades dos nossos clientes e antecipamos as possibilidades para garantir o cuidado. Visualizamos o amanhã melhor que ontem e pensamos em como enfrentar os obstáculos que nossos clientes ainda não sabem que possam surgir.
+
+Somos líderes em nossas especialidades e nos atentamos ao que é mais importante: o respeito. Com você, com nossos corretores, segurados e parceiros.
+
+Construiremos o amanhã e caminharemos lado a lado. E faremos isso juntos, pois acreditamos no poder transformador das pessoas.
+
+Somos os construtores diários de uma empresa melhor para se trabalhar e movidos pelos nossos valores organizacionais:
+
+Ser humano acima de tudo
+Construa o amanhã hoje
+Cultive lideranças
+Crie coisas de fora para dentro
+Confie no poder da transparência
+Somos todos donos
+
+Nosso Propósito: A gente ajuda quem faz. We empower the makers.
+
+Nossa Missão: Construir relações de confiança através da oferta de seguros simples, justa e personalizada.
+
+Nossa Visão: Ser reconhecida como a seguradora mais inovadora do Brasil até 2024.
+
+Tudo isso para ver gente realizada cuidando dos nossos produtos e soluções. Fazemos tudo para que nossos clientes possam fazer mais!
+
+Venha fazer parte dessa equipe! Juntos somos um time mais completo!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Lead Software Engineering – SRE (Bangkok-based, Relocation Provided)
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know our Team: 
+
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+The Opportunity:
+
+Lead Software Engineer in SRE is a part of data team who developing solutions for analytic production incidents, we are working close with our DevOps engineers, NOC, QA, and service owners to improve system reliability with an emphasis on safe deployment and monitoring with anomaly detection technique.
+
+In this Role, you’ll get to:
+
+Help establish and apply SRE best practices, standards and policies in hybrid cloud environments with hybrid workloads where both VMs and containers are used
+Develop systems to prevent outages through automatic detection and remediation
+Increase observability of system health to improve availability and system uptime
+Providing guidance and expertise to the team
+Influence, design and create new architectures, standards and methods for large-scale enterprise systems
+Document and present methodologies to operations, engineering and executive teams
+Coach and develop software engineers, looks for opportunities to improve both technical and people through highly effective 1-1s and growth plans
+
+What You’ll Need to Succeed:
+
+Bachelor’s degree in Information Systems/Engineering/related field
+4+ years in a technical role supporting IT products
+Ability to multitask and pivot when necessary in a fast-paced environment
+Hands-on experience with the whole SDLC: Requirement, Design, Code, Test, Deploy
+Deep understanding of computer networks
+Proficient in at least one programming language (e.g. Ruby, JavaScript/NodeJS, Python)
+Understanding of VMs, docker/rkt containers and their applications, K8s, private cloud knowledge is plus
+Hands-on experience designing and implementing monitoring and alerting systems
+Experience in Data platforms like SQL or Hadoop
+Excellent verbal and written English communication skills
+Incident management process, analytical problem-solving capabilities & experience & can lead the incident
+Can do attitude (sometime we build news thing)
+Data driven & Data analyze skill, we move forward using data
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #budapest #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #osaka #malta #amsterdam #oslo #warsaw #krakow #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4 #bangalore #delhi #hyderabad #pune #singapore #beijing #shanghai #shenzhen #tokyo #seoul #hongkong #taipei #kualalumpur #jakarta #hochiminh #hochiminhcity #manila #instanbul #makati #dubai #riyadh #gurgaon #noida #india
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Visagio Talentos - Formados: Engenheiro(a) de Dados [Remoto / Híbrido]
+
+Sobre a vaga
+Destinado à graduados nos cursos de Ciência da Computação, Engenharias, Sistemas de Informação e afins, que desejam se desenvolver especificamente na área de Engenharia de Dados.
+
+Nossa equipe atua em contextos variados, sempre com o objetivo de aprimorar a tomada de decisões e a eficiência operacional através do uso inteligente e inovador dos dados.
+
+Responsabilidades e atribuições
+
+Atuar na modelagem, coleta, limpeza e transformação de dados provenientes de diversas fontes;
+Suportar a construção e manutenção de pipelines de dados utilizando ferramentas de ETL;
+Participar da modelagem de dados para soluções de GenAI, estruturando dados para algoritmos de aprendizado de máquina;
+Colaborar com equipes multidisciplinares para entender e atender às necessidades de dados do negócio;
+Participar da criação e otimização de bancos de dados, data lakes e data warehouses;
+Apoiar na definição e implementação de arquitetura de dados que suportem as necessidades dos clientes;
+Ajudar na implementação de políticas de governança de dados para garantir a qualidade, segurança e integridade dos dados;
+Contribuir para a documentação dos processos e fluxos de dados.
+
+
+Requisitos e qualificações
+
+Pessoas graduadas nos cursos de Ciência da Computação, Engenharias, Sistemas de Informação e afins;
+Estamos buscando pessoas com ou sem experiência, então fique tranquilo, nosso time está aqui para lhe ajudar na formação ;)
+Desejável conhecimento básico em metodologias ágeis, padrões de projeto e arquitetura de sistemas;
+Dado que atuamos em diferentes clientes e ambientes, não há nenhum requisito mínimo de conhecimento de stack, mas é desejável conhecimento básico em pelo menos uma linguagem de programação (ex: C#, Kotlin, Ruby, etc.) e framework (ex: .NET, SpringBoot, Rails, etc.)
+
+
+Informações adicionais
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de dados Especialista
+
+Sobre a vaga
+Sobre nós
+
+A Reply é uma multinacional italiana líder no mercado de TI europeu, hoje com presença em 17 países e mais de 10.000 Replyers apaixonados por inovação e pelo trabalho em equipe. Atuamos com integração de sistemas, soluções em gestão de excelência e consultoria especializada em TI. Nossos esforços são direcionados ao incentivo do sucesso do cliente através da excelência da entrega. Atuamos com diversas soluções no mercado, entre Machine Learning, Inteligência Artificial, Industria 4.0 e soluções em Cloud.
+
+Na Reply valorizamos a inclusão e diversidade em toda a sua multiplicidade.
+
+Sobre a Vaga
+
+Atuação REMOTA!!
+
+Buscamos um especialista que possua conhecimento especializado em áreas específicas da engenharia de dados, como modelagem de dados, ETL (Extract, Transform, Load), ferramentas de big data.
+
+Atuar em uma arquitetura de sistemas distribuídos para o processamento de dados massivos em paralelo (MPP), combinando diversas fontes de dados heterogêneas e colaborando com equipes de análise e ciência de dados na construção de soluções e geração de valor baseadas em dados.
+
+Será responsável pela implementação de soluções técnicas detalhadas e específicas dentro de um projeto de dados.
+
+Trabalhará de perto com equipes de desenvolvimento, cientistas de dados e outros stakeholders para entender e atender às necessidades de dados.
+
+Hard Skllis
+
+Experiência prática sólida com ingestão, integração, processamento e armazenamento de grandes volumes de dados; Atuação em projetos de Big Data; Extração de dados em Python e processamento de dados com PySpark Experiências em ferramentas ETL's; Conhecimento em modelagem de dados relacionais e dimensionais (Data WareHouse); Experiência com bancos de dados SQL; Experiência com conjunto de ferramentas relacionadas a Big Data na AWS como: EMR, Kinesis, RedShift, S3, Glue, ElasticSearch;
+
+Desejável/ Diferencial
+
+Certificações AWS. Conhecimento em ferramentas de provisionamento de infraestrutura em cloud via código tais como: Terraform, CloudFormation; Experiência com liderança técnica
+
+Soft Skills
+
+Pessoa auto gerenciável, colaborativa Pro atividade e senso de urgência Habilidade na identificação de problemas e disponibilização de soluções
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Software Engineer – Back End (Bangkok based – Relocation provided)
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+ Get to Know our Team 
+
+In Agoda’s Back-End Engineering department, we build scalable, fault-tolerant systems and APIs that host our core business logic. Our systems cover all major areas of our business: inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, and more. We employ state-of-the-art CI/CD and testing techniques to ensure everything works without downtime. Our systems are self-healing, responding gracefully to extreme loads or unexpected input. We use modern languages like Kotlin and Scala, Data technologies Kafka, Spark, MLflow, Kubeflow, VastStorage, StarRocks and agile development practices. Most importantly, we hire great people from around the world and empower them to be successful.
+
+ The Opportunity 
+
+Agoda Platform team is looking for developers to work on mission-critical systems that serve millions of users daily. You will have the chance to work on innovative projects, using cutting-edge technologies, and make a significant impact on our business and the travel industry.
+
+What You’ll Need To Succeed
+
+ 5+ years of experience developing performance-critical applications in a production environment using Scala, Java, Kotlin, C#, Go or relevant modern programming languages. 
+ Strong RDBMS knowledge (SQL Server, Oracle, MySQL, or other). 
+ Ability to design and implement scalable architectures 
+ Deeply involved in hands-on coding, developing and maintaining high-quality software solutions on a daily basis 
+ Good command of the English language. 
+ Engages in cross-team collaborations to ensure cohesive solutions 
+ Implement advanced CI/CD pipelines and robust testing strategies to ensure seamless integration, deployment, and high code quality. 
+ Passion for software development and continuous improvement of your knowledge and skills. 
+
+ It’s Great if You Have 
+
+ Knowledge in NoSQL, Queueing systems (Kafka, RabbitMQ, ActiveMQ, MSMQ), and Play framework. 
+
+#newdelhi #Pune #Hyderabad #Bangalore #Mumbai #Bengaluru #Chennai #Kolkata #Lucknow #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #mexico #sydney #melbourne #toronto #vancouver #shanghai #beijing #shenzhen#estonia #paris #hongkong #budapest #jakarta #bali #kualalumpur #dublin #berlin #telaviv #milan #rome #tokyo #osaka #amsterdam #oslo #manila #warsaw #krakow #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #chiangmai #phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #hochimin #wroclaw #poznan #katowice #rio #salvador #dhaka #islamabad #IT #ENG #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+-----------------------------------------------------------------------------------

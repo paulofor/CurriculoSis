@@ -1,0 +1,256 @@
+[Oportunidade 1]
+Oportunidade: Engenharia de Software Sênior - Java Cloud
+
+Sobre a vaga
+Descrição da vaga
+
+O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 98 milhões de clientes em 18 países.
+
+Somos feitos de pessoas e acreditamos que ter um time com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das diferenças.
+
+Modelo de trabalho: Híbrido sem escala Metro Conceição São Paulo zona sul.
+
+Responsabilidades e atribuições
+Vem ser Ituber na comunidade de Cash Management!
+
+Ambiente de muita colaboração, trabalho em equipe, com muitos desafios e aprendizado constante. Atuação nos times da comunidade de Cash, comunidade integrada com negócios, productech!
+
+Estamos buscando uma pessoa para a posição de 792392, que queira se desenvolver e aprender, compartilhar, colaborar e inovar, entregando valor para todos os nossos clientes.
+
+Nessa função você vai:
+
+Estamos em busca de pessoas engenheiras de software que amam tecnologia, tem perfil de desenvolvedora e que querem protagonizar a evolução de uma plataforma que faz a diferença para milhares de clientes PJ todos os dias.
+
+A pessoa para essa posição deve ter conhecimento/familiaridade com melhores práticas de código e padrões de soluções em plataforma Cloud e Microsserviços. Também é necessária motivação para atuar em um contexto complexo, desafiador cujas aplicações são sistemas de missão crítica, que demandam alta disponibilidade e baixa latência.
+
+
+Requisitos e qualificações
+Nossa principal stack envolve:
+
+- Java/Spring Boot
+- Python
+- Cloud Computing (AWS -> ECS/EC2/S3/SNS/SQS/API Gateway/Lambda/Glue/RDS/Aurora/DynamoDB)
+- Infraestructure as Code (Terraform)
+- Mecanismos de Autenticação (OAuth/JWT/CIAM/OpenId/RBA)
+- Melhores práticas de Desenvolvimento de sistemas, Qualidade, DevOps, Observabilidade, Resiliência, Tolerância a Falhas, dados
+
+Plataforma modernizada AWS. Oportunidade de fazer parte da construção e evolução de uma plataforma que faz a diferença na vida dos nossos clientes PJ.
+
+
+Informações adicionais
+Ao se tornar um ituber você tem
+
+Vale-Transporte
+Vale-Refeição (Restaurantes) / Vale-Alimentação (Supermercados)
+Plano médico (Fundação Saúde Itaú ou Central Nacional Unimed)
+Plano odontológico (Odontoprev ou Interodonto)
+Seguro de Vida
+PLR – Participação nos Lucros e Resultados (Mediante resultados do banco)
+Previdência privada
+Descontos exclusivos em nossos produtos financeiros
+Licença maternidade e paternidade estendida
+Auxílio Creche / Babá (para papais e mamães)
+Incentivo a estudos
+Wellhub ou TotalPass
+Acesso aos Clubes de Lazer Itaú (Guarapiranga / Itanhaém e São Sebastião)
++ Algumas vantagens que você pode conhecer durante o processo 😊
+ Conheça mais sobre nossa cultura: https://www.itau.com.br/relacoes-com-investidores/noticias/cultura-itubers-e-nosso-novo-conjunto-de-valores/
+ *Estimulamos candidaturas de pessoas com deficiência em todas as nossas posições, sendo assim, sinta-se à vontade para se candidatar em vagas sinalizadas como exclusivas ou não para pessoas com deficiência. Somos comprometidos com a inclusão e valorizamos a diversidade.
+
+#VemProItaú #VemSerItuber
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Java Engineer - Work from home
+
+Sobre a vaga
+Explore the Nearsure experience!
+
+🌐 Join our close-knit LATAM remote team: Connect through fun activities like coffee breaks, tech talks, and games with your team-mates and management.
+
+🍃 Say goodbye to micromanagement! We champion autonomy, open communication, and respect for diversity as our core values.
+
+⚖️Your well-being matters: Our People Care team is here from day one to support you with everything from time-off requests to wellness check-ins.
+
+Plus, our Accounts Management team ensures smooth, effective client relationships, so you can focus on what you do best.
+
+Ready to grow with us? 🚀
+
+Here’s what we offer you by joining us!
+
+✨ Competitive USD salary 💲 – We value your skills and contributions!
+🌐 100% remote work 🏢 – While you can work from anywhere, you’re always welcome to connect with teammates and grow your network at our coworking spaces across LATAM!
+💼 Paid time off – Take the time you need according to your country’s regulations, all while receiving your full salary. Rest, recharge, and come back stronger!
+🎉 National Holidays celebrated 🌴 – Take time off to celebrate important events and traditions with loved ones, fully embracing your culture.
+😷 Sick leave – Focus on your health without the stress. Take the necessary time to recover and feel better.
+💸 Refundable Annual Credit – Spend it on the perks you love to enhance your work-life balance!
+🤝 Team-building activities – Join us for coffee breaks, tech talks, and after-work gatherings to bond with your Nearsure family and feel part of our vibrant community.
+🥳 Birthday day off 🎂 – Enjoy an extra day off during your birthday week to celebrate in style with friends and family!
+
+About the project:
+
+As a Senior Java Engineer, you will find and implement solutions for issues, create new software or applications by writing code, using visual development environments to debug, and ensure the technical architecture runs smoothly. A significant aspect of your job is to not only contribute your skills but also mentor other software engineers to improve their skills and productivity.
+
+How your day-to-day work will look like
+
+✅ Collaborate with product, design, and other business stakeholders to design and implement impactful product features to make the lives of our users easier.
+✅ Develop features and improvements to the client product in a secure, well-tested, and performant way.
+✅ Advocate for improvements to product quality, security, and performance.
+✅ Solve technical problems of moderate scope and complexity.
+✅ Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment.
+✅ Conduct architecture reviews and code reviews within our Code Review Guidelines and enforce best practices.
+✅ Keep up to date with emerging trends in software architecture and cloud infrastructure.
+✅ Recognize impediments to our efficiency as a team ("technical debt"), propose and implement solutions.
+✅ Design and architect microservices-based solutions using Java and related technologies.
+✅ Advocate for improvements to product quality, security, and performance.
+
+This would make you the ideal candidate
+
+✨ Bachelor's Degree in Computer Science, Engineering, or a related field.
+✨ 7+ Years of experience working in Software Development.
+✨ 5+ Years of experience working with Java.
+✨ 3+ Years of experience working in architectural design or working as a solutions architect.
+✨ 3+ Years of experience working with Distributed systems.
+✨ 3+ Years of experience working with Microservices.
+✨ 3+ Years of experience working with SQL (recent experience).
+✨ 1+ Years of experience working with Kotlin.
+✨ Knowledge of testing and security fundamentals, concurrency and transactional common issues and events.
+✨ Advanced English Level is required for this role as you will work with US clients. Effective communication in English is essential to deliver the best solutions to our clients and expand your horizons.
+
+What to expect from our hiring process
+
+1. Let’s chat about your experience!
+2. Impress our recruiters, and you’ll move on to a technical interview with our top developers.
+3. Nail that, and you’ll meet our client - your final step to joining our amazing team!
+
+🎯 At Nearsure, we’re dedicated to solving complex business challenges through cutting-edge technology and we believe in the power of tailored solutions. Whether you are passionate about transforming businesses with Generative AI, building innovative software products, or implementing comprehensive enterprise platform solutions, we invite you to be part of our dynamic team!
+
+We would love to hear from you if you are eager to make an impact and join a collaborative team that values creativity and expertise.
+
+Let’s work together to shape the future of technology! 
+
+🧑‍💻 Apply now! 
+
+By applying to this position, you authorize Nearsure to collect, store, transfer, and process your personal data in accordance with our Privacy Policy. For more information, please review our Privacy Policy. (https://www.nearsure.com/privacy-policy)
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor Inteligência Artificial jr/pleno
+
+Sobre a vaga
+Estamos em busca de um Desenvolvedor de IA apaixonado por tecnologia e inovação para se juntar à nossa equipe dinâmica. O profissional será responsável pelo desenvolvimento de plataformas digitais que integram soluções de inteligência artificial, com foco em processamento de linguagem natural (NLP), IA generativa e aprendizado de máquina. Se você possui experiência com as principais ferramentas e linguagens do setor e está disposto a enfrentar novos desafios, queremos conhecê-lo!
+
+Responsabilidades:
+- Projetar, desenvolver e implementar soluções de software utilizando tecnologias de inteligência artificial.
+- Trabalhar com algoritmos e técnicas específicas de IA, incluindo NLP e aprendizado de máquina.
+- Implementar soluções de IA utilizando linguagens de programação como Python, JavaScript/TypeScript/Node.js.
+- Utilizar frameworks de IA, como PyTorch, Scikit-Learn e Langchain, para desenvolver soluções escaláveis.
+- Implementar soluções de NLP com ferramentas como NLTK, spaCy e Hugging Face Transformers.
+- Realizar pré-processamento de texto, incluindo tokenização, criação de embeddings e remoção de stop words.
+- Trabalhar com Modelos de Linguagem de Grande Porte (LLMs), como GPT e Llama, aplicando melhores práticas de arquitetura de software.
+- Desenvolver aplicações web utilizando frameworks como FastAPI e React (NextJS).
+- Colaborar na implementação de soluções utilizando MLOps, Docker e Kubernetes para a implantação de modelos de IA.
+- Participar de processos de HAG (Hiper-Agilidade) para garantir entregas rápidas e eficientes.
+- Integrar e otimizar embeddings para melhorar a performance das soluções de IA.
+
+Requisitos:
+- Experiência com N8N
+- Experiência com RAG (Retrieval-Augmented Generation) e otimização de embeddings.
+- Experiência sólida no desenvolvimento de software para aplicações de inteligência artificial.
+- Proficiência em linguagens de programação: Python, JavaScript/TypeScript/Node.js.
+- Experiência com frameworks de IA, como PyTorch, Scikit-Learn e Langchain.
+- Conhecimento em bibliotecas de NLP, como NLTK, spaCy e Hugging Face Transformers.
+- Experiência em pré-processamento de texto e implementação de LLMs.
+- Vivência em arquiteturas de software escaláveis e de alto desempenho voltadas para IA.
+- Conhecimento em desenvolvimento web com FastAPI e React (NextJS).
+- Experiência com MLOps, Docker e Kubernetes para implantação de modelos de IA.
+- Habilidade de trabalho em equipe e boa comunicação.
+
+
+🥳 Benefícios:
+• Vale Refeição/Vale Alimentação
+• Assistência médica
+• Assistência odontológica
+• Day Off
+• Gympass
+• Auxílio Creche
+• Assistência Pet
+• Auxílio Combustível
+• Auxílio Home Office
+• Reembolso Educacional
+• E-learning - Academia Stefanini com diversos cursos
+• Mentoring - Plataforma de Mentoria (Essa é uma oportunidade para conhecer pessoas, desenvolver habilidades e compartilhar experiências.)
+• Descontos em instituições para Graduação, Pós Graduação, Idiomas e Cursos
+• Vantagens e descontos nos melhores estabelecimentos
+• Programa de Formação de Líderes
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Java Data Engineer
+
+Sobre a vaga
+NEORIS é uma acelerador Digital que ajuda empresas a entrar no futuro, temos mais de 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Somos mais de 4.000 profissionais em 11 países, temos uma cultura de startup multicultural onde cultivamos inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes.
+Procuramos: Java Data Engineer - Inglês Avançado - Vaga Híbrida
+
+Principais Responsabilidades
+Desenvolver e manter pipelines de dados utilizando Apache Beam, executados no Google Cloud Dataflow.
+Garantir a qualidade e performance dos dados aplicando boas práticas de codificação, testes automatizados e revisões de código rigorosas.
+Colaborar estreitamente com equipes de engenharia, produto e dados para entregar soluções escaláveis, seguras e eficientes na nuvem (GCP). 
+
+Requisitos
+Domínio avançado em Java, incluindo Core Java, Collections, Concorrência, e ferramentas de build como Maven ou Gradle.
+Experiência prática com Apache Beam e Dataflow, incluindo transformações como DoFn, ParDo, GroupByKey, além de monitoramento de jobs no Dataflow.
+Conhecimento sólido dos fundamentos do Google Cloud Platform, especialmente Cloud Storage, Pub/Sub, IAM e melhores práticas de segurança.
+Habilidade para garantir qualidade através da escrita de testes unitários com JUnit e participação ativa em code reviews.
+Inglês avançado (nível B2/C1) para comunicação fluente e colaborativa.
+Disponibilidade para trabalhar no modelo híbrido, com presença no escritório em São Paulo (mínimo 2 a 3 dias por semana). 
+
+Oferecemos
+Vale Refeição e Vale Alimentação: Benefícios mensais para suas despesas com alimentação, dentro e fora de casa.
+Previdência Privada: Planejamento de futuro com contribuição complementar à aposentadoria.
+Plano de Saúde: Cobertura médica de alta qualidade para você e seu dependente legal.
+Plano Odontológico: Cuidados odontológicos completos, com ampla rede de atendimento.
+Seguro de Vida: Proteção e segurança para você e seus entes queridos.
+Aulas de Inglês/Espanhol: Incentivo ao aprendizado de idiomas.
+Wellhub: Benefícios e descontos em academias e programas de bem-estar.
+Auxílio Creche: Suporte financeiro para despesas com educação infantil.
+Neoris Global Campus: Plataforma de desenvolvimento com oportunidades contínuas de aprendizado e crescimento profissional. 
+
+Te convidamos a nos conhecer em http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvimento Java Sênior
+
+Sobre a vaga
+O que buscamos:
+Profissional de nível Sênior que atue com desenvolvimento Java.
+
+Requisitos técnicos: 
+Experiência com Java 17 (ou superior)
+Spring Boot (domínio na construção de APIs e microsserviços)
+Desenvolvimento assíncrono (mensageria)
+Testes automatizados (JUnit, Postman)
+JDBC, Spring Data, JPA
+Banco de dados Oracle
+Experiência com cloud provider (desejável OCI)
+Conhecimento em arquitetura de microsserviços
+Kafka
+Containers
+
+Desejáveis:
+Experiência com OCI
+GitHub e GitHub Copilot
+Implementações com Inteligência Artificial.
+
+Descrição comportamental:
+Procuramos uma pessoa que:
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+Tenha habilidades de resolução de problemas;
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+
+
+Big enough to deliver – small enough to care.
+#VempraGFT
+#VamosVoarJuntos
+#ProudToBeGFT
+-----------------------------------------------------------------------------------

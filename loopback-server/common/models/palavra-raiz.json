@@ -1,0 +1,76 @@
+{
+	"name": "PalavraRaiz",
+	"base": "PersistedModel",
+	"idInjection": true,
+	"options": {
+		"validateUpsert": true
+	},
+  	"mixins": {
+    	"Counts": true
+  	},
+	"properties": {
+		"palavra": {
+			"type": "string"
+		},
+		"ativo": {
+			"type": "number"
+		},
+		"quantidade": {
+			"type": "number"
+		}
+	},
+	"validations": [],
+	"relations": {
+		"palavraQuantidades": {
+			"type": "hasMany",
+			"model": "PalavraQuantidade",
+			"foreignKey": ""
+		},
+		"oportunidadeLinkedins": {
+			"type": "hasMany",
+			"model": "OportunidadeLinkedin",
+			"foreignKey": ""
+		}
+	},
+	"acls": [],
+	"methods": {
+		"ListaParaVisita": {
+			"accepts": [
+			],
+			"returns": [
+ 				{
+     				"arg": "resultado",
+     				"type": "array",
+   					"root": true,
+    				"description": ""
+   				}
+			],
+			"description": "",
+			"http": [
+         		{
+          			"path": "/listaParaVisita",
+   					"verb": "get"
+ 				}
+ 			]
+		},
+		"AtualizaQuantidadeGeral": {
+			"accepts": [
+			],
+			"returns": [
+ 				{
+     				"arg": "resultado",
+     				"type": "object",
+   					"root": true,
+    				"description": ""
+   				}
+			],
+			"description": "",
+			"http": [
+         		{
+          			"path": "/atualizaQuantidadeGeral",
+   					"verb": "post"
+ 				}
+ 			]
+		}
+	}
+}

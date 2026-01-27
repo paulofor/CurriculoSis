@@ -1,0 +1,30 @@
+<div class="dgc-painel" *ngIf="principal">
+	<div class="dgc-painel-header" *ngIf="principal">
+		<a href="{{principal.url}}" target="_blank">{{principal.titulo}}</a>
+	</div>
+
+	<div class="dgc-card">
+		<div class="dgc-card-header">
+			<span>{{principal.empresa}}</span>
+		</div>
+		<div class="dgc-card-header">
+			<span>{{principal.tempo}} {{principal.volume}}</span>
+		</div>
+		<div class="dgc-card-detalhe">
+			<pre>{{principal.descricao}}</pre>
+		</div>
+		<div class="dgc-card-detalhe">
+			<span>{{principal.data | date : 'dd-MM-yyyy' }}</span>
+		</div>
+	</div>
+
+	<div class="dgc-card">
+		<div class="dgc-card-header">
+			<span>Palavras Chaves</span>
+		</div>
+		<div class="dgc-card-detalhe" *ngFor="let rel of principal.oportunidadePalavras">
+			<span>{{rel.palavraChave.palavra}}</span>
+		</div>
+	</div>
+
+</div>

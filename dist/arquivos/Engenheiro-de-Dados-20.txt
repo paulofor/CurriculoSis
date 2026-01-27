@@ -1,0 +1,297 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Sobre a Verx:
+Somos uma consultoria especializada em TI, apaixonada por desafios e buscamos incansavelmente motivar as pessoas, para através da tecnologia transformar positivamente o negócio dos nossos clientes.
+
+Sobre a oportunidade: Engenheiro de Dados Pleno
+
+Requisitos:
+.Experiência com desenvolvimento de sistemas e SQL (em Cloud)
+ Experiência com linguagem de programação Python
+ Atuação com arquitetura, ingestão e transformação de dados 
+
+Desejável:
+• Experiência e/ou conhecimento sobre metodologias ágeis
+• Experiência com desenvolvimento de arquitetura cliente-servidor
+• Atuação com GCP (Google Cloud Platform)
+
+Principais atividades e desafios:
+• Desenvolver e manter processos de ingestão, tratamento, controle/segurança e disponibilização de dados em Datalake 
+• Entender soluções técnicas para obter, processar e armazenar dados de diversas fontes.
+• Implementar melhorias na arquitetura e processos para melhorar a performance, monitoração e evolução dos produtos de dados.
+• Contribuir na obtenção de conhecimento no contexto de negócio e criação de novos produtos de dados, visando atender suas necessidades estratégicas e operacionais.
+• Abordagem analítica e de resolução de problemas e identificação de oportunidades de melhoria
+
+Contratação PJ
+
+Se identificou? Vem ser Verx!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados - Pleno
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+Horário: 09:00 - 12:00 - 13:00 - 18:00
+
+Contratação: Efetivo – CLT
+
+Nível: Não Informado
+
+Descrição e Responsabilidades
+
+Seu dia a dia na Bancorbrás:
+
+Projetar, desenvolver e implementar soluções de engenharia de dados eficientes e escaláveis; 
+Colaborar com equipes multifuncionais para entender requisitos e garantir a entrega de soluções de alta qualidade; 
+Conhecimento de esteira de CI/CD seguindo as diretrizes da empresa para automação e entrega contínua; 
+Conhecimento de git para versionamento das soluções; 
+Desenvolver e otimizar jobs Spark (PySpark) para processamento eficiente de grandes volumes de dados; 
+Trabalhar com Tabela Delta para garantir consistência e confiabilidade nos dados; 
+Desenvolver Web Crawlers para coleta e processamento de dados da web; 
+Configurar e manter fluxos de trabalho de dados utilizando Apache Airflow; 
+
+Requisitos
+
+O que esperamos de você:
+
+Curso Superior em Tecnologia ou áreas correlatas; 
+Ter atuado como engenheiro de dados por pelo menos 2 anos; 
+Conhecimento sobre os serviços da AWS; 
+Conhecimento avançado de Banco de Dados Relacional e Banco de Dados Não Relacional; 
+Conhecimento no consumo de APIs e WebServices; 
+Experiência com Web Crawling; 
+Habilidade em programação Python e suas bibliotecas (pandas, etc); 
+Experiência com Apache Airflow; 
+Será um diferencial se você tiver:
+Certificação e/ou curso(s) na área de Engenharia de Dados;
+Azure DevOps; 
+Conhecimento em uma ou mais tecnologias, à seguir: Kubernetes, Kafka, Snowflake e Databrick.
+
+Benefícios: Abonos anuais, Assistência médica, Assistência odontológica, Auxílio academia, Auxílio creche, Auxílio educação, Seguro de Vida, Vale-alimentação, Vale-refeição
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Analytics Engineer Especialista
+
+Sobre a vaga
+Estamos transformando o crédito no Brasil para melhorar a vida das pessoas de forma justa e segura com dinheiro mais barato quando elas precisarem.
+
+Somos uma fintech de soluções em crédito que, desde 2018, atua sem intermediários e sem a burocracia dos grandes bancos. Entregamos aqui uma experiência personalizada, com dinamismo e transparência que leva em consideração o melhor que temos: as pessoas. E, se é importante para elas, é importante para nós.
+
+São mais de 13 milhões de clientes que nos escolheram para fazer parte dessa mudança, mostrando que a evolução do mercado e a liberdade financeira delas já é uma realidade. Venha com a gente e faça parte dessa transformação 🖤
+
+Formação superior em Ciência da Computação, Engenharia, Matemática, Estatística ou área relacionada
+Experiência comprovada como Analista de Dados ou Engenheiro de Dados
+Sólido conhecimento em AWS, incluindo serviços como Redshift, S3, RDS, EC2, Lambda, entre outros
+Proficiência em SQL e em linguagens de programação como Python ou Java
+Experiência com ferramentas de ETL (ex.: AWS Glue, Talend, Apache Airflow)
+Conhecimento em modelagem de dados e data warehousing
+Habilidade em criar visualizações de dados usando ferramentas como Tableau ou Looker
+Fortes habilidades analíticas e capacidade de resolver problemas complexos
+Excelente comunicação e habilidades interpessoais
+
+Principais Responsabilidades
+
+Coletar, processar e analisar grandes conjuntos de dados de diversas fontes
+Desenvolver e manter pipelines de dados eficientes e escaláveis
+Implementar e gerenciar soluções de armazenamento de dados na AWS (Redshift, S3, RDS, etc.)
+Colaborar com equipes multidisciplinares para identificar necessidades de dados e fornecer soluções analíticas
+Garantir a qualidade, integridade e segurança dos dados
+Criar dashboards e relatórios para monitoramento e tomada de decisão
+Otimizar e melhorar processos de ingestão e processamento de dados
+
+Consideramos Como Diferenciais
+
+Experiência com Data Lakehouse
+Conhecimento em Machine Learning e análise preditiva
+Certificações AWS
+
+Vamos Adorar Se Você Tiver
+
+Trabalhado em fintechs ou empresas do segmento financeiro
+
+Local De Trabalho
+
+Fortaleza e região metropolitana - híbrido
+
+São Paulo - Hibrido
+
+Demais regiões - remoto
+
+Aqui Na Meutudo Você Vai Encontrar
+
+🤩Pessoas que pensam soluções financeiras de forma inovadora;
+
+🌈Pessoas diversas que abraçam diferentes formas de ver o mundo;
+
+😃Pessoas que amam liberdade sem esquecer a responsabilidade;
+
+📚Pessoas com senso de comunidade que incentivam jornadas de crescimento;
+
+🧐Pessoas que se comunicam com clareza e questionam o status quo;
+
+🤩Temos um ambiente de trabalho incrível;
+
+🖥Projetos e tecnologias inovadoras;
+
+⛱Day off no seu aniversário;
+
+😁 No dress-code e muito mais.
+
+Todos os dias revolucionamos juntos o mercado de crédito no Brasil e propomos um universo financeiro simples, fácil e acessível de verdade. Fazemos isso baseado em dados, olhando com carinho para as pessoas e quebrando as regras. Aqui a gente acredita na eficiência da tecnologia para a evolução do mercado, impulsionando o Brasil.
+
+Importante: a meutudo. respeita a pluralidade de identidades e a inclusão. Não fazemos distinção de cor, raça, religião, nacionalidade, gênero, orientação sexual, idade ou pessoa com deficiência em qualquer que seja a etapa do processo de seleção, porque aqui a diversidade importa de verdade. Se você acredita nisso também, vem com a gente!
+
+Deu match? Então vem com a gente :)
+
+Ah! Não esqueça de conhecer um pouco mais sobre a gente e nossa revolução nos canais abaixo:
+
+Site - https://meutudo.com.br/
+
+Instagram - @meutudoapp
+
+Linkedin - https://lnkd.in/eXTHeVM
+
+Será um prazer ter você em nosso time 🖤🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Banco de talentos engenheiro de dados pl sr
+
+Sobre a vaga
+O Banco de Talentos é um espaço de candidatura e adiantamento de algumas etapas mais básicas do processo seletivo para quem aguarda uma vaga como Engenheiro de Dados PL/SR.
+
+Quer fazer parte de um time de excelência, colaborativo, que sabe que desistir não é uma opção e acredita que tudo é possível? Então a Datarisk pode ser sua próxima oportunidade!
+
+Se você está procurando uma vaga para fazer parte do nosso time, mas ainda não achou nenhuma com seu perfil, se inscreva aqui.
+
+Reservamos esta para você compartilhar seu perfil conosco e quando tivermos novas oportunidades que tenham match com suas skills, entraremos em contato.
+
+Principais Atividades
+
+Atuar como Consultor em projetos de Consultoria, analisando a plataforma de dados, identificando oportunidades e propondo melhorias;
+Planejar, programar e implantar pipeline de dados no Data Lake (Big Data);
+Integrar diversos sistemas de APIs de parceiros;
+Desenvolver, testar e fazer a manutenção de arquiteturas de bancos de dados e sistemas em tempo real ou de forma distribuída;
+Planejamento e execução em saneamento dos dados.
+
+Buscamos Alguém Com
+
+Experiência com ingestão de dados (preparação, tratamento e disponibilização de dados para ambiente analítico);
+Experiência com linguagem Python e banco de dados SQL;
+Conhecimento em bibliotecas para análise de dados (Pandas e Spark);
+Experiência de orquestração de processos com Airflow;
+Conhecimento de cloud (Oracle, AWS, Azure ou GCP).
+
+Serão Diferenciais
+
+Conhecimento em Kubernetes;
+Construção e manutenção de APIs REST.
+
+O Que Oferecemos
+
+Plano de saúde e odontológico Bradesco;
+Gympass;
+Conexa Saúde & Psicologia Viva;
+Auxílio Home Office;
+Recesso remunerado de 30 dias/ano;
+Day off de aniversário.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Sênior | Remoto | CLT
+
+Sobre a vaga
+Somos uma plataforma de inovação para startups, corporações e investidores. Ajudamos startups a ter sucesso, corporações a se transformar e investidores a gerar retornos exponenciais por meio de nosso forte ecossistema de inovação.
+
+Nossa Cultura se desenvolve e evolui com o tempo, ou seja, nada é escrito em pedra. Buscamos sempre nos atualizar, afinal, não existe certo ou errado quando falamos de cultura, mas escolhemos seguir atitudes que são reflexo dos nossos valores:
+
+#Somos pessoas provocativas e fazemos acontecer.
+
+#Somos parceiros, fazemos parte de equipes plurais, inclusivas e diversas, e estamos aqui para somar.
+
+#Somos vibrantes e entendemos que resultado também é o nosso propósito.
+
+Criamos um espaço seguro para discussões sobre DE&I e promovemos iniciativas que tornam o nosso ambiente cada vez mais diverso, com equidade e inclusão, visando reduzir a violência, a discriminação, desigualdade, preconceitos sociais, sexuais, étnico-raciais e de identidade de gênero.
+
+𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗶𝘀 𝗔𝘁𝗶𝘃𝗶𝗱𝗮𝗱𝗲𝘀
+
+• A pessoa Engenheira de Dados de nível sênior deverá atuar com maior protagonismo em todas as etapas do ETL (ou ELT a depender do caso), pautando sua decisão em boas práticas e referências do mercado, zelando pela eficiência e qualidade do processo desde a captura do dado até a entrega do dado já trabalhado ao seu destino. Ela atuará no planejamento, levantamento de requisitos, implementação e manutenção de todos os processos de dados, incluindo armazenamento e processamento que ocorram no Data Lake. Atuará também na melhoria contínua e revisão de todos os processos já instalados, eliminando débitos técnicos e propondo novas e melhores soluções para problemas novos ou antigas soluções. Também será capaz de orientar engenheiros menos graduados na condução dos trabalhos.
+
+𝗥𝗲𝗾𝘂𝗶𝘀𝗶𝘁𝗼𝘀
+
+• Ensino superior completo em Análise e Desenvolvimento de Sistemas, Sistemas de Informação, Ciências da Computação, Engenharia da Computação ou similares;
+
+• Mínimo de 5 anos de experiência na área de engenharia de dados;
+
+• Visão sistêmica e analítica;
+
+• Raciocínio lógico e matemático;
+
+• Excelente comunicação interpessoal;
+
+• Habilidades organizacionais e tomada de decisão.
+
+𝗖𝗼𝗺𝗽𝗲𝘁ê𝗻𝗰𝗶𝗮 𝗧é𝗰𝗻𝗶𝗰𝗮
+
+• Conhecimento avançado em Python;
+
+• Pandas e outras bibliotecas voltadas para a manipulação de dados;
+
+• Análise de dados;
+
+• Git (github);
+
+• Airflow, ETL
+
+• AWS: IAM, S3, Lambda, EMR, EC2, RDS;
+
+• Bancos de dados relacionais e não relacionais (MySQL, Postgres, MongoDB).
+
+𝗖𝗼𝗺𝗽𝗲𝘁ê𝗻𝗰𝗶𝗮 𝗖𝗼𝗺𝗽𝗼𝗿𝘁𝗮𝗺𝗲𝗻𝘁𝗮𝗹
+
+• Concentração;
+
+• Organização;
+
+• Agilidade;
+
+• Trabalho em equipe;
+
+• Detalhista;
+
+• Flexibilidade;
+
+• Comprometimento.
+
+𝗗𝗶𝗳𝗲𝗿𝗲𝗻𝗰𝗶𝗮𝗶𝘀
+
+• Estatística básica;
+
+• Web scrapping;
+
+• Conhecimento em DataOps;
+
+• Conhecimentos em Metabase.
+
+𝗕𝗲𝗻𝗲𝗳í𝗰𝗶𝗼𝘀
+
+🍝Vale-refeição ou vale-alimentação em um único cartão Ifood;
+
+🏥Convênio Médico SulAmérica (sem coparticipação);
+
+🦷 Plano Odondológico MetLife;
+
+🏥 Seguro de vida;
+
+🤸🏼‍♂️ Totalpass para manter as atividades físicas a qualquer hora e lugar;
+
+🎂Birthday Day Off para curtir no seu aniversário como quiser;
+
+🤩Parceria com o Sesc;
+
+👶🏼Reembolso creche;
+
+💸Remuneração variável em reconhecimento de desempenho, performance e alinhamento de cultura.
+
+Sobre o Distrito - [https://distrito.me/](https://distrito.me/)
+-----------------------------------------------------------------------------------

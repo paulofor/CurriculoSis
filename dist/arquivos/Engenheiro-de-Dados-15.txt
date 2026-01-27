@@ -1,0 +1,351 @@
+[Oportunidade 1]
+Oportunidade: Senior Software Engineer – Full Stack (Bangkok based – Relocation provided)
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know our Team:
+
+The Full Stack Engineering Department builds the Agoda web and app products. We have several teams in front-end focusing on different aspects of our products including accommodations, flights, payments, marketing, post-booking services, and more. Agoda’s marketplace is the world. We build localized and optimized user experiences at scale on every major internet platform. These include our mobile websites, native apps, and desktop sites. We hire people from around the world who have a passion for using technology to create and implement the best user experiences. Our teams work on the full stack and build end-to-end systems including user interfaces, APIs, backend systems, and database systems. Our products are always evolving and under experimentation. We accomplish this by having an amazing degree of automation, CI/CD systems, and use a modularized approach. As we are data driven and measure our results, we continually innovate and improve our work. We are looking for the next great talent who strives to learn and grow and has a standard of excellence, strong sense of ownership, and great technical skills.
+
+The Opportunity:
+
+Lead / Staff engineer is the key role in our technology organization working together with individual contributors and senior leadership. Our Lead engineers are heavily involved in the hiring and mentoring process and are the go-to people who design and implement new systems and components. We are looking for people who are passionate to take on more responsibility and driving major architectural changes in Agoda. It’s expected from you in this role as Lead / Staff engineer to push Agoda forward technically by adopting new technologies and setting higher standards.
+
+In this Role, you’ll get to:
+
+Maintain ownership and responsibility of mission critical systems
+Be hands on – build high volume platforms using cutting-edge technologies like React and GraphQL
+Mentor and coach other software engineers
+Be a major contributor to our agile and scrum practices
+Design and lead crucial technical projects and initiatives cross teams and departments
+Stay on the leading edge of technical know-how, industry trends and drive technical innovations
+
+What you’ll Need to Succeed:
+
+5+ years of experience developing web applications in client-side frameworks such as React, Angular, VueJS, etc. 
+B.S. in Computer Science or quantitative field; M.S. preferred
+Working experience with agile, analytics, A/B testing and/or feature flags, Continuous Delivery, Trunk-based Development
+Excellent HTML/CSS skills – you understand not only how to build the data, but how to make it look great too
+Excellent understanding of object-oriented JavaScript, TypeScript
+You love new technologies and approaches and want to use the best tools available. We want people who can help us continually evolve our stack
+Great communication and coordination skills
+Excellent analytical thinking and problem-solving skills
+You have a good command of the English language
+
+It’s Great if you have:
+
+Knowledge in physical architecture at scale, building resilient, no single point of failures, highly available solutions
+Knowledge in one or more of the following: NoSQL technologies (Cassandra, ScyllaDB, ElasticSearch, Redis, DynamoDB, etc), Queueing system experience (Kafka, RabbitMQ, SQS, Azure Service Bus, etc)
+Working Experience with Containers and Dockerization, also K8S is a plus
+Knowledge and hands on experience in CI/CD solutions would be a plus
+Strong experience in all aspects of client-side performance optimization,
+Extremely proficient in modern coding and design practices. For example, Clean Code, SOLID principals, and TDD
+Experience in multiple front-end platforms including iOS, Android, Web, and API services
+Have worked on an app or internet company that is at scale with large numbers of users and transactions per second
+Have experience in a data driven company with experience analyzing and working with Big Data
+Lead teams and greenfield projects solving large system problems
+Worked on global projects serving world markets with distributed data centers and localization of the front end and data
+
+This position is based in Bangkok, Thailand (Relocation Provided)
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #ENG #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Software Engineer – Back End (FinTech) (Bangkok based – Relocation provided)
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+ Get to Know Our Team 
+
+Fintech is one of the fastest growing areas in Agoda and we are rapidly expanding our tech team. We work closely with the finance business team and our Fintech product owners to reduce risk, drive efficiencies and move on new market opportunities in this exciting field. We have a wide range of projects from traditional finance to cutting-edge customer fintech. For example, reconciliation using Big Data technologies, growing and optimizing customer payments options, tax calculations in milli-second response times and a mesh of supplier payment options like virtual credit cards. It ’ s a hot field and the perfect mix of data engineering and backend engineering.
+
+ The Opportunity 
+
+ In this role, you will not only develop robust backend systems but also architect and maintain scalable data pipelines and storage solutions that support complex data collection, processing, and analysis. Your dual expertise in backend and data engineering will play a crucial role in optimizing our financial technology solutions and driving informed business decisions through reliable data insights. 
+
+ In This Role, You’ll Get to 
+
+ Think and own the full life cycle of our products, not just a single piece of code – from business requirements, technology selection, coding standards, agile development, unit and application testing, to CI/CD and proper monitoring 
+ Design, develop and maintain platforms and data pipelines across fintech 
+ Boost System Performance: build systems that are stable, scalable, and highly performant to meet the dynamic demands of the financial landscape 
+ Write great code and help others write great code – mentor people in your team and wider 
+ Collaborate with other teams and departments 
+ Exceptional problem-solving skills coupled with a strategic mindset are essential. You possess the ability to adapt to new changes and the foresight to anticipate future needs. Leadership at Agoda isn’t just managing tasks but inspiring innovation and driving vision into reality. 
+ Foster Cross-Functional Collaboration: work with diverse teams to drive forward product and technology goals 
+ Shape our future team: Play a pivotal role in recruiting and onboarding exceptional talent 
+
+What You’ll Need To Succeed
+
+ 5+ years of experience with strong proficiency in Java, Kotlin, Scala, or C# with a proven track record of developing high-performance applications in production settings. Insightful experience with big data technologies like Hadoop, real-time processing frameworks (e.g., Apache Spark), and advanced knowledge of SQL and data architecture. 
+ Thinks in systems: their edge cases, failure modes, and life cycles 
+ Uses a metrics driven approach and can make informed decisions using data 
+ You are passionate about the craft of software development and constantly work to improve your knowledge and skills 
+ Experience with Scrum/Agile development methodologies 
+ Excellent verbal and written English communication skills 
+ Experience with operational excellence and a deep understanding of metrics, alarms and dashboards 
+
+ It’s Great If You Have 
+
+ Experience working in a modern FinTech or Payments organization 
+ Domain knowledge in any of these areas: financial reconciliation, financial reporting, tax, payout methods like virtual credit cards or customer payments 
+ Hands-on experience working with technologies like Spark for data processing, ETLs for data pipelines and queueing systems (Kafka, RabbitMQ). 
+ Core engineering infrastructure tools like GitLab for source control and Continuous Integration, Kubernetes 
+ Experience developing, maintaining and debugging large-scale distributed systems 
+ Experience in leading projects, initiatives and/or teams, with full ownership of the systems involved 
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #mexico #mexicocity #australia #sydney #melbourne #perth #canada #toronto #vancouver #montreal #china #shanghai #beijing #shenzhen #prague #Brno #Ostrava #egypt #estonia #france #paris #hongkong #budapest #indonesia #jakarta #bali #bandung #malaysia #kualalumpur #germany #dublin #berlin #munich #hamburg #stuttgart #cologne #frankfurt #israel #telaviv #italy #milan #rome #japan #tokyo #osaka #amsterdam #oslo #manila #poland #warsaw #krakow #bucharest #russia #moscow #saintpetersburg #capetown #johannesburg #southkorea #korea #seoul #barcelona #madrid #stockholm #zurich #taiwan #taipei #thailand #bangkok #chiangmai #phuket #istanbul #london #manchester #edinburgh #ukraine #kiev #hcmc #vietnam #hanoi #hochimin #wroclaw #poznan #katowice #rio #salvador #india #delhi #newdelhi #bangladesh #dhaka #pakistan #islamabad #karachi #maldova #macedonia #IT #ENG #4 #india
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Sr
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+Descrição
+
+Formação acadêmica:
+
+Nível superior completo em ciências da computação, análise de sistemas ou tecnologia da informação.
+
+Requisitos
+
+Conhecimento de arquitetura de analytics em nuvem da Microsoft;
+
+Desenvolvimento em sql; phyton e/ou spark de notebooks;
+
+Conhecimento de Engenharia de Dados;
+
+Desejável: Conhecimento de Databricks;
+
+Conhecimento de ferramentas de Big Data e experiência com Data Lake serão considerados como diferenciais;
+
+Resumo Das Atribuições Do Cargo
+
+Ingestão de dados para datalake;
+
+Entregar dados para consumo nos projetos;
+
+Desenvolvimento em sql;
+
+Pacote De Benefícios
+
+Assistência médica
+
+Assistência odontológica
+
+Vale-alimentação
+
+13ª cesta no natal
+
+Vale-refeição
+
+Vale-transporte
+
+Auxílio creche ou babá
+
+Convênio Farmácia
+
+Serviço de Assistência Funeral
+
+Seguro de vida
+
+Apoio Pass (Aconselhamento Psicológico, Financeiro, Jurídico e Social)
+
+Seguro Complementar de Acidentes Pessoais
+
+Boas-Vindas aos recém nascidos com um plano de previdência e um presente especial
+
+Vacinação contra Gripe
+
+Previdência privada (Fundo de Pensão e Previd Aberta PGBL/VGBL)
+
+Bônus de curto prazo (PLR)
+
+Auxílio academia – Gympass
+
+Fretado para pontos estratégicos
+
+Café da manhã
+
+Cesta de Natal
+
+Consignado
+
+Convênio com empresas parceiras
+
+Desconto em produtos
+
+Horário flexível
+
+Programa de treinamentos
+
+Espaço de convivência
+
+Restaurante interno
+
+Local de Trabalho
+
+AQWA Corporate - Porto Maravilha - RJ.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de Dados - Pleno e Senior
+
+Sobre a vaga
+Resumo do cargo:
+
+O(a) Engenheiro(a) de Dados deve ser capaz de criar, expandir e otimizar a arquitetura de pipelines de dados, bem como desenvolver e manter fluxos de dados de diversas áreas de nossos clientes.
+
+Este(a) profissional deve estar familiarizado(a) com conceitos e estratégias de DataOps, bem como execução de projetos gerenciados em modelo Ágil. O conhecimento de tecnologias de big data é imprescindível para esse cargo.
+
+É importante que se relacione bem com diferentes equipes - tecnologia e área de negócio principalmente - e que possa apontar oportunidades de melhoria na forma de estruturação dos dados para atingir o objetivo de análise do cliente.
+
+Responsabilidades:
+
+Estruturar e tratar o fluxo de dados para auxiliar o cliente com uma estrutura robusta e acessível
+Criar e realizar manutenção e melhoria de fluxos e dados de complexidade intermediária (ETL e ELT)
+Colher e tratar as informações para serem usadas e dar continuidade ao projeto, por meio de ligações
+Implementar ferramenta de tratamento de dados e realizar auditoria de dados
+Gerir fluxos de dados já existentes, realizando processos manuais para identificar surgimento de possíveis problemas
+Combinar bases de dados de menor complexidade para endereçar requisitos funcionais e não funcionais do negócio
+Apoiar o desenvolvimento de engenheiros(as) de outros níveis de responsabilidade, auxiliando no cotidiano ou dando treinamentos em módulos básicos
+Utilizar de ambientes Hadoop, Spark e estruturas Cloud (AWS, Azure, GCP) para construção e execução dos pipelines de dados
+Interagir com áreas de negócio para validação das entregas e realização de possíveis ajustes
+Participar de reuniões com equipe e clientes e das cerimônias propostas pela gestão de projetos ágeis
+Escrever artigos
+
+
+Requisitos:
+
+Experiência na construção de fluxos de dados utilizando ferramenta de big data
+Experiência na função
+Conhecimento do stack de dados GCP, Azure ou AWS
+Experiência com PySpark, SQL, Databricks, Talend e Qlik
+Visão de foco no cliente, habilidade para comunicar ideias de forma clara com as áreas de negócio
+Ensino Superior completo ou em andamento
+
+
+Jornada para se tornar Fiver:
+
+Para nos conhecermos e sabermos se poderemos criar soluções incríveis juntos(as), trilhamos um caminho, onde, a cada passo, compartilhamos uma parte de nossa história:
+
+Triagem de currículos;
+Bate-papo com equipe de Gestão Humana;
+Conversa com o cliente (alocação);
+Entrevista Técnica com gestor(a) da área.
+
+
+E agora, qual história você quer contar?
+
+Sobre nós, Fivers:
+
+Acreditamos que os dados são o combustível para a transformação das empresas e das pessoas. Com isso em mente, ajudamos nossos clientes a criar soluções analíticas que os inspiram a realizar transformações organizacionais com impacto direto nos seus modelos de negócio.
+
+Você acredita que ao contar boas histórias com os dados, podemos inspirar pessoas a transformarem o mundo a sua volta e, como consequência, melhorar a vida de outras pessoas? Se a resposta for sim, vamos nos conhecer!
+
+🏳‍🌈 Na Five Acts, valorizamos a diversidade, a equidade e a inclusão. Acreditamos que a diversidade é uma força impulsionadora da inovação e do crescimento. Portanto, não fazemos distinção por questões de gênero, orientação sexual, religião, idade, etnia, ou qualquer outra. Nossas oportunidades são abertas para todas as pessoas!
+
+O que oferecemos:
+
+Vales alimentação/refeição - no cartão de benefícios flexíveis Swile
+Cobertura de até 100% em Plano de Saúde e Odontológico
+Seguro de Vida em grupo
+Trabalho remoto ou híbrido
+Convênio Saúde Mental - psicoterapia online e presencial
+Incentivo a certificações e cursos
+Convênio para cursos de pós-graduação e MBA
+Parceria com escolas de idiomas
+Parceria com academias e estúdios fitness - Gympass
+Palestras e rodas de conversa internas
+Bônus por indicação
+Happy hours
+Mimos em datas comemorativas
+
+
+Confira a nossa Política de Privacidade.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Engenheira de Dados - Vaga Exclusiva para Pessoa com Deficiência
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você. Afinal, It’s yours to build.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Pessoa Engenheira de Dados você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de dados voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Graduação completa ou cursando em Tecnologia da Informação ou áreas correlatas;
+Experiência com Engenharia de Dados;
+Conhecimento em Cloud (Azure e Databricks);
+Conhecimento em SQL e Python;
+Conhecimento em HiveQL e Spark;
+
+Desejáveis:
+
+Experiência com Qualidade de Dados;
+Conhecimento em SAS.
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------

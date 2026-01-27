@@ -1,0 +1,255 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro(a) de Software Pleno/Sênior
+
+Sobre a vaga
+No Seu Dia a Dia
+Relacionamento próximo com as áreas de negócio e outras equipes de IT do BTG Pactual;
+Garantir a alta disponibilidade dos nossos sistemas;
+Participar de todo o ciclo das aplicações desde a concepção a sustentação do projeto/produto;
+Desenvolver sistemas utilizando as tecnologias mais recentes para construir soluções inovadoras para o mercado financeiro;
+Atuar com projetos e times ágeis;
+
+Esperamos De Você
+Graduação completa preferencialmente em Sistemas de Informação, Análise de Sistemas, Ciência da Computação, Engenharia da Computação ou em áreas relacionadas;
+Experiência na linguagem de programação C# em .NET Core e Python;
+Experiência em banco de dados relacional e não relacional (SQLServer, MySql, Postgres, Dynamodb);
+Experiência com nuvem (AWS, GCP, Azure, etc)
+Experiência com microserviços;
+Conhecimento em frameworks de messageria (Kafka, ActiveMQ, RabbitMQ, etc..);
+Conhecimento em Docker, Kubernets;
+Experiência com testes unitários (TDD)
+Atuação na definição de arquitetura de sistemas com foco em alta performance.
+Disponibilidade para o modelo presencial no Rio de Janeiro - Botafogo.
+
+Benefícios
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico e Odonto
+Auxílio Creche/Babá;
+WellHub;
+TotalPass;
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Java Developer - Remote
+
+Sobre a vaga
+At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work.
+
+About the Role:
+We are looking for Java Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passionate about programming in this language and oriented to provide the best experience to the end user.
+
+This is an excellent opportunity for those professionals looking to develop in one of the fastest growing companies in the industry!
+
+Main Activities:
+- Work with software development teams to gather requirements and ensure best practices are adhered.
+- Design, Implement & Support solutions for application development, security, analytics and performance management.
+- Conform to existing industry security coding standards adhering to fortify scan and other security tool review requirements.
+- Conduct code reviews for junior members of the team and do peer code reviews to make sure code is following standards set forward by the architects.
+- Run test scripts against code to ensure quality delivery.
+- Resolve code issues with urgency.
+
+Requirements:
+- 5+ years of experience in Java.
+- Experience in web application programming.
+- Knowledge of Object Oriented Programming.
+- Ability to work with relational and non-relational bases.
+- Advanced English level.
+
+Benefits:
+• Flexibility: Choose where and how you work for enhanced creativity and innovation.
+• Tailored Compensation: Personalize your earnings to suit your financial goals.
+• Tech-Driven Tools: Access cutting-edge resources for seamless collaboration and productivity.
+• Autonomous Workflow: Take control of your schedule to achieve work-life balance.
+• Well-being: Enjoy generous leave policies for rest and rejuvenation.
+• Diversity & Inclusion: Thrive in a diverse and inclusive environment.
+• Collaboration: Engage with industry leaders for collective growth.
+• Development: Access mentorship and growth opportunities for continuous advancement.
+
+If you are interested in being part of a team composed of the best professionals and working 100% goal-oriented in an innovative environment, but with the structure and resources of a multinational market leader, do not hesitate to apply!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: ae9f LÍDER TÉCNICO DE DESENVOLVIMENTO
+
+Sobre a vaga
+A Extreme Digital Solutions é uma empresa jovem, fundada em 2014, antenada nas mais modernas tendências e tecnologias.
+
+Temos como missão tornar negócios mais simples e eficientes, e, na nossa essência, a busca e integração de soluções para as mais complexas e diversas necessidades dos negócios de nossos clientes.
+
+Ao longo desse tempo atingimos a marca de 1000 colaboradores no Brasil e temos na bagagem centenas de projetos desafiadores, com uso intenso de inteligência artificial, e uma visão sempre cuidadosa com a experiência do usuário e sucesso do cliente.
+
+Um papel na EDS é uma oportunidade para fazer parte de algo diferenciado. Somos uma empresa que não tem medo de assumir riscos e inovar. Sim, somos aventureiros e gostamos disso!
+
+Nosso time de talentos tem espaço para você que quer crescer e entregar resultados surpreendentes!
+
+O que você fará?
+
+Profissional sênior com ampla experiência em engenharia de software, arquitetura de sistemas e liderança técnica de times multidisciplinares em ambientes de alta complexidade. Atua como referência técnica na definição de padrões, boas práticas, governança de código e decisões estratégicas de arquitetura, assegurando alinhamento entre as soluções tecnológicas e os objetivos de negócio.
+
+Com histórico comprovado na condução de projetos críticos, modernização de sistemas legados e aceleração de jornadas de transformação digital, domina tecnologias modernas de backend (Java, Kotlin), microsserviços, containers, mensageria (Kafka, AMQ), autenticação (Keycloak) e automação de infraestrutura (Ansible, Terraform, Kubernetes).
+
+Possuir perfil colaborativo e capacidade de mediação entre stakeholders técnicos e não técnicos, atuando como elo entre desenvolvimento, arquitetura corporativa, segurança da informação e áreas de produto. Atua diretamente na capacitação técnica do time, revisão de código, mentoring de desenvolvedores e promoção da cultura DevSecOps.
+
+Qual bagagem você deve trazer?
+
+ +5 anos de experiência de atuação como desenvolvedor sênior;
+ Inglês intermediário a avançado;
+ Graduação na área de Ciência da Computação, Análise e Desenvolvimento de Sistemas, Engenharia da Computação e/ou áreas correlatas;
+ Experiência com arquitetura de software (monolítica, orientada a eventos, microsserviços);
+ Experiência com Cloud Native (OpenShift, Kubernetes);
+ Experiência com backend Java (Spring, Quarkus, Jakarta EE), Scala;
+ Experiência com integração com APIs REST/gRPC, Apache Camel, Kafka, ActiveMQ;
+ Experiência com ferramentas de CI/CD: GitLab, Jenkins, ArgoCD, Tekton;
+ Experiência com segurança em aplicações: OAuth2, JWT, Keycloak, SSO, SCAP;
+ Práticas ágeis (Scrum, SAFe) e gestão técnica de backlog;
+ Gestão de ciclo de vida com observabilidade e testes automatizados.
+
+Experiências que realmente nos encantam
+
+ Possuir experiência e certificações em metodologias ágeis: Scrum, Agile;
+ Java SE 17 Developer 1Z0-829
+ Java SE 21 Developer Professional (1Z0-830);
+ Red Hat Certified Cloud-Native Developer;
+ Red Hat Certified Specialist in Cloud-native Integration;
+ Oracle Certified Java Architect.
+
+Outras Informações
+
+Condições PJ: Valor fixo e 10 dias de ausência remunerada
+
+A Todos os nossos colaboradores também estendemos em nossos escritórios:
+
+Check in premiado: Cada ida ao escritório gera um número da sorte para concorrer a prêmios semanais, mensais e anuais.
+Aulas de Inglês gratuítas ministradas por professores qualificados até 2x na semana
+Serviços de bem-estar e saúde como: 💅Manicure 🧔🏾Barbearia 💆🏻‍♂ Massagem 💇🏽‍Cabelereiro
+
+About The Company
+
+Simplificamos o mundo com tecnologia e inovação, tornando organizações mais simples e eficientes.
+
+Venha fazer parte desse time comprometido com tornar a experiência dos clientes e usuários cada vez melhor!
+
+#venhaserumExtremer
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Java Developer
+
+Sobre a vaga
+Moventi is a technology-focused company dedicated to helping organizations lead the way with innovation-driven technology solutions. We foster a multidisciplinary environment where professionals continuously learn new technologies and methodologies to enhance their professional profiles. Our office is located in the heart of San Isidro, Lima, offering a central location with parking and recreational areas designed to encourage collaborative teamwork and creative problem-solving. We maintain an organizational culture based on transparency, ongoing coordination, commitment, risk-taking, and innovation to generate a positive impact. The current project involves building a sophisticated recommendation engine, requiring expertise in advanced algorithms, data structures, and a deep understanding of data-driven systems to deliver cutting-edge solutions for our clients.
+
+Key Responsibilities
+
+As a Senior Java Spring Developer at Moventi, you will be responsible for designing, developing, and optimizing a complex recommendation engine, leveraging your expertise in Java Spring framework and advanced data structures. Your role will involve analyzing algorithms, implementing efficient and scalable code, and collaborating closely with cross-functional teams to integrate data-centric components seamlessly.
+
+You will act as a technical leader and engineer, not just a developer, applying system design principles and problem-solving skills to overcome technical challenges. Participation in code reviews, mentoring less experienced developers, and contributing to architectural decisions will be essential parts of your daily activities.
+
+In This Role, You Will
+
+Develop and maintain robust backend services using Java Spring.
+Design and implement complex algorithms and data structures, especially related to recommendation logic.
+Collaborate with data scientists and engineers to optimize the recommendation engine's accuracy and performance.
+Continuously refactor and improve code quality and system performance.
+Follow best practices for software engineering, including testing, documentation, and version control.
+Engage in agile ceremonies and contribute to sprint planning and retrospective sessions.
+
+Required Skills And Experience
+
+We are seeking a senior-level or very strong mid-level Java Spring developer who demonstrates deep comfort and expertise with complex algorithms and data structures. The ideal candidate must be an engineer passionate about solving intricate technical problems rather than just a developer focused on routine coding tasks.
+
+Key Qualifications Include
+
+Extensive experience with Java and Spring Framework in a production environment.
+Strong understanding of complex data structures and algorithms, with proven ability to design scalable solutions.
+Experience or strong interest in building recommendation engines or similar data-driven systems.
+Proficiency in writing clean, maintainable, and efficient code.
+Ability to analyze and optimize performance bottlenecks.
+Excellent problem-solving skills and engineering mindset.
+Familiarity with software development methodologies such as Agile or Scrum.
+Good communication skills, with the ability to work collaboratively in a multidisciplinary team.
+
+Soft skills we value include proactivity, commitment, transparency in communication, willingness to take risks, and a drive for continuous improvement and innovation.
+
+Preferred But Not Required Skills
+
+While not mandatory, candidates with the following additional skills will be highly valued:
+
+Experience working with machine learning algorithms or integrating with data science teams.
+Knowledge of additional frameworks or tools for data processing and analytics.
+Familiarity with containerization technologies such as Docker and orchestration platforms like Kubernetes.
+Background in cloud-based deployments and microservices architectures.
+Experience mentoring junior developers and contributing to team knowledge sharing.
+
+What We Offer
+
+We are committed to the professional growth of our team through challenging projects and continuous learning opportunities.
+
+Opportunities for continuous growth and learning
+Formal employment from day one as a contractor
+Birthday free day!
+Challenging and impactful projects
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Buscamos um Engenheiro de dados Sênior com sólida experiência em Python para liderar o desenvolvimento e implementação de um Master Data Management (MDM) de Pacientes. O profissional irá trabalhar na modelagem de dados, especificação de regras de negócios e implementação dessas regras e tabelas no ambiente Databricks, unificando dados de pacientes provenientes de múltiplos sistemas de origem.
+
+
+Responsabilidades e atribuições
+Desenvolver e implementar a arquitetura de modelagem de dados do MDM de Pacientes
+Especificar e documentar regras de negócios para unificação e tratamento de dados de pacientes
+Implementar pipelines de processamento de dados no Databricks
+Desenvolver lógicas para matching, deduplicate e golden record de pacientes
+Estabelecer fluxos de qualidade de dados e validação
+Criar e manter tabelas integradas seguindo as regras de negócios estabelecidas
+Implementar rotinas de atualização e sincronização de dados
+Participar de code reviews e mentoria técnica da equipe
+Colaborar com stakeholders de negócios para refinar regras e requisitos
+
+Requisitos essenciais:
+Experiência avançada com Python
+Sólidos conhecimentos em:
+Databricks e Delta Lake
+PySpark para processamento de dados em larga escala
+SQL e modelagem de dados
+ETL/ELT e pipelines de dados
+
+Experiência com Master Data Management (MDM) ou projetos similares de integração de dados
+Conhecimento em técnicas de matching, fuzzy matching e deduplicação de registros
+Experiência com implementação de regras de negócios complexas em código
+Domínio de versionamento Git e metodologias ágeis
+Experiência com boas práticas de desenvolvimento (testes unitários, documentação)
+
+Diferenciais:
+Experiência prévia com MDM na área de saúde
+Conhecimento em FHIR ou outros padrões de dados de saúde
+Experiência com Great Expectations para qualidade de dados
+Conhecimento em frameworks de governança de dados
+Experiência com mensageria (Kafka, Event Hubs)
+Familiaridade com ferramentas de CDC (Change Data Capture)
+Conhecimento em observabilidade (Databricks SQL Analytics, Grafana)
+Experiência com APIs RESTful para exposição de dados
+
+
+Benefícios:
+
+🍛 Vale Alimentação ou Vale Refeição;
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+🗣 Mentoring;
+🏫 Auxílio Creche;
+💉 Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+🦷Assistência Odontológica;
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+🛫 Clube de viagens;
+🐶 Convênio para Pet;
+e muito mais...
+-----------------------------------------------------------------------------------

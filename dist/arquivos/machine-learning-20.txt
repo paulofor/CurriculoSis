@@ -1,0 +1,317 @@
+[Oportunidade 1]
+Oportunidade: Sr. Data Engineer w/ Python
+
+Sobre a vaga
+About Warmly
+
+Warmly is an YC, NFX, and Felicis backed Series A company changing the way B2B companies leverage high intent and chat when it comes to their inbound and outbound sales motion. There is no red tape here. We expect everyone to come in and break things in hopes to make them better and ready for scale. New ideas that are data-backed and gut-driven are what make us thrive here.
+
+Here’s a quick video about why you should work at Warmly.
+
+And here are some videos about why you might not want to work at Warmly 🤣:
+
+What do you think? Would you work at Warmly?
+
+If we went back in time, which department would get to live in the Teotihuacán temples 🛕
+
+Position Overview
+
+We are seeking a Data Engineer responsible for developing, constructing, testing, and maintaining data architectures. The ideal candidate will have a deep understanding of data systems, strong Python programming skills, and experience in managing large datasets and distributed systems. Additionally, the role involves working on backend features beyond data pipelines to support broader business needs.
+
+Key Responsibilities
+
+ Design, develop, and maintain scalable data pipelines and ETL processes to support business requirements. 
+ Collaborate with data scientists, analysts, and other stakeholders to understand data needs and deliver high-quality data solutions. 
+ Ensure the integrity, availability, and performance of data systems and infrastructure. 
+ Implement data models and database schemas that support business analytics and reporting. 
+ Automate data workflows and improve data processing efficiency. 
+ Monitor and troubleshoot data pipelines to ensure smooth operation. 
+ Develop and maintain backend features that support various business functions beyond data pipelines. 
+ Stay current with industry trends and best practices in data engineering and analytics. 
+
+Requirements
+
+ 3+ years of professional experience in data engineering or a related field. 
+ Strong proficiency in Python for data processing and automation. 
+ Experience with data processing frameworks such as Apache Spark, Hadoop, or similar. 
+ Proficient in SQL and experience with relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB, Cassandra). 
+ Knowledge of cloud platforms (e.g., AWS, Azure, Google Cloud) and their data services (e.g., Redshift, BigQuery, Databricks). 
+ Experience with version control systems, preferably Git. 
+ Strong problem-solving skills and attention to detail. 
+ Excellent communication and teamwork abilities. 
+
+Preferred Qualifications
+
+ Experience with stream-processing systems (e.g., Kafka, Flink). 
+ Familiarity with data warehousing concepts and tools. 
+ Understanding of data security and compliance regulations. 
+ Experience with CI/CD pipelines and DevOps practices. 
+ Knowledge of machine learning and data science workflows. 
+
+Tech Stack
+
+ Python, Elasticsearch, Azure, GCP, AWS, Flink, Pub/Sub, MongoDB, PostgreSQL, Kafka.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Lead Data Scientist - MyCC
+
+Sobre a vaga
+ADP is hiring a Lead Data Scientist.
+
+Does the thought of working with one of the most comprehensive employment data sets in the US excite you?
+Are you inspired by transformation and making an impact on the lives of millions of people every day?
+
+Well, this may be the role for you. Ready to design what's next?
+
+In this role, you'll acquire, clean, and analyze large data sets and do exploratory analysis to understand our data and if it meets project requirements. It's more than digits and dials - you're making huge decisions that impact millions of customers.
+
+Every day you'll work on a global team with multiple stakeholders to identify, design, develop and implement advanced analytics projects that track the consumer conversion funnel from start to end. You'll work with your team to provide, interpret, and predict necessary metrics for decision-making. You'll code with machine learning tools like Python, DataBricks, and AWS to synthesize millions of data sets into patterns that answer ad hoc requests and generates valuable insights for our clients.
+
+To thrive in this career, you should know how to identify errors and reactively fix them. You'll need to have some formal education in quantitative analytics and know design patterns and data structures. You have the skills to leverage existing models or create new models using the technologies above. But given the scale of our data sets and the complex problems we give you to solve, you will stay challenged and engaged with years of exciting projects ahead—all while growing your skills and progressing in a rewarding career.
+
+What You'll Do
+
+Here's what you can expect on a typical day: 
+
+Advanced Analytics & Predictive Modeling. You bring prior experience to the role of formulating analytical problems, extracting & analyzing data from multiple systems, summarizing critical findings/insights, and developing a compelling visual representation of analyses with actionable recommendations—this will set you up for success on Day 1.
+Own and Manage Projects. You will identify, design, develop, and implement advanced analytical projects.
+Limitless Possibilities. You will continue learning and discovering new ways to leverage ADP data to create new products and services and find more insights. You are passionate about learning and applying new techniques within data science that leads to innovations.
+Collaboration and Communication. You'll be part of a collaborative team, listening to needs, then finding and sharing solutions. You're comfortable and skilled at presenting to both peers and leadership on your projects and findings.
+Experience. You have strong experience in relevant skills gained and developed in the same or similar role.
+
+To Succeed In This Role
+
+Bachelor's degree in Computer Science, Statistics, Engineering or a related field.
+Strong experience (including both academic and professional) of related experience in relevant skills gained and developed in the same or similar role.
+Advanced English skills (able to interact daily with a distributed team).
+Fluency in Python - including popular data science packages (pandas, sklearn, etc) and quality tests.
+Strong knowledge of data structures, algorithms and methods used in the data science field.
+Experience with Machine Learning model development and deployment.
+Knowledge of Natural Language Processing.
+Experience with Cloud solutions (AWS, GCP, Azure).
+Interest in LLMs and Generative AI.
+Willing to work with ML Ops and Software Development activities as well.
+
+Bonus Points For These
+
+Master's degree in Computer Science, Statistics, Engineering, or a related field.
+Knowledge of Computer Vision.
+Good understanding of Software Engineering.
+Exposure to Jupyter notebooks and/or Databricks platform.
+Experience with AWS cloud solutions (S3, Glue, Lambda, SageMaker).
+Experience with integrating data products (recommender systems, classifiers, chatbots, etc) into applications in production environments.
+Knowledge of Continuous Integration & Delivery methodologies.
+Experience with Vector Databases.
+
+You'll Love Working Here Because You Can
+
+Have courageous team collaboration. Courage comes from how associates are willing to have difficult conversations, speak up, be an owner, and challenge one another's ideas to find the best solution.
+Deliver at epic scale. We deliver real user outcomes using strong judgment and good instincts. We're obsessed with the art of achieving simplicity with a focus on client happiness and productivity.
+Be surrounded by curious learners. We align ourselves with other smart people in an environment where we grow and elevate one another to the next level. We encourage our associates to listen, stay agile, and learn from mistakes.
+Act like an owner & doer. Mission-driven and committed to leading change, you will be encouraged to take on any challenge and solve complex problems. No tasks are beneath or too great for us. We are hands-on and willing to master our craft.
+Give back to others. Always do the right thing for our clients and our community and humbly give back to the community where we live and work. Support our associates in times of need through ADP's Philanthropic Foundation.
+Join a company committed to equality and equity. Our goal is to impact lasting change through our actions.
+
+What are you waiting for? Apply today!
+
+Find out why people come to ADP and why they stay: https://youtu.be/ODb8lxBrxrY
+
+(ADA version: https://youtu.be/IQjUCA8SOoA )
+
+Diversity, Equity, Inclusion & Equal Employment Opportunity at ADP: ADP is committed to an inclusive, diverse and equitable workplace, and is further committed to providing equal employment opportunities regardless of any protected characteristic including: race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, protected veteran status or disability. Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.
+
+Ethics at ADP: ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Engenheira de Dados Sênior
+
+Sobre a vaga
+Somos uma empresa brasileira de benefícios, com o sonho de descomplicar o mercado.
+
+Queremos mudar a conversa sobre benefícios, promovendo mais facilidade para o RH e mais possibilidade para o trabalhador brasileiro.
+
+Acreditamos que podemos gerar valor na relação entre empresa e colaborador, prestando um atendimento humano e eficiente ao RH e fazendo o dinheiro do trabalhador valer mais. Somos uma empresa com a cara do Brasil, pensada para quem acorda antes do sol raiar sempre pronto pra um novo dia. ☀
+
+Conheça nosso site: https://www.raiobeneficios.com/
+
+#JáRaiô
+
+Responsabilidades e atribuições
+
+ Estruturar e gerenciar a arquitetura de dados da empresa.
+ Desenvolver e manter pipelines de dados robustos e escaláveis utilizando CDC (Change Data Capture), ETL (Extract, Transform, Load) e outras técnicas.
+ Implementar e manter bancos de dados e sistemas de armazenamento na AWS.
+ Colaborar com equipe de ciência de dados para fornecer dados limpos e organizados.
+ Garantir a integridade e a segurança dos dados.
+
+
+Requisitos e qualificações
+
+ Experiência com CDC e ETL.
+ Experiência com plataformas de cloud, especificamente AWS (ex: S3, Redshift, Glue, Lambda, Kinesis).
+ Conhecimento em bancos de dados SQL (ex: PostgreSQL, MySQL) e NoSQL (ex: MongoDB, DynamoDB).
+ Experiência com ferramentas de Big Data (ex: Apache Spark, Apache Hadoop).
+ Habilidade em linguagens de programação como Python ou Scala.
+ Proatividade, espírito empreendedor e habilidade para trabalhar em um ambiente dinâmico e em rápido crescimento.
+ Excelentes habilidades de comunicação e capacidade de trabalhar em equipe.
+ Conhecimento em ciência de dados e modelos de análise de crédito é um diferencial.
+
+
+Informações adicionais
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Global Agro Analytics Data Science Associate Manager
+
+Sobre a vaga
+Overview
+
+Are you ready to drive PepsiCo’s digital evolution and accelerate transformation across our global operations?
+
+As part of the Analytics stream of the Global Agro Digital Transformation initiative, this role will support the development of analytics use cases for Agro, mostly in the data exploration and visualization, and the modeling of agricultural processes (crop modeling, storage modeling). In this role you will be in charge of generating insights from agronomic data, in order to provide recommendations to maximize the agricultural production of supplies in a sustainable way and with good quality.
+
+Responsibilities
+
+Your day to day with us
+
+ Communicate with business stakeholders in the process of service design, training and knowledge transfer.
+ Day-to-day guidance of a small team of data scientists, aligning priorities and solutions with the project lead.
+ Generate insights from agronomic data, in order to provide recommendations to maximize the agricultural production of supplies in a sustainable way and with good quality.
+ Ensure data access for discovery and proper data is prepared for model usage partnering with data engineers.
+ Generate analytics pipelines and dashboards to refresh and share results for main use cases, including geo-spatial information, to enable stakeholders to have access to main results.
+ Support large-scale experimentation and build data-driven models.
+ Deploy reusable models and recommendations engines to different regions, with proper localization to its particularities.
+ Research in methodologies to fine tune the approach for every analytics use case, with the validation of leads.
+ Generate reusable packages or libraries, with proper documentation.
+
+Qualifications
+
+What you will need to succeed
+
+ 1+ years’ of technical lead/coordination of a team of data scientists.
+ 2+ year’s client/stakeholder facing experience, to collect requirements/specifications, present results and gather feedback.
+ 4+ years’ experience building solutions in the revenue management or in the supply chain space.
+ 4+ years working in a team to deliver production level analytic solutions - Fluent in git (version control).
+ 4+ years’ experience in ETL and/or data wrangling techniques - Fluent in SQL syntaxis.
+ 4+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems.
+ 3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or pyspark development.
+ Experience with MLOps framework design and building machine learning pipelines.
+ Knowledge of containerization technology (Docker/Kubernetes) and REST API design.
+
+Additional qualifications that will make you stand out for this position
+
+ Ideally, experience with MLflow.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+* We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Network Automation Engineer - Especialista
+
+Sobre a vaga
+Job Description
+
+#SomosMaisNaTIM Fazer parte da TIM é se conectar com o que acreditamos e ter MAIS sintonia com todo o TIMe. É aprender novas formas de oferecer ao mundo um trabalho com MAIS propósito. Aprendizado na TIM é MAIS que possibilidade. É o que nos move a fazer MAIS e melhor. É desenvolver habilidades com criatividade e transformar tecnologia em MAIS liberdade. Tecnologia na TIM é MAIS que ter a melhor cobertura. É imaginar as possibilidades com MAIS inovação, conectando todos e todas, com respeito e agilidade. Diversidade e Inclusão na TIM é MAIS que abraçar. É uma cultura cada vez MAIS essencial para o nosso dia a dia. É criar um impacto MAIS positivo sendo quem você é. Vem ser você e fazer parte de um TIMe que tem a coragem para inovar, a liberdade para tentar e a vontade de fazer a diferença na vida das pessoas. #imagineaspossibilidades
+
+Valorizamos a candidatura de Pessoas com deficiência, Pessoas negras, Pessoas LGBTI+, Pessoas 45+ e Mulheres!
+
+Responsibilities and assignments
+
+Responsável por desenhar e implementar a arquitetura de software para elementos de engenharia de rede visando construir uma esteira de automation creation para processos de configuração da rede.
+
+Principais atividades
+
+Projetar, desenvolver e aplicar soluções de automação;
+Identificar e desenvolver os requisitos funcionais e as especificações de design inclusive aquelas que se referem as interfaces para garantir que a nova solução se integre com os sistemas existentes;
+Realizar estudos de viabilidade técnica/ econômica;
+Descrever módulos de software em bloco;
+Desenvolver use cases de Automações e Sistemas utilizando IA/ML;
+Testar e criar codificações em conjunto com os fornecedores;
+Codificar de forma autônoma (workflow para portais);
+Apoiar o desenvolvimento End-to-End de automações na rede CORE Network;
+Apoiar o desenvolvimento e a manutenção de relatórios gerenciais em Power BI;
+Desenvolver e otimizar os códigos de software previamente existentes;
+Apoiar na melhoria da documentação e versionamento de software;
+Efetuar troubleshooting em falhas de sistema operacional Linux e banco de dados.
+
+Requirements And Qualifications
+
+Graduação Superior Completa preferencialmente em Sistemas de Informação, Ciência da computação ou Engenharia de Telecomunicações;
+Desejável experiencia em soluções e desenvolvimento de automações para tecnologia de telecomunicações;
+Necessário conhecimento em desenvolvimento Front-End e Back-End;
+Necessário conhecimento em desenvolvimento WEB. Html, Css, Php, Javascript, Python, Java e Perl;
+Necessário conhecimento em versionamento de Software (Git);
+Necessário conhecimento em metodologias ágeis (SCRUM), DevOps;
+Necessário conhecimento em sistema operacional Linux (avançado);
+Necessário conhecimento em banco de dados (MYSQL, NoSQl);
+Necessário conhecimento Intermediário de Machine Learning e Big Data;
+Desejável conhecimento básico de Cloud Computing;
+Desejável conhecimento em redes móveis;
+Desejável curso na área de IA, BIG DATA ou BI.
+
+Additional information
+
+"Na TIM, o seu bem-estar é o nosso bem-estar, por isso o programa Conexão Bem + Estar tem o propósito de fortalecer o cuidado genuíno da TIM com o TIMe e suas famílias, por meio de iniciativas práticas em diversas frentes para todos e todas estarem sempre bem, na vida pessoal e profissional.
+
+Fique por dentro dos nossos benefícios e iniciativas para o seu bem-estar:
+
+ Assistência Médica e Odontológica *
+ Benefício Medicamentos *
+ Gympass *
+ Vale Alimentação e/ou Refeição
+ Vale Transporte
+ Previdência Privada
+ Aparelho celular com Internet Ilimitada e franquia de Voz
+ Curso de inglês online extensível a 1 familiar ou amigo
+ Programa de Treinamento e Capacitação Internos
+ Participação nos Lucros
+ Meu primeiro benefício - Auxílio para filhos até 2 anos de idade
+ Reembolso Creche (para pais ou mães)
+ Modelos de trabalho e jornada flexíveis
+ Happy Day - Dia de folga no mês do aniversário
+
+E outros!
+
+ Extensível a dependentes legais"
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: Entrevista Talent Acquisition2Entrevista Talent Acquisition
+Step 3: Entrevista Gestor / BP3Entrevista Gestor / BP
+Step 4: Hiring4Hiring
+
+Somos Mais na TIM
+
+É ter MAIS sintonia com todo o TIMe e se conectar com o que acreditamos. É aprender novas formas de oferecer ao mundo um trabalho com MAIS propósito.
+
+É o que nos move a fazer MAIS e melhor. É desenvolver habilidades com criatividade e transformar tecnologia em MAIS liberdade.
+
+É imaginar as possibilidades com MAIS inovação, conectando todas as pessoas, com respeito e agilidade.
+
+É uma cultura cada vez MAIS essencial par o nosso dia a dia. É criar um impacto MAIS positivo sendo quem você é.
+
+Vem ser você e fazer parte de um TIMe que tem a coragem para inovar, a liberdade de tentar e a vontade para fazer a diferença na vida das pessoas.
+
+Isso significa que temos um ambiente positivo de desenvolvimento, oportunidades e inclusão. São o reconhecimento de que fazemos a diferença na vida das pessoas. Vamos continuar trabalhando, desenvolvendo as melhores práticas do mercado e evoluindo junto com nosso TIMe.
+
+Juntos, #SomosMaisNaTIM! 💙
+-----------------------------------------------------------------------------------

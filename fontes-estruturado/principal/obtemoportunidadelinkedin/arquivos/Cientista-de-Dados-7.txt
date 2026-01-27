@@ -1,0 +1,384 @@
+[Oportunidade 1]
+Oportunidade: Cientista de Dados com habilidades IA e AWS
+
+Sobre a vaga
+Job Description
+
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsibilities and assignments
+
+🔍 Estamos em busca de um(a) Cientista de Dados com experiência em IA e ambiente AWS para compor nosso time de inovação e tecnologia! Se você ama desafios, curte explorar dados e transformar ideias em soluções inteligentes, essa vaga é pra você! 💡🤖
+
+🎯 Responsabilidades e Atribuições:
+
+🐍 Desenvolver soluções em Python para processamento e análise de dados
+
+📦 Trabalhar com AWS (S3, Athena) para manipulação de dados em larga escala
+
+🔍 Criar e executar consultas SQL para extração e análise de informações
+
+🔗 Participar de projetos colaborativos utilizando GitHub
+
+🧠 Colaborar em projetos de IA, integrando APIs inteligentes (desejável)
+
+🚀 Atuar com GenAI, Machine Learning, Deep Learning e AWS SageMaker
+
+💪 Ser proativo na resolução de problemas e busca por novos aprendizados
+
+Requirements And Qualifications
+
+✔️ Experiência sólida com Python
+
+✔️ Vivência com projetos colaborativos e versionamento no GitHub
+
+✔️ Experiência prática em AWS (foco em S3 e Athena)
+
+✔️ Conhecimento em SQL
+
+✨ Diferencial: Conhecimento em API do ChatGPT ou outras tecnologias de I 
+
+Additional information
+
+Modelo de Atuação: 100% remoto
+
+Modelo de Contratação: CLT Stefanini
+
+O que te oferecemos:
+
+🍛 Vale Alimentação ou Vale Refeição;
+
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+
+🗣 Mentoring;
+
+🏫 Auxílio Creche;
+
+💉 Clube de vantagens para consultas e exames;
+
+🏥 Assistência Médica;
+
+🦷Assistência Odontológica;
+
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+
+🛫 Clube de viagens;
+
+🐶 Convênio para Pet;
+
+e muito mais...
+
+Process stages
+
+Registration
+Entrevista RH
+Entrevista Cliente/Técnica
+Hiring
+
+Stefanini: Acreditar para Cocriar 🌟
+
+Na Stefanini, a inovação não é apenas uma meta; é uma jornada que trilhamos juntos, onde a colaboração se torna a essência da transformação. 🤝 Com 37 anos de história e uma presença global em mais de 40 países, contamos com uma equipe de 38 mil talentos apaixonados, prontos para transformar desafios em oportunidades por meio da tecnologia. 💡
+
+Acreditamos que cada projeto é uma oportunidade e que, juntos, podemos moldar um futuro mais ágil, eficiente e conectado. Nossa missão vai além de oferecer soluções: buscamos cocriar com nossos clientes, integrando inteligência artificial e tecnologias emergentes para revolucionar o cotidiano das empresas. 🌍✨
+
+Aqui, cada voz conta e cada ideia tem o poder de impactar. Valorizamos a humildade, o respeito, o comprometimento e a coragem, construindo uma cultura onde a inovação floresce. Aqui, liderar é dar o exemplo, e é por isso que inspiramos um ambiente dinâmico onde tecnologia e talento se complementam.
+
+Se você sonha grande, tem coragem de desafiar o convencional e quer fazer parte de uma equipe que acredita no poder da cocriação, junte-se a nós! Vamos, juntos, acreditar e cocriar um futuro brilhante, onde cada passo representa uma nova conquista!🚀✨
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Cientista de Dados Pleno
+
+Sobre a vaga
+Job Description
+
+O time de Analytics e Insights busca um profissional com habilidades em análise de dados, interpretação de métricas e geração de insights estratégicos. Sua principal responsabilidade é transformar grandes volumes de dados em informações objetivas, identificando padrões, tendências e oportunidades de melhoria. Também é papel da equipe desenvolver e manter dashboards, relatórios e análises preditivas, sempre buscando aprimorar a eficiência.
+
+Responsibilities and assignments
+
+Criação de relatórios e dashboards personalizados para os times estratégicos e operacionais da área de negócio do Porto Bank, proporcionando suporte na compreensão das métricas e na jornada do processo;
+Coleta, enriquecimento e estruturação das bases de dados utilizadas na construção de relatórios, utilizando os sistemas disponíveis pela companhia (através de programação);
+Interpretação dos resultados das análises e geração de insights valiosos, comunicando essas descobertas através de apresentações, dashboards ou relatórios de maneira clara e compreensível para todos os stakeholders
+Acompanhamento contínuo dos relatórios existentes para assegurar a qualidade das informações e a manutenção de uma frequência adequada de atualização.
+Transformar grandes volumes de dados em informações estratégicas é um dos principais desafios da função.
+O analista deverá compreender as dores das áreas atendidas e propor soluções de visualização que atendam de forma eficaz às necessidades do negócio.
+Espera-se também que tenha capacidade de síntese e consiga traduzir análises complexas em entregas objetivas, claras e com impacto direto nos resultados.
+
+
+Requirements And Qualifications
+
+Ensino Superior (Estatística, Matemática Aplicada, Economia, Ciência da Computação, Tecnologia, Física ou áreas correlatas);
+Conhecimento intermediário em programação (ex.: SQL, Python, R, Pyspark ou Spark);
+Conhecimento criação de dashboard (preferencialmente Power BI);
+Experiência analítica de indicadores e resultados;
+Conhecimento em Excel;
+Desejável conhecimento em produtos financeiros; 
+
+
+Additional information
+
+Informações adicionais:
+
+Vale Alimentação e Refeição: Seu VR e VA são flexíveis, para que você atenda às suas necessidades e defina a melhor maneira de utilizá-los;
+Vale-Transporte: Para nos encontrarmos na Porto;
+Serviços de Transporte: Para o seu conforto e segurança no trajeto até o nosso escritório, disponibilizamos vans nas principais estações de acesso à Porto: Luz, Barra Funda, Santa Cecília e Júlio Prestes;
+Plano de Saúde, Odontológico e Seguro de Vida: Para que você possa se cuidar, e também cuidar de seus dependentes;
+Participação nos Lucros - PLR: Pois sabemos que só vamos crescer, se crescermos juntos;
+Porto em Ação: Programa complementar à PLR, disponibilizando anualmente, até 2025, uma porcentagem de valor do seu salário em ações da Porto;
+Pais, mães e filhos: Auxílio creche ou babá, para cuidar do seu bem mais precioso;
+Previdência Privada - PortoPrev: Para você garantir um futuro mais tranquilo;
+Gympass: Para você possa se exercitar e cuidar da sua saúde física em diversas academias, onde estiver;
+Bolsa de estudos: Para você começar uma graduação ou que sonha em fazer uma segunda faculdade ou pós-graduação.
+Cursos de Idiomas: Subsídio para cursos de Inglês e Espanhol;
+Programa Saúde Integral: Série de benefícios e iniciativas para te apoiar a encontrar equilíbrio de forma integral, através de três pilares: saúde mental, saúde física e saúde financeira;
+Desconto em Produtos e Serviços: Para que você possa desfrutar dos produtos e serviços deste nosso ecossistema gigante.
+
+
+Na Porto, Você Importa!
+
+A Porto é muito mais que uma seguradora: é um ecossistema gigante que utiliza tecnologia para criar soluções, através de quatro verticais de negócio: Porto Bank, Porto Saúde, Porto Seguro e Porto Serviço. A reputação e o reconhecimento conquistados ao longo de mais de 7 décadas reforçam o tamanho da Porto, uma empresa referência em negócios, feita para e por pessoas.
+
+Aqui, bate no peito de 13 mil colaboradores o orgulho de fazer parte de uma organização sólida e ética, que transforma sonhos em realidades fantásticas para os nossos mais de 15,8 milhões de clientes. São mais de 101 sucursais e escritórios regionais em todo o Brasil.
+
+O aprendizado faz parte do nosso DNA, e aqui, você terá incentivos, ferramentas e gente boa para você aprender e crescer, a cada dia, um ambiente de acolhimento e segurança, onde cada um possa ser e se orgulhar de quem se é, promovendo um espaço de respeito e vivendo de forma integral e com bem-estar, em uma empresa genuinamente humana.
+
+DIVERSIDADE & INCLUSÃO NA PORTO
+
+Aqui na Porto, valorizamos a diversidade e acreditamos que um time plural é imprescindível para o desenvolvimento de todo o nosso negócio, da sociedade, e de cada pessoa, pois entendemos que cada indivíduo é único na construção de um ambiente mais inovador e inclusivo. Juntos, trabalhamos diariamente para construirmos um espaço seguro, livre e acolhedor, com mais pluralidade e respeito. Por isso, incentivamos fortemente a inscrição de mulheres, de pessoas negras e indígenas, de pessoas com deficiência e de pessoas LGBTQIA+ em todas as nossas vagas.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Especialista em Ciência de Dados
+
+Sobre a vaga
+Somos o PAN
+
+Ágeis, flexíveis e criativos, exploramos possibilidades com disposição e desejo de fazer acontecer. Sempre prontos para encarar novos desafios, nutrimos líderes que, além de ter garra, são abertos e empáticos, veem na proximidade das relações, o elo entre cada um.
+
+Nossa missão, se faz cumprida quando transformamos a vida dos outros através dos nossos conhecimentos. Nossos pilares de cultura, reforçam nossa postura idealizadora e com desejo de fazer acontecer: Trabalho em equipe, Transparência , Excelência e Eficiência com profundidade.
+
+Dominamos nossos processos e trazemos melhorias para quem deseja ter uma vida financeira mais inteligente.
+
+Principais desafios:
+
+Desenvolvimento de modelos estatísticos com foco em modelos voltados à redução de ações cíveis, propensão e crédito;
+Atuação técnica com ferramentas como AWS, SQL, Python e Excel;
+Colaboração com outras áreas e times, com uma estrutura horizontal e dinâmica. 
+
+Quais as principais competências para a posição?
+
+Experiência sólida em modelagem estatística e ciência de dados;
+Perfil provocador e colaborativo, com forte capacidade analítica e habilidade para levantar hipóteses e propor soluções;
+Conhecimento técnico em AWS, SQL, Python e Excel;
+Experiência prévia em qualquer segmento é bem-vinda — o importante é ter domínio técnico e visão analítica;
+Não é necessário ter experiência em gestão, mas buscamos alguém com postura de dono e que possa atuar de forma autônoma e estratégica. 
+
+Desejáveis: 
+
+Experiência com modelos aplicados ao setor jurídico ou de risco;
+Vivência em ambientes com estrutura horizontal e foco em entregas de alto impacto. 
+
+Modelo de atuação: Híbrido (4 dias presencial no escritório e 1 dia de home office)
+
+Benefícios do PAN:
+
+Bônus / PLR 🤑
+Vale Refeição 🍔
+Vale Alimentação 🍝
+13º de Vale Alimentação 🤌
+Convênio Médico (internação em apartamento para titular e dependentes) 🏥
+Convênio Odonto/Ortodôntico 😁
+Ambulatório Médico no escritório 🚑
+Telemedicina Dr. Alper (Einstein Conecta) ilimitado. 🩺
+Seguro de Vida ❤
+Descontos em mais de 10 mil farmácias 💊
+4 Sessões de psicoterapia por mês 🤝
+Licença familiar estendida (Responsável 6 meses e corresponsável 30 dias) 👨‍🍼🤱
+Auxílio Creche / Babá 🎒
+AcomPANha (programa de acompanhamento para gestantes) 🫃🤰
+Wellhub/Totalpass 💪
+Auxílio tecnologia assistivas (reembolso de 85% para colaboradores com deficiência) 🦻🦽
+Day Off Aniversário 🎉
+Programas de desenvolvimento 📚
+Massagem e Auriculoterapia 💆‍♀️💆‍♂️
+Salão de beleza no escritório 💇‍♂️💅
+PAE (Orientação Jurídica, Financeira, Psicológica e Social) 🧑‍🎓
+Portal de descontos em diversos segmentos (Allya) 🤑
+Campanha de vacinação (colaborador e dependente) 💉
+Facilitação no financiamento de veículos (Mediante análise) 🚗
+Cartão de crédito PAN com limite diferenciado (Mediante análise) 💳
+Vale Transporte (desconto de apenas 4%) 🚆
+Assistência Funeral 🤍
+
+Assim como todas as nossas vagas, essa também é destinada à diversidade e inclusão. Independentemente de qualquer fator, perfil ou característica, Expanda sua carreira no PAN!
+
+Para conhecer mais sobre nossos benefícios e cultura, acesse o Trabalhe Conosco:
+
+https://www.bancopan.com.br/trabalhe-conosco/
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: CIENTISTA DE DADOS SR
+
+Sobre a vaga
+Job Description
+
+QUEM SOMOS?
+
+Prazer, somos a Suzano!
+
+Aqui a gente acredita que inovação e sustentabilidade caminham juntas. Dessa união, nasce uma atitude plena de significado: a inovabilidade. Pautados por ela, pensamos fora da caixa e enxergamos longe para lidar com os desafios do século 21. Nós plantamos e cultivamos árvores para transformar essa matéria-prima renovável em Bioprodutos para o dia a dia de mais de 2 bilhões de pessoas. Cultivamos a vida na folha do caderno que alfabetiza as crianças, na fralda que protege os bebês, no copo de café que não prejudica o meio ambiente, em papéis absorventes e na comodidade do uso de uma embalagem sustentável.
+
+PLURAL
+
+Iguais e diferentes. Singulares e plurais. Acreditamos que a diversidade nos fortalece, por isso, não fazemos distinção entre candidatos seja por deficiência, gênero, orientação sexual, raça/etnia, idade, origem, constituição familiar ou estética. Aqui você pode descobrir novos desafios, novos horizontes, novos objetivos e até mais sobre si mesmo!
+
+Responsibilities and assignments
+
+Dados
+
+GS15
+
+Local: Faria Lima (SP)
+
+Inscrições até: 27/06/2025
+
+O QUE VOCÊ VAI FAZER?
+
+Desenvolver soluções inovadoras para desafios de negócio por meio da aplicação combinada de técnicas de Machine Learning, estatística e otimização;
+Criar ferramentas voltadas ao aumento da produtividade da equipe em etapas críticas do pipeline de Machine Learning, como pré-processamento, modelagem e deploy;
+Interpretar dados e resultados de forma estratégica, criando visualizações impactantes e narrativas analíticas que gerem insights e direcionem ações de alto valor para a organização;
+Estabelecer parcerias sólidas com diferentes áreas da empresa, promovendo um entendimento profundo dos requisitos e objetivos de negócio;
+Atuar de forma colaborativa em squads ágeis, contribuindo ativamente para entregas rápidas e de qualidade;
+Apoiar e orientar o time no uso de metodologias, ferramentas e melhores práticas aplicadas à resolução de problemas com Machine Learning e outras técnicas analíticas avançadas;
+Definir e implementar boas práticas de Governança de Dados e Gestão de Código, assegurando a qualidade, rastreabilidade e pontualidade das soluções desenvolvidas.
+
+Responsabilidades Especificas
+
+Conduzir e gerenciar análises complexas a partir de múltiplas bases de dados de grande volume (ex: transações, vendedores, clientes), utilizando ferramentas como SQL, R, Python e Excel para garantir resultados consistentes, precisos e de alto valor analítico;
+Desenvolver modelos avançados de otimização (linear inteira, inteira mista, algoritmos evolutivos) e aplicar técnicas de Inteligência Artificial para resolver problemas estratégicos de negócio;
+Estruturar o problema analítico de forma clara, definindo variáveis, features e estratégias de modelagem mais adequadas para cada contexto;
+Implementar modelos como microserviços ou APIs, tanto em ambientes cloud quanto on-premise, promovendo escalabilidade e integração eficiente com sistemas existentes;
+Colaborar com times de TI para definir requisitos de Arquitetura, Segurança e Infraestrutura, assegurando a robustez, automação e conformidade das soluções desenvolvidas;
+Seguir e aplicar rigorosamente as normas, políticas e procedimentos da área, garantindo aderência aos padrões corporativos e regulatórios. 
+
+Requirements And Qualifications
+
+QUEM NOS INSPIRA?
+
+Alguém que acredite em nossos valores;
+Com iniciativa;
+Perfil analítico;
+Que proponha ideias e soluções.
+
+O QUE A SUZANO ESPERA DE VOCÊ?
+
+Formação avançada na área de Analytics e Negócios (Mestrado ou certificações de alto nível);
+Expertise em modelagem matemática e aplicação de modelos de otimização (lineares, inteiros e evolutivos) para problemas reais de negócio;
+Sólida experiência em métodos analíticos avançados, incluindo Machine Learning, Deep Learning e técnicas de Otimização;
+Experiência em programação em Python e/ou R para desenvolvimento, publicação e manutenção de modelos analíticos como microserviços ou APIs, tanto em ambientes cloud quanto on-premise;
+Vivência em ambientes de Consultoria Estratégica e/ou Serviços Financeiros, com foco em entrega de valor e soluções orientadas ao negócio;
+Conhecimento em infraestrutura e serviços de cloud computing, incluindo Containers, Máquinas Virtuais, bancos de dados NoSQL e soluções de integração;
+Prática consolidada no uso de ferramentas de colaboração e versionamento de código (ex: Git, GitHub, GitLab);
+Conhecimento técnico robusto em estatística avançada e domínio de conceitos financeiros aplicados a análises quantitativas; 
+Desejável inglês avançado, com capacidade de comunicação técnica e interpessoal em ambientes globais.
+
+Additional information
+
+NÓS TEMOS MUITO MAIS QUE UM PAPEL NA SUA VIDA!
+
+Cuidados da sua saúde: Plano Médico, Odonto e Seguro de Vida;
+
+VR ou Refeitório, VA para ajudar nas compras do mercado e, no final do ano, VA adicional;
+
+Sabemos que a renda fixa é importante, mas, além disso, oferecemos uma renda extra por meio do nosso Programa de Remuneração Variável (Anual);
+
+Para você se preparar para o futuro temos a Previdência privada;
+
+Praticamos o home office em áreas corporativas, a flexibilidade de horários, além do dress code casual;
+
+Para gerar e compartilhar valor disponibilizamos cursos e treinamentos E-learning em nossa plataforma digital, o UniverSuzano;
+
+Na Suzano, só é bom para nós se for bom para o mundo! Por isso, durante o ano realizamos muitas ações legais e você poderá se tornar um voluntário do nosso programa Voluntariar;
+
+Também contamos com um Clube de Descontos, com diversos parceiros, para você aproveitar!
+
+PARA A FAMÍLIA
+
+Como empresa cidadã, entendemos a importância da chegada de uma criança. Por isso, oferecemos extensão da licença paternidade para 20 dias e maternidade para 180 dias. O benefício também vale para papais e mamães que adotarem ou obtiverem a guarda judicial da criança e para casais homo afetivos;
+
+Para as mamães retornarem tranquilas ao trabalho, oferecemos um auxílio creche bem bacana.
+
+Pensando em oferecer sempre as melhores condições para nosso time e suas família, disponibilizamos um auxílio mensal em dinheiro que se aplica ao pai ou mãe que tiver sob sua guarda filho ou filha com alguma necessidade especial;
+
+Aqui seus filhos e filhos não ficam de fora, oferecemos um vale brinquedo e um kit material escolar recheado! E, se no final do ano os filhos mandarem bem na escola, reconheceremos o seu esforço por meio do nosso programa Estudar é Crescer, com um prêmio em dinheiro que poderão usar como preferir.
+
+SUZANO FAZ BEM
+
+O Faz Bem tem um cuidado especial para você, colaborador(a) e sua família, confira baixo:
+
+Tele Faz Bem: Atendimento gratuito e confidencial ao colaborador(a) Suzano e seus(as) dependentes(as) nas seguintes frentes: Apoio psicológico e de assistência social, orientação jurídica, financeira, de atividade física e nutricional;
+Plataforma de saúde mental – A Wellz, oferece sessões de terapia online subsidiadas pela Suzano de forma confidencial, além de várias oportunidades de auto cuidado como jornadas, diário de humor, terapia em grupo, entre outros;
+Plataforma de saúde física – A Wellhub é uma plataforma completa de bem estar com acesso a academias, aplicativos e aulas on-line com liberdade de escolha de atividades.
+Programa de gestantes – O programa “Bebê Saudável” realiza o acompanhamento gestacional através de contato telefônico e abordagens, além do recebimento de um kit personalizado.
+
+#VemSerSuzano #PlantamosOCuidado #OrgulhoEmPertencer
+
+MUITO PRAZER, NÓS SOMOS A SUZANO! 🌱
+
+Somos uma empresa multinacional brasileira, referência global no desenvolvimento de soluções sustentáveis e inovadoras, de origem renovável, por meio do plantio de árvores de eucalipto. E elas estão no centro do nosso propósito, que é o de “renovar a vida a partir da árvore”. É assim que nós plantamos um futuro mais sustentável para o planeta e para as pessoas.
+
+Temos 100 anos de vida, e hoje, somos a maior fabricante de celulose do mundo e uma das maiores produtoras de papéis da América Latina. Nossos produtos atendem mais de 2 bilhões de pessoas ao redor do planeta e nós exportamos para mais de 100 países. Quanto às unidades, entre administrativas e operacionais, estamos presentes também internacionalmente na Argentina, Áustria, Canadá, China, Estados Unidos, Finlândia, Israel e Suíça.
+
+E, tudo isso só é possível por causa das pessoas da Suzano: somos a soma de cerca de 20 mil colaboradores(as) próprios(as) e mais de 20 mil terceiros e terceiras, além de 300 colaboradores(as) em nossos escritórios internacionais. Trabalhamos para ser uma empresa competitiva e protagonista na transformação da nossa cadeia de valor e da sociedade.
+
+Para saber mais acesse: www.suzano.com.br
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Data Scientist, Brazil - BCG X
+
+Sobre a vaga
+Who We Are
+
+Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact.
+
+To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive.
+
+We Are BCG X
+
+We’re a diverse team of more than 3,000 tech experts united by a drive to make a difference. Working across industries and disciplines, we combine our experience and expertise to tackle the biggest challenges faced by society today. We go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. Leveraging BCG’s global network and partnerships with leading organizations, BCG X provides a stable ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions.
+
+What You'll Do
+
+We are seeking strong candidates with advanced analytics experience to start an exciting consultant career within BCG X. We are looking for profiles with a background in any area related to predictive analytics, machine learning, optimization/operations as well as risk. BCG X offers a unique opportunity to join a vibrant team of data scientists applying the most advanced analytics techniques in a rewarding environment.
+
+What You'll Bring
+
+Education & Experience
+
+ Bachelor’s, Master's or Advanced degree with excellent academic achievements in a field linked to computer science, applied mathematics, statistics, machine learning, or related data centric areas
+ Relevant internships or post-college industry or consulting experience
+ Experience in core analytics methods (e.g. Machine Learning, Optimization, Deep Learning, etc.)
+ Fluency in at least one scripting language (e.g. Python, R)
+ Deep technical and data science expertise, strong passion for data science topics
+ Excellent analytical skills and strategic thinking, creative problem solver
+ Strong interpersonal credibility, reliability, and service mentality, high ethical standards
+ Excellent written and verbal communication skills in Portuguese and English
+
+Technical competencies
+
+ Experience in core analytics methods (e.g. Machine Learning/Deep Learning, Optimization/Operational Research, Geoanalytics, Predictive Modeling, Autonomous Agents, Network Analysis, etc…)
+ Familiarity with a broad base of analytics tools (Data management; Analytics platforms / Programming – e.g. Python, R ; Data Visualization, etc…)
+ Experience in applied analytics for business problem solving/experience building analytical solutions
+
+Additional info
+
+#BCGXjob
+
+Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.
+
+BCG is an E - Verify Employer. Click here  for more information on E-Verify.
+-----------------------------------------------------------------------------------

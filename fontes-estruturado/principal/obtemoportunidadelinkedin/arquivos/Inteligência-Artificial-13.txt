@@ -1,0 +1,359 @@
+[Oportunidade 1]
+Oportunidade: Consultor Técnico - Foco IA
+
+Sobre a vaga
+Job Description
+
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsibilities and assignments
+
+O que esperamos que você realize:
+
+Ser uma referência técnica para o time de ciência de dados, atualmente composto por 8 profissionais
+Desenhar soluções técnicas que atendam às necessidades do negócio, com foco em Inteligência Artificial.
+Manter uma visão focada na entrega de resultados práticos e eficientes.
+Provocar e implementar formas de trabalho mais práticas e ágeis.
+Orientar o time para focar na entrega de valor, em vez de buscar a perfeição técnica.
+
+Requirements And Qualifications
+
+O que precisamos que você tenha de conhecimento:
+
+Requisitos essenciais:
+
+Profunda experiência em Inteligência Artificial (IA), incluindo técnicas de aprendizado profundo (Deep Learning), redes neurais e modelos de linguagem.
+Experiência sólida em Machine Learning, incluindo supervisão, não supervisão e aprendizado por reforço.
+Conhecimento avançado em DataOps, com foco na automação de pipelines de dados e na gestão de ciclos de vida de modelos.
+Familiaridade com frameworks de IA como TensorFlow, PyTorch, Keras, etc.
+Habilidade em programação, preferencialmente em Python, e conhecimento de bibliotecas de ciência de dados como Pandas, NumPy, Scikit-learn.
+Experiência com ferramentas de orquestração de modelos e monitoramento de performance.
+
+Additional information
+
+O que te oferecemos:
+
+🍛 Vale Alimentação ou Vale Refeição;
+
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+
+🗣 Mentoring;
+
+🏫 Auxílio Creche;
+
+💉 Clube de vantagens para consultas e exames;
+
+🏥 Assistência Médica;
+
+🦷Assistência Odontológica;
+
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+
+🛫 Clube de viagens;
+
+🐶 Convênio para Pet;
+
+e muito mais...
+
+Process stages
+
+Registration
+Fit Cultural
+Bate papo com Gente & Cultura
+Bate papo com Gestão
+Carta proposta
+Hiring
+
+Stefanini: Acreditar para Cocriar 🌟
+
+Na Stefanini, a inovação não é apenas uma meta; é uma jornada que trilhamos juntos, onde a colaboração se torna a essência da transformação. 🤝 Com 37 anos de história e uma presença global em mais de 40 países, contamos com uma equipe de 38 mil talentos apaixonados, prontos para transformar desafios em oportunidades por meio da tecnologia. 💡
+
+Acreditamos que cada projeto é uma oportunidade e que, juntos, podemos moldar um futuro mais ágil, eficiente e conectado. Nossa missão vai além de oferecer soluções: buscamos cocriar com nossos clientes, integrando inteligência artificial e tecnologias emergentes para revolucionar o cotidiano das empresas. 🌍✨
+
+Aqui, cada voz conta e cada ideia tem o poder de impactar. Valorizamos a humildade, o respeito, o comprometimento e a coragem, construindo uma cultura onde a inovação floresce. Aqui, liderar é dar o exemplo, e é por isso que inspiramos um ambiente dinâmico onde tecnologia e talento se complementam.
+
+Se você sonha grande, tem coragem de desafiar o convencional e quer fazer parte de uma equipe que acredita no poder da cocriação, junte-se a nós! Vamos, juntos, acreditar e cocriar um futuro brilhante, onde cada passo representa uma nova conquista!🚀✨
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Staff AI Engineer (Conversational AI)
+
+Sobre a vaga
+Chatbot Engineer (Staff)
+
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+TELUS Digital seeks an AI Engineer with strong conversational AI and architecture skills to turn client needs into scalable generative AI solutions. You’ll design and implement conversational AI architectures, working with stakeholders and conversation designers to build, test, and optimize LLM-driven workflows. Using API development, SQL, and the Google suite, you’ll integrate, prompt engineer, and secure AI models while ensuring compliance and performance.
+
+Responsibilities
+
+Discover and analyze business requirements, being the advocate for the customer while also understanding existing technology capabilities.
+Develop application architecture design for high complexity projects, with emphasis on technical architecture, and implement solutions.
+Participate in the review of detailed design specifications, test plans, and user documentation for functional and technical completeness and accuracy.
+Bring creativity, strong logic skills, and the ability to work in a dynamic, challenging, and consultative environment.
+Apply your knowledge of software engineering and AI systems to develop AI solutions targeted at conversational AI use cases.
+Partner with Conversation Designers who specialize in advanced linguistics and conversational best practices, ensuring optimal architecture and conversational flows are being designed.
+Take ownership of implementing and optimizing conversational flows, prompt engineering, and AI components, ensuring they meet project needs with high complexity and scale.
+Navigate and manipulate generative AI models, including large language models, to create prompts and solutions tailored to specific use cases.
+Develop and incorporate AI solutions while adhering to industry best practices, including moderation, security, and compliance standards.
+Lead the charge in testing and evaluating conversational flows, leveraging standard metrics to ensure alignment with business objectives.
+Meet with stakeholders and partners, understanding requirements and translating technical concepts into non-technical verbiage.
+
+Qualifications
+
+Experience with call center technology, Virtual Assistants, GenAI-powered Chatbot development, and conversational voice and chat implementations.
+Experience in the GCP environment, including Google Dialogflow CX, Google CCAI, Google CES, or similar.
+Demonstrable experience with Generative AI and NLP, leveraging LLMs, and prompt engineering for conversational use cases.
+Strong prompt engineering skills, understanding, and leveraging key techniques such as zero-shot, few-shot, chain-of-thought, and others.
+Understanding of the trade-offs between generative AI models and the ability to choose the right model for specific use cases.
+Experience with API development with Python and/or JavaScript, and SQL and SQL-based databases. 
+Experience with solution observability, monitoring, and performance evaluation.
+Familiarity with testing and evaluating AI systems using state-of-the-art methods and best practices.
+Self-starter characteristic, willing to operate nimbly to drive execution/to meet deliverables, and experience working remotely.
+Ability to communicate complex technical terms and concepts effectively to technical and non-technical stakeholders.
+Present strong analytical, creative thinking, decision-making skills, and have the ability to think outside the box to drive continuous improvement.
+Strong collaboration skills and ability to work alongside Data Science specialists, drawing on their expertise in AI model development and fine-tuning to deliver sophisticated AI solutions.
+
+Bonus Points
+
+Experience with data embeddings and vector databases, understanding the trade-off between available options, and leveraging it to optimize data ingestion.
+Experience designing and implementing large-scale conversational systems for a large number of intents and use cases.
+Previous experience in the contact center world.
+Contributions to AI thought leadership in the industry.
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de IA
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenvolver, treinar e implantar modelos de IA/ML, incluindo modelos generativos (LLMs).
+Construir e manter pipelines automatizados de MLOps para todo o ciclo de vida dos modelos.
+Otimizar performance de modelos e da infraestrutura (nuvem, GPU, etc.)
+Criar APIs e serviços robustos para disponibilizar modelos de forma escalável.
+Atuar com grandes volumes de dados, garantindo qualidade e disponibilidade.
+Monitorar sistemas em produção, aplicar testes e realizar manutenções contínuas.
+Automatizar infraestrutura usando ferramentas de IaC (ex: Terraform, Ansible).
+Colaborar com times de dados, produto, desenvolvimento e ciência de dados.
+
+Qualificações Essenciais
+
+Formação em Computação, Engenharia, Estatística ou áreas afins.
+Experiência com Python e bibliotecas como TensorFlow, PyTorch, Scikit-learn.
+Vivência com desenvolvimento e implantação de modelos de IA/ML.
+Conhecimento de boas práticas de engenharia de software, versionamento (Git) e metodologias ágeis.
+Experiência com plataformas de nuvem (AWS, Azure ou GCP).
+Familiaridade com MLOps, APIs, conteinerização (Docker) e bancos de dados.
+
+Serão Considerados Diferenciais
+
+Experiência com IA Generativa (LLMs, fine-tuning, RAG).
+Conhecimento em frameworks de orquestração (Kubernetes, Kubeflow).
+Atuação prévia com visão computacional ou processamento de linguagem natural (PLN).
+Contribuições em projetos open-source de IA/ML/MLOps.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de dados | Dados
+
+Sobre a vaga
+No Seu Dia a Dia
+
+A atuação será junto a times de áreas de negócio para desenhar, implementar e gerenciar pipelines de Big Data;
+Criação de tabelas analíticas com os dados normalizados para o consumo e uso das áreas de negócios; 
+Utilização de tecnologias como: AWS cloud (S3, EMR, EC2, Athena, Lambda, Kinesis, Redshift, SNS, SQS, etc.) e outras ferramentas de Big Data (NiFi, Sqoop, Airflow, Kafka, Spark, Hive, Presto, etc.), Python e SQL; 
+Automatização de fluxos e esteiras de dados para alimentação do datalake. 
+
+Esperamos De Você
+
+Graduação completa em Engenharia, Computação, matemática ou áreas correlatas; 
+Disponibilidade para atuação híbrida no escritório de Botafogo no Rio de Janeiro; 
+Flexibilidade e aderência a ambientes dinâmicos; 
+Boa comunicação, relacionamento interpessoal e trabalho em equipe; 
+Conhecimento em Python, SQL e modelagem de dados; 
+Ferramentas de Big Data e Engenharia de Dados, como Pyspark, NiFi, Airflow, etc; 
+Conhecimento em ambiente de computação em nuvem e datalakes/datawarehouses em nuvem.
+
+Diferenciais
+
+Experiência em infraestrutura como código (IaC), como Terraform; 
+Experiência em Arquiteturas Lakehouse ; 
+Experiência em contrução de fluxos em NRT (Integrações com Grafana); 
+Certificação em AWS e/ou GCP; 
+Experiência em soluções de Governancia de Dados a nível linha. 
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Engenheira de Machine Learning Sênior - Data & AI
+
+Sobre a vaga
+Job Description
+
+O Hub Digital faz parte da área de Tecnologia da Globo e tem papel central na nossa transformação em uma empresa media tech e D2C. Aqui cuidamos da gestão de dados e do desenvolvimento dos produtos digitais — como Globoplay, Globo.com, G1, GE, Gshow e Cartola — com foco na melhor experiência de consumo, interação e relacionamento com os nossos usuários.
+
+Sobre a área de Data & AI
+
+Nossa frente de Data & AI desenvolve plataformas de dados, experimentação, machine learning, recomendação e segmentação de audiência para os produtos digitais da Globo. Também criamos e evoluímos modelos de predição de churn, prospecção, afinidade e anomalias; modelos de extração de metadados para publicidade contextual; otimização de inventário e cache; inferência de relações e sistemas de recomendação de conteúdo.
+
+Neste contexto, buscamos uma pessoa para atuar como Machine Learning Sênior na Home da Globo.com, com foco no aprimoramento dos modelos de recomendações da Home da Globo.com por meio de soluções baseadas em inteligência artificial.
+
+Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação.
+
+Modelo de trabalho: Híbrido (Rio de Janeiro, São Paulo ou Porto Alegre)
+
+Responsibilities and assignments
+
+Como será seu dia a dia:
+
+Atuar em um time multidisciplinar ao lado de cientistas de dados, engenheiros de ML, engenheiros de dados, desenvolvedores e POs, contribuindo para a formulação e validação de hipóteses baseadas em dados;
+Construir, produtizar, monitorar e manter modelos com foco em engajamento, retenção e personalização de conteúdo;
+Explorar e implementar ferramentas e frameworks para desenvolvimento de workflows de IA e sistemas de recomendação;
+Promover boas práticas de engenharia e infraestrutura para projetos de ML em produção;
+Contribuir com soluções escaláveis e sustentáveis em IA, antecipando impactos no negócio;
+Impactar positivamente a experiência de milhões de usuários da Home da Globo.com.
+
+
+Requirements And Qualifications
+
+Do que você precisa:
+
+Proficiência em Python e SQL para análise e modelagem de dados;
+Experiência com frameworks de ML como TensorFlow, Keras, Scikit-learn e PyTorch;
+Conhecimento de boas práticas de desenvolvimento de software e arquitetura de sistemas;
+Familiaridade com pipelines de ML e produtização de modelos;
+Experiência com cloud computing (preferencialmente GCP);
+Prática com ferramentas de versionamento (Git) e CI/CD;
+Proatividade na adoção de novas tecnologias;
+Interesse em arquiteturas envolvendo LLMs e IA Generativa.
+
+
+ Conhecimentos que te destacam:
+
+Experiência com sistemas de recomendação em larga escala;
+Familiaridade com arquiteturas de Deep Learning (Transformers, CNNs, RNNs, Autoencoders, LLMs);
+Vivência com pipelines baseados em RAG (Retrieval-Augmented Generation);
+Experiência com frameworks para agentes LLM;
+Conhecimento em bancos de dados vetoriais;
+Desenvolvimento de APIs de predição em tempo real;
+Manipulação de grandes volumes de dados (big data);
+Prática com MLOps: Docker, Kubernetes, Vertex AI Pipelines, monitoramento de modelos, Continuous Training.
+
+
+Additional information
+
+Por que vir para Globo:
+
+Vem e vamos criar histórias e tecnologias juntos.
+
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.
+
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.
+
+Aqui, cada um faz a transformação acontecer.
+
+Nossos processos seletivos estão acontecendo de forma 100% remota. #vempraglobo
+
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação. 
+
+Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes:
+
+https://www.linkedin.com/company/globo
+
+https://www.instagram.com/vempraglobo
+
+https://www.youtube.com/c/VemPraGlobo/
+
+Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://vempraglobo.g.globo/files/politica_de_privacidade.pdf
+
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos.
+
+✨somos globo✨
+
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação. 
+
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles. 
+
+Aqui, cada um faz a transformação acontecer. 
+
+Quer fazer parte dessa transformação também?
+
+#VemPraGlobo ;)
+-----------------------------------------------------------------------------------

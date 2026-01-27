@@ -1,0 +1,281 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Software Sênior – TI – Corporativo RJ/SP
+
+Sobre a vaga
+Requisitos: 
+→ Superior completo em Tecnologia;
+→ Experiência comprovada em desenvolvimento de APIs REST, microsserviços, transformação de dados e serviços AWS, em especial: API Gateway; Lambda; S3; SQS; SNS; DynamoDB; DMS e Athena;
+→ Profundo domínio em linguagens de programação, com destaque para JavaScript ou Python;
+→ Profundo entendimento de padrões de design de software, práticas de design orientado a eventos e AWS Well-Architect Framework;
+→ Ampla experiência com DevOps e linguagens para IaC, preferencialmente Terraform;
+→ Sólida experiência com bancos de dados relacionais e NoSQL;
+→ Conhecimento avançado em metodologias ágeis de desenvolvimento de software como Scrum, Kanban, SAFe ou outras metodologias relevantes;
+→ Extensas experiências práticas com plataformas e protocolos de versionamento de código (por exemplo, git);
+→ Experiência robusta com desenvolvimento orientado a testes e em processos de integração e entrega contínua de software;
+→ Capacidade de tomar decisões arquiteturais importantes e resolver problemas complexos relacionados a performance, segurança e custo;
+→ Experiência com análise de requisitos não funcionais e contornos de restrições de arquitetura.
+Desejável:
+→ Proficiência em tecnologias associadas a infraestrutura como Docker e K8S.
+→ Conhecimento aprofundado sobre padrões e processos abertos de comunicação e segurança como OpenAPI 3.0, OAuth 2.0, Kerberos.
+→ Fluência em inglês, tanto escrita quanto falada.
+→ Certificações em linguagens de programação (Python, Java) e em soluções de nuvem AWS.
+Atividades:
+→ Compreender as necessidades do cliente e do negócio para projetar soluções de software eficientes, escaláveis e financeiramente viáveis;
+→ Analisar requisitos técnicos e funcionais para garantir a qualidade, velocidade e viabilidade do projeto;
+→ Colaborar com outras equipes para garantir que a solução atenda às necessidades do cliente;
+→ Colaborar com a elaboração de cronogramas;
+→ Prover manutenção e suporte a sistemas e plataformas em produção;
+→ Desenvolver e manter documentações sólidas, completas e compreensíveis sobre os sistemas em desenvolvimento e legados;
+→ Participar no planejamento de projetos, fornecer estimativas de tempo e recursos necessários para a conclusão das tarefas de desenvolvimento;
+→ Liderar equipes de desenvolvimento;
+→ Tomar decisões arquiteturais críticas e contribuir para a definição de padrões e melhores práticas da empresa;
+→ Realizar análise de requisitos não funcionais e tomar decisões relacionadas a aspectos como performance, segurança e custo;
+→ Apoiar nos testes e homologação de soluções;
+→ Manter-se atualizado com as tendências e tecnologias emergentes do setor, aplicando-as quando relevante.
+Outras informações:
+- Local de trabalho: Av. JK – Itaim bibi/SP;
+- Escala de trabalho: 5x2 - Seg a Qui das 08 às 18 h, sex. 08 às 17 h;
+- Atuação híbrida, sendo 2x na semana presencial;
+- Remuneração: Salário + Ass. Médica + Ass. Odontológica + Vale Refeição + Seguro de vida + Clube de parcerias + bonus de acordo com atigimento de metas da Cia, e da área.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Back End Java | Inglês Avançado | Remoto
+
+Sobre a vaga
+SOBRE A CAPCO 
+
+A Capco é uma consultoria global de tecnologia e gestão especializada na transformação digital, oferecendo soluções inovadoras e orientadas por dados para um portfólio crescente de mais de 100 clientes globais, entre eles bancos, pagamentos, mercados de capitais, gestão de patrimônio e ativos, seguros e setor de energia. Nos destacamos pela abordagem personalizada, focada na construção de parcerias estratégicas de longo prazo e na aceleração de iniciativas digitais. Nossa expertise ganha vida por meio dos Innovation Labs e da cultura premiada #BeYourselfAtWork, que valoriza a diversidade e o talento. Com presença global nos principais centros financeiros - temos 40 escritórios nas Américas, Europa e Ásia-Pacífico - estamos comprometidos em oferecer soluções práticas e integradas, promovendo colaboração e confiança em cada projeto. Se criatividade e inovação são sua paixão, a Capco é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira!
+
+Estamos procurando um(a) Desenvolvedor(a) Java com experiência em Spring Boot para atuar na construção e manutenção de aplicações backend escaláveis, seguras e de alto desempenho. O profissional fará parte de um time ágil, contribuindo para o desenvolvimento de soluções robustas para nossos clientes.
+
+Responsabilidades
+
+Desenvolver e manter APIs e microsserviços utilizando Java + Spring Boot 
+Projetar, implementar e otimizar funcionalidades para aplicações backend 
+Integrar serviços com bancos de dados SQL e NoSQL 
+Participar da definição da arquitetura e das boas práticas de desenvolvimento 
+Escrever testes unitários e de integração (JUnit, Mockito) 
+Realizar revisões de código e colaborar com a equipe para melhorias contínuas 
+Trabalhar com Docker e Kubernetes para implantação e escalabilidade 
+Garantir segurança e desempenho nas aplicações 
+
+Requisitos
+
+Experiência em Back End 
+Experiência comprovada em desenvolvimento com Java 8 ou superior 
+Sólido conhecimento no Spring Framework (Spring Boot, Spring Data, Spring Security) 
+Experiência com APIs RESTful 
+Familiaridade com JPA/Hibernate 
+Experiência com bancos de dados PostgreSQL, MySQL ou MongoDB 
+Controle de versão com Git 
+Conhecimento em mensageria (RabbitMQ, Kafka) 
+Experiência com testes automatizados 
+Boas práticas de Clean Code e princípios SOLID 
+Formação em TI ou áreas relacionadas 
+Inglês avançado
+
+Diferenciais
+
+Experiência com AWS, Azure ou GCP 
+Conhecimento em CI/CD (Jenkins, GitLab CI) 
+Experiência com arquitetura de microsserviços 
+Familiaridade com Quarkus 
+Conhecimento em ferramentas de infraestrutura como código (Terraform) 
+Certificação em Java ou Cloud 
+Experiência em consultoria 
+
+Por Que Capco
+
+Juntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente!
+
+Próximos Passos
+
+O objetivo da Capco é conduzir um processo flexível e alinhado às necessidades de cada oportunidade e talento.
+
+Etapa 1: Entrevista comportamental.
+Etapa 2: Entrevista técnica.
+Etapa 3: Conversa com time de Projeto/ Delivery.
+Etapa 4: Conversa com cliente.
+Etapa 5: Proposta ou feedback.
+
+As etapas do nosso processo seletivo descritas são essenciais para garantir uma avaliação completa e assertiva. Contudo, elas podem ser ajustadas dependendo da senioridade do(a) candidato(a), da área de atuação e do formato do projeto.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenharia de Software Sênior - Java Cloud
+
+Sobre a vaga
+Descrição da vaga
+
+O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 98 milhões de clientes em 18 países.
+
+Somos feitos de pessoas e acreditamos que ter um time com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das diferenças.
+
+Modelo de trabalho: Híbrido sem escala Metro Conceição São Paulo zona sul.
+
+Responsabilidades e atribuições
+Vem ser Ituber na comunidade de Cash Management!
+
+Ambiente de muita colaboração, trabalho em equipe, com muitos desafios e aprendizado constante. Atuação nos times da comunidade de Cash, comunidade integrada com negócios, productech!
+
+Estamos buscando uma pessoa para a posição de 792392, que queira se desenvolver e aprender, compartilhar, colaborar e inovar, entregando valor para todos os nossos clientes.
+
+Nessa função você vai:
+
+Estamos em busca de pessoas engenheiras de software que amam tecnologia, tem perfil de desenvolvedora e que querem protagonizar a evolução de uma plataforma que faz a diferença para milhares de clientes PJ todos os dias.
+
+A pessoa para essa posição deve ter conhecimento/familiaridade com melhores práticas de código e padrões de soluções em plataforma Cloud e Microsserviços. Também é necessária motivação para atuar em um contexto complexo, desafiador cujas aplicações são sistemas de missão crítica, que demandam alta disponibilidade e baixa latência.
+
+
+Requisitos e qualificações
+Nossa principal stack envolve:
+
+- Java/Spring Boot
+- Python
+- Cloud Computing (AWS -> ECS/EC2/S3/SNS/SQS/API Gateway/Lambda/Glue/RDS/Aurora/DynamoDB)
+- Infraestructure as Code (Terraform)
+- Mecanismos de Autenticação (OAuth/JWT/CIAM/OpenId/RBA)
+- Melhores práticas de Desenvolvimento de sistemas, Qualidade, DevOps, Observabilidade, Resiliência, Tolerância a Falhas, dados
+
+Plataforma modernizada AWS. Oportunidade de fazer parte da construção e evolução de uma plataforma que faz a diferença na vida dos nossos clientes PJ.
+
+
+Informações adicionais
+Ao se tornar um ituber você tem
+
+Vale-Transporte
+Vale-Refeição (Restaurantes) / Vale-Alimentação (Supermercados)
+Plano médico (Fundação Saúde Itaú ou Central Nacional Unimed)
+Plano odontológico (Odontoprev ou Interodonto)
+Seguro de Vida
+PLR – Participação nos Lucros e Resultados (Mediante resultados do banco)
+Previdência privada
+Descontos exclusivos em nossos produtos financeiros
+Licença maternidade e paternidade estendida
+Auxílio Creche / Babá (para papais e mamães)
+Incentivo a estudos
+Wellhub ou TotalPass
+Acesso aos Clubes de Lazer Itaú (Guarapiranga / Itanhaém e São Sebastião)
++ Algumas vantagens que você pode conhecer durante o processo 😊
+ Conheça mais sobre nossa cultura: https://www.itau.com.br/relacoes-com-investidores/noticias/cultura-itubers-e-nosso-novo-conjunto-de-valores/
+ *Estimulamos candidaturas de pessoas com deficiência em todas as nossas posições, sendo assim, sinta-se à vontade para se candidatar em vagas sinalizadas como exclusivas ou não para pessoas com deficiência. Somos comprometidos com a inclusão e valorizamos a diversidade.
+
+#VemProItaú #VemSerItuber
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Java Engineer - Work from home
+
+Sobre a vaga
+Explore the Nearsure experience!
+
+🌐 Join our close-knit LATAM remote team: Connect through fun activities like coffee breaks, tech talks, and games with your team-mates and management.
+
+🍃 Say goodbye to micromanagement! We champion autonomy, open communication, and respect for diversity as our core values.
+
+⚖️Your well-being matters: Our People Care team is here from day one to support you with everything from time-off requests to wellness check-ins.
+
+Plus, our Accounts Management team ensures smooth, effective client relationships, so you can focus on what you do best.
+
+Ready to grow with us? 🚀
+
+Here’s what we offer you by joining us!
+
+✨ Competitive USD salary 💲 – We value your skills and contributions!
+🌐 100% remote work 🏢 – While you can work from anywhere, you’re always welcome to connect with teammates and grow your network at our coworking spaces across LATAM!
+💼 Paid time off – Take the time you need according to your country’s regulations, all while receiving your full salary. Rest, recharge, and come back stronger!
+🎉 National Holidays celebrated 🌴 – Take time off to celebrate important events and traditions with loved ones, fully embracing your culture.
+😷 Sick leave – Focus on your health without the stress. Take the necessary time to recover and feel better.
+💸 Refundable Annual Credit – Spend it on the perks you love to enhance your work-life balance!
+🤝 Team-building activities – Join us for coffee breaks, tech talks, and after-work gatherings to bond with your Nearsure family and feel part of our vibrant community.
+🥳 Birthday day off 🎂 – Enjoy an extra day off during your birthday week to celebrate in style with friends and family!
+
+About the project:
+
+As a Senior Java Engineer, you will find and implement solutions for issues, create new software or applications by writing code, using visual development environments to debug, and ensure the technical architecture runs smoothly. A significant aspect of your job is to not only contribute your skills but also mentor other software engineers to improve their skills and productivity.
+
+How your day-to-day work will look like
+
+✅ Collaborate with product, design, and other business stakeholders to design and implement impactful product features to make the lives of our users easier.
+✅ Develop features and improvements to the client product in a secure, well-tested, and performant way.
+✅ Advocate for improvements to product quality, security, and performance.
+✅ Solve technical problems of moderate scope and complexity.
+✅ Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment.
+✅ Conduct architecture reviews and code reviews within our Code Review Guidelines and enforce best practices.
+✅ Keep up to date with emerging trends in software architecture and cloud infrastructure.
+✅ Recognize impediments to our efficiency as a team ("technical debt"), propose and implement solutions.
+✅ Design and architect microservices-based solutions using Java and related technologies.
+✅ Advocate for improvements to product quality, security, and performance.
+
+This would make you the ideal candidate
+
+✨ Bachelor's Degree in Computer Science, Engineering, or a related field.
+✨ 7+ Years of experience working in Software Development.
+✨ 5+ Years of experience working with Java.
+✨ 3+ Years of experience working in architectural design or working as a solutions architect.
+✨ 3+ Years of experience working with Distributed systems.
+✨ 3+ Years of experience working with Microservices.
+✨ 3+ Years of experience working with SQL (recent experience).
+✨ 1+ Years of experience working with Kotlin.
+✨ Knowledge of testing and security fundamentals, concurrency and transactional common issues and events.
+✨ Advanced English Level is required for this role as you will work with US clients. Effective communication in English is essential to deliver the best solutions to our clients and expand your horizons.
+
+What to expect from our hiring process
+
+1. Let’s chat about your experience!
+2. Impress our recruiters, and you’ll move on to a technical interview with our top developers.
+3. Nail that, and you’ll meet our client - your final step to joining our amazing team!
+
+🎯 At Nearsure, we’re dedicated to solving complex business challenges through cutting-edge technology and we believe in the power of tailored solutions. Whether you are passionate about transforming businesses with Generative AI, building innovative software products, or implementing comprehensive enterprise platform solutions, we invite you to be part of our dynamic team!
+
+We would love to hear from you if you are eager to make an impact and join a collaborative team that values creativity and expertise.
+
+Let’s work together to shape the future of technology! 
+
+🧑‍💻 Apply now! 
+
+By applying to this position, you authorize Nearsure to collect, store, transfer, and process your personal data in accordance with our Privacy Policy. For more information, please review our Privacy Policy. (https://www.nearsure.com/privacy-policy)
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvimento Back-End (Java) Sênior
+
+Sobre a vaga
+Quais serão suas responsabilidades?
+
+Experiência ou conhecimento em práticas ágeis para aumentar a eficiência do desenvolvimento de software;
+Aplicação de TDD para assegurar a qualidade e a funcionalidade do software desde o início do desenvolvimento;
+Experiência ou conhecimento em gerenciar APIs com ferramentas de API Gateway;
+Familiaridade com serviços da AWS para desenvolvimento e implantação em nuvem.
+
+O que é necessário para participar desse processo seletivo?
+
+ Experiência com Java 17;
+ Experiência com SQL (Oracle);
+ Experiência com NoSQL (MongoDB);
+ Experiência com Spring Framework;
+ Experiência com Spring Data JPA, Hibernate;
+ Experiência com Spring Data MongoDB;
+ Experiência com Spring Data Redis;
+ Experiência com Mensageria (Kafka);
+ Experiência com Swagger Open API;
+ Experiência com consumo e construção de APIs REST
+ Experiência com Git (Git, Gitlab, Bitbucket);
+ Experiência com Docker;
+ Experiência com Kubernetes / Kibana / DataDog
+ Experiência com Arquitetura de Microserviços;
+ Experiência com Padrões de projetos (Hexagonal, Clean, SOLID);
+ Conhecimento ou Experiência em Desenvolvimento ágil;
+ Conhecimento ou Experiência em Test Diven Developmente (TDD);
+ Conhecimento ou Experiência com Api Gateway (Kong, Amplify);
+ Conhecimento de Cloud AWS;
+ Bons conhecimentos de segurança e atualizações de vulnerabilidades (Prisma, sast do gitlab).
+
+Por que fazer parte do time DBC Company?
+
+ Somos a 18ª melhor empresa para trabalhar do Brasil e a 4ª melhor empresa para trabalhar no Rio Grande do Sul, segundo o GPTW 2024;
+ Todos os profissionais que estão alocados em clientes e/ou projetos são acompanhados por Gestor da DBC e também por Líder de Smartsourcing;
+ A DBC incentiva seus colaboradores a obterem certificações relacionadas à sua área de atuação e alinhadas com sua Gestão DBC.
+
+O que é importante saber?
+
+ Nosso time promove um ambiente seguro para todas as pessoas profissionais independente de sua etnia, crença religiosa, orientação sexual, identidade de gênero, deficiência, idade etc;
+ Oportunidade 100% home office.
+-----------------------------------------------------------------------------------

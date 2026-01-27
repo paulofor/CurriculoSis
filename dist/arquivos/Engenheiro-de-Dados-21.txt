@@ -1,0 +1,216 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de software sênior
+
+Sobre a vaga
+Tipo de contrato: PJ
+Cargo: Engenheiro de Software Java/Kotlin Sr
+Jornada: Comercial - Hibrida - 1 semana do mês no escritório
+Local: Brooklin Paulista - São Paulo - SP
+
+Benefícios da Vaga: 40 hora de descanso remunerado
+
+Escolaridade mínima:
+Graduação - Concluído - Obrigatório
+
+Experiências e qualificações:
+
+Linguagens : Java/Kotlin;
+Frameworks : Spring Boot;
+Banco de Dados : PostgreSQL;
+Arquitetura Distribuída : Kafka;
+Cloud: AWS;
+
+Buscamos um profissional com forte capacidade de resolução de problemas e otimização de sistemas.
+Proficiente em Kotlin/Java e ter experiência prática com arquiteturas como microsserviços e sistemas distribuídos com alta disponibilidade.
+É essencial ter conhecimento em práticas de monitoramento e segurança, bem como experiência em integração de sistemas e boas práticas de código.
+Hard Skills Arquitetura e Design Patterns Clean Architecture, SOLID, Microsserviços , DDD, bancos relacionais e NoSQL, Testes Automatizados, IaC.
+Filas de mensagens como RabbitMQ e Kafka.
+Event-Driven Architecture (EDA)
+Experiência com plataformas de cloud computing, como AWS, para arquitetar e implementar soluções escaláveis e resilientes.
+CI/CD (Continuous Integration/Continuous Delivery)
+Containers e Orquestração (Docker, Kubernetes)
+Monitoramento e Observabilidade
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Data Scientist / Machine Learning Engineer
+
+Sobre a vaga
+Machine Learning Engineer Who We Are
+
+In 2021, Poatek was acquired by WillowTree, an award-winning digital product consultancy recognized as one of the fastest growing and best places to work in the United States. Now a TELUS International company , with offices across the globe, we continue to partner with the world’s leading brands, such as the FOX, Capital One, HBO, PepsiCo, Domino’s and more, to design, build, and transform their digital products and strategies. We’re looking to grow our Poatek offices in Brazil with top talent excited to collaborate with team members across the globe to deliver innovative solutions for our clients.
+
+Location and Flexibility
+
+This is a hybrid role. This model requires the ability to work in a hybrid mode from one of our offices in São Paulo (2 times/ week or 8 days/ month) or Porto Alegre (3 times/ week or 12 days/ month). Our WFN culture is designed to foster in-person innovation, collaboration, and connection with team members local and visiting from other global offices.
+
+The Opportunity
+
+As a Machine Learning Engineer on our team, you'll design, develop, and deliver machine learning solutions, decipher loosely defined problems using complex datasets, and determine appropriate analytical and modeling techniques. You'll analyze structured and unstructured data, establish automated processes for large-scale modeling, perform exploratory analysis, and collaborate with peers on data acquisition and exploration, demonstrating a strong sense of ownership and urgency.
+
+Responsibilities
+
+Work on all aspects of the design, development and delivery of machine learning enabled solutions for our clients;
+Come up with solutions to loosely defined business problems by leveraging pattern detection over complex datasets across multiple platforms;
+Establish efficient, automated processes for large-scale modeling;
+Become part of a highly skilled and geographically distributed team;
+Collaborate with peers on problem definitions, data acquisition, data exploration, visualization as well as building the tools that support this process;
+Strong sense of ownership, urgency and drive.
+
+Qualifications
+
+Relevant experience in data science/ machine learning development
+Bachelor and/or Master degree in Statistics, Mathematics, Physics, Computer Science or other related subject.
+Proficiency in Python.
+Experience with machine learning frameworks (like Keras, TensorFlow, or PyTorch) and libraries (like scikit-learn).
+Strong understanding of machine learning algorithms, processes, tools and platforms.
+Experience with container management and machine learning deployment frameworks, such as Kubernetes, Kubeflow and MLFlow. 
+Big Data Hadoop work experience (either integration the models with the tools in Hadoop or other)
+Software development experience from scoping, requirements design, development, integration, testing, go live to PROD (vs internal research work)
+Ability to work on distributed cloud platforms
+Fluent English
+
+Why Poatek?
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+Flexible hours and autonomy
+ Work with cutting edge technologies 
+ Partner with global and relevant brands in the market 
+ Collaborative team and learning ecosystem 
+ Career development plan & growth 
+ Internacional travel opportunities (optional) 
+
+Some Of Our Benefits
+
+ Health and dental plan 
+ Life insurance 
+ Monthly voucher for meals, culture, education, health and mobility 
+ Child care assistance and more! 
+
+Equality is a principle here at Poatek. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing those information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Engenheiro de Dados GCP Pleno Trabalho Remoto Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+Estamos buscando uma pessoa que ouse protagonizar ocupando a posição de Pessoa Engenheiro de Dados GCP Pleno. 💜
+
+Junte-se à Datum e faça parte da 6ª melhor empresa para trabalhar no Rio Grande do Sul e a 28ª do Brasil pelo GPTW!
+
+Requisitos e qualificações
+
+Experiência em Google Cloud Platform (BigQuery, DataForm, DataFlow, Pub/Sub, Dataproc, Looker, etc);
+
+Conhecimentos em SQL, Python, ETL, entrega de modelos ML, Cloud Storage, Vertex.
+
+Informações adicionais
+
+Nossos datunianos usufruem de benefícios e programas que atendem diversas áreas da vida.
+
+Para sua saúde, oferecemos assistência médica e odontológica sem coparticipação em exames e consultas.
+Seguro de vida
+Quer mais bem-estar? Oferecemos Gympass, Zenklub (com duas sessões gratuitas por mês) e ginástica laboral para dar aquela alongada durante o expediente.
+Quando bater aquela fome, utilize nosso benefício de alimentação Caju para fazer compras em qualquer supermercado ou restaurante.
+Ama viajar? Aqui temos o Férias & Co, um benefício que te ajuda a viabilizar aquela viagem dos sonhos.
+Tem filhos? Temos auxílio creche.
+Quer aprender um novo idioma? Temos parceria com a escola CCAA, com descontos de até 40% nos cursos, e também o English Live que oferece 30% de desconto na mensalidade.
+Para deixar seu ambiente de trabalho com a sua cara, conte com o nosso auxílio home office.
+Quer protagonizar? Participe do Protagonistas, nosso game da vida real, e ganhe prêmios incríveis!
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Entrevista com Talent Acquisition2Entrevista com Talent Acquisition
+Etapa 3: TA ponto focal 3TA ponto focal 
+Etapa 4: Enviado para CS4Enviado para CS
+Etapa 5: Enviado ao Cliente 5Enviado ao Cliente 
+Etapa 6: Entrevista com Cliente 6Entrevista com Cliente 
+Etapa 7: Aguardando Aprovação 7Aguardando Aprovação 
+Etapa 8: Aprovado/Negociação 8Aprovado/Negociação 
+Etapa 9: Contratação9Contratação
+
+O que você ousa ser?
+
+Somos uma consultoria de tecnologia que há 24 anos desenvolve soluções digitais que promovem crescimento para pessoas e negócios. Atualmente, lideramos mais de 80 projetos e uma carteira de mais de 40 clientes ativos nos segmentos de varejo, bancos e fintechs, entre outros.
+
+Trabalhamos constantemente para proporcionar um ambiente no qual todos que integram nosso ecossistema se sintam bem e performem o seu melhor, desde a chegada na empresa. Por isso, temos parcerias com Gympass, Zenklub, Férias & Co e instituições de ensino, além de proporcionar diversos momentos de conexão e trocas entre os times.
+
+Nossos datunianos – forma carinhosa como nos referimos aos colaboradores – são valorizados e valorizam estar conosco. Por isso, em 2023, fomos reconhecidos pela Great Place to Work (GPTW) pelo nosso compromisso com as pessoas como a 6ª melhor empresa para trabalhar no Rio Grande do Sul, a 28ª nacionalmente e a 29ª melhor empresa de TI do Brasil.
+
+Junte-se à Datum!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheira de Software II, Backend - Grocery: Vaga Exclusiva para Mulheres
+
+Sobre a vaga
+Sobre a Uber  
+
+Na Uber re-imaginamos a maneira como o mundo se move para melhor. A ideia nasceu em uma noite de neve em Paris em 2008 e, desde então, nosso DNA de reimaginação e reinvenção continua. Crescemos em uma plataforma global que move pessoas e coisas de maneiras cada vez maiores, enfrentando grandes problemas para ajudar usuários, motoristas e entregadores parceiros a fazer o movimento acontecer com o apertar de um botão para todas as pessoas, em todos os lugares. Aqui um de nossos valores fundamentais é "grandes mentes não pensam da mesma forma". Esse valor diz respeito ao nosso compromisso como empresa de construir times verdadeiramente diversos, promovendo igualdade de oportunidades para todas as pessoas.
+
+ Nosso objetivo é construir um ambiente inclusivo, não somente pensando no espaço físico de nossos escritórios, mas também fornecendo oportunidades de carreira e crescimento profissional. Buscamos pessoas apaixonadas pelo contato com stakeholders, que gostem de trabalhar em um ambiente colaborativo e estejam interessadas em desenvolver suas carreiras dentro de uma empresa global cheia de oportunidades. Se você se identifica como mulher e quer ajudar a Uber a reimaginar a maneira como o mundo se move, por favor, considere se candidatar a esta vaga que oferecerá uma experiência profissional única! 
+
+ Missão do Cargo 
+
+Colaborar com os times para construir e manter os serviços de softwares e soluções, oferecendo suporte aos produtos voltados ao usuário, serviços downstream ou ferramentas e plataformas de infraestrutura usadas na Uber.
+
+O Que Você Precisa Para Aplicar
+
+ Na Uber, criamos oportunidades ao colocar o mundo em movimento. Assumimos grandes problemas para ajudar usuários, motoristas e entregadores parceiros a se movimentarem em mais de 10 mil cidades ao redor do mundo. Queremos pessoas de todas as origens que buscam a oportunidade de ajudar a construir um futuro em que todas e todos possam se mover de forma independente. Se você tem curiosidade, paixão e espírito colaborativo, trabalhe conosco e vamos fazer o mundo avançar, juntas! 
+
+ Graduação e/ou experiência profissional nas áreas de engenharia e tecnologia, ou correlacionados. 
+ Experiência na área de desenvolvimento de software, com foco em Backend. 
+ Inglês: Nível avançado para conversação e confiança para escrever e ler em inglês (é importante que você sinta confiança no seu inglês para participar de reuniões e troca com pessoas de outras nacionalidades, além das entrevistas). É importante também que tenha disponibilidade para desenvolver suas habilidades na língua inglesa, caso necessário. 
+ Mentalidade Construtiva: disposição e abertura para pedir ajuda, aprender e crescer. 
+ Foco em impacto: possuir um foco em gerar resultados e impacto para todos os usuários, não apenas para uma parcela dos usuários. 
+ Propósito: capacidade de articular porque essa é a vaga certa para você e para sua história. 
+ Transformação: se sentir bem trabalhando em um ambiente inovador e cheio de mudanças, atuando com ambiguidades e com diferentes pontos de vista. 
+
+  Serão considerados diferenciais se:  
+
+ Possuir experiência prévia trabalhando em produtos e/ou times globais. 
+ Possuir experiência com soluções de alta escalabilidade. 
+ Possuir experiência com sistemas distribuídos.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Software Engineer, Data Science and Engineering
+
+Sobre a vaga
+Please submit your resume in English - we can only consider applications submitted in this language.
+
+Minimum qualifications:
+
+Bachelor’s degree or equivalent practical experience. 
+5 years of experience with software development in one or more programming languages, and with data structures/algorithms.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+
+Preferred qualifications:
+
+1 year of experience in technical leadership. 
+Experience with mobile Android/iOS development or mobile web development.
+Ability to analyze and understand complex problems and their resulting dependencies.
+
+About The Job
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+As the Data Science and Engineering team, we drive product excellence, user and ecosystem growth for Search, Gemini and Assistant with data insights. Within Data Science and Engineering, our working group is positioned as the main solutions for ensuring Google connects users with content they find most helpful to fill their information needs. We support critical initiatives for Search and Google, such as Content quality improvement, Personalization, and Gemini. We are also the team behind evaluation methodologies widely adopted by Search that helps in defining its Objectives and Key Results (OKRs).
+
+The Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.
+
+Responsibilities
+
+Write and test product or system development code. 
+Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. 
+Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). 
+Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. 
+Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+-----------------------------------------------------------------------------------

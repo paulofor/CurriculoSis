@@ -1,0 +1,257 @@
+[Oportunidade 1]
+Oportunidade: Data Engineer
+
+Sobre a vaga
+A Infosys Brasil está buscando profissionais com o perfil de Data Engineer (JR.)
+
+ Principais atividades e responsabilidades 
+ Experiência em projetar, criar e manter módulos e serviços Cloud para dados e análises. 
+ Desenvolver pipelines de dados e processos de ETL usando os serviços de dados e análise do GCP ( preferencialmente), e linguagens de programação como Python e SQL. 
+ Desenvolver scripts de automação e orquestração para implantar e gerenciar recursos de dados e análise em cloud, usando ferramentas como Terraform, Ansible e Jenkins. 
+ Conhecimento profundo dos serviços e da arquitetura de dados, incluindo experiência com DataFlow, DataProc, BigQuery e Pub/Sub. 
+Habilidades analíticas e de resolução de problemas. 
+
+ Qualificações necessárias 
+ Bacharelado em Ciência da Computação, Tecnologia da Informação, Engenharia de Software ou em uma área relacionada. 
+Conhecimento profundo em banco de dados SQL. 
+Inglês avançado. 
+
+ Benefícios 
+
+ Tipo de trabalho : CLT , Horários flexíveis e formato híbrido (presencial e remoto). 
+ Pacote de benefícios: Vale Transporte, Ticket Refeição, Assistência médica-hospitalar e Odontológico, Auxílio Creche, Auxílio Dependente (filho PCD) , Seguro de Vida, Auxílio Funerário e PLR. 
+ Carreira: Atuação Global em clientes e/ou projetos nacionais e internacionais, e possibilidade de movimentação de carreira internacional. 
+ Desenvolvimento: Infosys Global Education Center é a maior universidade corporativa do mundo, disponibilizamos mais de 80 mil títulos de treinamentos internos, além dos cursos e certificações com parceiros homologados (Microsoft, Google, Amazon e SAP), sem custos para todos os nossos profissionais. 
+
+About Us
+
+Infosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.
+
+Infosys provides equal employment opportunities to applicants and employees without regard to race; color; sex; gender identity; sexual orientation; religious practices and observances; national origin; pregnancy, childbirth, or related medical conditions; status as a protected veteran or spouse/family member of a protected veteran; or disability.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+AQUI VOCÊ IMPACTA DE VERDADE: SUA CARREIRA, AS PESSOAS, O MUNDO
+
+A Hotmart é uma empresa global de tecnologia, líder em negócios digitais e protagonista na Creator Economy (Economia dos Criadores de Conteúdo). Com sede nos Países Baixos, nosso time de Troopers - forma como carinhosamente chamamos nossos colaboradores (as) - está espalhado por sete países.
+
+Nosso jeito de trabalhar é desenvolver talentos enquanto geramos impacto positivo no mundo. Para isso, usamos a tecnologia para possibilitar que pessoas transformem seu conhecimento em negócios de sucesso e trabalhamos com Autonomia, Liberdade e “Love”, para sempre lembrarmos de nutrir relações sinceras e nos importar com as pessoas à nossa volta.
+
+Formamos um ecossistema multiplataforma que impulsiona o mercado da Creator Economy e gera impacto global, cumprindo nossa missão de encorajar as pessoas a compartilharem seus conhecimentos para ganharem o mundo ao criar, vender e escalar seu negócio digital.
+
+Suas Responsabilidades/Seu Dia Dia
+
+Atuar no ecossistema AWS com foco em processamento de dados em escala, orquestração de pipelines e arquiteturas modernas de Data Lakehouse.
+Suporte cross-funcional: Apoio a diferentes times e trabalho em conjunto
+Participação ativa em chats e discussões técnicas
+Mentalidade de melhoria contínua
+Disponibilidade para tirar dúvidas de outras áreas
+Definição de arquitetura de dados.
+
+As Qualificações Que Você Precisa Ter
+
+Java 8+ 
+Apache Spark.
+AWS S3
+AWS Lambda.
+Apache Airflow.
+AWS Redshift.
+AWS DynamoDB.
+Data Lakehouse: Delta Lake ou Iceberg.
+Filas/Mensageria: SQS,SNS.
+AWS EMR.
+AWS Athena.
+Trino.
+Terraform.
+
+VOCÊ TERÁ AINDA MAIS VANTAGENS SE POSSUIR …
+
+Python
+Streaming: Kinesis ou outras ferramentas de stream
+Monitoramento: CloudWatch
+ETL: AWS Glue
+Bancos Relacionais: PostgreSQL, MySQL
+Outras opções de storage: Blob Storage, GCS
+Outras opções de DW: ClickHouse, BigQuery, Synapse
+
+POR QUE TRANSFORMAR AO NOSSO LADO?
+
+Plano de saúde e odontológico com cobertura nacional, sem custo para o colaborador e com coparticipação para cônjuge e dependentes; 
+Vale refeição/alimentação (Flash - bandeira Visa); 
+Benefício flexível (Flash Multibenefícios - bandeira Visa), podendo ser destinado à alimentação, refeição, mobilidade (aplicativos de transporte, combustível, transporte público em SP), cultura, saúde e educação;
+Previdência privada; 
+Vale transporte;
+Seguro de vida;
+Wellhub;
+Auxílio creche para filhos de até cinco anos;
+Budget de educação: valor destinado aos investimentos relacionados à sua educação, de forma a contribuir para desenvolver e potencializar suas competências;
+Incentivo ao aprendizado de idiomas por meio de plataforma online;
+Baby On Board: benefício oferecido para as pessoas que estão se preparando para a maternidade e paternidade; 
+Licença maternidade estendida (180 dias);
+Licença Paternidade estendida (30 dias);
+Conexa Saúde: acesso online gratuito a profissionais da área da saúde - Nutricionista e Psicólogo;
+Participação anual nos lucros e resultados da companhia (PLR);
+Hotmart Recharge: bônus de 30% do salário bruto mensal, pago após cumprir o período aquisitivo de férias de 30 dias.
+
+VEM PRA HOTMART
+
+Fazer parte do nosso time, é acordar todos os dias com a certeza de que o mundo é pequeno para o tamanho do impacto que podemos gerar. Vem pra Hotmart e apaixone-se por transformar: você, sua carreira, o mundo!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenharia de Software Pleno -AWS/ Jav
+
+Sobre a vaga
+Vem ser Ituber & vem fazer Itaú
+
+O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 60 milhões de clientes em 18 países. Somos feitos de pessoas e acreditamos que ter um quadro com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das diferenças. Não queremos você apenas por achar que tem a nossa cara. Queremos ter um pouco da sua também! 
+
+Modelo de trabalho Hibrido 8 vezes por mês -Metro Conceição zona sul de São Paulo
+
+O que você precisa para ser um Ituber?
+
+Estamos buscando pessoas que queiram se desenvolver e aprender constantemente, compartilhando, colaborando, inovando e entregando valor para todos os nossos clientes. Aqui a gente não sabe tudo, a gente vai de turma.
+
+Como é o dia a dia de um Ituber nessa área?
+
+Atuar na comunidade de Cash Management Recebimentos e Pagamentos PJ, como engenheiro de software.
+Desenvolvemos soluções de pagamentos para clientes PJ, utilizando tecnologias modernas, em um ambiente desafiador, colaborativo e em constante evolução.
+Buscamos uma pessoa para nos apoiar na construção, evolução e inovação das nossas soluções técnicas com o objetivo de oferecer as melhores experiências aos nossos clientes.
+O profissional irá atuar em todo o ciclo de desenvolvimento de software, desde a concepção até a sustentação, apoiando em refinamentos técnicos, desenvolvimento de novas funcionalidades, correção de bugs e melhorias de performance.
+
+Atuar em times ágeis e multidisciplinares
+Desenvolvimento de aplicações backend
+Apoiar em refinamentos técnicos e definição de soluções
+Noções sobre design patterns e boas práticas
+Implementar estratégias de qualidade (testes unitários, integrados, performance)
+Realizar code review garantindo a aplicação de boas práticas
+Implementar observability e monitoração do ambiente
+Garantir escalabilidade, resiliência e alta disponibilidade da plataforma
+Atuar no Build e Run dos produtos
+
+Venha conosco construir o melhor banco de Cash Management do Brasil!
+
+No que você precisa mandar bem?
+
+Tecnologia: Java , AWS , Terraform , Spring Boot , ECS/EKS , Kafka , Observability , DynamoDb , RDS , Python
+
+Stack de tecnologias:
+- Java 11+ / Spring Boot
+- Python
+- AWS (ECS, EKS, Lambda, CloudWatch, SQS, SNS, Api Gateway, etc)
+- Kafka
+- Banco de Dados SQL (RDS) e NoSQL (DynamoDb)
+- Terraform
+- Datadog
+
+
+Ao se tornar um Ituber você tem
+• Vale Transporte
+• Vale Refeição (Restaurantes) / Vale Alimentação (Supermercados)
+• Convênio médico e odontológico
+• Seguro de Vida
+• PLR – Participação nos Lucros e Resultados (Mediante resultados do banco)
+• Previdência privada
+• Descontos exclusivos em nossos produtos financeiros
+• Licença maternidade estendida & paternidade
+• Auxílio Creche / Babá (para papais e mamães)
+• Incentivo a estudos
+• GymPass ou TotalPass
+• Acesso aos Clubes Itaú (Guarapiranga / Itanhaém e São Sebastião)
+• + Algumas vantagens que você pode conhecer durante o processo
+
+*Estimulamos candidaturas de pessoas com deficiência em todas as nossas posições, sendo assim, sinta-se à vontade para se candidatar em vagas sinalizadas como exclusivas ou não para pessoas com deficiência. Somos comprometidos com a inclusão e valorizamos a diversidade.
+
+
+#VemProItaú #VemSerItuber
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Java Developer - Remote
+
+Sobre a vaga
+At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work.
+
+About the Role:
+We are looking for Java Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passionate about programming in this language and oriented to provide the best experience to the end user.
+
+This is an excellent opportunity for those professionals looking to develop in one of the fastest growing companies in the industry!
+
+Main Activities:
+- Work with software development teams to gather requirements and ensure best practices are adhered.
+- Design, Implement & Support solutions for application development, security, analytics and performance management.
+- Conform to existing industry security coding standards adhering to fortify scan and other security tool review requirements.
+- Conduct code reviews for junior members of the team and do peer code reviews to make sure code is following standards set forward by the architects.
+- Run test scripts against code to ensure quality delivery.
+- Resolve code issues with urgency.
+
+Requirements:
+- 5+ years of experience in Java.
+- Experience in web application programming.
+- Knowledge of Object Oriented Programming.
+- Ability to work with relational and non-relational bases.
+- Advanced English level.
+
+Benefits:
+• Flexibility: Choose where and how you work for enhanced creativity and innovation.
+• Tailored Compensation: Personalize your earnings to suit your financial goals.
+• Tech-Driven Tools: Access cutting-edge resources for seamless collaboration and productivity.
+• Autonomous Workflow: Take control of your schedule to achieve work-life balance.
+• Well-being: Enjoy generous leave policies for rest and rejuvenation.
+• Diversity & Inclusion: Thrive in a diverse and inclusive environment.
+• Collaboration: Engage with industry leaders for collective growth.
+• Development: Access mentorship and growth opportunities for continuous advancement.
+
+If you are interested in being part of a team composed of the best professionals and working 100% goal-oriented in an innovative environment, but with the structure and resources of a multinational market leader, do not hesitate to apply!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: PESSOA DESENVOLVEDORA JAVA SR – AFIRMATIVA PARA PESSOAS NEGRAS - REMOTO
+
+Sobre a vaga
+Descrição da vaga
+Somos o grupo educacional mais diversificado do país. Todos os dias, criamos futuros incríveis através da inovação. Colocamos a mão na massa para tirar as ideias do papel e colocá-las em prática. Enfrentamos desafios com resiliência e nos adaptamos às mudanças constantes.
+
+Por aqui, somos um time e não heróis, guiados pela vontade de fazer a diferença e conectados de um só jeito, o #JeitoCogna. Nossa relação é direta e respeitosa, e o sucesso dos nossos alunos e clientes é o nosso sucesso.
+
+Além disso, valorizamos a diversidade, porque sabemos que quanto mais diverso é o nosso repertório, mais abrangente e inclusivo seremos. Juntos impulsionamos as pessoas a construírem uma melhor versão de si! E aí, bora fazer parte da empresa líder absoluta do segmento educacional? Vem pra Cogna.
+
+
+Responsabilidades e atribuições: 
+Desenvolver aplicações Java e/ou Kotlin utilizando o Spring Framework;
+Implementar design patterns e boas práticas de engenharia de software;
+Trabalhar com mensageria e integração de sistemas em ambiente AWS;
+Participar ativamente em projetos de desenvolvimento de software;
+Contribuir com a equipe na resolução de problemas e melhorias contínuas.
+
+Requisitos e qualificações: 
+Graduação em Ciência da Computação, Engenharia de Software ou áreas afins;
+Experiência com programação orientada a objetos e desenvolvimento Java e/ou Kotlin;
+Conhecimento em bancos de dados SQL e NoSQL;
+Certificações em tecnologias específicas serão um diferencial;
+Habilidade de comunicação eficaz e trabalho em equipe;
+Proatividade, capacidade de aprendizado contínuo e resolução de problemas.
+
+
+O que você pode esperar da gente?
+Participação nos lucros: resultados com comemoração fazem parte do jeito Cogna.
+Vale-refeição ou alimentação: num cartão de benefícios flexível.
+Assistência médica: um abrangente plano de saúde, com inclusão de dependentes e coparticipação.
+Assistência odontológica: está disponível para manter seu sorriso.
+
+
+Mas espera, ainda tem mais! 
+
+Bolsas de estudo de graduação e pós graduação: nossas unidades de ensino para que você e seus dependentes (cônjuge e filhos).
+Day off no aniversário: você poderá escolher um dia para relaxar e celebrar.
+Convênio SESC: abre as portas para as inúmeras oportunidades de melhora na qualidade de vida.
+Convênio farmácia Univers: descontos numa variedade de medicamentos.
+Universidade corporativa: diversas trilhas e cursos gratuitos na nossa universidade corporativa para você seguir evoluindo com a gente.
+Descontos em livros: para você adquirir os melhores títulos em nossas editoras.
+Wellhub (Gympass): para que você possa se movimentar no seu dia a dia.
+Programa Ninho: Um programa dedicado às nossas famílias que estão aguardando um novo bebê.
+Valoriza - Programa de Recrutamento Interno: Para impulsionar sua carreira por meio de oportunidades internas.
+
+
+Aqui, acreditamos no respeito, na diversidade e na busca da inclusão em todas suas frentes. Todos os candidatos qualificados serão considerados independentemente de raça, gênero, identidade, expressão de gênero, orientação sexual, nacionalidade, genética, deficiência ou de qualquer outra base.
+Nosso propósito é avançar cada vez mais, gerando empregabilidade para talentos diversos. Venha enriquecer nosso time!
+-----------------------------------------------------------------------------------

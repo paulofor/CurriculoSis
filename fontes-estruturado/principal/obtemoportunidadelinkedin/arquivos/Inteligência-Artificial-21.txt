@@ -1,0 +1,325 @@
+[Oportunidade 1]
+Oportunidade: Data Technology Consultant
+
+Sobre a vaga
+We are seeking a Data Technology Consultant to join our remote team and play a key role in driving data-driven solutions for our clients. This position offers the opportunity to work at the intersection of business and technology, helping organizations leverage data to achieve measurable outcomes. If you are a strategic thinker with a passion for solving complex problems through data, this role is a great fit for you.
+
+Responsibilities
+
+
+Collaborate with stakeholders to understand business challenges and design data solutions that align with organizational objectives
+Define product goals, establish success metrics, and track progress to deliver measurable business value
+Partner with technical teams, including Solution Architects and Data Engineers, to develop scalable and effective data solutions
+Lead client engagements and contribute to presales activities by showcasing expertise in data analytics and understanding client requirements
+Manage and prioritize the product backlog to ensure alignment with the roadmap and customer expectations
+Evaluate data quality and availability, identifying gaps and opportunities for improvement within data governance processes
+Stay updated on industry trends in data analytics and apply this knowledge to improve solutions and strategies
+Support data integration and processing initiatives to ensure clean, actionable data for decision-making
+Effectively communicate data insights and strategies to technical and non-technical stakeholders to ensure alignment across teams
+
+
+Requirements
+
+
+At least 8 years of experience in IT as a Data Analytics Consultant, Data Product Manager, or a similar role
+Minimum of 2 years of experience leading teams of 20 or more employees
+Experience in at least 5 full-cycle projects or launching a product (or key product capability) to the market
+Strong knowledge of data platforms and their applications
+Proficiency in SQL and Python for coding and data analysis
+Demonstrated leadership and managerial experience in data-driven projects
+Experience with cloud platforms such as AWS, Azure, or GCP
+Deep understanding of data architecture, data lifecycle, and designing data products
+Hands-on experience delivering data solutions, including data lakes, advanced analytics platforms, and reporting tools
+Strong analytical skills with the ability to simplify complex problems and present actionable insights
+Ability to collaborate with technical teams and business stakeholders to define and deliver impactful data solutions
+Proven ability to manage and deliver data projects focused on business value and measurable outcomes
+Excellent organizational skills with the ability to manage multiple priorities and projects effectively
+Advanced English proficiency, both written and spoken, to facilitate communication and collaboration with clients and stakeholders
+
+
+Nice to have
+
+
+Project Management certification
+Experience with data visualization tools and techniques
+Knowledge of advanced data science and machine learning concepts
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Mid Level AI Engineer (MLOps)
+
+Sobre a vaga
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+TELUS Digital seeks an AI Engineer with MLOps and LLMOps background to own projects’ pipelines and CI/CD infrastructure, supporting the turning business requirements into production-ready AI/GenAI features. You’ll build scalable MLOps frameworks, convert AI research into seamless integrations, and optimize models through prompt engineering and embeddings. Strong skills in Python or TypeScript, machine learning (including deep learning and NLP/LLMs), and the ability to explain complex concepts to all stakeholders are essential.
+
+Responsibilities
+
+Design, implement, and maintain scalable ML and LLM pipelines for training, validation, deployment, and monitoring.
+Apply your knowledge of software engineering and AI systems to develop AI solutions that directly address and resolve business problems.
+Take ownership of implementing and optimizing applied AI components, ensuring they meet project needs with high complexity and scale.
+Partner with other data and AI professionals to compile the team's work into comprehensive pipelines for continuous integration, deployment, and delivery
+Own end-to-end infrastructure for model CI/CD, including versioning, automated testing, and evaluations.
+Develop and incorporate AI and GenAI solutions and pipelines while adhering to industry best practices, including moderation, security, and compliance standards.
+Lead the charge in designing, measuring, and evaluating AI model outputs, developing standard and custom metrics to ensure alignment with business objectives.
+Translate AI research into production-ready features, delivering robust and scalable AI components that integrate seamlessly with larger systems.
+Drive the selection and application of appropriate evaluation metrics, ensuring that AI solutions are robust, unbiased, and meet all necessary performance standards.
+
+Qualifications
+
+Hands-on experience building and operating MLOps platforms (Docker, Kubernetes, Terraform) and LLMOps frameworks.
+Strong experience with CI/CD in the GCP environment, leveraging services and frameworks such as Vertex AI, Kubeflow, DataFlow, Cloud Build, Cloud Deploy, Artifact Registry, and Container Registry.
+Experience configuring and deploying LLM Guardrails, while ensuring security and compliance among AI-powered solutions.
+Expertise in tracking application execution with observability tools such as LangFuse, Phoenix, while leveraging Cloud Monitoring dashboards and alerts.
+Strong understanding of the trade-offs between Generative AI models, considering the balance of cost and performance, depending on the use case.
+Demonstrable experience in applied AI, with a foundation in machine learning, deep learning, NLP, LLMs, and statistical analysis.
+Experience with data embeddings and vector databases, understanding the trade-off between available options, and leveraging it to optimize data ingestion.
+Experience with software development in Python and/or TypeScript for API development and orchestration. 
+Skilled in creating and adjusting prompts for complex AI systems to meet diverse project requirements.
+Familiarity with testing and evaluating AI systems using state-of-the-art methods and best practices.
+Ability to communicate complex AI solutions and concepts effectively to technical and non-technical stakeholders.
+
+Bonus Points
+
+Withhold a GCP certification on AI/ML, Cloud, or Data segments. 
+Experience deploying and maintaining large-scale data-intensive solutions, maintaining high throughput, low latency, and data security.
+Experience with advanced Agentic AI architecture, performance optimization of machine learning models, and the integration of AI into larger software ecosystems.
+Contributions to AI thought leadership in the industry.
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Developer Phyton , Brasil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Responsabilidades
+- Entender as necessidades técnicas do projeto, participar de inceptions e refinamentos, e atuar no desenvolvimento e evolução de uma solução escalável e de alta performance.
+- Compreender as necessidades técnicas, colaborando ativamente em inceptions e refinamentos.
+- Desenvolver e evoluir soluções de software que atendam aos padrões de escalabilidade e alta performance.
+
+
+Requisitos necessários:
+- Experiência em Python: Sólido conhecimento em desenvolvimento backend utilizando frameworks como FastAPI, Flask ou Django.
+- Testes Unitários: Habilidade para implementar e manter testes unitários.
+- CI/CD: Familiaridade com processos de integração e entrega contínua.
+- Padrões de Projeto: Conhecimento em design patterns.
+- Docker e Conteinerização: Experiência em containerizar aplicações utilizando Docker.
+- Versionamento de Código: Proficiência em ferramentas de versionamento, especialmente Git.
+- Clean Code: Compromisso com boas práticas de codificação.
+- DevOps/DevSecOps: Conhecimento e práticas de DevOps e segurança em DevOps.
+- TDD: Experiência com Test-Driven Development (TDD).
+- SOLID: Compreensão dos princípios SOLID de design de software.
+
+
+Qualificações desejáveis (diferencial)
+- IA/ML: Experiência no desenvolvimento e implantação de soluções de Inteligência Artificial e Machine Learning.
+- LLM e LangChain: Conhecimento em Large Language Models e LangChain.
+- Cloud: Experiência em serviços de nuvem, preferencialmente Azure ou AWS.
+Frontend: Habilidade em desenvolvimento frontend utilizando Angular e TypeScript.
+- Microsserviços: Familiaridade com arquiteturas de microsserviços.
+- Bancos de Dados: Relacional: PostgreSQL, NoSQL: MongoDB, Vetorial: Pinecone, Graph: Neo4j
+
+ #Midsenior
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de Software Sênior Python | IT Performance
+
+Sobre a vaga
+Estamos em busca de um(a) Desenvolverdor Sênior para atuar no time de Performance e Consolidação. Buscamos uma pessoa proativa, com boa comunicação, que tenha facilidade para cálculos matemáticos e um rápido aprendizado sobre produtos financeiros.
+
+Requisitos
+
+Experiência sólida em Python, com foco em boas práticas de programação (SOLID, Clean Code).
+Proficiência em AWS (AppSync, Lambda, Mensageria AWS, entre outros serviços essenciais para projetos escaláveis com AWS).
+Capacidade de atuar em projetos grandes e distribuídos, garantindo performance e escalabilidade.
+Boa comunicação e trabalho em equipe para interagir com áreas diversas.
+Rápida adaptação e capacidade de aprender novos produtos e conceitos financeiros.
+Disponibilidade para atuar de forma híbrida(3x) na Faria Lima em São Paulo
+Projetos no mercado de investimentos (integrações, dados de custódia, relatórios, etc.)
+
+Diferenciais
+
+Conhecimento em JavaScript/.NET
+Experiência prévia no mercado financeiro ou entendimento de conceitos de rentabilidade e investimentos
+Experiência em criar um projeto escalável do início, para tratar grande volume de dados
+Desejável: atuação em consolidação de investimentos e cálculo de performance (TWR, MWR, IRR)
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Solution Architect AI/ML , AGS Brazil Specialist SAs
+
+Sobre a vaga
+Description
+
+Você é apaixonado por ajudar clientes a construir soluções utilizando ferramentas de Inteligência Artificial, Machine Learning e Deep Learning de ú
+
+ltima geração na Amazon Web Services (AWS)? Gostaria de se concentrar no desenvolvimento de sistemas de IA agênticos para nossos clientes no Brasil? Venha se juntar a nós!
+
+Na Amazon, investimos profundamente em inteligência artificial por mais de 20 anos, e muitas das capacidades que os clientes experimentam em nossos produtos são impulsionadas por machine learning.
+
+A AWS está procurando um Arquiteto de Soluções de Inteligência Artificial/Machine Learning (AI/ML SA), para se juntar aos nossos outros Especialistas (SMEs) ajudando clientes a projetar soluções que aproveitam nossos serviços de GenAI, incluindo Amazon Bedrock, Amazon SageMaker e Amazon Q. Como parte da equipe, você trabalhará diretamente com clientes para viabilizar casos de uso em larga escala, projetar pipelines de GenAI, construir sistemas agênticos e impulsionar a adoção da AWS para plataformas de AI/ML. Você interagirá com outros SAs no campo, fornecendo orientação em seus engajamentos com clientes, e desenvolverá white papers, blogs, implementações de referência e apresentações para permitir que os clientes aproveitem totalmente a GenAI na AWS. Além disso, como a voz do cliente, você trabalhará em estreita colaboração com as equipes de serviço e enviará solicitações de recursos de produtos para impulsionar a plataforma.
+
+A AWS Global Sales impulsiona a adoção da nuvem AWS em todo o mundo, permitindo que clientes de todos os tamanhos inovem e se expandam na nuvem. Nossa equipe capacita cada cliente a crescer, fornecendo serviço ersonalizado, tecnologia incomparável e suporte inabalável. Mergulhamos profundamente para entender os desafios únicos de cada cliente e, em seguida, criamos soluções inovadoras que aceleram seu sucesso. Essa abordagem centrada no cliente é como construímos a nuvem mais adotada do mundo. Junte-se a nós e nos ajude a crescer.
+
+A AWS Sales, Marketing e Global Services (SMGS) é responsável por impulsionar receita, adoção e crescimento das contas de pequeno e médio porte maiores e de crescimento mais rápido até clientes de nível empresarial, incluindo o setor público.
+
+Key job responsibilities
+
+A equipe de Especialistas em IA/ML Brasil constrói relações técnicas com clientes de todos os tamanhos e atua como seu consultor de confiança, garantindo que eles obtenham o máximo da nuvem em cada etapa de sua jornada enquanto adotam Machine Learning em toda a sua organização.
+
+Você gerenciará o relacionamento técnico geral entre a AWS e nossos clientes, fazendo recomendações sobre segurança, custo, desempenho, confiabilidade e eficiência operacional para acelerar seus desafiadores projetos de Machine Learning.
+
+Internamente, você será a voz do cliente, compartilhando suas necessidades em relação ao uso de nossos serviços, impactando o roadmap de recursos de IA/ML da AWS.
+
+Nesta função, sua criatividade conectará tecnologia a soluções tangíveis, com a oportunidade de construir agentes de IA para uma variedade de casos de uso.
+
+Você participará da criação e compartilhamento de melhores práticas, conteúdo técnico e novas arquiteturas de referência (por exemplo, white papers, amostras decódigo, posts de blog) e evangelizará e educará sobre a execução de cargas de trabalho de Machine Learning na tecnologia AWS (por exemplo, através de workshops, grupos de usuários, meetups, palestras públicas, vídeos online ou conferências).
+
+Se você deseja educar os clientes da AWS sobre a arte do possível, enquanto desafia o impossível, venha construir o futuro conosco.
+
+A day in the life
+
+A Amazon valoriza experiências diversas. Mesmo que você não atenda a todas as qualificações e habilidades preferidas listadas na descrição da vaga,
+
+incentivamos os candidatos a se candidatarem. Se sua carreira está apenas começando, não seguiu um caminho tradicional ou inclui experiências alternativas, não deixe que isso o impeça de se candidatar.
+
+About The Team
+
+Diverse Experiences
+
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Why AWS
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+Work/Life Balance
+
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+Inclusive Team Culture
+
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+
+Mentorship and Career Growth
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Basic Qualifications
+
+ 3+ years of design, implementation, or consulting in applications and infrastructures experience
+ 8+ years of specific technology domain areas (e.g. software development, cloud computing, systems engineering, infrastructure, security, networking, data & analytics) experience
+ 10+ years of IT development or implementation/consulting in the software or Internet industries experience
+
+Preferred Qualifications
+
+ 5+ years of infrastructure architecture, database architecture and networking experience
+ Knowledge of SAP systems (like SAP Business Suite, S/4HANA, SAP Business Warehouse, SAP HANA, SAP Business Objects, etc.) and their architecture and infrastructure needs
+ Experience working with end user or developer communities
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+
+Company - Amazon AWS Services Brazil Ltd
+
+Job ID: A2987187
+-----------------------------------------------------------------------------------

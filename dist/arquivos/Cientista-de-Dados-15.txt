@@ -1,0 +1,348 @@
+[Oportunidade 1]
+Oportunidade: Sr Database Engineer (Sr SRE) | Engenheiro de Banco de Dados Sr (SRE Sr)
+
+Sobre a vaga
+O que você fará
+
+Avalara is the worldwide leader in sales and use tax calculation. We are the first to admit it - sales tax calculation is not great. But revolutionizing fundamental business processes - that's big time. And that is what we are doing every day, bringing technology to bear on arcane, tedious tasks that every business in the world must deal with.
+
+MongoDB is a critical technology within our Avatax Determination and Returns products . Our micro-services rely on its correct integration resulting in necessary five 9's uptime, ability to scale horizontally, data integrity , auto failover to ensure best Customer experience including its ability to recovery quickly from failures .
+
+MongoDB is also set to expand into other products like Brazil Taxdoc, Comms, EMEA and having an in-house expert DBA Team will ensure maximum uptime with right architecture and configuration with automation is in place.
+
+Database Deployment and Configuration: Deploy, configure, and maintain MongoDB database instances, ensuring optimal performance, reliability, and scalability. Utilize MongoDB Atlas for cloud-based deployments, including configuration of clusters, replication, and sharding as needed.
+
+Monitoring and Performance Tuning: Set up monitoring tools to track MongoDB performance metrics and identify areas for optimization. Proactively tune database configurations, indexes, and queries to improve performance and resource utilization.
+
+Backup and Recovery Management: Implement and manage backup and recovery strategies for MongoDB databases, leveraging features provided by MongoDB Atlas such as continuous backups and point-in-time restores. Ensure data integrity and availability in case of failures or disasters.
+
+Security and Access Control: Configure and maintain security measures for MongoDB databases, including authentication, authorization, encryption, and auditing. Implement best practices for securing data both at rest and in transit, in compliance with industry standards and regulations.
+
+Database Schema Design: Collaborate with development teams to design MongoDB schema structures optimized for performance, scalability, and maintainability. Provide guidance on data modeling best practices and assist with schema migrations as needed.
+
+High Availability and Disaster Recovery: Design and implement high availability architectures for MongoDB deployments, including replication setups and failover configurations. Develop and test disaster recovery procedures to minimize data loss and downtime.
+
+Capacity Planning and Scaling: Monitor database growth trends and forecast resource requirements for MongoDB deployments. Plan and execute scaling operations to accommodate increasing data volumes and user loads, leveraging MongoDB Atlas features for automatic scaling.
+
+Automation and Tooling: Develop automation scripts and tools to streamline routine administrative tasks, such as provisioning, configuration management, and monitoring. Utilize MongoDB Atlas APIs and integrations to automate deployment and management workflows.
+
+Documentation and Knowledge Sharing: Document MongoDB configurations, procedures, and troubleshooting steps. Share knowledge and best practices with team members, fostering collaboration and continuous improvement.
+
+Incident Response and Troubleshooting: Respond to and resolve MongoDB-related incidents and performance issues in a timely manner. Utilize troubleshooting skills and diagnostic tools to identify root causes and implement corrective actions.
+
+Compliance and Governance: Ensure MongoDB deployments adhere to regulatory requirements and internal governance policies. Maintain audit logs and records of database activities for compliance and reporting purposes.
+
+Vendor Management: Liaise with MongoDB Atlas support and engineering teams to escalate issues, request assistance, and stay informed about product updates and roadmap changes. Provide feedback and feature requests to improve the MongoDB Atlas platform.
+
+O que precisa possuir para ser bem sucedido
+
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+Proven experience as a MongoDB Database Administrator, with hands-on experience managing MongoDB deployments in production environments.
+Proficiency in MongoDB administration tasks such as deployment, configuration, monitoring, and troubleshooting.
+Experience with MongoDB Atlas for cloud-based deployments, including cluster configuration, automation, and management.
+Strong understanding of MongoDB architecture, replication, sharding, and performance optimization techniques.
+Familiarity with cloud platforms such as AWS,, Google Cloud Platform, and their integration with MongoDB Atlas.
+Excellent problem-solving skills and the ability to troubleshoot complex issues independently.
+Strong communication and collaboration skills, with the ability to work effectively in a team environment.
+Experience with automation tools and scripting languages such as Python, Bash, or PowerShell is a plus.
+Experience with running mongoDB in containerized environment (EKS clusters) is a plus
+Experience with Cloud or Ops Manager (a plus)
+
+
+Sobre a equipe
+
+Discover what it means to work with some of the smartest people in the industry, and help solve some of the most challenging customer problems. We offer flexible hours, competitive salaries, the ability to work remote and the amazing experience of working with a multinational team of experts.
+
+As a part of DB SRE team, you will troubleshoot and resolve products issues related to DB systems availability and performance. You will develop relationships with development teams, comprehend and fulfill their needs, and maintain their satisfaction through regular communication and engagement with their environments. You will perform technical work that requires planning and scheduling to ensure the best possible solution is delivered on time. You will react on incidents and provide solutions aiming at maintained environments’ improvements.
+
+You will work in a fast paced environment where we are responsible for companies’ most critical systems. Customers count on us to keep their MongoDB, PostgreSQL , SQL server, Snowflake and MySQL DB’s databases running and we are vital to the success of their business.
+
+Sobre a Avalara
+
+We’re Avalara. We’re defining the relationship between tax and tech.
+
+We’ve already built an industry-leading cloud compliance platform, processing nearly 40 billion customer API calls and over 5 million tax returns a year.
+
+Last year, we became a billion-dollar business, and our tribe expanded by a cool thousand people - there’s nearly 5,000 of us now. Our growth is real, and we’re not slowing down - not until we’ve achieved our mission - to be part of every transaction in the world.
+
+We’re bright, innovative and disruptive, like the orange we love to wear. It captures our quirky spirit and optimistic mindset. It shows off the culture we’ve designed, that empowers our people to win. Ownership and achievement go hand in hand here. We instill passion in our people through the trust we place in them.
+
+We’ve been different from day one. Join us, and your career will be too.
+
+EEO Statement
+
+We’re an Equal Opportunity Employer. Supporting diversity and inclusion is a cornerstone of our company — we don’t want people to fit into our culture, but to enrich it. All qualified candidates will receive consideration for employment without regard to race, color, creed, religion, age, gender, national orientation, disability, sexual orientation, US Veteran status, or any other factor protected by law. If you require any reasonable adjustments during the recruitment process, please let us know.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Adobe Analytics Architect (Poatek - Brazil Applicants)
+
+Sobre a vaga
+Who We Are
+
+In 2021, Poatek was acquired by WillowTree, an award-winning digital product consultancy recognized as one of the fastest growing and best places to work in the United States. Now a TELUS International company , with offices across the globe, we continue to partner with the world’s leading brands, such as HBO, PepsiCo, Domino’s and more, to design, build, and transform their digital products and strategies. We’re looking to grow our Poatek offices in Brazil with top talent excited to collaborate with team members across the globe to deliver innovative solutions for our clients.
+
+Location and Flexibility
+
+This is a hybrid role that allows you to work from either our São Paulo or Porto Alegre office.
+
+In São Paulo, you can work for two days per week or eight days per month
+In Porto Alegre, you have the option to work for three days per week or 12 days per month. 
+
+This setup promotes in-person innovation, collaboration, and connection with both local and visiting team members from other offices. Our flexible approach ensures that you can work from different locations while still enjoying the benefits of office culture.
+
+The Opportunity
+
+As a Senior Analytics Architect (Adobe), you’ll collaborate with clients and develop a robust analytics plan to track and measure progress. You’ll aggregate and surface product insights, such as user behaviors, to guide multidisciplinary teams throughout the product development lifecycle.
+
+Responsibilities
+
+ Lead outcomes workshops with clients to understand their business goals and translate them into trackable outcomes within products 
+ Audit, select, and recommend the best analytics tool to suit client needs (e.g. Adobe Analytics / Adobe CJA , Google Analytics, Mixpanel, Amplitude) 
+ Dive into technical documentation and collaborate closely with engineers to integrate analytics into the codebase 
+ Use storytelling to present complex data in ways that are meaningful and actionable for our clients and teams 
+ Construct user-friendly dashboards that illustrate the value of data 
+
+Qualifications
+
+ 5-7 years of experience developing and executing an analytics strategy for clients and/or products, specifically around Adobe Analytics 
+ Created analytics tracking specifications for web and/or mobile products that are being used in production 
+ You’ve worked with clients’ business or marketing teams in an agency or have worked with stakeholders in a product setting using data and reporting to guide product decisions and roadmaps 
+ Strong business sensibilities and can effectively identify and translate high-level business objectives to reportable metrics 
+ You can effectively communicate and present complex data in meaningful and actionable ways to clients and multidisciplinary product teams (e.g. engineers and designers) to guide product-decisions 
+ Experience evaluating a breadth of tools and platforms, specifically Adobe Analytics / Adobe CJA (Amplitude, Mixpanel, and Google Analytics are a bonus!)— and can guide clients in selecting the ideal tool for their needs 
+ You're a data advocate and can both articulate and demonstrate the value of data to clients and project teams 
+
+Bonus Points
+
+ Experience working with marketing teams to implement growth-specific tools or platforms like Segment, Braze, or Branch 
+ Mobile analytics or e-commerce experience 
+ You’ve helped a client migrate from one analytics tool to another 
+
+Why Poatek?  What We Offer: 
+
+ Be part of an innovative consultancy with a human-centered and culture with opportunities for ownership and professional growth 
+ Competitive salary and benefits package (annual bonus) 
+ Opportunity to work on innovative agile projects with other high-performing, passionate team members from all over the globe 
+ Collaborative work environment that encourages continuous learning and professional development (including English classes and support in national and international courses) 
+ Flexible work hours and autonomy 
+ Voucher for health activities, food allowance, in-office snacks, drinks, and games 
+
+If you love IT as much as we do, we look forward to meeting you!
+
+Equality is a principle here at Poatek. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing those information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você. Afinal, It’s yours to build.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Cientista de Vagas Pleno você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de dados voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Formação: - Ciências da Computação, Ciência de Dados, Tecnologia da Informação, Engenharia, Matemática, Estatística e/ou formações em áreas correlatas; Pós-graduação/MBA: na área de tecnologia.
+Conhecimento em Aprendizado de Máquina (ML): É necessário que o candidato entenda técnicas de ML, como regressão, classificação, agrupamento e processamento de linguagem natural (PLN). 
+Jupyter Notebooks: A familiaridade com Jupyter Notebooks é crucial, já que é uma ferramenta amplamente utilizada por nossa equipe para prototipagem, experimentação e documentação de modelos. 
+Habilidades em SQL e Hive: Espera-se que o candidato possa elaborar consultas SQL complexas e possua conhecimento em Hive para manipular dados no Hadoop. 
+Ferramentas de Visualização de Dados: É preferível ter experiência com ferramentas como Hue para a visualização e análise de dados. 
+Bancos de Dados Relacionais: O candidato deve ter familiaridade com bancos de dados relacionais e competência para otimizar consultas. 
+Erwin: A experiência com a ferramenta de modelagem de dados Erwin será considerada um diferencial. 
+Comunicação e Colaboração: O candidato precisa ter habilidade para trabalhar em grupo, comunicar claramente os resultados das análises e cooperar com os demais integrantes da equipe.
+
+Requisito Desejável:
+
+Certificados de treinamento em ciência de dados são desejáveis.
+Erwin - experiência com a ferramenta de modelagem de dados Erwin será considerada um diferencial.
+
+Requisitos Mandatórios:
+
+Experiencia em trabalhos com Ciência de Dados, Machine Learning, Estatística e Analise de dados.
+Python, SQL, Pandas, Scikit-Learn, Data Science (Modelagem de modelos supervisionados e não supervisionados)
+
+Principais responsabilidades:
+
+Desenvolvimento de modelos de machine leaning e estudos usando tecnica de ciência de dados
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Planning and Development Specialist
+
+Sobre a vaga
+Profil du candidat 
+
+Education: Engineer Degree or equivalent in Petroleum or equivalent (Mechanical, Project...)
+
+Professional experience: 5 to 10 years in the O&G activity with knowledge in reservoir-well performance or drilling or field operations or project management.
+
+Technical competencies, skills: HSE value integration, O&G experience and culture. Reliability, autonomy in work organization, well organized, rigor to produce validated results/information, sensitivity to innovation. Used to deliver analysis, synthesis, and demonstrated ability to present in a clear way his work. Very good knowledge of the communication tools and Data Base.
+
+Behavioral competencies: Good communication skills in multicultural environment, diplomacy, networking and delivery through others. Capacity to adapt and manage various tasks of different natures in various configurations. Recognized synthesis and listening skills.
+
+Other competencies: Proficient in English. Portuguese is an asset in the local environment
+
+ Activités 
+
+The employee shall perform his/her activities in compliance with the HSE Management System, aligned with One Maestro Principles and oriented to safeguard the integrity of people, bearing in mind to preserve the environment and resources by contributing to improve our energy efficiency and decarbonization of Company’s assets and reputation.
+
+The IARA, Atapu ToR Surplus and GdM Planning & Development specialist is in charge of implementing the EP Strategy (Be responsible, be profitable, be sustainable) which has been translated to the following objectives.
+
+ Be, for the IARA, Atapu ToR Surplus and GdM assets, internally and externally, the focal point in TotalEnergies for all matters related to Development (FPSO, subsea, wells planning), and to Operators Work Programs, budget and performance, including HSE.
+ Participate to ARA, Atapu ToR Surplus and GdM workshops, sub-committees and committees, to ensure the monitoring of the assets as well as the required feedback and reporting. Be TotalEnergies representative in subcommittees as assigned by Management.
+ Contribute, as per guidelines received from the Iara Asset Manager and the AM Director, to the definition of Key Levers of the OBO roadmap aiming at maximizing the value of the asset with a well-defined balance between objectives and effort to reach them. Then be the leader of levers work plan execution by the different entities involved (TotalEnergies E&P, HQs, others).
+ In charge of ensuring technical validations of AFEs and Ballots submitted by the different Operators (liaising with Joint Venture, GSR, Commercial, and other entities as needed).
+ Monitor and identify any discrepancies in the operator Key Performance Indicators (Production, GHG emissions, HSE, etc.), analyze the causes and recommend action plans for improvement. Ensure that Operators performances are consistent and aligned with TotalEnergies plans, strategy and risks.
+ Participate to the Consortiums and TotalEnergies sole cost activities to contribute to the delivery of production targets on time and within budget. This includes the preparation and the leadership of the prioritized activities following the key levers approach.
+
+
+The person holding this position is in charge of the daily follow up of ARA, Atapu ToR Surplus and GdM Assets which implies synthetic knowledge obtained through regular contacts with the technical Departments of the subsidiary (some of them located in OA Direction), as well as with the GEDI:
+
+ Geosciences Department: to include the surface aspects (technical, schedule, risks ...) into their analysis to get realistic profiles, to help validating each proposed well/project and have a follow up vision of the reserves of the assets.
+ Field Operations (if applicable for the field): to get a good knowledge of the producing capacities and specificities or limitations of the facilities installed or under construction and the Operating Strategy,
+ D&C: to have a good knowledge of the planning aspects, costs, risks/opportunities to be considered in the development studies and or during the drilling or installation operations.
+
+
+Development Strategy (interface, analysis, synthesis, solutions definition, validation process leader, Economics and Finance)
+
+ Lead the preparation for IARA, Atapu ToR Surplus and GdM of the LTP, PRIME and Budget exercises.
+ Analyze and prepare a synthetic comparison of the different exercises (LTP, Budget, RB, CF, PRIME/Reserves ....) and consortium committees and subcommittees. Prepare documents to illustrate this analysis and answer any question from Management on the evolution and on the historical justifications of the choices made.
+ Liaise with Finance and Tax Departments to control good application of specific elements (Repetro, IFRS16, PIS/COFINS, ICMS ...) in the Costs and production reports.
+ Lead the follow-up, with Cost Control Service, of the evolution of the consumption of the Budgets of IARA, Atapu ToR Surplus and GdM Assets and in the follow up of the yearly Work Program and Budget of the Assets and guarantee updated reporting to DIG.
+
+
+Integrated Planning (forward looking, structured vision of complex Projects, synthesis)
+
+ Provide inputs to the planning aspects of the AM Direction. Contribute, by gathering information on IARA, Atapu ToR Surplus and GdM Assets from the Operators (contract awards, operational milestones), to the Integrated Activity Planning (IAP) of the Affiliate. Liaise with the IAP team of the Affiliate to ensure the updated information is included.
+ Keep the history of the operational planning (drilling, installation, projects) with the underlying explanations.
+
+
+Studies and Projects (compliance with technical referential, organization, leadership, knowledge of Affiliate validation process)
+
+ Ensure that the well productions, the costs (Capex, Opex, and Abandonment) and the schedules considered in the cost cards are in line with the actual information from the ongoing or just terminated projects.
+ Asset Manager in preparation of dossiers for approval of investment / divestment decisions at ComDEV, CoVal, CoRisk and ComEx levels of the development Projects.
+ Take in charge projects or studies launched to verify specific issues.
+
+
+Documentation and Reporting
+
+ Take an active part in the data Management of the AM activities: ensure that assets complete and updated data is provided by Operator, help structure the storage area, put in place a process to get systematically all documents to be saved (presentations, costs cards, budgets, etc.). Build a database with validated information on the assets (maps, wells, profiles, fiches asset).
+ Keep an up-to-date version of the strategic internal documents of IARA, Atapu ToR Surplus and GdM Assets (cost cards, results of economics, TCM-OCM presentations, MoM and rationales).
+ Deliver the necessary reports for the Management, the Partners and the Headquarters. In particular, prepare the ARA, Atapu ToR Surplus and GdM information of the weekly report of the AM Direction.
+
+
+ Contexte et environnement 
+
+Position holder is located in Rio de Janeiro, in subsidiary offices. The position requires developing significant transverse communication with other TotalEnergies entities, with Operators and with TOTAL HQ.
+
+Accountabilities:
+
+Lead the follow up of the development of the ARA, Atapu ToR Surplus and GdM Assets with a scrupulous respect of the Safety standards.
+
+Focal point during the strategic exercises (LTP, Budget, Reserves) for the ARA, Atapu ToR Surplus and GdM Assets.
+
+Generate validated technical information towards P&D Engineers and subsidiary management, in particular concerning Budget and Production.
+
+Guaranty an exhaustive and clean technical database of OBO Assets activities.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Lead Data Scientist - Generative AI
+
+Sobre a vaga
+ADP is hiring a Lead Data Scientist - Generative AI 
+
+Does the thought of working with one of the most comprehensive employment data sets in the US excite you?
+Are you inspired by transformation and making an impact on the lives of millions of people every day?
+Apply your knowledge in an exciting project using latest developments in generative AI?
+
+Well, this may be the role for you. Ready to design what's next?
+
+In this role, you'll acquire, clean, and analyze large data sets and do exploratory analysis to understand our data and if it meets project requirements. It's more than digits and dials - you're making huge decisions that impact millions of customers.
+
+Every day you'll work with multiple stakeholders to identify, design, develop and implement advanced analytics projects that track the consumer conversion funnel from start to end. You'll work with your team to provide, interpret, and predict necessary metrics for decision-making. You'll code with machine learning tools like Python, Hugginface Transformers, PyTorch, etc to synthesize millions of data sets into patterns that answer ad hoc requests, and prepare data to feed into large language models for generation.
+
+To thrive in this career, you should know how to identify errors and reactively fix them. You'll need to have some formal education in quantitative analytics and know design patterns and data structures. You have the skills to leverage existing models or create new models using the technologies above. But given the scale of our data sets and the complex problems we give you to solve, you will stay challenged and engaged with years of exciting projects ahead—all while growing your skills and progressing in a rewarding career.
+
+Like what you see? Apply now!
+
+Learn More About ADP At Tech.adp.com/careers
+
+A little about ADP: We are a global leader in HR technology, offering the latest AI and machine learning-enhanced payroll, tax, HR, benefits, and much more. We believe our people make all the difference in cultivating an inclusive, down-to-earth culture that welcomes ideas, encourages innovation, and values belonging. ADP has a deep commitment to diversity, equity, and inclusion as a global Best Places to Work, DiversityInc® Top 50 Company, Best CEO and company for women, LGBTQ+, multicultural talent, and more. Learn more about ADP's commitment on our YouTube channel: http://adp.careers/DEI_Videos
+
+What You'll Do
+
+Here's what you can expect on a typical day:
+
+Advanced Analytics & Predictive Modeling.You bring prior experience to the role of formulating analytical problems, extracting & analyzing data from multiple systems, summarizing critical findings/insights, and developing a compelling visual representation of analyses with actionable recommendations—this will set you up for success on Day 1.
+Own and Manage Projects. You will identify, design, develop, and implement advanced analytical projects.
+Limitless Possibilities.You will continue learning and discovering new ways to leverage ADP data to create new products and services and find more insights. You are passionate about learning and applying new techniques within data science that leads to innovations.
+Collaboration and Communication. You'll be part of a collaborative team, listening to needs, then finding and sharing solutions. You're comfortable and skilled at presenting to both peers and leadership on your projects and findings.
+You have 8-10 years of experience in relevant skills gained and developed in the same or similar role.
+
+To Succeed In This Role
+
+You'll have a Bachelor's degree OR equivalent.
+Prior experience that would give extra comfort in the role could include:
+Natural Language Processing (NLP) frameworks such as PyTorch, TensorFlow, Hugginface Transformers, etc
+Dataframe and dataset tools, such as Pandas, PyArrow, Hugginface Datasets
+Prompt engineering and prompt engineering tools such as LangChain
+Relational databases & SQL concepts
+AWS services (SageMaker, Lambda, Glue, EC2, CloudWatch, etc)
+Machine learning packages with modern programming languages (preferable Python) such as Sklearn, Pandas, Numpy, Matplotlib
+
+You'll Love Working Here Because You Can
+
+Have courageous team collaboration.Courage comes from how associates are willing to have difficult conversations, speak up, be an owner, and challenge one another's ideas to find the best solution.
+Deliver at epic scale.We deliver real user outcomes using strong judgment and good instincts. We're obsessed with the art of achieving simplicity with a focus on client happiness and productivity.
+Be surrounded by curious learners.We align ourselves with other smart people in an environment where we grow and elevate one another to the next level. We encourage our associates to listen, stay agile, and learn from mistakes.
+Act like an owner & doer.Mission-driven and committed to leading change, you will be encouraged to take on any challenge and solve complex problems. No tasks are beneath or too great for us. We are hands-on and willing to master our craft.
+Give back to others. Always do the right thing for our clients and our community and humbly give back to the community where we live and work. Support our associates in times of need through ADP's Philanthropic Foundation.
+Join a company committed to equality and equity. Our goal is to impact lasting change through our actions.
+
+What are you waiting for? Apply today!
+
+Find out why people come to ADP and why they stay: https://youtu.be/ODb8lxBrxrY
+
+(ADA version: https://youtu.be/IQjUCA8SOoA
+
+O modelo de trabalho adotado pela ADP é office based/presencial, com a possibilidade de trabalho em home-office por até duas vezes na semana.
+Considerando que as atividades desempenhadas pelos ocupantes deste cargo envolvem acesso a informações altamente confidenciais e sensíveis de clientes da ADP e de seus respectivos empregados, a ADP reserva-se o direito de conduzir checagem de histórico, de tempos em tempos, conforme autoriza o Incidente de Recurso de Revista Repetitivo nº 01 do Tribunal Superior do Trabalho, mediante consentimento do candidato/trabalhador.
+
+Diversity, Equity, Inclusion & Equal Employment Opportunity at ADP: ADP is committed to an inclusive, diverse and equitable workplace, and is further committed to providing equal employment opportunities regardless of any protected characteristic including: race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, protected veteran status or disability. Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.
+
+Ethics at ADP: ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.
+-----------------------------------------------------------------------------------

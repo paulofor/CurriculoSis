@@ -1,0 +1,29 @@
+<div class="dgc-painel" *ngIf="principal">
+	<div class="dgc-painel-header" *ngIf="principal">
+		<span>{{principal.palavra}}</span>
+		<span class="dgc-direita">Validos: {{principal.quantidade}}</span>
+	</div>
+
+	<div class="dgc-card">
+		<div class="dgc-card-header">
+			<span>Quantidade</span>
+			
+		</div>
+		<div class="dgc-painel-principal">
+			<div class="dgc-card dgc-card-palavra" *ngFor="let rel of principal.palavraQuantidades">
+				<div class="dgc-card-detalhe" >
+					<span>{{rel.palavraChave.palavra}}</span>
+				</div>
+				<div class="dgc-card-detalhe" >
+					<span routerLink="/oportunidadePalavra/{{rel.palavraChave.id}}/{{principal.id}}" class="dgc-link">{{rel.quantidade}}</span>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+	<div class="dgc-card-comandos">
+		<button class="btn-primary btn-sm btn" (click)="editaPasso()">Novo</button>
+	</div>
+</div>

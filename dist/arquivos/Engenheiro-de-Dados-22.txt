@@ -1,0 +1,160 @@
+
+**Staff Software Engineer – Back End (FinTech) [Bangkok based – Relocation provided]***
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+ Get to Know Our Team 
+
+Fintech is one of the fastest growing areas in Agoda and we are rapidly expanding our tech team. We work closely with the finance business team and our Fintech product owners to reduce risk, drive efficiencies and move on new market opportunities in this exciting field. We have a wide range of projects from traditional finance to cutting-edge customer fintech. For example, reconciliation using Big Data technologies, growing and optimizing customer payments options, tax calculations in milli-second r esponse times and a mesh of supplier payment options like virtual credit cards. It ’ s a hot field and the perfect mix of data engineering and backend engineering.
+
+ The Opportunity 
+
+ In this role, you will not only develop robust backend systems but also architect and maintain scalable data pipelines and storage solutions that support complex data collection, processing, and analysis. Your dual expertise in backend and data engineering will play a crucial role in optimizing our financial technology solutions and driving informed business decisions through reliable data insights. 
+
+ In This Role, You’ll Get to 
+
+ Think and own the full life cycle of our products, not just a single piece of code – from business requirements, technology selection, coding standards, agile development, unit and application testing, to CI/CD and proper monitoring 
+ Design, develop and maintain platforms and data pipelines across fintech 
+ Boost System Performance: build systems that are stable, scalable, and highly performant to meet the dynamic demands of the financial landscape 
+ Write great code and help others write great code – mentor people in your team and wider 
+ Collaborate with other teams and departments 
+ Exceptional problem-solving skills coupled with a strategic mindset are essential. You possess the ability to adapt to new changes and the foresight to anticipate future needs. Leadership at Agoda isn’t just managing tasks but inspiring innovation and driving vision into reality 
+ Foster Cross-Functional Collaboration: work with diverse teams to drive forward product and technology goals 
+ Shape our future team: Play a pivotal role in recruiting and onboarding exceptional talent 
+
+What You’ll Need To Succeed
+
+ 8+ years of experience with strong proficiency in Java, Kotlin, Scala, or C# with a proven track record of developing high-performance applications in production settings. Insightful experience with big data technologies like Hadoop, real-time processing frameworks (e.g., Apache Spark), and advanced knowledge of SQL and data architecture 
+ Thinks in systems: their edge cases, failure modes, and life cycles 
+ Uses a metrics driven approach and can make informed decisions using data 
+ You are passionate about the craft of software development and constantly work to improve your knowledge and skills 
+ Experience with Scrum/Agile development methodologies 
+ Excellent verbal and written English communication skills 
+ Experience with operational excellence and a deep understanding of metrics, alarms and dashboards 
+
+ It’s Great If You Have 
+
+ Experience working in a modern FinTech or Payments organization 
+ Domain knowledge in any of these areas: financial reconciliation, financial reporting, tax, payout methods like virtual credit cards or customer payments 
+ Hands-on experience working with technologies like Spark for data processing, ETLs for data pipelines and queueing systems (Kafka, RabbitMQ) 
+ Core engineering infrastructure tools like GitLab for source control and Continuous Integration, Kubernetes 
+ Experience developing, maintaining and debugging large-scale distributed systems 
+ Experience in leading projects, initiatives and/or teams, with full ownership of the systems involved 
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #4 #5 
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+
+
+**Software Architect - Remote - Latin America***
+
+Sobre a vaga
+About FullStack
+
+FullStack is the fastest-growing software consultancy in the Americas. We help organizations like Uber, GoDaddy, MGM, Siemens, and Stanford University build distributed software development teams, and deliver transformational digital solutions. As an employee-first company, we focus on hiring the most talented software designers and developers in the western hemisphere, by creating a positive, respectful, and supportive work environment where they can achieve their greatest potential.
+
+We’re Most Proud Of
+
+Offering life-changing career opportunities to talented software professionals across the Americas.
+Building highly-skilled software development teams for hundreds of the world’s greatest companies.
+Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+Our 4.5-star rating on GlassDoor.
+Our client Net Promoter Score of 68, twice the industry average.
+
+The Position
+
+We're Looking To Hire a Software Architect To Join Our Team. You'll Work With Our Incredible Clients In One Of Two Ways
+
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+What We Are Looking For
+
+5+ years of professional Software Architect with a strong focus on database technologies.
+In-depth knowledge of both modern cloud-based databases and legacy structured databases.
+Expertise in designing and managing databases for high performance and scalability.
+Experience with database migration projects, particularly moving from on-prem to cloud-native environments.
+Proficiency in both normalized SQL databases and NoSQL databases like MongoDB.
+Strong problem-solving skills with the ability to analyze complex systems and develop innovative solutions.
+Experience working on Agile/Scrum teams.
+Successful completion of a four-year college degree is required.
+Advanced English is required.
+Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.
+Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+Ability to consistently work 40 hours per week.
+
+What We Offer
+
+Competitive pay in your local currency.
+100% remote work.
+The ability to work with leading startups and Fortune 500 companies.
+English Classes.
+Virtual company events each month.
+Ample opportunity for career advancement.
+Continuing education opportunities.
+Depending on your location other benefits may apply.
+
+FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form, which can be provided upon request during our hiring and interview process.
+
+Learn more about our Applicants Privacy Notice.
+
+
+**Sr Data Developer - Cloud Data Pipeline***
+
+Sobre a vaga
+General Description
+At CI&T, we're growing fast and looking for a talented, motivated Data Engineer to join our team. You'll play a crucial role in designing, developing, and maintaining scalable data pipelines and infrastructure to drive data analytics and machine learning solutions for our global clients.
+Responsibilities
+Design, develop, and maintain scalable data pipelines and infrastructure.
+Collaborate with cross-functional teams to ensure data integrity and usability.
+Integrate data quality into data pipelines.
+Develop CI/CD pipelines for ETL processes.
+Implement dimensional data modeling.
+Implement Data Lake/Data Warehouse solutions.
+Implement Data Governance practices (catalog, lineage, etc).
+Apply FinOps principles to optimize data costs.
+Requirements:
+Excellent English communication skills (reading, writing, and speaking).
+Experience working with international clients.
+Strong background in data engineering with modern data stacks.
+Experience in a cloud environment using SQL and/or Spark.
+Experience with Snowflake
+Familiarity with Data Quality practices.
+Knowledge of CI/CD pipelines for ETL processes.
+Expertise in dimensional data modeling.
+Experience with Data Lake/Data Warehouse implementations.
+Understanding of Data Governance principles.
+Knowledge of FinOps as applied to the data space.
+Our benefits:
+- Health plan and dental plan;
+- Meal allowances;
+- Childcare assistance;
+- Extended parental leave;
+- Gympass
+- Annual profit-sharing distribution;
+- Life insurance;
+- Partnership with an online mental health platform;
+- CI&T University;
+- Discount Club;
+- Support Program: legal; financial; physiotherapy; psychological guidance; nutritionist and more;
+- Pregnancy course and responsible parenthood;
+- Partnership with online course platforms
+- Platform for language learning;
+- And many others.
+#MidSenior
+

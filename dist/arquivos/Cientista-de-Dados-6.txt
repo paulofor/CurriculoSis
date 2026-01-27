@@ -1,0 +1,240 @@
+[Oportunidade 1]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+About us 
+
+Startup - Experienced Data Engineer 
+Supply chain and logistics is going through a technological evolution and customer expectations around delivery have become more demanding. We are an AI startup solving the most complex problems in the $800bn trucking industry in the US. Our platform empowers trucking companies to operate efficiently and competitively in a rapidly changing marketplace. We are literally helping to move the world forward.
+
+Who we are seeking 
+As a Data Engineer, you will be responsible for designing, developing, and maintaining our data pipelines and ETL processes. You will work closely with cross-functional teams to ensure seamless data integration, transformation, and delivery. In addition to your ETL expertise, you will leverage your DevOps experience to optimize our data and software infrastructure, automate processes, and ensure scalability and reliability. You will be empowered to transform the technology stack to support the company growth plans. We are about building a strong organizational culture that values growth, learning, ownership, delivery, and collaboration. You'll be a critical part of a fast-growing startup with respect from day one.
+
+What you’ll do 
+Design, develop, and maintain scalable ETL processes to extract, transform, and load large volumes of data from various sources into our data warehouse
+Design, code, and execute on projects to improve the reliability and observability of the Everest overall software stack
+Collaborate with stakeholders to understand data requirements and translate them into efficient ETL workflows
+Collaborate with the engineering team to improve release and monitoring processes, automating whenever possible
+Implement and maintain data pipelines using technologies such as AWS Glue, Apache AirFlow, and custom Python scripts
+Build monitoring and alerting systems to proactively identify and resolve data pipeline and software issues
+Stay up-to-date with the latest industry trends and best practices in data engineering, reliability engineering, ETL processes, and cloud technologies
+
+The ideal candidate will have 
+Proficient in english is a must 
+5+ years of proven experience as a Data Engineer, working on complex ETL processes and data pipelines (or Master’s plus 2 year of relevant experience)
+Strong proficiency in SQL and database technologies (e.g., PostgreSQL, MySQL, Redshift)
+Hands-on experience with cloud platforms, particularly AWS (e.g., S3, DynamoDB, Glue, Lambda, EMR, Redshift, CloudWatch)
+Experience with workflow orchestration tools like Apache AirFlow
+Proficiency in at least one programming language (Python preferred) for scripting and automation
+Familiarity with DevOps practices and tools (e.g., Docker, Kubernetes, Jenkins) for building and managing data and software infrastructure
+Strong problem-solving and analytical skills with a focus on data quality and reliability
+Excellent communication and collaboration skills to work effectively with cross-functional teams
+
+Bonus points if you have 
+Experience with data streaming technologies (e.g., Kafka, Kinesis)
+Understanding of machine learning concepts and frameworks (e.g., TensorFlow, PyTorch)
+Domain expertise in logistics or supply chain 
+
+If you're really interested in this job, apply on Linkedin and send us an email with your resume to hello@useeverest.com.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Cientista de Dados Sênior (Desenvolvimento de Modelos)
+
+Sobre a vaga
+ATENÇÃO! 
+Para essa vaga, o modelo de trabalho é híbrido, sendo presencial três vezes por semana em nosso escritório em Barueri/SP - por isso, o profissional precisa residir em São Paulo ou região de fácil deslocamento.
+
+Sobre a vaga
+
+O Cientista de Dados Sênior terá a oportunidade de fazer parte de um time inovador e com diversos talentos. Em uma empresa global e com forte expertise em Dados e Analytics terá a oportunidade de se desenvolver em aspectos relacionados à modelagem estatística, melhoria de processos e busca por inovações em um ambiente de constante aprendizado.
+
+Desenvolvimento de modelos estatísticos customizados entre outros desafios de análise preditiva;
+Busca constante por melhoria nos processos e inovações em relação à modelagem.
+
+Experiências necessárias:
+
+Ensino superior em cursos como Estatística, Matemática, Engenharias, Física e cursos correlatos
+Conhecimento sólido em princípios de estatística e aprendizado de máquina
+Experiência prévia em manipulação e análise de dados
+Experiência prévia em modelagem preditiva
+Conhecimento sólido em programação (exemplos de ferramenta: Python ou R)
+
+Benefícios: 
+Oferecemos benefícios abrangentes, como Participação nos Resultados, Benefícios Flexíveis (VR, VA, Plano de Saúde e Odontológico), Seguro de Vida, Gympass e Day-off no aniversário. Apoiamos famílias com Auxílio Creche, licença maternidade de 180 dias e licença paternidade de 20 dias. Nossa prioridade é promover o bem-estar, o equilíbrio, o crescimento pessoal e profissional.
+
+#BVS
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Staff Data Scientist
+
+Sobre a vaga
+A Unico é a primeira e maior IDtech brasileira, desenvolvendo soluções inovadoras para a proteção da identidade dos brasileiros nas relações com empresas privadas. Queremos colocar o Brasil no mapa global da inovação a partir do desenvolvimento de tecnologias que possam trazer segurança e transparência para as pessoas. Para chegar lá, investimos acima de tudo nas nossas pessoas, que formam um time incrível e comprometido com esse grande objetivo. E aí, vem com a gente? 🚀
+
+Nossa cultura
+
+Nossos valores são a base para tudo que fazemos! Aqui na Unico, agimos sem fronteiras; impactamos sem rodeios; somos transparentes mesmo em situações difíceis; resilientes e adaptáveis para evoluir; fazemos a coisa certa do jeito certo e somos ousados ao liderar a construção do futuro. Nosso ambiente de trabalho é descontraído e colaborativo, cheio de oportunidades de aprendizado e possibilidades para você desenvolver sua carreira com autonomia e apoio de líderes e colegas.
+
+Desafio
+
+Procuramos uma pessoa para desenvolver soluções de dados escaláveis utilizando AI/Machine Learning. Esta pessoa irá liderar a resolução de desafios técnicos mais complexos, atuando em parceria com diversas equipes e lideranças. Além disso, precisará ter entendimento detalhado dos objetivos e estratégia da organização e empresa, e também dos possíveis desafios de escalabilidade na parte técnica. Terá um papel crucial na integração entre diferentes áreas e nas decisões estratégicas de negócio. Trabalhará em estreita colaboração com o time de engenharia e produto para compreender profundamente produtos, processos e o negócio.
+
+Você será responsável por:
+
+Colaborar com equipes multidisciplinares para identificar oportunidades de criação de utilizar dados para gerar insights e apoiar a resolução de problemas estratégicos.
+Liderar e desenvolver soluções de apoio à decisão de ponta a ponta, incluindo concepção e criação de modelos de AI/ML, definição de esteiras de operações (MLops), integração com backend/frontend e construção de pipelines de dados escaláveis e robustos, envolvendo fontes de dados batch e streaming na nuvem (ELT).
+Comunicar de forma clara as propostas de valor de novos produtos de dados, traduzindo conceitos para audiências técnicas e não técnicas e destacando seu impacto nos produtos e no negócio.
+Fornecer orientação técnica e liderança para colegas menos experientes, seguindo melhores práticas e buscando sempre soluções simples e eficazes, reduzindo o esforço técnico geral e mantendo a qualidade adequada.
+Estabelecer parceria estreita com a liderança e colegas para compartilhar conhecimento, melhores práticas e eliminar a duplicação de esforços.
+
+O que esperamos de você:
+
+Mestrado ou doutorado em Ciência da Computação, Engenharia, ou áreas afins.
+Mínimo de 5 anos de experiência em desenvolvimento de soluções de aprendizado de máquina, incluindo a implementação de modelos em ambientes de produção.
+Proficiência em Python e SQL e experiência com ferramentas de computação em nuvem, especialmente Google Cloud Platform (GCP)
+Domínio de frameworks de machine learning como TensorFlow e PyTorch e familiaridade com práticas de MLOps e construção de pipelines de dados escaláveis e robustos.
+Habilidade para liderar e orientar equipes técnicas, comunicar conceitos técnicos complexos de forma eficaz para diferentes audiências e uma forte capacidade analítica para resolver problemas estratégicos.
+
+Ferramentas que utilizamos:
+
+Google Cloud Platform (GCP), Vertex AI e Gemini
+Python e SQL
+TensorFlow, PyTorch, scikit-learn, Langchain
+BigQuery
+Dataform, Datastream e Airbyte
+
+Conheça os benefícios de se tornar um Ser Unico
+
+Benefício flexível: R$ 1.500 ,00 por mês que podem ser distribuídos nas modalidades VA/VR, Cultura, Mobilidade e Flex Férias;
+
+Auxílio home office: valor mensal de R$ 120,00 para pagamento de contas e consumo;
+
+Auxílio ergonomia:  valor de R$ 1.000 ,00 creditado em uma parcela única para compra de equipamentos para home office como: cadeira, materiais de escritório, itens de papelaria, entre outros;
+
+PLR : e legível a Participação nos Lucros e Resultados conforme acordo sindical;
+
+Benefício Educação: a Unico financia 100% dos estudos para 100% dos colaboradores através de cursos disponíveis na plataforma Unico Skill. Você pode escolher entre graduação, pós-graduação, MBAs, idiomas, cursos especializantes e mentorias;
+
+Bem-estar: acesso à plataformas como Gympass e Totalpass;
+
+Licença parental estendida: 180 dias para gestantes e cuidadores principais do processo de adoção e 60 dias para não gestantes e cuidados secundários do processo de adoção, com salário e benefícios pagos integralmente ao longo de todo o período.
+
+Local de trabalho
+
+Adotamos o modelo de trabalho que prioriza o remoto, o nosso #tetounico. Isso significa que os Seres têm a opção de frequentar os escritórios caso queiram, e de acordo com as necessidades de cada área. Temos escritórios nas cidades de São Paulo e Londrina.
+
+E mais…
+
+Oferecemos um plano de carreira estruturado de acordo com suas competências e interesses, com oportunidade de crescimento como especialista ou líder, incentivando o seu desenvolvimento pessoal e profissional através de ciclos de avaliação de performance semestrais (com feedback estruturado e plano de desenvolvimento individual);
+
+Para completar a sua experiência, por aqui temos palestras, meetups, workshops, treinamentos, day off no aniversário, reunioff às quartas-feiras, festas e celebrações internas/externas, happy hour presencial quinzenal, grupos de afinidade e ginástica laboral.
+
+Diversidade & Inclusão
+
+Na Unico estamos empenhados em construir uma cultura inclusiva, valorizando em todas as nossas posições a candidatura de todas as pessoas, independentemente de sua etnia, gênero, orientação sexual, política, religião, deficiência, naturalidade ou qualquer outro tipo de característica.
+
+Estamos construindo um ambiente de trabalho inclusivo e para nos apoiar em melhores práticas, criamos o formulário de Diversidade & Inclusão. Te convidamos a respondê-lo pra nos ajudar nesse processo, mas deixamos claro que você pode optar por não fazer isso sem impacto na sua avaliação. O compartilhamento desses dados não irá afetar o seu desempenho no processo seletivo e será usado somente para fins de criação de estratégias de inclusão.
+
+Quer conhecer mais sobre a Unico?
+
+Assista nosso manifesto ;
+
+Conheça nosso Medium de Tecnologia ;
+
+E nosso canal no Youtube com os Meetups de Tecnologia ;
+
+Acompanhe nossas redes sociais: LinkedIn , Twitter , Instagram , Facebook .
+
+Reconheço que, antes de me candidatar, li o Aviso de Privacidade aos candidatos, que está disponível em Aviso-de-Privacidade-Candidatos-Gestao-de-Documentos_PPR145_v20.pdf (unico.io)
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Architect
+
+Sobre a vaga
+Company Overview:
+ Lean Tech is a rapidly expanding organization situated in Medellín, Colombia. We pride ourselves on possessing one of the most influential networks within software development and IT services for the entertainment, financial, and logistics sectors. Our corporate projections offer many opportunities for professionals to elevate their careers and experience substantial growth. Joining our team means engaging with expansive engineering teams across Latin America and the United States, contributing to cutting-edge developments in multiple industries.
+ Currently, we are seeking a Senior Data Architect with a strong English level to join our team. Here are the challenges that our next warrior will face and the requirements we look for: 
+ Position Title: Senior Data Architect
+ Location: Remote - LATAM
+ What you will be doing:
+ We are seeking a highly experienced Senior Data Architect. This role is critical in ensuring the seamless operation and optimization of their cloud and data warehouse environments. Your responsibilities will include: 
+  Lead the design, implementation, and management of cloud architecture solutions, primarily utilizing Azure and Snowflake
+Oversee the migration and optimization of data warehouses, ensuring high performance, scalability, and reliability
+Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions
+Provide expert guidance and support in troubleshooting and resolving complex issues related to cloud and data warehouse infrastructure
+Develop and implement best practices for data management, security, and governance. Continuously evaluate emerging technologies and integrate them into the architecture to enhance performance and cost-efficiency
+
+
+Requirements & QualificationsTo excel in this role, you should possess:
+Bachelor's or Master's degree in Computer Science, Information Technology, or a related field
+Relevant certifications in cloud architecture and data warehouse technologies (e.g., Azure Solutions Architect Expert, Snowflake SnowPro)
+Minimum of 10 years of experience in cloud architecture and data warehouse management
+Expert-level skills in Azure, with a proven track record of designing and implementing large-scale data warehouse solutions
+Extensive experience in building and migrating data warehouses, with a deep understanding of the associated challenges and best practices
+Knowledge of data integration tools such as Talend, Informatica, or Azure Data Factory
+Familiarity with DevOps practices and tools for continuous integration and delivery
+Strong problem-solving skills and the ability to work under pressure to meet tight deadlines
+Exceptional communication skills, with the ability to articulate complex technical concepts to non-technical stakeholders
+
+
+Why you will love Lean Tech:
+  Join a powerful tech workforce and help us change the world through technology
+Professional development opportunities with international customers
+Collaborative work environment
+Career path and mentorship programs that will lead to new levels. 
+
+
+Join Lean Tech and contribute to shaping the data landscape within a dynamic and growing organization. Your skills will be honed, and your contributions will be vital to our continued success. Lean Tech is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+ 
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Data Scientist
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Liderar a automação de processos, eliminando tarefas manuais e melhorando a eficiência operacional.
+
+Realizar análises de dados e criação de modelos
+
+Realizar conexão com bases de dados para análise estatísticas
+
+Realizar a limpeza, manipulação e análise de dados para insights acionáveis.
+
+Desenvolver e manter pipelines de dados robustos e confiáveis.
+
+Colaborar com equipes multidisciplinares para entender as necessidades de dados e entregar soluções eficazes.
+
+Qualificações Essenciais
+
+Experiência e conhecimento com Generative AI e Machine Learning;
+
+Proficiência em Python;
+
+Implementação de pipelines de dados complexos;
+
+Experiência com ferramentas de transformação de dados (Stack AWS);
+
+Capacidade de resolução de problemas;
+
+Inglês Intermediário.
+
+Qualificações Desejáveis
+
+Criação de cargas em PySpark, criando tabelas nas camadas "Raw", "Curated" e "Refined"; Utilização de Jupyter, Python + Spark, Pandas e outras bibliotecas AWS;
+
+Cargas na AWS, com S3 e Redshift;
+
+Modelagem descritiva, modelagens preditivas e conhecimento para adoção de Inteligência Artificial (LLM).
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------

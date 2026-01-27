@@ -1,0 +1,255 @@
+[Oportunidade 1]
+Oportunidade: AI Engineer
+
+Sobre a vaga
+🤖 AI Engineer – Agent-Oriented LLM Workflows
+
+We’re redefining how small and medium businesses access world-class marketing through intelligent automation. We're looking for a Senior AI Engineer to help us deliver a proof of concept (POC) for a platform where autonomous agents accelerate marketing strategy execution, reduce operational costs, and empower decision-making through AI.
+
+🗓 Start date: ASAP
+
+📆 Contract type: Contractor - 3 months, with the possibility of extension
+
+🌐 Work hours: Monday to Friday, 8.00 am to 5.00 pm PST - 100% Remote
+
+💼 Reporting Line: Directly to Hiring Manager
+
+🧑‍🤝‍🧑 Team: You will be the first AI Engineer onboarded for this initiative.
+
+🛠️ What You’ll Be Doing
+
+Design and prototype agent workflows using LangChain and/or similar frameworks. 
+Develop task automation agents focused on marketing workflows (e.g., campaign execution, reporting, content validation). 
+Build basic RAG pipelines and ReAct agents to improve agent response relevance and accuracy. 
+Benchmark and test LLMs for speed, cost, and fitness to the use case. 
+Work closely with the Hiring Manager To iterate on use cases and validate the POC. 
+
+Possible Extensions (Post-POC / Platform Build)
+
+Scale agent orchestration using LangGraph, AutoGen, or CrewAI. 
+Containerize workflows and prepare deployment pipelines. 
+Integrate monitoring and observability layers for agent evaluation. 
+
+✅ What You Need to Succeed
+
+Must-haves
+
+3+ years of experience in software engineering or machine learning, with at least 1 year of hands-on experience building LLM-based workflows or autonomous agents. 
+Proven ability to design, prototype, and iterate on solutions using LangChain or similar frameworks. 
+Strong understanding of prompt engineering, tool-use chaining, and agent orchestration patterns (e.g., ReAct, Tool-Calling). 
+Practical experience working with vector databases such as Pinecone, FAISS, or Weaviate, and building Retrieval-Augmented Generation (RAG) pipelines. 
+Proficiency in Python and relevant ML libraries (e.g., Transformers, PyTorch, LangChain). 
+Familiarity with Docker and experience deploying ML workloads in cloud environments (AWS, GCP, or Azure). 
+Ability to work independently, communicate effectively with non-technical stakeholders, and iterate rapidly in a PoC-driven environment. 
+
+Nice-to-haves
+
+Experience with multi-agent frameworks like LangGraph, AutoGen, or CrewAI. 
+Previous work on agentic systems applied to marketing automation or related use cases. 
+Knowledge of CI/CD practices, container orchestration, and performance monitoring for ML pipelines. 
+Awareness of AI ethics, security, and compliance in production-grade applications. 
+Demonstrated contributions to open-source projects, published research, or developer communities in the AI/LLM space. 
+
+🧭 Our Recruitment Process
+
+Here’s what to expect from our candidate-friendly interview process:
+
+Initial Interview – 60 minutes with our Talent Acquisition Specialist 
+Culture Fit – 30 minutes with our Team Engagement Manager 
+Technical Assessment - Python, LangChain, LLM
+Final Stage – 60 minutes with the Hiring Manager (Technical Interview) 
+
+🌟 Why Join Launchpad?
+
+We believe that great work starts with great people. At Launchpad, we offer:
+
+💻 Fully remote work with hardware provided 
+🌎 Global team experience with clients in [regions] 
+💸 Competitive USD compensation 
+📚 Training and learning stipends 
+🌴 Paid Time Off (vacation, personal, study) 
+🧘‍♂️ A culture that values autonomy, purpose, and human connection 
+
+✨ Apply now and let’s architect what’s next together.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: IA Enabler (Especialista em Adoção e Transformação de IA)
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Criar e manter o roadmap de adoção de IA, alinhado aos objetivos estratégicos da organização.
+Atuar como agente de transformação, promovendo a literacia em IA por meio de treinamentos, workshops e ações educativas para diferentes áreas.
+Identificar, avaliar e priorizar casos de uso de IA Generativa em parceria com áreas de negócio.
+Apoiar a gestão da mudança organizacional, quebrando barreiras culturais e fomentando a aceitação de novas soluções baseadas em IA.
+Conectar áreas técnicas e de negócio, traduzindo necessidades e oportunidades com clareza e objetividade.
+Orientar e dar suporte conceitual às equipes envolvidas no desenvolvimento de soluções com IA.
+Colaborar com times de compliance, jurídico e segurança para garantir governança e uso ético da IA.
+Criar materiais de apoio, documentação de boas práticas e centralizar aprendizados da jornada de adoção de IA.
+Acompanhar a evolução dos projetos, coletar feedback e ajustar estratégias com base em dados e experiências reais.
+Apoiar a avaliação de ferramentas e plataformas de IA adequadas ao contexto organizacional.
+Incentivar e promover soluções com agentes de IA e automações mais sofisticadas, quando aplicável.
+
+Qualificações Essenciais
+
+Formação superior em Tecnologia, Engenharia, Administração, Sistemas de Informação ou áreas correlatas.
+Experiência em gestão de projetos ou programas de transformação digital.
+Boa compreensão de conceitos de IA, Machine Learning e especialmente IA Generativa.
+Vivência com gestão da mudança organizacional e atuação transversal entre áreas.
+Capacidade de comunicação clara e acessível com diferentes perfis (técnicos e não técnicos).
+Habilidade para influenciar e engajar pessoas, com empatia e escuta ativa.
+Visão estratégica e foco em valor de negócio, sem perder o olhar humano e ético.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de dados | Dados
+
+Sobre a vaga
+No Seu Dia a Dia
+
+A atuação será junto a times de áreas de negócio para desenhar, implementar e gerenciar pipelines de Big Data;
+Criação de tabelas analíticas com os dados normalizados para o consumo e uso das áreas de negócios; 
+Utilização de tecnologias como: AWS cloud (S3, EMR, EC2, Athena, Lambda, Kinesis, Redshift, SNS, SQS, etc.) e outras ferramentas de Big Data (NiFi, Sqoop, Airflow, Kafka, Spark, Hive, Presto, etc.), Python e SQL; 
+Automatização de fluxos e esteiras de dados para alimentação do datalake. 
+
+Esperamos De Você
+
+Graduação completa em Engenharia, Computação, matemática ou áreas correlatas; 
+Disponibilidade para atuação híbrida no escritório de Botafogo no Rio de Janeiro; 
+Flexibilidade e aderência a ambientes dinâmicos; 
+Boa comunicação, relacionamento interpessoal e trabalho em equipe; 
+Conhecimento em Python, SQL e modelagem de dados; 
+Ferramentas de Big Data e Engenharia de Dados, como Pyspark, NiFi, Airflow, etc; 
+Conhecimento em ambiente de computação em nuvem e datalakes/datawarehouses em nuvem.
+
+Diferenciais
+
+Experiência em infraestrutura como código (IaC), como Terraform; 
+Experiência em Arquiteturas Lakehouse ; 
+Experiência em contrução de fluxos em NRT (Integrações com Grafana); 
+Certificação em AWS e/ou GCP; 
+Experiência em soluções de Governancia de Dados a nível linha. 
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Líder Técnico Machine Learning III
+
+Sobre a vaga
+O Inatel está recrutando Especialista para atuar com Liderança Técnica de projetos na área de Machine Learning, no ICC SW.
+
+Responsabilidades e atribuições
+
+Liderar tecnicamente times e projetos de desenvolvimento de software com foco em Machine Learning, propondo soluções que atendam ao negócio e sejam performáticas e flexíveis, considerando requisitos de escalabilidade, confiabilidade e desempenho das soluções integradas;
+Elaborar documentação técnica do projeto, operacionais e de apoio à gerência; definir e documentar arquitetura lógica e executável de sistemas; realizar a especificação funcional de projetos;
+Prover solução e suporte para o desenvolvimento de funcionalidades em arquiteturas Cloud, arquitetura de micro serviços e aplicativo móvel;
+Definir a estratégia técnica do projeto, desenvolver e comunicando uma visão clara e estratégica para a aplicação de Machine Learning, Inteligência Artificial e Data Science na organização.
+Orientar desenvolvimento de Modelos Avançados, supervisionando a equipe na criação de modelos estatísticos e de aprendizado de máquina utilizando técnicas avançadas e modernas.
+Aplicar arquitetura de soluções inovadoras, concebendo soluções inovadoras para plataformas Network as a Service (NaaS) com foco em integração de técnicas de IA e ML.
+Realizar estudos aprofundados e análises de estruturas, dados, plataformas e ferramentas de IA/ML, fornecendo insights valiosos para tomada de decisões.
+Preparar documentações estratégica e técnica abrangente sobre as soluções propostas e adotadas, garantindo a compreensão e rastreabilidade dos projetos.
+Liderar o Time de QA, provendo orientação e suporte ao time de Garantia da Qualidade para garantir a confiabilidade e robustez das soluções implementadas.
+Executar revisão técnica proativa, examinar o código desenvolvido e assegurando que ele esteja em conformidade com as melhores práticas da tecnologia e promovendo a melhoria contínua.
+Atuar como Multiplicador de Conhecimento, oferecendo suporte técnico e mentorship aos colegas, promovendo o desenvolvimento da equipe.
+Desenvolver modelos estatísticos e de aprendizado de máquina usando técnicas modernas de ciência de dados e Machine Learning.
+
+Requisitos e qualificações
+
+Ensino Superior Completo, preferencialmente em cursos de Computação, Sistemas de Informação ou Ciência da Computação;
+
+Experiência em:
+Linguagem de programação Python ou Go;
+Métodos estatísticos para análise de dados;
+Desenvolvimento de algoritmos de Machine Learning/Deep Learning;
+Arquitetura em microserviços;
+Desenvolvimento de aplicações web modernas;
+Banco de dados de alto volume (relacional, não relacional, data lake ou data warehouse);
+
+Conhecimentos em:
+Conhecimento em Keras, PyTorch e TensorFlow;
+MLOps;;
+Plataformas Cloud (AWS ou Azure);
+CI/CD;
+Melhores práticas de desenvolvimento;
+Metodologias ágeis.
+
+Seria interessante se você tivesse ou soubesse:
+
+Conhecimento em soluções SDN;
+Prática em projetos com equipes multidisciplinares;
+Conhecimento em: Big Data, Data Science, gRPC, banco de dados temporal e mock de dados;
+Inglês avançado para leitura e escrita e intermediário para conversação.
+
+Informações adicionais
+
+Horário das atividades: Segunda a sexta-feira das 08h às 12h e das 13h30 às 17h30.
+Local das atividades: As atividades serão realizadas em regime de Teletrabalho "Home Office".
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Especialista em IA
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenvolver, treinar, ajustar e avaliar modelos de IA Generativa (LLMs, GANs, etc.) para tarefas como geração de texto, imagem, análise preditiva e automação.
+Analisar e preparar grandes volumes de dados para treinamento, aplicando técnicas de engenharia de features.
+Implementar e integrar modelos em ambientes produtivos, com foco em performance e escalabilidade (via APIs, microsserviços, etc.).
+Explorar novas abordagens, ferramentas e algoritmos em IA Generativa, contribuindo para soluções inovadoras.
+Monitorar modelos em produção, otimizando continuamente sua eficácia e precisão.
+Colaborar com áreas diversas (dados, produto, engenharia e negócio) para alinhar entregas com objetivos estratégicos.
+Garantir o uso responsável da IA, promovendo a ética, a transparência e a mitigação de vieses.
+Desenvolver agentes autônomos e contribuir com arquiteturas multiagentes que operem de forma segura, colaborativa e eficaz.
+
+Qualificações Essenciais
+
+Formação superior em Ciência da Computação, Engenharia, Estatística, Matemática, Física ou áreas correlatas com base quantitativa sólida.
+Experiência comprovada no desenvolvimento e implementação de modelos de Machine Learning e Deep Learning.
+Proficiência em Python e domínio das bibliotecas essenciais de IA, como TensorFlow, PyTorch, Keras, Scikit-learn, Pandas e NumPy.
+Sólido conhecimento em algoritmos de aprendizado supervisionado, não supervisionado, por reforço e em redes neurais (CNN, RNN, Transformers).
+Vivência com ferramentas e práticas de MLOps e uso de nuvem (AWS, Azure ou GCP).
+Experiência prática em desenvolvimento de agentes de IA e atuação em sistemas multiagentes, com foco em governança e ética.
+
+Qualificações Desejáveis
+
+Experiência com engenharia de prompts, fine-tuning, RAG (Retrieval-Augmented Generation).
+Conhecimento em NLP, visão computacional ou aplicações multimodais.
+Familiaridade com Big Data (Spark, Hadoop), bancos NoSQL e participação em comunidades técnicas ou projetos open source.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------

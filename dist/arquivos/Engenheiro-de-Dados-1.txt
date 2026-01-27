@@ -1,0 +1,277 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Estamos à procura de um Engenheiro de Dados Sênior para se juntar ao time da Sankhya. Este profissional será responsável pelo design, implementação e manutenção de pipelines de dados robustos e escaláveis, além de colaborar com times multifuncionais para otimizar a infraestrutura de dados e apoiar nossas iniciativas de IA.
+
+Nosso #ProductTeam é um dos times chaves que fazem acontecer dentro da Sankhya. Nossa missão é oferecer diariamente uma solução completa, intuitiva e escalável que orienta nossos clientes com muita inovação e gestão inteligente!
+
+Na Sankhya, estamos atentos às novidades do mercado e buscamos aprimorar nossas soluções, tornando-as menos complexas e mais únicas. E, com isso, queremos alcançar lugares ainda mais altos!
+
+Se você deseja crescer e quer para sua carreira profissional novos desafios, seu lugar é aqui!
+
+Vem com a gente transformar a sociedade, e construir um ambiente diverso de crescimento acelerado.
+
+Topa o desafio?
+#VemserSankhya
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+Projetar, construir e manter pipelines de dados escaláveis e eficientes. 
+Desenvolver e implementar soluções para armazenamento e processamento de dados.
+Colaborar com cientistas de dados e analistas para garantir a integridade e qualidade dos dados. 
+Otimizar o desempenho das consultas e das operações de ETL. 
+Garantir a segurança e a privacidade dos dados conforme as melhores práticas e regulamentações. 
+Participar da definição de estratégias de dados e de arquitetura de dados. 
+Identificar e resolver problemas de desempenho de dados em tempo real.
+
+REQUISITOS E QUALIFICAÇÕES
+
+Bacharelado em Ciência da Computação, Engenharia, Matemática, ou área relacionada. 
+Experiência com plataformas de cloud computing (AWS, Azure, Google Cloud).
+Experiência significativa com bancos de dados relacionais e não relacionais (SQL, NoSQL). 
+Proficiência em linguagens de programação como Python, Java, ou Scala. Experiência com ferramentas de ETL e plataformas de processamento de dados (Apache Spark, Hadoop, etc.).
+ Conhecimento em design e otimização de sistemas de armazenamento de dados. 
+Experiência em trabalhar com grandes volumes de dados e sistemas distribuídos. 
+Forte entendimento de segurança de dados e privacidade. 
+ Familiaridade com práticas DevOps e ferramentas de CI/CD. 
+Experiência em implementar e gerenciar soluções de dados em tempo real. 
+Conhecimento em técnicas de aprendizado de máquina e inteligência artificial.
+
+INFORMAÇÕES ADICIONAIS
+
+Na Sankhya, nós prezamos muito pelo equilíbrio entre o lado profissional e pessoal. Sabemos que tudo hoje é interligado e, no fim das contas, é tudo sobre pessoas. Por isso, nossos benefícios são personalizados para Sankhers, confira!
+
+O que a Sankhya te oferece:
+
+🥗 Seu vale, vale: liberdade! Chega de escolher entre alimentação ou refeição, oferecemos um cartão bandeira ELO em parceria com o Ifood e eu #SóVejoBenefícios nessa parceria!
+🤩 Plano de saúde 100% grátis para colaborador(a)
+😁 Plano odontológico
+🏋️ Gympass
+💰 Programa de gamificação, participe e concorra a prêmios!
+💵 Participação nos Lucros e Resultados (PLR) mediante atingimento de metas e performance
+📚 Auxílio desenvolvimento
+🤰 Licença Maternidade/Paternidade estendida
+💻 Equipamentos fornecidos pela empresa
+🪑 Empréstimo consignado
+🎯 Pagamento por Indicação de profissionais assertivos
+🎉 DayOFF Sankhya O niver é seu, e para comemorar nada melhor que uma folguinha né?
+
+E MAIS IMPORTANTE AINDA:
+🧑‍🦽Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+
+Está esperando o que pra fazer parte de nosso time?
+
+#VemserSankhya!
+
+SOMOS A SANKHYA! 💚
+Fundada em 1989, somos líder no mercado brasileiro de soluções integradas de gestão corporativa (ERP). Com mais de 2000 colaboradores e atendendo cerca de 20 mil clientes em todos os 26 estados do país, oferecemos o ERP Sankhya, uma solução completa que permite acesso em tempo real aos detalhes do negócio, impulsionando eficiência e agilidade na gestão.
+
+Nosso propósito é claro: transformar a sociedade através da gestão, combinando excelência tecnológica com o poder transformador das pessoas. Nossa cultura é enraizada na base familiar e incentivadora do protagonismo e da inovação.
+
+Acreditamos firmemente que ter as pessoas certas ocupando as posições adequadas não só impulsiona a felicidade e o engajamento no ambiente de trabalho, mas também resulta em melhorias substanciais em nossos negócios e estimula a inovação.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Senior Data Engineer 
+Andela 
+Location Requirement: Brazil, Canada, Egypt. 
+ About Andela 
+Andela exists to connect brilliance and opportunity. Since 2014, we have been dedicated to breaking down global barriers and accelerating the future of work for both technologists and organizations around the world. For technologists, Andela offers competitive long-term career opportunities with leading organizations, access to a global community of professionals, and educational opportunities with leading technology providers. 
+ At Andela, we’re deeply passionate about creating long-lasting and transformative growth opportunities for all - and doing it in an E.P.I.C. way! We’re excited to continue building our remote-first team with incredible people like you. After applying for this role, you will join our Andela Community of brilliant technologists by passing a technical screening and live interview. As a community member, you’ll have access to many exclusive technologist roles. Join Andela today to access this opportunity and more in our global marketplace! 
+ Our roles are typically filled at lightning speed, so if you’re considering applying, get your application in quickly! 
+ Andela´s Benefits: 
+-- 100% payment in USD. 
+ This is a fully remote opportunity for one of our esteemed clients.  
+ About the role 
+ Responsibilities: 
+Developing pipelines to ingest data across multiple security products and delivering this data for use in Cisco’s XDR product. 
+Using AWS services to deliver, process, and transform data 
+Managing and monitoring application health and status across testing and production systems to ensure stability, high availability, and consistent delivery of data for the product 
+Collaborating with other engineers to review code changes, communicate progress, and finalize system requirements 
+Testing new features using unit tests, manual verification, and supporting end-to-end integration tests 
+Building and maintaining data access layers to control access to sensitive data 
+The role is a 70/30 split between Data Engineering and Data Architecture respectivel 
+ Must have requirements: 
+Data Engineering 
+Python including libs e.g. pandas 
+AWS services e.g., Lambda, Redshift, RDS, S3 (nice to have services include: CloudWatch, Aurora, Kinesis, Firehose, SQS, SNS, IAM) 
+Terraform to help manage AWS serverless resources 
+Strong Data Architecture experience 
+Strong Communication & Stakeholder Management Skills 
+Self-directed & Autonomous 
+ Nice to have requirements: 
+Project tracking management software (e.g., Jira, GitHub) 
+CI/CD - control and continuous integration tools e.g., Jenkins, TeamCity, GitHub 
+Performance monitoring & error tracking solutions 
+Testing software code (e.g., manually testing functionality, writing automated unit tests, automating end-to-end tests) 
+Support 
+ Required skills 
+Data Engineering (7 - 9 yrs) 
+Python (4 - 6 yrs) 
+AWS (Amazon Web Services) (4 - 6 yrs) 
+Terraform (2 - 3 yrs) 
+ Optional skills 
+Jira (Atlassian) (4 - 6 yrs) 
+Jenkins (4 - 6 yrs) 
+ Must-Haves: Data Engineering (5+ years), Data Architecture (5+ years), Python (5+ years), AWS (5+ years), Terraform (2+ years) 
+ Main job time zone: EST 
+Time zone overlap requirements: Fully overlap hours with EST (9 am - 5 pm) 
+Location Requirements: Brazil, Canada, Egypt. 
+Working hours: Full-time dedication (8 hours/Day - 40 hours/week) 
+ Offer 
+Estimated Duration: 11-month-term contractor position (Renewable) 
+Full-time dedication (40 hours/week) 
+ At Andela, we know our strengths lie in our diverse community whose talents, perspectives, backgrounds, and orientations we take pride in. Andela is committed to nurturing a work environment where all individuals are treated with respect and dignity. Everyone has the right to work in a professional atmosphere that promotes equal employment opportunities and prohibits discriminatory practices. Andela provides equal employment opportunities to all employees and applicants without regard to factors including but not limited to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, pregnancy (including breastfeeding), genetic information, HIV/AIDS or any other medical status, family or parental status, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state and local laws. This commitment applies to all terms and conditions of employment, including but not limited to hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. Our policies expressly prohibit any form of harassment and/or discrimination, as stated above. 
+ Andela is home for all. Come as you are.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Scientist - Remote Work
+
+Sobre a vaga
+At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.
+
+Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.
+
+When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.
+
+Data Scientist at BairesDev
+
+We are looking for a Data Scientist to join the Talent Acquisition team and use data science and machine learning techniques to develop, deliver, and maintain data products. This is an excellent opportunity to be a key member of our Data Science team and position yourself for unique career growth opportunities.
+
+What You’ll Do:
+
+- Collaborate with product owners to develop data products and services.
+- Tell stories with data in a compelling manner for business-oriented people.
+- Design and serve machine-learning and deep-learning applications.
+- Design experiments with solid research methods and proper statistical analysis.
+
+What we are looking for:
+
+- 4+ years of experience in Data Science and Machine Learning.
+- Hands-on experience deploying machine learning models through REST APIs.
+- Proficiency in Python or R oriented to Data Science.
+- Experience with SQL databases for data analysis.
+- Familiarity with version control systems, such as Git.
+- Advanced level of English.
+
+How we do make your work (and your life) easier:
+
+- 100% remote work (from anywhere).
+- Excellent compensation in USD or your local currency if preferred
+- Hardware and software setup for you to work from home.
+- Flexible hours: create your own schedule.
+- Paid parental leaves, vacations, and national holidays.
+- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.
+- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.
+
+Apply now and become part of a global team where your unique talents can truly thrive!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenvolver novos produtos de dados para o negócio e garantir a sustentação de
+
+pipelines legados através do uso de técnicas de transformação (ETL/ELT) e modelagem
+
+de dados;
+
+Processar dados em near real time;
+
+Garantir a qualidade dos dados;
+
+Garantir que os dados sejam armazenados, processados e compartilhados de forma
+
+segura e em conformidade com as leis e regulamentos de proteção de dados, como
+
+LGPD.
+
+Lidar com grandes volumes de dados provenientes de diferentes fontes (Big Data)
+
+Possuir boa interface com o negócio
+
+Perfil proativo
+
+Realizar levantamento de requisitos para auxílio na modelagem de novos produtos de
+
+dados.
+
+Qualificações Essenciais
+
+Docker
+Ecosistema Hadoop
+Confluent Cloud (Desejável)
+Ingestão de dados avançado
+Ingestões BIG Data
+Ingestões Batch e Streaming
+Kafka
+DMS
+Hudi
+Modelagem de dados avançado
+AWS intermediário
+S3
+Redshift
+EMR
+Athena
+Glue
+DynamoDB
+
+Qualificações Desejáveis
+
+Conhecimento no Mercado Segurador, Financeiro, Imobiliário ou Crédito sera
+
+um diferencial.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Senior
+
+Sobre a vaga
+O que procuramos?
+Atribuições principais:
+Construção e implementações de arquiteturas com Data Warehouse e Datalake;
+Liderar como referência soluções técnicas de Data Analytics;
+Criar e definir modelos de repositórios de dados;
+Desenvolver estratégias de aquisição de dados, recuperação de informação, implementação de dutos de processamento e armazenamento;
+Apoiar nas definições técnicas do ecossistema de Big Data;
+Desenvolver e manter processos de consumo, tratamento, controle/segurança e disponibilização de dados para diferentes consumidores;
+Levantando possíveis riscos de acordo com o parecer técnico pelas áreas de apoio emitidas;
+Apoiar/viabilizar testes de desempenho (desempenho);
+Apoiar a migração de dados de sistemas legados para novas soluções.
+Requisitos:
+Experiência com Banco de dados SQL;
+Experiência com Spark, python, Databricks e Kafka
+Experiência em projetar e implementar soluções de ETL e pipelines de dados
+Experiência com Migração de dados de ferramentas legadas
+Diferenciais:
+Espanhol avançado/fluente
+Localidade da posição: São Paulo/SP e Região
+Oportunidade Hibrida (1x a 2 x semana)
+Por que construir sua carreira na Meta?
+Oferecemos autonomia, metas claras e um ambiente dinâmico e desafiador, onde os profissionais têm oportunidade de interagir com diferentes tecnologias, participar de todos os tipos de projetos, trazer novas ideias e trabalhar de qualquer lugar do Brasil e (por que não?) do mundo.
+Quais são nossos valores?
+- Somos pessoas servindo pessoas
+- Pensamos e agimos como donos
+- Temos gana por performance
+- Crescemos e aprendemos juntos
+- Buscamos excelência e a simplicidade
+- Temos inovação e criatividade no nosso DNA
+Todas as pessoas são bem-vindas independentemente de sua condição, deficiência, etnia, crença religiosa, orientação sexual, aparência, idade ou afins. Queremos que você cresça conosco em um ambiente acolhedor e repleto de oportunidades.
+Se identificou? Então, #VemSerMeta!
+-----------------------------------------------------------------------------------

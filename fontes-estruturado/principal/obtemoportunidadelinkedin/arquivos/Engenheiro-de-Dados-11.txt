@@ -1,0 +1,329 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro(a) de Dados Sênior
+
+Sobre a vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsabilidades
+Implementação de Governança de Dados: Desenvolver e aplicar políticas de governança de dados, abrangendo controle de qualidade, auditoria e conformidade com regulamentações internas e externas.
+Qualidade de Dados: Utilizar ferramentas como PyDeequ e Great Expectations para definir e monitorar métricas de qualidade, garantindo integridade, consistência e confiabilidade dos dados.
+Desenvolvimento de Pipelines de Dados: Projetar e implementar pipelines escaláveis utilizando Databricks, Python, SQL e frameworks de ETL, de acordo com as melhores práticas de governança.
+Arquitetura de Dados: Aplicar conceitos de Medallion Architecture e Data Mesh para estruturar e organizar dados de maneira eficiente e escalável.
+Automação e Monitoramento: Automatizar processos de ingestão e transformação de dados, além de implementar monitoramento contínuo para garantir a qualidade e disponibilidade do ambiente.
+Integração com AWS: Utilizar serviços da AWS (S3, Glue, EC2, entre outros) para suportar operações de dados, assegurando escalabilidade e segurança.
+
+Requisitos
+Experiência Técnica: Experiência prática em governança, qualidade de dados e desenvolvimento de pipelines utilizando PyDeequ, Great Expectations, Databricks, AWS, Python, SQL e frameworks de ETL.
+Governança de Dados: Vivência na implementação de políticas, controles de qualidade, auditoria e conformidade.
+Qualidade de Dados: Capacidade de definir e monitorar métricas, utilizando ferramentas especializadas.
+Arquitetura de Dados: Conhecimentos sólidos em Medallion Architecture e Data Mesh.
+Automação e Monitoramento: Experiência em automação e monitoramento contínuo de processos de dados.
+Infraestrutura em Nuvem (AWS): Experiência no uso de serviços como S3, Glue, EC2, entre outros.
+Inglês Avançado: Capacidade de comunicação escrita e falada em ambiente multicultural.
+
+Diferenciais
+Experiência com ferramentas de orquestração de workflows como Apache Airflow.
+Certificações em tecnologias relevantes, como AWS Certified Big Data – Specialty.
+Vivência em ambientes ágeis e metodologias de desenvolvimento ágil.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor(a) Sênior – Plataforma de Inteligência Artificial com RAGs
+
+Sobre a vaga
+🤩QUEM SOMOS?
+O DOT Digital Group é pioneiro no mercado de Educação Corporativa Digital no Brasil! Já são mais de 28 anos sendo responsável pela transformação de muitos negócios que decidiram abraçar a Tecnologia e a Educação.
+🧐O QUE FAZEMOS?
+Desenvolvemos pessoas para impulsionar organizações!
+Grandes negócios nacionais e globais investem nas soluções educacionais digitais desenvolvidas pelo DOT como, por exemplo, Produção de Cursos Online, Operação em Larga Escala/Mediação, Aplicações LMS, Curso via Whatsapp, Immersive Learning, Educomunicação entre outras estratégias educacionais.
+🤗NOSSO JEITO DOT DE SER!
+Jogamos aberto e limpo, estamos no mesmo barco e não tiramos o corpo fora! Aqui respeitamos as pessoas - independente da cor, crença, cultura, gênero, orientação afetiva e idade. Acreditamos no que fazemos e temos paixão pelo UAU! Sempre é possível fazer diferente e melhor em um ambiente de confiança. Valorizamos a autogestão, a colaboração e a busca pelo desenvolvimento contínuo.
+E aí, curtiu e se identificou com o jeito DOT de ser? Então #vemproDOT!
+🤩E QUEM BUSCAMOS?
+Alguém que queira aprender sempre, que tope encarar desafios e tenha proatividade. Buscamos uma pessoa que ame trabalhar com educação e tecnologia e que foque em uma entrega de valor para o cliente! Alguém que tenha facilidade para se adaptar a mudanças e, principalmente, adore fazer um trabalho colaborativo e em time.
+🎯Desenvolvedor(a) Sênior – Projeto de Inteligência Artificial
+Estamos buscando um(a) desenvolvedor(a) sênior para atuar em um dos nossos projetos mais estratégicos na área de Inteligência Artificial aplicada. Você vai trabalhar no desenvolvimento de uma plataforma de IA que utiliza RAGs (Retrieval-Augmented Generation), agentes autônomos, orquestração com LangChain e integração com modelos da OpenAI e AWS.
+Qual o seu papel na construção dessa trilha?
+Participar ativamente do desenvolvimento e evolução da plataforma de IA;
+Trabalhar em conjunto com especialistas em IA para construir e refinar pipelines de RAG, agentes e fluxos de decisão;
+Codificar novas funcionalidades em Python/Django, estruturando APIs e serviços;
+Contribuir com decisões de arquitetura e boas práticas de engenharia de software;
+Explorar e testar novas ferramentas e abordagens ligadas ao ecossistema de IA generativa;
+Colaborar com um time multidisciplinar em um ambiente ágil, com entregas contínuas.
+Utilizar ferramentas de IA como Cursor ou Copilot para acelerar o desenvolvimento.
+Quais vivências esperamos de você?
+Experiência consolidada como desenvolvedor(a) backend ou full stack, com domínio de boas práticas de engenharia de software;
+Capacidade de aprender rapidamente novas tecnologias e conceitos;
+Curiosidade e disposição para se aprofundar em IA, mesmo que ainda não tenha experiência prática;
+Comprometimento com entregas de qualidade e atenção à performance e escalabilidade;
+Boa comunicação e colaboração em equipe.
+Será incrível se você já tiver:
+Experiência com Python e Django;
+Familiaridade com LangChain, OpenAI, agentes ou conceitos de RAG;
+Conhecimento em arquiteturas baseadas em filas e microsserviços;
+Experiência com bancos como MongoDB e OpenSearch;
+Vivência em projetos com IA generativa ou NLP;
+Experiência com ferramentas de IA assistiva para código (Copilot, Cursor, Windsurf).
+Aqui acreditamos no lifelong learning, e desejamos que você siga em busca de aprendizado contínuo!
+🥳NOSSA PROPOSTA DE VALOR:
+E para impulsionar você a completar essa trilha com sucesso, o DOT oferece:
+Auxílios!
+Vale alimentação e/ou refeição (R$737) - Inclusive nas férias
+Vale transporte;
+Seguro de vida;
+Auxílio home office (R$100);
+Auxílio creche para crianças de até 6 anos;
+Headhunter (valor por indicação de colaborador);
+Indicação de clientes (valor por indicação de clientes).
+Saúde e bem estar!
+Plano de saúde integral, sem coparticipação (com terapia online gratuita);
+Convênio odontológico;
+Caju+ (assistência psicológica, assistência jurídica, consultoria financeira);
+Wellhub (plataforma de saúde e bem estar);
+Convênio Farmácia;
+Licença maternidade estendida de 6 meses;
+Licença paternidade estendida de 20 dias;
+Onhappy - Ofertas exclusivas de passagens e hospedagens.
+FeelingDOT sobre temas diversos (workshops sobre autoconhecimento, diversidade, inclusão e equilíbrio);
+Mimos e gifts em datas comemorativas.
+Crescimento e desenvolvimento contínuo!
+Verba de Sophia de R$ 2.000,00 (auxílio educação);
+Horas de Sophia (40 horas/ano em capacitação da sua escolha);
+Verba Survival (auxílio educação no negócio);
+DOTAcademy com cursos gratuitos;
+Mobilidade interna;
+DOTHUB (desenvolvimento de lideranças);
+Cultura de feedback;
+DOTKnows (peer learning).
+Clima colaborativo e descontraído!
+Anywhereoffice: trabalhe de onde quiser;
+Horário flexível - Nosso regime é de 40h semanais;
+Aprendizado contínuo;
+Pessoas que é bom de estar perto;
+Autonomia com responsabilidade;
+Local para refeições (presencial);
+Lanches, snacks, frutas, chás e café passado (presencial);
+Área de convivência (presencial);
+Momentos de integração e festas.
+Somos uma empresa diversa e inclusiva, e todas as nossas vagas estão abertas também para PCD.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior/Master Data Developer, Brazil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Estamos em busca de um Senior Data Developer altamente qualificado para se juntar à nossa equipe dinâmica de dados. Este papel é fundamental na concepção, construção e manutenção de pipelines de dados e infraestrutura escaláveis para suportar nossos processos de tomada de decisão baseados em dados. 
+
+Responsabilidades: 
+- Projetar e Desenvolver Pipelines de Dados: Arquitetar, implementar e manter pipelines ETL/ELT escaláveis e de alto desempenho para processar grandes volumes de dados estruturados e não estruturados.
+- Integração e Processamento de Dados: Construir arquiteturas acionadas por eventos para permitir o processamento de dados em tempo real e a integração perfeita entre sistemas.
+- Gerenciamento da Infraestrutura em Nuvem: Aproveitar os serviços em nuvem AWS (por exemplo, S3, Redshift, Glue, Lambda, Kinesis, Pentaho) para projetar e implantar uma infraestrutura de dados robusta.
+- Desenvolvimento e Otimização de Código: Escrever código limpo, eficiente e de fácil manutenção em Python para suportar a ingestão, transformação e orquestração de dados.
+- Colaboração em Ambientes Ágeis: Trabalhar em estreita colaboração com equipes multifuncionais, incluindo cientistas de dados, analistas e engenheiros de software, seguindo metodologias ágeis para entregar soluções iterativas.
+- Qualidade e Governança de Dados: Implementar melhores práticas para qualidade de dados, monitoramento e conformidade para garantir a integridade, consistência e segurança dos dados.
+- Otimização de Desempenho: Otimizar pipelines de dados e consultas em ambientes em nuvem para desempenho, escalabilidade e eficiência de custos.
+- Mentoria e Liderança: Fornecer orientação técnica aos membros juniores da equipe, promovendo uma cultura de aprendizado contínuo e melhoria.
+- Documentação e Compartilhamento de Conhecimento: Documentar designs técnicos, processos e fluxos de trabalho para garantir a manutenção e transferência de conhecimento.
+
+Requisitos: 
+- Experiência profissional como Engenheiro de Dados ou em papel semelhante, com forte foco no desenvolvimento de pipelines de dados e soluções de dados baseadas em nuvem.
+- Proficiência avançada em Python para processamento de dados, scripting e automação.
+- Experiência prática com Databricks para processamento de grandes dados, incluindo Spark, Delta Lake e fluxos de trabalho do Databricks.
+- Conhecimento profundo em serviços AWS para construir e gerenciar infraestrutura de dados.
+- Expertise em projetar e implementar fluxos de trabalho ETL/ELT utilizando ferramentas como Apache Airflow, AWS Glue ou semelhantes.
+- Experiência na construção de pipelines de dados em tempo real usando frameworks acionados por eventos.
+- Forte experiência em ambientes ágeis, utilizando metodologias Scrum ou Kanban.
+- Proficiência em bancos de dados relacionais e não-relacionais, com expertise em otimização SQL.
+- Sólida compreensão de técnicas de modelagem de dados para análises e relatórios.
+- Familiaridade com pipelines CI/CD, controle de versão e infraestrutura como código.
+- Habilidades analíticas excepcionais focadas na entrega de soluções escaláveis e eficientes.
+- Excelentes habilidades de comunicação verbal e escrita, com a capacidade de colaborar efetivamente com partes interessadas técnicas e não técnicas.
+
+Qualificações Preferenciais:
+- Inglês: Nível intermediário a avançado.
+- Experiência com tecnologias de conteinerização (por exemplo, Docker, Kubernetes) para implantar aplicações de dados.
+- Conhecimento de frameworks de governança de dados e normas de conformidade (por exemplo, GDPR, CCPA).
+- Familiaridade com ferramentas de grandes dados como Apache Spark, Hadoop ou Snowflake.
+- Certificações em AWS ou Databricks.
+
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Pessoa Engenheira de Dados Pleno
+
+Sobre a vaga
+Oportunidade para atuar como Engenheiro de Dados desenvolvendo estratégias de aquisição de dados, recuperação de informação, implementação de pipelines de processamentos de dados e armazenamento de dados.
+
+Responsabilidades e atribuições
+
+Principais atividades:
+
+Projetar soluções de ETL;
+Extrair, transformar e carregar (ETL) dados de APIs/banco de dados para outro;
+Desenvolver estratégias de aquisição de dados, recuperação de informação, implementação de pipelines de processamentos de dados e armazenamento de dados;
+Planejar e modelar estruturas de comunicação de dados entre sistemas legados e repositórios de dados;
+Desenvolver estrutura de informações e dados, inclusive, com integração de dados estruturados com não estruturados;
+Sugerir novos caminhos, sejam técnicas ou tecnologias, para evoluir a prática de ciência e engenharia de dados e agregação de valor aos usuários e clientes.
+Sustentação e melhoria dos fluxos de dados para aplicações em NodeJS
+
+
+Requisitos e qualificações
+
+Formação:
+
+Superior completo, porém todos os cursos são bem-vindos!
+
+
+Competências esperadas:
+
+Python
+AWS (Glue, S3, RDS, Lambda)
+Apache Spark (PySpark)
+SQL
+AirFlow
+Docker
+NodeJS
+Perfil empreendedor, com apetite por grandes desafios de negócios e vontade de trabalhar na dinâmica de uma consultoria.
+
+
+Competências desejáveis:
+
+Experiência em projetos utilizando AWS, GCP ou Microsoft;
+Conhecimentos em ferramentas de orquestração de fluxo de dados (Airflow, Luigi e etc);
+Conhecimentos em processamento e transformação de dados com Spark (Python/Scala);
+Atuação em modelo ágil.
+
+
+Informações adicionais
+
+CONHEÇA NOSSOS BENEFÍCIOS
+
+Alguns dos nossos benefícios são flexíveis para que você possa distribuí-los de acordo com suas necessidades, interesses e momento de vida. São eles:
+
+ All Points (Programa de pontos para passagens áreas e hospedagens);
+Assistência Médica;
+Assistência Odontológica;
+Seguro de vida;
+Convênio para Pet;
+Mobilidade (incluindo opção de combustível e Uber, 99);
+Reembolso Flex (óculos, vacinas, educação, shows e outros);
+Vale Refeição e/ou Vale Alimentação.
+
+
+Outros benefícios:
+
+ Birthday off;
+Gympass;
+Consultoria financeira e empréstimo facilitado;
+Clube Alelo com diversos descontos em lojas e farmácias;
+Licença Maternidade de 180 dias;
+Licença Paternidade de 30 dias;
+Auxílio creche no primeiro ano do bebê;
+Vale Transporte conforme a demanda do projeto ou área;
+Programa de bônus anual;
+Comissionamento por indicação de novos clientes.
+
+
+PROGRAMAS DE DESENVOLVIMENTO
+
+Um dos pontos fortes de ser Biper é que ousamos em pensar como empreendedores e moldamos nosso futuro com nossa capacidade de pensar minuciosamente e agir com três passos à frente, pavimentando o caminho para o futuro que nossos clientes querem viver.
+
+E para isso, precisamos estar constantemente aprendendo e reaprendendo, somos .
+
+Na BIP temos programas consolidados a nível Global e nacional para que você tenha uma jornada de desenvolvimento, crescimento e liberdade para você conquistar o que sonha. Aqui você é o protagonista da sua carreira!
+
+Vamos juntos nessa? Confere os principais programas que a BIP pode te oferecer para você chegar aonde deseja:
+
+Um centro de CAPACITAÇÃO e FORMAÇÃO Global com os conteúdos e cursos mais atualizados do mercado;
+Flex Time - um momento da sua semana dedicado para o seu desenvolvimento;
+Programas de mentoria com Líderes referências em sua atuação;
+Avaliação de Desempenho semestral;
+Cultura de Feedback e 1:1 recorrentes com sua liderança e time;
+Acompanhamento de um Plano de Desenvolvimento personalizado pra você e com seus objetivos;
+Darwin - Programa global de formação de jovens talentos, para desenvolver soft e hard skills;
+Grounding –Um programa Global de formação para os profissionais recém contratados em todo o mundo que estão no começo da carreira de consultoria;
+Induction - Onboarding Internacional conduzido por Heads de RH e negócio para os novos entrantes da Bip de todos os países para promover nossa cultura, valores, proposito e apresentar nossos programas de iniciativa Global. 
+Spinnaker: Treinamento focado em aprimorar habilidades estratégicas de Gerentes e Gerentes Seniores, apoiando e facilitando o desenvolvimento de negócios dentro de um ecossistema complexo.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Data Engineer
+
+Sobre a vaga
+We are seeking a highly skilled and motivated Data Engineer to join our team.
+
+The ideal candidate will be responsible for maintaining existing data systems, enhancing our current Data Platform, and implementing future changes as our clients' consumption needs and ingestion evolve. This role requires expertise in handling complex datasets and collaborating with senior team members on high-impact projects.
+
+Responsibilities
+
+
+Maintain and enhance existing data systems
+Develop enhancements for the existing Data Platform
+Implement future changes to accommodate growing consumption needs and ingestion
+Work with complex datasets, including the addition of new datasets from scratch
+Collaborate with senior team members on complex projects, particularly when adding new large datasets
+Grow with the technological landscape, adapting to new tools and methodologies as they emerge
+
+
+Requirements
+
+
+2+ experience in Data Software Engineering
+Proficiency in PySpark
+Experience with Azure Databricks, Azure DevOps, and Azure Event Hubs
+Knowledge of the Azure cloud stack
+Experience in working with large and complex datasets
+Ability to work in a team and collaborate with various stakeholders
+Familiarity with Databricks Unity Catalog and Terraform
+
+
+Nice to have
+
+
+Experience in Azure Analytics Engineering
+Familiarity with DevOps practices
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------

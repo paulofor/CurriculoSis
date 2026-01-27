@@ -1,0 +1,361 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor IA (LLM) Pleno/Sênior
+
+Sobre a vaga
+Sobre a Empresa:
+O Instituto Tecgraf é um renomado centro de pesquisa e desenvolvimento em computação gráfica e tecnologias relacionadas, localizado na (PUC-Rio). Fundado em 1985, o Tecgraf tem uma longa história de contribuições significativas para a comunidade acadêmica e para a indústria de tecnologia.
+
+Sobre a vaga:
+Estamos iniciando diversas iniciativas na área de Óleo e Gás, e buscamos um desenvolvedor com experiência em desenvolvimento de soluções de IA, proficiência em Python, sólidos conhecimentos em Large Language Models (LLM).
+
+Responsabilidades:
+Desenhar e desenvolver aplicações inovadoras: Utilizar LLMs para criar aplicações com funcionalidades como geração de texto, tradução, resumo, análise de sentimento e muito mais.
+Integração de LLMs em sistemas existentes: Integrar modelos de linguagem em aplicações já existentes para melhorar funcionalidades ou criar novas.
+Fine-tuning de modelos de linguagem: Ajustar e personalizar LLMs pré-treinados para tarefas ou domínios específicos.
+Avaliação e monitoramento de desempenho: Analisar e interpretar os resultados dos LLMs, identificando pontos fortes, fracos e potenciais vieses.
+Manutenção e atualização de aplicações: Garantir o bom funcionamento e atualização das aplicações baseadas em LLMs.
+Pesquisa e desenvolvimento: Manter atualizado sobre as últimas tendências e avanços em LLMs e IA.
+Colaboração: Trabalhar em conjunto com equipes multidisciplinares, incluindo cientistas de dados, engenheiros de software e especialistas de domínio.
+Domínio em linguagens de programação relevantes, como Python.
+
+Requisitos:
+Formação Superior Completa em Ciência da Computação, Engenharia da Computação, Matemática, ou área relacionada.
+Experiência comprovada em desenvolvimento de soluções de IA, incluindo LLM.
+Desejável experiência com ferramentas de aprendizado de máquina em grande escala e computação distribuída.Conhecimento em banco de dados relacionais e não relacionais.Capacidade analítica avançada, com proficiência em definir métricas e interpretar dados complexos de IA.Domínio em linguagens de programação relevantes, como Python
+
+Benefícios:
+Bolsas de estudo (inclusive para cônjuges e filhos)
+Jornada flexível
+Plano de saúde
+Plano odontológico
+Seguro de vida
+Vale alimentação
+
+Regime de contratação:
+CLT (8 horas/dia)
+100% Home Office
+Link: https://bitly.com/vagastecgraf
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Grupo QuintoAndar | Senior Analytics Engineer (Women Applicants Only)
+
+Sobre a vaga
+About QuintoAndar:
+
+QuintoAndar was born to do something very rewarding: open doors. We opened doors for technology to be part of living. And, through it, we simplify and reduce the bureaucracy of the experience of those looking for a new home. Thus, we became the most valuable proptech in Latin America, leading the real estate market in around six countries and more than 75 cities around the globe.
+
+The first steps in the international market have been taken since we acquired Grupo Navent, which is ranked number 1 in Mexico (Inmuebles24), Argentina (Zonaprop), Peru (Adondevivir & Urbania) and Ecuador (Plusvalia) - among others. And most recently, we launched Benvi, our international brand in Mexico, which comes with our residential rental product and service.
+
+We offer an end-to-end ecosystem to make life easier for those looking to rent or buy a home, sell a property and unlock a transaction. Think of zero paper or bureaucracy: everything happens on a single platform, with transparency and speed alongside incredible human support.
+
+We are currently valued at over $5.1 billion (August 2021) and continue to grow 4x year over year, breaking records.
+
+To make all this happen, we have more than 4,000 talented people, working with cutting-edge technology and best design practices to ensure a seamless experience throughout the sales and rental process, combined with smart financial products. Here you will work with the best professionals in the market, in an environment that breathes innovation, collaboration and high performance.
+
+To learn more about our history, visit https://quintoandar.group/en/.
+
+About Grupo QuintoAndar:
+
+We are Grupo QuintoAndar, the largest real estate ecosystem in Latin America. Guided by a shared purpose of helping people love where they live, we have a diverse portfolio of brands and solutions that cover all stages of the journey of living. We develop technologies and innovations that transform and leverage the whole living experience.
+
+About working at QuintoAndar:
+
+Possibility of learning;
+Opportunity to work in a team that seeks to use the best practices and tools in the market;
+Work in an informal environment with a horizontal structure;
+Being part of a team working on a high-impact project that affects the lives of thousands of people
+
+Location & Remote Work
+
+Our technology team works on the "remote-first" model, which means we are working from home with the possibility of living anywhere in Brazil. We also have the option of using QuintoAndar's offices in São Paulo and Campinas or using partner coworking spaces, both up to twice a week.
+
+Language
+
+This job description is written in English because for that position you will need it for communications with coworkers and suppliers who are from worldwide, for tools and internal materials as well. // A descrição desta vaga está escrita em Inglês porque para esta posição é necessário para a comunicação com colegas e fornecedores, que são de diferentes países, além do uso de ferramentas e materiais internos.
+
+Stages of the Selection Process
+
+Our selection process currently lasts an average of 30-40 days, from application to completion of the assessment. Going through:
+
+Application 
+Tech Screening 
+Technicals Interviews with Data Team
+Phone interview with Recruiter
+Offer
+
+About the Area:
+
+An Analytics Engineer is someone who understands business needs while applying best software engineering practices to implement data pipelines and create data abstractions that help the company make better decisions faster.
+
+The workflow of analytics engineering aims to clean, transform, and model raw data into consumable information for strategic decision-making. During the process of obtaining raw data to making clean and transformed data available, the analytics engineer tests the data to ensure quality, documents business rules, and creates models to ensure they are consumed reliably and performantly.
+
+Responsibilities of an Analytics Engineer at QuintoAndar:
+
+Communicate with different stakeholders to understand their primary needs;
+Create and edit data pipelines, considering business logic that best applies to the area in question, choosing levels of aggregation, grouping and transforming fields, checking data quality, and cleaning the data;
+Investigate inconsistencies and be able to trace the source of differences (data troubleshooting);
+Maintain and promote code and pipeline standards through code review, including testing and documentation;
+Create robust data models that run reliably in a production environment;
+Ensure self-service analytics for business areas
+
+Requirements
+
+What we are looking for:
+
+Has experience in building multidimensional data models (Star and/or Snowflake schema);
+Has strong SQL skills and feels comfortable with complex SQL;
+Is familiar with ELT/ETL pipelines;
+Has experience with Python;
+Knows columnar storage solutions (such as Amazon Redshift and Apache Parquet);
+Has 3 or more years of experience building pipelines;
+Is proficient in English and/or Spanish - our code, documentation, tools, and materials are often structured in English. Sometimes, we communicate with colleagues and vendors from other countries;
+Is free of any prejudice
+
+You'll stand out if you:
+
+Good communication skills and experience working with multiple teams;
+Experience with Airflow, Spark, and Databricks;
+Strong knowledge in optimizing SQL query performance;
+Experience in building semantic layers
+
+Important:
+
+Our selection process starts with the application! If you are truly interested in joining our team, make sure to put in extra effort at this stage. We review all candidates individually and provide feedback even to those who do not proceed in the process;
+All communication is done via email, so be attentive to our messages and whitelist the @quintoandar.com.br domain to prevent our emails from going to spam
+
+Benefits
+
+Competitive salary package;
+Bonus
+Meal allowance ("Flash benefícios");
+Health plan;
+Dental plan (optional);
+Life insurance;
+Daycare subsidy;
+Subsidy to sports practicing (Gympass)
+Extended maternity and paternity leave;
+Reserved room for breast-feeding*;
+Discount on our parking lot;*
+Language learning support;
+Free transfer from Vila Madalena and Fradique Coutinho stations to the office*. 
+
+Diversity & Inclusion at QuintoAndar
+
+At QuintoAndar, we believe diversity of perspectives and experiences guarantee a differentiated work environment, based on respect and valuing differences. Feel free to declare the information on the registration form. If you are not comfortable answering them, just choose the option "I prefer not to respond". This information helps us create an increasingly inclusive environment and it is used only for this purpose, it is confidential, and it will not impact your performance throughout the hiring process
+
+Privacy and Data Protection
+
+In order to apply for one of our jobs roles, we will need to collect some of your personal data necessary for us to review your application and to contact you. We believe that the diversity of perspectives and experiences guarantees a differentiated work environment, based on respect and appreciation of differences. For this reason, we have several affirmative jobs, and information regarding your gender, ethnicity/race, and disability may be collected in the process.
+
+All data processed is confidential and will be stored in a secure place for the time necessary to fulfill its purposes, with appropriate technical and administrative measures being adopted to protect your information.
+
+If you have any questions, please contact us via the following page.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: [Ambev Global Tech] Global ML Platform Tech Lead – GEN AI
+
+Sobre a vaga
+Job Description
+
+Estamos em busca de um(a) Senior ML Tech Lead altamente qualificado(a) e experiente para liderar o desenvolvimento e a entrega global de nossa Plataforma de Machine Learning. Este papel envolverá codificação prática, liderança de uma equipe dinâmica e condução da visão técnica e execução de nossa plataforma. O candidato ideal terá um entendimento profundo das tecnologias de machine learning, fortes habilidades de liderança e um histórico comprovado na entrega de soluções complexas de ML.
+
+Responsibilities and assignments
+
+Liderança Técnica: Liderar o design, desenvolvimento e implantação da Plataforma de Machine Learning. Garantir que a plataforma atenda a altos padrões de desempenho, escalabilidade e segurança.
+Gestão de Equipe: Mentorar e orientar uma equipe de engenheiros, promovendo um ambiente colaborativo e inovador. Supervisionar a qualidade do código, conduzir revisões e gerenciar o planejamento dos sprints.
+Implantação Global: Desenvolver estratégias para a implantação global da plataforma. Coordenar com equipes multifuncionais para garantir uma integração e operação suaves em vários mercados.
+Inovação: Manter-se atualizado com os mais recentes avanços em machine learning e tecnologias relacionadas. Integrar tecnologias e metodologias de ponta na plataforma para manter sua vantagem competitiva.
+Colaboração: Trabalhar em estreita colaboração com gerentes de produto, designers UX/UI e outras partes interessadas para definir os requisitos do produto e garantir o alinhamento com os objetivos de negócios.
+Resolução de Problemas: Abordar e resolver desafios técnicos complexos que surgem durante o desenvolvimento e a implantação. Implementar melhores práticas para solução de problemas e otimização do desempenho do sistema.
+
+Requirements And Qualifications
+
+Educação: Graduação ou Mestrado em Ciência da Computação, Engenharia ou área relacionada.
+Experiência: em desenvolvimento de machine learning, em um papel de liderança.
+Habilidades Técnicas:
+Especialização em modelos e tecnologias de machine learning (por exemplo, redes neurais, algoritmos de aprendizado supervisionado e não supervisionado);
+Proficiência em linguagens de programação como Python, Java ou C++;
+Experiência com plataformas em nuvem (Azure, Databricks, GCP é um diferencial) e contêineres (por exemplo, Docker, Kubernetes);
+Forte compreensão de estruturas de dados, algoritmos e design de sistemas.
+Liderança: Experiência comprovada em liderar equipes técnicas e gerenciar projetos complexos. Capacidade de mentorar e desenvolver talentos de engenharia.
+Comunicação: Excelentes habilidades de comunicação verbal e escrita. Capacidade de articular conceitos técnicos complexos para partes interessadas não técnicas.
+Perspectiva Global: Experiência com implantação internacional e compreensão das considerações do mercado global.
+
+Additional information
+
+Vale refeição ou alimentação ifood;
+Vale transporte;
+Bônus;
+Plano de saúde e Telemedicina;
+Convênio odontológico;
+Convênio Farmácia;
+Seguro de vida;
+Instituto Ambev de Previdência Privada;
+Auxílio Material Escolar;
+Cesta de Natal e Kit Congelado;
+Brinquedos de Natal;
+Empresa cidadã (licença maternidade e paternidade) e presente do bebê;
+Desconto mensal em produtos AMBEV;
+Banco de horas;
+Wellhub (Gympass);
+Fretado;
+Abono anual referente a um salário.
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: Validação de Perfil 2Validação de Perfil 
+Step 3: Entrevista com a Gestão 3Entrevista com a Gestão 
+Step 4: Hiring4Hiring
+
+OLÁ, SOMOS A AMBEV TECH! 🍻
+
+E ninguém une tecnologia e cerveja como a gente! Temos a missão de transformar o dia a dia da maior cervejaria do planeta. Fazemos isso com um time incrível de pessoas apaixonadas e unidas em um único propósito: mudar o mundo com tecnologia.
+
+Buscamos entregar as melhores experiências e trazer soluções ágeis e descomplicadas para fazer a bebida chegar do campo ao copo. Todos os dias, impactamos milhares de pessoas. Cada brinde tem um pouquinho de nós. Essa é a nossa jornada, é o que fazemos e o que somos.
+
+Somos feitos de pessoas
+
+Acreditamos na diversidade e no quanto ela é capaz de fazer a gente evoluir. É através da pluralidade de ideias, de experiências e opiniões que conseguimos pensar fora da caixa e trazer soluções inovadoras. Pra gente, diversidade e inclusão são assuntos sérios! Por isso, contamos com um Comitê de Autenticidade Tech para olhar essas questões com muito carinho e responsabilidade.
+
+Estamos no mundo todo
+
+Também somos Ambev Global Tech. Integramos o hub de tecnologia global da Anheuser-Busch InBev (ABInBev), uma multinacional formada por um grupo de cervejarias com sede em Leuven, na Bélgica, e com outros escritórios globais em diversos países, incluindo Estados Unidos, México, Índia e Brasil.
+
+Vem com a gente!
+
+Nossas unidades estão presentes em Blumenau (SC), Maringá (PR), São Paulo (SP), Campinas (SP), Jaguariúna (SP), e Sorocaba (SP), e contamos ainda com um time remoto de vários cantos do Brasil! Já somos mais de 2.000 pessoas encarando cada desafio pra fazer diferente, mas queremos ir muito mais longe. Pra chegar lá, precisamos fortalecer nossa equipe!
+
+Tá afim de criar soluções para a maior cervejaria do planeta? Causar impacto, trazer inovação e transformar o mundo? Então, vem com a gente 😊
+
+We’re here for tech and beer.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Coordenador(a) de Engenharia de Software
+
+Sobre a vaga
+Sobre a vaga:
+
+A Juntos Somos Mais é uma startup de tecnologia atuando no mercado da construção civil desde 2018 que tem como acionistas três gigantes do mercado: Votorantim Cimentos, Gerdau e Tigre.
+
+Fazemos isso por meio de tecnologia, com produtos próprios, parcerias, aquisições e com um time empreendedor, de alta performance, que é movido pela nossa paixão em transformar vidas! Hoje contamos com mais de 40 marcas participantes, mais de 1.2 milhões de membros entre lojistas, vendedores e profissionais de obra, 100 mil lojas e movimentamos mais de 10 bilhões de reais em nossa Loja Virtual em 2024, e crescemos mais a cada dia.
+
+O nosso time é empreendedor e apaixonado por propor as melhores soluções para os nossos usuários, fortalecendo o varejo de materiais de construção e impactando a vida de milhares de pessoas. Através disso, construímos relações sólidas para sermos o maior ecossistema da construção civil.
+
+Estamos à procura de um(a) Coordenador(a) de Engenharia de Software talentoso(a) e experiente para liderar parte do nosso time de Engenharia, aproximadamente 12 pessoas, em nosso projeto do Marketplace B2B que transaciona aproximadamente 1Bi/mês. 
+
+Se você é apaixonado por tecnologia, possui habilidades de liderança excepcionais e tem experiência em gerenciamento de equipes de desenvolvimento de software, queremos conhecer você!
+
+Principais atribuições:
+• Liderar e gerenciar uma equipe de engenharia de software, promovendo um ambiente colaborativo e de alta performance.
+• Planejar, coordenar e acompanhar projetos de desenvolvimento de software, assegurando a entrega dentro dos prazos e padrões de qualidade estabelecidos.
+• Colaborar com outras áreas da empresa para alinhar as necessidades de negócio com as soluções técnicas.
+• Implementar e otimizar processos de desenvolvimento, incentivando a adoção de boas práticas e metodologias ágeis.
+• Identificar e mitigar riscos, resolvendo problemas técnicos e de equipe de forma proativa.
+• Conduzir avaliações de desempenho, fornecer feedback e desenvolver planos de carreira para os membros da equipe.
+
+Requisitos:
+• Experiência comprovada em desenvolvimento de software e liderança de equipes técnicas.
+• Sólidos conhecimentos em metodologias ágeis (Scrum, Kanban) e práticas de DevOps.
+• Excelentes habilidades de comunicação e capacidade de trabalho em equipe.
+• Capacidade de resolver problemas complexos e tomar decisões baseadas em dados.
+
+Diferenciais:
+• Experiência com Marketplace, seja B2B ou B2C e plataformas financeiras/Fintechs.
+• Experiência com gestão de projetos em ambientes de alta disponibilidade/escalabilidade.
+• Conhecimentos em arquitetura de software e práticas de segurança.
+• Certificações em gerenciamento de projetos e/ou metodologias ágeis.
+
+INFORMAÇÕES ADICIONAIS
+
+Nosso processo seletivo
+Aqui no processo seletivo da #Juntos, valorizamos o aprendizado e o desenvolvimento conjunto. Acreditamos que temos muito a aprender e a ensinar, então levamos isto para todas as fases dessa jornada!
+
+Benefícios de ser #Juntos
+Por aqui você terá:
+• Remuneração variável;
+• Seguros de vida, odontológico e de saúde de primeira - saúde sempre em primeiro lugar!
+• Vale-refeição/alimentação através do cartão Flash - você decide como usar :)
+• Gympass – Academia e saúde do corpo onde você quiser!
+• Zenklub - Para você cuidar do seu bem-estar e saúde mental :)
+• Auxílio creche, para você cuidar do desenvolvimento de quem mais ama!
+• Auxílio Home Office;
+• Auxílio Kit Ergonomia - para você montar sua estação de trabalho com sua cara;
+• Sabemos como se tornar mãe ou pai é marcante e queremos dar todo o apoio. A licença-maternidade é de 180 dias e a licença parental de 20 dias. O benefício também vale para papais e mamães que adotarem ou obtiverem a guarda judicial da criança e para casais homoafetivos;
+• Investpass;
+• Parceria de desconto com a Conquer; ESPM; FGV, MBA USP, EBAC dentre outros;
+• Parceria com a Dr Pet - desconto de 20% nos planos;
+• SESC - benefício de lazer, cultura e saúde;
+• Parceria com a ComSchool - descontos de até 30% em cursos (custeio do colaborador);
+• Parceria com a Posher (exclusivo para São Paulo - SP) - Tenha serviços como manicure, massagem, serviços de lavanderia, entre outros serviços online, por um preço justo;
+• Parceria Pronto Chef (cobertos nas cidades de atendimento - refeições saudáveis e saborosas com 30% de desconto no primeiro pedido e 10% nos demais pedidos);
+• Day off de aniversário.
+
+Diversidade e Inclusão
+Acreditamos que a diversidade é enriquecedora. Por isso, incentivamos que as pessoas que trabalham aqui tenham a liberdade para ser quem são de verdade. Somos feitos de gente, e valorizamos a importância do toque mais pessoal de cada um para a construção de um time forte, empático e divertido!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior AI/ML Engineer
+
+Sobre a vaga
+OLSYS provides full-service solutions for mid-market and enterprise organizations.
+
+With 15+ years of experience, 100+ projects, and 50+ strong technical experts in the team, we continue to grow by expanding our development team in Europe, as well as expanding the base of new clients and projects.
+
+As an enterprise software development company, we are building long-term partnerships helping our clients accelerate their digital experiences with reasonable IT investments.
+
+Our tailored approach, e-commerce focus, and flexible solutions allow us to design, develop, and deliver scalable, integrated commerce platforms that drive profits and boost the business.
+
+Our Industry Focus
+
+— Banking and Finance (business continuity management, planning system, banking app development);
+
+— Retail and E-Commerce (B2B Commerce, B2C Commerce, Digital/E-Commerce customer experience);
+
+— Healthcare (website development for Healthcare organizations).
+
+Our Expertise Includes
+
+— Commerce Solutions
+
+— Development Services
+
+— Creative Services
+
+— Quality Assurance and Testing
+
+— Maintenance and Support
+
+— E-Commerce Consulting
+
+The Role
+
+Responsibilities
+
+Interact with the modern LLMs and adopt the best practices of their usage.
+R&D activities (experimenting with LLMs): Generate code based on the input description. Build test cases based on the user scenarios.
+Performance Monitoring: Monitor the performance of the models and make adjustments as necessary to maintain or enhance model accuracy and efficiency.
+Data Preprocessing and Annotation: Work with the Data Engineering team to preprocess and annotate the training data for AI/ML models. Collaborate with subject matter experts to create labeled datasets that facilitate supervised and unsupervised learning.
+Prototyping and Evaluation: Rapidly prototype and iterate different AI/ML approaches to identify the most suitable solution to meet the requirements.
+
+Perform rigorous evaluations to measure the model's performance against defined metrics.
+
+Documentation: Document all stages of the AI/ML development process, including design choices, architecture, algorithms, and evaluation results, ensuring knowledge transfer and team understanding.
+Collaboration: Collaborate closely with cross-functional teams, including Data Scientists and Software Engineers.
+Stay Abreast of Industry Trends: Keep up-to-date with the latest advancements in AI/ML, NLP, LLM and other relevant technologies. Integrate new research findings and methodologies into the project as applicable.
+
+Ideal Profile
+
+Experience: Demonstrated experience of at least 5 years in developing AI/ML solutions with a focus on LLM and LLM frameworks (e.g. LangChain). Strong knowledge and practical experience in Generative AI, Interactive Chatbots, Graph databases.
+Data Processing: Experience in preprocessing and handling large-scale, unstructured text data, and the ability to perform data analysis and validation.
+Problem-solving and Innovation: Proven ability to tackle complex technical challenges, think innovatively, and propose creative solutions to real-world problems.
+Communication: Excellent verbal and written communication skills to effectively convey complex technical concepts to both technical and non-technical stakeholders.
+
+English level: Upper-Intermediate
+
+What's on Offer?
+
+You can contribute and influence the development of a new product
+Work with AI product
+Flexible working options
+-----------------------------------------------------------------------------------

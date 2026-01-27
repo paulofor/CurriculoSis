@@ -1,0 +1,323 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de dados Sênior
+
+Sobre a vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Sobre a posição
+Buscamos um Engenheiro de dados Sênior com sólida experiência em Python para liderar o desenvolvimento e implementação de um Master Data Management (MDM) de Pacientes. O profissional irá trabalhar na modelagem de dados, especificação de regras de negócios e implementação dessas regras e tabelas no ambiente Databricks, unificando dados de pacientes provenientes de múltiplos sistemas de origem.
+
+Responsabilidades
+· Desenvolver e implementar a arquitetura de modelagem de dados do MDM de Pacientes
+· Especificar e documentar regras de negócios para unificação e tratamento de dados de pacientes
+· Implementar pipelines de processamento de dados no Databricks
+· Desenvolver lógicas para matching, deduplicate e golden record de pacientes
+· Estabelecer fluxos de qualidade de dados e validação
+· Criar e manter tabelas integradas seguindo as regras de negócios estabelecidas
+· Implementar rotinas de atualização e sincronização de dados
+· Participar de code reviews e mentoria técnica da equipe
+· Colaborar com stakeholders de negócios para refinar regras e requisitos
+
+Requisitos Técnicos
+
+Essenciais
+· Experiência avançada com Python
+· Sólidos conhecimentos em:
+ Databricks e Delta Lake
+ PySpark para processamento de dados em larga escala
+ SQL e modelagem de dados
+ ETL/ELT e pipelines de dados
+
+· Experiência com Master Data Management (MDM) ou projetos similares de integração de dados
+· Conhecimento em técnicas de matching, fuzzy matching e deduplicação de registros
+· Experiência com implementação de regras de negócios complexas em código
+· Domínio de versionamento Git e metodologias ágeis
+· Experiência com boas práticas de desenvolvimento (testes unitários, documentação)
+
+Diferenciais
+· Experiência prévia com MDM na área de saúde
+· Conhecimento em FHIR ou outros padrões de dados de saúde
+· Experiência com Great Expectations para qualidade de dados
+· Conhecimento em frameworks de governança de dados
+· Experiência com mensageria (Kafka, Event Hubs)
+· Familiaridade com ferramentas de CDC (Change Data Capture)
+· Conhecimento em observabilidade (Databricks SQL Analytics, Grafana)
+· Experiência com APIs RESTful para exposição de dados
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados SR – Setor Farmacêutico
+
+Sobre a vaga
+Job Description
+
+A FCamara está em busca de um Engenheiro de Dados SR com sólida experiência em arquitetura, construção e manutenção de pipelines de dados, foco em soluções escaláveis para apoiar decisões estratégicas no setor farmacêutico.
+
+Responsibilities And Assignments
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+Projetar, desenvolver e manter pipelines de dados escaláveis para integração entre múltiplas fontes internas e externas.
+
+Garantir a qualidade, integridade e consistência dos dados coletados em conformidade com normas regulatórias (ex: ANVISA, FDA).
+
+Trabalhar em parceria com times de ciência de dados, BI e TI para entender necessidades e entregar soluções orientadas a dados.
+
+Implementar soluções de armazenamento e processamento de dados em ambientes on-premise e/ou na nuvem (AWS, Azure, GCP).
+
+Automatizar processos de ingestão, transformação e carga de dados (ETL/ELT).
+
+Gerenciar e monitorar performance de bancos de dados relacionais e não relacionais.
+
+Documentar fluxos de dados, modelos e integrações de forma clara e atualizada.
+
+Garantir a segurança e governança dos dados seguindo boas práticas e políticas de compliance do setor farmacêutico.
+
+Tomar decisões técnicas e estratégicas, avaliar riscos, para garantir o sucesso das entregas;
+
+Dar suporte e aconselhar o time para solucionar problemas, estimando o tempo e o esforço necessários para um fluxo de trabalho eficiente;
+
+Treinar os membros da equipe, resolvendo os conflitos diários e garantindo que os membros da equipe estejam suficientemente focados;
+
+Identificar riscos e trazer planos de contingência.
+
+Facilidade em se relacionar com diferentes pessoas/times e boa comunicação;
+
+Requirements And Qualifications
+
+REQUISITOS E QUALIFICAÇÕES
+
+Experiência em ambiente Azure e ferramentas de Data (Data Factory, Databricks, Azure Data Lake, Storage Account);
+
+Experiência com banco de dados relacional SQL Server
+
+Experiência com banco de dados relacionais RDBMS (SQL Server; Oracle)
+
+Experiência em ferramentas ETL (Talend, SSIS, Informatica);
+
+Experiência com ingestão de dados em Python (Airflow, Spark);
+
+Experiência ou conhecimento em otimização de Queries;
+
+Familiaridade com metodologias ágeis;
+
+Familiaridade com ferramentas de integração contínua (CI/CD);
+
+Familiaridade com o uso de GitHub;
+
+Conhecimento em stacks do Google Cloud Platform (GCP);
+
+Conhecimento em Docker;
+
+Experiência com ferramentas de visualização de dados (Tableau, Power BI) é um diferencial.
+
+Additional Information
+
+Conhecimento em frameworks de governança de dados e LGPD.
+
+Experiência prévia no setor farmacêutico ou em indústrias reguladas.
+
+Familiaridade com ferramentas de visualização de dados (Power BI, Tableau, etc.).
+
+Transformamos mundos sonhados em trajetórias reais.🧡🚀
+
+Aqui somos #SangueLaranja!
+
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras.
+
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+
+tem o poder da transformação!
+
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs.
+
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Especialista de Dados | SPX - São Paulo/SP
+
+Sobre a vaga
+About The Team
+
+Sobre a Shô
+
+Aqui na Shô, acreditamos que cada membro de nossa equipe é fundamental para o nosso sucesso, e que diversidade de perspectivas e vivências são essenciais para movimentar nosso negócio e impulsionar o nosso propósito de mudar o mundo para melhor.
+
+Fazer parte do nosso time é a oportunidade de se desenvolver dentro de uma cultura de muita agilidade. Se você ama assumir grandes responsabilidades e fazer o que nunca foi feito, a Shô é seu lugar. Aqui você terá grandes desafios, trabalhará em colaboração com um time diverso e contribuirá para o futuro do e-commerce no Brasil, criamos impacto positivo na vida de milhões de pessoas.
+
+Modelo de Trabalho
+
+Adotamos um modelo de trabalho híbrido, esse modelo permite que as pessoas ajustem seu ambiente de trabalho de acordo com suas necessidades pessoais, ao mesmo tempo em que promove a colaboração e interação no escritório.
+
+Qual será a sua missão
+
+A equipe de Hubs D&A é responsável pelo desenvolvimento de soluções baseadas em dados (painéis, conjuntos de dados, análises profundas, etc.) para ajudar a monitorar as operações de Last Mile com uma abordagem orientada por dados. Nossa equipe trabalha em colaboração com todas as
+
+equipes de operações. Nosso principal objetivo é fornecer informações e insights para que a equipe de negócios possa tomar decisões baseadas em dados e atingir os OKRs.
+
+Como especialista de dados em nossa equipe, você auxiliará a equipe tecnicamente, colaborará com nossos clientes internos para entender seus problemas, obter requisitos, irá ajudar a desenvolver e monitorar KPIs e fazer análises profundas em dados para fornecer insights acionáveis para os negócios. Além disso, também terá a função de buscar ativamente melhorias nos processos já existentes, propondo soluções para nossos problemas e otimização dos nossos processos.
+
+Job Description
+
+Como será o seu dia a dia
+
+Conhecer os processos operacionais para propor soluções eficazes; 
+Analisar dados de Last Mile, fornecendo insights acionáveis para apoio à tomada de decisão; 
+Processar e tratar grandes volumes de dados, criar pipelines e automatizar relatórios; 
+Desenvolver painéis e dashboards com KPIs relevantes; 
+Interagir com a liderança sênior para suporte e alinhamento de estratégias; 
+Explorar ferramentas internas para otimização de análises e processos; 
+Comunicar e apresentar análises para stakeholders e times de negócio; 
+Aplicar técnicas estatísticas para gerar insights estratégicos; 
+Orientar tecnicamente outros membros da equipe; 
+Fomentar a cultura data-driven dentro da organização; 
+Priorizar tarefas e gerenciar tempo de forma eficaz.
+
+Requirements
+
+O que você precisa para assumir o desafio
+
+Conhecimento em SQL é obrigatório.
+Experiência com pelo menos uma ferramenta de visualização de dados (Power BI, Qlik, Metabase, Google Data Studio, Tableau, etc.)
+Conhecimento em data warehouse, ETL/ELT
+Estruturado, capaz de planejar a execução de iniciativas de ponta a ponta e acompanhar a implementação da iniciativa
+Grande afinidade com dados, habilidades analíticas sólidas e habilidades de pensamento crítico
+Grande perspicácia comercial, capaz de gerar insights e trabalhar com prazos apertados
+Capacidade de priorizar tarefas e lidar com prazos apertados
+Proficiência em produtos do Microsoft Office e Google Suites
+Bom jogador de equipe, atitude positiva e vontade de aprender
+Capacidade de se comunicar de forma clara e eficaz em inglês (habilidades de comunicação verbal e escrita)
+
+Benefícios
+
+Assistência médica e odontológica, estendendo-se aos dependentes;
+Parceira com Gympass e TotalPass;
+Vale Refeição/Alimentação flexível;
+Vale Transporte, Vale Mobilidade ou Estacionamento no local;
+Benefício flexível;
+Zenklub;
+Bônus anual discricionário, atrelado à performance.
+
+VEM FAZER HISTÓRIA COM A GENTE.
+
+O QUE TE FAZ ÚNICO, NOS FAZ MELHORES! 🧡
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Cientista de Dados Pleno
+
+Sobre a vaga
+TransUnion's Job Applicant Privacy Notice
+
+What We'll Bring
+
+Na TransUnion, temos um ambiente acolhedor e enérgico que incentiva a colaboração e a inovação - estamos constantemente explorando novas tecnologias e ferramentas para sermos ágeis. Este ambiente dá ao nosso pessoal a oportunidade de aprimorar as habilidades atuais e construir novas capacidades, descobrindo seus talentos.
+
+Somos uma empresa de oportunidades iguais e todas as pessoas qualificadas para nossas vagas serão consideradas em nossos processos seletivos independentemente de raça, cor, religião, sexo, nacionalidade, idade, status de pessoa com deficiência (PcD), orientação sexual, identidade de gênero ou demais recortes sociais relacionados a grupos sub representados. Estamos trabalhando para trazer maior representatividade social para a nossa empresa, garantindo que as pessoas se sintam parte de nossas equipes e dando apoio para que conquistem cargos de liderança. Reconhecemos que ainda há trabalho a ser feito e não vamos parar até que todas as pessoas que passem pelas nossas portas diariamente se sintam incluídas. Venha fazer parte da nossa história!
+
+Mandatório
+
+What You'll Bring:
+
+ Ensino superior completo
+ Experiência em desenvolvimento de modelos preditivos com uso de dados de crédito
+ Sólidos conhecimentos de crédito (ciclo de crédito, política)
+ Forte pensamento analítico, crítico e criativo, vontade de tomar iniciativa na solução de problemas para os setores de serviços financeiros, seguros ou varejo.
+ Vivência em trabalhos com clientes (internos e externos) no desenvolvimento de estudos analíticos.
+ Experiência em manuseio de banco de dados (big data)
+ Software Rstudio Avançado ou Python Avançado
+
+Desejável
+
+ SQL
+ Inglês intermediário
+ A pessoa deve ser analítica, detalhista, Pro ativa, comunicativa, fácil relacionamento, entusiasmada e curiosa em aprender.
+
+Impact You'll Make
+
+Participação em equipes multifuncionais para impulsionar novas iniciativas de negócios e entregar soluções analíticas de valor agregado aos nossos clientes.
+Desenvolver modelos analíticos preditivos principalmente para os segmentos financeiros, seguros ou varejo.
+Participação em trabalhos analíticos em conjunto com clientes (desenvolvimento de soluções customizadas) e laboratórios para novas visões\insights, para uma variedade de casos de uso de negócios, usando várias técnicas analíticas. Entre as atividades estão: design, desenvolvimento, revisão, apresentação ao cliente, implantação e auditoria\monitoramento.
+Conversas com clientes (internos e externos) para entendimento de necessidades.
+Apresentação de projetos esultados das soluções.
+
+This is a hybrid position and involves regular performance of job responsibilities virtually as well as in-person at an assigned TU office location for a minimum of two days a week.
+
+TransUnion Job Title
+
+Sr Analyst, Data Science and Analytics
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+Estamos em busca de um(a) Engenheiro(a) de Dados/Software Sênior com sólida experiência em microsserviços, perfil analítico e criatividade técnica. Buscamos alguém com iniciativa e autonomia para atuar em todas as fases do ciclo de vida do software — desde a análise de requisitos até a evolução de soluções inovadoras e escaláveis.
+
+O(a) profissional ideal tem forte capacidade de resolução de problemas, intolerância a ineficiências e excelência em comunicação, sendo também referência técnica dentro do time e contribuindo ativamente para a melhoria contínua do código e das ferramentas que suportam o nosso negócio.
+
+Responsabilidades
+
+Atuar em um time multidisciplinar como engenheiro(a) de software back-end;
+Participar ativamente de discussões técnicas, proposições e planejamento de soluções;
+Ser referência técnica, apoiando o time e solucionando impasses críticos;
+Conduzir todas as etapas do desenvolvimento, da concepção à implantação e operação;
+
+Entregas Esperadas
+
+Aplicação consistente dos princípios SOLID e Design Patterns em desenvolvimento e manutenção;
+Desenvolvimento de soluções escaláveis e resilientes para milhões de usuários;
+Comunicação clara com stakeholders de Produto, Negócios e áreas correlatas;
+Revisões de código e aplicação de testes adequados (unitários, integrados etc.);
+Manutenção de documentação técnica atualizada;
+Compartilhamento de conhecimento técnico e apoio ao crescimento da equipe;
+Busca constante por melhorias técnicas e de desempenho;
+Abertura para aprendizado contínuo.
+
+Qualifications
+
+Requisitos Técnicos (Hard Skills)
+
+Experiência em desenvolvimento com Java 17+, Spring Boot, Spring Data e Spring Batch;
+Experiência com Python e Scala;
+Conhecimento de Apache Airflow;
+Experiência em desenvolvimento de APIs REST e GraphQL com arquitetura de microsserviços;
+Prática com testes unitários (JUnit, Mockito etc.);
+Experiência com containers (Docker) e orquestração com Kubernetes;
+Conhecimento de boas práticas de arquitetura (SOLID, Design Patterns);
+Experiência com AWS (EKS, EC2, S3, EMR, SQS, entre outros);
+Vivência com pipelines CI/CD, especialmente usando Jenkins.
+
+Competências Comportamentais (Soft Skills)
+
+Autonomia e proatividade;
+Excelente comunicação e trabalho em equipe;
+Raciocínio analítico e habilidade de resolver problemas complexos;
+Senso de urgência e foco em entregas com qualidade.
+Garantir a qualidade, performance e evolução das aplicações críticas da empresa.
+
+Additional Information
+
+A Serasa Experian é muito mais do que você imagina. Com o propósito de criar um futuro melhor, ampliando oportunidades para pessoas e empresas, no Brasil somos mais de 4 mil pessoas que atuam em diversos times e especialidades. Aqui, cada conhecimento e diversidade se complementa e você pode trabalhar no que mais ama, estamos comprometidos a construir uma cultura inclusiva e um ambiente no qual pessoas possam equilibrar a carreira com seus compromissos e interesses pessoais, prezando pelo bem-estar.
+
+A gente se dedica muito em ser uma das melhores e mais inovadoras empresas para se trabalhar do país, possibilitando experiências e carreiras incríveis para nossas pessoas. Nossa forte abordagem de pessoas em primeiro lugar é reconhecida externamente por meio de diversas certificações de mercado: fomos premiados pelo Great Place To Work™ em 24 países e pela certificação internacional Top Employers, além de sermos reconhecidos como uma das melhores empresas para jovens profissionais e contarmos com uma avaliação de 4,6 no Glassdoor. Cada reconhecimento nos indica que estamos no caminho certo, proporcionando um ambiente de trabalho cada vez melhor para nossos talentos.
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------

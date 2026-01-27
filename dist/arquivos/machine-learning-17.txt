@@ -1,0 +1,337 @@
+[Oportunidade 1]
+Oportunidade: Sênior Engenheiro/a De Dados - Remoto
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+Área De Atuação
+
+Outros
+
+Localização
+
+Rio de Janeiro-RJ
+
+Atribuições
+
+Buscamos Engenheiro/a de Dados sênior, com experiência na construção de sistemas distribuídos de alto desempenho, orientação a objetos e prática com sistemas de mensagens/enfileiramento e/ou sistemas de processamento de fluxo. É essencial ter conhecimento e vivência com as tecnologias Python, Kafka, Spark, Airflow, Terraform, Data Lake, EMR, e serviços AWS. Remuneração: entre R$ 15.300 e R$ 18.760/mês.
+
+Requisitos
+
+Esta é uma oportunidade da Impulso, uma People Tech que oferece serviços especializados em todo o fluxo de atração, contratação, desenvolvimento e retenção de times de tecnologia remotos. Para ler mais informações sobre este cargo, acesse o link e clique no botão (QUERO ME INSCREVER): https://impulso.link/VnrUOH
+
+Escolaridade Mínima Exigida
+
+Sem informação
+
+ Siga Nosso Insta @divulgavagas.oficial
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados - Pleno Trabalho Remoto Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+Somos a Cadastra, uma empresa global de serviços de tecnologia, estratégia, marketing e dados, com a missão de liderar transformações e estratégias digitais que trazem resultados exponenciais.
+
+Quer fazer a diferença na nova economia e transformar pessoas e negócios para prosperarem? Vem pra Cadastra!
+
+Como Engenheiro de Dados - Pleno, você vai atuar no desenvolvimento de pipelines de dados para suportar o crescimento acelerado de um dos nossos clientes. Você vai atuar no desenvolvimento aplicando as melhoras práticas de mercado, com objetivo de fornecer dados de maneira sustentável, escalonável e com segurança.
+
+Essa posição é para atuar de forma remota.
+
+Responsabilidades e atribuições
+
+Em Nosso Time Você Terá o Desafio De
+
+Desenvolver pipelines de dados aplicando as melhores praticas de mercado;
+Criar automações para a plataforma de dados em Google Cloud;
+Se preocupar com desempenho, segurança e governança de dados;
+Garantir que a plataforma de dados seja escalonável e flexível.
+
+Requisitos e qualificações
+
+O Que a Cadastra Espera De Você
+
+Experiência em projetos de Data Lake com Google Cloud (GCP);
+Conhecimento de Python / SQL no desenvolvimento de soluções para Engenharia de Dados;
+ETL/ELT: conhecimentos em extração, sanitização, deduplicação, unificação, agregação e anonimização de dados;
+Experiência com ferramentas de orquestração de fluxo de dados, preferencialmente Airflow;
+Experiência em ferramenta de versionamento de código, preferencialmente Github;
+Capacidade analítica na resolução de problemas;
+Conhecimento da teoria de Banco de Dados, Data Lake, Data Warehouse.
+
+Diferencial
+
+Conhecer ou já ter trabalhado com projetos utilizando metodologia ágil.
+
+Informações adicionais
+
+O Que Oferecemos
+
+Vale alimentação e refeição no cartão FLASH🥗
+Auxílio Home Office no cartão FLASH 💳
+Plano de saúde de acordo com a sua localidade 🩺
+Plano odontológico de acordo com a sua localidade 🦷
+Day off de aniversário + valor depositado no cartão FLASH🎉
+Licença-maternidade e paternidade estendida 🍼
+Participação nos lucros (PLR) 💰
+Seguro de vida 🧡
+Auxílio creche 👶
+Bônus por indicação 💰
+Vale-transporte 🚍
+Clude | Plataforma de Saúde 🩺
+Total Pass 🏋🏽‍♀️
+CRM Bônus 💸
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Queremos te conhecer 😊 | Bate papo com Talent2Queremos te conhecer 😊 | Bate papo com Talent
+Etapa 3: É hora de conhecer as lideranças ✨ | Bate papo com as lideranças3É hora de conhecer as lideranças ✨ | Bate papo com as lideranças
+Etapa 4: Queremos você conosco 🧡 | Carta proposta4Queremos você conosco 🧡 | Carta proposta
+Etapa 5: Contratação5Contratação
+
+Sobre Nós
+
+Somos uma empresa global de serviços de tecnologia, estratégia, marketing e dados, com a missão de liderar transformações e estratégias digitais que trazem crescimento de canais digitais e físicos.
+
+De maneira híbrida, estamos espalhados pelos nossos escritórios no Brasil e Reino Unido, além de vários outros Cadastrers (como nos chamamos por aqui) 100% remotos.
+
+Na Cadastra, trabalhamos pelo mesmo objetivo: transformar pessoas e negócios para prosperarem.
+
+Atuamos em divisões que aplicam soluções como next-gen company
+
+Business & Strategy
+Commerce 
+Media Services 
+CRM & Customer Experience 
+Digital Performance 
+Data, Analytics & AI
+ Design & Creativity 
+Transformative Engineering
+Influence & Content Marketing
+Cloud Services
+
+Somos especialistas no que fazemos e já fomos premiados pela excelência do nosso trabalho. Em 2022, fomos líderes no ISG Provider Lens Martech, vencedores do Salesforce - Partner Innovation Awards 2022, na categoria Consultoria na Área de Marketing, fomos indicados ao Prêmio Caboré, entramos na lista das empresas que mais crescem nas Américas, da Financial Times 2023, além de muitos outros reconhecimentos.
+
+Não é só na parte técnica que mandamos bem, também valorizamos as nossas pessoas e vivemos a nossa cultura no dia a dia. Fomos rankeados 15 vezes como Great Place to Work, além das certificações GPTW Mulher e Rio Grande do Sul.
+
+VEM VER PORQUE O SEU LUGAR É AQUI!
+
+Quer aprender muito no seu dia a dia, se divertir em equipe e causar um impacto positivo e de alta performance no mercado? Vem com a gente!
+
+Aqui, nos guiamos pelos nossos valores para atingirmos o nosso objetivo.
+
+Nossos Valores
+
+Coragem para desbravar;
+Eficiência para conquistar;
+Impacto para reverberar;
+Aprendizado para transformar;
+Parceria para inovar.
+
+NOSSOS BENEFÍCIOS
+
+ Vale alimentação e refeição no cartão FLASH🥗
+
+Auxílio Home Office no cartão FLASH 💳
+
+Plano de saúde de acordo com a sua localidade 🩺
+
+Plano odontológico de acordo com a sua localidade 🦷
+
+Day off de aniversário + valor depositado no cartão FLASH🎉
+
+Licença-maternidade e paternidade estendida 🍼
+
+Participação nos lucros (PLR) 💰
+
+Seguro de vida 🧡
+
+Auxílio creche 👶
+
+Bônus por indicação 💰
+
+Vale-transporte 🚍
+
+Clude | Plataforma de Saúde 🩺
+
+Total Pass 🏋🏽‍♀️
+
+CRM Bônus 💸
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Machine Learning Engineer - Conversational AI
+
+Sobre a vaga
+Welcome to CloudWalk – a Brazilian fintech company that is on a mission to harness the power of AI to drive operational excellence. The future is unfolding, and we are actively seeking individuals who want to be hands-on contributors in shaping the next chapter of technology. If you are ready to explore the vast capabilities of AI to enhance operational efficiency, read on.
+
+About the team:
+
+Our team is responsible for the development and optimization of chatbots. We view data science as a pragmatic art - crafting elegant solutions that not only meet but exceed customers’ expectations. Collaboration is at the heart of our team culture. Together we embrace challenges, learn from failures and celebrate successes.
+
+About the job:
+
+Our team is seeking a passionate and experienced individual to contribute to our dynamic team. Your responsibilities will evolve in response to the dynamic nature of our projects. The initial focus will be on optimizing the case coverage rate of a specific chatbot, and guiding software engineering efforts.
+
+Required skills:
+
+Machine learning: Experience in designing, implementing, and optimizing machine learning models.
+NLP expertise: In-depth knowledge of natural language processing techniques, including text classification, entity recognition, and sentiment analysis.
+Software engineering: Solid software engineering skills with expertise in Python and relevant frameworks and libraries. Strong understanding of software design principles, code optimization, and modular architecture.
+Cloud computing: Experience with cloud platforms for deploying and scaling machine learning models.
+Problem-solving skills: Ability to analyze complex problems, propose effective solutions, and implement them in a production environment.
+Communication skills: Excellent communication skills to collaborate effectively with cross-functional teams, and mentor junior engineers.
+
+Nice-to-have skills:
+
+Knowledge retrieval: Experience in optimizing knowledge retrieval systems, working with knowledge bases, and implementing efficient algorithms for retrieving relevant information.
+Prompt engineering: Familiarity with advanced prompting techniques to improve contextual understanding and the quality of the response.
+Distributed systems: Knowledge of distributed systems and parallel computing to enhance the scalability and performance of the chatbot infrastructure.
+DevOps practices: Understanding DevOps practices, including continuous integration, continuous deployment, and containerization.
+Knowledge graphs: Experience working with knowledge graphs and semantic technologies to enhance the representation and retrieval of information.
+
+Diversity and Inclusion: We believe in social inclusion, respect and appreciation of all people. We promote a welcoming work environment, where each CloudWalker can be authentic, regardless of gender, ethnicity, race, religion, sexuality, mobility, disability or education.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Especialista em Desenvolvimento - Engenharia de Dados
+
+Sobre a vaga
+Position Summary
+
+SOBRE A SAMSUNG E O SRBR
+
+É missão da Samsung inspirar o mundo e moldar o futuro com ideias e tecnologias transformadoras!
+
+E você sabia que muitas dessas inovações são pensadas e desenvolvidas por talentos brasileiros e impactam a vida de milhões de pessoas pelo mundo?
+
+Nosso Centro de Pesquisa e Desenvolvimento - o SRBR - conta com duas unidades no Brasil, em Campinas/SP e em Manaus/AM, com atuação nas áreas de Inteligência Artificial, Segurança da Informação, Ciência de Dados, Desenvolvimento de Software e Automação, e é referência em tecnologias aplicadas à saúde e bem-estar.
+
+Aqui no SRBR respiramos inovação! Trabalhar em um P&D é estar sempre à frente, olhando para o futuro. Por aqui, profissionais da tecnologia e da área da saúde trabalham, pesquisam e criam soluções juntos, com muita sinergia e colaboração, em um ecossistema disruptivo que inclui universidades, institutos de pesquisa e acadêmicos.
+
+Nosso DNA é de pura inovação e criatividade, sem perder nossa essência de empresa sólida, consistente e em pleno crescimento.
+
+Nosso jeito de trabalhar está em constante evolução, acreditamos na potência do trabalho presencial para a sinergia entre as equipes. ;)
+
+Vem transformar o mundo com a gente! Vem ser #SAMSUNGER
+
+Role And Responsibilities
+
+Atuar em pesquisa e desenvolvimento envolvendo inteligência artificial (IA), com foco em gestão e organização de dados, versionamento de datasets, validação de dados, e estruturação de banco de dados. Suporte à liderança técnica na condução, discussão e negociação de projetos de IA.
+
+PRINCIPAIS ATIVIDADES
+
+ Participar de projetos de P&D de Inteligência Artificial (IA) do SRBR, que têm o objetivo de produzir tecnologia inovadora para equipar os dispositivos Samsung e possibilitar novos serviços inovadores;
+ Atuar com análise, processamento e engenharia de um grande volume de dados para garantir dados de alta qualidade para algoritmos de IA;
+ Construir e manter sistema de dados a fim de garantir integridade, qualidade e eficiência na análise e processamento de dados para algoritmos de IA;
+ Organizar dados para garantir dados de alta qualidade para algoritmos de aprendizado de máquina;
+ Acompanhar, suportar e direcionar coleta de dados;
+ Contribuir para a organização, sincronização e limpeza de dados do conjunto de dispositivos;
+ Analisar dados para entender o comportamento dos dispositivos usados (mineração de dados, visualização etc.);
+ Acompanhamento do progresso do projeto de IA;
+ Suporte à liderança técnica e condução de projetos de IA.
+
+COMPETÊNCIAS TÉCNICAS
+
+ Conhecimento e experiência prática em mineração de dados, engenharia de dados, análise de dados e visualização de dados;
+ Conhecimento em modelagem de dados e em DBMS, SQL/NoSQL;
+ Conhecimento em programação avançado (Desejável Python, C/C++ ou Java), paradigmas de programação e ferramentas de programação;
+ Conhecimento prático em projetos de software de inteligência artificial e/ou big data;
+ Experiência com ferramentas e pipelines para criação e manutenção de soluções de machine learning;
+ Conhecimento em análise de dados de séries temporais, estatística e modelagem;
+ Conhecimento de técnicas, algoritmos e bibliotecas de aprendizado de máquina aplicados a plataformas móveis e vestíveis; (Desejável)
+ Publicação acadêmica e participação em conferências; (Desejável)
+ Conhecimento em dados de sensores, como acelerômetro e giroscópio (Desejável);
+ Conhecimento em análise de dados em ambientes de nuvem (Desejável);
+ Conhecimento em engenharia de software, incluindo metodologias, práticas recomendadas e ferramentas relacionadas (Desejável);
+ Conhecimento de protocolos de coleta de dados (Desejável);
+ Conhecimento em coleta e análise de dados de saúde, biomédicos, de condicionamento físico ou de exercícios (Desejável).
+
+Requisitos
+
+ Bacharel em Ciência da Computação, Estatística, Matemática, Engenharia da Computação, Engenharia Elétrica ou áreas correlatas;
+ Mestrado e/ou Doutorado em Ciência da Computação, Estatística, Matemática, Engenharia da Computação, Engenharia Elétrica ou áreas correlatas (Desejável);
+ Inglês: oral e escrito avançado;
+
+Skills And Qualifications
+
+NOSSOS BENEFÍCIOS
+
+O bem-estar das pessoas é prioridade por aqui, por isso oferecemos o SRBR Health, um programa com várias ações focadas na saúde física e mental dos colaboradores. Temos sessões de massagem, relaxamento e alongamento, oferecemos acesso à plataforma Zenklub, serviço de atendimento online com terapeuta, psicólogo, psicanalista ou coach e o Wellhub (antigo Gympass), um programa completo de bem-estar físico, mental e nutricional.
+
+ Nossas mesas de pingue-pongue fazem muito sucesso, e para descobrir os novos talentos esportivos, promovemos um torneio anual que é bem disputado.
+ Valorizamos a conexão familiar, por isso as licenças parentais por aqui são estendidas. Licença-maternidade (6 meses) e paternidade (20 dias), além de auxílio creche para cada filho com idade até 24 meses.
+ Temos a Sala Materna, um espaço de apoio à amamentação, para as mamães lactantes realizarem a retirada e estocagem de leite materno, durante o expediente.
+ Horário flexível.
+ Vale refeição.
+ Plano de saúde (extensível aos dependentes legais).
+ Plano odontológico (extensível aos dependentes legais).
+ Seguro de vida.
+ Vale transporte ou fretado.
+ Auxílio combustível (pode ser usado em outros serviços).
+ Celular corporativo.
+ PLR anual.
+ Bônus anual, com base na performance.
+ Portal com descontos exclusivos em produtos Samsung.
+ Oferecemos 4 horas semanais para dedicação exclusiva a mestrado e doutorado.
+ Temos uma plataforma de desenvolvimento e aprendizagem, o Samsung U, com acesso a milhares de cursos online totalmente gratuitos.
+ Um ambiente de trabalho que estimula a criatividade, o trabalho colaborativo e a conexão entre os times.
+
+DIVERSIDADE, INCLUSÃO E EQUIDADE
+
+Acreditamos no poder das diferenças para criar inovações que atendam e representem todas as pessoas! Estamos em um amplo processo de evolução de um local de trabalho com mais diversidade, equidade e inclusão, por isso valorizamos as candidaturas de todas as pessoas e suas identidades de gênero, etnia, raça, religião, orientação sexual, idade ou deficiência.
+
+As informações confidenciais e proprietárias obtidas por você durante seu histórico de emprego em outras empresas devem ser mantidas como tal (confidenciais e proprietárias) durante todo o processo de seleção, não podendo, em hipótese alguma, ser abertas ou compartilhadas com os entrevistadores.
+
+ Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Analista Sênior em Inteligência Artificial (Visão Computacional) - Curitiba PR
+
+Sobre a vaga
+Que tal construir a sua carreira em uma das maiores companhias de alimentos do mundo?
+
+Venha trabalhar na BRF! Uma empresa que está presente na vida de milhares de famílias ao redor do mundo. Dos momentos mais simples até os mais especiais, nós ajudamos a deixar a vida de muita gente mais saborosa.
+
+Descrição do Cargo
+
+ O profissional irá atuar com 
+
+
+ Captação de Oportunidades para Automação com Digitalização de Imagens;
+ Desenvolvimento de software para aplicações de Visão Computacional
+ Desenvolvimento de software em Python
+ Processamento de Imagens, Visão Computacional, Aprendizado de Máquina
+ Utilizar bibliotecas de Processamento de Imagens e Visão Computacional
+ Aplicações como detecção, rastreamento e reconhecimento de objetos
+ Construção de modelos de Redes Neurais de qualidade para produção usando o estado da arte em técnicas de Visão Computacional
+ Criação de Documentação dos Projetos;
+
+
+Qualificações Desejáveis
+
+
+ Conhecimento de Computação de Borda - Sistema Operacional Embutido, Linux;
+ Programação em linguagem Python e análise de dados;
+ Conhecimento de processamento digital de imagens;
+ Bibliotecas e Frameworks (Visão Computacional: OpenCV, Open3D);
+ Aprendizado de Máquina e Aprendizado Profundo (TensorFlow / PyTorch/ Scikit-learn);
+ Conhecimento de redes neurais aplicadas em Visão Computacional;
+ Otimização e tunning de redes neurais;
+ Deploy de modelos em produção;
+ Experiência com integração de Serviços Nuvem, em especial Azure.
+ Exposição de Serviços via APIs REST: Desenvolver e expor serviços usando arquitetura REST;
+ Construção e Gerenciamento de Containers: Utilizar tecnologias como Docker e Kubernetes para orquestrar containers;
+ Excelentes habilidades de comunicação e colaboração, sendo capaz de compartilhar conhecimentos e influenciar positivamente o ambiente de trabalho;
+ Oratória, saber apresentar resultados utilizando ferramentas visuais e de fácil compreensão;
+ Familiaridade com Gestão de Projetos;
+ Familiaridade com Análise de Saving, ROI;
+ Familiaridade com Projetos Ágeis e suas cerimônias (Daily, Sprint Planning, Sprint Review, etc.)
+
+
+Formação Acadêmica
+
+Ciência da Computação, Engenharia Elétrica, Eletrônica ou Mecânica ou área similar
+
+Inscreva-se agora e faça parte da BRF!
+-----------------------------------------------------------------------------------

@@ -1,0 +1,193 @@
+[Oportunidade 1]
+Oportunidade: Machine Learning Engineer
+
+Sobre a vaga
+We are looking for exceptional professionals to join Aravita as a Machine Learning Engineer. We will figure out your seniority during the interviewing process, and adjust our offer accordingly.
+
+Who We Are
+Aravita is committed to revolutionize retail operations using artificial intelligence and advanced supply chain optimization algorithms to help grocers place fresh food orders, avoiding spoilage due to overstocking or lost sales due to under stocking. Grocers keep shelves always stocked with perfect-looking fresh produce, focusing on sales and store operations while we manage the complexity and risks of fresh food inventory management.
+
+Why We Need You
+Tackling this sophisticated challenge requires a special team of people with ingenuity, curiosity, a passion for learning and capable of delivering 10X. If this resonates with you, rest assured you will feel right at home at Aravita.
+
+As a Machine Learning Engineer we expect you to: (Responsibilities)
+• Understand business decision problems and engineer quantitative features and indicators to base decisions on;
+• Develop data and feature pipelines using SQL and PySpark;
+• Implement statistical analyses and machine learning algorithms to improve decision outcomes;
+• Maintain ML infrastrucure;
+• Apply AI components to improve our solutions.
+
+Qualifications
+In order to excel at Aravita in this role, you need: (Minimum requirements)
+• To be a quick learner, capable of developing new skills and learning new problems at a very fast pace;
+• An exceptional analytical mind, and enjoy solving problems. Thinking on numbers is a natural part of your strategy to solve a problem;
+• To write quality Python code, practice using git and proficiency in SQL;
+• Good statistical intuition backed by solid mathematical knowledge.
+
+You will be considered a senior applicant if you have: (Differentials to get a more senior role)
+• Experience writing data pipelines and using PySpark;
+• Experience solving time series forecasting and optimization problems;
+• Deep understanding of how machine learning algorithms work;
+• Experience serving, maintaining and monitoring inference models;
+• Experience designing and developing data and AI products;
+
+How You Will be Rewarded
+We offer competitive compensation, remote working flexibility, health plan and incentives for continuous learning and training.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Analista GRC SR
+
+Sobre a vaga
+Sobre a Ambipar ESG 
+Somos uma empresa provedora para todo o Ecossistema ESG, com a finalidade de trazer valor compartilhado para o negócio dos nossos clientes e partes interessadas. Aqui, o Social e o Ecoambiental caminham juntos, sob uma Governança Inteligente, com a aplicação das melhores práticas e metodologias do mercado, unidas à tecnologia de ponta em Governança & Gestão de Riscos. Reunimos conhecimento e competências que vão desde o regulatório, passando pela economia circular e de baixo carbono até a tecnologia e análise de dados, atendendo dessa maneira todos aqueles no mercado que buscam soluções holísticas em ESG.
+ Na Ambipar ESG, temos como premissa de negócios a Tecnologia, com grande interação consultiva do nosso time e uso da inteligência artificial. Nossa área de Insights e Inteligência traz valor a todos os projetos, com estudos aprofundados e soluções data driven.
+ Unimos tecnologia de ponta a serviços especializados para fornecer excelência em sustentabilidade, conformidade e eficiência, trabalhando como protagonistas para um futuro mais sustentável e responsável para todos.
+
+O ANALISTA GRC SR Será responsável por realizar mapeamento de processos e de riscos, através de análise de documentos e entrevistas em profundidade. 
+Esse profissional prioriza riscos, estabelece controles internos através da escolha da melhor metodologia para gestão de riscos e controles internos considerando os riscos mapeados, maturidade de cultura de riscos e tipologia de atividade econômica exercida, irá elaborar matriz de riscos, programa de compliance com base nos riscos mapeados, e estrutura plano de treinamento sobre o programa de compliance considerando público alvo e melhor meio de propagação. 
+E irá integrar a cultura de riscos e compliance na estratégia da empresa através da disseminação da cultura de riscos, revisão e retroalimentação das estruturas de risco, compliance visando o fortalecimento da governança.
+
+Responsabilidades
+
+Mapear processos e identificar riscos;
+Mapear, avaliar, classificar e priorizar riscos;
+Estabelecer tolerância e apetite ao risco, determinar como os riscos serão gerenciados através da aplicação da melhor metodologia aplicável;
+Pesquisa de melhores práticas e benchmark para orientar os projetos da área;
+Desenhar e implantar controles internos detectivos e preventivos;
+Desenhar e implantar programa de Compliance baseado nos riscos mapeados;
+Elaborar e implantar políticas e procedimentos de conformidade;
+Apoiar a liderança na estruturação e desenvolvimento de projetos;
+Apoiar a liderança na elaboração e monitoramento de indicadores;
+Realização de treinamentos sobre riscos, compliance e governança;
+Acompanhamento de novidade legislativa relevante à área de GRC
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de Machine Learning
+
+Sobre a vaga
+Responsabilidades da função
+Liderar o desenvolvimento iterativo, validação e implementação de modelos de IA/ML.
+Trabalhar muito próximo dos cientistas de ML e ajudá-los com a implementação de modelos nos sistemas de produção, identificar e resolver pontos críticos de engenharia, construindo plataformas escaláveis e de uso geral.
+Construir infraestrutura e pipelines escaláveis e confiáveis para processamento e armazenamento de dados/características, além de infraestrutura e pipelines escaláveis de treinamento e avaliação para acelerar o desenvolvimento de modelos.
+Automatizar fluxos de trabalho de ML para aumentar a produtividade em treinamento, avaliação, teste e geração de resultados.
+Colaborar com partes interessadas multifuncionais para definir uma visão de longo prazo para escalar aplicações de ML/IA em produção e ajudar as equipes com seus planejamentos de roadmap.
+Fornecer orientação técnica para outros engenheiros juniores e atuar como um líder técnico no domínio da engenharia de ML.
+Colaborar em esforços de automação de ponta a ponta necessários para levar modelos à produção.
+Trabalhar com dados brutos estruturados e não estruturados para projetar e desenvolver modelos preditivos inovadores, métricas e dashboards para descobrir insights acionáveis.
+Visualizar e relatar descobertas de dados de forma criativa em uma variedade de formatos visuais que fornecem insights para a organização.
+Influenciar como abordamos desafios e oportunidades de negócios, promovendo a adoção de uma mentalidade orientada por dados.
+Desenvolver código reutilizável visando atingir metas futuras de forma mais rápida e confiável.
+Apoiar e evoluir o roadmap de Análises Avançadas e Ciência de Dados aproveitando pesquisas da indústria, melhores práticas e ferramentas/tecnologias emergentes.
+Construir e manter um forte engajamento com as principais partes interessadas para entender as necessidades e prioridades de negócios.
+Requisitos
+Mínimo de 8+ anos na área de Dados como analista, engenheiro, cientista ou equivalente.
+5+ anos trabalhando com um Data Warehouse de grande escala (1B+ Linhas), preferencialmente em um ambiente de nuvem (GCP, BigQuery, BigTable preferidos).
+Especialista em Java, Python, SQL e GCP Avançado (especialmente Gemini/Vertex AI).
+Altamente qualificado com arquitetura de processamento distribuído e plataforma de gerenciamento de fluxo de trabalho de ML/Dados (Spark, Databricks, Airflow, Kubeflow, MLFlow, etc).
+Aprendizado de Máquina e IA, incluindo regressão, classificação, clustering, análise de séries temporais, PNL e Otimização.
+Possuir um diploma de graduação e/ou pós-graduação de 4 anos em Engenharia de IA/ML, Engenharia de Ciência da Computação etc.
+Capacidade de comunicar-se (falado e escrito) em português e inglês. 
+Disposição para trabalhar em um ambiente híbrido em São Paulo, Brasil (3 dias no escritório e 2 dias remotos).
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Arquiteto de software
+
+Sobre a vaga
+🚀 Venha Fazer Parte do Time de Inovação! 🚀
+
+Você é apaixonado por tecnologia e busca um ambiente onde sua criatividade e habilidades técnicas possam fazer a diferença? Estamos em busca de um Arquiteto de Soluções para se juntar a uma equipe que valoriza a inovação e a excelência.
+
+🌟 Por que se juntar a nós?
+
+- Desafios Empolgantes: Trabalhe em projetos inovadores que impactam diretamente o mercado.
+- Crescimento Contínuo: Ambiente de aprendizado constante, com oportunidades de desenvolvimento profissional.
+- Colaboração e Impacto: Seja parte de uma equipe colaborativa, onde suas ideias e soluções são valorizadas.
+- Tecnologia de Ponta: Acesse e trabalhe com as mais recentes tecnologias e ferramentas do setor.
+
+Escolaridade:
+- Ensino Superior Completo em Ciências da Computação, Engenharia da Computação, Sistemas de Informação ou áreas correlatas
+
+Pós-Graduação:
+- Desejável
+
+Responsabilidades:
+- Desenvolver e implementar soluções técnicas que atendam aos requisitos de negócio, garantindo a integração e a eficiência dos sistemas.
+- Colaborar com equipes de desenvolvimento para criar arquiteturas escaláveis e sustentáveis.
+- Realizar a análise e o design de sistemas complexos, propondo melhorias e soluções inovadoras.
+- Definir padrões e melhores práticas para o desenvolvimento de software e infraestrutura.
+- Avaliar e selecionar tecnologias, ferramentas e frameworks adequados para cada projeto.
+- Coordenar a implementação de projetos, garantindo que as soluções estejam alinhadas aos objetivos estratégicos.
+- Fornecer orientação técnica e suporte às equipes de desenvolvimento durante todo o ciclo de vida dos projetos.
+- Elaborar documentação técnica detalhada, incluindo diagramas de arquitetura e especificações de sistemas.
+- Participar de reuniões de planejamento e revisão, contribuindo com insights técnicos para a tomada de decisões.
+
+Requisitos:
+- Experiência comprovada como Arquiteto de Soluções ou em funções similares.
+- Sólidos conhecimentos em design de software, arquitetura de sistemas e padrões de integração.
+- Experiência com tecnologias de nuvem (AWS, Azure, Google Cloud) e microservices.
+- Familiaridade com metodologias ágeis (Scrum, Kanban) e DevOps.
+- Habilidade em programação e conhecimento de diversas linguagens (Java, Python, C, etc.).
+- Experiência em bancos de dados relacionais e não relacionais.
+- Capacidade de entender e traduzir requisitos de negócio em soluções técnicas eficazes.
+- Excelentes habilidades de comunicação e colaboração para trabalhar com equipes multidisciplinares.
+
+Competências:
+- Visão estratégica para alinhar soluções tecnológicas aos objetivos de negócio.
+- Habilidade de resolução de problemas complexos de forma criativa e eficiente.
+- Capacidade de liderar tecnicamente projetos e equipes.
+- Proatividade e iniciativa na busca por melhorias contínuas e inovações.
+- Foco em resultados e comprometimento com prazos e qualidade das entregas.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Especialista de Dados
+
+Sobre a vaga
+Sobre o Picpay:
+
+Com mais de dez anos de história, o PicPay é uma empresa de tecnologia que oferece um portfólio completo de serviços financeiros para facilitar a relação com dinheiro e ser a principal conta do dia a dia de milhares de pessoas e empresas.
+
+Fundada em Vitória (ES), a empresa tem mais de 30 milhões de usuários ativos e faz parte do grupo J&F, um dos maiores conglomerados empresariais do Brasil.
+
+Nossa cultura é nosso alicerce e nossa força. Conheça nossos valores: Atitude de Dono(a), Disciplina, Determinação, Disponibilidade, Simplicidade, Humildade e Franqueza.
+
+O respeito, a ética e a busca pela equidade são elementos inegociáveis e fazem parte da prática no nosso dia a dia aqui no PicPay. Por isso, esta vaga está aberta para todas as pessoas, independente de gênero, religião, etnia, deficiência, idade, orientação sexual ou qualquer outro fator.
+
+Sobre a vaga:
+
+Responsabilidade e atribuições:
+
+Contribuir para uma plataforma de dados resiliente que abranja todos os quesitos de qualidade de dados;
+Garantir que a qualidade seja aplicada desde a coleta dos dados de sistemas, fornecedores e clientes até processamento e disponibilização na camada curada para uso em análises;
+Estabelecer os stakeholders em todos os processos e contratos de modelagem de dados e governança;
+Analisar os ambientes de processamento para melhorias de estabilidade;
+Entender o uso das ferramentas disponibilizadas e as dores dos clientes para melhorar sua experiência.
+
+Requisitos e qualificações:
+
+Experiência prévia com engenharia de dados;
+Arquitetura e Mapeamento/Modelagem de dados (relacional e/ou analítico);
+Python e/ou Scala;
+Pyspark e SQL;
+Ferramentas de ETL/ELT/Orquestração: Apache Airflow, AWS Glue, Databricks, entre outros;
+Docker;
+AWS (Lambda, EC2, EMR, S3, MWAA, Lake Formation, DynamoDB, Glue);
+DevOps;
+CI/CD;
+Github;
+Métricas de qualidade de dados analíticos;
+Testes unitários. 
+
+O que oferecemos:
+
+Saúde e Bem-estar: Além de Assistência Médica e Odontológica, oferecemos Seguro de Vida e o Lado a Lado, um programa que cuida de você e seus familiares, com apoio jurídico, social, psicológico e financeiro.
+
+E claro, não podemos esquecer da nossa parceria com a TotalPass.
+
+Alimentação/Teletrabalho: Por meio do nosso cartão de crédito PicPay Benefícios, com ampla aceitação, você recebe seu saldo de Alimentação/Refeição e Teletrabalho (de acordo com o seu contrato de trabalho).
+
+Licença Paternidade e Maternidade: Sabemos que esse é um momento especial para uma família, e por isso oferecemos Licença Maternidade estendida de 6 meses, e de Paternidade também estendida de 20 dias. Além disso, nossas mamães PicPay Lovers são acompanhadas pelo programa "Novo Ser", durante toda a gestação e no retorno da licença. Falando nisso, ao retornar da licença maternidade, as mamães ainda contam com a ajuda do Auxílio Creche e também os papais que possuem guarda unilateral ou compartilhada.
+
+Reconhecemos resultados: PPR- Participação nos Resultados do PicPay.
+
+#VemserPicpayLover #Picpay
+-----------------------------------------------------------------------------------

@@ -1,0 +1,251 @@
+[Oportunidade 1]
+Oportunidade: Pessoa Desenvolvedora Java - Híbrido
+
+Sobre a vaga
+A NTT DATA, é uma consultoria multinacional que oferece soluções de estratégia e de negócios, desenvolvimento e manutenção de aplicações tecnológicas e serviços de terceirização. Nós existimos para melhorar a vida dos nossos Clientes e só conseguimos fazer isso porque temos pessoas fantásticas aqui dentro.
+
+Manda bem nos requisitos abaixo? Então essa vaga é pra você!
+
+O que esperamos de ti:
+Experiência em desenvolvimento utilizando JAVA 8,11,12 ou superior.
+Conhecimentos em arquitetura orientada a serviços, ferramentas de integração contínua;
+Capacidade e experiência para trabalhar em células/sprints em formato ágil;
+Disponibilidade para atuação híbrida 3 vezes por semana no cliente em São Paulo/SP, horário comercial.
+
+Experiência com:
+Experiência profunda em desenvolvimento utilizando JAVA (Java 8, GRAPHQL, Springboot, Springdata, microserviços);
+Noções de SQL (Banco de dados relacional), conhecimento em integrações de API's REST e/ou SOAP e testes unitários.
+Desenvolvedor experiente de Baixa Plataforma e projetos de modernização utilizando Cloud AWS ou Azure.
+
+Desejável:
+Conhecimento em ambiente financeiro;
+Experiência em liderança técnica participando de definição de soluções;
+Facilidade de relacionamento, boa comunicação verbal e escrita, trabalho em equipe, capacidade de trabalhar sob pressão com prazos ajustados.
+
+*Todas as nossas vagas estão disponíveis para Pessoas com Deficiência.
+
+O que temos para te oferecer?
+
+Somos uma empresa de gente que trabalha com autonomia e criatividade. O ambiente de trabalho é um espaço descontraído, integrador e repleto de desafios!
+Trabalhamos para promover uma cultura inclusiva, acreditamos na força da diversidade para gerar inovação e atingir resultados incríveis, por isso, não fazemos distinção para pessoas com deficiência, gênero, orientação sexual, raça/etnia, idade, origem, constituição familiar e estética. Trabalhamos todas as nossas vagas com base nessa premissa.
+No programa de benefícios flexíveis da NTT DATA, você pode escolher e personalizar o seu pacote de benefícios para atender melhor suas necessidades e da sua família, através de pontos distribuídos em Assistência médica e odontológica, seguro de vida, refeição/alimentação, vale combustível, além de vários programas que favorecem a qualidade de vida.
+
+Se identificou? Então, nos envie seu currículo.
+Venha fazer parte do nosso time!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Desenvolvedora Backend Java SR
+
+Sobre a vaga
+Sobre o Bradesco 
+
+O Bradesco é um dos maiores grupos financeiros do Brasil, com uma história marcada pelo pioneirismo e inovação. Por meio da nossa carteira amplamente diversificada de produtos financeiros, serviços bancários e de seguros contribuímos com a realização das pessoas e o crescimento sustentável de empresas e sociedade. Venha fazer parte do nosso ecossistema financeiro e impactar a experiência de milhões de pessoas!
+
+Saiba mais em https://banco.bradesco/html/classic/sobre/index.shtm
+
+ Responsabilidades e atribuições 
+
+O que é o nosso time de DS – Departamento de Desenvolvimento de Sistemas?
+
+O departamento O Departamento de Desenvolvimento de Sistemas tem a responsabilidade de viabilizar soluções de TI que proporcionem o funcionamento harmônico entre os sistemas de suporte ao negócio, mantendo a arquitetura de aplicativos estruturada e tecnologicamente atualizada, atendendo aos requisitos de negócio com alta disponibilidade e performance.
+
+Modelo de trabalho :Hibrido
+
+Unidade: Osasco - SP, Alphaville - SP, Curitiba - PR, Uberlândia - MG ou Recife - PE
+
+ Como será seu dia a dia? 
+
+Sendo Pessoa Desenvolvedora Backend Java SR, atuará na gerência de DS e suas principais atividades serão:
+
+
+ Desenvolvimento em sistemas utilizando a linguagem Java;
+ Participação nos ritos da Vila Ações e Custódia;
+ Acompanhamento dos testes e implantação de demandas.
+
+
+ Requisitos e Qualificações 
+
+O que você precisa ter ou saber?
+
+
+ Conhecimento e experiência com desenvolvimento em: Java, Spring boot, Swagger, JWT, MTLS, APIs;
+ Conhecimento e experiência em Clouds;
+
+
+Será um diferencial se você tiver:
+
+
+ AZ-900;
+
+
+ O que nós oferecemos 
+
+No Bradesco valorizamos a saúde e bem-estar, oferecendo um extenso portfólio de benefícios a todas nossas pessoas funcionárias:
+
+
+ PLR ou Bônus: Conforme a elegibilidade de cargo*
+ Convênio Médico
+ Convênio Odontológico
+ Seguro de Vida
+ Vale Alimentação
+ Vale Refeição
+ 13º Cesta Alimentação
+ Total Pass
+ Vale Transporte (adesão opcional)
+ Descontos em produtos e serviços em empresas parceiras
+ Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+ Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+ Unibrad: Universidade Corporativa Bradesco
+ Isenção de Tarifas: condições especiais em diversos produtos e serviços
+ Auxílio Creche ou Babá
+ Licença Paternidade estendida de 20 dias
+ Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor Java - Trabalho Remoto
+
+Sobre a vaga
+Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício.
+
+Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global.
+
+Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional.
+
+Desenvolvedor Java na BairesDev
+
+Ser um Desenvolvedor Java em nossa equipe de desenvolvimento é como ser um solucionador de problemas em tempo integral. Esperamos que suas habilidades combinem experiência, conhecimento e independência. A inovação também está no centro da estratégia da BairesDev. Portanto, se você está disposto a assumir as tarefas mais complexas e ser um mestre em sua tecnologia, Java, provavelmente é o que estamos procurando.
+
+O que você vai fazer:
+
+- Trabalhar com equipes de desenvolvimento de software para coletar requisitos e garantir a adesão das melhores práticas.
+- Projetar, implementar e dar suporte a soluções para desenvolvimento de aplicativos, segurança, análise e gerenciamento de desempenho.
+- Estar em conformidade com os padrões de codificação de segurança existentes do setor e da Verizon, aderindo aos requisitos de revisão de verificação e outros requisitos de ferramentas de segurança.
+- Conduzir revisões de código para membros juniores da equipe e fazer revisões de código por pares para garantir que o código esteja seguindo os padrões estabelecidos pelos arquitetos.
+- Executar scripts de teste em relação ao código para garantir a entrega de qualidade.
+- Resolver problemas de código com urgência.
+
+Esperamos que você tenha:
+
+- 5+ anos de experiência em Java.
+- Experiência com bancos de dados SQL e NoSQL.
+- Experiência com Microsserviços e Cloud.
+- Conhecimento avançado de algoritmos.
+- Conhecimento em infraestrutura de TI.
+- Gestão de metodologias ágeis intermediárias.
+- Forte compreensão das melhores práticas, princípios SOLID, CLEAN Code e soluções escaláveis.
+- Conhecimento em Design Patterns.
+- Experiência no desenvolvimento de aplicativos inteiros do zero.
+- Experiência em testes automatizados e pipelines de CI/CD.
+- Forte experiência com controle de versão.
+- Nível avançado de inglês.
+
+Como tornamos seu trabalho (e sua vida) mais fácil:
+
+- Modalidade 100% remota - trabalhe de qualquer lugar.
+- Excelente remuneração em USD ou na sua moeda local, como preferir.
+- Hardware para você trabalhar de casa.
+- Horários flexíveis - faça seu próprio horário.
+- Licença parental remunerada, férias, e feriados nacionais.
+- Ambiente de trabalho inovador e multicultural.
+- Colabore e aprenda com o Top 1% global dos talentos de cada área.
+- Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento.
+
+Junte-se a uma equipe global onde seus talentos excepcionais podem se destacar!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheira(o) de Software Back-End Java Sênior
+
+Sobre a vaga
+Qual o tamanho dos seus objetivos? Deseja novos desafios?
+Então, vem para TQI!
+A TQI é uma empresa de tecnologia e inovação que há mais de 30 anos, desenvolve soluções para suportar e alavancar os negócios de seus clientes no Brasil e no exterior.
+Com escritórios em Uberlândia (MG) e em São Paulo (SP), e colaboradores em centenas de cidades, a TQI conquistou e mantém há mais de 6 anos o selo Great Place to Work (GPTW), e está no ranking 80+ do GPTW de Tecnologia, reforçando seu compromisso para promover um ambiente diverso e propício para inovação e alta performance.
+
+Modelo de trabalho: 100% Remoto
+Modelo de contrato: PJ
+
+O que procuramos: 
+Superior em Tecnologia da Informação (ou áreas correlatas) ou experiência relevante;
+Conhecimento em estrutura de dados e paradigma de programação orientada a objetos;
+Experiência com sistemas distribuídos e microserviços;
+Experiência com linguagem de programação Java e/ou Kotlin;
+Experiência com framework Spring (Boot, Data, Cloud, etc);
+Experiência com Git, Gradle/Maven e ferramentas de CI/CD;
+Experiência com bancos de dados relacionais como Oracle;
+Experiência com desenvolvimento de API REST;
+Experiência com comunicação assíncrona utilizando brokers (RabbitMQ, JMS, Kafka, etc);
+Experiência com ferramentas e práticas de monitoração de sistemas como New Relic, Grafana, ELK, etc;
+Experiência com automação de testes;
+Conhecimento em cloud;
+Inglês técnico;
+Experiência com metodologias ágeis.
+
+O que você vai fazer: 
+Avaliar, discutir e contribuir com a definição da arquitetura de sistemas;
+Traduzir requisitos de negócio em arquiteturas e sistemas;
+Analisar, documentar, codificar, revisar código, depurar, testar e entregar aplicações;
+Cuidar da monitoração do ambiente e criar ações proativas que garantam a saúde da plataforma;
+Interagir com equipes e áreas correlatas;
+Contribuir com melhorias de processos da engenharia.
+
+O que oferecemos:
+Você fará parte de equipes diversas e de alto performance, em um ambiente dinâmico e colaborativo. Valorizamos a contribuição de todos na criação de soluções e nas decisões estratégicas. Aqui, as pessoas são o nosso diferencial, e somos apaixonados por tecnologia, inovação e evolução contínua.
+
+Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+
+O time está te esperando, vamos nessa?
+
+#VempraTQI
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: DESENVOLVEDOR JAVA PL
+
+Sobre a vaga
+Desenvolvedor Java
+
+A G4F é uma empresa com uma trajetória sólida de 15 anos, dedicada a conectar pessoas, ideias e tecnologia para oferecer soluções inovadoras.
+
+#SomosGreaters #Tech
+
+Requisitos e Qualificações
+
+Ter experiência mínima em desenvolvimento em Java;
+
+Possuir formação em TI ou áreas correlatas, ou pós-graduação em TI ou áreas correlatas.
+
+Possuir no mínimo uma das certificações abaixo ou equivalentes mais
+
+Recentes
+
+Oracle Certified Professional, Java SE 8 Programmer;
+
+Oracle Certified Professional: Java SE 11 Developer;
+
+Oracle Certified Professional: Java SE 17 Developer;
+
+Java SE 21 Developer Certified Professional.
+
+Informações Adicionais
+
+🚀Oportunidades de desenvolvimento profissional
+
+🍔Vale Alimentação/Refeição | Wiipo Flex
+
+🚌Vale transporte (Opcional)
+
+🏋️‍♀️TOTALPASS| Bem-estar para todos os colaboradores, todos os dias
+
+👓 Parceria SESC | Saúde, Lazer, Turismo & Esportes, Assistência Social e Alimentação
+
+📕 Parcerias Educacionais
+
+🤍Seguro de vida e Odontologico
+
+#Tech
+
+#VemSerGreater
+
+Valorizamos a diversidade, equidade e a inclusão, independentemente de gênero, raça, etnia, orientação sexual, deficiência ou religião, portanto, todas as nossas vagas são afirmativas.
+
+Junte-se à nossa equipe e contribua para o crescimento sustentável da G4F!💙
+-----------------------------------------------------------------------------------

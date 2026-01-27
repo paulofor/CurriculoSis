@@ -1,0 +1,378 @@
+[Oportunidade 1]
+Oportunidade: Applied Scientist, NLP
+
+Sobre a vaga
+Are you excited about working at the forefront of applied research in an industry setting? Thomson Reuters Labs in São Paulo is seeking scientists with a passion for solving problems using state-of-the-art information retrieval, natural language processing and generative AI.
+
+What does Thomson Reuters Labs do? We experiment, we build, we deliver. We support the organization and our customers through applied research in informational retrieval and natural language processing. We work closely with product and domain experts to identify compelling solutions at the intersection of user need and technical feasibility.
+
+About The Role
+
+As an Applied Scientist, you will:
+
+Experiment and Develop: You will execute the entire model development lifecycle, from prototype to delivery, while applying best practices for reproducible research and well-managed software delivery.
+Collaborate: Working on a collaborative cross-functional team, you will share information, value diverse ideas, and partner effectively with colleagues across the globe.
+Deliver: You will be accountable for timely, well-managed deliverables.
+Innovate: You will be empowered to try new approaches and learn new technologies. You will implement innovative ideas to solve real-world challenges.
+Inspire: You will be a proactive communicator who is excited to share your work. You will be articulate and compelling in describing ideas to both technical and non-technical audiences. 
+
+
+About You
+
+You’re a fit for the role of Applied Scientist, NLP if your background includes:
+
+Basic Qualifications
+
+PhD in a relevant discipline or Master’s plus a comparable level of experience.
+At least one year industry experience building IR/NLP/ML systems
+Solid software engineering skills for prototyping
+Outstanding communication and data analysis skills
+
+
+Preferred Qualifications
+
+5+ years practical experience building IR, ML or NLP systems in academia or industry
+Experience designing and implementing solutions with large language models
+Relevant publications at ACL, EMNLP, NAACL, NeurIPS, ICLR, SIGIR, KDD, or similar.
+Advanced proficiency in Python, Java, or Scala
+Experience writing production quality code and contributing to well-managed software delivery.
+
+
+What’s in it For You?
+
+You will join our inclusive culture of world-class talent, where we are committed to your
+
+personal and professional growth through:
+
+Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more
+Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: company-wide Mental Health Days Off; Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing
+Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking
+Social Impact: Eight employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact
+Purpose Driven Work: We have a superpower that we have never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth, and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.
+
+
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we’ve been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world’s most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility 
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+Protect yourself from fraudulent job postings click here to know more.
+
+More information about Thomson Reuters can be found on https://thomsonreuters.com.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Staff Software Engineer [Data Platform]
+
+Sobre a vaga
+Job Description
+
+Como é a nossa área de Plataforma de Dados? 
+
+Somos o Time Que Impulsiona a Tomada De Decisões No Will Por Meio Da Simplificação Da Construção e Consumo De Dados Através Da Nossa Plataforma. Nosso Time é Dividido Em
+
+Plataforma de Ingestão: Responsável por garantir a ingestão eficiente dos dados, desde suas fontes até a camada bronze do Data Lake. Nossos principais clientes são desenvolvedores ingerindo dados de seus microserviços e fornecedores;
+
+Plataforma de Processamento e Consumo: Encarregada de criar uma infraestrutura que permite a transformação e o acesso aos dados de forma ágil e intuitiva.
+
+Plataforma de MLOps: Proporciona um ambiente integrado para cientistas de dados, capacitando-os a entregar modelos em produção de forma autônoma.
+
+Estamos focados em desenvolver uma plataforma robusta que capacite os times multidisciplinares da empresa a executarem esses processos com facilidade. Se você está pronto para enfrentar o desafio de escalar uma plataforma de dados com mais de 500 usuários mensais e tem interesse em simplificar o dia a dia dos profissionais que lidam com dados, este é o lugar certo para você!
+
+Responsibilities and assignments
+
+ Quais serão os seus desafios?
+
+Projetar e desenvolver soluções para uma plataforma de dados escalável e robusta, com foco na otimização de custos, segurança, governança e observabilidade
+Promover a cultura de plataforma, compreendendo as necessidades dos times multidisciplinares, auxiliando na definição de prioridades e no desenho de soluções eficazes, visando à autonomia desses times
+Exercer liderança técnica de modo consistente, influenciando decisões e estratégias em nível organizacional nos assuntos relacionados a dados
+Participar ativamente do planejamento e decisões dentro e fora do círculo de influência, contribuindo para o direcionamento estratégico do will
+Identificar e liderar iniciativas de grande impacto, desenvolvendo estratégias e planos de ação para atingir objetivos organizacionais e de negócio
+Colaborar com outras áreas do willbank, promovendo a integração e a colaboração, impulsionando a adesão da plataforma e o evangelizando o uso de boas práticas
+Atuar como mentor técnico, desenvolvendo e capacitando outros líderes e membros do time
+Liderar processos de melhoria contínua, identificando oportunidades de otimização e promovendo mudanças positivas 
+
+Requirements And Qualifications
+
+ Para isso, você vai precisar ter:
+
+Vasta atuação em times de plataforma 
+Alta capacidade de resolução de problemas, utilizando tecnologia como meio para solucionar uma necessidade de negócio
+Experiência em liderança técnica, demonstrando habilidades para influenciar e inspirar outros além do próprio time
+Excelente habilidade de comunicação e negociação, com capacidade para construir relacionamentos sólidos e influenciar decisões em diferentes níveis hierárquicos
+Visão estratégica e capacidade analítica para identificar oportunidades de melhoria e desenvolver planos de ação eficazes
+Profundo entendimento do negócio e dos desafios organizacionais, com capacidade para alinhar as iniciativas técnicas aos objetivos de negócio do will 
+Experiência em liderar iniciativas de grande escala e alto impacto, com foco em resultados tangíveis e mensuráveis.
+
+Additional information
+
+Gostou? Isso porque você ainda não viu os benefícios de ser um willer:
+
+ Cartão Flash para seus gastos flexíveis: Com valores compatíveis com o mercado, destinados a Vale Alimentação/Refeição, home office, parte totalmente flexível para uso em aplicativos de mobilidade, farmácias, cultura, educação, alimentação e refeições.
+ Saúde de qualidade com a Amil: Tenha acesso a uma rede de saúde e odontológica de primeira linha através da Amil Saúde.
+ Benefícios que fazem a diferença: Oferecemos seguro de vida, auxílio creche, auxílio para dependentes com deficiência, um dia de folga especial no seu aniversário, além de descontos em farmácias e parcerias com o Sesc em todo o Brasil.
+ Bem-Estar é prioridade: Cuide da sua saúde mental e física com as parcerias que temos. Acesse serviços profissionais de psicologia com o C4life e Psicologia Viva, e tenha acesso a academias e aulas online através do Wellhub e Totalpass.
+ Educação é essencial: Descontos em instituições de ensino, como SkillHub, Faculdade São Judas, Estácio de Sá, Ibemec, EnglishBay, LingoPass e muito mais.
+ Programa Distribuwill: Faça parte do nosso Programa de Participação nos Resultados, o Distribuwill!
+ Inclusão e diversidade: Oferecemos reembolso para a retificação de nomes para pessoas trans, e acreditamos em uma licença parental de 180 dias para um cuidado igualitário em todas as configurações familiares.
+ Clube will by coClub: Participe do Clube will, uma plataforma exclusiva que conecta nossa comunidade com interesses em comum, desafios, benefícios, experiências e celebrações!
+
+Confira nossas outras oportunidades :)
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: First Chat2First Chat
+Step 3: Coding Skills3Coding Skills
+Step 4: System Design4System Design
+Step 5: Papo com a Liderança 5Papo com a Liderança 
+Step 6: Papo com Talent 6Papo com Talent 
+Step 7: Proposta7Proposta
+Step 8: Hiring8Hiring
+
+olá,
+
+E aí, tudo bem?
+
+Primeiro eu vou me apresentar! Eu sou um banco digital, mas pode me chamar de will. Sou a segunda maior instituição de pagamento do Brasil com mais de cinco milhões de clientes! Nasci com um propósito muito claro: democratizar o mundo financeiro e mostrar que crédito é um voto de confiança que todos e todas merecem, e podem ter.
+
+Eu tenho como intenção dar a possibilidade de todas as pessoas nesse Brasil terem direito ao crédito. Você tem noção que a maioria das pessoas nem tem acesso a instituições financeiras? Eu tô aqui pra mudar isso! Quero tornar o mundo financeiro mais simples e mais acessível. 
+
+E para multiplicar o crédito e conquistar esse sonho, precisamos de pessoas que multipliquem o melhor delas. E para isso é preciso ter atitudes multiplicadoras. As pessoas que trabalham comigo são Willers. Já são mais de 1300 que estão espalhadas e espalhados pelos quatro cantos do Brasil. Isso mesmo, atuamos em regime de trabalho remoto e temos um pilar cultural focado em multiplicar o melhor das pessoas.
+
+Multiplicar o melhor de mim é multiplicar o will, multiplicar o will é multiplicar o melhor de mim. 
+
+Busco Atrair Pessoas Que Estão Dispostas a Crescer Comigo, Porque Aqui Não Existe Crescimento Do Negócio Sem o Crescimento Das Pessoas. E Para Isso Acredito Que Cinco Atitudes Podem Ajudar a Multiplicar o Seu Melhor Por Aqui
+
+Assumir a responsa
+
+Agir com empatia
+
+Jogar Junto
+
+Mexer o ponteiro
+
+Comunicar de forma assertiva
+
+Já são mais de 1300 que estão espalhadas e espalhados pelos quatro cantos do Brasil multiplicando o melhor deles e delas. E além disso, estamos caminhando para atingir os dados demográficos que representam a população brasileira, onde 57% da população se declara como negra. Hoje, +44% de willers que se autodeclaram pessoas não brancas e 51% são mulheres. Eu quero ser tão diverso como o Brasil, sei que é desafiador, mas eu não tô nessa sozinho, tem um monte de gente me ajudando a chegar lá.
+
+E aí, me curtiu? Corre pra ver as minhas vagas e fazer parte dessa história de democratizacão do crédito! #VemSerWill
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Data Engineer, Full Stack
+
+Sobre a vaga
+About Us
+
+WEX is a global leader in financial technology solutions, based in Portland, Maine, United States, with over 6,000 WEXers distributed in over 40 countries. We simplify the complexities of payment systems across continents and industries like Fleet, Corporate Payments, and Benefits. We look to manage employee benefits, streamline how companies pay and get paid by suppliers, save on fuel costs, or modernize how companies manage their fleet, WEX solutions reduce the administrative burdens.
+
+About The Opportunity
+
+We are seeking an experienced Data Engineer to play a critical role in the development of WEX's enterprise data & analytics capabilities. You will be part of an organization focusing on the development and delivery of data solutions and capabilities for WEX’s data platform. The successful candidate is motivated by thinking big data, technically proficient, and enjoys working in a fast paced environment.
+
+You Will Be Expected To
+
+At WEX, we treat data and data artifacts as first-class citizens. They form our backbone and drive the business insight we generate. We are looking for an experienced Qlik Replicate Administrator to join our Data Engineering & Operations team. You’ll work with on-premise and cloud databases to configure source/target end points and create high performing data replication tasks. You’ll be part of a team that is also responsible for:
+
+Continuously training our SRE team to handle L1 and L2 production support issues
+Monitoring production servers, scheduled jobs, and incident management
+Developing standards, best practices, and how-to guides
+Mentoring other Data Engineers to create robust tasks
+Understanding Qlik’s product roadmap, including depreciated/new features, patch & version releases, and QCDI, to make adjustments to our data pipelines
+Working with DBAs to configure source databases and Qlik endpoints
+Working with DevOps to address network changes (VPC peering, subnets, firewalls, etc.)
+
+You’ll be part of a collaborative scrum team that consists of an Agility Engineer, Technical Program Manager, Data Engineers, QA, and DevOps. You’ll also be supported by a manager that is here to listen and help you grow.
+
+We Are Looking For a Professional Who Has
+
+You care deeply about the veracity (i.e. consistency, accuracy, quality, and trustworthiness) of data. You enjoy designing, maintaining, and optimizing data pipelines & infrastructure, for data collection, management, transformation, and access. In addition, you:
+
+Are a strong critical thinker with analytical and problem-solving abilities
+Are self motivated and able to work independently with minimum supervision
+Bring thought leadership to your area of responsibility and enjoy staying ahead in your field
+
+This position requires you to collaborate across multiple groups at WEX, so you are someone with excellent communication skills and persuasive power. You can make rational arguments for action to evoke positive responses.
+
+Skills
+
+Our core stack for this position consists of Qlik Replicate, Snowflake, AWS Services, and various RDBMS. You possess the following skills and experiences:
+
+Advanced knowledge of Qlik Replicate and Enterprise Manager, managing endpoints and streaming CDC (change data capture) tasks
+Solid SQL skills and understanding of query optimization strategies in Snowflake; plus, ability to monitor, visualize and optimize the end-to-end database execution flow with a keen focus on performance and correctness
+Fundamental understanding of the following AWS services:
+Elastic Compute Cloud (EC2) - performance monitoring & optimization and knowledge of instance types
+Virtual Private Cloud (VPC) - provisioning of virtual networks and all its basic components (security group, network access control list, route tables, subnet, etc.)
+S3, IAM, Secrets Manager, AWS CLI
+Mastery of RDBMS concepts, specifically the mechanics of transaction logs, RBAC, standby configuration/availability groups, encryption, and datatypes
+
+Bonus: You have successfully implemented CI/CD of Qlik Replicate tasks in a production environment.
+
+If you are looking for a growing career – come be part of WEX today!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Sênior Engenheiro/a De Dados - Remoto
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+Área De Atuação
+
+Outros
+
+Localização
+
+Rio de Janeiro-RJ
+
+Atribuições
+
+Buscamos Engenheiro/a de Dados sênior, com experiência na construção de sistemas distribuídos de alto desempenho, orientação a objetos e prática com sistemas de mensagens/enfileiramento e/ou sistemas de processamento de fluxo. É essencial ter conhecimento e vivência com as tecnologias Python, Kafka, Spark, Airflow, Terraform, Data Lake, EMR, e serviços AWS. Remuneração: entre R$ 15.300 e R$ 18.760/mês.
+
+Requisitos
+
+Esta é uma oportunidade da Impulso, uma People Tech que oferece serviços especializados em todo o fluxo de atração, contratação, desenvolvimento e retenção de times de tecnologia remotos. Para ler mais informações sobre este cargo, acesse o link e clique no botão (QUERO ME INSCREVER): https://impulso.link/VnrUOH
+
+Escolaridade Mínima Exigida
+
+Sem informação
+
+ Siga Nosso Insta @divulgavagas.oficial
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados - Pleno Trabalho Remoto Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+Somos a Cadastra, uma empresa global de serviços de tecnologia, estratégia, marketing e dados, com a missão de liderar transformações e estratégias digitais que trazem resultados exponenciais.
+
+Quer fazer a diferença na nova economia e transformar pessoas e negócios para prosperarem? Vem pra Cadastra!
+
+Como Engenheiro de Dados - Pleno, você vai atuar no desenvolvimento de pipelines de dados para suportar o crescimento acelerado de um dos nossos clientes. Você vai atuar no desenvolvimento aplicando as melhoras práticas de mercado, com objetivo de fornecer dados de maneira sustentável, escalonável e com segurança.
+
+Essa posição é para atuar de forma remota.
+
+Responsabilidades e atribuições
+
+Em Nosso Time Você Terá o Desafio De
+
+Desenvolver pipelines de dados aplicando as melhores praticas de mercado;
+Criar automações para a plataforma de dados em Google Cloud;
+Se preocupar com desempenho, segurança e governança de dados;
+Garantir que a plataforma de dados seja escalonável e flexível.
+
+Requisitos e qualificações
+
+O Que a Cadastra Espera De Você
+
+Experiência em projetos de Data Lake com Google Cloud (GCP);
+Conhecimento de Python / SQL no desenvolvimento de soluções para Engenharia de Dados;
+ETL/ELT: conhecimentos em extração, sanitização, deduplicação, unificação, agregação e anonimização de dados;
+Experiência com ferramentas de orquestração de fluxo de dados, preferencialmente Airflow;
+Experiência em ferramenta de versionamento de código, preferencialmente Github;
+Capacidade analítica na resolução de problemas;
+Conhecimento da teoria de Banco de Dados, Data Lake, Data Warehouse.
+
+Diferencial
+
+Conhecer ou já ter trabalhado com projetos utilizando metodologia ágil.
+
+Informações adicionais
+
+O Que Oferecemos
+
+Vale alimentação e refeição no cartão FLASH🥗
+Auxílio Home Office no cartão FLASH 💳
+Plano de saúde de acordo com a sua localidade 🩺
+Plano odontológico de acordo com a sua localidade 🦷
+Day off de aniversário + valor depositado no cartão FLASH🎉
+Licença-maternidade e paternidade estendida 🍼
+Participação nos lucros (PLR) 💰
+Seguro de vida 🧡
+Auxílio creche 👶
+Bônus por indicação 💰
+Vale-transporte 🚍
+Clude | Plataforma de Saúde 🩺
+Total Pass 🏋🏽‍♀️
+CRM Bônus 💸
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Queremos te conhecer 😊 | Bate papo com Talent2Queremos te conhecer 😊 | Bate papo com Talent
+Etapa 3: É hora de conhecer as lideranças ✨ | Bate papo com as lideranças3É hora de conhecer as lideranças ✨ | Bate papo com as lideranças
+Etapa 4: Queremos você conosco 🧡 | Carta proposta4Queremos você conosco 🧡 | Carta proposta
+Etapa 5: Contratação5Contratação
+
+Sobre Nós
+
+Somos uma empresa global de serviços de tecnologia, estratégia, marketing e dados, com a missão de liderar transformações e estratégias digitais que trazem crescimento de canais digitais e físicos.
+
+De maneira híbrida, estamos espalhados pelos nossos escritórios no Brasil e Reino Unido, além de vários outros Cadastrers (como nos chamamos por aqui) 100% remotos.
+
+Na Cadastra, trabalhamos pelo mesmo objetivo: transformar pessoas e negócios para prosperarem.
+
+Atuamos em divisões que aplicam soluções como next-gen company
+
+Business & Strategy
+Commerce 
+Media Services 
+CRM & Customer Experience 
+Digital Performance 
+Data, Analytics & AI
+ Design & Creativity 
+Transformative Engineering
+Influence & Content Marketing
+Cloud Services
+
+Somos especialistas no que fazemos e já fomos premiados pela excelência do nosso trabalho. Em 2022, fomos líderes no ISG Provider Lens Martech, vencedores do Salesforce - Partner Innovation Awards 2022, na categoria Consultoria na Área de Marketing, fomos indicados ao Prêmio Caboré, entramos na lista das empresas que mais crescem nas Américas, da Financial Times 2023, além de muitos outros reconhecimentos.
+
+Não é só na parte técnica que mandamos bem, também valorizamos as nossas pessoas e vivemos a nossa cultura no dia a dia. Fomos rankeados 15 vezes como Great Place to Work, além das certificações GPTW Mulher e Rio Grande do Sul.
+
+VEM VER PORQUE O SEU LUGAR É AQUI!
+
+Quer aprender muito no seu dia a dia, se divertir em equipe e causar um impacto positivo e de alta performance no mercado? Vem com a gente!
+
+Aqui, nos guiamos pelos nossos valores para atingirmos o nosso objetivo.
+
+Nossos Valores
+
+Coragem para desbravar;
+Eficiência para conquistar;
+Impacto para reverberar;
+Aprendizado para transformar;
+Parceria para inovar.
+
+NOSSOS BENEFÍCIOS
+
+ Vale alimentação e refeição no cartão FLASH🥗
+
+Auxílio Home Office no cartão FLASH 💳
+
+Plano de saúde de acordo com a sua localidade 🩺
+
+Plano odontológico de acordo com a sua localidade 🦷
+
+Day off de aniversário + valor depositado no cartão FLASH🎉
+
+Licença-maternidade e paternidade estendida 🍼
+
+Participação nos lucros (PLR) 💰
+
+Seguro de vida 🧡
+
+Auxílio creche 👶
+
+Bônus por indicação 💰
+
+Vale-transporte 🚍
+
+Clude | Plataforma de Saúde 🩺
+
+Total Pass 🏋🏽‍♀️
+
+CRM Bônus 💸
+-----------------------------------------------------------------------------------

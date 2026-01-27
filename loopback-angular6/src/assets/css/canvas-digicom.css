@@ -1,0 +1,214 @@
+.canvas-container {
+    padding: 20px;
+    background-color: #f8fafb;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+}
+.header-canvas-core {
+    display: block;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.canvas-input-title {
+    float: left;
+    width: 100%;
+    padding: 3px 10px;
+    margin-bottom: 30px;
+    font-size: 35px;
+    font-size: 2.1875rem;
+    font-weight: 100;
+    color: #627383;
+    border: 0;
+    border-bottom: 1px solid #dee0e1;
+    background-color: #f8fafb;
+    outline: 0;
+    line-height: normal;
+    font: inherit;
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.canvas-core-container{
+    padding: 15px 10px;
+    background-color: #fff;
+    border-radius: 4px;
+    border: 1px solid #dee0e1;
+    box-shadow: 0 0 2px 0 rgba(0,0,0,.24);
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    display: block; 
+}
+
+
+.canvas-column {
+    width: 20%;
+    height: 415px;
+    float: left;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+}
+canvas-board.segmento {
+    background-image: url(../images/grafico.png);
+    background-position: top 10px right 3px;
+}
+.canvas-board.relacao[_ngcontent-c2] {
+    background-image: url(../images/coracao.png);
+}
+.canvas-board {
+    height: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    background-color: rgba(0,0,0,.035);
+    background-position: top 10px right 7px;
+    background-repeat: no-repeat;
+    background-size: auto 23px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+}
+
+.board-header {
+    padding: 14px 7px 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+}
+.board-title.red {
+    border-color: #c52a51;
+}
+.board-title {
+    padding-left: 6px;
+    margin: 0;
+    color: #627383;
+    font-size: .80rem;
+    font-weight: 400;
+    border-left-width: 3px;
+    border-left-style: solid;
+}
+.canvas-postit.yellow {
+    background-color: #ffe079;
+}
+.canvas-postit {
+    position: relative;
+    padding: 8px;
+    margin-bottom: 5px;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: #ddd 0 1px 1px;
+    cursor: default;
+    -webkit-transition: -webkit-transform .2s,box-shadow .2s;
+    transition: transform .2s,box-shadow .2s;
+    box-sizing: border-box;
+    display: block;
+}
+
+canvas-posts {
+    padding: 0 7px;
+    margin-bottom: 0;
+    overflow: auto;
+    height: 332px;
+    list-style-type: none;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.add-postit {
+    padding: 8px;
+    width: 100%;
+    font-size: 11px;
+    font-size: .6875rem;
+    color: #818181;
+    font-weight: 600;
+    text-align: left;
+    background-color: #efefef;
+    background-color: rgba(0,0,0,.07);
+    border: 0;
+    outline: 0;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+.postit-name{
+    margin: 0;
+    word-wrap: break-word;
+    font-size: 13px;
+    font-size: .8125rem;
+    color: #222;
+    font-weight: 400;
+}
+.btn {
+    display: inline-block;
+    color: #fff;
+    background: 0 0;
+    -webkit-transition: -webkit-transform .2s;
+    transition: transform .2s;
+    border-radius: 4px;
+    border: 0;
+    outline: 0;
+}
+.btn, .feed-canvas, .footer-copyrights a, .menu-item > a, .vertical-item a {
+    text-decoration: none;
+}
+canvas-board.-half {
+    height: 50%;
+}
+.canvas-column.-half {
+    width: 50%;
+    height: 250px;
+}
+
+input, textarea, select, button {
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.canvas-column.-half .canvas-postit, .canvas-column.-half .ui-state-highlight {
+    float: left;
+    width: 49%;
+    margin: 0 .5% 5px;
+}
+input, textarea, select, button, meter, progress {
+    -webkit-writing-mode: horizontal-tb !important;
+}
+
+.dash-container.full .section-content {
+    width: 100%;
+}

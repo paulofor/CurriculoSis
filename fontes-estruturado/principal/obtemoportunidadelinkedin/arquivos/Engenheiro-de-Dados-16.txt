@@ -1,0 +1,228 @@
+[Oportunidade 1]
+Oportunidade: Senior Data Developer (Python/AWS Glue/Pyspark/Athena), Brasil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Olá, aqui é a Wal da CI&T!
+
+Sou do time de Talent Attraction e procuro profissionais localizados no Brasil para a posição de Senior Data Developer (Python/AWS Glue/Pyspark/Athena), que atuarão em um projeto do ramo financeiro. 
+
+
+Você precisa ter prática com:
+- AWS Glue
+- Athena
+- Pyspark
+- SQL
+- Python
+
+
+
+
+#Senior 
+
+
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Scientist / ML Engineer
+
+Sobre a vaga
+Data Scientist / ML Engineer (Senior)
+
+Who We Are
+
+Welcome to TELUS Digital, where innovation meets impact. As an award-winning digital product consultancy, we're shaping the future of digital experiences through cutting-edge technology, agile thinking, and a culture that puts people first.
+
+We are the global digital section of TELUS, one of Canada’s largest telecommunications providers. Our global teams deliver transformative digital solutions and customer experiences for industry leaders in consumer electronics, finance, telecommunications, and utilities. With robust multi-shore delivery capabilities, multi-language programs, and secure infrastructure, we ensure exceptional service backed by our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+As a Data Scientist / Machine Learning Engineer on our team, you'll design, develop, and deliver machine learning solutions, decipher loosely defined problems using complex datasets, and determine appropriate analytical and modeling techniques. You'll analyze structured and unstructured data, establish automated processes for large-scale modeling, perform exploratory analysis, and collaborate with peers on data acquisition and exploration, demonstrating a strong sense of ownership and urgency.
+
+Responsibilities
+
+Work on all aspects of the design, development and delivery of machine learning enabled solutions for our clients;
+Come up with solutions to loosely defined business problems by leveraging pattern detection over complex datasets across multiple platforms;
+Establish efficient, automated processes for large-scale modeling;
+Become part of a highly skilled and geographically distributed team;
+Collaborate with peers on problem definitions, data acquisition, data exploration, visualization as well as building the tools that support this process;
+Strong sense of ownership, urgency and drive.
+
+Qualifications
+
+Relevant experience in data science/ machine learning development
+Bachelor and/or Master degree in Statistics, Mathematics, Physics, Computer Science or other related subject.
+Proficiency in Python.
+Experience with machine learning frameworks (like Keras, TensorFlow, or PyTorch) and libraries (like scikit-learn).
+Strong understanding of machine learning algorithms, processes, tools and platforms.
+Ability to work on distributed cloud platforms
+Fluent English
+
+Bonus Points
+
+Experience with container management and machine learning deployment frameworks, such as Kubernetes, Kubeflow and MLFlow.
+Software development experience from scoping, requirements design, development, integration, testing, go live to PROD (vs internal research work)
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that Information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Engineer
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+Hey, Dev, check the opportunity we have here at Brick Abode! About Brick Abode We are a software development company that serves clients from multiple countries around the world, with differing technological needs. Therefore, we value a good computer science base. Contractors with a solid understanding of the basic building blocks of today's technology are really welcome and thrive at Brick Abode. People here are given autonomy, not put into a box to work only on one thing. They are in touch with the business needs of our clients, sometimes communicating with them directly. We challenge ourselves to learn new things and go outside our comfort zone. Candidates who are up to the challenge will have an amazing career with us. If you feel that your values fit with Brick Abode culture, check below for further details about this Position. What kind of professional are we looking for? We're looking for a responsible and proactive professional who can navigate between technology and business contexts with ease, feel comfortable in fast-paced environments, and have great communication skills. Our team is Brazil and USA-based, and communication is in English. The position is fully remote. What do I need to have to apply for this position? Python (with strong data handling experience), PostgreSQL (loading, validation, filtering) SQL ETL Cloud integration (especially S3 / AWS ecosystem), Familiarity with DataFrames (Pandas or similar), CI/CD and code hygiene for data pipelines Fluent English An academic background (MSc or PhD) will also be a plus As Contractor (PJ), you will have: Competitive compensation (in Reais - R$) Work with international clients with international standards Opportunity to grow as a leader Possibility to move between teams Speak in English with your coworkers 2 weeks of paid leave per year National holidays Paid parental leave Paid marriage leave Working with a company that cares about our people and their personal growth All expenses paid for training, conferences, and online courses Remote work Health Care Plan - Online If you are passionate about technology and have a strong desire to work on cutting-edge projects, we encourage you to apply for this position! Submit your CV to ****** make sure it contains your LinkedIn and GitHub accounts. Please submit your resume in English - we can only consider applications submitted in this language.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Desenvolvedor Plsql (Sistemas Ronda Sênior XT)
+
+Sobre a vaga
+Somos a maior multinacional brasileira e estamos entre as 100 maiores empresas de TI do mundo. Estamos presentes em 41 países com mais de 30 mil colaboradores. A Stefanini tem como principal objetivo auxiliar os clientes a encontrar, por meio de soluções personalizadas, a maneira ideal para alcançar seus desafios, impulsionando a inovação digital. E queremos mais!
+
+
+Modelo de Atuação: 100% Remoto
+
+
+Responsabilidades:
+Apoiar na sustentação e evolução da plataforma RONDA XT, promovendo melhorias contínuas.
+Desenvolver e manter soluções em SQL voltadas à extração, tratamento e análise de dados no contexto do RONDA XT.
+Atuar na integração de dados entre o sistema RONDA XT e sistemas SAP (ex: R H, Gestão de Acesso).
+Realizar integração com equipamentos de telemática, como controladores de acesso, sensores e dispositivos de monitoramento.
+Analisar requisitos técnicos e funcionais em conjunto com as áreas de negócio e segurança patrimonial.
+Elaborar documentação técnica das soluções implementadas.
+
+Requisitos:
+Experiência comprovada com o sistema RONDA XT.
+Sólidos conhecimentos em SQL (consultas, procedures, triggers).
+Experiência em integração de sistemas corporativos, preferencialmente com SAP.
+Vivência em projetos envolvendo equipamentos de telemática e automação de controle de acesso.
+
+O que te oferecemos:
+🍛 Vale Alimentação ou Vale Refeição
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado
+🗣 Mentoring
+🏫 Auxílio Creche
+💉 Clube de vantagens para consultas e exames
+🏥 Assistência Médica
+🦷 Assistência Odontológica
+💰 Clube de vantagens e descontos nos melhores estabelecimentos
+🛫 Clube de viagens
+🐶 Convênio para Pet
+e muito mais...
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Lead ETL Developer
+
+Sobre a vaga
+Join our team as a Lead ETL Developer and take a pivotal role in building and maintaining ETL code using Informatica PowerCenter within our enterprise data warehouse.
+
+Partner with data architects and application teams to deliver high-quality solutions. If you have a passion for data integration and a drive for impactful contributions, this opportunity is for you.
+
+Responsibilities
+
+
+Develop ETL processes and improve existing code using Informatica PowerCenter
+Build, configure, and unit test programs based on technical specifications
+Collaborate with data architects and application teams to support ETL initiatives
+Design ETL solutions for various projects while providing effort estimates
+Coordinate ETL development tasks across onshore and offshore teams
+Support administrative and production environments for Informatica
+Provide advanced troubleshooting and operational support
+Define best practices for the ETL development team and ensure adherence
+Document runbooks to support developed code and ongoing operations
+Propose enhancements to the data warehouse and oversee offshore implementation efforts
+Communicate and escalate critical issues to appropriate stakeholders
+
+
+Requirements
+
+
+At least 5 years in a data warehouse development role
+More than 7 years of experience working with Informatica Mappings, Workflows, and process development
+Competency in creating and using complex SQL for ETL solutions
+Expertise in leveraging Informatica tools across various use cases
+Understanding of integration technologies and related processes
+Proficiency in English at a B2+ level or higher
+
+
+Nice to have
+
+
+Knowledge of Kimball, Inmon, and Millbrook methodologies
+Familiarity with testing methodologies and tools
+Background in working within Windows-based environments
+Awareness of EDW reconciliation and related solutions
+Credentials validating expertise in Informatica or similar technologies
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------

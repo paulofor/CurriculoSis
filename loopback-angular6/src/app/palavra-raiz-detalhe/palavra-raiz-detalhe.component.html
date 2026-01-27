@@ -1,0 +1,31 @@
+<div class="dgc-painel" *ngIf="principal">
+	<div class="dgc-painel-header" *ngIf="principal">
+		<span>{{principal.palavra}}</span>
+		<span class="dgc-direita">{{principal.oportunidadeLinkedins.length}}</span>
+	</div>
+
+	<div class="dgc-card">
+		<div class="dgc-card" *ngFor="let rel of principal.oportunidadeLinkedins">
+			<div class="dgc-card-detalhe" >
+				<span routerLink="/oportunidade/{{rel.id}}" class="dgc-link">{{rel.titulo}}</span><br>
+				<span>{{rel.tempo}}</span><br>
+				<span>{{rel.volume}}</span><br>
+				<span>{{rel.empresa}}</span><br>
+				<span>{{rel.modelo}}</span><br>
+				<a href="{{rel.url}}" target="_blank">{{rel.url}}</a>
+			</div>
+			<div class="dgc-card-detalhe">
+				<span>{{rel.dataEnvio | date : 'dd-MM-yyyy' : 'UTC' }}</span><br>
+				<span>{{rel.data | date : 'dd-MM-yyyy' : 'UTC' }}</span>
+			</div>
+			<div class="dgc-card-comandos">
+				<button class="btn-primary btn-sm btn" (click)="envia(rel)">Enviado</button>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="dgc-card-comandos">
+		<button class="btn-primary btn-sm btn" (click)="editaPasso()">Novo</button>
+	</div>
+</div>

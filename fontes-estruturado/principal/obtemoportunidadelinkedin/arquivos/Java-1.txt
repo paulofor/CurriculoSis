@@ -1,0 +1,220 @@
+[Oportunidade 1]
+Oportunidade: Software Engineer
+
+Sobre a vaga
+We're hiring a Senior Software Engineer (Big Data / Java) – Brazil (Remote). Join our international team supporting one of the world’s largest social media platforms.
+
+Duration: 6 Months (Freelance)
+Location: Brazil (Remote – must be based in Brazil)
+Start Date: ASAP
+
+Key Responsibilities:
+Develop and enhance large-scale data processing systems in a distributed environment
+Design and optimize pipelines and metadata models
+Build and customize Spark internals and contribute to open-source community
+Collaborate with cross-functional teams in a fully agile setup
+Design Fine Grained Access Control systems for big data platforms
+Maintain and improve platform performance and scalability
+
+Requirements:
+5+ years as a Software Engineer with strong Java expertise (Kotlin is a plus)
+3+ years building scalable big data infrastructure/platforms
+Solid experience with Spark, Hadoop, Parquet/ORC, or Flink
+Strong OOP and system documentation skills
+Results-oriented mindset and proactive communication
+Fluency in English (Mandatory)
+
+Nice to Have:
+Knowledge of AWS and Kubernetes.
+
+Interested? 
+Send your CV in English + rate to j.sierra@asenium.com or apply directly.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Estamos em busca de uma pessoa versátil e apaixonada por dados para atuar como DBA com perfil de Engenheiro de Dados, com vivência em ambientes diversos e disposição para trabalhar com múltiplos bancos de dados (relacionais e NoSQL). Você será peça-chave na evolução da nossa arquitetura de dados, garantindo performance, escalabilidade e disponibilidade dos nossos sistemas.
+ 🎯 Responsabilidades
+  Administrar, monitorar e otimizar bancos de dados relacionais e NoSQL (MySQL, PostgreSQL, MongoDB, Cassandra e Amazon Aurora)
+Planejar e executar estratégias de backup, recuperação e alta disponibilidade
+Desenvolver e manter pipelines de dados para cargas e transformações (ETL/ELT)
+Colaborar com equipes de desenvolvimento e DevOps para definição de boas práticas de modelagem de dados
+Participar da arquitetura de soluções em nuvem (AWS), integrando serviços de dados, segurança e automação
+Garantir governança, consistência e integridade dos dados nas diversas fontes
+Suportar operações críticas com mindset proativo e orientado a performance
+  💡 Requisitos obrigatórios
+  Experiência prática como DBA e/ou Engenheiro de Dados
+Proficiência em MySQL, PostgreSQL e pelo menos um banco NoSQL (como MongoDB ou Cassandra)
+Conhecimento sólido em Amazon Aurora e serviços AWS relacionados a dados (RDS, EC2, S3, Glue, Lambda, etc.)
+Experiência com modelagem de dados relacional e não relacional
+Familiaridade com ferramentas de monitoramento, tunning e automação de banco de dados
+Boas práticas de segurança e compliance em bancos de dados
+Versionamento de scripts com Git e CI/CD para dados
+ 🚀 Diferenciais que valorizamos
+  Certificações AWS (ex: AWS Certified Database Specialty, Solutions Architect) 
+Experiência com ferramentas de ETL/ELT (Airflow, dbt, Glue, etc.)
+Conhecimento em Kafka, Spark, Athena ou Redshift
+Vivência com grandes volumes de dados e ambientes de alta criticidade
+Perfil colaborativo, comunicativo e com sede de aprendizado
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de Dados Sênior |Brasil
+
+Sobre a vaga
+Description
+
+Você na Deloitte
+
+Na Deloitte, buscamos pessoas que queiram gerar impactos positivos todos os dias. Impulsionamos talentos para que possam se desenvolver em um ambiente colaborativo, com times diversos e que tragam energia, empoderamento, interação e conexões. O nosso crescimento é exponencial porque os talentos que recrutamos possuem os nossos valores em suas essências. Liderar o caminho, fomentar a inclusão, colaborar para mensurar impactos, servir com integridade e cuidar uns dos outros são pontos essenciais e inegociáveis para fortalecer ainda mais o nosso propósito.
+
+Você terá a oportunidade de evoluir sua carreira na maior empresa de serviços profissionais do mundo como Consultor(a) de Dados no time de AI&DATA, aqui você terá a oportunidade de ser o protagonista de sua carreira, e de gerar impactos e transformações positivas em seu redor. Na sua rotina, você irá:
+
+Atuar em engenharia de dados para projetos de Modernização de Dados em diversas indústrias; Desenvolver e implementar pipeline de dados em diversas ferramentas e repositórios como: Spark/PySpark | Hadoop/Cloud | Talend | Informatica | Alteryx | MongoDB| SQL&PL/SQL |Phyton | CosmosDB| BigQuery |Git entre outras;
+Conectar e integrar sistemas legados com a Nuvem GCP. 
+Automatizar processos de ingestão, transformação e disponibilização de dados.
+Suportar projetos de Ciências de Dados e machine learning em ambiente GCP. 
+Possuir habilidade para trabalhar em multi plataformas e motivação para auto-aperfeiçoamento; Realizar estimativas de esforço de desenvolvimento e report ao gerente de projeto.
+
+Acordamos todos os dias para conectar pessoas, tecnologias e ideias, que vão construir e entregar soluções para os desafios das maiores empresas do Brasil e do planeta.
+
+Acreditamos na força dos talentos que preparamos. Eles transformam de fato, impactam organizações, impulsionam mais talentos e criam oportunidades. Que tal fazer parte da maior organização de serviços profissionais do mundo?
+
+Faz toda diferença contar com quem pode fazer dos sonhos, realidade.
+
+Escolha seu impacto!
+
+Requirements
+
+O que precisa para você se candidatar a vaga?
+
+Ter no mínimo curso superior completo da área de Exatas e afins;
+Inglês intermediário;
+Experiência em dados de forma quantitativa, manipulação de dados, modelagem de dados, Entender os conceitos de dados relacionais/não estruturados;
+Experiência em GCP (BiqQuery, Cloud Storage, Dataflow, Pub/Sub, etc);
+Familiaridade com as ferramentas de orquestração (Airflow/Cloud Composer);
+Experiências com integração de API´s, bancos relacionais e sistemas ERP.
+
+Será um diferencial se tiver:
+
+Experiência no setor elétrico;
+Conhecimento em DevOps (CI/CD).
+
+Benefits
+
+O que estará disponível para você?
+
+Desenvolvimento profissional 
+
+É claro que cuidaríamos do seu desenvolvimento aqui na Deloitte! Queremos que você alcance seus objetivos profissionais e pessoais e, por isso, contamos com Universidade Corporativa, acesso a plataformas online de aprendizado, plataforma de idiomas com mais de 7.500 conteúdos e cerca de 60 cursos divididos por nível, área de atuação, habilidades profissionais e interesses, e até uma plataforma que reúne diversas instituições de ensino, fornecendo descontos exclusivos para profissionais Deloitte e seus dependentes. 
+
+Além disso, oferecemos um plano de carreira estruturado, com mentoria de profissionais da Deloitte por meio de um(a) coach, que poderá ouvir seus desafios e apoiar para que consiga evoluir tanto com habilidades técnicas, quanto com habilidades comportamentais com base na própria experiência. É ótimo ter uma pessoa mentora, não é mesmo?
+
+Cuidados com o seu bem-estar 
+
+Aqui na Deloitte, acreditamos que saúde e bem-estar não são apenas projetos, e sim uma mudança de cultura. Queremos que você coloque em prática todo o seu talento e desenvolva uma carreira de sucesso com a gente, com equilíbrio entre Mente, Corpo e Propósito. Para isso, contamos com mais de 30 benefícios, como:
+
+Serviço de telemedicina para que você consiga fazer uma pré-avaliação sem precisar sair de casa! 
+Family Strategy: programa destinados à profissionais gestantes e futuros papais que terão todo apoio possível neste momento tão especial 
+Gympass para colocar os exercícios físicos em dia 
+Dia de folga no mês do seu aniversário, para celebrar uma das pessoas mais importantes de sua vida 
+Canal de apoio psicológico e Serviço Social 
+
+(Mais) Benefícios 
+
+Assistência médica e odontológica! Para que você faça check-ups e cuide de você, em primeiro lugar* 
+Participação nos lucros. Afinal, sem os nossos talentos, não poderíamos crescer exponencialmente 
+Auxílio-internet, para apoiar no trabalho em modelo híbrido 
+Seguro de vida* 
+Vale refeição / alimentação* 
+Pacote de benefícios flexíveis: você receberá pontos e poderá distribui-los entre as opções que melhor se adequam às suas necessidades de acordo com as regras do programa.
+
+Oportunidade de fazer parte de uma cultura inclusiva 
+
+Você pode ser quem realmente é com oportunidade igual de crescimento. Para reforçar esse compromisso, desenvolvemos a estratégia global ALL IN com os 8 pilares – Origens, Jovem Aprendiz, STEM, Delas, LGBT+, Inclui, No Borders e Geração 50+. Destacamos que todas as nossas vagas estão abertas ao público PcD.  
+
+Esperamos você neste time! 
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Pessoa Engenheira de Dados | Tech Lead
+
+Sobre a vaga
+A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.
+
+Todas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟
+
+O DESAFIO
+
+Planejar, distribuir e acompanhar as tarefas da equipe de engenheiros de dados, garantindo aderência aos padrões de arquitetura e boas práticas de codificação de dados.
+Projetar e supervisionar a construção de pipelines de dados (ETL/ELT) robustos e escaláveis, integrando dados de várias fontes (bancos de dados, APIs, streaming) e assegurando processamento eficiente (inclusive em tempo quase real quando necessário).
+Realizar revisões de código e validações técnicas das soluções implementadas pelo time, garantindo qualidade (teste de unidade, validação de dados) e conformidade com padrões estabelecidos.
+Otimizar fluxos de dados e consultas, trabalhando em conjunto com o arquiteto de dados para melhorar desempenho de processamento, uso de recursos e escalabilidade da plataforma (por exemplo, otimização de jobs Spark, ajustes em consultas SQL e particionamento de dados).
+Atuar como ponto de contato técnico para stakeholders do projeto, traduzindo requisitos de negócio em especificações técnicas para a equipe e reportando progresso ou riscos aos gerentes de projeto.
+Mentorizar e desenvolver tecnicamente os membros mais juniores da equipe de dados, promovendo aprimoramento constante das competências técnicas e disseminando cultura de engenharia de dados de excelência.
+Colaborar com a área de infraestrutura/SRE para implementar processos de CI/CD, monitoramento e resolução de incidentes que assegurem a alta disponibilidade e confiabilidade dos pipelines de dados em produção
+Ensino Superior Completo em Ciências da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas
+
+O QUE VOCÊ PRECISA
+
+Domínio de linguagens de programação voltadas a dados (como Python/Scala para processamento de dados massivos e SQL para manipulação de bancos de dados).
+Experiência na construção de pipelines de dados usando ferramentas e frameworks modernos (por exemplo, Apache Spark/Databricks, Apache Airflow para orquestração, 
+Conhecimento de arquiteturas de dados em nuvem ou on-premise, incluindo armazenamento de dados (data lakes, data warehouses) e melhores práticas de gerenciamento de dados (versionamento, ciclo de vida dos dados, etc.).
+Habilidade em otimizar e depurar processos de ETL/ELT e solucionar problemas de performance ou qualidade de dados em produção.
+
+VOCÊ VAI BRILHAR AINDA MAIS SE TIVER
+
+Experiência no mercado financeiro
+
+O QUE OFERECEMOS PARA VOCÊ
+
+🍴 Vale Alimentação: Para saborear deliciosas refeições
+＄ Previdência Privada: Planeje o futuro com segurança.
+✙ Assistência Médica e Odontológica: Cuidado completo para você e sua família.
+👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.
+‍👧‍👦 Auxílio Creche: Para ajudar nas despesas dos pequenos.
+ღ Seguro de Vida: Segurança para você e quem você ama.
+💪 Wellhub: Acesso a academias e atividades físicas para manter a saúde em dia.
+💰 Participação nos Lucros e Resultados (PLR): Sucesso compartilhado com todos.
+⚕ Einstein Conecta: Orientação médica online com os especialistas do Hospital Israelita Albert Einstein, totalmente gratuito.
+
+Por que escolher a Dimensa?
+
+Na Dimensa, você fará parte de um time que está revolucionando o mercado de operações financeiras, crédito e risco, e seguros, com inovação e tecnologia de ponta. Queremos conhecer você e ver como você pode contribuir para nossa missão!
+Junte-se a nós e faça a diferença, #VEMFAZERPARTEDAONDAVERDE! 💚
+
+Qualificações
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Desenvolvedora Java Especialista II
+
+Sobre a vaga
+Liderar tecnicamente, inspirar e capacitar a equipe técnica, promovendo um ambiente colaborativo e de alto desempenho;
+Colaborar ativamente com outros líderes para garantir a integração eficiente de tecnologias e soluções em toda a plataforma;
+Participar ativamente no design, arquitetura e desenvolvimento de aplicações Web/Mobile;
+Propor melhorias de processos de desenvolvimento de software, garantindo entrega pontual e de alta qualidade;
+Avaliar a capacidade de entrega da squad e garantir que os resultados definidos sejam alcançados, alinhando deadline e visibilidade de delivery para todas as áreas envolvidas;
+Trabalhar em um ambiente ágil, apoiado em métricas e focado em resultados;
+Ser referência técnica onde atua, contribuindo com a evolução técnica do time e resolução de problemas complexos
+
+
+Requisitos:
+Vasto conhecimento de Java e JVM;
+Experiência com Reactjs e gerenciamento de estados;
+Experiência com arquiteturas distribuídas;
+Experiência no desenvolvimento de APIs RESTFul;
+Excelentes habilidades de comunicação e liderança técnica;
+Experiência em banco de dados Relacional e não-Relacional;
+Experiência em mensageria;
+Experiência em CI/CD (Jenkins, GitHub Actions);
+Ferramentas de observabilidade (Logs, Métricas, Traces e APMs);
+Experiência com aplicações AWS;
+Conhecimento de boas práticas de qualidade como: TDD, BDD, SOLID, Clean Arch, Clean Code, KISS, entre outros;
+Conhecimento em programação orientada a objetos;
+Vivência em times ágeis (Scrum, Kanban, etc);
+Experiência prévia em gestão de times multidisciplinares de desenvolvimento de software;
+Capacidade de trabalhar em um ambiente multifuncional, multi-linguagem e colaborativo, de maneira autônoma;
+Pragmatismo para resolução de problemas;
+Conhecimento em HTML, CSS, JavaScript e Typescript;
+Noção de Performance web, acessibilidade e SEO;
+Experiência com versionamento de código usando Git.
+-----------------------------------------------------------------------------------

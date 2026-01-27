@@ -1,0 +1,249 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Sr - Sustentação
+
+Sobre a vaga
+Venha fazer parte do Grupo Synoro! 
+
+Sobre nós: 
+No Grupo Synoro, acreditamos que as ideias inovadoras podem transformar o mundo! Nosso propósito é apoiar empreendedores e fomentar a colaboração entre pessoas e empresas. Com um time diverso e talentoso, somos responsáveis por marcas como TDW, Triibo, Axyma, Synoro Investimentos e Seu Felix. Junte-se a nós em nossa missão de empreender com tecnologia e criatividade! 
+
+Vaga disponível: Engenheiro de dados
+
+Descrição do Cargo:Buscamos um Engenheiro de Dados Sênior com experiência para desenvolver ambientes analíticos avançados. A posição envolve criação de soluções eficientes, garantindo boas práticas de desenvolvimento, qualidade de código e integração com APIs.
+
+Principais Responsabilidades:
+
+• Desenvolvimento em Ambientes Analíticos utilizando Python, PySpark e SQL para processamento e manipulação de dados.
+• Desenvolvimento de serviços Backend Node.js.
+• Implementação de padrões de qualidade e criação de testes unitários e integrados.
+• Controle de Versões utilizando ferramenta tipo GITHUB.
+• Desenvolvimento de integrações usando APIs RESTful em pipelines de dados.
+• Desenvolvimento em ambiente AWS usando recursos como Lambda, API Gateway, S3.
+
+Requisitos:
+
+• Graduação em Ciências da Computação, Engenharia de Software ou áreas relacionadas.
+• Pelo menos 5 anos de experiência na área de desenvolvimento de em projetos de integração de dados em empresas de grande porte.
+• Nível avançado no desenvolvimento com ferramentas como Python, SQL e NodeJS.
+• Experiência comprovada com desenvolvimento em ambiente de nuvem, preferencialmente AWS.
+• Desejável conhecimento das plataformas DataBricks e Atlassian Forge.
+• Perfil protagonista, com alta capacidade de iniciativa e autonomia técnica.
+• Habilidade para atuar com liderança técnica, promovendo colaboração entre squads e disseminando boas práticas.
+• Visão crítica e analítica para propor soluções e evoluções arquiteturais.
+
+
+Diferenciais:
+• Experiência em sistemas distribuídos e escaláveis.
+
+
+O que oferecemos: 
+• Flexibilidade de horário para equilibrar sua vida pessoal e profissional. 
+• Um ambiente de trabalho criativo e colaborativo, onde suas ideias são bem-vindas! 
+• Oportunidades de desenvolvimento profissional para você crescer com a gente. 
+• Programa de Certificações para quem atua na área de dados. 
+
+Informações adicionais: 
+• Local de Trabalho: São Paulo - Próximo ao metrô Praça da Árvore ou Hospital São Paulo. 
+• Modelo de Contratação: PJ. 
+• Jornada: 3 dias presenciais no escritório e 2 dias de home office, 8 horas diárias. 
+
+Se você está pronto para fazer parte de uma equipe que transforma ideias em realidades, queremos conhecer você! Envie seu currículo e venha inovar com a gente! 
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados Sênior | Monee
+
+Sobre a vaga
+About The Team
+
+Sobre a Shô
+
+Aqui na Shô, acreditamos que cada membro de nossa equipe é fundamental para o nosso sucesso, e que diversidade de perspectivas e vivências são essenciais para movimentar nosso negócio e impulsionar o nosso propósito de mudar o mundo para melhor. Fazer parte do nosso time é a oportunidade de se desenvolver dentro de uma cultura de muita agilidade. Se você ama assumir grandes responsabilidades e fazer o que nunca foi feito, a Shô é seu lugar. Aqui você terá grandes desafios, trabalhará em colaboração com um time diverso e contribuirá para o futuro do e-commerce no Brasil, criamos impacto positivo na vida de milhões de pessoas.
+
+Modelo de Trabalho
+
+Adotamos um modelo de trabalho híbrido, esse modelo permite que as pessoas ajustem seu ambiente de trabalho de acordo com suas necessidades pessoais, ao mesmo tempo em que promove a colaboração e interação no escritório.
+
+Job Description
+
+Qual será a sua missão:
+
+Responsável por desenvolver e otimizar as camadas de coleta, integração e armazenamento de dados do Monee. O Engenheiro de Dados construirá pipelines de dados que transformam dados brutos em conjuntos de dados valiosos, facilitando a análise e atendendo aos requisitos de negócios e à geração de insights. Especializado em projetos de Big Data e Analytics, com baixa latência de consumo.
+
+Como Será o Seu Dia a Dia
+
+Aplicar conceitos e melhores práticas de engenharia de software, incluindo pensamento estruturado,
+
+reutilização e modularização;
+
+Criar pipelines de dados e rotinas de automação de processos, integrando diferentes camadas de dados, usando Python, Airflow, Kubernetes e SQL;
+Identificar oportunidades de aquisição de dados e realizar análises de dados;
+Analisar e organizar dados brutos, combinando informações de diferentes fontes;
+Interpretar tendências e padrões nos dados coletados;
+Explorar maneiras de melhorar a qualidade dos dados e prepará-los para modelagem prescritiva e preditiva;
+Realizar análises básicas de dados e gerar relatórios sobre os resultados dos processos de ELT;
+Aplicar as melhores práticas de engenharia de software ao desenvolver pipelines de dados;
+Avaliar as necessidades e metas do negócio e determinar como os dados da empresa podem ser usados para atingir os objetivos.
+
+Requirements
+
+O que você precisa para assumir o desafio:
+
+Bacharel em Ciência da Computação, Engenharia da Computação, TI ou áreas afins;
+Python, SQL, Shell Script;
+Versionamento de código e gerenciamento de mudanças usando Gitlab CI/CD;
+Manipulação de arquivos usando Python: CSV, Excel, Planilhas Google, Parquet;
+Estratégias de empacotamento Python usando ambiente virtual Linux;
+Desenvolver automação de processos e pipelines de dados (ELT) usando Airflow;
+Bancos de dados relacionais, modelagem ER;
+Kubernetes para gerenciamento de contêineres Docker;
+Comunicação com APIs de dados usando Python;
+Hadoop e Hive, conceitos e arquitetura do Spark;
+Conceitos de segurança de dados;
+Excelentes habilidades de comunicação verbal e escrita;
+Conhecimento avançado da língua inglesa.
+
+Benefícios
+
+Assistência médica e odontológica, estendendo-se aos dependentes;
+Parceira com Gympass e TotalPass;
+Vale Refeição/Alimentação flexível;
+Vale Transporte, Vale Mobilidade ou Estacionamento no local;
+Benefício flexível;
+Zenklub;
+Bônus anual discricionário, atrelado à performance.
+
+ VEM FAZER HISTÓRIA COM A GENTE. 
+
+O QUE TE FAZ ÚNICO, NOS FAZ MELHORES! 🧡
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de dados foco cloud AWS
+
+Sobre a vaga
+Introduction
+
+Uma carreira em Consultoria IBM é baseada em relacionamentos de longo prazo e colaboração próxima com clientes em todo o mundo.
+
+Você trabalhará com visionários de diversos setores para aprimorar a jornada de nuvem híbrida e IA para as empresas mais inovadoras e valiosas do mundo. Sua capacidade de acelerar o impacto e promover mudanças significativas para seus clientes é possibilitada pelo nosso ecossistema de parceiros estratégicos e nossas robustas plataformas tecnológicas em todo o portfólio da IBM, incluindo Software e Red Hat.
+
+A curiosidade e a busca constante por conhecimento são a base para o sucesso na Consultoria IBM. Em sua função, você será incentivado a desafiar os padrões, investigar ideias fora da sua área de atuação e apresentar soluções criativas que resultem em impacto inovador para uma ampla rede de clientes. Nossa cultura de evolução e empatia se concentra em oportunidades de crescimento e desenvolvimento profissional a longo prazo, em um ambiente que acolhe suas habilidades e experiências únicas.
+
+Your Role And Responsibilities
+
+As Data Engineer at IBM you will harness the power of data to unveil captivating stories and intricate patterns. You'll contribute to data gathering, storage, and both batch and real-time processing.
+
+Collaborating closely with diverse teams, you'll play an important role in deciding the most suitable data management systems and identifying the crucial data required for insightful analysis. As a Data Engineer, you'll tackle obstacles related to database integration and untangle complex, unstructured data sets.
+
+In This Role, Your Responsibilities May Include
+
+Implementing and validating predictive models as well as creating and maintain statistical models with a focus on big data, incorporating a variety of statistical and machine learning techniques 
+Designing and implementing various enterprise seach applications such as Elasticsearch and Splunk for client requirements
+Work in an Agile, collaborative environment, partnering with other scientists, engineers, consultants and database administrators of all backgrounds and disciplines to bring analytical rigor and statistical methods to the challenges of predicting behaviors.
+Build teams or writing programs to cleanse and integrate data in an efficient and reusable manner, developing predictive or prescriptive models, and evaluating modeling results
+
+Preferred Education
+
+Bachelor's Degree
+
+Required Technical And Professional Expertise
+
+Buscamos profissionais com experiência com Data engineer esteira de AWS com o conhecimento técnico de:
+
+Plataformas de dados - AWS
+Projetar e desenvolver pipelines de dados: criar pipelines robustos para processar, transformar dados e ingerir dados derivados da origem ao destino. 
+Implementar processos ETL/ELT 
+Desenvolvimento de funções Lambda para desenvolvimento de APP
+CI/CD, IaC
+Proficiência com ferramentas AWS: experiência demonstrável em AWS Glue, AWS Lambda, Amazon Athena, Amazon DynamoDB, Amazon Cloudwatch, Amazon SNS e AWS Step Functions. 
+Grande experiência com linguagens de programação como Python, Pyspark. 
+Conhecimento profundo de tecnologias de banco de dados e tecnologias de ecossistema de Big Data: AWS RDS. 
+Experiência com AWS Data Lakes 
+Grande conhecimento em pipeline de implantação usando AWS Cloud Formation
+ Grande conhecimento em Git.
+Grande conhecimento em SQL.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados Senior
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Desenvolvedor de Dados você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Curso superior na área de tecnologia da informação;
+Experiência com Python: Para manipulação de dados, automação de processos e desenvolvimento de pipelines.
+Java/Scala: ferramentas como Apache Spark. PySpark: A API do Apache Spark para Python, permitindo processamento de dados em larga escala e análise de dados distribuídos.
+Bancos de Dados SQL
+NoSQL (MongoDB, Cassandra)
+Plataformas de Big Data: Databricks
+
+Principais responsabilidades:
+
+Desenvolvimento de Pipelines de Dados: Projetar, construir e manter pipelines de dados eficientes para a extração, transformação e carga (ETL) de dados de diversas fontes.
+Integração de Dados: Integrar dados de diferentes sistemas e fontes, garantindo a qualidade e a consistência dos dados.
+Modelagem de Dados: Criar e manter modelos de dados que suportem as necessidades de análise e relatórios da equipe de Finanças.
+Otimização de Performance: Monitorar e otimizar o desempenho dos pipelines de dados e das consultas em bancos de dados, garantindo eficiência e rapidez no processamento.
+Trabalho com Big Data: Utilizar ferramentas de Big Data, como Apache Spark e Databricks, para processar grandes volumes de dados em tempo real.
+Garantia de Qualidade dos Dados: Implementar processos de validação e limpeza de dados para garantir a integridade e a precisão das informações.
+Colaboração com Equipes Multifuncionais: Trabalhar em estreita colaboração com cientistas de dados, analistas de negócios e outras partes interessadas para entender as necessidades de dados e fornecer soluções adequadas.
+Documentação: Documentar processos, pipelines e modelos de dados para garantir que as informações sejam acessíveis e compreensíveis para outros membros da equipe.
+Segurança e Conformidade: Garantir que as práticas de manipulação de dados estejam em conformidade com as políticas de segurança e regulatórias, especialmente em um ambiente financeiro.
+Atualização e Aprendizado Contínuo: Manter-se atualizado sobre as últimas tendências e tecnologias em engenharia de dados, Big Data e ferramentas de análise.
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Descrição da vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsabilidades:
+Atuar no desenvolvimento, implementação e manutenção de soluções de Data Warehouse;
+Realizar integração, transformação e análise de dados a partir de diferentes fontes;
+Participar do desenho e evolução da arquitetura de dados, com foco em arquitetura em camadas/medalhão;
+Garantir a qualidade, integridade e a disponibilidade dos dados para diferentes áreas de negócio.
+Requisitos:
+Sólida experiência em projetos de Data Warehouse;
+Conhecimento avançado em Snowflake e SQL Server;
+Domínio de SQL avançado para manipulação e consulta de dados;
+Experiência na arquitetura em camadas (medalhão: Bronze, Silver e Gold);
+Capacidade de atuar de forma autônoma e colaborativa em ambiente remoto.
+-----------------------------------------------------------------------------------

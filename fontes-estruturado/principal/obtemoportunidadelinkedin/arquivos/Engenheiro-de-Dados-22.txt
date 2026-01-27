@@ -1,0 +1,150 @@
+[Oportunidade 1]
+Oportunidade: Senior Developer Phyton , Brasil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Responsabilidades
+- Entender as necessidades técnicas do projeto, participar de inceptions e refinamentos, e atuar no desenvolvimento e evolução de uma solução escalável e de alta performance.
+- Compreender as necessidades técnicas, colaborando ativamente em inceptions e refinamentos.
+- Desenvolver e evoluir soluções de software que atendam aos padrões de escalabilidade e alta performance.
+
+
+Requisitos necessários:
+- Experiência em Python: Sólido conhecimento em desenvolvimento backend utilizando frameworks como FastAPI, Flask ou Django.
+- Testes Unitários: Habilidade para implementar e manter testes unitários.
+- CI/CD: Familiaridade com processos de integração e entrega contínua.
+- Padrões de Projeto: Conhecimento em design patterns.
+- Docker e Conteinerização: Experiência em containerizar aplicações utilizando Docker.
+- Versionamento de Código: Proficiência em ferramentas de versionamento, especialmente Git.
+- Clean Code: Compromisso com boas práticas de codificação.
+- DevOps/DevSecOps: Conhecimento e práticas de DevOps e segurança em DevOps.
+- TDD: Experiência com Test-Driven Development (TDD).
+- SOLID: Compreensão dos princípios SOLID de design de software.
+
+
+Qualificações desejáveis (diferencial)
+- IA/ML: Experiência no desenvolvimento e implantação de soluções de Inteligência Artificial e Machine Learning.
+- LLM e LangChain: Conhecimento em Large Language Models e LangChain.
+- Cloud: Experiência em serviços de nuvem, preferencialmente Azure ou AWS.
+Frontend: Habilidade em desenvolvimento frontend utilizando Angular e TypeScript.
+- Microsserviços: Familiaridade com arquiteturas de microsserviços.
+- Bancos de Dados: Relacional: PostgreSQL, NoSQL: MongoDB, Vetorial: Pinecone, Graph: Neo4j
+
+ #Midsenior
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados (Java + Spark) – Sênior
+
+Sobre a vaga
+Descrição
+
+Estamos em busca de um(a) Engenheiro(a) de Dados Sênior com sólida experiência em Java e Apache Spark, que seja movido por desafios e tenha perfil colaborativo. Você atuará diretamente no desenvolvimento de aplicações e pipelines de dados em uma plataforma moderna e escalável, contribuindo ativamente com decisões de arquitetura e boas práticas de engenharia.
+
+Responsabilidades e atribuições
+
+Desenvolver APIs e aplicações voltadas à manipulação e exposição de dados;
+
+Projetar soluções em conjunto com áreas de negócio e times técnicos (Arquitetura, Segurança, Infraestrutura);
+
+Garantir a qualidade do software, com foco em testes automatizados, versionamento e manutenibilidade de código;
+
+Atuar com iniciativa e autonomia na resolução de problemas técnicos;
+
+Colaborar com outros engenheiros e stakeholders na criação de soluções eficazes e sustentáveis.
+
+Requisitos e qualificações
+
+Experiência avançada em Java;
+
+Vivência prática com Apache Spark;
+
+Sólido conhecimento na utilização de serviços AWS (como EMR, RDS, S3);
+
+Experiência com orquestração de pipelines de dados, preferencialmente com Airflow;
+
+Domínio em estruturas de dados e desenvolvimento de API REST;
+
+Noções de práticas CI/CD (Integração e Entrega Contínua).
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Desafio
+
+A Lima Consulting Group está procurando candidatos(as) para colocar a mão na massa em implementações técnicas e código, que gostem de utilizar ferramentas inovadoras e aprender rápido, além de querer fazer a diferença no resultado de negócios de nossos clientes. Os candidatos terão acesso às principais tecnologias, capacitação em nossa forma de trabalhar com dados, plataformas digitais e trabalhar lado-a-lado com consultores e cientistas de dados, desenvolvendo entregas técnicas para grandes empresas. Nossos Engenheiros de Dados ficam atentos às tendências ou inconsistências de dados nas implementações técnicas que afetam as metas de negócios. É uma posição altamente técnica, que exige experiência e habilidades em áreas como programação e ciência da computação.
+
+Responsabilidades
+
+Garantir a consistência nos processos de coleta, ingestão, transformação e integração de dados;
+Diagnosticar, revisar e testar problemas técnicos que possam ser identificados em ferramentas e processos;
+Desenvolver respostas para desafios complexos de mensuração, implementação e uso de dados com equipes de tecnologia de clientes;
+Auxiliar na auditoria contínua do site e plataformas digitais. Atender requisições de suporte de clientes, relacionados com implementações, análise, integrações, desenvolvimento e assuntos relacionados;
+Localizar e definir novas ferramentas e oportunidades de melhoria de processos. Realizar programas de capacitação e certificação fornecidos pelos parceiros Lima Consulting Group (Adobe, Google, Salesforce e outros);
+Manter-se atualizado sobre as tendências tecnológicas do mercado e suas respectivas comunidades;
+Trabalhar e colaborar no tempo com processos estruturados;
+Capacidade de criar e manter procedimentos para análise e extração de dados;
+Grande atenção aos detalhes e organização do dia a dia;
+Trabalhar em estreita colaboração com os consultores e cientista de dados, entendendo os requisitos e ajudando os a obter o máximo em seus projetos.
+
+Pré-requisitos
+
+Experiência com programação em Python, SQL, Orientação a objetos;
+Construção e otimização de ETL e ELT;
+Conhecimento em sistemas de processamento de dados distribuídos (ex. Spark, Dask, Kafka, Hadoop etc.);
+Conhecimento em sistemas de automação de pipeline de dados (Airflow, Glue etc.);
+Conhecimentos profundos em utilização e criação de API s;
+
+Diferenciais
+
+Experiência técnica com plataformas digitais como Google Analytics, Google Looker Studio, Adobe Marketing Cloud, Salesforce Marketing Cloud, Oracle Marketing Cloud, CMS, CDP e outras relacionadas;
+Conhecimento de ambientes baseados em nuvem como AWS, Azure e GCP;
+Experiência no desenvolvimento de software utilizando softwares de versionamento;
+Conhecimentos técnicos em automação de processos de ingestão, transformação e testes de dados;
+Experiência na prestação global ou remotos, com clientes corporativos;
+Alguma habilidade lidando com liderança executiva;
+Ter trabalhado em consultoria, agência, startup ou empresas com mindset ágil;
+Alto grau de iniciativa e habilidades de resolução de problemas;
+Proficiência em inglês e/ou espanhol;
+Entregas técnicas orientadas a implementação de plataformas de marketing digital (ex.: web analytics, teste AB, DMP, CDP) e suas configurações;
+Conhecimento de HTML e Javascript.
+
+A Lima uma Martech com duas décadas de história no mundo está presente no Brasil desde 2010. Somos nativos digitais e nascemos com o propósito de construir o futuro digital de
+
+empresas visionárias. Desenvolvendo soluções customizadas, resolvemos as necessidades reais de cada cliente, contando com os melhores profissionais do mercado para isso.
+
+O que esperamos de você
+
+Postura mão na massa para contribuir na construção de soluções para nossos clientes;
+Participação ativa em um time multidisciplinar (squad/tribo);
+Compartilhamento de conhecimento com os colegas;
+Que se sinta confortável em um ambiente multitarefa, exigente e ágil, com clientes de múltiplas indústrias.
+Compreensão do ecossistema de marketing digital, publicidade digital, analytics e/ou business intelligence;
+-----------------------------------------------------------------------------------

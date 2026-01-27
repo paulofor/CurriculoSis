@@ -1,0 +1,302 @@
+[Oportunidade 1]
+Oportunidade: Data Architect
+
+Sobre a vaga
+About the company:
+Avenue Code is the leading software consultancy focused on delivering end-to-end development solutions for digital transformation across every vertical. We’re privately held, profitable, and have been on a solid growth trajectory since day one. We care deeply about our clients, our partners, and our people. We prefer the word ‘partner’ over ‘vendor’, and our investment in professional relationships is a reflection of that philosophy. We pride ourselves on our technical acumen, our collaborative problem-solving ability, and the warm professionalism of our teams.
+Avenue Code has been believing in and promoting plurality actions for over 10 years, understanding that recognizing differences and fostering a safe environment, employment opportunities, representation, and support are the best ways to promote an increasingly equitable culture.
+
+Sobre a Oportunidade
+Essa posição é para atuar como Arquiteto(a) de Dados na Avenue Code, com foco em projetos na Google Cloud Platform (GCP). A pessoa profissional será responsável por desenhar, implementar e gerenciar soluções de arquitetura de dados que suportem a estratégia de dados dos clientes. Atuará diretamente em projetos críticos com clientes estratégicos, contribuindo para a transformação digital por meio de soluções robustas e inovadoras em dados e analytics.
+
+Responsibilities
+Trabalhar com stakeholders de negócios e produtos para transformar perguntas de negócio em soluções baseadas em dados.
+Apoiar times na gestão de projetos de dados.
+Colaborar com líderes técnicos dos clientes, executivos e parceiros para gerenciar e entregar implementações bem-sucedidas de soluções de dados em nuvem.
+Propor arquiteturas de soluções e liderar sua implantação com base nas melhores práticas.
+Liderar projetos técnicos, atuando em advocacy de tecnologia, provas de conceito, propostas técnicas e coordenação de recursos especializados.
+Influenciar a estratégia de dados dos clientes com orientações técnicas e visão de inovação.
+
+Required Qualifications
+Graduação em Ciência da Computação, Engenharia ou áreas correlatas.
+Experiência prévia como Engenheiro(a) ou Arquiteto(a) de Dados.
+Capacidade de criar, organizar e orquestrar pipelines de dados.
+Conhecimento sólido de conceitos como data lakes, data warehouses, data marts, catálogos de dados e data lineage.
+Domínio em modelagem de dados e princípios de data warehousing; conhecimento prático de SQL.
+Experiência com Spark e ferramentas de orquestração como Airflow ou NiFi.
+Proficiência em linguagens como Java, Python, JavaScript, C++, Scala ou Go.
+Forte capacidade analítica e de resolução de problemas.
+Capacidade de entender requisitos de negócio complexos e transformá-los em protótipos de forma ágil.
+Morar na região de São Paulo para visitar clientes e o escritório da Google conforme demanda. 
+
+Nice To Have Skills
+Experiência com ambientes em nuvem (preferencialmente Google Cloud).
+Familiaridade com produtos da GCP como BigQuery, Cloud Composer, Dataproc, Pub/Sub e Dataflow.
+Experiência com ferramentas de Big Data como Hadoop, Hive, Pig, Spark, MapReduce.
+Vivência com streaming de dados em tempo real.
+Experiência liderando projetos de larga escala em bancos de dados, data warehouses e analytics.
+Conhecimento de práticas de desenvolvimento de software como metodologias ágeis e DevOps.
+Capacidade de extrair insights valiosos a partir de grandes volumes de dados.
+
+
+A Avenue Code reforça seu compromisso com a privacidade e com todos os princípios garantidos pelas legislações globais de proteção de dados mais rigorosas, como a GDPR, LGPD, CCPA e CPRA. Os dados dos(as) candidatos(as) compartilhados com a Avenue Code serão mantidos em sigilo e não serão transmitidos a terceiros não envolvidos, tampouco utilizados para finalidades distintas da candidatura a posições em aberto.
+Como empresa de consultoria, a Avenue Code poderá compartilhar suas informações com seus clientes e com outras empresas do grupo Compass UOL, às quais seus(as) consultores(as) estejam alocados para a prestação de serviços.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Software – Big Data
+
+Sobre a vaga
+Sobre a Posição
+
+Você fará parte de um time global responsável pelo desenvolvimento e sustentação de soluções tecnológicas voltadas ao processamento de dados em larga escala. Atuando como Engenheiro de Software com foco em Big Data, seu papel será essencial na criação de produtos com alcance internacional, colaborando com equipes multidisciplinares e utilizando tecnologias de ponta.
+
+Principais Desafios
+
+Colaborar com o time no design e construção de soluções baseadas em ferramentas de Big Data; 
+Desenvolver código limpo, sustentável e eficiente, seguindo boas práticas de engenharia de software; 
+Atuar de forma proativa na identificação e resolução de impedimentos; 
+Utilizar ferramentas de integração contínua e automação para acelerar a entrega de soluções voltadas à engenharia de dados e analytics. 
+
+Responsabilidades
+
+Desenvolver e manter processos de carga de dados em lote (Batch); 
+Apoiar tecnicamente o time, orientando na definição de soluções; 
+Investigar e resolver incidentes em ambiente produtivo; 
+Garantir a evolução contínua dos processos de dados, propondo melhorias e correções; 
+Participar da análise técnica de demandas e liderar iniciativas de aprimoramento contínuo. 
+
+Requisitos Obrigatórios
+
+Experiência no desenvolvimento de soluções para processamento distribuído de dados; 
+Conhecimento sólido em Java; 
+Vivência com ferramentas e frameworks de Big Data; 
+Experiência com Spring Batch, SQL e MongoDB; 
+Domínio de padrões de projeto (Design Patterns); 
+Conhecimento em arquitetura de microsserviços, tópicos e filas. 
+
+Diferenciais Que Valorizamos
+
+Experiência com Databricks, Datalake e Scala; 
+Conhecimento em pipelines de CI/CD; 
+Familiaridade com Azure e práticas DevOps; 
+Atuação prévia com metodologias ágeis (Scrum, Kanban, etc.). 
+
+Por que construir sua carreira na Meta?
+
+Oferecemos autonomia, metas claras e um ambiente dinâmico e desafiador, onde os profissionais têm oportunidade de interagir com diferentes tecnologias, participar de todos os tipos de projetos, trazer novas ideias e trabalhar de qualquer lugar do Brasil e (por que não?) do mundo. Além disso, somos uma das melhores empresas para se trabalhar no Brasil segundo o Great Place to Work e uma das 10 empresas que mais crescem no país há 3 anos consecutivos, segundo o Anuário Informática Hoje.
+
+Quais são nossos valores?
+
+ Somos pessoas servindo pessoas
+ Pensamos e agimos como donos
+ Temos gana por performance
+ Crescemos e aprendemos juntos
+ Buscamos excelência e a simplicidade
+ Temos inovação e criatividade no nosso DNA
+
+Todas as pessoas são bem-vindas independentemente de sua condição, deficiência, etnia, crença religiosa, orientação sexual, aparência, idade ou afins. Queremos que você cresça conosco em um ambiente acolhedor e repleto de oportunidades.
+
+Se identificou? Então, #VemSerMeta!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Senior
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Desenvolvedor de Dados você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Curso superior na área de tecnologia da informação;
+Experiência com Python: Para manipulação de dados, automação de processos e desenvolvimento de pipelines.
+Java/Scala: ferramentas como Apache Spark. PySpark: A API do Apache Spark para Python, permitindo processamento de dados em larga escala e análise de dados distribuídos.
+Bancos de Dados SQL
+NoSQL (MongoDB, Cassandra)
+Plataformas de Big Data: Databricks
+
+Principais responsabilidades:
+
+Desenvolvimento de Pipelines de Dados: Projetar, construir e manter pipelines de dados eficientes para a extração, transformação e carga (ETL) de dados de diversas fontes.
+Integração de Dados: Integrar dados de diferentes sistemas e fontes, garantindo a qualidade e a consistência dos dados.
+Modelagem de Dados: Criar e manter modelos de dados que suportem as necessidades de análise e relatórios da equipe de Finanças.
+Otimização de Performance: Monitorar e otimizar o desempenho dos pipelines de dados e das consultas em bancos de dados, garantindo eficiência e rapidez no processamento.
+Trabalho com Big Data: Utilizar ferramentas de Big Data, como Apache Spark e Databricks, para processar grandes volumes de dados em tempo real.
+Garantia de Qualidade dos Dados: Implementar processos de validação e limpeza de dados para garantir a integridade e a precisão das informações.
+Colaboração com Equipes Multifuncionais: Trabalhar em estreita colaboração com cientistas de dados, analistas de negócios e outras partes interessadas para entender as necessidades de dados e fornecer soluções adequadas.
+Documentação: Documentar processos, pipelines e modelos de dados para garantir que as informações sejam acessíveis e compreensíveis para outros membros da equipe.
+Segurança e Conformidade: Garantir que as práticas de manipulação de dados estejam em conformidade com as políticas de segurança e regulatórias, especialmente em um ambiente financeiro.
+Atualização e Aprendizado Contínuo: Manter-se atualizado sobre as últimas tendências e tecnologias em engenharia de dados, Big Data e ferramentas de análise.
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Desenvolvimento Kotlin, Java, Python AWS - 123816
+
+Sobre a vaga
+Sobre a vaga
+
+Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil.
+Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos.
+Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital.
+
+O que estamos buscando?
+
+Desenvolvimento Salesforce Sênior
+
+Requisitos:
+Kotlin, com ênfase em Java Spring Boot, Python e AWS. Requisitos Técnicos: Kotlin (Habilidade Principal). Experiência com Kotlin para desenvolvimento backend. Conhecimento em frameworks como Ktor ou Spring Boot com Kotlin. Boas práticas de programação funcional e orientada a objetos em Kotlin. - Uso de coroutines para programação assíncrona. - Testes automatizados com JUnit, MockK ou Kotest. Java + Spring Boot. Experiência com Spring Boot e seus módulos (Spring MVC, Spring Data, Spring Security, Spring Cloud). - Uso de JPA/Hibernate para persistência de dados. - Desenvolvimento de APIs RESTful e GraphQL. - Testes com JUnit, Mockito, Testcontainers. Python. Conhecimento básico ou intermediário para **scripts, automação e integração**. - Experiência com frameworks como **FastAPI ou Flask** é um diferencial. - Manipulação de dados com **Pandas e NumPy** (caso necessário). **AWS (Cloud)** - Experiência com **AWS Lambda, S3, DynamoDB, RDS, API Gateway e IAM**. - Infraestrutura como código (**Terraform, AWS CDK ou CloudFormation**). - Monitoramento e logging com **CloudWatch**. - Conhecimento em **ECS, EKS ou Kubernetes** é um diferencial. **Outros Conhecimentos Desejáveis** - Experiência com **CI/CD (Jenkins, GitHub Actions, GitLab CI, ArgoCD)**. - Banco de dados **SQL (PostgreSQL, MySQL) e NoSQL (MongoDB, DynamoDB)**. - Mensageria com **Kafka ou RabbitMQ**. - Containers e Docker. - Arquitetura de microsserviços e eventos. Principais Responsabilidades do Desenvolvedor 1. Arquitetura e Desenvolvimento Backend Criar e manter microsserviços escaláveis usando Kotlin (Spring Boot). Projetar e desenvolver APIs REST e GraphQL. Implementar boas práticas de clean code, design patterns e SOLID. Gerenciar persistência de dados utilizando PostgreSQL, DynamoDB ou MongoDB. 2. Integração com AWS e Infraestrutura Desenvolver e otimizar soluções utilizando AWS Lambda, S3, DynamoDB, API Gateway e RDS. Criar pipelines de infraestrutura como código (Terraform ou AWS CDK). Implementar monitoramento e logging com AWS CloudWatch e Prometheus. 3. Processamento e Automação de Dados Construir pipelines de processamento de dados com Kafka ou AWS Kinesis. Criar automações e scripts auxiliares em Python para análise de dados, ETL ou machine learning. 4. Segurança e Performance Implementar OAuth2, JWT ou AWS Cognito para autenticação e autorização. Monitorar performance e escalabilidade, otimizando queries e serviços. 5. DevOps e CI/CD Automatizar deploys utilizando Docker, Kubernetes, ECS/Fargate ou EKS. Configurar pipelines de CI/CD (GitHub Actions, GitLab CI, Jenkins). 6. Colaboração e Melhoria Contínua Trabalhar em equipe, revisando códigos (Code Review) e propondo melhorias. Manter documentação técnica clara e atualizada. Participar de decisões arquiteturais e estratégias de evolução do sistema.
+ Requisitos e Qualificações: 
+Experiência com OmniStudio, aplicando aceleradores prontos para uso e personalizando-os para as necessidades da indústria de energia e serviços públicos;
+Conhecimento em Business Rule Engine (BRE) para otimização de regras de negócios e processos de precificação complexos;
+Experiência com Orchestration Management (OM), incluindo decomposição de pedidos e desenvolvimento de planos de orquestração para processos complexos e multi-step;
+Conhecimento em Contract Lifecycle Management (CLM) será considerado um diferencial, especialmente para gerenciar contratos ao longo de seu ciclo de vida, da criação à renovação e fechamento;
+
+Descrição comportamental: 
+Procuramos uma pessoa que:
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+Tenha habilidades de resolução de problemas;
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+
+O que oferecemos:
+
+Cartão multi-benefícios – você escolhe como e onde utilizar;
+Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas;
+Programas de incentivo à Certificações;
+Horário de trabalho flexível;
+Plano personalizado de carreira e possibilidade de carreira internacional;
+Salários competitivos;
+Avaliação de desempenho anual com possibilidade de bonificação;
+Gympass;
+Previdência Privada;
+Auxílio-Creche;
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+
+Big enough to deliver – small enough to care.
+#VempraGFT
+#VamosVoarJuntos
+#ProudToBeGFT
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior AI Engineer (Conversational AI)
+
+Sobre a vaga
+Chatbot Engineer (Senior)
+
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+TELUS Digital seeks an AI Engineer with strong conversational AI and architecture skills to turn client needs into scalable generative AI solutions. You’ll design and implement conversational AI architectures, working with stakeholders and conversation designers to build, test, and optimize LLM-driven workflows. Using API development, SQL, and the Google suite, you’ll integrate, prompt engineer, and secure AI models while ensuring compliance and performance.
+
+Responsibilities
+
+Discover and analyze business requirements, being the advocate for the customer while also understanding existing technology capabilities.
+Develop application architecture design for high complexity projects, with emphasis on technical architecture, and implement solutions.
+Participate in the review of detailed design specifications, test plans, and user documentation for functional and technical completeness and accuracy.
+Bring creativity, strong logic skills, and the ability to work in a dynamic, challenging, and consultative environment.
+Apply your knowledge of software engineering and AI systems to develop AI solutions targeted at conversational AI use cases.
+Partner with Conversation Designers who specialize in advanced linguistics and conversational best practices, ensuring optimal architecture and conversational flows are being designed.
+Take ownership of implementing and optimizing conversational flows, prompt engineering, and AI components, ensuring they meet project needs with high complexity and scale.
+Navigate and manipulate generative AI models, including large language models, to create prompts and solutions tailored to specific use cases.
+Develop and incorporate AI solutions while adhering to industry best practices, including moderation, security, and compliance standards.
+Lead the charge in testing and evaluating conversational flows, leveraging standard metrics to ensure alignment with business objectives.
+Meet with stakeholders and partners, understanding requirements and translating technical concepts into non-technical verbiage.
+
+Qualifications
+
+Experience with call center technology, Virtual Assistants, GenAI-powered Chatbot development, and conversational voice and chat implementations.
+Experience in the GCP environment, including Google Dialogflow CX, Google CCAI, Google CES, or similar.
+Demonstrable experience with Generative AI and NLP, leveraging LLMs, and prompt engineering for conversational use cases.
+Strong prompt engineering skills, understanding, and leveraging key techniques such as zero-shot, few-shot, chain-of-thought, and others.
+Understanding of the trade-offs between generative AI models and the ability to choose the right model for specific use cases.
+Experience with API development with Python and/or JavaScript, and SQL and SQL-based databases. 
+Experience with solution observability, monitoring, and performance evaluation.
+Familiarity with testing and evaluating AI systems using state-of-the-art methods and best practices.
+Self-starter characteristic, willing to operate nimbly to drive execution/to meet deliverables, and experience working remotely.
+Ability to communicate complex technical terms and concepts effectively to technical and non-technical stakeholders.
+Present strong analytical, creative thinking, decision-making skills, and have the ability to think outside the box to drive continuous improvement.
+Strong collaboration skills and ability to work alongside Data Science specialists, drawing on their expertise in AI model development and fine-tuning to deliver sophisticated AI solutions.
+
+Bonus Points
+
+Experience with data embeddings and vector databases, understanding the trade-off between available options, and leveraging it to optimize data ingestion.
+Experience designing and implementing large-scale conversational systems for a large number of intents and use cases.
+Previous experience in the contact center world.
+Contributions to AI thought leadership in the industry.
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------

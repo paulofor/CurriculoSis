@@ -1,0 +1,246 @@
+[Oportunidade 1]
+Oportunidade: Pessoa Engenheira de Dados
+
+Sobre a vaga
+About The Team
+
+Sobre a Shô 
+
+Aqui na Shô, acreditamos que cada membro de nossa equipe é fundamental para o nosso sucesso, e que diversidade de perspectivas e vivências são essenciais para movimentar nosso negócio e impulsionar o nosso propósito de mudar o mundo para melhor. Fazer parte do nosso time é a oportunidade de se desenvolver dentro de uma cultura de muita agilidade. Se você ama assumir grandes responsabilidades e fazer o que nunca foi feito, a Shô é seu lugar. Aqui você terá grandes desafios, trabalhará em colaboração com um time diverso e contribuirá para o futuro do e-commerce no Brasil, criamos impacto positivo na vida de milhões de pessoas.
+
+Qual será a sua missão
+
+Estamos em busca de um(a) Engenheiro(a) de Dados para se juntar à nossa equipe de Produtos Locais e nos ajudar a expandir e otimizar a modelagem e os pipelines de dados. Procuramos alguém com experiência, que goste de construir e melhorar sistemas do zero, apoiando desenvolvedores, analistas e cientistas de dados, garantindo que a arquitetura de dados funcione bem em todos os projetos. É importante ser proativo(a), saber lidar com demandas de diferentes equipes e ter entusiasmo para repensar e aprimorar as estruturas de dados que darão suporte à próxima geração de produtos e iniciativas da empresa.
+
+Job Description
+
+Como será o seu dia a dia
+
+Criar e manter uma arquitetura de pipeline de dados ideal;
+Montar conjuntos de dados complexos que atendam aos requisitos funcionais e não funcionais do negócio;
+Identificar, projetar e implementar melhorias em processos internos, como automação de tarefas manuais, otimização da entrega de dados e reestruturação da infraestrutura para maior escalabilidade;
+Construir a infraestrutura necessária para extração, transformação e carregamento (ETL) de dados a partir de diversas fontes, utilizando SQL e tecnologias da nuvem GCP;
+Desenvolver ferramentas analíticas que aproveitem o pipeline de dados para gerar insights acionáveis sobre aquisição de clientes, eficiência operacional e outros indicadores-chave de desempenho;
+Colaborar com stakeholders das equipes Executiva, de Produto, Dados e Design para resolver questões técnicas relacionadas a dados e apoiar suas necessidades de infraestrutura;
+Garantir que os dados permaneçam separados e seguros em diferentes regiões e data centers, respeitando fronteiras nacionais;
+Criar ferramentas de dados para a equipe de análise e cientistas de dados, ajudando-os a desenvolver e otimizar nossos produtos rumo à liderança no setor;
+Trabalhar com especialistas em dados e analytics para ampliar a funcionalidade dos nossos sistemas de dados.
+
+Requirements
+
+O que você precisa para assumir o desafio 
+
+Conhecimento avançado em SQL e experiência com bancos de dados relacionais, incluindo criação de queries e familiaridade com diversos tipos de bancos de dados;
+Experiência na construção e otimização de pipelines de dados, arquiteturas e conjuntos de dados;
+Vivência na análise de causa raiz em dados e processos internos e externos, com foco em responder perguntas de negócio e identificar oportunidades de melhoria;
+Sólidas habilidades analíticas para trabalhar com conjuntos de dados não estruturados;
+Capacidade de construir processos que apoiem a transformação de dados, definição de estruturas, metadados, gerenciamento de dependências e de carga de trabalho;
+Experiência com manipulação, processamento e extração de valor a partir de grandes conjuntos de dados desconectados;
+Conhecimento em filas de mensagens e processamento de dados em tempo real (streaming) é desejável
+Experiência com bancos de dados relacionais e NoSQL, como Postgres, MySQL e MongoDB (incluindo técnicas de sharding e replica sets);
+Vivência com escalabilidade e alta disponibilidade de bancos de dados;
+Experiência com recursos da Google Cloud Platform (GCP);
+Conhecimento em linguagens de script orientadas a objetos ou funcionais, como Python, Golang ou Shell Script, é um diferencial.
+
+Benefícios
+
+Assistência médica e odontológica, estendendo-se aos dependentes;
+Parceira com Wellhub (Gympass) e TotalPass;
+Vale Refeição/Alimentação flexível;
+Vale Transporte ou, Vale Mobilidade;
+Benefício flexível;
+Parceria com o app Zenklub;
+Bônus anual discricionário, atrelado à performance.
+
+VEM FAZER HISTÓRIA COM A GENTE.
+
+O QUE TE FAZ ÚNICO, NOS FAZ MELHORES!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor Inteligência Artificial jr/pleno
+
+Sobre a vaga
+Estamos em busca de um Desenvolvedor de IA apaixonado por tecnologia e inovação para se juntar à nossa equipe dinâmica. O profissional será responsável pelo desenvolvimento de plataformas digitais que integram soluções de inteligência artificial, com foco em processamento de linguagem natural (NLP), IA generativa e aprendizado de máquina. Se você possui experiência com as principais ferramentas e linguagens do setor e está disposto a enfrentar novos desafios, queremos conhecê-lo!
+
+Responsabilidades:
+- Projetar, desenvolver e implementar soluções de software utilizando tecnologias de inteligência artificial.
+- Trabalhar com algoritmos e técnicas específicas de IA, incluindo NLP e aprendizado de máquina.
+- Implementar soluções de IA utilizando linguagens de programação como Python, JavaScript/TypeScript/Node.js.
+- Utilizar frameworks de IA, como PyTorch, Scikit-Learn e Langchain, para desenvolver soluções escaláveis.
+- Implementar soluções de NLP com ferramentas como NLTK, spaCy e Hugging Face Transformers.
+- Realizar pré-processamento de texto, incluindo tokenização, criação de embeddings e remoção de stop words.
+- Trabalhar com Modelos de Linguagem de Grande Porte (LLMs), como GPT e Llama, aplicando melhores práticas de arquitetura de software.
+- Desenvolver aplicações web utilizando frameworks como FastAPI e React (NextJS).
+- Colaborar na implementação de soluções utilizando MLOps, Docker e Kubernetes para a implantação de modelos de IA.
+- Participar de processos de HAG (Hiper-Agilidade) para garantir entregas rápidas e eficientes.
+- Integrar e otimizar embeddings para melhorar a performance das soluções de IA.
+
+Requisitos:
+- Experiência com N8N
+- Experiência com RAG (Retrieval-Augmented Generation) e otimização de embeddings.
+- Experiência sólida no desenvolvimento de software para aplicações de inteligência artificial.
+- Proficiência em linguagens de programação: Python, JavaScript/TypeScript/Node.js.
+- Experiência com frameworks de IA, como PyTorch, Scikit-Learn e Langchain.
+- Conhecimento em bibliotecas de NLP, como NLTK, spaCy e Hugging Face Transformers.
+- Experiência em pré-processamento de texto e implementação de LLMs.
+- Vivência em arquiteturas de software escaláveis e de alto desempenho voltadas para IA.
+- Conhecimento em desenvolvimento web com FastAPI e React (NextJS).
+- Experiência com MLOps, Docker e Kubernetes para implantação de modelos de IA.
+- Habilidade de trabalho em equipe e boa comunicação.
+
+
+🥳 Benefícios:
+• Vale Refeição/Vale Alimentação
+• Assistência médica
+• Assistência odontológica
+• Day Off
+• Gympass
+• Auxílio Creche
+• Assistência Pet
+• Auxílio Combustível
+• Auxílio Home Office
+• Reembolso Educacional
+• E-learning - Academia Stefanini com diversos cursos
+• Mentoring - Plataforma de Mentoria (Essa é uma oportunidade para conhecer pessoas, desenvolver habilidades e compartilhar experiências.)
+• Descontos em instituições para Graduação, Pós Graduação, Idiomas e Cursos
+• Vantagens e descontos nos melhores estabelecimentos
+• Programa de Formação de Líderes
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+NEORIS é uma acelerador Digital que ajuda empresas a entrar no futuro, temos mais de 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Somos mais de 4.000 profissionais em 11 países, temos uma cultura de startup multicultural onde cultivamos inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes.
+
+Procuramos Cientista de Dados Sênior – Vaga Híbrida (Rio de Janeiro)
+
+Principais Responsabilidades
+
+Analisar grandes volumes de dados estruturados e não estruturados para gerar insights e apoiar decisões estratégicas.
+Desenvolver e implementar modelos preditivos e soluções de Machine Learning alinhadas aos desafios de negócio.
+Criar e manter pipelines de dados para análise, modelagem e disponibilização eficiente das informações.
+Comunicar descobertas, recomendações e resultados de forma clara e objetiva para diferentes públicos.
+Colaborar com equipes multidisciplinares para produtificar soluções de IA e garantir boas práticas de versionamento, testes e monitoramento de modelos em produção.
+
+Requisitos
+
+Proficiência em Python e SQL, com experiência em manipulação de grandes volumes de dados.
+Vivência com computação em nuvem (GCP e/ou AWS) e frameworks de Machine Learning (Scikit-learn, TensorFlow, PyTorch).
+Sólido conhecimento em estatística, testes de hipótese e técnicas de ML (classificação, regressão, séries temporais, etc.).
+Experiência em criação e manutenção de pipelines de dados e versionamento de código com Git.
+Capacidade de comunicação clara e assertiva de insights baseados em dados.
+Formação em Ciência de Dados, Estatística, Matemática, Computação, Engenharia ou áreas correlatas será considerada diferencial
+
+Oferecemos
+
+Vale Refeição e Vale Alimentação: Benefícios mensais para suas despesas com alimentação, dentro e fora de casa. 
+Previdência Privada: Planejamento de futuro com contribuição complementar à aposentadoria. 
+Plano de Saúde: Cobertura médica de alta qualidade para você e seu dependente legal. 
+Plano Odontológico: Cuidados odontológicos completos, com ampla rede de atendimento. 
+Seguro de Vida: Proteção e segurança para você e seus entes queridos. 
+Aulas de Inglês/Espanhol: Incentivo ao aprendizado de idiomas. 
+Wellhub: Benefícios e descontos em academias e programas de bem-estar. 
+Auxílio Creche: Suporte financeiro para despesas com educação infantil. 
+Neoris Global Campus: Plataforma de desenvolvimento com oportunidades contínuas de aprendizado e crescimento profissional. 
+
+Te convidamos a nos conhecer em http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: 1ae1 Analista EXTRAÇÃO DE DADOS III
+
+Sobre a vaga
+A Extreme Digital Solutions é uma empresa jovem, fundada em 2014, antenada nas mais modernas tendências e tecnologias.
+
+Temos como missão tornar negócios mais simples e eficientes, e, na nossa essência, a busca e integração de soluções para as mais complexas e diversas necessidades dos negócios de nossos clientes.
+
+Ao longo desse tempo atingimos a marca de 1000 colaboradores no Brasil e temos na bagagem centenas de projetos desafiadores, com uso intenso de inteligência artificial, e uma visão sempre cuidadosa com a experiência do usuário e sucesso do cliente.
+
+Um papel na EDS é uma oportunidade para fazer parte de algo diferenciado. Somos uma empresa que não tem medo de assumir riscos e inovar. Sim, somos aventureiros e gostamos disso!
+
+Nosso time de talentos tem espaço para você que quer crescer e entregar resultados surpreendentes!
+
+O que você fará?
+
+Levantamentos /Cruzamentos de dados com PL/SQL nas bases de dados. 
+Criação/Manutenção de procedures e functions PL/SQL. 
+Modelagem de dados. 
+Levantamento de requisitos para desenvolvimento de aplicações batch; Criação /Manutenção de relatórios automáticos enviados por e-mail. 
+Extração e compartilhamento de dados, devidamente autorizados. 
+Provimento e geração soluções tecnológicas para uso, consumo e acesso a dados custodiados na SEFAZ-RJ, tanto para usuários internos como externos. 
+Aplicação de técnicas de otimização e melhoria de desempenho nos ambientes analíticos e nos produtos de dados, visando a melhoria da experiência do usuário. 
+
+Outras Informações
+
+Condições PJ: Valor fixo e 10 dias de ausência remunerada
+
+A Todos os nossos colaboradores também estendemos em nossos escritórios:
+
+Check in premiado: Cada ida ao escritório gera um número da sorte para concorrer a prêmios semanais, mensais e anuais.
+Aulas de Inglês gratuítas ministradas por professores qualificados até 2x na semana
+Serviços de bem-estar e saúde como: 💅Manicure 🧔🏾Barbearia 💆🏻‍♂ Massagem 💇🏽‍Cabelereiro
+
+About The Company
+
+Simplificamos o mundo com tecnologia e inovação, tornando organizações mais simples e eficientes.
+
+Venha fazer parte desse time comprometido com tornar a experiência dos clientes e usuários cada vez melhor!
+
+#venhaserumExtremer
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+Buscamos um Engenheiro de Dados para atuar no time de Data Analytics, com foco em projetos de CRM e governança de dados. Será responsável por estruturar e manter pipelines eficientes, integrar dados de diferentes fontes (incluindo APIs), garantir a qualidade e segurança das informações, e operar em ambientes cloud (AWS e Azure). Além disso, será esperado que contribua diretamente no desenvolvimento de agentes de IA baseados em modelos de linguagem (LLMs), aplicados a soluções internas de automação e inteligência.
+
+Responsabilidades
+
+Desenvolver e manter arquiteturas e pipelines de dados escaláveis, utilizando recursos de AWS (S3, Glue, Lambda, etc.) e Azure (Data Factory, Synapse, etc.);
+Automatizar fluxos de dados, garantindo performance, qualidade e confiabilidade das soluções;
+Realizar integrações com APIs e webhooks para ingestão de dados de fontes internas e externas;
+Estruturar e transformar dados para data lakes e data warehouses, assegurando sua integridade e segurança;
+Trabalhar com modelagem de dados relacional e não relacional, orientada a consumo analítico;
+Colaborar com áreas de negócio para entender demandas e propor soluções eficientes;
+Desenvolver agentes de IA utilizando LLMs e frameworks de inteligência artificial, voltados à automação de processos.
+
+Qualifications
+
+Obrigatórios:
+
+Formação superior em Ciência da Computação, Engenharia, Estatística ou áreas relacionadas;
+Experiência como Engenheiro de Dados, com atuação comprovada em ambientes cloud (AWS e Azure);
+Domínio em SQL e Python, com capacidade de otimização de consultas e entendimento de performance em banco de dados;
+Vivência com Databricks, ETL/ELT e integração de dados via APIs;
+Conhecimentos sólidos em modelagem de dados e estruturas relacionais e não relacionais;
+Boa comunicação e trabalho em equipe.
+
+Diferenciais
+
+Experiência com AWS Glue, Lambda, Athena ou Azure Synapse;
+Conhecimento em modelos de linguagem (LLMs) e experiência prática no desenvolvimento de agentes de IA;
+Familiaridade com soluções modernas de engenharia de dados aplicada à automação e inteligência de negócio.
+
+Qualificações
+
+Experiência como Engenheiro de Dados, com atuação comprovada em ambientes cloud (AWS e Azure)
+Domínio em SQL e Python, com capacidade de otimização de consultas e entendimento de performance em banco de dados;
+Vivência com Databricks, ETL/ELT e integração de dados via APIs
+Conhecimentos sólidos em modelagem de dados e estruturas relacionais e não relacionais;
+Boa comunicação e trabalho em equipe.
+
+Additional Information
+
+Na Serasa Experian, acreditamos que a diversidade é fundamental para um ambiente de trabalho mais saudável e inovador, onde todas as pessoas possam trocar experiências e expressar suas ideias. Por isso, contamos com diversas ações para promover um recrutamento inclusivo e apoiar no desenvolvimento profissional das nossas pessoas. Além disso, temos os nossos grupos de afinidade, criados para empoderar e acolher as pessoas de grupos sub-representados:ExperianPride (comunidade LGBTQIAPN+), Ubuntu (equidade racial), Women in Experian (equidade de gênero) e Aspire (pessoas com deficiência) e Connecting Generations (gerações). Venha fazer parte dessa transformação!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------

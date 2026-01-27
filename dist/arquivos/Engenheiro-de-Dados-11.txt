@@ -1,0 +1,293 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro(a) de Software Sênior (Full Stack)
+
+Sobre a vaga
+Funções que serão desempenhadas: 
+
+ Projetar, desenvolver e operar aplicações de alta escala em toda a stack de engenharia; 
+ Aplicar práticas modernas de desenvolvimento de software (computação serverless, arquitetura de microsserviços, CI/CD, infraestrutura como código, etc.); 
+ Participar de discussões sobre roteiros de tecnologia e arquitetura para transformar os requisitos e a visão de negócios em realidade; 
+ Fazer a triagem de problemas de produtos ou sistemas e depurar/rastrear/resolver analisando as fontes dos problemas e o impacto na rede ou nas operações e qualidade do serviço; 
+ Gerenciar prioridades, prazos e entregas exclusivas dos projetos; 
+ Pesquisar, criar e desenvolver aplicativos de software para ampliar e melhorar as soluções Equifax; 
+ Colaborar em questões de escalabilidade que envolvem acesso a dados e informações; 
+ Participar ativamente do planejamento das sprints, das retrospectivas e de outras atividades da equipe. 
+
+ Requisitos necessários: 
+
+ Formação superior e/ou cursos voltado para TI; 
+ Experiência em engenharia/desenvolvimento de software (full stack); 
+ Experiência em escrita, depuração e solução de problemas de código em Java (mandatório), Python (desejável) e React (mandatório); 
+ Experiência com tecnologia cloud: GCP, AWS ou Azure (mandatório); 
+ Experiência projetando e desenvolvendo soluções nativas em nuvem; 
+ Experiência na implantação e lançamento de software usando pipelines Jenkins CI/CD, compreensão de conceitos de infraestrutura como código, Helm Charts e construções Terraform. 
+
+#BVS
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates either in Latin America, Africa, or Eastern Europe who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+
+
+Responsibilities
+
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java or Groovy or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice-to-have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on NoSQL technologies
+Hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+You can start as soon as possible, ideally immediately
+You are located in either Latin America, Africa, or Eastern Europe
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+Hiring Manager (client) interview (30 min)
+Design & development competency check interview (client) (about 45 minutes)
+Final (client) interview (30 min)
+ 
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+
+ What we offer
+
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Lead Data Engineer - Remote - Latin America
+
+Sobre a vaga
+About FullStack
+
+FullStack is the fastest-growing software consultancy in the Americas. We help organizations like Uber, GoDaddy, MGM, Siemens, and Stanford University build distributed software development teams, and deliver transformational digital solutions. As an employee-first company, we focus on hiring the most talented software designers and developers in the western hemisphere, by creating a positive, respectful, and supportive work environment where they can achieve their greatest potential.
+
+We’re Most Proud Of
+
+Offering life-changing career opportunities to talented software professionals across the Americas.
+Building highly-skilled software development teams for hundreds of the world’s greatest companies.
+Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+Our 4.5-star rating on GlassDoor.
+Our client Net Promoter Score of 68, twice the industry average.
+
+The Position
+
+We're Looking To Hire a Lead Data Engineer To Join Our Team. You'll Work With Our Incredible Clients In One Of Two Ways
+
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+What We Are Looking For
+
+6+ years of professional experience in Data Engineering.
+Proven experience as a Team Leader.
+Proven experience working with SnowFlake.
+Advanced English is required.
+Experience working on Agile/Scrum teams.
+Successful completion of a four-year college degree is required.
+Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.
+Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+Ability to consistently work 40 hours per week.
+
+What We Offer
+
+Competitive pay in your local currency.
+100% remote work.
+The ability to work with leading startups and Fortune 500 companies.
+English Classes.
+Virtual company events each month.
+Ample opportunity for career advancement.
+Continuing education opportunities.
+Depending on your location other benefits may apply.
+
+FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form, which can be provided upon request during our hiring and interview process.
+
+Learn more about our Applicants Privacy Notice.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Core Infrastructure Engineer - Platforms Orchestration
+
+Sobre a vaga
+Building the Future of Crypto 
+
+Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.
+
+What makes us different?
+
+Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.
+
+Before you apply, please read the Kraken Culture page to learn more about our internal culture, values, and mission. We also expect candidates to familiarize themselves with the Kraken app. Learn how to create a Kraken account here.
+
+As a fully remote company, we have Krakenites in 70+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like Kraken Pro, Kraken NFT, and Kraken Futures.
+
+Become a Krakenite and build the future of crypto!
+
+Proof of work
+
+The team
+
+Join our Core Infrastructure - Platforms Team and start playing a vital role in managing and enhancing Kraken's engineering platform! The Core Infrastructure - Platform team is responsible for managing and applying best practices to our orchestration platform while providing infrastructure support across Engineering.
+
+The Core Infrastructure - Platforms Team at Kraken is dedicated to creating a secure, reliable, and scalable infrastructure platform that facilitates a continuous approach to our software development practices. Lately, the team has been focusing on providing a self-service platform for engineers to easily access and manage their services in the clusters the team provides, and manages.
+
+Find out more about Core Infrastructure Engineering in our latest engineering blogpost! 
+
+The opportunity
+
+Extend and automate the existing container orchestration platform, ensuring its scalability, reliability, and performance.
+Work closely with SREs from different teams to reduce their cognitive load related to the orchestration platform.
+Implement and maintain security best practices for the orchestration platform, ensuring the security and availability of our systems.
+Troubleshoot and resolve infrastructure issues, as well as provide guidance and support to other team members.
+Participate in on-call rotations to ensure the smooth operation of our critical systems.
+
+Skills You Should HODL
+
+Strong background in Linux, Networking, and Distributed Systems.
+Significant hands-on experience with container orchestration platforms such as Nomad or Kubernetes in a high availability, production environment.
+Advanced proficiency in Infrastructure as Code (IaC) using Terraform.
+Extensive experience with AWS Cloud Infrastructure.
+Strong security mindset and experience implementing security best practices in a complex environment.
+Extensive experience with monitoring, logging and alerting tools.
+Significant experience with one or more of the following languages: Python, Go, Rust, Bash.
+Passion for improving processes, products, and the developer experience for engineering teams.
+Knowledgeable about continuous integration and delivery best practices.
+Excellent communication, interpersonal, and leadership skills.
+Ability to thrive while working independently and remotely in a team-based environment.
+Self-starter, capable of context-switching between various projects, codebases, and concepts.
+
+Nices to have
+
+Experience with other HashiCorp tools, such as Vault and Consul.
+
+ #USCANBR 
+
+This job is accepting ongoing applications and there is no application deadline.
+
+Please note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance at or graduation from an educational institution.
+
+We consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+
+Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!
+
+As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.
+
+Stay in the know
+
+Follow us on Twitter
+
+Learn on the Kraken Blog
+
+Connect on LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates in Latin America who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+Responsibilities
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java, or Groovy, or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice to have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on either SQL or NoSQL technologies
+ If you have experience with NoSQL technologies, then we would be looking for hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+If you have experience with SQL technologies, we need you to have in-depth experience building and maintaining services with SQL databases.
+You can start as soon as possible
+You are located in Latin America
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Experience with Amazon Athena
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+(Client) Hiring Manager interview (30 min)
+(Client) Design & development competency check interview (about 45 minutes)
+(Client) Final interview (30 min)
+
+
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+ 
+What we offer
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------

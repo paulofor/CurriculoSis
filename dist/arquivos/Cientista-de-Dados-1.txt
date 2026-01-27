@@ -1,0 +1,288 @@
+[Oportunidade 1]
+Oportunidade: Data Scientist SR
+
+Sobre a vaga
+Description
+
+Important Information 
+Location: Brazil
+ Job Mode: CLT 
+Work Mode: Work from home
+
+Job Summary
+We seek a talented and motivated Data Scientist to join our dynamic team. The ideal candidate will have a strong background in artificial intelligence, specifically in generative AI for image generation, deep learning for computer vision, and image processing. You will be responsible for developing and deploying AI applications using Azure AI Studio to enhance our product offerings.
+
+Responsibilities and Duties
+Develop and implement AI/ML models and applications for image generation tasks;
+Utilize Azure AI Studio to deploy, scale, and maintain AI models and applications;
+Conduct data analysis to extract meaningful insights and guide decision-making processes;
+Stay updated with the latest advancements in AI, image generation and computer vision to drive continuous innovation;
+Write and maintain clear, concise documentation for developed models and systems;
+Collaborate with cross-functional teams to integrate AI solutions into our products.
+
+Essential Skills
+Proven experience in using generative AI models for image generation;
+Strong understanding of computer vision principles and applications;
+Proficiency in Python and common AI/ML frameworks (e.g., TensorFlow, PyTorch);
+Hands-on experience with Azure technologies preferably Azure AI Studio;
+Solid understanding of data preprocessing, analysis, and visualization techniques.
+
+About Encora
+
+Encora is the preferred digital engineering and modernization partner of some of the world’s leading enterprises and digital native companies. With over 9,000 experts in 47+ offices and innovation labs worldwide, Encora’s technology practices include Product Engineering & Development, Cloud Services, Quality Engineering, DevSecOps, Data & Analytics, Digital Experience, Cybersecurity, and AI & LLM Engineering.
+
+At Encora, we hire professionals based solely on their skills and qualifications, and do not discriminate based on age, disability, religion, gender, sexual orientation, socioeconomic status, or nationality.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Senior Data Engineer 
+Andela 
+Location Requirement: Brazil, Canada, Egypt. 
+ About Andela 
+Andela exists to connect brilliance and opportunity. Since 2014, we have been dedicated to breaking down global barriers and accelerating the future of work for both technologists and organizations around the world. For technologists, Andela offers competitive long-term career opportunities with leading organizations, access to a global community of professionals, and educational opportunities with leading technology providers. 
+ At Andela, we’re deeply passionate about creating long-lasting and transformative growth opportunities for all - and doing it in an E.P.I.C. way! We’re excited to continue building our remote-first team with incredible people like you. After applying for this role, you will join our Andela Community of brilliant technologists by passing a technical screening and live interview. As a community member, you’ll have access to many exclusive technologist roles. Join Andela today to access this opportunity and more in our global marketplace! 
+ Our roles are typically filled at lightning speed, so if you’re considering applying, get your application in quickly! 
+ Andela´s Benefits: 
+-- 100% payment in USD. 
+ This is a fully remote opportunity for one of our esteemed clients.  
+ About the role 
+ Responsibilities: 
+Developing pipelines to ingest data across multiple security products and delivering this data for use in Cisco’s XDR product. 
+Using AWS services to deliver, process, and transform data 
+Managing and monitoring application health and status across testing and production systems to ensure stability, high availability, and consistent delivery of data for the product 
+Collaborating with other engineers to review code changes, communicate progress, and finalize system requirements 
+Testing new features using unit tests, manual verification, and supporting end-to-end integration tests 
+Building and maintaining data access layers to control access to sensitive data 
+The role is a 70/30 split between Data Engineering and Data Architecture respectivel 
+ Must have requirements: 
+Data Engineering 
+Python including libs e.g. pandas 
+AWS services e.g., Lambda, Redshift, RDS, S3 (nice to have services include: CloudWatch, Aurora, Kinesis, Firehose, SQS, SNS, IAM) 
+Terraform to help manage AWS serverless resources 
+Strong Data Architecture experience 
+Strong Communication & Stakeholder Management Skills 
+Self-directed & Autonomous 
+ Nice to have requirements: 
+Project tracking management software (e.g., Jira, GitHub) 
+CI/CD - control and continuous integration tools e.g., Jenkins, TeamCity, GitHub 
+Performance monitoring & error tracking solutions 
+Testing software code (e.g., manually testing functionality, writing automated unit tests, automating end-to-end tests) 
+Support 
+ Required skills 
+Data Engineering (7 - 9 yrs) 
+Python (4 - 6 yrs) 
+AWS (Amazon Web Services) (4 - 6 yrs) 
+Terraform (2 - 3 yrs) 
+ Optional skills 
+Jira (Atlassian) (4 - 6 yrs) 
+Jenkins (4 - 6 yrs) 
+ Must-Haves: Data Engineering (5+ years), Data Architecture (5+ years), Python (5+ years), AWS (5+ years), Terraform (2+ years) 
+ Main job time zone: EST 
+Time zone overlap requirements: Fully overlap hours with EST (9 am - 5 pm) 
+Location Requirements: Brazil, Canada, Egypt. 
+Working hours: Full-time dedication (8 hours/Day - 40 hours/week) 
+ Offer 
+Estimated Duration: 11-month-term contractor position (Renewable) 
+Full-time dedication (40 hours/week) 
+ At Andela, we know our strengths lie in our diverse community whose talents, perspectives, backgrounds, and orientations we take pride in. Andela is committed to nurturing a work environment where all individuals are treated with respect and dignity. Everyone has the right to work in a professional atmosphere that promotes equal employment opportunities and prohibits discriminatory practices. Andela provides equal employment opportunities to all employees and applicants without regard to factors including but not limited to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, pregnancy (including breastfeeding), genetic information, HIV/AIDS or any other medical status, family or parental status, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state and local laws. This commitment applies to all terms and conditions of employment, including but not limited to hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. Our policies expressly prohibit any form of harassment and/or discrimination, as stated above. 
+ Andela is home for all. Come as you are.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Somos "change-makers"!
+
+Combinamos nossa experiência global em indústrias-chave e as últimas tecnologias para ajudar empresas em rápido crescimento e estabelecidas a transformar e acelerar seus modelos de negócios, desenvolver soluções digitais inovadoras, escalar capacidades tecnológicas e sustentar seu crescimento.
+
+Construindo pontes em direção a um futuro melhor com mais oportunidades.
+
+Para garantir que estamos construindo um ambiente diverso e inclusivo que reflete a verdade sobre nossa cultura, bem como metas sociais e profissionais, buscamos recrutar com intencionalidade e foco cada vez maior em representatividade. Isso significa que consideramos expressões de gênero, etnia, raça, religião, orientação sexual e outros marcadores de identidade fatores que trazem ativos significativos para dentro da e-Core, garantindo que não existam barreiras para conectar talentos com oportunidades incríveis.
+
+Estamos comprometidos com os valores da Igualdade de Oportunidades de Emprego e todas as pessoas na e-Core são encorajadas a serem elas mesmas e incentivadas a desenvolver-se profissional e pessoalmente. #beyourself #beyourbest
+
+Como Data Engineer Você Terá Responsabilidades Como
+
+ Colaborar em equipes multifuncionais para traduzir requisitos de negócios em soluções analíticas;
+ Conduzir análises aprofundadas, revelando insights e padrões ocultos nos Dados;
+ Desenvolver ETLs para transformar Dados que resolvem problemas de negócios;
+ Desenvolver Plataformas de Processamento de Dados (Data Lake, Data Warehouse, Lake House, Data Mesh, etc)
+ Desenvolver dashboards e visualizações impactantes;
+ Ajudar os membros juniores da equipe e contribuir com estratégias de Dados e análises.
+
+Como Data Engineer Você Deve
+
+ Ser capaz de realizar análises e modelar dados para consulta analíticas para resolver problemas complexos;
+ Ter domínio da linguagem de programação Python;
+ Criar visualizações de Dados com ferramentas de BI;
+ Desenvolver APIs para consumo de dados;
+ Conhecimento avançado em SQL;
+ Processar de Dados Distribuídos (Apache Spark, PySpark);
+ Conhecer o Ecossistema de Big Data, Hadoop;
+ Conhecer avançado sobre Storage e Bancos de dados relacionais e analíticos;
+ Conhecimento avançado sobre de Data Lake, Data Warehouse e Lake House;
+ Conhecimento avançado de desenvolvimento de ETLs e Orquestração de pipelines de Dados;
+ Conhecimento de infraestrutura como código terraform.
+
+Desejável
+
+ Experiência em trabalhar com equipes multidisciplinares e colaborativas;
+ Conhecimento de ferramentas de gerenciamento de projetos como Jira;
+ Familiaridade com métodos ágeis e de entrega, principalmente SCRUM e CRISP-DM;
+ Familiaridade com DataOps;
+ Conhecimento de Databricks ou Snowflake;
+ Familiaridade com AWS Glue, Amazon EMR ou ferramenta semelhante;
+ Familiaridade com Amazon Redshift ou serviço semelhante;
+ Ser um AWS Data Analytics Speciality Certified / AWS Data Engineer Associate (ou certificação equivalente);
+ Conhecimento com GCP é um diferencial.
+
+Como e-Corean, você terá benefícios flexíveis no modelo da sua escolha:
+
+ Seguro de saúde, odontológico e de vida
+ Plano de saúde para seu pet (cobertura nacional)
+ Sessões periódicas de bem-estar
+ Gympass
+ Auxílio alimentação e/ou refeição
+ Cartão de múltiplos benefícios
+ 15 dias de férias a cada 6 meses (30 dias por ano)
+ Possibilidade de trabalhar desde o exterior (90 dias por ano)
+ Plano de Incentivo de Curto Prazo (PLR)
+ Plano de Previdência Privada
+ Possibilidade de escolher entre 5 modelos de trabalho
+ Onboarding Kit Personalizado (incluindo monitor, fones de ouvido / headset, teclado & outros presentes)
+ Auxílio mensal para trabalho remoto (de acordo com seu modelo de trabalho)
+ Horário de trabalho flexível
+ Auxílio estacionamento nos escritórios de SP e POA
+ Apoio financeiro para estudos e creche
+
+Privacy
+
+By submitting an application, I acknowledge that I have read and understood the e-Core Privacy Notice.
+
+Ao me inscrever, concordo que li e entendi a Política de Privacidade da e-Core.
+
+Privacy Policy (EN) / Política de Privacidade (PT-BR)
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Job Title: Senior Data Engineer
+Location: Rio de Janeiro (Hybrid)
+
+
+Overview:
+We are seeking a Senior Data Engineer to join our dynamic team. As a Senior Data Engineer, you will play a critical role in our data-driven journey, leading the development and maintenance of robust data infrastructure that supports risk and credit analysis, among other key areas. This position requires a deep understanding of data engineering practices, experience with Microsoft tools, as well as the ability to mentor and guide junior engineers.
+
+Key Responsibilities:
+
+Data Infrastructure Development: Development of foundational datasets for risk and credit analysis, including the collection and structuring of data from diverse sources.
+Cloud Migration: Successfully manage the migration of data across various cloud vendors, including Microsoft Azure, ensuring data consistency and availability.
+Data Quality Management: Design and implement a comprehensive data quality framework, ensuring the reliability of data across all pipelines.
+Mentorship: Provide mentorship to the analysts, and promote best practices in coding, data management, and automation.
+Automation and Efficiency: Automate data entry processes and other manual workflows, improving efficiency and saving valuable time.
+Pipeline Management: Engineer and maintain data pipelines capable of processing large volumes of data daily, optimizing data flow and system performance.
+Collaboration: Work closely with cross-functional teams, including data scientists, analysts, and business stakeholders, to ensure data assets meet business requirements.
+
+Skills & Qualifications:
+
+Technical Expertise: Proficiency in Python, SQL, Spark, and ETL processes. Experience with Delta, Databricks, Docker, and Apache Airflow is highly valued.
+Microsoft Tools: Strong experience with Microsoft Azure, Power BI, and SQL Server, with a proven track record of integrating and managing data within the Microsoft ecosystem.
+Data Modeling: Expertise in data modeling and handling unstructured data.
+Attention to Detail: Keen eye for detail, ensuring the accuracy and integrity of data.
+Workflow Management: Experience in managing data operations and workflow, with a focus on automation and dispute resolution.
+Communication Skills: Fluent in English, with the ability to articulate complex technical concepts to non-technical stakeholders.
+
+
+Experience Required:
+Minimum of 5 years of experience in data engineering roles.
+Prior experience working with Microsoft tools such as Azure, Power BI, and SQL Server.
+
+Why Join Us?
+
+Be part of an innovative quantification team.
+Work in a dynamic environment where your contributions will directly impact the business.
+
+
+Application Process:
+
+If you are a Senior Data Engineer looking to make a significant impact and grow your career in a forward-thinking company, we would love to hear from you. Apply today to join our team!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Analyst It/Digital
+
+Sobre a vaga
+Overview
+
+
+ Job ID- 501182 
+ Country- Brazil 
+ Location(s)- Rio De Janeiro 
+ Company- Equinor Energy do Brasil 
+ Contact Name- Equinor Recruitment Team 
+ Workplace- Onshore 
+ Discipline- Technology Management 
+ Education Preferred- Bachelor's Degree 
+ Experience Preferred- 5 - 7 Years 
+ Closing Date- Aug 22 2024 
+
+
+Job Description
+
+We're 23,000 colleagues in more than 30 countries delivering oil, gas, wind and solar power to 170 million people worldwide. Taking on tough energy challenges is our job. Right now, we're facing an enormous task- supplying the world with the energy it needs, while lowering emissions.
+
+We're up for the challenge. Are you?
+
+The positionBy joining our team in Exploration & Production International you will have the opportunity to-
+
+
+Support the team in delivering DIGIT services to the EPI business area in Brazil.
+Identify, describe, and follow up risks related to cyber security.
+Mature IT initiatives.
+IT operational issues.
+Assist in IT and Digital governance awareness.
+General support for the business area on IT and Digital issues.
+Work as a team member of the Digital team in in Brazil. 
+
+
+You
+
+Some qualities are essential for Equinor. You identify with our values, open, collaborative, courageous and caring, which guide our decisions and help us succeed and grow. You make safety your priority and contribute to our zero-harm culture. For this position, we are also looking for-
+
+
+Minimum Bachelor degree in Computer science or equivalent.
+Knowledge to core IT infrastructure.
+Some experience within development required.
+Basic knowledge on IT Cyber security.
+Knowledge on IT and Digital within the energy sector preferred.
+
+
+General information
+
+Please attach copies of your diplomas, certificates and grades in Portuguese, English or a Scandinavian language. Applications submitted without necessary attachments will unfortunately not be evaluated. If you are in the process of completing a degree, please upload an official temporary transcript or other document describing subjects and grades completed to this point.
+
+Candidates are expected to openly offer all relevant information about themselves during the recruitment process after signing a consent form. All permanent and temporary hires will be screened against relevant sanctions lists to ensure compliance with sanctions law, in addition to other relevant checks in order to safeguard our reputation. Furthermore, background checks are performed on all final candidates.
+
+Why join us?
+
+At Equinor, we care about each other as much as our business. That's why we offer-
+
+
+ Not just a job; a career. In Equinor, your development begins on day one. You will build your competence through a wide range of learning activities while being empowered to build your career across multiple disciplines and geographies. Our internal job market allows endless opportunities for development and growth within your own field or in other interesting and relevant areas for you.
+ Attractive rewards. We offer a comprehensive benefits package with competitive salaries, global parental leave, variable pay schemes.
+ Wellness and work-life balance. Our employees' well-being is a priority. We recognise that for you to be the best version of yourself in the workplace, being able to collect your children, attend a class or simply enjoy social time can be invaluable. That's why we encourage you to make use of our flexible work arrangements.
+ An inclusive culture. We believe embracing our differences makes us stronger. For us true inclusion means being able to bring your whole self to work, and for everyone to feel accepted and valued.
+
+
+For more information visit Equinor's website-
+
+We provide equal opportunity to all qualified individuals regardless of race, color, religion, age, sex, national origin, veteran status or disability.
+
+Providing this information is voluntary. We ask for this information to maintain records. Any information you voluntarily provide is confidential and will not be considered in making any employment decision. If you choose not to complete this form, it will not affect your being considered for employment.
+
+Processing of this information will be held in accordance with Law No. nº 13,709/2018 (“Brazilian General Personal Data Protection Law” or “LGPD”) and Equinor’s privacy policy [LINK]. You can exercise your rights as the data subject of such personal data as provided for in Art. 18 of the LGPD, including the revocation of the consent for personal data processing or clarification of questions you may have, via the email gm_brdataprotection@equinor.com.”
+
+Equinor will process sensitive personal data regarding disabilities with the purposes of analyzing if the candidate fulfills the legal requirement provided in the Law No. 8,213/1991, which may be used for the present and future recruiting processes.
+-----------------------------------------------------------------------------------

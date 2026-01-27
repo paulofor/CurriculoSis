@@ -1,0 +1,326 @@
+[Oportunidade 1]
+Oportunidade: Machine Learning Implementation Engineer
+
+Sobre a vaga
+OfferFit was founded by ex-McKinsey and BCG math PhDs, and we’re funded by leading Silicon Valley VCs. OfferFit replaces A/B testing with AI testing, powered by reinforcement learning AI. This allows lifecycle marketers to test & improve the performance of their campaigns much faster than before. Customers include leading brands like Brinks Home, Yelp, Engie, and MetLife, among many others.
+
+Note for Applicants: 
+
+Data shows that men on average apply for a role if they meet 6/10 requirements while women often only do so if it’s 10/10. We work hard to be clear and specific about what our roles require, and we encourage you to apply even if you don’t check all the boxes! Applying gives you the opportunity to be considered and we look forward to reviewing your application!
+
+Position Overview: 
+
+As our customer base continues to grow with the excitement around our product, we're looking to expand! Come join our Machine Learning Implementation Engineering team of creative technical experts who collaborate with customers to ensure their success with OfferFit!
+
+In particular, you will:
+
+Collaborate with customer Analytics/BI teams and OfferFit colleagues on implementations (use case definition, data integration, pipeline and ML model configuration, etc.)
+Extend product capabilities by improving architecture and developing reusable data pipelines, APIs, and components
+Work closely with the ML pipeline development team to improve self-learning (reinforcement learning) algorithms
+Participate in determining OfferFit’s product strategy and roadmap
+Oversee the continuous support OfferFit provides customers to ensure their success
+
+Technical Landscape:
+
+Data Science/Back End: Python (Pandas, TF, FastAPI, Great Expectations), SQL
+Web (not required for this role): JavaScript (Vue, Node.js), HTML, CSS
+Architecture/DevOps: Kubernetes, Airflow, Terraform, GCP
+Well-tested, type-hinted, documented, modular code and use pre-commit hooks, CI/CD, and issue tracking for development
+
+Why is it great: 
+
+No toy datasets in notebooks — we’re implementing AI pipelines in production at scale!
+Be the face of the company, working alongside our customers to help them succeed.
+Learn tons about data architecture, data science, and self-learning AI.
+Work in a team that not only talks the talk of development best practices, but walks the walk — unit & integration tests, modular design, CI/CD, pair programming, code reviews — the works.
+Join OfferFit’s fast-paced, supportive, and professional team. We make sure all of our team members are empowered and receive great mentorship and coaching.
+
+Who’s a Fit: 
+Exceptional coder: you write clean, object-oriented code; you care about good design and terse, testable APIs
+Tinkerer: you regularly explore and learn new technologies and methods
+Entrepreneurial: you proactively identify opportunities and risks, work around obstacles, and always seek creative ways to improve processes and outcomes
+Structured and organized: you can structure a plan, align stakeholders, and see it through to execution
+Clear communicator: you are able to express yourself clearly and persuasively, both in writing and verbally
+
+Additional Requirements: 
+Candidates must be able to fully overlap and support North America time zones
+Must be fluent in English, both written and verbal
+
+OfferFit Benefits and Perks:
+
+Generous PTO (starting at 25 days PTO per year) and Parental Leave policy (12 weeks paid)
+100% remote work environment with flexible hours
+Quarterly gatherings where we meet in person in a different city to work together, bond as a team and celebrate our progress
+Weekly team events (lunch and learns, trivia, virtual escape rooms, town hall and team health “barometer” meetings)
+Ability to learn and develop from an experienced leadership team (ex-Amazon, McKinsey, BCG, and IBM, among others) who are focused on building a talented, diverse, and inclusive team
+Dedication to building a strong culture (e.g., team resource groups, weekly recognitions, major life event celebrations, mental health/sustainability days off, etc.)
+
+OfferFit is committed to a diverse and inclusive workplace. OfferFit is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor(a) de IA - Híbrido (Maceió) Maceió - AL e Híbrido Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+Com mais de 12 anos no mercado, a MESHA Tecnologia se destaca em sua essência por carregar valores que prezam principalmente pela diversidade, valorização do lado humano e meritocracia, construindo assim um relação familiar entre os colaboradores, trabalhando com alocação presencial e remota de Squads e alocação de profissionais na área de TI.
+
+Habilidades
+
+Excelentes habilidades de comunicação verbal e escrita.
+Capacidade de trabalhar bem em equipe e colaborar com diversas partes interessadas.
+Forte capacidade de resolução de problemas e pensamento crítico.
+Proatividade e capacidade de trabalhar de forma independente.
+
+Responsabilidades e atribuições
+
+Criar e treinar modelos de aprendizado de máquina (ML) e redes neurais para diversas aplicações, como reconhecimento de imagem, processamento de linguagem natural e previsão de dados;
+Recolher, limpar e organizar grandes volumes de dados para serem usados no treinamento de modelos de IA;
+Analisar dados para extrair insights, identificar padrões e tendências que possam ser utilizados para melhorar modelos e algoritmos;
+Desenvolver e implementar algoritmos de ML e IA, ajustando parâmetros e arquiteturas para otimizar o desempenho;
+Validar modelos de IA através de testes rigorosos, utilizando técnicas como validação cruzada, para garantir precisão e robustez;
+Ajustar e otimizar modelos para melhorar a eficiência, reduzir tempo de processamento e aumentar a precisão;
+Integrar modelos de IA em sistemas e aplicativos existentes, garantindo que eles funcionem de maneira coesa e eficiente;
+Documentar processos, modelos, algoritmos e resultados de maneira clara e detalhada para referência futura e para outros membros da equipe;
+Trabalhar em conjunto com outros departamentos e equipes, como desenvolvedores de software, analistas de negócios e stakeholders, para alinhar soluções de IA com os objetivos da organização;
+Ficar atualizado com as últimas tendências, avanços e melhores práticas em IA e ML, conduzindo pesquisas para implementar novas técnicas e melhorias;
+Monitorar e manter modelos em produção, ajustando conforme necessário para garantir que continuem a fornecer resultados precisos e relevantes;
+Garantir que as soluções de IA sejam desenvolvidas e implementadas de forma ética e segura, respeitando a privacidade e as regulações vigentes.
+
+Requisitos e qualificações
+
+Experiência comprovada no desenvolvimento de modelos de aprendizado de máquina e IA.
+Histórico de projetos bem-sucedidos que demonstram habilidades técnicas e aplicabilidade prática.
+Experiência na integração de modelos de IA em ambientes de produção.
+Python.
+Algoritmos de ML.
+Experiência com bancos de dados relacionais e não relacionais, e habilidades em SQL.
+Capacidade de trabalhar com grandes conjuntos de dados e ferramentas de big data como Hadoop, Spark, etc.
+Familiaridade com técnicas de engenharia de dados, incluindo ETL, limpeza e preparação de dados.
+Experiência com metodologias ágeis de desenvolvimento, como Scrum, Kanban ou XP.
+Capacidade de trabalhar em sprints, participar de stand-ups diários, e colaborar eficazmente com equipes ágeis.
+Experiência na utilização de ferramentas de gestão ágil, como Jira, Trello ou Azure.
+Habilidade para adaptar-se rapidamente a mudanças de requisitos e priorizar tarefas de forma eficaz.
+
+Informações adicionais
+
+Beneficios
+
+💳 Vale Refeição/Alimentação (Cartão Caju);
+💵 Descontos em diversas lojas parceiras Caju;
+💪🏼 Mesha Fitness - Programa de incentivo a saúde física;
+🏥 Plano de Saúde - Unimed;
+🦷 Plano Odontológico - Odontoprev;
+💻 Mesha Academy - Nossa universidade corporativa com trilhas de aprendizagem em parceria com a Alura;
+🎈 Day-off e vale compras no aniversário;
+📐Parceria com a Creditas (Crédito consignado e adiantamento salarial);
+🎉 Cultura colaborativa, de gestão horizontal e incentivo à troca de feedbacks;
+💡Dinamismo e abertura para troca de ideias e experiências;
+💰Remuneração compatível com o mercado;
+💜 Seguro de Vida.
+
+MODELO HÍBRIDO - MACEIÓ
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Alinhamento2Alinhamento
+Etapa 3: Entrevista Fit3Entrevista Fit
+Etapa 4: Avaliação Técnica4Avaliação Técnica
+Etapa 5: Entrevista com Gestor5Entrevista com Gestor
+Etapa 6: Contratação6Contratação
+
+Desenvolvendo Talentos hoje e sempre
+
+O nome Mesha foi criado com base na “Rede Mesh” – a conexão de diversos pontos que se comunicam entre si e formam uma rede única de alta qualidade, com tecnologia de ponta e alta tolerância a falhas -. Com base nisso, nossa empresa tem o propósito de unir os melhores desenvolvedores a negócios para potencializar os resultados de forma expressiva.
+
+Assim como redes do tipo mesh, a Mesha é resiliente: nos planejamos, reagimos e nos adaptamos às mudanças do mercado com o objetivo de prosperar negócios.
+
+Com o aumento de demanda por profissionais de tecnologia, nos apresentamos para empresas como uma solução para a alocação de Squads, que aumentaram a produtividade da sua empresa, geram entregas mais agéis e melhor alinhamento em prol de um projeto.
+
+É como se cada cada colaborador e cada cliente fosse ponto de contato. Quando nos conectamos uns aos outros, mantemos o equilíbrio e formamos uma rede com valores que nos guiam: Empatia com Satisfação, Respeito com Integridade, Ousadia com Responsabilidade, Transparência com Rentabilidade e Cultura Ágil.
+
+A principal característica da “Rede Mesh” é se diferenciar no mercado da tecnologia e aqui na Mesha não é diferente. Nos preocupamos em entregar demandas de forma rápida, eficiente e de alta performance.
+
+Interligamos pessoas capacitadas a negócios e proporcionamos a experiência do crescimento e do aprendizado para todos os envolvidos, incluindo nós como empresa.
+
+Conte com as nossas ideias, soluções inovadores e engajamento!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: 422024 - BOLSISTA (CHAMADA 42/2024)
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+Experiência
+
+Experiência acadêmica e/ou industrial em pesquisa relacionada com a área; experiência com escrita de publicações científicas.
+
+Conhecimentos
+
+Conhecimentos a nível de pós-graduação em algum dos campos a seguir: machine learning; visão computacional; nuvens de pontos; robótica; tecnologias de drones; arquitetura de hardware, software e firmware; projeto, construção e caracterização de sensores e equipamentos de medição; processamento de sinais para análise e interpretação de dados de sensores; projeto de circuitos analógicos e digitais; materiais para construção de sensores.
+
+Atividades a serem desempenhadas
+
+Orientar equipe de pesquisadores; propor e gerir projetos de pesquisa; conduzir estudos conceituais; publicar ao menos 1 artigo científico com Qualis Capes ao ano; conduzir pesquisas relacionadas com alguma das tecnologias habilitadoras da agricultura digital e de precisão, tais como: desenvolvimento de sensores, materiais para produção de sensores, arquitetura de hardware, software e firmware, tecnologia da informação, microeletrônica e afins. Coordenar tecnicamente projetos de pesquisa e desenvolvimento em cooperação com a indústria.
+
+Local de Trabalho
+
+ISI EM SENSORIAMENTO
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Data Analyst (REMOTE) - Contractor Role
+
+Sobre a vaga
+Description
+
+Our company is developing an innovative hardware that plays a crucial role in safeguarding communities from potential disasters related to electricity distribution, such as prolonged power outages, wildfires, and dangerous incidents involving the public. By utilizing advanced sensors, our technology promptly detects and locates grid disturbances, enabling rapid response to prevent or mitigate their impact. Join us in our mission to enhance safety and reliability for communities worldwide, protecting against catastrophic events before they occur.
+
+We're currently looking for a Data Analyst to help us identify, analyze, and interpret trends from the data collected by our fleet of devices around the clock.
+
+WHY do we need you?
+
+At a pivotal moment in our growth, we've successfully deployed our innovative power grid monitoring devices across several regions, marking a significant milestone in our mission to enhance the safety and efficiency of power distribution networks worldwide. With the ambition to ensure uninterrupted, round-the-clock monitoring of our expanding fleet, we're looking to establish operational hubs in various countries. This strategic expansion aims to leverage global talent and time zone coverage to enhance our operations team's capability to vigilantly monitor our fleet of devices around the clock.
+
+As an early team member of our operational centers, you're not just joining a company; you're joining a critical mission. You will play a pivotal role in monitoring the power grid, acting as the first line of defense against power line faults that could lead to catastrophic wildfires. Your efforts in real-time data analysis, anomaly detection, and critical event escalation will directly contribute to preventing potential disasters, ensuring fleet reliability, and safeguarding communities.
+
+Responsibilities
+
+What you'll be doing:
+
+Monitoring real-time data streams from field sensors and responding to alerts
+Consistently following SOPs (Standard Operating Procedures) to investigate and localize real-time faults with minimal error. 
+Quickly and efficiently working with Supervisors on ad-hoc data requests, and following up during ongoing investigations. 
+
+
+Requirements:
+
+STEM degree (science, technology, engineering, or mathematics)
+Proficiency in English - must be able to efficiently communicate event information
+Basic understanding of data analytics and anomaly detection
+A passion for working in a fast-paced environment
+Highly motivated, proactive, able to perform duties without supervision
+Being willing to work night shifts and weekends
+Ability to work 40 hours per week
+
+
+Preferred Qualifications:
+
+Basic proficiency with Python programming
+Research experience (STEM preferred)
+Experience working with metadata or data annotation
+Experience with real-time work and/or making reports 
+
+
+Salary Range
+
+Hourly rate (in USD): $6 - $9
+
+Start Date
+
+September 1, 2024
+
+Application
+
+Although we do not require candidates to submit a cover letter, candidates who wish to have their application stand out are invited to write a cover letter outlining one or all of the following things in bullet-point format:
+
+Why you are interested in joining Gridware
+What skills make you the perfect candidate for this role
+
+
+Please ensure that both your resume and cover letter are submitted in English.
+
+About Gridware
+
+We provide a full-stack (hardware + firmware + software) solution for real-time monitoring of the power distribution grid. Our low-cost hardware platforms are deployed to power poles, where they
+
+detect and predict faults that lead to wildfire ignition or outages
+expedite repairs during power outages
+
+Gridware's technology is designed to unlock essential values for other adjacent verticals. Our unique positioning allows us to solve some of the world's most burning challenges - from helping policy makers make data-driven infrastructure decisions to helping farmers overcome micro-climate challenges. While others turn a blind eye to these aged and highly-regulated industries, we at Gridware believe it's our duty to find win-for-all scenarios that lead to a prosperous future for coming generations.
+
+Gridware is an equal opportunity employer. We want applicants of diverse backgrounds and hire without regard to color, gender, religion, national origin, citizenship, disability, age, sexual orientation, or any other characteristic protected by law.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Especialista
+
+Sobre a vaga
+Estamos transformando o crédito no Brasil para melhorar a vida das pessoas de forma justa e segura com dinheiro mais barato quando elas precisarem.
+
+Somos uma fintech de soluções em crédito que, desde 2018, atua sem intermediários e sem a burocracia dos grandes bancos. Entregamos aqui uma experiência personalizada, com dinamismo e transparência que leva em consideração o melhor que temos: as pessoas. E, se é importante para elas, é importante para nós.
+
+São mais de 13 milhões de clientes que nos escolheram para fazer parte dessa mudança, mostrando que a evolução do mercado e a liberdade financeira delas já é uma realidade. Venha com a gente e faça parte dessa transformação 🖤
+
+Formação superior em Ciência da Computação, Engenharia, Matemática ou área relacionada
+Experiência comprovada como Engenheiro de Dados ou em um papel similar
+Sólido conhecimento em AWS, incluindo serviços como Redshift, S3, RDS, Glue, Lambda, Airflow, entre outros
+Proficiência em SQL e em linguagens de programação como Python ou Java
+Experiência com ferramentas de ETL e processos de integração de dados
+Conhecimento em modelagem de dados e data warehousing
+Experiência com metadados e sua gestão para garantir consistência e rastreabilidade
+Fortes habilidades analíticas e capacidade de resolver problemas complexos
+Habilidade para trabalhar de forma colaborativa em um ambiente de equipe
+
+Principais Responsabilidades
+
+Desenvolver, implementar e gerenciar pipelines de dados eficientes e escaláveis
+Projetar, construir e manter sistemas de armazenamento de dados, incluindo data lakes e data warehouses
+Integrar dados de várias fontes em estruturas unificadas e acessíveis
+Colaborar com analistas de dados, cientistas de dados e outras partes interessadas para entender necessidades de dados e fornecer soluções técnicas adequadas
+Garantir a qualidade, integridade e segurança dos dados processados e armazenados
+Otimizar processos de ingestão, transformação e entrega de dados
+Implementar e gerenciar soluções de dados utilizando serviços AWS (Redshift, S3, RDS, Glue, Lambda, etc.)
+Monitorar e melhorar o desempenho dos sistemas de dados
+Desenvolver e manter pipelines de dados utilizando AWS Airflow
+Gerenciar e utilizar metadados para garantir a consistência e rastreabilidade dos dados
+
+Consideramos Como Diferenciais
+
+Certificações AWS
+Experiência com Big Data (Hadoop, Spark)
+Familiaridade com práticas de DevOps e ferramentas de CI/CD
+Conhecimento em segurança de dados e conformidade regulatória
+
+Local De Trabalho
+
+Fortaleza e região metropolitana - híbrido
+
+São Paulo - Hibrido
+
+Demais regiões - remoto
+
+Aqui Na Meutudo Você Vai Encontrar
+
+🤩Pessoas que pensam soluções financeiras de forma inovadora;
+
+🌈Pessoas diversas que abraçam diferentes formas de ver o mundo;
+
+😃Pessoas que amam liberdade sem esquecer a responsabilidade;
+
+📚Pessoas com senso de comunidade que incentivam jornadas de crescimento;
+
+🧐Pessoas que se comunicam com clareza e questionam o status quo;
+
+🤩Temos um ambiente de trabalho incrível;
+
+🖥Projetos e tecnologias inovadoras;
+
+⛱Day off no seu aniversário;
+
+😁 No dress-code e muito mais.
+
+Todos os dias revolucionamos juntos o mercado de crédito no Brasil e propomos um universo financeiro simples, fácil e acessível de verdade. Fazemos isso baseado em dados, olhando com carinho para as pessoas e quebrando as regras. Aqui a gente acredita na eficiência da tecnologia para a evolução do mercado, impulsionando o Brasil.
+
+Importante: a meutudo. respeita a pluralidade de identidades e a inclusão. Não fazemos distinção de cor, raça, religião, nacionalidade, gênero, orientação sexual, idade ou pessoa com deficiência em qualquer que seja a etapa do processo de seleção, porque aqui a diversidade importa de verdade. Se você acredita nisso também, vem com a gente!
+
+Deu match? Então vem com a gente :)
+
+Ah! Não esqueça de conhecer um pouco mais sobre a gente e nossa revolução nos canais abaixo:
+
+Site - https://meutudo.com.br/
+
+Instagram - @meutudoapp
+
+Linkedin - https://lnkd.in/eXTHeVM
+
+Será um prazer ter você em nosso time 🖤🚀
+-----------------------------------------------------------------------------------

@@ -1,0 +1,220 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Nosso Modo de Fazer no Time:
+
+Transforme sua carreira com o iFood! Somos uma empresa brasileira de tecnologia referência na América Latina. Por meio de soluções inovadoras, conectamos milhares de restaurantes a milhões de consumidores diariamente com uma média de 100 milhões de pedidos mensais. Além do delivery de comida, também somos Mercado, Farmácia e Pet. Temos também o iFood Pago, nossa Fintech, que engloba o iFood Benefícios, o vale alimentação e refeição do iFood e o próprio iFood Pago, o banco do restaurante. Junte-se a nós e faça parte de uma equipe que está sempre à frente com tecnologia de ponta e inovação constante.Seu Cardápio Diário:
+
+Manter, evoluir e reestruturar a plataforma de planejamento de comunicações, garantindo sua operação confiável e eficiente.
+Realizar a ingestão de dados de diversas fontes e formatos, além de construir e assegurar a integridade dos seus pipelines.
+Criar monitoramentos de produtos de dados que suportam as operações de mídia e comunicação.
+Atuar rapidamente em situações de falhas ou comportamentos inesperados.
+Colaborar com outros times para garantir a comunicação clara e a resolução de problemas complexos.
+
+Ingredientes Que Buscamos:
+
+Conhecimento em Python, PySpark, testes unitários, e raciocínio lógico.
+Experiência com Git, AWS, Databricks, arquitetura de pipelines e ETL.
+Proficiência em inglês para comunicação técnica.
+Capacidade de trabalhar de forma autônoma e com senso crítico.
+Habilidade para se comunicar efetivamente e colaborar com equipes diversas.
+
+Para Realçar o Sabor:
+
+Experiência prévia com desenho de soluções técnicas.
+Criatividade para desenvolver abordagens que resolvam problemas complexos.
+Adaptabilidade a um ambiente em reestruturação e capacidade de resolver problemas críticos de forma eficiente.
+
+Buscamos uma pessoa apaixonada por dados e inovação, que esteja sempre em busca de novos desafios e aprendizados. Se você se identifica com este perfil, adoraríamos conhecer você!
+
+Ref. 28338
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Cientista de Dados
+
+Sobre a vaga
+Nivel de atuacao: Especialistas | Area de atuacao: Tecnologia, Informatica e Internet | Escolaridade minima: Superior Completo | Principais atividades: Estamos em busca de um profissional com forte conhecimento tecnico para atuar como Arquiteto de Dados Senior, com foco na definicao e sustentacao de solucoes de arquitetura de dados em ambientes corporativos complexos.
+
+Home Office
+
+Tem interesse?
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Desenvolvedor(a) Engenheiro(a) de Dados - PLENO (REMOTO)
+
+Sobre a vaga
+SOBRE A CEDRO
+
+Nossa missão: desenvolver softwares de altíssima qualidade que escale o negócio do cliente
+
+Nossa visão: ser referência nacional em tecnologias de investimentos para o ecossistema financeiro
+
+Nosso propósito: transformar o complexo em simples para melhorar a vida das pessoas e organizações
+
+Buscamos, a cada dia, construir uma Cedro mais plural e inclusiva, com profissionais que estejam com um olhar sempre à frente e buscando novos desafios, pois acreditamos que o respeito à pluralidade e à individualidade é a base das nossas relações.
+
+VENHA SER CEDRENSE!
+
+Estamos buscando um(a) Engenheiro(a) de Plataforma de Dados IA - LLMOps, MLOps para atuação em um banco de forma remota.
+
+REQUISITOS
+
+Experiência no mercado financeiro/de capitais será um diferencial;
+ Experiência em Engenharia de Dados: Pipelines ETL/ELT e orquestração de dados (Apache Airflow, Prefect). 
+ LLMOps e IA: Implantação e gerenciamento de Large Language Models (Hugging Face, LangChain). 
+ MLOps: Automação e escalabilidade de modelos (MLflow, Kubeflow, TensorFlow Serving). 
+ Cloud Computing: AWS, GCP ou Azure; experiência com Docker e Kubernetes. 
+ Programação e Bancos de Dados: Python, Scala ou Java; SQL e NoSQL. 
+ DevOps: CI/CD para IA/ML, ferramentas como Terraform, Ansible e GitHub Actions. 
+ Processamento de Dados: Data Lakes, Data Warehouses, Spark, Kafka. 
+
+NOSSOS BENEFÍCIOS PARA VOCÊ
+
+Benefícios flexíveis no Cartão Caju, sem desconto na folha de pagamento nas modalidades: alimentação, refeição, mobilidade, cultura, educação, saúde e home office;
+Assistência médica SulAmérica com cobertura nacional;
+Assistência odontológica Uniodonto;
+Gympass;
+Conexa Saúde com 1 teleconsulta com clínico geral gratuita por mês;
+Seguro de vida;
+Auxílio creche (para crianças até 02 anos);
+Day off de aniversário;
+Bônus por indicação Tech;
+Acesso à Cedro Academy, nossa universidade corporativa;
+Acesso ao Go Cedro com resgate de premiações;
+Crédito consignado e adiantamento salarial Creditas.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+As a Data Engineer part of our growing Data Science team, you will be responsible for designing, implementing, and maintaining robust and scalable data pipelines, enabling efficient data integration, storage, and processing across our various data sources. You will collaborate with cross-functional teams, including Data Scientists, Software Engineers, and other technical stakeholders, to ensure data quality and support data-driven decision-making.
+
+Responsibilities
+
+Develop and optimize scalable, high-performing, secure, and reliable data pipelines that address diverse business needs and considerations
+Identify opportunities to enhance internal processes, implement automation to streamline manual tasks, and contribute to infrastructure redesign 
+Act as a guide and mentor to junior engineers, supporting their professional growth and fostering an inclusive working environment
+Collaborate with cross-functional teams to ensure data quality and support data-driven decision-making to strive for greater functionality in our data systems
+Collaborate with project managers and product owners to assist in prioritizing, estimating, and planning development tasks
+Provide constructive feedback, and share expertise with fellow team members, fostering mutual growth and learning
+Engage in ongoing research and adoption of new technologies, libraries, frameworks, and best practices to enhance the capabilities of the data team
+Demonstrate a commitment to accessibility and ensure that your work considers and positively impacts others
+
+Qualifications
+
+BSc, MSc, and/or PhD in Statistics, Mathematics, Physics, CS, or another related subject
+Experience in technology-related fields, which can be industry and/or academic research (e.g. BI, Software, Data Science, Data Engineering)
+At least 3 years of experience as Data Engineer
+Have actively participated in the design and development of data architectures
+Hands-on experience in developing and optimizing data pipelines
+Experience working with databases and data modeling projects, as well as practical experience utilizing SQL
+Effective English communication - able to explain technical and non-technical concepts to different audiences
+Experience with a general-purpose programming language such as Python or Scala
+Ability to work well in teams and interact effectively with others
+Ability to work independently and manage multiple tasks simultaneously while meeting deadlines
+
+Bonus Points
+
+Cloud platforms and services, such as AWS, GCP, or Azure
+Big data tools such as Hadoop, Spark or Kafka
+Orchestration tools such as Airflow
+NoSQL databases
+Containerization technologies such as Docker and Kubernetes
+Agile development environment and familiarity with Agile methodologies
+
+Why TELUS Digital?
+
+At TELUS Digital, you’ll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Mid Level Data Developer, Brazil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Estamos em busca de uma pessoa Mid Level Data Developer para integrar nossa equipe de desenvolvimento de um produto de dados e atuar em um cliente do ramo de Entretenimento. 
+
+Responsabilidades:
+- Seu principal objetivo é entregar com agilidade, qualidade e algum nível de autonomia. Entregar tarefas de médio porte em produção, trabalhando de forma independente, se necessário. 
+- Liderar pequenos esforços, coordenando com outros membros do seu time, atuar com autonomia circunstancial e sob orientação moderada.
+- Ter boa comunicação e trabalhar em equipe, colaborar com o time em discussões técnicas ou apoiar nas demandas, ter proatividade, engajamento, comprometimento e ownership.
+
+Hardskills: 
+- Experiência comprovada em engenharia de dados.
+- Experiência com Python.
+- Experiência com a Cloud GCP - BigQuery, Dataflow, etc
+- Experiência com Bash / Shell Script
+- Experiência com ETL
+- Experiência com orquestração de banco de dados
+- Experiência com Datalake
+- Experiência com Git
+- Experiência com Docker
+
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------

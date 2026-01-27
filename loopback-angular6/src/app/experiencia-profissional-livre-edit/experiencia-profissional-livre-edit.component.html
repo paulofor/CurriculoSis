@@ -1,0 +1,56 @@
+<h2 *ngIf="item" mat-dialog-title>ExperienciaProfissionalLivre</h2>
+
+<form *ngIf="item" class="example-full-width" (ngSubmit)="onSubmit()">
+
+	<mat-dialog-content>
+
+		<mat-form-field class="example-full-width">
+			<input matInput #cliente [(ngModel)]="item.cliente" name="cliente" placeholder="Cliente" />
+		</mat-form-field>
+
+		<mat-form-field class="example-full-width">
+			<input matInput #consultoria [(ngModel)]="item.consultoria" name="consultoria" placeholder="Consultoria" />
+		</mat-form-field>
+
+		<mat-form-field class="example-full-width">
+			<input matInput #tituloFuncao [(ngModel)]="item.tituloFuncao" name="tituloFuncao" placeholder="Cargo" />
+		</mat-form-field>
+
+		<mat-form-field class="example-full-width">
+			<input matInput #dataInicio [(ngModel)]="item.dataInicio" name="dataInicio" placeholder="Data Início" />
+		</mat-form-field>
+
+		<mat-form-field class="example-full-width">
+			<input matInput #dataTermino [(ngModel)]="item.dataTermino" name="dataTermino" placeholder="Data Término" />
+		</mat-form-field>
+
+		<mat-form-field class="example-full-width">
+			<textarea rows="10" matInput #descricaoLivre [(ngModel)]="item.descricaoLivre" name="descricaoLivre"
+				placeholder="Descrição">
+		</textarea>
+		</mat-form-field>
+
+		<mat-form-field class="example-full-width">
+			<textarea rows="4" matInput #principaisTecnologias [(ngModel)]="item.principaisTecnologias" name="principaisTecnologias"
+				placeholder="Tecnologias">
+		</textarea>
+		</mat-form-field>
+
+		<mat-form-field class="example-full-width">
+			<textarea rows="8" matInput #descricaoGupy [(ngModel)]="item.descricaoGupy" name="descricaoGupy"
+				placeholder="Descrição Gupy">
+		</textarea>
+		</mat-form-field>
+
+		<mat-form-field class="example-full-width">
+			<input matInput #dataGupy [(ngModel)]="item.dataGupy" name="dataGupy" placeholder="Data Gupy" />
+		</mat-form-field>
+
+	</mat-dialog-content>
+
+	<mat-dialog-actions>
+		<button mat-raised-button>Salvar</button>
+		<button mat-raised-button mat-dialog-close>Fechar</button>
+	</mat-dialog-actions>
+
+</form>

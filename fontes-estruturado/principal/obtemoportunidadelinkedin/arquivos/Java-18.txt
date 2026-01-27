@@ -1,0 +1,318 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor(a) Java Sênior
+
+Sobre a vaga
+Sobre a empresa
+A Develcode é uma empresa especializada no desenvolvimento de software, reconhecida pelo GPTW e por sua excelência. Os profissionais que a compõem possuem uma sólida experiência no mercado de TI. Há 10 anos no mercado, atua com projetos diversificados, proporcionando soluções de valor para atender as necessidades do cliente e seu negócio.
+
+Nossa matriz se encontra em Caxias do Sul - RS, mas nossa equipe composta por mais de 130 colaboradores por todo o território brasileiro.
+
+Possuímos grandes clientes que atuam no Brasil e no mundo, trabalhando com desenvolvimento ágil através de SQUADs.
+
+Sempre buscamos desenvolver e encontrar novos talentos, e você pode ser um deles!
+
+Sobre a vaga:
+Estamos em busca de um(a) Desenvolvedor(a) Java para se juntar à nossa equipe. Se você é apaixonado por tecnologia, tem experiência em ambientes ágeis e deseja contribuir para a criação de soluções escaláveis e eficientes, essa é a oportunidade perfeita para você!
+
+Requisitos:
+Experiência no desenvolvimento, integração e manutenção de microsserviços.
+Experiência sólida em desenvolvimento com Java e Spring Framework.
+Conhecimento e aplicação de padrões de design no desenvolvimento de soluções.
+Experiência com integração de serviços com APIs RESTful.
+Experiência com ferramentas de mensageria como Kafka ou RabbitMQ.
+Conhecimento dos princípios SOLID para escrita de código mais robusto e sustentável.
+Compreensão de práticas de TDD (Test-Driven Development) e CI/CD.
+Conhecimento em banco de dados relacional (Oracle) e não-relacional (MongoDB).
+Domínio em versionamento de código com GitHub, GitLab e conhecimento do fluxo de trabalho Git Flow.
+Experiência na definição e implementação de arquiteturas de sistemas escaláveis.
+Conhecimento em serviços de cloud (AWS, Azure).
+Experiência com contêineres (Docker) e orquestração (Kubernetes).
+Conhecimento em monitoramento e observabilidade de infraestrutura e aplicações (DataDog, Grafana).
+
+
+Benefícios:
+Vale Alimentação;
+Auxílio creche;
+Plano de saúde;
+Auxílio Home Office;
+Inglês in Company;
+Plataforma de Cursos;
+TotalPass;
+Vittude;
+Swile Shop;
+Incentivo a certificações;
+Apoio Psicológico;
+Benefícios flexíveis;
+E muita troca de conhecimento e experiências!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor Java Tech Lead
+
+Sobre a vaga
+Colaborando com a revolução digital! 🔥
+Na Firedev, nossa paixão é impulsionar a transformação digital através de soluções inovadoras e eficientes. Somos uma empresa especializada em tecnologia, focada em oferecer serviços diversos que aceleram o desenvolvimento de software. Utilizando uma abordagem Low Code, capacitamos nosso cliente a criar, personalizar e manter aplicações de maneira ágil e adaptável, respondendo rapidamente às demandas do mercado em constante evolução.
+
+Conheça nosso desafio! 🤩
+Aqui na Firedev somos pioneiros em soluções de terceirização, proporcionando equipes com expertise e qualificações excepcionais. Nossos grupos atuam de forma sinérgica e autogerenciada, adotando abordagens ágeis para garantir eficácia e primazia em todos os empreendimentos.
+Para essa oportunidade, estamos em busca de Tech Lead especialista em Java para atuar em projetos em um de nossos clientes do ramo de meios de pagamento.
+
+Responsabilidades:
+Liderar e orientar a equipe de desenvolvimento.
+Desenvolver soluções eficientes e de alta performance em Java.
+Realizar troubleshooting e resolver problemas complexos de forma eficaz.
+Colaborar com os membros da equipe para garantir a entrega de projetos no prazo e com alta qualidade.
+Manter-se atualizado com as melhores práticas de desenvolvimento em Java.
+Requisitos:
+Experiência sólida em desenvolvimento Java.
+Especialização em otimização de performance e consumo de aplicações Java.
+Proficiência em Spring Boot 3 e Java Prime Faces.
+Habilidade comprovada em troubleshooting e resolução de problemas técnicos.
+Fortes habilidades de liderança e capacidade de orientar uma equipe de desenvolvimento.
+Detalhes da vaga
+Local de trabalho: Híbrido - São Paulo/SP
+Regime: PJ
+Remuneração: Negociável
+
+Conheça a Firedev
+Nascida em 2017, em Porto Alegre/RS, a Firedev (www.firedev.com.br) é uma consultoria de TI especializada em tecnologia, focada em oferecer serviços diferenciados que aceleram o desenvolvimento de software. Nossas soluções incluem bodyshop, fábrica de software, Low-code, produtos em Gestão Financeira, além da Skill Hunter, plataforma de recrutamento e seleção que preza pelo Recrutamento ágil, candidatos pré-qualificados e autonomia. Com +50 colaboradores e +60 projetos executados, prezamos sempre pela colaboração, responsabilidade e inovação em nossas entregas e cultura, e estamos sempre em busca de impulsionar os negócios em ecossistemas novos e em grandes segmentos como bancários, saneamento, adquirência, RH e mais!
+Venha ser um Firedever!
+@firedevbr @firedev.us @skillhunterbr
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Desenvolvedora Backend Especialista
+
+Sobre a vaga
+Pessoa Desenvolvedora Backend JAVA Especialista
+
+Estamos em busca de uma Pessoa Desenvolvedora Backend JAVA Especialista  para ingressar em nossa nave e juntos, decolar o foguete que impulsiona pessoas para inovar o mundo.
+
+E antes de apresentar a vaga, queremos te mostrar as razões para ser South System:
+
+ As +350 pessoas do nosso time nos elegeram 2 vezes uma das melhores empresas para se trabalhar no país (GPTW) e nos deram 4.9 estrelas no Glassdoor e Indeed;
+ Somos Talent Awards pelo linkedin;
+ Somos Carbon neutral – contribuímos com a compensação das emissões de carbono;
+ Estamos operando com oportunidades em home office e também com oportunidades híbridas;
+ Contemplamos benefícios variados como:
+
+Acesso livre a plataforma de cursos Udemy com certificações exclusivas;
+
+Benefício de home office;
+
+Benefício de educação financeira;
+
+Cartão de benefícios flash.
+
+ Nosso código de cultura é norteado por atitudes e práticas que fazem parte do nosso dia a dia:
+
+Apoio e incentivo ao crescimento e desenvolvimento das pessoas;
+
+Respeito, lealdade, colaboração e engajamento fazem parte do nosso DNA, cultivamos um ambiente seguro para todos;
+
+Somos diversos e acreditamos no poder da inclusão e da diversidade dos times;
+
+Unimos pessoas e inovação para prover soluções de TI.
+
+ Amamos nosso planeta e queremos fazer dele um lugar melhor para as próximas gerações por isso cultivamos diversas ações de sustentabilidade;
+ Mantemos e apoiamos ações sociais.
+
+Agora, vamos falar dessa oportunidade! 
+
+Nossos profissionais atuam em projetos alocados em clientes, ou projetos de fábrica, e todos têm acompanhamento das nossas business partners, com suporte especializado para que tenham um bom desempenho e progresso de carreira, nossas squads são multidisciplinares disponíveis de forma global. Esta oportunidade é para um cliente no segmento financeiro.
+
+Seu Desafio no Time:
+
+Exercer a liderança técnica da equipe, oferecendo suporte e orientação em todas as fases do ciclo de desenvolvimento de software;
+Propor evoluções tecnológicas nos sistemas em conjunto com o time de arquitetura para organizar e priorizar o backlog do time;
+Monitorar a execução das boas práticas de desenvolvimento de sistemas;
+Garantir a mais alta qualidade de software, desde o planejamento até a entrega;
+Monitorar o desempenho e performance dos sistemas das aplicações;
+Antecipar-se a oportunidades e problemas, agindo com rapidez e eficácia, desenvolvendo soluções de forma preventiva;
+Auxiliar na orientação dos desenvolvedores mais novos e contribuir nas tomadas de decisão do projeto;
+Atuar na integração e interface entre as aplicações de back-end e front-end;
+Atuar no planejamento e levantamento de requisitos e limitações técnicas para melhoria da performance e escalabilidade das aplicações;
+Orientar tecnicamente as etapas de iniciação, planejamento, execução, controle e encerramento dos projetos, monitorando a qualidade, funcionalidades, progressos e desvios;
+
+Perfil que Buscamos:
+
+Java 17+(Spring boot, Spring Data, Spring Security e Spring Cache)
+AWS (S3, Pipelines, EKS, VPC, SG, Kafka, MSK e Demais serviçoes do fluxo de CI/CD)
+Arquitetura Hexagonal,
+Arquitetura distribuída em Microsserviços e Containers na Cloud (EKS/Docker)
+APIs em SpringBoot com integrações em Kafka e Rest utilizando FeignClient/webclient com tolerancia a falhas (Fallback em Hystrix/resilience4j)
+Arquitetura Event Streaming com Kafka
+Continuous Integration e Continuous Deployment (CI/CD), Git, GitAction Gitflow, Maven
+DBs Redis, Mongo e Postgre
+Observability (openSearch, Grafana e Dynatrace)
+Documentação no Confluence e Swagger
+Boas práticas de desenvolvimento de software (SOLID)
+Qualidade de Código (TDD, Clean Code) e Code Review
+BDD, DDD, Mockito, Junit e Cucumber
+Agil, Kanban e Scrum
+Desejável Camunda
+
+Além disso, valorizamos a desenvoltura, flexibilidade, automotivação e trabalho em equipe. Defendemos a inclusão e a diversidade, por isso, criamos vagas afirmativas respeitando e priorizando os recortes minoritários em nosso processo de seleção, além de oferecermos núcleos e ações afirmativas dentro da empresa para acompanhamento, inclusão e desenvolvimento de todas as pessoas.
+
+ Junte-se a nós e ajude a impulsionar e transformar o mundo!
+
+Experiência e competências desejadas
+Java, Liderança, Flexibilidade, Comunicação, Responsabilidade
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Especialista Backend Java
+
+Sobre a vaga
+Sobre o Bradesco 
+
+O Bradesco é um dos maiores grupos financeiros do Brasil, com uma história marcada pelo pioneirismo e inovação. Por meio da nossa carteira amplamente diversificada de produtos financeiros, serviços bancários e de seguros contribuímos com a realização das pessoas e o crescimento sustentável de empresas e sociedade. Venha fazer parte do nosso ecossistema financeiro e impactar a experiência de milhões de pessoas!
+
+Saiba mais em https://banco.bradesco/html/classic/sobre/index.shtm
+
+ Responsabilidades e atribuições 
+
+O que é o nosso time de DS?
+
+O departamento O departamento O Departamento de DS Viabiliza soluções de TI que proporcionem o funcionamento harmônico entre os sistemas de suporte ao negócio, mantendo a arquitetura de aplicativos estruturada e tecnologicamente atualizada, atendendo aos requisitos de negócio com alta disponibilidade e performance.
+
+Modelo de trabalho :Híbrido (2 dias presenciais)
+
+Unidade: São Paulo, Recife, Curitiba, Uberlandia
+
+ Como será seu dia a dia? 
+
+Sendo Desenvolvedor Java Especialista, atuará na gerência de DS de TI e suas principais atividades serão:
+
+
+ Atuar com desenvolvimento de Microserviços, Projetar, desenvolver e manter microserviços utilizando Spring Boot;
+ Implementar APIs utilizando API Studio e garantir a comunicação eficiente entre serviços. Gerenciamento de Contêineres;
+ Criar e otimizar Dockerfiles para contêinerização de aplicações;
+ Gerenciar a orquestração de contêineres com Kubernetes, garantindo escalabilidade e resiliência;
+ Configurar e gerenciar tópicos no Kafka para comunicação assíncrona entre microserviço;
+ Implementar soluções de comunicação entre APIs e mainframe utilizando CWS;
+ Escrever e executar testes automatizados utilizando Cucumber, JMeter e JUnit para garantir a qualidade do software;
+ Utilizar ferramentas de monitoramento como Azure Monitor para acompanhar a performance dos serviços;
+
+
+ Requisitos e Qualificações 
+
+O que você precisa ter ou saber?
+
+
+ Ensino superior completo ou cursando em Ciência da Computação, TI ou formação em áreas correlatas;
+ Certificados Oracle Certified Professional, Java SE Programmer, Oracle Certified Expert, Java EE 7 Application Developer, Microsoft Certified: Azure Developer Associate, Certified Kubernetes Administrator (CKA);
+ Familiaridade com Scrum ou Kanban para gestão de projetos e sprints. Conhecimento em Segurança de Aplicações;
+ Implementação de práticas de segurança como autenticação, autorização e uso de cofres de chaves;
+ Experiência com frameworks de teste como Cucumber, JMeter e JUnit para garantir a qualidade do código.
+
+
+Será um diferencial se você tiver:
+
+
+ Certificação Azure AZ900, DP900, AZ104, AZ204 e/ou AZ305
+ Experiência com análise estática de código e ferramentas de qualidade de código como SonarQube;
+ Conhecimento em práticas de codificação limpa e padrões de design;
+ Clean architecture ou Arquitetura Hexagonal.
+
+
+ O que nós oferecemos 
+
+No Bradesco valorizamos a saúde e bem-estar, oferecendo um extenso portfólio de benefícios a todas nossas pessoas funcionárias:
+
+
+ PLR ou Bônus: Conforme a elegibilidade de cargo*
+ Convênio Médico
+ Convênio Odontológico
+ Seguro de Vida
+ Vale Alimentação
+ Vale Refeição
+ 13º Cesta Alimentação
+ Total Pass
+ Vale Transporte (adesão opcional)
+ Descontos em produtos e serviços em empresas parceiras
+ Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+ Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+ Unibrad: Universidade Corporativa Bradesco
+ Isenção de Tarifas: condições especiais em diversos produtos e serviços
+ Auxílio Creche ou Babá
+ Licença Paternidade estendida de 20 dias
+ Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheira(o) de Software Back-End Java/Kotlin Pleno
+
+Sobre a vaga
+Qual o tamanho dos seus objetivos? Deseja novos desafios?
+Então, vem para TQI!
+A TQI é uma empresa de tecnologia e inovação que há mais de 30 anos, desenvolve soluções para suportar e alavancar os negócios de seus clientes no Brasil e no exterior.
+Com escritórios em Uberlândia (MG) e em São Paulo (SP), e colaboradores em centenas de cidades, a TQI conquistou e mantém há mais de 6 anos o selo Great Place to Work (GPTW), e está no ranking 80+ do GPTW de Tecnologia, reforçando seu compromisso para promover um ambiente diverso e propício para inovação e alta performance.
+
+Modelo de trabalho: 100% Remoto
+Modelo de contrato: CLT
+
+O que procuramos: 
+Superior em Ciências da Computação, Engenharia, Sistemas da Informação ou áreas correlatas;
+Experiência em orientação à objeto, estrutura de dados e algoritmos;
+Experiência em versionamento de software;
+Experiência em CI/CD;
+Experiência em modelagem, documentação e implementação de APIs;
+Experiência com banco de dados relacionais e não relacionais;
+Experiência em melhores práticas de qualidade de software como testes automatizados, segurança, monitoração e documentação;
+Conhecimento em arquiteturas distribuídas, resilientes, escaláveis e de alta performance.
+
+Será um diferencial para você:
+Experiência em desenvolvimento de micro serviços;
+Experiência em Cloud Computing, principalmente AWS;
+Vivência em metodologias ágeis e melhoria contínua;
+Experiência em práticas de DevOps.
+
+O que você vai fazer: 
+Trabalhar com uma equipe altamente qualificada construindo software de qualidade, que seja escalável para um alto volume de dados e aplicações de alto risco;
+Participar da concepção de todo ciclo de vida de uma nova funcionalidade/produto e ser responsável pela entrega e acompanhamento da mesma;
+Criar soluções que tornem a vida de nossos clientes mais simples e produtiva;
+Planejar, estimar e analisar impactos e riscos em mudanças de aplicações;
+Acompanhar métricas, qualidade e monitoramento das aplicações desenvolvidas;
+Interagir com diversas áreas da Cia com times de negócio excepcional em um ambiente de alto crescimento profissional;
+Expressar opiniões e ideias, participar de discussões técnicas.
+
+Stack
+Java;
+Kotlin;
+Cucumber;
+KotlinTest;
+MockK;
+Spring;
+Spring Boot Admin;
+AWS CloudWatch;
+AWS Lambda;
+Docker;
+Fortify;
+Git;
+Gradle;
+Hystrix;
+JaCoCo;
+Kubernetes;
+OpenAPI;
+Swagger;
+Sonar.
+
+O que oferecemos:
+Você fará parte de equipes diversas e de alto performance, em um ambiente dinâmico e colaborativo. Valorizamos a contribuição de todos na criação de soluções e nas decisões estratégicas. Aqui, as pessoas são o nosso diferencial, e somos apaixonados por tecnologia, inovação e evolução contínua.
+
+🛒 Vale Alimentação/Refeição (Flash) de R$1.060,00/mês;
+💻 Auxílio Home Office de R$200,00/mês;
+🩺 Convênio Médico e Odontológico (SulAmérica) - 100% gratuito para você;
+🏋️‍Gympass (Wellhub);
+💰 PLR (Participação nos Lucros e Resultados);
+📘 Acesso ilimitado a Udemy;
+🐶 Plano de Saúde Pet Guapeco;
+💙 Seguro de vida (Prudential);
+👶 Auxílio Creche;
+✨Eventos e treinamentos internos;
+📚 Parceria com descontos em faculdades e escolas de idiomas;
+🚀 Programas de indicação e reconhecimento.
+
+Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+
+O time está te esperando, vamos nessa?
+
+#VempraTQI
+-----------------------------------------------------------------------------------

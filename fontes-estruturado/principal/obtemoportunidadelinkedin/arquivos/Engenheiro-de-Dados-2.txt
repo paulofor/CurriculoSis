@@ -1,0 +1,277 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de dados Sênior - 100% Remoto
+
+Sobre a vaga
+Qual o tamanho dos seus objetivos? Deseja novos desafios?
+
+Então, vem para TQI!
+
+A TQI é uma empresa de tecnologia e inovação que há mais de 30 anos, desenvolve soluções para suportar e alavancar os negócios de seus clientes no Brasil e no exterior.
+Com escritórios em Uberlândia (MG) e em São Paulo (SP), e colaboradores em centenas de cidades, a TQI conquistou e mantém há mais de 6 anos o selo Great Place to Work (GPTW), e está no ranking 80+ do GPTW de Tecnologia, reforçando seu compromisso para promover um ambiente diverso e propício para inovação e alta performance.
+
+
+Modelo de trabalho: 100% Remoto
+Modelo de contrato: PJ
+
+O que procuramos: 
+
+Conhecimento avançado em Python;
+Conhecimento Avançado em SQL (tuning de queries e análise de dados);
+Conhecimento em Inteligência Artificial;
+Experiência com GitHub;
+Conhecimento em Terraform;
+Experiência em AWS Redshift e AWS S3;
+Conhecimento em segurança de dados;
+Experiência com ambientes de alta criticidade e volumetria;
+Conhecimento em Jenkins, Kafka e Apache Airflow;
+Experiência com levantamento de requisitos;
+Conhecimento em arquitetura Big Data;
+Conhecimento em construção e otimização de ETL;
+Conhecimento processo de CI/CD;
+Conhecimento em metodologias ágeis;
+Conhecimento em observability e leitura/interpretação de logs;
+Conhecimento em Power BI;
+Experiência com orquestração de containers (ECS, Kubernetes e Docker);
+Conhecimento em Data Quality.
+
+Desejável:
+
+Conhecimento em infraestrutura de rede (TCP/IP, VPC etc.) para atuar em cenários de troca com o time de redes e firewall;
+Conhecimento em pipelines batch e near real time;
+Experiência com AWS (Route53, ECS, SQS, STS, API Gateway, Lambda, IAM, AWS cross-account/region, VPC, CloudFront, SSM, WAF, GuardInspector e CloudWatch).
+
+Principais atividades:
+
+Subir, redimensionar a capacidade e configurar regras de cluster AWS Redshif, gerenciando as configurações do ambiente;
+Desenvolver e realizar a manutenção de scripts Python e Terraform para infraestrutura;
+Desenvolver soluções com grandes volumes de dados;
+Garantir políticas de segurança para acesso aos dados;
+Fomentar a utilização de técnicas de automação para criação, configuração e monitoramento dos ambientes analíticos.
+ 
+O que oferecemos:
+
+Você fará parte de equipes diversas e de alto performance, em um ambiente dinâmico e colaborativo. Valorizamos a contribuição de todos na criação de soluções e nas decisões estratégicas. Aqui, as pessoas são o nosso diferencial, e somos apaixonados por tecnologia, inovação e evolução contínua.
+
+Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+
+O time está te esperando, vamos nessa?
+
+#VempraTQI
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro(a) de dados | Dados
+
+Sobre a vaga
+No Seu Dia a Dia
+
+A atuação será junto a times de áreas de negócio para desenhar, implementar e gerenciar pipelines de Big Data;
+Criação de tabelas analíticas com os dados normalizados para o consumo e uso das áreas de negócios; 
+Utilização de tecnologias como: AWS cloud (S3, EMR, EC2, Athena, Lambda, Kinesis, Redshift, SNS, SQS, etc.) e outras ferramentas de Big Data (NiFi, Sqoop, Airflow, Kafka, Spark, Hive, Presto, etc.), Python e SQL; 
+Automatização de fluxos e esteiras de dados para alimentação do datalake. 
+
+Esperamos De Você
+
+Graduação completa em Engenharia, Computação, matemática ou áreas correlatas; 
+Disponibilidade para atuação híbrida no escritório de Botafogo no Rio de Janeiro; 
+Flexibilidade e aderência a ambientes dinâmicos; 
+Boa comunicação, relacionamento interpessoal e trabalho em equipe; 
+Conhecimento em Python, SQL e modelagem de dados; 
+Ferramentas de Big Data e Engenharia de Dados, como Pyspark, NiFi, Airflow, etc; 
+Conhecimento em ambiente de computação em nuvem e datalakes/datawarehouses em nuvem.
+
+Diferenciais
+
+Experiência em infraestrutura como código (IaC), como Terraform; 
+Experiência em Arquiteturas Lakehouse ; 
+Experiência em contrução de fluxos em NRT (Integrações com Grafana); 
+Certificação em AWS e/ou GCP; 
+Experiência em soluções de Governancia de Dados a nível linha. 
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Pleno/Sênior
+
+Sobre a vaga
+NEORIS é uma acelerador Digital que ajuda empresas a entrar no futuro, temos mais de 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Somos mais de 4.000 profissionais em 11 países, temos uma cultura de startup multicultural onde cultivamos inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes.
+
+Procuramos Engenheiro de Dados Sênior – Vaga Híbrida – Rio de Janeiro
+
+Principais Responsabilidades
+
+Desenvolver e otimizar pipelines de dados utilizando Databricks e AWS;
+Implementar e gerenciar estruturas de governança de dados com Unity Catalog;
+Criar soluções escaláveis para ingestão, transformação e armazenamento de dados;
+Colaborar com times de negócio para entender requisitos funcionais e traduzi-los em soluções técnicas;
+Garantir a qualidade, segurança e integridade dos dados;
+Melhorar a eficiência dos processos de ETL/ELT e arquitetura de dados.
+
+Requisitos
+
+Experiência comprovada, minima de 4 años, como Engenheiro de Dados (requisito excluente), preferencialmente em projetos de grande escala e ambientes complexos.
+Conhecimento avançado em Databricks e Apache Spark, em SQL e Python para manipulação e processamento de dados;
+Experiência com Unity Catalog para governança de dados; Experiência na criação e otimização de pipelines de dados;
+Capacidade de entender as necessidades do negócio e traduzi-las em requisitos técnicos.
+Residir no Rio de Janeiro e ter disponibilidade para comparecer ao escritório a cada 15 dias.
+
+Oferecemos
+
+Vale Refeição e Vale Alimentação: Benefícios mensais para suas despesas com alimentação, dentro e fora de casa. 
+Previdência Privada: Planejamento de futuro com contribuição complementar à aposentadoria. 
+Plano de Saúde: Cobertura médica de alta qualidade para você e seu dependente legal. 
+Plano Odontológico: Cuidados odontológicos completos, com ampla rede de atendimento. 
+Seguro de Vida: Proteção e segurança para você e seus entes queridos. 
+Aulas de Inglês/Espanhol: Incentivo ao aprendizado de idiomas. 
+Wellhub: Benefícios e descontos em academias e programas de bem-estar. 
+Auxílio Creche: Suporte financeiro para despesas com educação infantil. 
+Neoris Global Campus: Plataforma de desenvolvimento com oportunidades contínuas de aprendizado e crescimento profissional. 
+
+Te convidamos a nos conhecer em http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados Sr
+
+Sobre a vaga
+Job Description
+
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsibilities and assignments
+
+Buscamos um(a) Engenheiro(a) de Dados para atuar na construção, integração e sustentação de pipelines e modelos de dados focados em MDM de pacientes no ambiente do HIAE. Você será responsável por garantir a qualidade e consistência dos dados extraídos de diversas fontes críticas, como PEP, HIS, laboratórios, exames, entre outros.
+
+O que esperamos que você realize:
+
+Desenvolver e manter processos de ETL/ELT para integração de dados de múltiplas fontes (PEP, HIS, TASYS, agendamentos, etc.).
+Apoiar a modelagem de dados lógica e física para a estrutura de MDM de pacientes.
+Criar e aplicar regras de padronização, deduplicação, enriquecimento e validação de dados.
+Colaborar com o time de Governança na implementação de controles de qualidade e integridade dos dados.
+Contribuir para a construção de um modelo de dados unificado que represente os principais atributos relacionados a pacientes (demográficos, clínicos, históricos, medicamentos, exames, etc.).
+Garantir a rastreabilidade e acurácia dos dados durante todo o pipeline de ingestão até sua consolidação.
+Participar de testes e validações de soluções implementadas, garantindo conformidade com as normas de segurança e privacidade.
+
+Requirements And Qualifications
+
+O que precisamos que você tenha de conhecimento:
+
+Requisitos essenciais:
+
+Formação em Engenharia de Computação, Ciência de Dados, Sistemas de Informação ou áreas correlatas.
+Experiência prática com desenvolvimento de pipelines de dados (ETL/ELT), preferencialmente usando Spark, Talend, Apache Nifi, etc.
+Sólidos conhecimentos em modelagem de dados (relacional e multidimensional).
+Conhecimento sobre interoperabilidade de dados em ambientes hospitalares é um diferencial.
+Noções de LGPD e segurança de dados sensíveis.
+
+Additional information
+
+O que te oferecemos:
+
+🍛 Vale Alimentação ou Vale Refeição;
+
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+
+🗣 Mentoring;
+
+🏫 Auxílio Creche;
+
+💉 Clube de vantagens para consultas e exames;
+
+🏥 Assistência Médica;
+
+🦷Assistência Odontológica;
+
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+
+🛫 Clube de viagens;
+
+🐶 Convênio para Pet;
+
+e muito mais...
+
+Process stages
+
+Registration
+Fit Cultural
+Bate papo com Gente & Cultura
+Bate papo com Gestão
+Carta proposta
+Hiring
+
+Stefanini: Acreditar para Cocriar 🌟
+
+Na Stefanini, a inovação não é apenas uma meta; é uma jornada que trilhamos juntos, onde a colaboração se torna a essência da transformação. 🤝 Com 37 anos de história e uma presença global em mais de 40 países, contamos com uma equipe de 38 mil talentos apaixonados, prontos para transformar desafios em oportunidades por meio da tecnologia. 💡
+
+Acreditamos que cada projeto é uma oportunidade e que, juntos, podemos moldar um futuro mais ágil, eficiente e conectado. Nossa missão vai além de oferecer soluções: buscamos cocriar com nossos clientes, integrando inteligência artificial e tecnologias emergentes para revolucionar o cotidiano das empresas. 🌍✨
+
+Aqui, cada voz conta e cada ideia tem o poder de impactar. Valorizamos a humildade, o respeito, o comprometimento e a coragem, construindo uma cultura onde a inovação floresce. Aqui, liderar é dar o exemplo, e é por isso que inspiramos um ambiente dinâmico onde tecnologia e talento se complementam.
+
+Se você sonha grande, tem coragem de desafiar o convencional e quer fazer parte de uma equipe que acredita no poder da cocriação, junte-se a nós! Vamos, juntos, acreditar e cocriar um futuro brilhante, onde cada passo representa uma nova conquista!🚀✨
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro(a) de dados | Dados
+
+Sobre a vaga
+Sobre a Área
+
+A área de Dados do BTG Pactual tem crescido a cada dia e temos certeza que ela protagonizará os novos modelos de negócios do banco. Diante dessa grande missão, prezamos por um time de alta qualidade para solucionar importantes desafios. 
+
+A posição tem como objetivo compor o time de Dados da área de Data Analytics, que trabalha com as mais modernas tecnologias de big data, ajudando no dia a dia de diversas áreas do banco.
+
+No Seu Dia a Dia
+
+A atuação será junto a times de análises de dados, ciência de dados e áreas de negócio para desenhar, implementar e gerenciar pipelines de Big Data;
+Criação de tabelas analíticas com os dados normalizados para o consumo de outras áreas de tecnologia e de negócios;
+Fazem parte das atividades diárias da área a utilização de tecnologias como: AWS cloud (S3, EMR, EC2, Athena, Lambda, Kinesis, Redshift, etc), Google Cloud (Bigquery, Cloud Function, Storage, Logging, Scheduler, Dataflow, Pub/Sub, Compute Engine, etc), e outras ferramentas de Big Data (NiFi, Sqoop, Airflow, Kafka, Spark, Hive, Presto, etc), Python e SQL.
+
+Esperamos De Você
+
+Curso superior completo em Sistemas de Informação, Análise de Sistemas, Ciência da Computação, Engenharias e área relacionadas;
+Disponibilidade para atuar no modelo presencial ou híbrido (3x por semana) no escritório na Faria Lima em São Paulo;
+Ambição intelectual e mentalidade de crescimento;
+Raciocínio lógico e capacidade analítica;
+Flexibilidade e aderência a ambientes dinâmicos;
+Boa comunicação, relacionamento interpessoal e trabalho em equipe;
+Conhecimento em Python, SQL e modelagem de dados;
+Ferramentas de Big Data e Engenharia de Dados, como Pyspark, NiFi, Airflow, etc;
+Conhecimento em ambiente de computação em nuvem e datalakes/datawarehouses em nuvem;
+Conhecimento de áreas do setor bancário, em especial, Mercado Financeiro e Produtos de Investimentos é um diferencial.
+
+Remuneração e Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Remuneração variável por performance (bônus anual);*
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP)
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã
+-----------------------------------------------------------------------------------

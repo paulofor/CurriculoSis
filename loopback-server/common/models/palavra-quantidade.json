@@ -1,0 +1,118 @@
+{
+	"name": "PalavraQuantidade",
+	"base": "PersistedModel",
+	"idInjection": true,
+	"options": {
+		"validateUpsert": true
+	},
+  	"mixins": {
+    	"Counts": true
+  	},
+	"properties": {
+		"quantidade": {
+			"type": "number"
+		},
+		"data": {
+			"type": "date"
+		},
+		"palavraRaizId": {
+			"type": "number"
+			,"id": true
+		},
+		"palavraChaveId": {
+			"type": "number"
+			,"id": true
+		}
+	},
+	"validations": [],
+	"relations": {
+		"palavraChave": {
+			"type": "belongsTo",
+			"model": "PalavraChave",
+			"foreignKey": ""
+		},
+		"palavraRaiz": {
+			"type": "belongsTo",
+			"model": "PalavraRaiz",
+			"foreignKey": ""
+		}
+	},
+	"acls": [],
+	"methods": {
+		"TotalizaPalavraChave": {
+			"accepts": [
+				{
+					"arg": "palavraRaiz",
+					"type": "object",
+   					"required": false,
+    				"description": ""
+				},
+				{
+					"arg": "palavraChave",
+					"type": "object",
+   					"required": false,
+    				"description": ""
+				}
+			],
+			"returns": [
+ 				{
+     				"arg": "resultado",
+     				"type": "object",
+   					"root": true,
+    				"description": ""
+   				}
+			],
+			"description": "",
+			"http": [
+         		{
+          			"path": "/totalizaPalavraChave",
+   					"verb": "post"
+ 				}
+ 			]
+		},
+		"InicializaPorRaiz": {
+			"accepts": [
+				{
+					"arg": "idPalavraRaiz",
+					"type": "number",
+   					"required": false,
+    				"description": ""
+				}
+			],
+			"returns": [
+ 				{
+     				"arg": "resultado",
+     				"type": "object",
+   					"root": true,
+    				"description": ""
+   				}
+			],
+			"description": "",
+			"http": [
+         		{
+          			"path": "/inicializaPorRaiz",
+   					"verb": "post"
+ 				}
+ 			]
+		},
+		"AtualizaQuantidades": {
+			"accepts": [
+			],
+			"returns": [
+ 				{
+     				"arg": "resultado",
+     				"type": "object",
+   					"root": true,
+    				"description": ""
+   				}
+			],
+			"description": "",
+			"http": [
+         		{
+          			"path": "/atualizaQuantidades",
+   					"verb": "post"
+ 				}
+ 			]
+		}
+	}
+}

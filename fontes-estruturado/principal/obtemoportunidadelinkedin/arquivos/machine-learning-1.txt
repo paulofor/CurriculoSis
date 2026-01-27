@@ -1,0 +1,233 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor Inteligência Artificial jr/pleno
+
+Sobre a vaga
+Estamos em busca de um Desenvolvedor de IA apaixonado por tecnologia e inovação para se juntar à nossa equipe dinâmica. O profissional será responsável pelo desenvolvimento de plataformas digitais que integram soluções de inteligência artificial, com foco em processamento de linguagem natural (NLP), IA generativa e aprendizado de máquina. Se você possui experiência com as principais ferramentas e linguagens do setor e está disposto a enfrentar novos desafios, queremos conhecê-lo!
+
+Responsabilidades:
+- Projetar, desenvolver e implementar soluções de software utilizando tecnologias de inteligência artificial.
+- Trabalhar com algoritmos e técnicas específicas de IA, incluindo NLP e aprendizado de máquina.
+- Implementar soluções de IA utilizando linguagens de programação como Python, JavaScript/TypeScript/Node.js.
+- Utilizar frameworks de IA, como PyTorch, Scikit-Learn e Langchain, para desenvolver soluções escaláveis.
+- Implementar soluções de NLP com ferramentas como NLTK, spaCy e Hugging Face Transformers.
+- Realizar pré-processamento de texto, incluindo tokenização, criação de embeddings e remoção de stop words.
+- Trabalhar com Modelos de Linguagem de Grande Porte (LLMs), como GPT e Llama, aplicando melhores práticas de arquitetura de software.
+- Desenvolver aplicações web utilizando frameworks como FastAPI e React (NextJS).
+- Colaborar na implementação de soluções utilizando MLOps, Docker e Kubernetes para a implantação de modelos de IA.
+- Participar de processos de HAG (Hiper-Agilidade) para garantir entregas rápidas e eficientes.
+- Integrar e otimizar embeddings para melhorar a performance das soluções de IA.
+
+Requisitos:
+- Experiência com N8N
+- Experiência com RAG (Retrieval-Augmented Generation) e otimização de embeddings.
+- Experiência sólida no desenvolvimento de software para aplicações de inteligência artificial.
+- Proficiência em linguagens de programação: Python, JavaScript/TypeScript/Node.js.
+- Experiência com frameworks de IA, como PyTorch, Scikit-Learn e Langchain.
+- Conhecimento em bibliotecas de NLP, como NLTK, spaCy e Hugging Face Transformers.
+- Experiência em pré-processamento de texto e implementação de LLMs.
+- Vivência em arquiteturas de software escaláveis e de alto desempenho voltadas para IA.
+- Conhecimento em desenvolvimento web com FastAPI e React (NextJS).
+- Experiência com MLOps, Docker e Kubernetes para implantação de modelos de IA.
+- Habilidade de trabalho em equipe e boa comunicação.
+
+
+🥳 Benefícios:
+• Vale Refeição/Vale Alimentação
+• Assistência médica
+• Assistência odontológica
+• Day Off
+• Gympass
+• Auxílio Creche
+• Assistência Pet
+• Auxílio Combustível
+• Auxílio Home Office
+• Reembolso Educacional
+• E-learning - Academia Stefanini com diversos cursos
+• Mentoring - Plataforma de Mentoria (Essa é uma oportunidade para conhecer pessoas, desenvolver habilidades e compartilhar experiências.)
+• Descontos em instituições para Graduação, Pós Graduação, Idiomas e Cursos
+• Vantagens e descontos nos melhores estabelecimentos
+• Programa de Formação de Líderes
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Machine Learning para IA Generativa
+
+Sobre a vaga
+We Transform. SAP® Solutions into Value
+
+A transformação digital ajuda as empresas a atingirem seu potencial máximo - se as tecnologias funcionarem para as pessoas que as utilizam! A NTT DATA Business Solutions está há 30 anos no mercado mundial. Somos uma empresa apaixonada por transformação. E queremos transformar o mundo e as pessoas através das soluções que criamos juntos com nossos parceiros. Aqui projetamos, implementamos, gerenciamos e potencializamos continuamente as soluções SAP para fazê-las funcionar para as empresas – e para as pessoas.
+
+Fazemos parte do grupo NTT DATA – um dos 10 maiores provedores de tecnologia do mundo – segundo o Gartner, e juntos somos mais de 130.000 colaboradores espalhados em 53 países. Nossa meta é impactar positivamente o mundo ajudando a criar uma sociedade mais conectada, diversa e criativa.
+ Procuramos profissionais que também queiram impactar o mundo positivamente! Você é um deles? Se sim, cadastre-se na vaga abaixo!
+
+
+Principais Requisitos:
+
+Experiência em desenvolvimento backend com Python ou Node.js;
+Conhecimento prático em LLMs e uso de AWS Bedrock para consumir modelos como Claude, Mistral ou Titan;
+Capacidade de implementar RAG (Retrieval-Augmented Generation) com embeddings, vetorização de documentos e recuperação de contexto;
+Experiência com serviços da AWS como S3, Lambda, API Gateway, e OpenSearch (ou outro vector store);
+Familiaridade com LangChain, LlamaIndex ou Semantic Kernel;
+Experiência com ingestão de dados estruturados e não estruturados (PDF, XML, HTML);
+Prática com engenharia de prompts e ajuste de fluxos conversacionais;
+Certificação AWS (ex: Solutions Architect ou Machine Learning Specialty).
+
+
+Contratação: Regime CLT
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: DATA ENGINEERING SPECIALIST I
+
+Sobre a vaga
+Vem ser Inter com a gente!!! 
+
+Conta digital gratuita, plataforma de investimentos, shopping e o que mais a vida precisar. O Inter é isso, e é muito mais. A gente acredita que tudo pode ser mais simples, e que cada dia é mais uma oportunidade de fazer diferente. Se você também é assim, vem ser #sanguelaranja.
+
+Join us in Inter&Co!!! 
+
+Free digital account, investment platform, shopping and whatever else life needs. Inter is that, and much more. We believe that everything can be simpler, and that every day is another opportunity to do something different. If you're like this too, come be #sanguelaranja.
+
+O que você irá fazer?
+
+Desenvolver e otimizar pipelines de dados escaláveis, integrando múltiplas fontes e transformações em tempo real. Processos de ETL utilizando Glue Jobs e fluxos de trabalho automatizados com Step Functions para orquestração de tarefas e funções Lambda;
+Projetar e manter data lakes eficientes no S3, utilizando Iceberg para gerenciamento de versões e consultas;
+Realizar análises avançadas e modelagem preditiva com Spark, integrando resultados em Redshift para relatórios;
+Implementar soluções de mensageria e streaming com SQS para facilitar a comunicação entre diferentes serviços de dados.
+
+O que oferecemos?
+
+Vale Alimentação/Vale Refeição;
+Plano de Saúde e Odontológico;
+Seguro de Vida;
+Vale Transporte.
+Duo Gourmet
+Wellhub
+... e muito mais!
+
+O que buscamos?
+
+Educação superior completo - Ciências exatas, ciências sociais aplicadas ou áreas afins
+Expertise técnica avançada em integração de dados; 
+Domínio em Amazon Redshift e Apache Spark;
+Proficiência em Python para automação de processos e análise de dados;
+Certificação AWS. 
+
+#VemproInter!!!
+
+O Nosso time de Talent é focado em contratar pessoas protagonistas, atuando com paixão e mentalidade inclusiva, respeitando a singularidade de cada pessoa e oferecendo a todos os colaboradores meios para que possam desenvolver o seu potencial e protagonismo.
+
+O Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a pessoas com deficiências.
+
+#ComeToInter!!
+
+Our Talent team is focused on hiring leading people, acting with passion and an inclusive mindset, respecting the uniqueness of each person and offering all employees the means to develop their potential and protagonism. Inter is a partner and is aware of inclusive projects, all of our vacancies are aimed at people with disabilities.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de dados Sênior - 100% Remoto
+
+Sobre a vaga
+Qual o tamanho dos seus objetivos? Deseja novos desafios?
+
+Então, vem para TQI!
+
+A TQI é uma empresa de tecnologia e inovação que há mais de 30 anos, desenvolve soluções para suportar e alavancar os negócios de seus clientes no Brasil e no exterior.
+Com escritórios em Uberlândia (MG) e em São Paulo (SP), e colaboradores em centenas de cidades, a TQI conquistou e mantém há mais de 6 anos o selo Great Place to Work (GPTW), e está no ranking 80+ do GPTW de Tecnologia, reforçando seu compromisso para promover um ambiente diverso e propício para inovação e alta performance.
+
+
+Modelo de trabalho: 100% Remoto
+Modelo de contrato: PJ
+
+O que procuramos: 
+
+Conhecimento avançado em Python;
+Conhecimento Avançado em SQL (tuning de queries e análise de dados);
+Conhecimento em Inteligência Artificial;
+Experiência com GitHub;
+Conhecimento em Terraform;
+Experiência em AWS Redshift e AWS S3;
+Conhecimento em segurança de dados;
+Experiência com ambientes de alta criticidade e volumetria;
+Conhecimento em Jenkins, Kafka e Apache Airflow;
+Experiência com levantamento de requisitos;
+Conhecimento em arquitetura Big Data;
+Conhecimento em construção e otimização de ETL;
+Conhecimento processo de CI/CD;
+Conhecimento em metodologias ágeis;
+Conhecimento em observability e leitura/interpretação de logs;
+Conhecimento em Power BI;
+Experiência com orquestração de containers (ECS, Kubernetes e Docker);
+Conhecimento em Data Quality.
+
+Desejável:
+
+Conhecimento em infraestrutura de rede (TCP/IP, VPC etc.) para atuar em cenários de troca com o time de redes e firewall;
+Conhecimento em pipelines batch e near real time;
+Experiência com AWS (Route53, ECS, SQS, STS, API Gateway, Lambda, IAM, AWS cross-account/region, VPC, CloudFront, SSM, WAF, GuardInspector e CloudWatch).
+
+Principais atividades:
+
+Subir, redimensionar a capacidade e configurar regras de cluster AWS Redshif, gerenciando as configurações do ambiente;
+Desenvolver e realizar a manutenção de scripts Python e Terraform para infraestrutura;
+Desenvolver soluções com grandes volumes de dados;
+Garantir políticas de segurança para acesso aos dados;
+Fomentar a utilização de técnicas de automação para criação, configuração e monitoramento dos ambientes analíticos.
+ 
+O que oferecemos:
+
+Você fará parte de equipes diversas e de alto performance, em um ambiente dinâmico e colaborativo. Valorizamos a contribuição de todos na criação de soluções e nas decisões estratégicas. Aqui, as pessoas são o nosso diferencial, e somos apaixonados por tecnologia, inovação e evolução contínua.
+
+Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+
+O time está te esperando, vamos nessa?
+
+#VempraTQI
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvedor Python Sênior
+
+Sobre a vaga
+Somos a Framework! Evoluímos grandes marcas em todo o mundo com transformação digital e crescemos continuamente através de agilidade, design e tecnologia.
+ Fazer parte do nosso time é saber que a sua jornada será de desafios reais, de crescimento contínuo e de contato diário com referências em tecnologia. Vem com a gente!
+ *Todas as nossas vagas são abertas para PCDs!
+ Benefícios? É claro que temos!
+🍝 Vale alimentação e refeição no cartão Swile com mais de R$ 1.200,00 mensais
+💻 Auxílio home office no valor de R$ 150,00 mensais 
+🚗 Você decide entre vale-transporte ou vale-combustível, no caso de vagas híbridas e presenciais
+🏥 Plano de saúde e auxílio odontológico de alta qualidade
+❤️ Seguro de vida que cobre doenças ocupacionais
+💸 Participação nos lucros
+💪 Gympass e TotalPass para se manter saudável
+👶 Licença maternidade estendida: 180 dias 
+👶 Licença paternidade estendida: 30 dias 
+🥦 Desconto em consultas nutricionais 
+🧠 Desconto em terapia online
+🛍️ Clube de benefícios para quem gosta de comprar com descontos
+💡 Knowledge transfer através do Frame KT
+📚 Plataforma de cursos e atividades educativas para as crianças e adolescentes da sua família
+💵 Bonificação por indicação de novos colaboradores
+ E não paramos por aí!
+🕗 Horário flexível
+👕 No dress code
+🍎 Nas pausas presenciais, fique à vontade para comer pães, bolos e frutas
+💜 Ambiente leve, flexível e cultura colaborativa. 
+ E qual será a sua missão na Framework?
+Desenvolvimento de funcionalidades no Back-End;
+Realizar criação de novas funcionalidades, desenvolvimento e manutenção de aplicações.
+
+O que é preciso para fazer parte do time?
+Experiência sólida em linguagem Python (vivência com Java será um diferencial);
+Experiência com bancos de dados relacionais e não-relacionais (DynamoDB, MySQL, PostgreSQL etc);
+Experiência em sistemas de eventos (Kafka, RabbitMQ etc)
+Experiência nas principais ferramentas AWS (S3, EC2, SES, Lambda, EKS, SQS, SNS, CloudWatch, RDS etc);
+Experiência com Microsserviços;
+Experiência com testes unitários;
+Noções sólidas de fundamentos de observabilidade e principais ferramentas (Datadog, Cloudwatch etc);
+Forte entendimento do ciclo de desenvolvimento Web, suas técnicas e ferramentas de programação;
+Vivência com desenvolvimento ágil;
+Perfil proativo;
+Boa comunicação.
+Inglês avançado (participação em reuniões)
+
+A NOSSA EVOLUÇÃO É CRESCENTE!
+E, para acompanhar esse crescimento, precisamos de pessoas que agreguem propondo ideias, soluções e desafios! 
+ Gostou da oportunidade? Vamos juntos e faça parte da nossa história! 💜 #vempraframe
+-----------------------------------------------------------------------------------

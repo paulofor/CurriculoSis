@@ -1,0 +1,23 @@
+<div class="dgc-painel">
+	<div class="dgc-painel-header">
+		<span>Palavra Raiz</span>
+		<span class="dgc-direita">
+			<button class="btn btn-primary btn-sm dgc-botao-comando" (click)="atualiza()">atualiza</button>
+			<button class="btn btn-primary btn-sm dgc-botao-comando" (click)="edita()">novo</button>
+		</span>
+	</div>
+	<div class="dgc-painel-principal" *ngIf="listaBase">
+		<div class="dgc-card" *ngFor="let item of listaBase">
+ 			<div class="dgc-card-header">
+ 				<span routerLink="/palavraRaiz/{{item.id}}" class="dgc-link">{{item.palavra}}</span>
+				<span class="dgc-direita">{{item.quantidade}}</span>
+ 			</div>
+			 <div class="dgc-card-detalhe">
+				<span routerLink="/palavraRaizQuantidade/{{item.id}}">Quantidades</span>
+			</div>
+ 			<div class="dgc-card-comandos">
+ 				<button class="btn-primary btn-sm btn" (click)="edita(item)">Editar</button>
+ 			</div>
+ 		</div>
+  	</div>
+</div>

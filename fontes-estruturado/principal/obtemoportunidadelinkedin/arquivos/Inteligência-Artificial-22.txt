@@ -1,0 +1,143 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Descrição da vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsabilidades:
+Atuar no desenvolvimento, implementação e manutenção de soluções de Data Warehouse;
+Realizar integração, transformação e análise de dados a partir de diferentes fontes;
+Participar do desenho e evolução da arquitetura de dados, com foco em arquitetura em camadas/medalhão;
+Garantir a qualidade, integridade e a disponibilidade dos dados para diferentes áreas de negócio.
+Requisitos:
+Sólida experiência em projetos de Data Warehouse;
+Conhecimento avançado em Snowflake e SQL Server;
+Domínio de SQL avançado para manipulação e consulta de dados;
+Experiência na arquitetura em camadas (medalhão: Bronze, Silver e Gold);
+Capacidade de atuar de forma autônoma e colaborativa em ambiente remoto.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Especialista em Engenharia de Dados II
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+O DataLab é a unidade de pesquisa e inovação do grupo Experian na América Latina junto com a Serasa Experian no Brasil. Temos o objetivo de ser propositivo, antecipando o futuro, e consultivo, identificando oportunidades de evolução no mercado, por meio de técnicas de Inteligência Artificial e Machine Learning combinada com uso de novas fontes de dados.
+
+Criamos soluções inovadoras avançadas, que ajudam clientes e mercado a se prepararem hoje para o amanhã de decisões mais assertivas. Além de termos um olhar 360º para trocar com o que há de melhor no âmbito global, considerando o todo e produzindo soluções capazes de alcançar grande escalabilidade.
+
+Você Será Responsável Por
+
+Atuar em conjunto com os demais líderes técnicos para desenhar as soluções técnicas dos produtos;
+Projetar e desenvolver pipelines de dados produtivos;
+Implementar e gerenciar soluções de armazenamento de dados em ambientes híbridos (cloud e on-premisses);
+Garantir a integridade e confiabilidade dos dados;
+Colaborar com equipes de desenvolvimento, ciência dos dados e data viz, para democratizar o uso de dados;
+Monitorar e melhorar o desempenho dos dados, visando sua qualidade, escalabilidade e traceabilidade.
+
+Qualifications
+
+O que estamos buscando em você?
+
+Bacharelado em Ciência da Computação, Engenharia de Dados ou área relacionada;
+Conhecimento em ambiente AWS, incluindo S3, Lambda, EC2, EMR, EKS;
+Familiaridade com orquestração de pipelines de dados;
+Proficiência em SQL, Python, e ferramentas de ETL;
+Experiência com plataformas de big data (Hadoop, Spark, etc.);
+Conhecimento em arquitetura de dados e modelagem de dados;
+Habilidades de comunicação e colaboração;
+Conhecimento em banco de dados SQL e NoSQL;
+Experiência com cloud computing (AWS, Azure, Google Cloud);
+Desenvolvimento de raspagem de dados (crawlers/scraping);
+Inglês avançado;
+Disponibilidade para atuação híbrida em São Paulo/SP.
+
+Diferenciais
+
+Certificações relevantes na área de dados;
+FinOps, DataOps e MLOps;
+Experiência em liderança de projetos e equipes;
+Mestrado ou doutorado na área de dados/tecnologia.
+
+Additional Information
+
+Na Serasa Experian, acreditamos que a diversidade é fundamental para um ambiente de trabalho mais saudável e inovador, onde todas as pessoas possam trocar experiências e expressar suas ideias. Por isso, contamos com diversas ações para promover um recrutamento inclusivo e apoiar no desenvolvimento profissional das nossas pessoas. Além disso, temos os nossos grupos de afinidade, criados para empoderar e acolher as pessoas de grupos sub-representados:ExperianPride (comunidade LGBTQIAPN+), Ubuntu (equidade racial), Women in Experian (equidade de gênero) e Aspire (pessoas com deficiência) e Connecting Generations (gerações). Venha fazer parte dessa transformação!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Data Science Consultant
+
+Sobre a vaga
+We are looking for a highly skilled Senior Data Science Consultant to join our team.
+
+In this role, you will leverage your expertise in data science and analytics to deliver impactful solutions for complex business challenges. You will work closely with clients and cross-functional teams to design, implement, and optimize data-driven strategies. This position requires a strong focus on leadership, innovation, and the ability to translate business needs into actionable insights. You will also play a critical role in mentoring teams and driving the adoption of cutting-edge technologies.
+
+Responsibilities
+
+
+Lead the design and implementation of data science solutions to address business challenges
+Collaborate with stakeholders to identify opportunities for leveraging data for strategic decision-making
+Build and optimize machine learning models to improve business processes and outcomes
+Develop and maintain advanced analytics tools and frameworks to support data-driven decision-making
+Ensure the scalability and reliability of data science solutions across various environments
+Provide technical leadership and mentorship to data science teams to foster skill development
+Conduct exploratory data analysis to uncover patterns, trends, and insights
+Present findings and recommendations to both technical and non-technical stakeholders
+Stay updated on the latest advancements in data science, machine learning, and AI technologies
+Drive innovation by identifying and implementing emerging technologies and methods
+
+
+Requirements
+
+
+Over 10 years of professional experience in IT with a strong focus on data science and analytics
+A minimum of 5 years in senior leadership roles, such as Lead, Manager, or Architect, within Agile or hybrid project environments
+Proven experience managing teams of 40+ members, ensuring alignment and productivity
+Participation in at least 8 full project lifecycles or experience launching 2+ products or major product capabilities to the market
+Expertise in data analytics engineering, including data transformation, modeling, and visualization for actionable insights
+Deep understanding of machine learning concepts, including supervised and unsupervised learning, and their applications in real-world scenarios
+Experience in developing AI and ML strategies to solve complex business problems
+Proficiency in Python for data manipulation, analysis, and building machine learning pipelines
+Hands-on experience with PyTorch for deep learning model development and deployment
+Familiarity with TensorFlow for building and training machine learning models at scale
+Strong understanding of cloud platforms such as AWS, Azure, or GCP for deploying and scaling data science solutions
+Exceptional written and verbal communication skills in English, with the ability to convey complex ideas clearly
+
+
+Nice to have
+
+
+Relevant certifications in data science, machine learning, or cloud platforms to demonstrate expertise
+Experience in integrating data science solutions with enterprise systems to enhance business workflows
+Knowledge of advanced data visualization techniques or tools to communicate insights effectively
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------

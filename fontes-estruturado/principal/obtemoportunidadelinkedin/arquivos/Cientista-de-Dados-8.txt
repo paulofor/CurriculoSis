@@ -1,0 +1,329 @@
+[Oportunidade 1]
+Oportunidade: Cientista de Dados Sênior / Híbrido - São Paulo
+
+Sobre a vaga
+REQUISITOS MANDATÓRIOS
+
+EXPERIÊNCIA
+
+5 anos de experiência como Cientista de Dados;
+Programação avançada em Python;
+Experiência prática na criação e avaliação de modelos de Machine Learning;
+Experiência com desenvolvimento Front-end (React, Vue.js ou similares);
+Domínio de bancos vetorizados (FAISS, Chroma, Pinecone, etc.);
+Experiência prática com RAG e integração com modelos de linguagem (LLMs);
+Capacidade de atuar no ciclo completo de produto: concepção, prototipagem e entrega;
+Experiência com ambientes em nuvem (AWS, GCP ou Azure),
+
+REQUISITOS DESEJÁVEIS
+
+Vivência com MLOps e ferramentas de CI/CD;
+Projetos com foco em IA generativa;
+Conhecimento em notas de avaliação de LLMs;
+Noções de UX/UI voltadas para a colaboração com o tempo de produto.
+
+ATRIBUIÇÕES
+
+Estamos em busca de um(a) Cientista de Dados Sênior, com forte base técnica e visão de produto, para atuar na construção de soluções de IA ponta a ponta, com foco em projetos estratégicos de alto impacto;
+Você fará parte de um tempo multidisciplinar, atuando em todo o ciclo — da concepção à entrega — com liberdade para criar, experimentar e gerar valor real para nossos clientes;
+Projetar e implementar pipelines de dados escaláveis e eficientes;
+Desenvolver e integrar modelos de machine learning, com foco em aplicações reais;
+Atuar na criação, treinamento e validação dos principais tipos de modelos:
+ Classificação
+ Regressão
+ Clusterização
+ Séries temporais;
+Aplicar técnicas de RAG (Retrieval-Augmented Generation) com bancos vetorizados;
+Contribuir no desenvolvimento de produtos com interface Front-end;
+Trabalhar em parceria com áreas de engenharia, produto e negócios.
+
+Sobre a CAPCO
+
+Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. 
+
+Pensamos, em conjunto, sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros.
+
+Nossas oportunidades são trabalhadas para todos(as)!!!
+
+
+
+Próximos Passos
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro(a) de Dados – Scala & Spark
+
+Sobre a vaga
+Job Description
+
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsibilities and assignments
+
+O que esperamos que você realize:
+
+Estamos em busca de um(a) profissional com sólida experiência em engenharia de dados para compor nosso time. Essa pessoa será responsável por desenvolver e otimizar pipelines de dados em ambientes escaláveis, garantindo a eficiência no processamento e integração entre sistemas legados (como SAP BW) e plataformas modernas de dados (Data Lakes/Data Warehouses).
+
+Desenvolver e manter pipelines de dados utilizando Scala, SQL, Spark e outras tecnologias relacionadas.
+Realizar integrações entre SAP BW e ambientes de Data Lake/Data Warehouse.
+Otimizar processos de ingestão e transformação de dados, com foco em performance (especialmente em SQL e Spark).
+Garantir a qualidade, segurança e governança dos dados ao longo de todo o pipeline.
+Participar de discussões técnicas para definição de soluções de arquitetura de dados.
+Atuar na resolução de problemas relacionados a performance e integridade dos dados.
+Colaborar com times multidisciplinares para alinhar requisitos de negócio com soluções técnicas.
+
+Requirements And Qualifications
+
+O que precisamos que você tenha de conhecimento:
+
+Requisitos essenciais:
+
+Experiência comprovada no desenvolvimento de pipelines de dados utilizando Scala, SQL e Apache Spark.
+Vivência em integrações de dados entre SAP BW e ambientes como Data Lakes e/ou Data Warehouses.
+Sólidos conhecimentos em otimização de consultas SQL e jobs Spark.
+Entendimento de arquiteturas de dados modernas e boas práticas de engenharia de dados.
+Familiaridade com versionamento de código (Git) e uso de ferramentas de automação.
+
+Diferenciais:
+
+Experiência com ferramentas de orquestração de dados (ex: Apache Airflow, Azure Data Factory).
+Conhecimentos em ambientes cloud (ex: AWS, Azure, Google Cloud Platform).
+Vivência com conceitos de DataOps, CI/CD para dados e monitoramento de pipelines.
+Experiência com modelagem de dados e ferramentas de ETL/ELT.
+Certificações relacionadas a Big Data ou Cloud.
+
+Additional information
+
+O que te oferecemos:
+
+🍛 Vale Alimentação ou Vale Refeição;
+
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+
+🗣 Mentoring;
+
+🏫 Auxílio Creche;
+
+💉 Clube de vantagens para consultas e exames;
+
+🏥 Assistência Médica;
+
+🦷Assistência Odontológica;
+
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+
+🛫 Clube de viagens;
+
+🐶 Convênio para Pet;
+
+e muito mais...
+
+Process stages
+
+Registration
+Fit Cultural
+Bate papo com Gente & Cultura
+Bate papo com Gestão
+Carta proposta
+Hiring
+
+Stefanini: Acreditar para Cocriar 🌟
+
+Na Stefanini, a inovação não é apenas uma meta; é uma jornada que trilhamos juntos, onde a colaboração se torna a essência da transformação. 🤝 Com 37 anos de história e uma presença global em mais de 40 países, contamos com uma equipe de 38 mil talentos apaixonados, prontos para transformar desafios em oportunidades por meio da tecnologia. 💡
+
+Acreditamos que cada projeto é uma oportunidade e que, juntos, podemos moldar um futuro mais ágil, eficiente e conectado. Nossa missão vai além de oferecer soluções: buscamos cocriar com nossos clientes, integrando inteligência artificial e tecnologias emergentes para revolucionar o cotidiano das empresas. 🌍✨
+
+Aqui, cada voz conta e cada ideia tem o poder de impactar. Valorizamos a humildade, o respeito, o comprometimento e a coragem, construindo uma cultura onde a inovação floresce. Aqui, liderar é dar o exemplo, e é por isso que inspiramos um ambiente dinâmico onde tecnologia e talento se complementam.
+
+Se você sonha grande, tem coragem de desafiar o convencional e quer fazer parte de uma equipe que acredita no poder da cocriação, junte-se a nós! Vamos, juntos, acreditar e cocriar um futuro brilhante, onde cada passo representa uma nova conquista!🚀✨
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Scientist Consultant
+
+Sobre a vaga
+Queremos você para gerar ainda mais valor!
+
+A Núclea é uma empresa que acredita no futuro com ações no presente com transações financeiras feitas de forma rápida, segura e acessível. Somos especialistas em infraestrutura e soluções de pagamentos digitais, e trabalhamos para transformar o mercado financeiro, tornando-o mais eficiente e inclusivo.
+
+Nossos valores são a base de tudo o que fazemos.
+
+Apaixonados por clientes. Estamos sempre buscando entender suas necessidades e encontrar soluções que atendam às suas expectativas.
+Gente que gosta de gente. Investimos no desenvolvimento de nossos colaboradores e criamos um ambiente de trabalho que valoriza a diversidade e a inclusão.
+Integridade faz parte do nosso DNA. Agimos com ética e transparência em todos os nossos relacionamentos.
+Somos direcionados por dados. Análise e solução ágil fazem parte da empolgação em ter consistência no uso de inteligência de dados.
+Inovação na veia. Estamos sempre buscando novas soluções para atender às necessidades de nossos clientes e do mercado.
+Fanáticos por resultados. Nos movem e nos motivam a assertividade para nossos parceiros e clientes.
+
+Sobre a Núclea
+
+https://www.nuclea.com.br/
+
+A Núclea é uma empresa brasileira de tecnologia com sede em São Paulo. Fundada em 2010, a empresa oferece uma ampla gama de soluções de infraestrutura e pagamentos digitais para empresas de todos os portes.
+Uma empresa comprometida com a responsabilidade social e ambiental. A empresa acredita que a tecnologia pode ser usada para promover o desenvolvimento sustentável e a inclusão social.
+
+Para todas as posições consideramos DIVERSIDADE E INCLUSÃO!
+
+Se você é apaixonado(a) por tecnologia, quer fazer a diferença na vida das pessoas e acredita em um futuro mais eficiente e inclusivo, a Núclea é o Lugar certo para você.
+Essa é a chance para você mudar a sua vida, corra e se inscreva!
+
+Responsabilidades e atribuições
+Produzir, testar e experimentar modelos estatísticos aplicados as diferente áreas de negócio;
+Criar, manter e atualizar relatórios analíticos para a squad e para o negócio;
+Trazer insights e conduzir experimentos junto as áreas de negócios;
+Desenvolver modelos preditivos com técnicas de machine learning para resolução de problemas de negócio;
+Auxiliar o time de negócios e comercial em apresentações de produtos da empresa para potenciais clientes;
+Elaborar apresentações técnicas para discussão e demonstração de resultados de análises e modelos para stakeholders técnicos da companhia.
+
+Requisitos e qualificações
+Machine Learning;
+Modelagem Estatística;
+Análise de dados;
+Python;
+Pyspark (diferencial);
+Capacidade de aprender novas linguagens de programação e frameworks de modelagem e análise é indispensável;
+Capacidade e hábito em ler documentações técnicas de pacotes estatísticos e de Machine Learning é essencial;
+Versionamento de código em GIT;
+Pacote Office;
+Inglês – Avançado (especialmente leitura, para consultar documentação de linguagens de programação e algoritmos em inglês).
+
+Formação
+Ensino Superior Completo em uma ou mais destas áreas: ciência da computação, estatística, engenharias, economia, matemática ou áreas congêneres;
+Mestrado e/ou doutorado nestas áreas é um diferencial;
+MBA em Data Science é um diferencial.
+
+Informações adicionais
+Modelo de trabalho: híbrido (2x por semana no escritório).
+Salário compatível com o mercado - CLT.
+
+Benefícios:
+Convênio Médico e Odontológico;
+Vale Refeição - Caju;
+Seguro de Vida;
+Auxilio Home Office;
+PLR;
+Previdência Privada;
+Auxílio creche;
+Wellhub (Gympass).
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Data Scientist - Remote Work
+
+Sobre a vaga
+At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.
+
+Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.
+
+When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.
+
+Data Scientist at BairesDev
+
+We are looking for Data Scientists to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people team players passionate about programming in this language and oriented to provide the best experience to the end user. This is an excellent opportunity for those professionals looking to develop in one of the fastest-growing companies in the industry!
+
+These developers will face numerous technical challenges, so they must use current technologies to get involved in the mobile world, web applications, devices, etc.
+
+What You Will Do:
+
+- Work together with developers, tech leads, and solution architects to build applications.
+- Improve existing structures by adding new functionalities or proposing technological updates so that, as a result, the impact of your contribution is significant in the core of each business.
+- The result of your work will also allow you to improve the user experience on scalable and high-availability platforms, contributing to the key differential of each business.
+
+Here’s what we are looking for:
+
+- 5+ years of experience in Data Scientist.
+- Proficient with analysis, troubleshooting, and problem solving.
+- Hands-on experience with managing data loads and data quality a plus.
+- Advanced English level.
+
+How we do make your work (and your life) easier:
+
+- 100% remote work (from anywhere).
+- Excellent compensation in USD or your local currency if preferred
+- Hardware and software setup for you to work from home.
+- Flexible hours: create your own schedule.
+- Paid parental leaves, vacations, and national holidays.
+- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.
+- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.
+
+Apply now and become part of a global team where your unique talents can truly thrive!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Cientista de Dados Pleno
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você. Afinal, It’s yours to build.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Cientista de Dados Pleno você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de dados voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Formação acadêmica: Nível superior completo ou em andamento para profissionais do nível pleno nas áreas de Informática, Matemática, Estatística, Economia, Administração, Engenharias e áreas correlatas;
+Local: Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+Linguagens de programação: Proficiência em linguagens de programação como Python e R.
+Banco de Dados: Conhecimento em SQL para manipulação e consulta de bancos de dados. 
+Manipulação de Dados: Habilidade em usar bibliotecas como PySpark para manipulação de dados
+Visualização de Dados: Familiaridade com ferramentas como Power BI ou outras plataformas de Data Visualization, com capacidade de criar visualizações eficazes para comunicar insights.
+Aprendizado de Máquina: Conhecimento em algoritmos de aprendizado supervisionado e não supervisionado (ex: regressão, árvores de decisão, clustering) e experiência em bibliotecas de machine learning como Scikit-learn, TensorFlow ou PyTorch.
+Conceitos Estatísticos: Sólido entendimento de conceitos estatísticos e probabilísticos, incluindo inferência estatística e testes de hipóteses.
+Big Data: Conhecimento em ferramentas e tecnologias de Big Data, como Hadoop, Spark ou NoSQL (MongoDB, Cassandra).
+Modelagem: Habilidade em criar e implementar modelos preditivos e descritivos, além de experiência em validação e ajuste de modelos.
+Comunicação: Capacidade de explicar conceitos complexos de forma clara e acessível para públicos não técnicos e apresentar resultados de maneira eficaz.
+Colaboração: Experiência em trabalhar com equipes multidisciplinares, incluindo engenheiros de dados, analistas e stakeholders.
+Análise Crítica: Habilidade em abordar problemas complexos de forma analítica, avaliando criticamente resultados e metodologias, identificando limitações e viés.
+
+Diferenciais:
+
+Certificações em Databricks e/ou Azure.
+Compromisso com a ética em dados.
+Domínio do setor financeiro.
+Experiência em projetos de dados.
+Familiaridade com ferramentas de DevOps.
+
+Principais responsabilidades:
+
+Aplicar técnicas estatísticas para construir modelos preditivos e descritivos.
+Colaborar com equipes de negócios, engenharia e outras áreas para alinhar objetivos e resultados.
+Criar visualizações eficazes utilizando ferramentas como Matplotlib, Seaborn ou Tableau.
+Documentar processos e resultados, comunicando descobertas de forma clara e concisa para stakeholders.
+Extrair dados de diversas fontes, como bancos de dados, APIs e arquivos.
+Implementar algoritmos de aprendizado de máquina, como regressão, classificação e clustering.
+Implementar modelos em ambientes de produção e monitorar seu desempenho.
+Realizar Análise Exploratória de Dados (EDA) para entender padrões, tendências e anomalias.
+Tratar dados faltantes, remover duplicatas e normalizar dados para análise.
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------

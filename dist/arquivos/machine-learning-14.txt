@@ -1,0 +1,260 @@
+[Oportunidade 1]
+Oportunidade: Quality Assurance Engineer
+
+Sobre a vaga
+In Short
+Arke is searching for a Quality Assurance (QA) Engineer in Brazil, either CLT or PJ. The key focus of the QA Engineer is to develop a quality process focused across multiple projects. The QA Engineer will collaborate closely and work in a cross-functional team to deliver digital transformation by using nonconventional thinking to get into the mindset of how product owners and end users view the product.
+
+What You’ll Be Doing
+The QA Engineer is responsible for Quality Assurance Testing, User Acceptance Testing, scheduling, coordinating and management of releases across different product categories. These releases can include product feature updates, bug fixes, new feature enhancements, and all other aspects introduced to the product line. This role is also responsible for quality review of various applications and includes creating test plans and strategy, test cases in partnership with developers, business analysts and project managers which are used to shape and verify code and check conformance to business and system requirements. The role relies upon manual testing tools and test automation as a new process within Arke.
+
+What We’d Love to See
+3+ years quality assurance/manual testing experience on public facing web applications (desktop, tablet and mobile)
+3+ years of web project experience
+2+ years of automated testing experience (Cypress or Selenium)
+2+ years of API testing experience (Swagger, Postman, or automated)
+Previous release management experience
+Ability to work within an Agile or Waterfall environment, including writing or assisting with story creation and acceptance criteria
+Able to exercise independent judgment and act on it
+Experience using Office 365, including Outlook, Teams, Word, Excel, PowerPoint, and Visio (or other diagramming tool like Miro)
+Experience managing project requirements/test results within Agile tools (i.e., Jira or Azure DevOps)
+Preferred experience using test tools, including BrowserStack or LambdaTest
+Preferred experience with testing on Customer Relationship Management (CRM) and Content Management Systems (CMS) systems both from the user side and admin side
+ADA & WCAG Compliance testing experience preferred
+Preferred proven experience writing automated test scripts for functional and integration testing
+Knowledge of JavaScript, CSS, HTML, Front-end Frameworks (i.e., Next JS and React) preferred
+
+Soft Skills
+Able to exercise independent judgment and act on it
+Excellent listening, interpersonal, written, and oral communication skills
+Logical and efficient, with keen attention to detail
+Highly self-motivated and directed
+Ability to effectively prioritize and execute tasks while under pressure
+Strong customer service orientation
+Experience working in a team-oriented, collaborative environment
+Ability to maintain positive and productive working relationships with stakeholders, peers, and leadership
+
+Nice To Have
+Bachelor’s degree from an accredited college/university, with a preferred concentration in Business, Management Information Systems, or Accounting
+
+Who We Are
+Arke is a full-service experience design and technology consultancy that believes in providing more – much more. We change the way brands approach digital transformation and create defining moments to better connect brands with their customers. Arke’s core values are the soul of who we are and shape everything we do. We are authentically unique, operate with high standards, and love what we do
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Scientist, Brazil
+
+Sobre a vaga
+We partner with the world’s most valuable brands to build digital solutions that transform businesses. As a digital native, we bring a 29-year track record of accelerating business impact through complete and scalable digital solutions. With a global presence of 6,000+ professionals in strategy, research, data science, design, and engineering, we unlock top-line growth, improve customer experience and drive operational efficiency.
+
+General Description
+We are looking for a Data Scientist who specializes in recommendation systems to help us build a new algorithm to recommend products based on the purchase history of customers and various other factors. The ideal candidate will have a deep understanding of machine learning, data analysis, and statistical modeling, with a proven track record of developing and deploying recommendation systems at scale.
+Responsabilities:
+Algorithm Development: Design, develop, and implement recommendation algorithms for product suggestions based on customer purchase history and other relevant data.
+Data Analysis: Analyze large datasets to uncover patterns, trends, and insights that drive the recommendation engine.
+Model Training: Train and validate machine learning models to ensure high accuracy and performance of the recommendation system.
+Collaboration: Work closely with cross-functional teams including engineering, product management, and marketing to integrate the recommendation system into our product offerings.
+Performance Monitoring: Monitor and optimize the performance of the recommendation system, making adjustments and improvements as needed.
+Documentation: Maintain comprehensive documentation of algorithms, models, and processes.
+Requirements for this challenge:
+Bachelor’s degree in Computer Science, Data Science, Machine Learning, Statistics, or a related field.
+Solid experience in data science with a focus on recommendation systems and international projects.
+Proficiency in programming languages such as Python, R, or Java.
+Experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, Scikit-learn).
+Strong understanding of algorithms and data structures.
+Experience with recommendation system techniques such as collaborative filtering, content-based filtering, and hybrid methods.
+Must-have experience with Spark.
+Knowledge of frameworks and tools like Apache Mahout, Surprise, and LightFM.
+Experience working with machine learning on Databricks.
+Experience with SQL and other tools to exploit data for a clear, strategic vision.
+Analytical Skills: Strong analytical and problem-solving skills with the ability to work with complex datasets.
+Communication: Excellent verbal and written communication skills in English, with the ability to present technical concepts to non-technical stakeholders.
+Team Player: Ability to work effectively in a collaborative, fast-paced environment.
+Nice to Have
+Familiarity with A/B testing and other validation techniques.
+Knowledge of cloud platforms (e.g., AWS, GCP, Azure) and their machine learning services.
+Experience with MLOps practices, including model deployment, monitoring, and automated workflows using Azure DevOps, and Databricks.
+Our benefits:
+- Health plan and dental plan;
+- Meal allowances;
+- Childcare assistance;
+- Extended parental leave;
+- Gympass
+- Annual profit-sharing distribution;
+- Life insurance;
+- Partnership with an online mental health platform;
+- CI&T University;
+- Discount Club;
+- Support Program: legal; financial; physiotherapy; psychological guidance; nutritionist and more;
+- Pregnancy course and responsible parenthood;
+- Partnership with online course platforms
+- Platform for language learning;
+- And many others.
+#Midsenior
+
+
+CI&T is an equal-opportunity employer. We celebrate and appreciate the diversity of our CI&Ters’ identities and lived experiences. We are committed to building, promoting, and retaining a diverse, inclusive, and equitable company and culture focused on creating a better tomorrow.
+At CI&T, we recognize that innovation and transformation only happen in diverse, inclusive, and safe work environments. Our teams are most impactful when people from all backgrounds and experiences collaborate to share, create, and hear ideas.
+Before applying for our opportunities take a look at Conflict of Interest Policy on website.
+We strongly encourage candidates from diverse and underrepresented communities to apply for our vacancies.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Especialista de Arquitetura de Dados
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+Principais atividades e responsabilidades:
+
+Estabelecer e manter diretrizes de gerenciamento de dados, trabalhando em estreita colaboração com linhas de negócios, analistas de negócios, equipe de governança de dados e engenheiros de dados em toda a organização;
+Identificar requisitos de negócios para dar suporte a diferentes casos de uso de dados;
+Definir padrões e políticas de arquitetura de dados que garantirão a pontualidade, qualidade, segurança e disponibilidade dos dados;
+Ser um líder na definição de melhores práticas e pensamento criativo;
+Treinar e orientar diferentes equipes sobre as melhores práticas de gerenciamento de dados;
+Promover uma arquitetura de dados adaptável e em constante melhoria
+
+Qualifications
+
+Ensino superior completo, preferencialmente em Ciências da Computação, Engenharia da Computação, Tecnologia da Informação, Análise de Negócios, ou áreas afins
+Compreensão aprofundada do fluxo de dados organizacionais e seu uso na tomada de decisões gerenciais
+Compreensão aprofundada e experiência na implementação do paradigma Data Mesh
+Experiência com plataformas de dados e ferramentas relacionadas de ETL/ELT, microserviços, arquitetura orientada a domínios (DDD), gestão de produtos de dados
+
+Habilidades
+
+Excelentes habilidades de comunicação, escrita e verbal, com capacidade de gerenciar informações, dados e correspondência em vários níveis
+Fortes habilidades interpessoais com capacidade demonstrada de trabalhar de forma independente e multifuncional com várias partes interessadas do negócio
+Solucionador de problemas com habilidades de pensamento crítico, incluindo aptidão para se adaptar às mudanças e prosperar em uma organização dinâmica
+
+Additional Information
+
+O que te oferecemos como diferencial!
+
+Temos importantes reconhecimentos do mercado como selo Ideia Sustentável e WEPS – Empresas empoderando mulheres. Além disso, fomos considerados, pela quinta vez consecutiva, uma das empresas mais inovadoras do mundo pela revista Forbes.
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o ShareSave - programa de ações para todos os funcionários da Experian!
+
+E ainda tem mais! Não deixe de acessar a nossa página de carreiras para conhecer todos os nossos benefícios e diferenciais!
+
+Não atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga, mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Backend Engineer in Sustainable Agtech & AI @ Adaviv -an MIT Spinoff
+
+Sobre a vaga
+Where would you work?
+Adaviv, spun off from MIT, offers the world's first farmer-centric AI platform for greenhouse and controlled farms. Our AI mentor empowers farm managers and upskills workers, providing real-time insights to enhance productivity, retention, and operational efficiency. Based at Greentown Labs, Somerville, MA, Adaviv serves leading greenhouse and indoor farms globally. We boost yields by up to 31% and cut losses by 45%, saving managers hours each week for critical decisions like worker feedback, treatment optimization, and crop planning. We're growing and seeking passionate, mission-driven individuals with a growth mindset to join our team.
+
+What would you be doing?
+As a Senior Backend Application Engineer at Adaviv, you will be working with our engineering team as well as Product Lead, CTO, Frontend engineers and our UI/UX designers to advance our CI/CD pipeline and implement new data pipelines and APIs for our beta and production-level mobile and web apps towards supporting a growing pool of clients across the Americas and building game-changing products for sustainable Agriculture. You will work on building, maintaining and improving our cloud tech stack. You will also work with the software team to create and maintain an optimized data schema for these new features using google cloud and AWS infrastructure.
+
+You’ll have the opportunity to make a big impact on both the company and our customers. We bring design-to-value thinking to all dimensions of our product development and believe in designing highly intuitive experiences that make our end customer’s job easier. You'll be in charge of quickly improving performance and developing high-impact features, while also keeping one eye on scalability and security of backend services as we grow. At Adaviv, we value continuous learning and adaptability, encouraging you to explore new technologies and methodologies in our fast-paced environment.
+
+We thrive on cross-functional collaboration and communication, with our engineers working closely with product leads, designers, and front-end developers to deliver seamless solutions. For example, we involve engineers in customer workshops and are highly collaborative as we design and refine features like our AI-powered insight delivery.
+
+Who are we looking for?
+We are seeking a passionate individual with 3+ years of engineering experience in industrial production settings, a proven track record of consistently achieving engineering milestones and KPIs and a can-do-will-do mindset to build and grow with our company at a fast, but rewarding pace. One of your super powers is your ability to quickly turn business requirements into high quality implementations of backend application services that support our mobile and web-based apps, while collaborating and communicating effectively with our front-end engineers and UI/UX designer. It would be necessary for this role to have excellent communication skills.
+
+Agile software development is fundamental to your work and you possess a solid toolset for API and data pipeline/analytics development. You keep the end-user front of mind and will help us cultivate empathy for our customers and for fellow team members.
+
+Degree Requirement:
+
+B.Sc or M.Sc in Computer Science, Software Engineering or a relevant field (not a must but strongly preferred).
+
+Required Skills and Qualifications:
+
+5+ years experience in back-end/API software development in an industrial setting (production level contribution).
+5+ years industry experience developing, deploying, and maintaining APIs, relational databases and data pipelines is a must.
+Expertise in in one of the programming languages used to develop cloud tech stack for backend services, savvy in useful libraries, tools, platforms, and development environments that are widely used.
+Experience building and deploying APIs that are used commercially.
+Expertise in agile and continuous software development.
+Strong background in Test-Driven Development and ability to independently carry out all phases of a software development process.
+Demonstrated aptitude in current state-of-the-art developments of cloud applications and rapid development frameworks.
+
+Preferred but not Required Skills:
+
+Fluency in Python, Typescript
+Dual degrees in relevant fields of CS, Software Engineering, Design, math etc.
+Experience building software products for traditional industries like agriculture, manufacturing, supply chain, energy or adjacent fields.
+Familiarity with User-Centric Design (UI/UX theory) and first-hand experience surveying customer feedback.
+Full-stack development experience (Python, AWS ecosystem - data orchestration tools)
+Fundamental knowledge of data engineering and algorithm principles
+
+Additional Details:
+
+This role requires full-time engagement.
+Remote or hybrid remote-in-person flexible.
+Annual salary. We offer an opportunity for equity ownership, with a clear vesting schedule and the potential for significant growth as the company scales.
+
+Final Words. 
+Principles of sustainability are at our core. We value integrity, excellence, hard work, respect, and collaboration. You'll operate as a member of a fun, diverse team (6 nationalities!) and work both independently and collaboratively. We promote and foster diversity of people and ideas, while cultivating empathy for our customers and team members.
+
+We are committed to your professional growth, offering access to conferences, workshops, and continued education support. Adaviv also provides flexible remote or hybrid work options to help you balance your professional and personal life effectively.
+
+Want to be a part of our team? If Adaviv sounds like the type of company you’d like to be a part of and want to help us change how we grow food and medicines for the better, then please apply!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Coordenador(a) de Engenharia de Dados
+
+Sobre a vaga
+Quais são os desafios da área e do cargo:
+A área de Digital do Grupo Fleury desempenha um papel crucial na identificação das necessidades dos usuários e das áreas de negócios, mapeando a experiência, e na construção e sustentação de produtos digitais alinhados à jornada do usuário. Além disso, atua como facilitadora na adoção de inovações nos serviços digitais para fortalecer a presença da marca na vida dos clientes.
+
+A pessoa que assumir essa posição será responsável por criar soluções baseadas na modelagem de quaisquer estruturas de dados, explorando técnicas atuais para construção de robustos modelos de dados que apoiem os analistas e cientistas no desenvolvimento de projetos. Modelar problemas complexos, definir requisitos de sistema e garantir a qualidade e integridade dos dados.
+
+Principais atividades:
+Gerir, mentorar e guiar engenheiros de dados juniores, plenos e seniors.
+Garantir padronização técnica e qualidade dos dados produzido pelos squads.
+Assegurar alinhamento entre entregas técnicas de múltiplos squads, utilizando framework ágil escalado nas entregas;
+Avaliar e incorporar novas tecnologias e metodologias.
+Mentorar e guiar engenheiros de dados juniores, plenos e seniors.
+Definir estratégias de engenharia de dados e moldar a direção técnica.
+Resolver desafios excepcionalmente complexos e inovadores.
+Estabelecer parcerias estratégicas e liderar iniciativas de pesquisa.
+Fomentar a disseminação do conhecimento em engenharia de dados na empresa e na comunidade.
+Revisar a documentação de todo o processo parametrizado em sistema, para evitar perda de conhecimento.
+Elaborar relatórios gerenciais e apresentar para stakeholders.
+
+Buscamos um profissional que apresente: 
+Necessário graduação completa;
+Necessário experiência na liderança de squads como Tech Leader;
+Necessário experiência em ferramenta de ETL (SSIS, Integration Services) e domínio na criação e deploy de pipeline de dados;
+Necessário experiência em bancos de dados relacional, DW, DATALAKE. Domínio em modelagem de dados dimensional;
+Necessário experiência em Databricks;
+Necessário experiência em Cloud (GCP, AWS e AZURE). Experiência em criação e manutenção de pipelines de dados via código. Monitoramento dos valores e serviços implementados;
+Necessário experiência em linguagens de programação (Python), domínio na criação de API's e transformação de dados;
+Necessário experiência em SQL server;
+
+O que esperamos? 
+Nossa essência inspira nosso dia a dia, por isso, buscamos um profissional alinhado ao propósito de cuidar das pessoas;
+Alguém que zele por cuidado e empatia durante toda a jornada, trazendo o cliente sempre para o centro das ações, buscando a excelência; que lidere com empatia e construa relações de confiança, perfil colaborativo e interdependente, e que tenha bom nível de comunicação
+Desejo de aprender, valorização do trabalho em equipe e troca de conhecimento.
+
+Modelo de Trabalho:
+Modelo de trabalho: Remoto
+Carga horária mensal: 220 horas
+Horários: 08h00 às 17h48
+
+O que oferecemos:
+🩺 Assistência Médica;
+🦷 Assistência odontológica;
+🛒 Vale alimentação;
+🍽️ Vale refeição;
+🏫 Auxílio creche;
+🏥 Seguro de vida;
+💪 Gympass;
+💰 Participação nos Lucros;
+📄 Previdência privada;
+🧬 Benefícios exclusivos para promover a saúde e bem-estar dos colaboradores e seus dependentes.
+
+Trabalhamos para promover a cultura inclusiva que busca a equidade e valoriza as diferenças.
+Para conhecer mais sobre o Grupo Fleury, acesse o site: http://www.grupofleury.com.br
+-----------------------------------------------------------------------------------

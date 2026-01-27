@@ -1,0 +1,342 @@
+[Oportunidade 1]
+Oportunidade: SR Engenharia de Software Back-end (Java)
+
+Sobre a vaga
+Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários!
+
+Sobre a ília
+
+Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia.
+
+Certificada pelo 5º ano consecutivo como Great Place to work aqui na ília acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries!
+
+#Vempraília
+
+Sobre a vaga:
+
+Desenvolver e manter plataformas e infraestruturas de software que facilitem os processos, acelerem o time to market e otimizem custos operacionais dos times de engenharia.
+Trabalhar em parceria com os times de produto para entender as necessidades e requisitos de suas soluções.
+Desenvolver e implementar soluções de software escaláveis, eficientes e seguras.
+Automatizar processos e tarefas para melhorar a produtividade e a qualidade.
+Monitorar e analisar o desempenho das plataformas e infraestruturas de software.
+Visão sistêmica do ecossistema, ajudando a identificar pontos que podem ser evoluídos e riscos.
+Apoiar na sustentação da Plataforma e serviços oferecidos no portifólio do time.
+Trabalhar em projetos de desenvolvimento (Fullstack) e manutenção de plataformas e infraestruturas de software.
+Participar ativamente de reuniões e discussões para definir estratégias de desenvolvimento de software e plataformização.
+Desenvolver especificações técnicas para as soluções de software.
+Implementar soluções de software de acordo com as especificações técnicas.
+Testar e depurar soluções de software.
+Documentar soluções de software.
+Divulgar e orientar usuários na utilização nossos produtos.
+Acompanhar tendências de mercado e recomendar melhorias tecnológicas.
+Fazer apresentações das soluções em fóruns e eventos com demais times da área.
+
+
+Requisitos:
+
+Formação superior em Ciência da Computação, Engenharia da Computação ou áreas afins.
+Conhecimento em boas práticas de desenvolvimento;
+Conhecimento de técnicas de teste como Testes unitários, Segurança, Performance, funcionais e não funcionais e testes automatizados.
+Experiência em desenvolvimento de software.
+Vivência em times que atuam com metodologias ágeis.
+Experiência em linguagens de programação, Java e JavaScript/Typescript.
+Diferencial: Python, Go.
+Conhecimentos em frameworks e bibliotecas de software, Spring Boot, NestJS e React.
+Conhecimentos em bancos de dados, como PostgreSQL, MySQL ou similares.
+Conhecimentos em ferramentas de CI/CD, como Jenkins, Docker, Terraform, Gitlab ou similares.
+Conhecimento em orquestração de containers com Kubernetes.
+Diferencial: Conhecimento em ferramentas de service mesh como Istio, linkerd ou similares.
+Conhecimento em ferramentas de monitoramento como Prometheus, Thanos, Grafana ou similares.
+Experiência em cloud computing AWS, serviços como EC2, S3, RDS, Lambda, SQS e SNS.
+Capacidade de trabalhar de forma independente e em equipe.
+Capacidade de resolver problemas complexos.
+Capacidade de comunicar ideias de forma clara e concisa.
+Capacidade de aprender e se adaptar rapidamente.
+
+
+Benefícios e Incentivos:
+
+Nossa contratação é CLT- 40h semanais com jornada flexível, sendo executada de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian, abaixo você encontra os benefícios de forma resumida. #vempraília
+
+Para Saúde e bem-estar:
+
+Plano de Saúde e Odontológico SulAmérica extensivo a dependentes;
+Vale Alimentação/Refeição em cartão flexível Caju benefícios 
+Seguro de Vida;
+Auxílio Home-Office em cartão flexível Caju benefícios;
+Wellhub (Gympass);
+TotalPass.
+
+
+Para o seu Desenvolvimento:
+
+ília University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional;
+Language Academy: Escola de idiomas para ílians;
+í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências;
+
+
+Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais: 
+
+Plano de Saúde PET- Guapeco 
+BYOD- Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide!
+Seu Niver, seu bolo!
+Seu Networking Vale Prêmio - Programa de premiação a indicação de novos funcionários.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: PESSOA DESENVOLVEDORA JAVA SR – AFIRMATIVA PARA PESSOAS NEGRAS - REMOTO
+
+Sobre a vaga
+Descrição da vaga
+Somos o grupo educacional mais diversificado do país. Todos os dias, criamos futuros incríveis através da inovação. Colocamos a mão na massa para tirar as ideias do papel e colocá-las em prática. Enfrentamos desafios com resiliência e nos adaptamos às mudanças constantes.
+
+Por aqui, somos um time e não heróis, guiados pela vontade de fazer a diferença e conectados de um só jeito, o #JeitoCogna. Nossa relação é direta e respeitosa, e o sucesso dos nossos alunos e clientes é o nosso sucesso.
+
+Além disso, valorizamos a diversidade, porque sabemos que quanto mais diverso é o nosso repertório, mais abrangente e inclusivo seremos. Juntos impulsionamos as pessoas a construírem uma melhor versão de si! E aí, bora fazer parte da empresa líder absoluta do segmento educacional? Vem pra Cogna.
+
+
+Responsabilidades e atribuições: 
+Desenvolver aplicações Java e/ou Kotlin utilizando o Spring Framework;
+Implementar design patterns e boas práticas de engenharia de software;
+Trabalhar com mensageria e integração de sistemas em ambiente AWS;
+Participar ativamente em projetos de desenvolvimento de software;
+Contribuir com a equipe na resolução de problemas e melhorias contínuas.
+
+Requisitos e qualificações: 
+Graduação em Ciência da Computação, Engenharia de Software ou áreas afins;
+Experiência com programação orientada a objetos e desenvolvimento Java e/ou Kotlin;
+Conhecimento em bancos de dados SQL e NoSQL;
+Certificações em tecnologias específicas serão um diferencial;
+Habilidade de comunicação eficaz e trabalho em equipe;
+Proatividade, capacidade de aprendizado contínuo e resolução de problemas.
+
+
+O que você pode esperar da gente?
+Participação nos lucros: resultados com comemoração fazem parte do jeito Cogna.
+Vale-refeição ou alimentação: num cartão de benefícios flexível.
+Assistência médica: um abrangente plano de saúde, com inclusão de dependentes e coparticipação.
+Assistência odontológica: está disponível para manter seu sorriso.
+
+
+Mas espera, ainda tem mais! 
+
+Bolsas de estudo de graduação e pós graduação: nossas unidades de ensino para que você e seus dependentes (cônjuge e filhos).
+Day off no aniversário: você poderá escolher um dia para relaxar e celebrar.
+Convênio SESC: abre as portas para as inúmeras oportunidades de melhora na qualidade de vida.
+Convênio farmácia Univers: descontos numa variedade de medicamentos.
+Universidade corporativa: diversas trilhas e cursos gratuitos na nossa universidade corporativa para você seguir evoluindo com a gente.
+Descontos em livros: para você adquirir os melhores títulos em nossas editoras.
+Wellhub (Gympass): para que você possa se movimentar no seu dia a dia.
+Programa Ninho: Um programa dedicado às nossas famílias que estão aguardando um novo bebê.
+Valoriza - Programa de Recrutamento Interno: Para impulsionar sua carreira por meio de oportunidades internas.
+
+
+Aqui, acreditamos no respeito, na diversidade e na busca da inclusão em todas suas frentes. Todos os candidatos qualificados serão considerados independentemente de raça, gênero, identidade, expressão de gênero, orientação sexual, nacionalidade, genética, deficiência ou de qualquer outra base.
+Nosso propósito é avançar cada vez mais, gerando empregabilidade para talentos diversos. Venha enriquecer nosso time!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Java Backend Software Engineer (Brazil)
+
+Sobre a vaga
+Java Backend Software Engineer
+BeyondRisk AI-6
+Brazil (Remote)
+
+Java Backend Software Engineer
+Join BeyondRisk AI-6 and build the intelligent engine powering the next generation of enterprise automation! We're seeking passionate Java Backend Software Engineers to architect and construct the core infrastructure that enables our AI-6 platform to automate complex business processes and drive transformative outcomes for global organizations. Your work will be the bedrock upon which our cutting-edge AI solutions operate.
+
+About the Role
+We’re looking for skilled Java Backend Software Engineers excited by the challenge of building highly scalable, resilient, and secure server-side systems designed for AI-driven workflows. You'll tackle complex problems in distributed systems design, optimize data pipelines for real-time AI interactions, and build the robust infrastructure handling potentially millions of automated tasks daily. You'll primarily use Java (Spring Boot) and Python on AWS, design critical APIs, manage data persistence (PostgreSQL, Redis), and ensure seamless integration with messaging systems like Kafka. You'll collaborate closely with frontend, product, and our AI/ML teams, gaining exposure to how backend systems power intelligent applications and exploring ways AI can enhance development velocity and system performance.
+
+This role is fully remote, based in Brazil. We embrace a flexible remote work environment.
+
+Java Backend Software Engineer
+Location: Remote, Brazil
+
+About BeyondRisk AI-6
+
+BeyondRisk empowers organizations to rapidly design, build, and scale AI-driven solutions through our AI-6 platform. We seamlessly bring together smart agents, data, and automation so enterprises can solve their toughest challenges at speed. Backed by leading Silicon Valley investors - we’re expanding our core engineering team. If you’re passionate about building robust backend systems that power cutting-edge AI, join us.
+
+Key Responsibilities
+Design, build, test, deploy, and maintain scalable backend services, APIs, and applications primarily using Java (Spring Boot).
+Create well-documented, reliable, and performant RESTful APIs using standards like OpenAPI/Swagger.
+Design and implement backend systems capable of efficiently serving, monitoring, and interacting with machine learning models and AI workflows.
+Design data models and manage interactions with databases like PostgreSQL.
+Explore and leverage modern development practices, potentially including AI-assisted tooling, to accelerate the delivery of high-quality code and enhance system observability.
+Work effectively with frontend engineers, AI/ML specialists, product managers, and other stakeholders to deliver cohesive solutions.
+Champion high-quality code, perform code reviews, and advocate for engineering best practices.
+
+You’ll Excel in This Role If You:
+Have Proven Backend Engineering Experience.
+Are Proficient in Java: Strong programming skills in Java (ideally with Spring Boot) for backend development.
+Embrace Cloud Technologies: Enjoy working with and have experience building solutions on cloud platforms, particularly AWS.
+Are Passionate About APIs: Have a strong understanding of RESTful API design principles and best practices.
+Are Curious about AI/ML concepts and interested in building the infrastructure that powers intelligent systems.
+Are a Collaborative Problem Solver: Thrive in a team environment, enjoy tackling complex technical challenges, and communicate effectively.
+Focus on Quality & Scalability: Understand the importance of writing clean, testable, maintainable code and building systems that scale.
+Adapt Quickly: Are comfortable working in a fast-paced environment and learning new technologies.
+
+Preferred Qualifications
+Demonstrable track record of building and deploying complex backend systems in production.
+Strong proficiency with Java (Spring Boot) for backend development.
+Experience building and consuming RESTful APIs, with knowledge of OpenAPI/Swagger.
+Hands-on experience with relational databases (PostgreSQL preferred).
+Experience with microservices architecture is a plus.
+
+Why Join BeyondRisk
+Compensation & Equity: Competitive salary + stock options.
+High-Impact Role: Directly contribute to the core platform powering BeyondRisk’s success globally.
+Cutting-Edge AI Platform: Work on the backend systems of a next-gen hyper-automation solution transforming enterprises.
+Culture & Learning: A culture of continuous learning, technical excellence, and close collaboration between engineering and AI/ML teams.
+Global Collaboration: Thrive in a dynamic, international environment, working closely with talented colleagues across the US, Europe, and Asia.
+Fast-Paced Growth: Collaborate with a passionate team and a hands-on leadership group, backed by top Silicon Valley investors.
+Long-Term Opportunity: Shape the future of AI – be at the forefront of enterprise innovation by building the technology that enables it.
+
+Ready to Build the Future of AI?
+If you’re excited to build scalable, robust backend systems that power cutting-edge AI solutions, we want to hear from you.
+
+Apply now with an up-to-date CV (PDF). Come shape the next era of enterprise AI at BeyondRisk.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Machine Learning SR
+
+Sobre a vaga
+Somos uma empresa inovadora, tecnológica e premiada. A Riocard Mais, a maior empresa de bilhetagem eletrônica e digital do país, busca continuamente evoluir para entregar as melhores soluções e facilidades para os nossos clientes.
+
+Com um único cartão a Riocard Mais aumenta a empregabilidade, facilita a viabilização de políticas públicas de mobilidade através de benefícios tarifários como o Bilhete Único Intermunicipal e a Tarifa Social, ajuda o trabalhador a economizar com as integrações, dá muitas vantagens como o cashback do Clube Riocard Mais e, claro, a liberdade para ele chegar aonde quiser com praticidade e tecnologia.
+
+Nosso destino é chegar cada vez mais longe. Aproveitando, sempre, o caminho ao seu lado.
+
+Ainda bem que tem RioCard!
+
+Responsabilidades e atribuições
+
+Atribuições:
+
+ Desenvolver, implementar e manter pipelines de Machine Learning de ponta a ponta em ambiente de produção.
+ Projetar e construir modelos de Machine Learning robustos e escaláveis.
+ Garantir a integridade, qualidade e monitoramento contínuo dos dados utilizados nos modelos.
+ Colaborar ativamente com equipes de engenharia de dados, cientistas de dados e outras áreas para integrar soluções de ML.
+ Contribuir para a definição e implementação de melhores práticas em MLOps (Machine Learning Operations).
+ Realizar análises de performance de modelos e otimização para garantir eficiência e precisão.
+ Participar do processo de experimentação e validação de novas abordagens e tecnologias em ML.
+ Experiência com Contêiner e Orquestração: Docker, Kubernete, Airflow.
+
+
+Requisitos e qualificações
+
+Requisitos Obrigatórios:
+
+ Superior Completo em TI.
+ Experiência comprovada como Engenheiro(a) de Machine Learning
+ Sólida experiência em MLOps (CI/CD, monitoramento, versionamento de modelos, retreino).
+ Uso de IA generativa para MLOps;
+ Proficiência em Python.
+ Experiência com frameworks de Machine Learning (e.g., TensorFlow, PyTorch, scikit-learn).
+ Conhecimento profundo em estruturas de dados e algoritmos.
+ Experiência com bancos de dados (SQL e NoSQL).
+ Experiência com Git/controle de versão.
+
+
+Desejável:
+
+ Familiaridade com ambientes de nuvem (AWS, GCP, Azure, etc.) e serviços de ML em nuvem.
+ Noções em técnicas avançadas de Inteligência Artificial, incluindo Modelos Generativos de Linguagem (LLMs), Vector Databases, RAG e engenharia de prompts.
+ Experiência com MLFlow ou KuberFlow;
+ Experiência em ambientes de big data (Spark, Hadoop).
+
+
+Diferencial:
+
+ Portfólio de projetos de Machine Learning em produção.
+ Contribuições para a comunidade de código aberto em projetos relacionados a ML.
+ Publicações em conferências ou periódicos científicos na área.
+ Experiência com metodologias ágeis (Scrum, Kanban).
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Staff AI Engineer (Conversational AI)
+
+Sobre a vaga
+Chatbot Engineer (Staff)
+
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+TELUS Digital seeks an AI Engineer with strong conversational AI and architecture skills to turn client needs into scalable generative AI solutions. You’ll design and implement conversational AI architectures, working with stakeholders and conversation designers to build, test, and optimize LLM-driven workflows. Using API development, SQL, and the Google suite, you’ll integrate, prompt engineer, and secure AI models while ensuring compliance and performance.
+
+Responsibilities
+
+Discover and analyze business requirements, being the advocate for the customer while also understanding existing technology capabilities.
+Develop application architecture design for high complexity projects, with emphasis on technical architecture, and implement solutions.
+Participate in the review of detailed design specifications, test plans, and user documentation for functional and technical completeness and accuracy.
+Bring creativity, strong logic skills, and the ability to work in a dynamic, challenging, and consultative environment.
+Apply your knowledge of software engineering and AI systems to develop AI solutions targeted at conversational AI use cases.
+Partner with Conversation Designers who specialize in advanced linguistics and conversational best practices, ensuring optimal architecture and conversational flows are being designed.
+Take ownership of implementing and optimizing conversational flows, prompt engineering, and AI components, ensuring they meet project needs with high complexity and scale.
+Navigate and manipulate generative AI models, including large language models, to create prompts and solutions tailored to specific use cases.
+Develop and incorporate AI solutions while adhering to industry best practices, including moderation, security, and compliance standards.
+Lead the charge in testing and evaluating conversational flows, leveraging standard metrics to ensure alignment with business objectives.
+Meet with stakeholders and partners, understanding requirements and translating technical concepts into non-technical verbiage.
+
+Qualifications
+
+Experience with call center technology, Virtual Assistants, GenAI-powered Chatbot development, and conversational voice and chat implementations.
+Experience in the GCP environment, including Google Dialogflow CX, Google CCAI, Google CES, or similar.
+Demonstrable experience with Generative AI and NLP, leveraging LLMs, and prompt engineering for conversational use cases.
+Strong prompt engineering skills, understanding, and leveraging key techniques such as zero-shot, few-shot, chain-of-thought, and others.
+Understanding of the trade-offs between generative AI models and the ability to choose the right model for specific use cases.
+Experience with API development with Python and/or JavaScript, and SQL and SQL-based databases. 
+Experience with solution observability, monitoring, and performance evaluation.
+Familiarity with testing and evaluating AI systems using state-of-the-art methods and best practices.
+Self-starter characteristic, willing to operate nimbly to drive execution/to meet deliverables, and experience working remotely.
+Ability to communicate complex technical terms and concepts effectively to technical and non-technical stakeholders.
+Present strong analytical, creative thinking, decision-making skills, and have the ability to think outside the box to drive continuous improvement.
+Strong collaboration skills and ability to work alongside Data Science specialists, drawing on their expertise in AI model development and fine-tuning to deliver sophisticated AI solutions.
+
+Bonus Points
+
+Experience with data embeddings and vector databases, understanding the trade-off between available options, and leveraging it to optimize data ingestion.
+Experience designing and implementing large-scale conversational systems for a large number of intents and use cases.
+Previous experience in the contact center world.
+Contributions to AI thought leadership in the industry.
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------

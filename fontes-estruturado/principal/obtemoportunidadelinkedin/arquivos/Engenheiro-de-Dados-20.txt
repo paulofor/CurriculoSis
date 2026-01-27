@@ -1,0 +1,290 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados
+
+Sobre a vaga
+Desafio
+
+A Lima Consulting Group está procurando candidatos(as) para colocar a mão na massa em implementações técnicas e código, que gostem de utilizar ferramentas inovadoras e aprender rápido, além de querer fazer a diferença no resultado de negócios de nossos clientes. Os candidatos terão acesso às principais tecnologias, capacitação em nossa forma de trabalhar com dados, plataformas digitais e trabalhar lado-a-lado com consultores e cientistas de dados, desenvolvendo entregas técnicas para grandes empresas. Nossos Engenheiros de Dados ficam atentos às tendências ou inconsistências de dados nas implementações técnicas que afetam as metas de negócios. É uma posição altamente técnica, que exige experiência e habilidades em áreas como programação e ciência da computação.
+
+Responsabilidades
+
+Garantir a consistência nos processos de coleta, ingestão, transformação e integração de dados;
+Diagnosticar, revisar e testar problemas técnicos que possam ser identificados em ferramentas e processos;
+Desenvolver respostas para desafios complexos de mensuração, implementação e uso de dados com equipes de tecnologia de clientes;
+Auxiliar na auditoria contínua do site e plataformas digitais. Atender requisições de suporte de clientes, relacionados com implementações, análise, integrações, desenvolvimento e assuntos relacionados;
+Localizar e definir novas ferramentas e oportunidades de melhoria de processos. Realizar programas de capacitação e certificação fornecidos pelos parceiros Lima Consulting Group (Adobe, Google, Salesforce e outros);
+Manter-se atualizado sobre as tendências tecnológicas do mercado e suas respectivas comunidades;
+Trabalhar e colaborar no tempo com processos estruturados;
+Capacidade de criar e manter procedimentos para análise e extração de dados;
+Grande atenção aos detalhes e organização do dia a dia;
+Trabalhar em estreita colaboração com os consultores e cientista de dados, entendendo os requisitos e ajudando os a obter o máximo em seus projetos.
+
+
+Pré-requisitos
+
+Experiência com programação em Python, SQL, Orientação a objetos;
+Construção e otimização de ETL e ELT;
+Conhecimento em sistemas de processamento de dados distribuídos (ex. Spark, Dask, Kafka, Hadoop etc.);
+Conhecimento em sistemas de automação de pipeline de dados (Airflow, Glue etc.);
+Conhecimentos profundos em utilização e criação de API's;
+
+
+Diferenciais
+
+Experiência técnica com plataformas digitais como Google Analytics, Google Looker Studio, Adobe Marketing Cloud, Salesforce Marketing Cloud, Oracle Marketing Cloud, CMS, CDP e outras relacionadas;
+Conhecimento de ambientes baseados em nuvem como AWS, Azure e GCP;
+Experiência no desenvolvimento de software utilizando softwares de versionamento;
+Conhecimentos técnicos em automação de processos de ingestão, transformação e testes de dados;
+Experiência na prestação global ou remotos, com clientes corporativos;
+Alguma habilidade lidando com liderança executiva;
+Ter trabalhado em consultoria, agência, startup ou empresas com mindset ágil;
+Alto grau de iniciativa e habilidades de resolução de problemas;
+Proficiência em inglês e/ou espanhol;
+Entregas técnicas orientadas a implementação de plataformas de marketing digital (ex.: web analytics, teste AB, DMP, CDP) e suas configurações;
+Conhecimento de HTML e Javascript.
+
+
+A Lima – uma Martech com duas décadas de história no mundo – está presente no Brasil desde 2010. Somos nativos digitais e nascemos com o propósito de construir o futuro digital de
+
+empresas visionárias. Desenvolvendo soluções customizadas, resolvemos as necessidades reais de cada cliente, contando com os melhores profissionais do mercado para isso.
+
+O que esperamos de você
+
+Postura mão na massa para contribuir na construção de soluções para nossos clientes;
+Participação ativa em um time multidisciplinar (squad/tribo);
+Compartilhamento de conhecimento com os colegas;
+Que se sinta confortável em um ambiente multitarefa, exigente e ágil, com clientes de múltiplas indústrias.
+Compreensão do ecossistema de marketing digital, publicidade digital, analytics e/ou business intelligence;
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Software Engineer
+
+Sobre a vaga
+Join our remote team as a Senior Data Software Engineer and play a critical role in building and integrating data solutions. You will work closely with the data science team to take their models and make them production-ready. The ideal candidate will be an expert in Apache Spark, Microsoft Azure, and Python, with experience in forecasting models, data science, and MLOps. You will be responsible for designing, building, and maintaining data pipelines, as well as integrating new data sources into the existing technology stack.
+
+Responsibilities
+
+
+Collaborate with data scientists and other technical staff to design and develop scalable, reliable, and efficient data pipelines
+Integrate new data sources into the existing technology stack
+Write clean, maintainable, and well-documented code
+Ensure the quality and accuracy of data by implementing data validation and monitoring processes
+Deploy, manage, and monitor machine learning models in production
+Work with cross-functional teams to identify and resolve data-related issues
+Contribute to the development of best practices and standards for data engineering
+Implement efficient data storage and retrieval mechanisms
+Maintain and optimize existing data pipelines for maximum performance and scalability
+Provide technical guidance and mentorship to junior team members
+
+
+Requirements
+
+
+3+ years of experience in Data Software Engineering or related roles
+Expertise in Apache Spark and Databricks for building scalable and high-performance data pipelines
+Deep knowledge of Microsoft Azure for developing and deploying cloud-based solutions
+Strong proficiency in Python for data analysis, modeling, and manipulation
+Experience in forecasting models and statistical models for predicting future trends
+Familiarity with Git for version control and collaboration
+Knowledge of MLOps for deploying, managing, and monitoring machine learning models in production
+Ability to work with complex data structures and large datasets
+Excellent communication skills in spoken and written English, at an upper-intermediate level or higher
+
+
+Nice to have
+
+
+Experience with Panda for data manipulation and analysis
+Knowledge of SQL and relational tables
+Understanding of ML models and their practical applications
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de Software Sênior Python | IT Performance
+
+Sobre a vaga
+Estamos em busca de um(a) Desenvolverdor Sênior para atuar no time de Performance e Consolidação. Buscamos uma pessoa proativa, com boa comunicação, que tenha facilidade para cálculos matemáticos e um rápido aprendizado sobre produtos financeiros.
+
+Requisitos
+
+Experiência sólida em Python, com foco em boas práticas de programação (SOLID, Clean Code).
+Proficiência em AWS (AppSync, Lambda, Mensageria AWS, entre outros serviços essenciais para projetos escaláveis com AWS).
+Capacidade de atuar em projetos grandes e distribuídos, garantindo performance e escalabilidade.
+Boa comunicação e trabalho em equipe para interagir com áreas diversas.
+Rápida adaptação e capacidade de aprender novos produtos e conceitos financeiros.
+Disponibilidade para atuar de forma híbrida(3x) na Faria Lima em São Paulo
+Projetos no mercado de investimentos (integrações, dados de custódia, relatórios, etc.)
+
+Diferenciais
+
+Conhecimento em JavaScript/.NET
+Experiência prévia no mercado financeiro ou entendimento de conceitos de rentabilidade e investimentos
+Experiência em criar um projeto escalável do início, para tratar grande volume de dados
+Desejável: atuação em consolidação de investimentos e cálculo de performance (TWR, MWR, IRR)
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Mid Level Data Engineer (GCP) , Brasil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Estamos em busca de uma pessoa Engenheira de Dados Pleno com experiência em Google Cloud Platform (GCP) para atuar no desenho, implementação e manutenção de pipelines de dados escaláveis e confiáveis. A posição exige forte capacidade técnica, visão de arquitetura e experiência prática com ambientes de nuvem, especialmente com GCP.
+
+
+Responsabilidades:
+- Desenhar e implementar pipelines de ingestão e processamento de dados em GCP.
+
+- Trabalhar em conjunto com equipes de dados, produto e engenharia para entender requisitos de negócio e traduzi-los em soluções técnicas.
+
+- Garantir a qualidade, governança e segurança dos dados.
+
+- Otimizar desempenho e custo das soluções implementadas na nuvem.
+
+- Atuar na modelagem de dados para ambientes analíticos (Data Lakes, Data Warehouses).
+
+- Automatizar processos de deploy e monitoramento de pipelines de dados (CI/CD).
+
+- Participar da definição de arquitetura e boas práticas para engenharia de dados na empresa.
+
+Requisitos:
+
+- Experiência comprovada em projetos com Google Cloud Platform (BigQuery, Dataflow, Pub/Sub, Cloud Storage, Composer/Airflow, etc.).
+
+- Sólidos conhecimentos em Python e SQL.
+
+- Experiência com modelagem de dados.
+
+- Conhecimento em arquitetura de dados em nuvem e boas práticas.
+
+- Familiaridade com ferramentas de versionamento (Git) e práticas DevOps (CI/CD).
+
+- Experiência com orquestração de workflows de dados.
+
+- Capacidade de trabalhar de forma autônoma e colaborativa em times multidisciplinares.
+
+- Boa comunicação e organização.
+
+Diferencial:
+- Certificações GCP.
+
+- Conhecimento em ferramentas de Data Quality, Data Catalog e MDM.
+
+- Experiência com dados em tempo real (streaming).
+
+
+
+
+
+ #Midsenior
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Business Intelligence Engineer II, BizOps LATAM
+
+Sobre a vaga
+Description
+
+The Amazon LATAM Carpool BizOps team is looking for a talented, smart, and experienced Business Intelligence Engineer to help us build exceptional tools to generate insights and drive business decisions in the LATAM Retail space.
+
+Joining our team means partnering with a dynamic and creative group who set a high bar for innovation and success in a fast-paced and changing environment. We are hiring a Business Intelligence Engineer to own a business Chapter which is an exciting opportunity to be involved from design-to-execution. As a Business Intelligence Engineer you will be working in one of the world's largest and most complex data warehouse environments. In this role, you will primarily work on designing and building automated reporting and dashboards using complex data. As a BI Engineer, you will operate as a mix of hands-on builder and influencer.
+
+The team’s success depends on our ability to create actionable insight from the data that we and our partners generate. The ideal BIE candidate will have excellent analytical abilities, business acumen, high judgment, strong technical skills, and good written and verbal communication skills. This person will be a self-starter, comfortable with ambiguity, able to think big and be creative (while paying careful attention to detail), and enjoys working in a fast-paced dynamic environment. To be successful in this role, you should have broad skills in data, be comfortable dealing with large and complex data sets, while applying analytical rigor to solve business problems.
+
+___________________________________________
+
+At Amazon Brazil we value Diversity, Equity and Inclusion (DEI) in all our job positions, therefore, we act intentionally so that our internal environment reflect the plurality of the businesses we play and the customers we serve.
+
+In Brazil, we have a Diversity, Equity and Inclusion squad, which is formed by representatives from different roles and areas, as we understand that this agenda must have different perspectives and multiple experiences. Our leadership is committed and understands more and more their role in sharing and acting on our leadership principles, with the purpose of ‘Strive to Be Earth's Best Employer’.
+
+Understanding our responsibility and our need for change, we are conscientious that ‘Success and Scale Bring Broad Responsibility’ Our affinity groups are built from and by volunteers from different businesses and they are an active part of our DE&I strategies definition. Besides that, they act as ambassadors of this agenda, and they will support you from Day1. Remember, at Amazon ‘It’s always Day1’. Our groups are organized in the following fronts: BEN - Black Employee Network, Women@Amazon, Glamazon (LGBTQIA+) and People With Disabilities.
+
+About The Team
+
+Inclusive team culture
+
+At Amazon we embrace our differences and we are committed to furthering our culture of inclusion. We host annual and ongoing learning experiences. Amazon’s culture of inclusion is reinforced within our 16 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Work Life Balance
+
+We believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. We offer flexibility in working hours and encourage you to find your own balance between your work and personal lives.
+
+Mentorship & Career Growth
+
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded professional.
+
+Basic Qualifications
+
+ 4+ years of analyzing and interpreting data with Redshift, Oracle, NoSQL etc. experience
+ Bachelor's degree in BI, finance, engineering, statistics, computer science, mathematics, finance or equivalent quantitative field
+ Experience with data visualization using Tableau, Quicksight, or similar tools
+ Experience with data modeling, warehousing and building ETL pipelines
+ Demonstrated advanced proficiency in English, both written and verbal
+
+Preferred Qualifications
+
+ Experience working as a BIE in a technology company
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+
+Company - Amazon Servicos de Varejo do Brasil Ltda.
+
+Job ID: A2934596
+-----------------------------------------------------------------------------------

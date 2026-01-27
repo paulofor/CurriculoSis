@@ -1,0 +1,294 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Sr.
+
+Sobre a vaga
+Estamos em busca de pessoas apaixonadas por educação e tecnologia!
+Queremos que você saiba atuar em um ambiente que exige a união de múltiplas competências e experiências e com foco no resultado para deixarmos nosso legado no mundo. 
+Se você, assim como nós, tem paixão por educação e tecnologia, o UOL EdTech é para você! 🧡
+ Confira essa oportunidade e vem ser #EdTecher!
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Manter, desenvolver e otimizar pipelines e transformações de dados. 
+Monitorar e melhorar a qualidade de dados. 
+Realizar modelagem analítica de dados. 
+Apoiar a disseminação da cultura data-driven. 
+Orientar pessoas a consumirem os produtos de dados. 
+
+REQUISITOS E QUALIFICAÇÕES
+Superior em Engenharia, Análise e Desenvolvimento de Sistemas, Ciência da Computação, Matemática ou áreas correlatas. 
+Experiência sólida em técnicas e processos de engenharia de dados: Data Lake, desenvolvimento de pipelines de dados (prefect ou airflow), modelagem de dados, ELT/ETL, Data Warehouse e monitoramento de qualidade de dados. 
+Experiência em SQL, Python, DBT, Big Query e Looker. 
+Conhecimento em serviço de cloud GCP relacionados a dados. 
+Conhecimento em banco de dados relacionais (Postgres, SQL Server) e não relacionais (MongoDB e Firestore). 
+Inglês intermediário. 
+ INFORMAÇÕES ADICIONAIS
+Experiência com serviços de cloud AWS e Azure. 
+Conhecimento em otimização de consultas e processos de transformação de dados. 
+Atuação em produtos de dados em mercado B2B.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates either in Latin America, Africa, or Eastern Europe who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+
+
+Responsibilities
+
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java or Groovy or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice-to-have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on NoSQL technologies
+Hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+You can start as soon as possible, ideally immediately
+You are located in either Latin America, Africa, or Eastern Europe
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+Hiring Manager (client) interview (30 min)
+Design & development competency check interview (client) (about 45 minutes)
+Final (client) interview (30 min)
+ 
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+
+ What we offer
+
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Analytics Principal Engineer
+
+Sobre a vaga
+We are Kaizen Gaming
+
+Kaizen Gaming is the leading GameTech company in Greece and one of the fastest-growing in the world, operating in 13 markets with 2 brands, Betano & Stoiximan. We always aim to leverage cutting-edge technology, providing the best experience to our millions of customers who trust us for their entertainment. We are a diverse team of more than 2.200 Kaizeners, from 40+ nationalities spreading across 3 continents. Our #oneteam is proud to be among the Best Workplaces in Europe and certified Great Place to Work across our offices. Here, there’ll be no average day for you. Ready to press play on potential?
+
+Let's start with the role
+
+We’re looking for an Analytics Principal Engineer to join our Analytics teams. You will help teams devise elegant and performant solutions to real business problems, guide them in designing and implementing these solutions in code, teach coding, testing, and performance analysis techniques, while also carrying out code reviews. You will frequently attend teams' scrum events (especially refinements) and help teams' product owners better understand of the technical challenges involved. Production problems are usually escalated to the Principal Engineer for triaging before landing in a team's backlog. Principal Engineers should also stay up to date on the latest technologies and drive their adoption. Our Analytics team(s) has expertise in several fields including, but not limited to, Databricks,/ Delta Lake,/ SQL Server,/ Azure Data Warehouse, SSRS, and SSIS.
+
+As an Analytics Principal Engineer you will:
+Lead team enablement initiatives;
+Orchestrate plans by motivating other team members and collaborating closely to achieve them;
+Break efforts down and guide the reporting engineers through gaps to lead them to sound technical solutions;
+Share technical expertise and knowledge sharing. Present practices, innovations, and inventions inside and outside of the organization;
+Partner with management to find new potential talent;
+Mentor engineers to take them to the next level of their careers;
+Set up cross-organization engineering best practice standards and guidelines. Create a culture where contribution patterns and quality are paramount. Partner closely with teams to implement these standards.
+
+What you’ll bring
+
+Hands-on experience in writing complex, highly optimized SQL code for data manipulation and reporting;
+Solid experience in ETL/ELT, Data Modeling, Data Warehouse Architecture and Reporting tools;
+Knowledge of Data Governance;
+Good people skills;
+Team player, analytical thinker and problem solver, with ability to self-organize;
+Fast learner - you will need to get up to speed on business, people and teams, infrastructure and the technologies used, as quickly as possible.
+
+Nice to have
+
+A bachelor's degree in a quantitative/technical field (e.g. Computer Science, Statistics, Engineering) or equivalent industry experience;
+Experience in the Microsoft BI stack (SQL Server, SSRS, SSAS);
+Experience with Azure Data platforms such as Synapse Analytics, Data Lake, Databricks;
+Experience in programming languages preferable in Python or Scala;
+Exposure to CI/CD;
+Exposure to an Agile team-working environment.
+
+Kaizen Gaming Perks
+🏃 A buddy will support you with your onboarding.
+💸 Competitive salary package and bonus scheme
+📚 Unlimited access to Udemy & continuous training for all your learning and development needs
+👩‍⚕️ Health and life insurance for you and your family
+💰 Monthly allowance for lunch & commuting expenses
+⭐Clear career paths and a developmental 360° feedback framework
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates in Latin America who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+
+
+Responsibilities
+
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java, or Groovy, or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice to have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on either SQL or NoSQL technologies
+ If you have experience with NoSQL technologies, then we would be looking for hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+If you have experience with SQL technologies, we need you to have in-depth experience building and maintaining services with SQL databases.
+You can start as soon as possible
+You are located in Latin America
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Experience with Amazon Athena
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+(Client) Hiring Manager interview (30 min)
+(Client) Design & development competency check interview (about 45 minutes)
+(Client) Final interview (30 min)
+
+
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+ 
+What we offer
+
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates either in Latin America, Africa, or Eastern Europe who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+
+
+Responsibilities
+
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java or Groovy or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice-to-have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on NoSQL technologies
+Hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+You can start as soon as possible, ideally immediately
+You are located in either Latin America, Africa, or Eastern Europe
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+Hiring Manager (client) interview (30 min)
+Design & development competency check interview (client) (about 45 minutes)
+Final (client) interview (30 min)
+ 
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+
+ What we offer
+
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------

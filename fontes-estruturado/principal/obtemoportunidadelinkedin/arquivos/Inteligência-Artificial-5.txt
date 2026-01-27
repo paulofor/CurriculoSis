@@ -1,0 +1,235 @@
+[Oportunidade 1]
+Oportunidade: Data Developer (Engenharia de Dados) Sênior/Especialista
+
+Sobre a vaga
+Estamos com uma oportunidade para um(a) Data Developer Sênior ou Especialista (Engenharia de Dados). Como parte do time de produtos de dados, sua missão é usar seus conhecimentos, habilidades para explorar problemas, desenhar, desenvolver produtos impactantes, entregar observando governança, segurança e performance, em um ambiente colaborativo e de inovação.
+
+Acreditamos que a engenharia de dados é uma disciplina essencial para este produto, sendo responsável pela arquitetura e tecnologias para movimentar e organizar grandes volumes de dados, observando governança, segurança e performance.
+
+🧑‍🦽Todas as nossas vagas estão disponíveis para pessoas com deficiência! Que tal se juntar ao nosso time e embarcar nessa jornada com a gente?
+
+Responsabilidades:
+Participar das conversas sobre o produto e parear com Group Product Manager e Product Managers, entendendo e garantindo a entrega de valor;
+Criar dashboards e visualizações de dados que apoiem a tomada de decisão;
+Desenhar a arquitetura e avaliar as tecnologias disponíveis para resolver o problema certo;
+Combinar a arquitetura e tecnologia para desenvolver e entregar componentes reutilizáveis como conectores, APIs, SDKs, CLIs;
+Testar e automatizar tudo que for possível;
+Validar e adaptar os componentes de acordo com os feedbacks dos usuários;
+Colaborar com a qualidade e inovação tecnológica do produto e ambiente de trabalho.
+Conhecimentos e Habilidades
+Facilidade para aprender novas tecnologias e se adaptar às mudanças;
+Git Workflows, CI/CD e automação de processos;
+Infra as a Code - OpenTofu/Terraform;
+Facilidade de comunicação e colaboração com outras pessoas;
+Conhecimento e habilidade em alguma linguagem de programação e consulta, preferencialmente Python e/ou Java e SQL;
+Conhecimento e habilidade em alguma tecnologia de processamento distribuído, preferencialmente Spark;
+Conhecimento e habilidade em alguma nuvem, incluindo serviços de computação, armazenamento, bancos de dados e Analytics em AWS;
+Conhecimento e habilidade em bancos de dados SQL, NoSQL e serviços de streaming distribuídos, por exemplo: PostgreSQL, Cassandra e Kafka;
+Conhecimento sobre arquiteturas de Big Data, por exemplo: Data Warehouse, Data Lake, Lambda, Kappa, Data Mesh;
+Conhecimento sobre modelagem e cargas de trabalho de dados, incluindo modelagem normalizada, multi-dimensional, e cargas de trabalho OLTP e OLAP;
+Vivência com grande volume de dados;
+
+Requisitos e Qualificações:
+Git Workflows, CI/CD e automação de processos;
+Infra as a Code - OpenTofu/Terraform;
+Conhecimento e habilidade em alguma linguagem de programação e consulta, preferencialmente Python e/ou Java e SQL;
+Conhecimento e habilidade em alguma tecnologia de processamento distribuído, preferencialmente Spark;
+Conhecimento e habilidade em alguma nuvem, incluindo serviços de computação, armazenamento, bancos de dados e Analytics em AWS;
+Conhecimento e habilidade em bancos de dados SQL, NoSQL e serviços de streaming distribuídos, por exemplo: PostgreSQL, Cassandra e Kafka;
+Conhecimento sobre arquiteturas de Big Data, por exemplo: Data Warehouse, Data Lake, Lambda, Kappa, Data Mesh;
+Conhecimento sobre modelagem e cargas de trabalho de dados, incluindo modelagem normalizada, multi-dimensional, e cargas de trabalho OLTP e OLAP;
+Vivência com grande volume de dados;
+
+O que te tornaria um especialista para essa vaga:
+Conhecimento avançado em alguma tecnologia de processamento distribuído, preferencialmente Spark, e/ou bancos de dados SQL e/ou NoSQL, preferencialmente Oracle, PostgreSQL e/ou DynamoDB;
+Experiência com ambientes de Big Data em produção, incluindo o desenho da arquitetura, provisionamento de infraestrutura, desenvolvimento de integração de dados (pipelines, workflows), monitoramento de performance e custos;
+
+O que seria muito legal se você tivesse:
+Experiência com produtos em especial ERP;
+Conhecimento em AWS: Athena, S3, Lambda, IAM;
+Conhecimento em Cloud em especial AWS;
+Conhecimento em em alguma plataforma como DataBricks, SnowFlake ou DataIku.
+Ter participado em construção de produtos de dados e inteligência artificial
+
+O modelo de trabalho varia conforme a localização: presencial para quem está em Uberlândia/MG, híbrido (3x por semana no escritório) para São Paulo/SP e remoto para as demais regiões.
+
+Se você deseja crescer, encarar novos desafios e fazer parte de um time que está construindo algo grande, seu lugar é aqui! Topa o desafio?
+
+Benefícios que vão além da Jornada Sankher
+Na Sankhya, valorizamos a individualidade e oferecemos benefícios que promovem liberdade, equilíbrio e bem-estar em todas as áreas da vida.
+
+💵 Participação nos Resultados (PPR)
+🥗 Vale Alimentação/Refeição iFood
+🤰 Licença Maternidade e Paternidade Estendida
+👶 Auxílio Creche
+🩺 Plano de saúde
+😁 Plano odontológico
+🎉 Day OFF no Aniversário
+💵 Empréstimo Consignado
+🏋️ Auxílio vida saudável
+💚 Seguro de Vida
+🚍 Vale Transporte
+💻 Equipamentos Fornecidos pela Empresa
+🌎 Auxílio Idiomas
+📜 Auxílio Graduação, Pós-Graduação, Auxílio Certificações, Universidade Corporativa Sankhya
+
+🔝 Na Sankhya, sua jornada de crescimento nunca para. 🚀💚
+
+🎯 Plano de Performance e Desenvolvimento Individual: Plano personalizado para seu crescimento profissional.
+📌 Touchpoints de Evolução com a Liderança: Encontros regulares com líderes para discutir seu progresso e desenvolvimento.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Especialista em IA
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Desenvolver, treinar, ajustar e avaliar modelos de IA Generativa (LLMs, GANs, etc.) para tarefas como geração de texto, imagem, análise preditiva e automação.
+Analisar e preparar grandes volumes de dados para treinamento, aplicando técnicas de engenharia de features.
+Implementar e integrar modelos em ambientes produtivos, com foco em performance e escalabilidade (via APIs, microsserviços, etc.).
+Explorar novas abordagens, ferramentas e algoritmos em IA Generativa, contribuindo para soluções inovadoras.
+Monitorar modelos em produção, otimizando continuamente sua eficácia e precisão.
+Colaborar com áreas diversas (dados, produto, engenharia e negócio) para alinhar entregas com objetivos estratégicos.
+Garantir o uso responsável da IA, promovendo a ética, a transparência e a mitigação de vieses.
+Desenvolver agentes autônomos e contribuir com arquiteturas multiagentes que operem de forma segura, colaborativa e eficaz.
+
+Qualificações Essenciais
+
+Formação superior em Ciência da Computação, Engenharia, Estatística, Matemática, Física ou áreas correlatas com base quantitativa sólida.
+Experiência comprovada no desenvolvimento e implementação de modelos de Machine Learning e Deep Learning.
+Proficiência em Python e domínio das bibliotecas essenciais de IA, como TensorFlow, PyTorch, Keras, Scikit-learn, Pandas e NumPy.
+Sólido conhecimento em algoritmos de aprendizado supervisionado, não supervisionado, por reforço e em redes neurais (CNN, RNN, Transformers).
+Vivência com ferramentas e práticas de MLOps e uso de nuvem (AWS, Azure ou GCP).
+Experiência prática em desenvolvimento de agentes de IA e atuação em sistemas multiagentes, com foco em governança e ética.
+
+Qualificações Desejáveis
+
+Experiência com engenharia de prompts, fine-tuning, RAG (Retrieval-Augmented Generation).
+Conhecimento em NLP, visão computacional ou aplicações multimodais.
+Familiaridade com Big Data (Spark, Hadoop), bancos NoSQL e participação em comunidades técnicas ou projetos open source.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Pleno/Sênior
+
+Sobre a vaga
+NEORIS é uma acelerador Digital que ajuda empresas a entrar no futuro, temos mais de 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Somos mais de 4.000 profissionais em 11 países, temos uma cultura de startup multicultural onde cultivamos inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes.
+
+Procuramos Engenheiro de Dados Sênior – Vaga Híbrida – Rio de Janeiro
+
+Principais Responsabilidades
+
+Desenvolver e otimizar pipelines de dados utilizando Databricks e AWS;
+Implementar e gerenciar estruturas de governança de dados com Unity Catalog;
+Criar soluções escaláveis para ingestão, transformação e armazenamento de dados;
+Colaborar com times de negócio para entender requisitos funcionais e traduzi-los em soluções técnicas;
+Garantir a qualidade, segurança e integridade dos dados;
+Melhorar a eficiência dos processos de ETL/ELT e arquitetura de dados.
+
+Requisitos
+
+Experiência comprovada, minima de 4 años, como Engenheiro de Dados (requisito excluente), preferencialmente em projetos de grande escala e ambientes complexos.
+Conhecimento avançado em Databricks e Apache Spark, em SQL e Python para manipulação e processamento de dados;
+Experiência com Unity Catalog para governança de dados; Experiência na criação e otimização de pipelines de dados;
+Capacidade de entender as necessidades do negócio e traduzi-las em requisitos técnicos.
+Residir no Rio de Janeiro e ter disponibilidade para comparecer ao escritório a cada 15 dias.
+
+Oferecemos
+
+Vale Refeição e Vale Alimentação: Benefícios mensais para suas despesas com alimentação, dentro e fora de casa. 
+Previdência Privada: Planejamento de futuro com contribuição complementar à aposentadoria. 
+Plano de Saúde: Cobertura médica de alta qualidade para você e seu dependente legal. 
+Plano Odontológico: Cuidados odontológicos completos, com ampla rede de atendimento. 
+Seguro de Vida: Proteção e segurança para você e seus entes queridos. 
+Aulas de Inglês/Espanhol: Incentivo ao aprendizado de idiomas. 
+Wellhub: Benefícios e descontos em academias e programas de bem-estar. 
+Auxílio Creche: Suporte financeiro para despesas com educação infantil. 
+Neoris Global Campus: Plataforma de desenvolvimento com oportunidades contínuas de aprendizado e crescimento profissional. 
+
+Te convidamos a nos conhecer em http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Estamos em busca de uma pessoa versátil e apaixonada por dados para atuar como DBA com perfil de Engenheiro de Dados, com vivência em ambientes diversos e disposição para trabalhar com múltiplos bancos de dados (relacionais e NoSQL). Você será peça-chave na evolução da nossa arquitetura de dados, garantindo performance, escalabilidade e disponibilidade dos nossos sistemas.
+ 🎯 Responsabilidades
+  Administrar, monitorar e otimizar bancos de dados relacionais e NoSQL (MySQL, PostgreSQL, MongoDB, Cassandra e Amazon Aurora)
+Planejar e executar estratégias de backup, recuperação e alta disponibilidade
+Desenvolver e manter pipelines de dados para cargas e transformações (ETL/ELT)
+Colaborar com equipes de desenvolvimento e DevOps para definição de boas práticas de modelagem de dados
+Participar da arquitetura de soluções em nuvem (AWS), integrando serviços de dados, segurança e automação
+Garantir governança, consistência e integridade dos dados nas diversas fontes
+Suportar operações críticas com mindset proativo e orientado a performance
+  💡 Requisitos obrigatórios
+  Experiência prática como DBA e/ou Engenheiro de Dados
+Proficiência em MySQL, PostgreSQL e pelo menos um banco NoSQL (como MongoDB ou Cassandra)
+Conhecimento sólido em Amazon Aurora e serviços AWS relacionados a dados (RDS, EC2, S3, Glue, Lambda, etc.)
+Experiência com modelagem de dados relacional e não relacional
+Familiaridade com ferramentas de monitoramento, tunning e automação de banco de dados
+Boas práticas de segurança e compliance em bancos de dados
+Versionamento de scripts com Git e CI/CD para dados
+ 🚀 Diferenciais que valorizamos
+  Certificações AWS (ex: AWS Certified Database Specialty, Solutions Architect) 
+Experiência com ferramentas de ETL/ELT (Airflow, dbt, Glue, etc.)
+Conhecimento em Kafka, Spark, Athena ou Redshift
+Vivência com grandes volumes de dados e ambientes de alta criticidade
+Perfil colaborativo, comunicativo e com sede de aprendizado
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Responsabilidades
+
+
+Desenvolver, manter e otimizar pipelines de dados escaláveis, realizando processos de ingestão, transformação e carga (ETL/ELT) a partir de diversas fontes.
+Projetar e implementar soluções de armazenamento e modelagem de dados, tanto em bancos relacionais (SQL) quanto não relacionais (NoSQL), assegurando performance e integridade dos dados.
+Escrever código em Python para análise, extração, limpeza e manipulação de grandes volumes de dados, utilizando bibliotecas como Pandas, NumPy e SciPy.
+Atuar com bancos de dados como PostgreSQL, SQL Server, MariaDB.
+Trabalhar com serviços em nuvem (AWS, Azure), especialmente aqueles voltados ao armazenamento, processamento e orquestração de dados.
+Utilizar Azure DevOps para versionamento de código e automação de pipelines de integração e entrega contínua (CI/CD).
+Participar de equipes ágeis, contribuindo com ideias, garantindo entregas de valor em ciclos curtos e promovendo boas práticas de engenharia de dados.
+Investigar, diagnosticar e resolver problemas técnicos relacionados ao desempenho de sistemas de dados.
+Colaborar com analistas, cientistas de dados e demais áreas da empresa para garantir a disponibilidade e qualidade dos dados utilizados na tomada de decisão.
+
+ Qualificações
+
+
+Superior Completo em Matemática, Ciência da Computação, Engenharia de Software, Análise e Desenvolvimento de Sistemas e áreas afins.
+
+ Habilidades Necessárias
+
+
+Capacidade analítica apurada, com foco em solução de problemas complexos relacionados a dados.
+Autonomia e proatividade para identificar melhorias em processos e propor soluções inovadoras.
+Organização e atenção a detalhes, garantindo qualidade e consistência nos pipelines e estruturas de dados.
+Habilidade de trabalho em equipe, com boa comunicação para atuar em conjunto com áreas técnicas e de negócio.
+Mentalidade ágil, com facilidade para adaptação a mudanças e atuação em ciclos curtos de entrega.
+Comprometimento com boas práticas de engenharia de software e dados, incluindo versionamento de código, testes, documentação e segurança.
+Curiosidade e sede por aprendizado contínuo, acompanhando evoluções tecnológicas e aplicando novos conhecimentos no dia a dia.
+Responsabilidade técnica na tomada de decisões, garantindo confiabilidade, escalabilidade e governança dos dados.
+Capacidade de autogestão, com disciplina para cumprir prazos e metas de forma independente.
+
+ Habilidades Preferenciais
+
+
+Engenharia de Dados e Big Data - cursos focados em pipelines de dados, ETL/ELT, ferramentas como Apache Spark, Hadoop, Kafka e orquestradores como Airflow.
+Certificação da Microsoft Azure
+
+ Faixa Salarial e Pacote de Compensação
+
+
+Contração PJ
+-----------------------------------------------------------------------------------

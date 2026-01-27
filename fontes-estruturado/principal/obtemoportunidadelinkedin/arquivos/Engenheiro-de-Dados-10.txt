@@ -1,0 +1,316 @@
+[Oportunidade 1]
+Oportunidade: Senior/Master Data Developer, Brazil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Estamos em busca de um Senior Data Developer altamente qualificado para se juntar à nossa equipe dinâmica de dados. Este papel é fundamental na concepção, construção e manutenção de pipelines de dados e infraestrutura escaláveis para suportar nossos processos de tomada de decisão baseados em dados. 
+
+Responsabilidades: 
+- Projetar e Desenvolver Pipelines de Dados: Arquitetar, implementar e manter pipelines ETL/ELT escaláveis e de alto desempenho para processar grandes volumes de dados estruturados e não estruturados.
+- Integração e Processamento de Dados: Construir arquiteturas acionadas por eventos para permitir o processamento de dados em tempo real e a integração perfeita entre sistemas.
+- Gerenciamento da Infraestrutura em Nuvem: Aproveitar os serviços em nuvem AWS (por exemplo, S3, Redshift, Glue, Lambda, Kinesis, Pentaho) para projetar e implantar uma infraestrutura de dados robusta.
+- Desenvolvimento e Otimização de Código: Escrever código limpo, eficiente e de fácil manutenção em Python para suportar a ingestão, transformação e orquestração de dados.
+- Colaboração em Ambientes Ágeis: Trabalhar em estreita colaboração com equipes multifuncionais, incluindo cientistas de dados, analistas e engenheiros de software, seguindo metodologias ágeis para entregar soluções iterativas.
+- Qualidade e Governança de Dados: Implementar melhores práticas para qualidade de dados, monitoramento e conformidade para garantir a integridade, consistência e segurança dos dados.
+- Otimização de Desempenho: Otimizar pipelines de dados e consultas em ambientes em nuvem para desempenho, escalabilidade e eficiência de custos.
+- Mentoria e Liderança: Fornecer orientação técnica aos membros juniores da equipe, promovendo uma cultura de aprendizado contínuo e melhoria.
+- Documentação e Compartilhamento de Conhecimento: Documentar designs técnicos, processos e fluxos de trabalho para garantir a manutenção e transferência de conhecimento.
+
+Requisitos: 
+- Experiência profissional como Engenheiro de Dados ou em papel semelhante, com forte foco no desenvolvimento de pipelines de dados e soluções de dados baseadas em nuvem.
+- Proficiência avançada em Python para processamento de dados, scripting e automação.
+- Experiência prática com Databricks para processamento de grandes dados, incluindo Spark, Delta Lake e fluxos de trabalho do Databricks.
+- Conhecimento profundo em serviços AWS para construir e gerenciar infraestrutura de dados.
+- Expertise em projetar e implementar fluxos de trabalho ETL/ELT utilizando ferramentas como Apache Airflow, AWS Glue ou semelhantes.
+- Experiência na construção de pipelines de dados em tempo real usando frameworks acionados por eventos.
+- Forte experiência em ambientes ágeis, utilizando metodologias Scrum ou Kanban.
+- Proficiência em bancos de dados relacionais e não-relacionais, com expertise em otimização SQL.
+- Sólida compreensão de técnicas de modelagem de dados para análises e relatórios.
+- Familiaridade com pipelines CI/CD, controle de versão e infraestrutura como código.
+- Habilidades analíticas excepcionais focadas na entrega de soluções escaláveis e eficientes.
+- Excelentes habilidades de comunicação verbal e escrita, com a capacidade de colaborar efetivamente com partes interessadas técnicas e não técnicas.
+
+Qualificações Preferenciais:
+- Inglês: Nível intermediário a avançado.
+- Experiência com tecnologias de conteinerização (por exemplo, Docker, Kubernetes) para implantar aplicações de dados.
+- Conhecimento de frameworks de governança de dados e normas de conformidade (por exemplo, GDPR, CCPA).
+- Familiaridade com ferramentas de grandes dados como Apache Spark, Hadoop ou Snowflake.
+- Certificações em AWS ou Databricks.
+
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Engenheira de Dados Pleno
+
+Sobre a vaga
+Oportunidade para atuar como Engenheiro de Dados desenvolvendo estratégias de aquisição de dados, recuperação de informação, implementação de pipelines de processamentos de dados e armazenamento de dados.
+
+Responsabilidades e atribuições
+
+Principais atividades:
+
+Projetar soluções de ETL;
+Extrair, transformar e carregar (ETL) dados de APIs/banco de dados para outro;
+Desenvolver estratégias de aquisição de dados, recuperação de informação, implementação de pipelines de processamentos de dados e armazenamento de dados;
+Planejar e modelar estruturas de comunicação de dados entre sistemas legados e repositórios de dados;
+Desenvolver estrutura de informações e dados, inclusive, com integração de dados estruturados com não estruturados;
+Sugerir novos caminhos, sejam técnicas ou tecnologias, para evoluir a prática de ciência e engenharia de dados e agregação de valor aos usuários e clientes.
+Sustentação e melhoria dos fluxos de dados para aplicações em NodeJS
+
+
+Requisitos e qualificações
+
+Formação:
+
+Superior completo, porém todos os cursos são bem-vindos!
+
+
+Competências esperadas:
+
+Python
+AWS (Glue, S3, RDS, Lambda)
+Apache Spark (PySpark)
+SQL
+AirFlow
+Docker
+NodeJS
+Perfil empreendedor, com apetite por grandes desafios de negócios e vontade de trabalhar na dinâmica de uma consultoria.
+
+
+Competências desejáveis:
+
+Experiência em projetos utilizando AWS, GCP ou Microsoft;
+Conhecimentos em ferramentas de orquestração de fluxo de dados (Airflow, Luigi e etc);
+Conhecimentos em processamento e transformação de dados com Spark (Python/Scala);
+Atuação em modelo ágil.
+
+
+Informações adicionais
+
+CONHEÇA NOSSOS BENEFÍCIOS
+
+Alguns dos nossos benefícios são flexíveis para que você possa distribuí-los de acordo com suas necessidades, interesses e momento de vida. São eles:
+
+ All Points (Programa de pontos para passagens áreas e hospedagens);
+Assistência Médica;
+Assistência Odontológica;
+Seguro de vida;
+Convênio para Pet;
+Mobilidade (incluindo opção de combustível e Uber, 99);
+Reembolso Flex (óculos, vacinas, educação, shows e outros);
+Vale Refeição e/ou Vale Alimentação.
+
+
+Outros benefícios:
+
+ Birthday off;
+Gympass;
+Consultoria financeira e empréstimo facilitado;
+Clube Alelo com diversos descontos em lojas e farmácias;
+Licença Maternidade de 180 dias;
+Licença Paternidade de 30 dias;
+Auxílio creche no primeiro ano do bebê;
+Vale Transporte conforme a demanda do projeto ou área;
+Programa de bônus anual;
+Comissionamento por indicação de novos clientes.
+
+
+PROGRAMAS DE DESENVOLVIMENTO
+
+Um dos pontos fortes de ser Biper é que ousamos em pensar como empreendedores e moldamos nosso futuro com nossa capacidade de pensar minuciosamente e agir com três passos à frente, pavimentando o caminho para o futuro que nossos clientes querem viver.
+
+E para isso, precisamos estar constantemente aprendendo e reaprendendo, somos .
+
+Na BIP temos programas consolidados a nível Global e nacional para que você tenha uma jornada de desenvolvimento, crescimento e liberdade para você conquistar o que sonha. Aqui você é o protagonista da sua carreira!
+
+Vamos juntos nessa? Confere os principais programas que a BIP pode te oferecer para você chegar aonde deseja:
+
+Um centro de CAPACITAÇÃO e FORMAÇÃO Global com os conteúdos e cursos mais atualizados do mercado;
+Flex Time - um momento da sua semana dedicado para o seu desenvolvimento;
+Programas de mentoria com Líderes referências em sua atuação;
+Avaliação de Desempenho semestral;
+Cultura de Feedback e 1:1 recorrentes com sua liderança e time;
+Acompanhamento de um Plano de Desenvolvimento personalizado pra você e com seus objetivos;
+Darwin - Programa global de formação de jovens talentos, para desenvolver soft e hard skills;
+Grounding –Um programa Global de formação para os profissionais recém contratados em todo o mundo que estão no começo da carreira de consultoria;
+Induction - Onboarding Internacional conduzido por Heads de RH e negócio para os novos entrantes da Bip de todos os países para promover nossa cultura, valores, proposito e apresentar nossos programas de iniciativa Global. 
+Spinnaker: Treinamento focado em aprimorar habilidades estratégicas de Gerentes e Gerentes Seniores, apoiando e facilitando o desenvolvimento de negócios dentro de um ecossistema complexo.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Engineer
+
+Sobre a vaga
+We are seeking a highly skilled and motivated Data Engineer to join our team.
+
+The ideal candidate will be responsible for maintaining existing data systems, enhancing our current Data Platform, and implementing future changes as our clients' consumption needs and ingestion evolve. This role requires expertise in handling complex datasets and collaborating with senior team members on high-impact projects.
+
+Responsibilities
+
+
+Maintain and enhance existing data systems
+Develop enhancements for the existing Data Platform
+Implement future changes to accommodate growing consumption needs and ingestion
+Work with complex datasets, including the addition of new datasets from scratch
+Collaborate with senior team members on complex projects, particularly when adding new large datasets
+Grow with the technological landscape, adapting to new tools and methodologies as they emerge
+
+
+Requirements
+
+
+2+ experience in Data Software Engineering
+Proficiency in PySpark
+Experience with Azure Databricks, Azure DevOps, and Azure Event Hubs
+Knowledge of the Azure cloud stack
+Experience in working with large and complex datasets
+Ability to work in a team and collaborate with various stakeholders
+Familiarity with Databricks Unity Catalog and Terraform
+
+
+Nice to have
+
+
+Experience in Azure Analytics Engineering
+Familiarity with DevOps practices
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de dados foco cloud AWS
+
+Sobre a vaga
+Introduction
+
+Uma carreira em Consultoria IBM é baseada em relacionamentos de longo prazo e colaboração próxima com clientes em todo o mundo.
+
+Você trabalhará com visionários de diversos setores para aprimorar a jornada de nuvem híbrida e IA para as empresas mais inovadoras e valiosas do mundo. Sua capacidade de acelerar o impacto e promover mudanças significativas para seus clientes é possibilitada pelo nosso ecossistema de parceiros estratégicos e nossas robustas plataformas tecnológicas em todo o portfólio da IBM, incluindo Software e Red Hat.
+
+A curiosidade e a busca constante por conhecimento são a base para o sucesso na Consultoria IBM. Em sua função, você será incentivado a desafiar os padrões, investigar ideias fora da sua área de atuação e apresentar soluções criativas que resultem em impacto inovador para uma ampla rede de clientes. Nossa cultura de evolução e empatia se concentra em oportunidades de crescimento e desenvolvimento profissional a longo prazo, em um ambiente que acolhe suas habilidades e experiências únicas.
+
+Your Role And Responsibilities
+
+As Data Engineer at IBM you will harness the power of data to unveil captivating stories and intricate patterns. You'll contribute to data gathering, storage, and both batch and real-time processing.
+
+Collaborating closely with diverse teams, you'll play an important role in deciding the most suitable data management systems and identifying the crucial data required for insightful analysis. As a Data Engineer, you'll tackle obstacles related to database integration and untangle complex, unstructured data sets.
+
+In This Role, Your Responsibilities May Include
+
+Implementing and validating predictive models as well as creating and maintain statistical models with a focus on big data, incorporating a variety of statistical and machine learning techniques 
+Designing and implementing various enterprise seach applications such as Elasticsearch and Splunk for client requirements
+Work in an Agile, collaborative environment, partnering with other scientists, engineers, consultants and database administrators of all backgrounds and disciplines to bring analytical rigor and statistical methods to the challenges of predicting behaviors.
+Build teams or writing programs to cleanse and integrate data in an efficient and reusable manner, developing predictive or prescriptive models, and evaluating modeling results
+
+Preferred Education
+
+Bachelor's Degree
+
+Required Technical And Professional Expertise
+
+Buscamos profissionais com experiência com Data engineer esteira de AWS com o conhecimento técnico de:
+
+Plataformas de dados - AWS
+Projetar e desenvolver pipelines de dados: criar pipelines robustos para processar, transformar dados e ingerir dados derivados da origem ao destino. 
+Implementar processos ETL/ELT 
+Desenvolvimento de funções Lambda para desenvolvimento de APP
+CI/CD, IaC
+Proficiência com ferramentas AWS: experiência demonstrável em AWS Glue, AWS Lambda, Amazon Athena, Amazon DynamoDB, Amazon Cloudwatch, Amazon SNS e AWS Step Functions. 
+Grande experiência com linguagens de programação como Python, Pyspark. 
+Conhecimento profundo de tecnologias de banco de dados e tecnologias de ecossistema de Big Data: AWS RDS. 
+Experiência com AWS Data Lakes 
+Grande conhecimento em pipeline de implantação usando AWS Cloud Formation
+ Grande conhecimento em Git.
+Grande conhecimento em SQL.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados - Sênior
+
+Sobre a vaga
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você.
+
+Em Tech Consulting, estamos construindo um mundo de negócios melhor ajudando empresas a entenderem os impactos e oportunidades apresentados pelo cenário digital em rápida evolução. Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, alavancando tecnologias como cybersecurity, e-commerce, mobile, inteligência artificial, Blockchain, data & analytics e muito mais.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Data Enginering - Sênior, você fará parte de equipe multifuncional e com grandes Projetos.
+
+Projetar, desenvolver e manter pipelines de dados escaláveis e eficientes
+Participar da construção e evolução de arquiteturas modernas (Data Lake, Data Warehouse, Lakehouse)
+Garantir qualidade, segurança e governança dos dados ao longo dos fluxos
+Colaborar com times de produto, ciência de dados, BI e tecnologia
+Atuar como referência técnica para engenheiros de dados juniores
+Apoiar na definição de padrões técnicos e boas práticas de engenharia de dados
+Avaliar e implementar ferramentas que otimizem o fluxo de dados e os custos de processamento
+
+Por que você?
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+
+Formação superior em Ciência da Computação, Matemática, Estatística, Análise de Sistemas ou áreas correlatas
+Experiência com Python (avançado), SQL (avançado) e Scala (desejável)
+Vivência com ferramentas de orquestração como Airflow, Prefect ou similares
+Conhecimento em Spark, Delta Lake, Databricks e Snowflake (desejável)
+Atuação com serviços em nuvem como AWS (S3, Redshift, Glue, Lambda), GCP ou Azure
+Uso de ferramentas de versionamento e CI/CD como Git, Docker, GitLab CI e Jenkins
+Experiência em modelagem de dados (dimensional, normalização, particionamento e performance)
+Domínio de ferramentas de transformação de dados, especialmente dbt (fortemente desejável)
+Conhecimento em práticas de DataOps e governança de dados
+Inglês em nível intermediário a avançado
+Participação em projetos de construção de data lakes e data warehouses modernos
+Experiência em engenharia de dados voltada para produtos analíticos e iniciativas de IA/M
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Oportunidade disponível em modelo presencial com flexibilidade para remoto no escritório do Rio de Janeiro.
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+-----------------------------------------------------------------------------------

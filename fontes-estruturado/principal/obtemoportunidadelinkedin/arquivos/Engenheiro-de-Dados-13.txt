@@ -1,0 +1,316 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados/AWS - Remoto
+
+Sobre a vaga
+Job Description
+
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Responsibilities and assignments
+
+Estamos em busca de um Engenheiro de Dados AWS para atuar junto a um cliente do setor bancário, contribuindo para a construção e otimização de soluções robustas em um ambiente dinâmico e inovador.
+
+🚀 Atividades:
+
+Desenvolver e otimizar pipelines de dados na AWS
+
+Criar e manter processos ETL eficientes e escaláveis
+
+Garantir a qualidade e integridade dos dados processados
+
+Implementar boas práticas de segurança e governança de dados
+
+Trabalhar em conjunto com times de arquitetura e engenharia para aprimorar soluções
+
+Requirements And Qualifications
+
+Experiência com AWS (Glue, Lambda, S3, Redshift, Athena, Step Functions, IAM, Kinesis, entre outros)
+
+Domínio de Python e SQL
+
+Conhecimento em ETL e pipeline de dados
+
+Experiência com modelagem de dados e arquitetura de soluções em nuvem
+
+Desejável experiência em ambientes regulados (banco, fintechs, seguros, etc.)
+
+Additional information
+
+Modelo de Contratação:  CLT Stefanini
+
+Modelo de Atuação:  100% remoto
+
+O que te oferecemos:
+
+🍛 Vale Alimentação ou Vale Refeição;
+
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+
+🗣 Mentoring;
+
+🏫 Auxílio Creche;
+
+💉 Clube de vantagens para consultas e exames;
+
+🏥 Assistência Médica;
+
+🦷Assistência Odontológica;
+
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+
+🛫 Clube de viagens;
+
+🐶 Convênio para Pet;
+
+e muito mais...
+
+Process stages
+
+Registration
+Entrevista RH
+Entrevista Cliente/Técnica
+Hiring
+
+Stefanini: Acreditar para Cocriar 🌟
+
+Na Stefanini, a inovação não é apenas uma meta; é uma jornada que trilhamos juntos, onde a colaboração se torna a essência da transformação. 🤝 Com 37 anos de história e uma presença global em mais de 40 países, contamos com uma equipe de 38 mil talentos apaixonados, prontos para transformar desafios em oportunidades por meio da tecnologia. 💡
+
+Acreditamos que cada projeto é uma oportunidade e que, juntos, podemos moldar um futuro mais ágil, eficiente e conectado. Nossa missão vai além de oferecer soluções: buscamos cocriar com nossos clientes, integrando inteligência artificial e tecnologias emergentes para revolucionar o cotidiano das empresas. 🌍✨
+
+Aqui, cada voz conta e cada ideia tem o poder de impactar. Valorizamos a humildade, o respeito, o comprometimento e a coragem, construindo uma cultura onde a inovação floresce. Aqui, liderar é dar o exemplo, e é por isso que inspiramos um ambiente dinâmico onde tecnologia e talento se complementam.
+
+Se você sonha grande, tem coragem de desafiar o convencional e quer fazer parte de uma equipe que acredita no poder da cocriação, junte-se a nós! Vamos, juntos, acreditar e cocriar um futuro brilhante, onde cada passo representa uma nova conquista!🚀✨
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro (a) de Dados Cloud Sênior
+
+Sobre a vaga
+A EY é líder global em serviços de Auditoria, Impostos, Transações Corporativas e Consultoria. Desenvolvemos líderes de excelência e, unidos por valores pautados pela ética e pelo compromisso constante com a qualidade, contribuímos para gerar confiança no mercado de capitais e em economias em todo o mundo. Dessa forma, exercemos um papel crítico na construção de um mundo de negócios melhor para nossos profissionais, nossos clientes e nossas comunidades.
+
+Quase 35.000 profissionais especializados em atender a indústria financeira em todo o mundo, prestam serviços de auditoria, impostos, transações e assessoria empresarial para bancos, seguradoras e gestoras de patrimônio. Nas Américas, é a única organização de contabilidade pública com uma unidade de negócios dedicada a este mercado. A EY é líder em servir o mercado global de serviços financeiros.
+
+O Financial Services Office hoje inclui mais de 4.000 profissionais em 50 localidades por todo EUA, Caribe e América Latina, com especializações que nos permite obter uma compreensão ampla das questões de negócios e dos desafios do setor financeiro, bem como oferecer serviços integrados para nossos clientes. No Brasil atuam junto aos principais centros mundiais para compartilhar conhecimento relacionado às tendências e regulamentações atuais e emergentes, a fim de ajudar nossos clientes a resolver questões fundamentais em gestão de riscos, controles internos, estratégia, operações e tecnologia da informação.
+
+Este grupo de profissionais, dinâmico e talentoso, busca neste momento o candidato certo para integrar o time e desenvolver uma carreira sólida e ascendente.
+
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você. Afinal, It’s yours to build.
+
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos). Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+#TechEY
+
+Qual será o seu papel nesse propósito?
+
+Como Engenheiro (a) de Dados Cloud você irá atuar em cliente de grande porte, com oportunidade de crescimento em frentes diversas na área de dados voltados para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Por que você?
+
+Se você é apaixonado(a) por dados, colaboração e tem as seguintes qualificações, queremos você em nossa equipe:
+
+Ensino superior em Estatística, Ciência da Computação, Engenharia de Software, Sistemas de Informação, Física ou cursos afins.
+Experiência comprovada como Engenheiro de Dados.
+Proficiência em Pyspark, SQL, Databricks, Git, Hive, Hadoop e Azure.
+Experiência com práticas e ferramentas DevOps.
+Habilidade para trabalhar em conjunto com o cliente na migração de processos legado (SAS e Teradata) do on-premise para a Cloud (Azure, Databricks), aplicando práticas de governança de dados robustas, preferencialmente com ferramentas IBM.
+
+Desejável:
+
+Vivência na área financeira.
+Conhecimento em SAS, Hbase, Bitbucket.
+
+Principais Responsabilidades:
+
+Acompanhamento da estabilização do pipeline em Produção. 
+Sustentação pós-implantação (Durante período de garantia - 90 dias). 
+Acompanhamento da Implantação. Construir pipelines de dados, desde a extração nas diversas fontes de dados disponíveis (Arquivos de plataforma Baixa (TXT, CSV, ORC), Bancos de Dados (HBASE, BEELINE, SAS) até a ingestão e estruturação dos dados no Data Lake corporativo e DB2. 
+Criação de jobs Pyspark para processamento de dados. Registro de Atividades nas Ferramentas oficiais do Cliente (Jira, Confluence, Bitbucket).
+
+O que oferecemos: Vale Alimentação, Vale Refeição, Vale Transporte, Plano de saúde, Assistência odontológica, Universidade Corporativa e outros benefícios Educacionais, Gympass, PLR, e muito mais. Clique aqui e conheça nosso universo de benefícios.
+
+Quem somos: Somos uma das maiores empresas de serviços do mundo, em Auditoria, Consultoria, Impostos, Estratégia e Transações, orientados à Tecnologia. Com presença em mais de 150 países, aqui você terá a oportunidade de viver as experiências excepcionais que só a EY pode oferecer, com alcance global, cultura inclusiva e tecnologia para se tornar a sua melhor versão.
+
+Aqui, acreditamos que a força que impulsiona a inovação vem da diversidade de pessoas e ideias. Segundo o Great Place to Work 2022, somos a melhor empresa para pessoas LGBTQ+ do Brasil, e a 2a melhor empresa para Mulheres e para Pessoas Pretas. Assim, você poderá fazer parte de nossos programas e grupos que, juntos a inúmeras iniciativas internas, apoiam nossa constante busca pela equidade.
+
+Quer se sentir desafiado/a, motivado/a e valorizado/a todos os dias? Inspirar mudanças e deixar um legado? Faça parte do nosso time e ajude-nos na construção de um mundo de negócios melhor!
+
+Saiba mais sobre como é trabalhar na EY:
+
+Carreiras na EY LinkedIn @EY Instagram @eybrasilcarreiras
+
+Oportunidade disponível em modelo presencial (com flexibilidade para o remoto) no escritório de São Paulo.
+
+A EY acredita na igualdade de oportunidades. Independentemente de gênero, idade, raça, cor, credo, orientação sexual e deficiência, todos os candidatos qualificados serão considerados em nossos processos.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados AWS
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+Estamos contratando Engenheiro de Dados AWS para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa.
+
+Entendemos que para essa evolução, é necessário o conhecimento em:
+
+"Plataformas de Dados AWS (nível B7-8);
+
+"Implementação de processos ETL/ELT;
+
+"CI/CD e Infraestrutura como Código (IaC);
+
+"Proficiência nas ferramentas da AWS: experiência comprovada com AWS Glue, AWS Lambda, Amazon Athena, Amazon DynamoDB, Amazon CloudWatch, Amazon SNS e AWS Step Functions;
+
+"Python e PySpark;
+
+"Experiência com Data Lakes na AWS;
+
+"Conhecimento em pipelines de implantação utilizando AWS CloudFormation;
+
+"Conhecimento em Git;
+
+"Conhecimento em SQL;
+
+"Inglês Fluente (obrigatório).
+
+Home office
+
+Tem interesse?
+
+Candidate-se a nossa vaga que teremos o grande prazer de dividir essa experiência com você.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Mid-Sênior Data Developer, Brazil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Estamos em busca de pessoas para atuar como Mid-Sênior Data Developer, para integrar nosso time e contribuir em projetos desafiadores e inovadores. 
+Se você tem paixão por dados e habilidades avançadas em diversas ferramentas, esta oportunidade é para você!
+
+Desafios da Vaga:
+
+- Atuar em um time que segue o modelo Build&Run, colaborando de perto com product managers (PMs).
+- Trabalhar com um dos maiores conjuntos de dados do setor, dentro de uma plataforma de big data hospedada na AWS.
+- Garantir a tempestividade e qualidade na disponibilização de informações para as jornadas de acompanhamento de investimentos, focando na melhor experiência e satisfação do cliente.
+
+Principais Responsabilidades:
+
+- Identificar oportunidades de entrega de valor para o negócio a partir dos dados.
+- Implementar build and run no ciclo de vida dos produtos de dados e analytics.
+- Contribuir com a modelagem da camada especializada de dados considerando paradigmas de Data Warehouse.
+- Apoiar na criação e disseminação de conhecimento sobre pipelines e padrões de produtos e soluções.
+- Otimizar e melhorar a performance de scripts em Shell Script e HiveQL.
+- Realizar análises detalhadas para identificar padrões e tomar decisões informadas.
+- Manter e desenvolver scripts em Shell Script.
+- Contribuir na construção e manutenção de observability para status e reports gerenciais.
+
+Requisitos e Ferramentas:
+
+- Spark/Hadoop - Avançado
+- Conceitos de Big Data - Avançado
+- AWS Glue, Lambda, Athena, etc) - Avançado
+- PySpark - Avançado
+- ETL - Avançado
+- Banco de Dados (SQL e NOSQL) - Intermediário
+- Linux - Intermediário
+- Shell Script - Intermediário
+- Python - Intermediário
+- Excel (tratamento de dados) - Intermediário
+- Ingestão Batch e Streaming- Intermediário
+- Infra as a Code (Terraform, Cloudformation)- Intermediário
+- Esteiras de CI/CD - Intermediário
+
+
+Desejáveis:
+
+- Conhecimento e afinidade com produtos financeiros e cenário econômico.
+
+
+#MidSenior
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Solution Engineer (Data Intelligence Platform: Data Lake, Data Warehouse, Analytics & AI Services)
+
+Sobre a vaga
+Job Description
+
+Principais Responsabilidades:
+
+ Em conjunto com os arquitetos de soluções e com a equipe de vendas, conduzirá atividades de vendas técnicas, incluindo reuniões de descoberta, posicionamento da solução, conteúdo personalizado de prova de conceito, estimativa de dimensionamento de cargas de trabalho e arquiteturas personalizadas.
+ Exercerá liderança técnica, orientando os clientes em implementações bem-sucedidas em projetos de dados, desde o desenho da arquitetura até a adoção bem-sucedida de casos de uso.
+ Fornecerá tutoriais e treinamentos para a comunidade (incluindo workshops técnicos e apresentações em conferências) e clientes.
+ Interagirá com o time engenharia de produtos, compartilhando as necessidade de novas funcionalidades e inovações identificada ao longo das atividades técnicas com os clientes.
+
+
+Responsibilities
+
+Qualificações mínimas:
+
+ Bacharelado em ciência da computação ou área técnica relacionada, ou experiência prática equivalente.
+ Experiência em desenvolvimento de software, engenharia de dados, inteligência de negócios, ciência de dados ou área relacionada, com experiência em manipulação, processamento e extração de valor de conjuntos de dados para construir casos de uso que utilizam dados, como modelagem de risco, detecção de fraudes e previsão de demanda de produtos e serviços.
+ Experiência com desenvolvimento de soluções de data warehouse, data lakes, processamento de eventos em batch ou em tempo real e fluxos de trabalho ETL, processamento e computação de dados (Apache Spark, Hadoop Map Reduce, Flink, PySpark), incluindo desenho de arquitetura, implementação, ajustes, desenho de esquemas e otimização de consultas de sistemas escaláveis e distribuídos.
+
+
+Qualificações desejadas:
+
+ Experiência em programação de produção em SQL e Python.
+ Experiência com atendimento ao cliente em função de pré ou pós-venda.
+ Compreensão das tecnologias Oracle Cloud Infrastructure (OCI) na área de big data e data warehousing (Oracle Data Platform – Data Lake, Data Warehouse, Analytics e Serviços de IA)
+Ingestão/Integração de dados: Oracle Golden Gate e/ou OCI Streaming e/ou Kafka
+Processamento/Computação de dados: OCI Data Flow e/ou Apache Spark e/ou Flink
+Persistência e processamento de dados: Autonomous Data Warehouse e Object Storage.
+Open Data Lake: Delta Lake, Iceberg, Parquet.
+Acesso e interpretação: BI e/ou Analytics Cloud e/ou OML Data Science e/ou Serviços de IA.
+Workflow e DataOps: Apache Airflow
+ Experiência em vendas técnicas ou consultoria profissional nas áreas de computação em nuvem, engenharia de dados e gerenciamento do ciclo de vida da informação
+ Histórico comprovado de sucesso em lidar com ambiguidades, priorizar necessidades e entregar resultados em um ambiente dinâmico.
+ Excelentes habilidades de comunicação verbal e escrita, com capacidade de defender eficazmente soluções técnicas para pesquisadores, equipes de engenharia e públicos empresariais.
+ Capacidade de atender às expectativas de treinamento técnico e resultados específicos da função em até 6 meses após a contratação.
+
+
+Qualifications
+
+Career Level - IC3
+
+About Us
+
+As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s challenges. We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity.
+
+We know that true innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing an inclusive workforce that promotes opportunities for all.
+
+Oracle careers open the door to global opportunities where work-life balance flourishes. We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+
+We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling +1 888 404 2494 in the United States.
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.
+-----------------------------------------------------------------------------------

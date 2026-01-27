@@ -1,0 +1,246 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Senior
+
+Sobre a vaga
+O que procuramos?
+Atribuições principais:
+Construção e implementações de arquiteturas com Data Warehouse e Datalake;
+Liderar como referência soluções técnicas de Data Analytics;
+Criar e definir modelos de repositórios de dados;
+Desenvolver estratégias de aquisição de dados, recuperação de informação, implementação de dutos de processamento e armazenamento;
+Apoiar nas definições técnicas do ecossistema de Big Data;
+Desenvolver e manter processos de consumo, tratamento, controle/segurança e disponibilização de dados para diferentes consumidores;
+Levantando possíveis riscos de acordo com o parecer técnico pelas áreas de apoio emitidas;
+Apoiar/viabilizar testes de desempenho (desempenho);
+Apoiar a migração de dados de sistemas legados para novas soluções.
+Requisitos:
+Experiência com Banco de dados SQL;
+Experiência com Spark, python, Databricks e Kafka
+Experiência em projetar e implementar soluções de ETL e pipelines de dados
+Experiência com Migração de dados de ferramentas legadas
+Diferenciais:
+Espanhol avançado/fluente
+Localidade da posição: São Paulo/SP e Região
+Oportunidade Hibrida (1x a 2 x semana)
+Por que construir sua carreira na Meta?
+Oferecemos autonomia, metas claras e um ambiente dinâmico e desafiador, onde os profissionais têm oportunidade de interagir com diferentes tecnologias, participar de todos os tipos de projetos, trazer novas ideias e trabalhar de qualquer lugar do Brasil e (por que não?) do mundo.
+Quais são nossos valores?
+- Somos pessoas servindo pessoas
+- Pensamos e agimos como donos
+- Temos gana por performance
+- Crescemos e aprendemos juntos
+- Buscamos excelência e a simplicidade
+- Temos inovação e criatividade no nosso DNA
+Todas as pessoas são bem-vindas independentemente de sua condição, deficiência, etnia, crença religiosa, orientação sexual, aparência, idade ou afins. Queremos que você cresça conosco em um ambiente acolhedor e repleto de oportunidades.
+Se identificou? Então, #VemSerMeta!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+A Unico é a primeira e maior IDtech brasileira, desenvolvendo soluções inovadoras para a proteção da identidade dos brasileiros nas relações com empresas privadas. Queremos colocar o Brasil no mapa global da inovação a partir do desenvolvimento de tecnologias que possam trazer segurança e transparência para as pessoas. Para chegar lá, investimos acima de tudo nas nossas pessoas, que formam um time incrível e comprometido com esse grande objetivo. E aí, vem com a gente? 🚀
+
+Nossa cultura
+
+Nossos valores são a base para tudo que fazemos! Aqui na Unico, agimos sem fronteiras; impactamos sem rodeios; somos transparentes mesmo em situações difíceis; resilientes e adaptáveis para evoluir; fazemos a coisa certa do jeito certo e somos ousados ao liderar a construção do futuro. Nosso ambiente de trabalho é descontraído e colaborativo, cheio de oportunidades de aprendizado e possibilidades para você desenvolver sua carreira com autonomia e apoio de líderes e colegas.
+
+Você será responsável por:
+
+Planejar o Roadmap das ingestões de dados, traduzindo essas necessidades em planos técnicos acionáveis, alinhar as expectativas com os líderes da organização e gerenciar os planos de ação que devem ser executados pela equipe;
+Participar e executar projetos em equipes multidisciplinares de Data & Advanced Analytics compostas por profissionais com capacidades específicas: Engenheiros de Dados, Data Analytics e Cientistas de Dados;
+Entender e desenvolver arquiteturas, modelos e pipeline de dados, desenhados para os projetos pelos líderes da equipe técnica, desafiando e contribuindo com toda a discussão sobre as soluções propostas e suas arquiteturas;
+Participe das cerimônias com a equipe para seguir uma metodologia de gerenciamento ágil e gerenciar sua carga de trabalho com os membros da equipe usando ferramentas como Jira;
+Garantir a qualidade dos entregáveis e reportar o estado do progresso nos termos dos principais objetivos definidos e da operação (SLAs, incidentes, eficiência e custos);
+Desenvolver processos ETL, programação e supervisão, Resolver problemas que possam surgir a pedido e analisar quadros de comando e indicadores de desempenho e agir em conformidade;
+Avaliar a coerência e a qualidade da informação e responder de forma oportuna às necessidades específicas, propondo melhorias e otimização dos processos, documentar processos e procedimentos e identificar oportunidades a partir da análise de dados e geração de insights.
+
+O que precisamos que você tenha:
+
+Sólida experiência como Data Engineer
+Conhecimentos em Engenharia de Dados, incluindo processos ETL, pipelines de dados e data lake;
+Experiência em plataformas de armazenamento e processamento de dados em nuvem (ex: AWS, GCP, Azure), GCP é diferencial;
+Conhecimentos em BigQuery, Experiência em SQL, Spark e Python aplicados a Data Engineering;
+Conhecimentos em bases de dados relacionais e não relacionais; métodos DML e DDL;
+Familiaridade com o controle de versões Git e atuado com melhorias e otimizações nos processos ETL.
+
+Conheça os benefícios de se tornar um Ser Unico
+
+Benefício flexível: R$ 1.500 ,00 por mês que podem ser distribuídos nas modalidades VA/VR, Cultura, Mobilidade e Flex Férias;
+
+Auxílio home office: valor mensal de R$ 120,00 para pagamento de contas e consumo;
+
+Auxílio ergonomia:  valor de R$ 1.000 ,00 creditado em uma parcela única para compra de equipamentos para home office como: cadeira, materiais de escritório, itens de papelaria, entre outros;
+
+PLR : e legível a Participação nos Lucros e Resultados conforme acordo sindical;
+
+Benefício Educação: a Unico financia 100% dos estudos para 100% dos colaboradores através de cursos disponíveis na plataforma Unico Skill. Você pode escolher entre graduação, pós-graduação, MBAs, idiomas, cursos especializantes e mentorias;
+
+Bem-estar: acesso à plataformas como Gympass e Totalpass;
+
+Licença parental estendida: 180 dias para gestantes e cuidadores principais do processo de adoção e 60 dias para não gestantes e cuidados secundários do processo de adoção, com salário e benefícios pagos integralmente ao longo de todo o período.
+
+Local de trabalho
+
+Adotamos o modelo de trabalho que prioriza o remoto, o nosso #tetounico. Isso significa que os Seres têm a opção de frequentar os escritórios caso queiram, e de acordo com as necessidades de cada área. Temos escritórios nas cidades de São Paulo e Londrina.
+
+E mais…
+
+Oferecemos um plano de carreira estruturado de acordo com suas competências e interesses, com oportunidade de crescimento como especialista ou líder, incentivando o seu desenvolvimento pessoal e profissional através de ciclos de avaliação de performance semestrais (com feedback estruturado e plano de desenvolvimento individual);
+
+Para completar a sua experiência, por aqui temos palestras, meetups, workshops, treinamentos, day off no aniversário, reunioff às quartas-feiras, festas e celebrações internas/externas, happy hour presencial quinzenal, grupos de afinidade e ginástica laboral.
+
+Diversidade & Inclusão
+
+Na Unico estamos empenhados em construir uma cultura inclusiva, valorizando em todas as nossas posições a candidatura de todas as pessoas, independentemente de sua etnia, gênero, orientação sexual, política, religião, deficiência, naturalidade ou qualquer outro tipo de característica.
+
+Estamos construindo um ambiente de trabalho inclusivo e para nos apoiar em melhores práticas, criamos o formulário de Diversidade & Inclusão. Te convidamos a respondê-lo pra nos ajudar nesse processo, mas deixamos claro que você pode optar por não fazer isso sem impacto na sua avaliação. O compartilhamento desses dados não irá afetar o seu desempenho no processo seletivo e será usado somente para fins de criação de estratégias de inclusão.
+
+Quer conhecer mais sobre a Unico?
+
+Assista nosso manifesto ;
+
+Conheça nosso Medium de Tecnologia ;
+
+E nosso canal no Youtube com os Meetups de Tecnologia ;
+
+Acompanhe nossas redes sociais: LinkedIn , Twitter , Instagram , Facebook .
+
+Reconheço que, antes de me candidatar, li o Aviso de Privacidade aos candidatos, que está disponível em Aviso-de-Privacidade-Candidatos-Gestao-de-Documentos_PPR145_v20.pdf (unico.io)
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Engineer (Empact Team)
+
+Sobre a vaga
+Sigma Software is looking for an experienced Data Engineer to join our growing engineering team. This opportunity is for you if you want to work with a tightly knit team of data engineers solving challenging problems using cutting-edge data collection, transformation, analysis, and monitoring tools in the cloud.
+
+Sounds exciting? Then keep reading!
+
+CUSTOMER
+Our client has superior end-to-end technology, a premium marketplace, and best-in-market advisory services that power the world’s advertising businesses of the largest media and entertainment companies. For example, Fox, NBC Universal, Viacom in the USA, Sky, Channel 4, RTE, and Mediaset in Europe.
+
+PROJECT
+You will be working on building the provider of comprehensive ad platforms for publishers, advertisers, and media buyers. The team is responsible for creating metrics for advertising campaigns and redesigning the solution from Golang to Python.
+
+RESPONSIBILITIES
+Perform engineering tasks such as data manipulation, ETL/ELT, implementation, information storage and retrieval, data flow, and analysis
+Design new software and web applications, support applications under development, and customize current applications
+Develop software update process for existing applications
+Optimize data sources and processing rules to ensure appropriate data quality for all products, utilizing troubleshooting, design, and development skills along with cross-system technical knowledge
+Create technical documentation using an understanding of internal business areas and processes as well as working knowledge of database design, data manipulation, ETL, information storage & retrieval, and data flow & analysis
+Display expertise in knowledge of engineering methodologies, concepts, and skills and their application in a specific engineering specialty
+Uses a combination of several cutting-edge AWS services, third-party commercial software, and internally developed software to store, process, and deliver near real-time data to a variety of the largest media companies in the world
+
+REQUIREMENTS
+At least 4+ years of hands-on experience in Software Development and/or Big Data
+Strong programming skills and data engineering experience
+Experience with Golang and Python
+Strong skills in SQL and proven experience working with major database platforms
+Experience with cloud-based data services and solutions (e.g., Snowflake, Hive)
+Strong understanding of AWS including S3, EKS
+
+WOULD BE A PLUS
+Experience with Airflow
+Experience with Docker
+Experience with Jenkins
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Engineer (TV Platform)
+
+Sobre a vaga
+Sigma Software is looking for an experienced Senior Data Engineer to join our growing engineering team. This opportunity is for you if you want to work with a tightly knit team of data engineers solving challenging problems using cutting-edge data collection, transformation, analysis, and monitoring tools in the cloud.
+
+Sounds like you?
+We are waiting for you on our team!
+
+CUSTOMER
+Our client has superior end-to-end technology, a premium marketplace, and best-in-market advisory services that power the world’s advertising businesses of the largest media and entertainment companies. For example, Fox, NBC Universal, Viacom in the USA, Sky, Channel 4, RTE, and Mediaset in Europe.
+
+PROJECT
+We invite you to work with the provider of comprehensive ad platforms for publishers, advertisers, and media buyers. We build and support high-quality data solutions to process terabytes of data on AWS’s cloud-native data platform.
+
+RESPONSIBILITIES
+Build and maintain ETL pipelines
+Modify existing application code or interfaces or build new application components
+Analyze requirements, support design, code, test, debug, deploy, and maintain programs and interfaces. Documentation of the work is essential
+Develop and implement databases, data collection systems, data analytics, and other strategies that optimize statistical efficiency and quality
+Conduct code and design reviews to ensure the high quality of the product
+Mentor and guide colleagues and new team members
+Collaborate with Data engineers and Product Managers to prioritize business needs and translate complex product requirements into working high-quality cloud-native data solutions
+Share knowledge with wider engineering teams by doing technical demos
+
+REQUIREMENTS
+5+ years of hands-on experience in the Software Development field and/or Big Data
+Excellent knowledge of Python
+Proficient in PySpark and a strong understanding of Spark
+Understanding of ETL frameworks such as DBT
+Experience with orchestration tools such as Airflow
+Knowledge of Lakehouse architecture on top of AWS such as Apache Iceberg, Hudi, or Delta Lake
+Strong understanding of AWS (IAM, S3, Security groups)
+Proficient in Infra as code (Terraform or similar)
+Great communication skills: Able to articulate clearly about status, blockers, and design
+Ability to work independently and collaboratively
+At least an Upper-Intermediate level of English
+
+WOULD BE A PLUS
+Experience dealing with modern aspects of Lakehouse such as Databricks Unity Catalog and Snowflake Iceberg integration
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Especialista de Engenharia de Dados
+
+Sobre a vaga
+Company Description
+
+Somos uma empresa global, líder em serviços de informação, conhecida no restante do mundo como Experian. Nos grandes momentos da vida, como a compra de um carro, a ida de um filho para a faculdade ou mesmo a abertura e expansão de um negócio, estamos presentes para empoderar consumidores e clientes a administrarem seus dados com confiança.
+
+Contamos com mais de 20.000 pessoas operando em mais de 44 países; e, ao investirmos nelas, em tecnologia e em inovação, podemos ajudar negócios a se transformar e comunidades a prosperar, permitindo que mais pessoas se sintam incluídas nas oportunidades disponíveis. É dessa forma que todos os dias entregamos o nosso propósito de criar um futuro melhor.
+
+Venha descobrir um mundo inesperado com a gente.
+
+Job Description
+
+Área: EITS-MACHINE LEARNING ENGINEERING AND DATA PLATFORMS
+
+Subárea: DATA ENGINEERING
+
+Já pensou em alavancar a plataforma de dados e MLOps do maior banco de dados da América Latina ao nível de empresas como Uber, Netflix e Airbnb? Se você é movido por inovação e gosta de atuar em parceria contínua com todas as áreas da empresa, venha fazer parte do nosso time!
+
+Qualifications
+
+ Desenvolver nossa plataforma de dados integrada a nossa esteira MLOps usando o paradigma data mesh
+ Desenvolver APIs de acesso e consumo dos dados (data products);
+ Disseminar conhecimento sobre as melhores práticas de uso de dados;
+ Garantir que arquitetura comporte necessidades e requisitos técnicos do time de execução, trabalhando em conjunto com times de TI (Arquitetura, Segurança, Infraestrutura) e com áreas de negócio.
+
+Como será o seu dia a dia?
+
+ Atuar como líder técnico responsável por garantir as entregas da squad sobre os projetos pactuados com as áreas clientes.
+ Interagir com unidades de negócio, terceiros, fornecedores e/ou prestadores a fim de garantir o melhor entendimento e implementação dos dados e arquitetura;
+ Participar de discussões baseadas em dados dentro da equipe e entre áreas de negócios, apoiando decisões importantes;
+ Fazer a interface com os times de tecnologia e produtos a fim de definir as melhores práticas quanto ao armazenamento e consumo dos dados, além de sugerir, testar e acompanhar a implementação de novas tecnologias;
+
+Hard skills
+
+ Scala/Java e Python;
+ Airflow;
+ Spark (Batch & Streaming );
+ AWS Data Stack (s3, EMR, Kinesis, MSK, Glue, Athena, Lake Formation, Data Zone, RDS, DynamoDB);
+ Data Lake / Lakehouse (iceberg / delta);
+ Clean Code;
+ Testes Automatizados;
+ CI/CD Tools.
+
+Additional Information
+
+O que te oferecemos como diferencial!
+
+Ambiente em plena transformação; 
+Atuação global. 
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+
+Não atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------

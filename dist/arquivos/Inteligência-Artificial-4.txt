@@ -1,0 +1,308 @@
+[Oportunidade 1]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Somos "change-makers"!
+
+Combinamos nossa experiência global em indústrias-chave e as últimas tecnologias para ajudar empresas em rápido crescimento e estabelecidas a transformar e acelerar seus modelos de negócios, desenvolver soluções digitais inovadoras, escalar capacidades tecnológicas e sustentar seu crescimento.
+
+Construindo pontes em direção a um futuro melhor com mais oportunidades.
+
+Para garantir que estamos construindo um ambiente diverso e inclusivo que reflete a verdade sobre nossa cultura, bem como metas sociais e profissionais, buscamos recrutar com intencionalidade e foco cada vez maior em representatividade. Isso significa que consideramos expressões de gênero, etnia, raça, religião, orientação sexual e outros marcadores de identidade fatores que trazem ativos significativos para dentro da e-Core, garantindo que não existam barreiras para conectar talentos com oportunidades incríveis.
+
+Estamos comprometidos com os valores da Igualdade de Oportunidades de Emprego e todas as pessoas na e-Core são encorajadas a serem elas mesmas e incentivadas a desenvolver-se profissional e pessoalmente. #beyourself #beyourbest
+
+Como Data Engineer Você Terá Responsabilidades Como
+
+ Colaborar em equipes multifuncionais para traduzir requisitos de negócios em soluções analíticas;
+ Conduzir análises aprofundadas, revelando insights e padrões ocultos nos Dados;
+ Desenvolver ETLs para transformar Dados que resolvem problemas de negócios;
+ Desenvolver Plataformas de Processamento de Dados (Data Lake, Data Warehouse, Lake House, Data Mesh, etc)
+ Desenvolver dashboards e visualizações impactantes;
+ Ajudar os membros juniores da equipe e contribuir com estratégias de Dados e análises.
+
+Como Data Engineer Você Deve
+
+ Ser capaz de realizar análises e modelar dados para consulta analíticas para resolver problemas complexos;
+ Ter domínio da linguagem de programação Python;
+ Criar visualizações de Dados com ferramentas de BI;
+ Desenvolver APIs para consumo de dados;
+ Conhecimento avançado em SQL;
+ Processar de Dados Distribuídos (Apache Spark, PySpark);
+ Conhecer o Ecossistema de Big Data, Hadoop;
+ Conhecer avançado sobre Storage e Bancos de dados relacionais e analíticos;
+ Conhecimento avançado sobre de Data Lake, Data Warehouse e Lake House;
+ Conhecimento avançado de desenvolvimento de ETLs e Orquestração de pipelines de Dados;
+ Conhecimento de infraestrutura como código terraform.
+
+Desejável
+
+ Experiência em trabalhar com equipes multidisciplinares e colaborativas;
+ Conhecimento de ferramentas de gerenciamento de projetos como Jira;
+ Familiaridade com métodos ágeis e de entrega, principalmente SCRUM e CRISP-DM;
+ Familiaridade com DataOps;
+ Conhecimento de Databricks ou Snowflake;
+ Familiaridade com AWS Glue, Amazon EMR ou ferramenta semelhante;
+ Familiaridade com Amazon Redshift ou serviço semelhante;
+ Ser um AWS Data Analytics Speciality Certified / AWS Data Engineer Associate (ou certificação equivalente);
+ Conhecimento com GCP é um diferencial.
+
+Como e-Corean, você terá benefícios flexíveis no modelo da sua escolha:
+
+ Seguro de saúde, odontológico e de vida
+ Plano de saúde para seu pet (cobertura nacional)
+ Sessões periódicas de bem-estar
+ Gympass
+ Auxílio alimentação e/ou refeição
+ Cartão de múltiplos benefícios
+ 15 dias de férias a cada 6 meses (30 dias por ano)
+ Possibilidade de trabalhar desde o exterior (90 dias por ano)
+ Plano de Incentivo de Curto Prazo (PLR)
+ Plano de Previdência Privada
+ Possibilidade de escolher entre 5 modelos de trabalho
+ Onboarding Kit Personalizado (incluindo monitor, fones de ouvido / headset, teclado & outros presentes)
+ Auxílio mensal para trabalho remoto (de acordo com seu modelo de trabalho)
+ Horário de trabalho flexível
+ Auxílio estacionamento nos escritórios de SP e POA
+ Apoio financeiro para estudos e creche
+
+Privacy
+
+By submitting an application, I acknowledge that I have read and understood the e-Core Privacy Notice.
+
+Ao me inscrever, concordo que li e entendi a Política de Privacidade da e-Core.
+
+Privacy Policy (EN) / Política de Privacidade (PT-BR)
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenharia de Dados AWS - Sênior
+
+Sobre a vaga
+Sobre a vaga
+
+Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil.
+Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos.
+Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital.
+
+O que estamos buscando?
+
+Requisitos:
+Experiência com integração e processamento de dados
+Experiência na construção de processos ETL e fluxos de dados
+Sólidos conhecimentos com SQL
+Conhecimento com modelagem de dados multidimensional
+Conhecimento em Cloud Computing (AWS)
+Experiênncia com Athena, Glue e QuickSight
+
+Atuação 100% remota
+
+Descrição comportamental: 
+Procuramos uma pessoa que:
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+Tenha habilidades de resolução de problemas;
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+
+O que oferecemos:
+
+Cartão multi-benefícios – você escolhe como e onde utilizar;
+Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas;
+Programas de incentivo à Certificações;
+Horário de trabalho flexível;
+Plano personalizado de carreira e possibilidade de carreira internacional;
+Salários competitivos;
+Avaliação de desempenho anual com possibilidade de bonificação;
+Gympass;
+Previdência Privada;
+Auxílio-Creche;
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+
+Big enough to deliver – small enough to care.
+#VempraGFT
+#VamosVoarJuntos
+#ProudToBeGFT
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Engenheira de Dados e AWS Sênior
+
+Sobre a vaga
+Por que ser zupper?
+
+Vamos direto ao ponto: o que oferecemos é um ambiente de crescimento exponencial. Mais do que palavras bonitas, isso significa que oferecemos todas as oportunidades para que você possa protagonizar sua evolução e todo o suporte necessário.
+
+Como protagonismo sem apoio não gera desenvolvimento acelerado, além de oportunidades, cada zupper tem um plano de desenvolvimento de carreira, acompanhamento próximo por uma pessoa do time de People e acesso a uma plataforma proprietária que tangibiliza o sentimento de progresso.
+
+E por que fazemos tudo isso?
+
+Porque acreditamos que somente um ambiente de crescimento exponencial vai nos fazer chegar aonde queremos: usar a tecnologia para transformar a vida de pessoas, potencializar talentos desperdiçados por falta de acesso e posicionar regiões desprivilegiadas como pólos de tecnologia de qualidade.
+
+Ah, e não podemos esquecer: na Zup acreditamos na #Liberdade! Com isso, zuppers podem trabalhar de onde quiserem, seja home office, em nossos escritórios ou em um modelo híbrido
+
+O que você fará por aqui
+Certamente você já ouviu falar de como a Zup e os zuppers são fora da curva quando se trata de serviços de migração em nuvem, modernização de aplicações, soluções mobile e em arquiteturas de microsserviços.
+
+E agora, queremos chegar no mesmo patamar de referência quando se trata de soluções e produtos de Data & AI. Já se imaginou fazendo parte desse momento pioneiro e ajudando a lançar as bases da empresa nestas disciplinas?
+Como parte do time de Dados da Zup, sua missão é utilizar seus conhecimentos, habilidades e experiências para contribuir com a criação de uma cultura data-driven em nossos clientes e produtos, seja através da criação de tecnologias e componentes que aceleram o trabalho das áreas responsáveis ou criando pipelines e processos de ingestão, enriquecimento e disponibilização de dados adequados ao uso por diversas fontes.
+
+Por aqui você vai
+Participar do processo de entendimento das necessidades do negócio ,entendendo e garantindo a entrega de valor
+Desenhar a arquitetura e avaliar as tecnologias disponíveis para resolver o problema certo
+Implementar pipelines de Dados para democratização de dados em uma arquitetura Data Mesh
+Combinar a arquitetura e tecnologia para desenvolver e entregar componentes reutilizáveis como conectores, APIs, SDKs, CLIs
+Testar e automatizar tudo que for possível
+Validar e adaptar os componentes de acordo com os feedbacks dos usuários
+Colaborar com a qualidade e inovação tecnológica do produto e ambiente de trabalho
+
+O que esperamos que você saiba
+Conhecimento em processamento de dados em larga escala, processamento paralelo e distribuído (Apache Spark, Hadoop, Hive, etc);
+Experiência com serviços de Data & Analytics da nuvem AWS (Glue, EMR, Athena, Quicksight);
+Conhecimento de linguagem de programação Python;
+Domínio sobre os principais serviços da Cloud AWS (S3, Lambda, SQS, DynamoDB, API Gateway);
+Atuação prática consistente com bases de dados relacionais (SQL) e NoSQL (documentos e chave-valor);
+Domínio de práticas de DevOps e infraestrutura como código (Terraform, CodePipeline, etc)
+
+O que seria muito legal se você soubesse
+Experiência anterior em iniciativas de democratização de dados com Data Mesh;
+Conhecer Stackspot ou outra EDP (Entrerprise Developer Platform);
+Conhecimentos de Observability (Cloudwatch, CloudTrail, Prometheus, AppDynamics, Splunk, ElasticSearch, Grafana e etc.);
+Ter experiência no desenvolvimento de soluções para instituições financeiras
+
+O que te oferecemos
+
+Aqui não é só a sua carreira que importa, queremos que você tenha saúde e bem estar físico e mental para a melhor jornada de experiência profissional e pessoal da sua vida.
+
+Carreira acelerada
+Trabalhe de onde quiser
+Horários flexíveis
+Auxílio Educação para cursos
+Carreira
+Liberdade para trabalhar de onde quiser 
+Horários flexíveis*
+Auxílio Educação 
+Ferramenta própria de desenvolvimento de carreira
+Guildas internas e outros grupos de estudo e interesse
+
+Saúde e bem-estar
+Plano saúde 
+Plano odontológico
+Parceria na compra de medicamentos
+Telemedicina: assistência médica disponível 24x7
+Terapia online gratuita
+Wellhub
+Licença maternidade estendida
+Licença paternidade estendida
+CAZ – Central de Atendimento a Zuppers
+
+Conforto financeiro
+Vale-refeição e alimentação
+Seguro de vida
+Vale-transporte
+Auxílio home office 
+Auxílio Creche
+Auxílio plano telefônico
+Participação em Lucros e Resultado
+
+(*) Disponível somente para alguns projetos
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Local de trabalho:
+Brasil (Home Office)
+
+Principais atividades:
+Responsável pela disciplina de observabilidade do time de Operações de TI do Porto Bank;
+Definição de Níveis de Serviço e Indicadores de Níveis de Serviço;
+Eliminação de "toils" e melhoria contínua;
+Expansão das práticas SRE;
+Ser um líder técnico para a disciplina SRE, orientando e trazendo soluções em nível estratégico;
+Capacidade de liderar sala de crise em momentos de troubleshooting;
+Avaliar a maturidade, definir estratégias de otimização, ajustes de resultados de processos e mensuração de dados;
+Acompanhar métricas e indicadores técnicos e de negócios, focando na disponibilidade, resiliência e desempenho dos serviços de TI;
+Realizar manutenção proativa, troubleshooting, análise de causas raiz e solução de problemas;
+Trabalhar em projetos de modernização e jornadas para a nuvem.
+
+Requisitos:
+Experiência com Kotlin, Java, Python e Kafka;
+Experiência em tecnologias de busca – Elastic/OpenSearch/Solr;
+Experiência em Kubernetes;
+Experiência em ajuste fino de relevância dos motores de busca mencionados;
+Experiência em Search ML (classificação, ranking);
+Inglês avançado.
+
+Jornada de trabalho:
+Segunda a Sexta - Horário comercial
+
+Tipo de Contrato:
+CLT (Efetivo)
+
+#SeniorDataEngineer #DataPipelines #MachineLearning #Kubernetes #DataEngineering #Experis #VagasExperis
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Especialista de Engenharia de Dados
+
+Sobre a vaga
+Company Description
+
+Somos uma empresa global, líder em serviços de informação, conhecida no restante do mundo como Experian. Nos grandes momentos da vida, como a compra de um carro, a ida de um filho para a faculdade ou mesmo a abertura e expansão de um negócio, estamos presentes para empoderar consumidores e clientes a administrarem seus dados com confiança.
+
+Contamos com mais de 20.000 pessoas operando em mais de 44 países; e, ao investirmos nelas, em tecnologia e em inovação, podemos ajudar negócios a se transformar e comunidades a prosperar, permitindo que mais pessoas se sintam incluídas nas oportunidades disponíveis. É dessa forma que todos os dias entregamos o nosso propósito de criar um futuro melhor.
+
+Venha descobrir um mundo inesperado com a gente.
+
+Job Description
+
+Já pensou em alavancar a plataforma de dados e MLOps do maior banco de dados da América Latina? Se você é movido por inovação e gosta de atuar em parceria contínua com todas as áreas da empresa, venha fazer parte do nosso time!
+
+Como será o seu dia a dia?
+
+ Atuação direta nas discussões de arquitetura da plataforma;
+Desenvolvimento dos produtos de dados;
+Interação com principais usuários da plataforma visando mapear e entender dores, traduzindo em backlog de desenvolvimento da plataforma;
+Identificação e resolução de problemas relacionados aos projetos em que está atuando;
+Identificação de oportunidades de ganho de eficiência operacional e financeira das plataforma em que está atuando.
+
+Você Será Responsável Por
+
+Desenvolvimento de plataforma de dados para consumo de diversas fontes, batch e real-time;
+Desenvolvimento APIs de acesso e consumo dos dados (data products);
+isseminação do conhecimento sobre as melhores práticas de uso de dados (data contracts, governança federada e engenharia de plataformas);
+Garantir que arquitetura comporte necessidades e requisitos técnicos do time de execução, trabalhando em conjunto com times de TI (Arquitetura, Segurança, Infraestrutura) e com áreas de negócio;
+Influnciar técnicamente o time direcionando boas práticas de dados e engenharia de software.
+
+Qualifications
+
+O que buscamos em você?
+
+Autonomia e iniciativa para atuação na resolução de problemas;
+Boa comunicação e perfil resolutivo;
+Spark (Batch & Streaming);
+Proficiência em pelo menos umas das linguagens de programação como Scala, Java e Python;
+Orquestração de pipelines de dados (Airflow);
+AWS Data Stack (DynamoDB , s3, Lambda, EMR, MSK, Glue, Athena, Lake Formation, RDS);
+Data lake/ Lakehouse (iceberg/delta);
+Arquitetura de dados;
+Melhores práticas de engenharia de software;
+Testes Automatizados;
+Conhecimento em CI/CD.
+
+Additional Information
+
+O que te oferecemos como diferencial!
+
+Ambiente em plena transformação; 
+Atuação global. 
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+
+Não atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------

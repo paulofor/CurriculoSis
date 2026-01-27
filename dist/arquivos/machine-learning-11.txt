@@ -1,0 +1,327 @@
+[Oportunidade 1]
+Oportunidade: Cientista de Dados - Especialista
+
+Sobre a vaga
+Um time que faz parte da mudança 
+
+Abraçamos o poder da mudança para criar valor e sucesso compartilhado para nossos clientes, funcionários, acionistas, parceiros e comunidades. Contamos com a maior rede mundial de centros de tecnologia avançada e operações inteligentes.
+
+Provocamos a mudança no mercado 
+
+Trabalhamos juntos mundo afora para fazer um mundo de diferenças. A Accenture é uma empresa global de serviços profissionais líder em soluções para digital, nuvem e segurança. Ao combinar experiência incomparável e habilidades especializadas em mais de 40 setores, oferecemos serviços em Estratégia e Consultoria, Tecnologia, Operações, Industry X e a Accenture Song.
+
+Ao trabalharmos juntos, a mudança se torna a fonte de progresso mais dinâmica e poderosa que você tem. Somos mais de 738 mil pessoas, presentes em mais de 120 países, engajados em fazer inovação todos os dias e transformar o mundo em um lugar melhor para as pessoas.
+
+As Melhores Pessoas
+
+Nosso principal valor é o Respeito pelo Indivíduo. O nosso maior ativo são as pessoas, não fazemos distinção de gênero, cor, orientação sexual, posição social ou deficiências. Todos têm oportunidades iguais de construir sua carreira em uma empresa inclusiva e diversificada.
+
+Junte-se a nós
+
+Somos uma equipe que tem objetivo de colocar a nuvem no coração dos negócios das maiores empresas do mundo, desenvolvendo soluções específicas de migração para nuvem com a possibilidade de usufruir o melhor dela. Anunciamos em 2020 investimento de USD 3 bilhões para apoiar nossos clientes de todos os setores a se tornarem rapidamente “cloud-first” e acelerar sua transformação digital com velocidade e em escala.
+
+Requisitos:
+
+
+Experiência com Python: Habilidade comprovada em utilizar Python para análise de dados e modelagem estatística.
+
+Experiência com AWS: Conhecimento das ferramentas e serviços da AWS, como AWS S3, AWS Athena, AWS Glue, e Amazon SageMaker.
+
+Experiência com análise de dados: Experiência sólida em trabalhar com grandes volumes de dados e em criar insights acionáveis.
+
+Experiência com SQL: Habilidade em escrever consultas SQL complexas.
+
+Modelagem estatística e machine learning: Experiência em desenvolver e validar modelos preditivos e estatísticos.
+
+Boas práticas de desenvolvimento: Familiaridade com boas práticas de desenvolvimento de software, como design patterns e clean code.
+
+Inglês Avançado para comunicação diariamente 
+
+
+Diferencial: Experiência em desenvolvimento de algoritmos de machine learning com Python.
+
+Benefícios:
+
+Assistência Médica – 100% subsidiada pela empresa (titular e dependentes)
+
+Assistência Odontológica
+
+Vale Refeição ou Alimentação sem desconto
+
+Seguro de vida
+
+Previdência Privada
+
+Gympass
+
+Opção de compra de ações da empresa com desconto
+
+Desconto Farmácia
+
+Auxílio Creche
+
+Parceria com escola de idiomas
+
+Licença Maternidade e Paternidade Estendida
+
+PPR *Conforme política vigente
+
+Localidade da vaga: 
+
+Recife - PE Campina Grande - PB
+
+Fortaleza - CE São Paulo - SP Curitiba - PR Rio de Janeiro - RJ Belo Horizonte - MG
+
+Buscamos perfis que estejam alinhados aos valores da empresa, entusiastas em trabalhar em um ambiente colaborativo e dinâmico e que tenham a excelência na entrega e a inovação presentes em seu dia a dia.
+
+Valorizamos a competência independentemente da sua raça, idade, gênero, orientação sexual, credo, convicção política. A diversidade das nossas pessoas é o que faz Accenture excepcional. Nós reconhecemos que cada pessoa possui forças exclusivas e diversas.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados [Time Analytics]
+
+Sobre a vaga
+ Nosso Engenheiro de Dados [Time Analytics] será responsável por desenvolver, otimizar e estruturar arquiteturas de código para melhorar a performance, manutenção e escalabilidade das soluções, utilizando práticas de Engenharia de Software. Contribuirá, assim, para a aplicação dos melhores modelos de desenvolvimento de soluções escaláveis, performáticas e de fácil manutenção.
+
+Responsabilidades e atribuições
+
+Como Engenheiro de Dados com atuação no Time de Analytics, esperamos que você possa:
+
+Desenvolver, otimizar e estruturar arquiteturas de código para melhorar a performance, manutenção e escalabilidade das soluções, utilizando as melhores práticas de Engenharia de Software;
+Movimentar, transformar e entregar dados de qualidade, que sejam facilmente utilizados por nossos stakeholders; 
+Criação e sustentação de pipelines de dados de larga escala;
+Garantir a qualidade dos dados, assegurando integridade, consistência e precisão;
+Projetar e desenvolver modelos de dados complexos e otimizados, definindo padrões e estratégias de longo prazo; 
+Modelar e gerenciar bases de dados SQL;
+Criar e manter processos de governança de dados de acordo com as melhores práticas e seguindo a LGPD (Lei Geral de Proteção a Dados);
+Entender do negócio, explorar dados e desenvolver análises que agreguem valor ao nossos produtos;
+Automatizar processos, implementando melhorias em monitoramento e testes.
+
+
+Requisitos e qualificações
+
+Graduação completa em áreas como Computação, Sistema de Informação; Engenharias, Estatística, Tecnologias e correlatas;
+Experiência com ambiente cloud, preferencialmente AWS (Athena, S3, EMR, Redshift, IAM); 
+Conhecimentos e atuação prévia com Python, Airflow, SQL;
+Modelagem de Dados; 
+Git e Catalogação de Dados;
+Spark e Pyspark;
+Compreensão de conceitos gerais de dados: ERM, Star Schema, Snowflake Schema; Data Lake; Data Warehouse; Data LakeHouse; Data Mesh; Data Mart; Modern Data Stack; Governança de dados;Lineage de dados; 
+Será um diferencial: experiência prévia com engenharia de software. 
+
+
+Informações adicionais
+
+Ambiente informal, de muita troca e amizade;
+Pessoas apaixonadas pelo que fazem;
+Um aprendizado novo por dia;
+Local que está buscando seu melhor todos os dias;
+Crescimento e mil oportunidades ao seu redor;
+Salário competitivo;
+Vale Refeição (Caju);
+Auxílio Academia;
+Ajuda de Custo Home Office;
+Plano de Saúde;
+Auxílio Creche - Mulheres em Retorno de Licença Maternidade
+Vale-Educação Anual;
+PLR;
+Possibilidades de se tornar sócio/sócia da empresa :)
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Data Architect
+
+Sobre a vaga
+Company Overview:
+ Lean Tech is a rapidly expanding organization situated in Medellín, Colombia. We pride ourselves on possessing one of the most influential networks within software development and IT services for the entertainment, financial, and logistics sectors. Our corporate projections offer many opportunities for professionals to elevate their careers and experience substantial growth. Joining our team means engaging with expansive engineering teams across Latin America and the United States, contributing to cutting-edge developments in multiple industries.
+ Currently, we are seeking a Senior Data Architect with a strong English level to join our team. Here are the challenges that our next warrior will face and the requirements we look for: 
+ Position Title: Senior Data Architect
+ Location: Remote - LATAM
+ What you will be doing:
+ We are seeking a highly experienced Senior Data Architect. This role is critical in ensuring the seamless operation and optimization of their cloud and data warehouse environments. Your responsibilities will include: 
+  Lead the design, implementation, and management of cloud architecture solutions, primarily utilizing Azure and Snowflake
+Oversee the migration and optimization of data warehouses, ensuring high performance, scalability, and reliability
+Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions
+Provide expert guidance and support in troubleshooting and resolving complex issues related to cloud and data warehouse infrastructure
+Develop and implement best practices for data management, security, and governance. Continuously evaluate emerging technologies and integrate them into the architecture to enhance performance and cost-efficiency
+
+
+Requirements & QualificationsTo excel in this role, you should possess:
+Bachelor's or Master's degree in Computer Science, Information Technology, or a related field
+Relevant certifications in cloud architecture and data warehouse technologies (e.g., Azure Solutions Architect Expert, Snowflake SnowPro)
+Minimum of 10 years of experience in cloud architecture and data warehouse management
+Expert-level skills in Azure, with a proven track record of designing and implementing large-scale data warehouse solutions
+Extensive experience in building and migrating data warehouses, with a deep understanding of the associated challenges and best practices
+Knowledge of data integration tools such as Talend, Informatica, or Azure Data Factory
+Familiarity with DevOps practices and tools for continuous integration and delivery
+Strong problem-solving skills and the ability to work under pressure to meet tight deadlines
+Exceptional communication skills, with the ability to articulate complex technical concepts to non-technical stakeholders
+
+
+Why you will love Lean Tech:
+  Join a powerful tech workforce and help us change the world through technology
+Professional development opportunities with international customers
+Collaborative work environment
+Career path and mentorship programs that will lead to new levels. 
+
+
+Join Lean Tech and contribute to shaping the data landscape within a dynamic and growing organization. Your skills will be honed, and your contributions will be vital to our continued success. Lean Tech is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+ 
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Pessoa Engenheira de Machine Learning Sênior ou Especialista
+
+Sobre a vaga
+Por que ser zupper?
+
+Vamos direto ao ponto: o que oferecemos é um ambiente de crescimento exponencial. Mais do que palavras bonitas, isso significa que oferecemos todas as oportunidades para que você possa protagonizar sua evolução e todo o suporte necessário.
+
+Como protagonismo sem apoio não gera desenvolvimento acelerado, além de oportunidades, cada zupper tem um plano de desenvolvimento de carreira, acompanhamento próximo por uma pessoa do time de People e acesso a uma plataforma proprietária que tangibiliza o sentimento de progresso.
+
+E por que fazemos tudo isso?
+
+Porque acreditamos que somente um ambiente de crescimento exponencial vai nos fazer chegar aonde queremos: usar a tecnologia para transformar a vida de pessoas, potencializar talentos desperdiçados por falta de acesso e posicionar regiões desprivilegiadas como pólos de tecnologia de qualidade.
+
+Ah, e não podemos esquecer: na Zup acreditamos na ! Com isso, zuppers podem trabalhar de onde quiserem, seja home office, em nossos escritórios ou em um modelo híbrido
+
+Como será seu dia a dia:
+
+Apoiar no desenho, construção e evolução das esteiras de deploy de modelos de Machine Learning.
+Desenvolver arquiteturas robustas e escaláveis sempre tendo em foco os conceitos de MLOps.
+Desenvolver ferramentas que auxiliem cientistas de dados em suas funções diárias.
+Garantir implantação e operação dos modelos de Machine Learning.
+Apoiar no monitoramento dos modelos de Machine Learning.
+Colaborar com equipes multidisciplinares (Engenharia de Machine Learning, Engenharia de Dados, DevOps, Cientistas de Dados) para entender as necessidades e desenvolver/propor soluções eficazes.
+Ser referência técnica para o time, ajudando a capacitar outros engenheiros.
+
+Pré-requisitos:
+
+Experiência com linguagem de programação Python.
+Conhecimentos em nuvem, preferencialmente AWS.
+Conhecimento em ferramentas e bibliotecas de ML, como: Scikit-learn, MLlib, TensorFlow, etc.
+Experiência na construção e manutenção de ferramentas e pipelines MLOps para desenvolvimento, implantação e automação de modelos.
+Conhecimentos em sistema de controle de versões.
+Habilidade com Infra as Code (Terraform).
+
+Diferenciais:
+
+Pós-graduação (Ex.: Mestrado, MBA, Especialização) é um diferencial.
+Conhecimento em Docker/Kubernetes.
+Experiência e construção de APIs.
+Conhecimento em CI/CD.
+Vivência com métodos ágeis de desenvolvimento.
+Conhecimento com soluções de observabilidade.
+Conhecimentos em processamento distribuído.
+
+O que te tornaria Especialista
+
+Caso você tenha cinco anos de experiência em desenvolvimento utilizando as tecnologias acima, provavelmente você se encaixa como Especialista aqui na Zup.
+
+O que te oferecemos
+
+Aqui não é só a sua carreira que importa, queremos que você tenha saúde e bem estar físico e mental para a melhor jornada de experiência profissional e pessoal da sua vida.
+
+Carreira acelerada
+
+Trabalhe de onde quiser 
+Horários flexíveis
+Auxílio Educação para cursos
+Ferramenta própria e exclusiva de desenvolvimento de carreira
+Site interno de carreira
+Frameworks para liderança: treinamentos e ferramentas
+Feedbacks 1o1 semanais
+Guildas internas e outros grupos de estudo e interesse
+
+Saúde e Bem-estar
+
+Gympass
+Plano saúde
+Plano odontológico
+PrimeCare: assistência médica disponível 24 por 7
+Terapia online gratuita
+CAZ – Central de Atendimento aos zuppers 
+Licença maternidade de 180 dias
+Licença paternidade de 20 dias
+
+Conforto financeiro
+
+Vale Refeição e Alimentação
+Seguro de vida
+Vale transporte
+Subsídio para home office 
+Auxílio creche
+Auxílio Plano telefônico 
+Participação em Lucros e Resultado (PLR)
+Programa de indicação
+
+Se você é uma pessoa apaixonada por Machine Learning e quer fazer parte de uma equipe que valoriza a inovação e a excelência técnica, venha se aventurar conosco!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Applied Scientist, NLP
+
+Sobre a vaga
+Are you excited about working at the forefront of applied research in an industry setting?
+
+Thomson Reuters Labs in São Paulo is seeking scientists with a passion for solving problems using state-of-the-art information retrieval, natural language processing and generative AI.
+
+What does Thomson Reuters Labs do? We experiment, we build, we deliver. We support the organization and our customers through applied research in informational retrieval and natural language processing. We work closely with product and domain experts to identify compelling solutions at the intersection of user need and technical feasibility.
+
+About The Role 
+
+As a Senior Applied Scientist, NLP you will:
+
+Experiment and Develop: You will drive the end-to-end model development lifecycle, championing best practices to ensure reproducible research and well-managed software delivery
+
+Collaborate: Working on a collaborative cross-functional team, you will share information, value diverse ideas, and partner effectively with colleagues across the globe. You will elevate and mentor teammates
+
+Deliver: With a sense of urgency and the desire to work in a fast-paced, dynamic environment, you will translate complex business problems into projects with clearly defined scope. Our problems are complex; our solutions are right-sized. You will be accountable for timely, well-managed deliverables
+
+Innovate: You will be empowered to try new approaches and learn new technologies. You will foster innovative ideas to solve real-world challenges
+
+Inspire: You will be a proactive communicator who is excited to share your work. You will be articulate and compelling in describing ideas to both technical and non-technical audiences. You will help lead the way in the adoption of AI across the enterprise. 
+
+About You 
+
+You’re a fit for the role of Senior Applied Scientist, NLP if your background includes:
+Basic qualifications
+PhD in a relevant discipline or Master with a comparable level of experience 
+At least 5 years practical, relevant experience building NLP/IR/ML systems, from ideation to production
+Solid software engineering skills for prototyping
+Professional experience as a technical leader, translating complex business problems into projects with clearly defined scope, coordinating and guiding the work of others
+Preferred qualifications
+8 years practical experience building IR, ML or NLP systems in academia or industry 
+Demonstrated ability to translate cutting edge research into working prototypes and experience experimenting with novel IR or NLP models to solve real-world problems
+Experience in fast-paced, agile environments managing uncertainty and ambiguity
+Outstanding communication and data-driven decision-making collaboration with Product and Business Stakeholders
+Proficiency in Python, Java, or Scala and experience delivering minimum viable products in large enterprise environments
+Publications at relevant venues such as ACL, EMNLP, NAACL, NeurIPS, ICLR, SIGIR, KDD or similar 
+
+
+What's in it For You?
+
+You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through:
+
+Hybrid Work Model: We’ve adopted a flexible hybrid working environment (2-3 days a week in the office depending on the role) for our office-based roles while delivering a seamless experience that is digitally and physically connected
+
+Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: flexible vacation, two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing.
+
+Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more.
+
+Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking.
+
+Social Impact: Ten employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact.
+
+Purpose Driven Work: We have a superpower that we’ve never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.
+
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we’ve been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world’s most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility 
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+Protect yourself from fraudulent job postings click here to know more.
+
+More information about Thomson Reuters can be found on https://thomsonreuters.com.
+-----------------------------------------------------------------------------------

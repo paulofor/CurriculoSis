@@ -1,0 +1,327 @@
+[Oportunidade 1]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates either in Latin America, Africa, or Eastern Europe who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+
+
+Responsibilities
+
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java or Groovy or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice-to-have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on NoSQL technologies
+Hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+You can start as soon as possible, ideally immediately
+You are located in either Latin America, Africa, or Eastern Europe
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+Hiring Manager (client) interview (30 min)
+Design & development competency check interview (client) (about 45 minutes)
+Final (client) interview (30 min)
+ 
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+
+ What we offer
+
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health
+
+.
+The positi
+
+on
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligen
+ce.It's a fully remote (of course!), full-time position for candidates in Latin America who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the differenc
+
+e).
+Responsibili
+
+ties
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform tog
+etherResponsible for end-to-end feature releases and platform enhance
+mentsActively support the technical design process, bringing your expertise and analysis to help make data-driven deci
+sionsContribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applica
+tionsSupport all parts of our client's platform from the database to the fro
+ntendContinuously discover, understand, and implement new technologies & services to maximize development effic
+iencyContribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test cov
+erageActively participate in ensuring our client maintains a disciplined approach to healthcare sec
+urityFoster a community of mentorship for junior engineers on your
+
+ team
+Your background & requir
+
+ements
+Bachelor’s degree in computer science, software engineering, or equivalent exp
+erienceExperience working on software development teams, building and deploying full-stack web appli
+cationsPassionate about building quality products and want to own product development end-to-end, with excellent design and development st
+andardsCollaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user exp
+erienceExperience with common software development practices such as version control, unit testing, an
+d CI/CDTeam player, interested in working in a fast-paced startup envi
+ronmentA minimum of 7 full years of experience in the software development li
+fecycleExperience with data pipelines or applications using Java, or Groovy, or
+ KotlinExperience building applications using React (mandatory) and TypeScript (nice t
+o have)Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or C
+ucumberHands-on experience building applications on either SQL or NoSQL techn
+ologiesIf you have experience with NoSQL technologies, then we would be looking for hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch o
+r KafkaIf you have experience with SQL technologies, we need you to have in-depth experience building and maintaining services with SQL dat
+abases.You can start as soon as p
+ossibleYou are located in Latin 
+AmericaYou can work EST (Eastern Time) offic
+
+e hours
+Nice 
+
+to haves
+Prior experience in healthcare and life
+ sciencesExperience with Amaz
+on AthenaFamiliarity with healthcare interoperability standards (H
+L7, FHIR)Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and trans
+formationExperience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub
+
+ Actions)
+Our recruitme
+
+nt process
+Recruiter intervi
+ew (30 min)Technical intervi
+ew (45 min)Take-home coding exam (30 to 45 minutes, onl
+ine, timed)(Client) Hiring Manager intervi
+ew (30 min)(Client) Design & development competency check interview (about 
+45 minutes)(Client) Final intervi
+
+ew (30 min)
+We strive to move efficiently from step to step so that the recruitment process can be as fast 
+
+as possible.
+
+What we offer
+Totally remote, full-t
+ime (40h/week)Monday to Friday, Eastern Standard Tim
+e office hoursLong-term, no end date independent contra
+ctor agreementPayment in USD, biweekly or monthly
+
+ - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates in Latin America who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+Responsibilities
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java, or Groovy, or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice to have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on either SQL or NoSQL technologies
+ If you have experience with NoSQL technologies, then we would be looking for hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+If you have experience with SQL technologies, we need you to have in-depth experience building and maintaining services with SQL databases.
+You can start as soon as possible
+You are located in Latin America
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Experience with Amazon Athena
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+(Client) Hiring Manager interview (30 min)
+(Client) Design & development competency check interview (about 45 minutes)
+(Client) Final interview (30 min)
+
+
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+ 
+What we offer
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Backend Engineer in Sustainable Agtech & AI @ Adaviv -an MIT Spinoff
+
+Sobre a vaga
+Where would you work?
+Adaviv, spun off from MIT, offers the world's first farmer-centric AI platform for greenhouse and controlled farms. Our AI mentor empowers farm managers and upskills workers, providing real-time insights to enhance productivity, retention, and operational efficiency. Based at Greentown Labs, Somerville, MA, Adaviv serves leading greenhouse and indoor farms globally. We boost yields by up to 31% and cut losses by 45%, saving managers hours each week for critical decisions like worker feedback, treatment optimization, and crop planning. We're growing and seeking passionate, mission-driven individuals with a growth mindset to join our team.
+
+What would you be doing?
+As a Senior Backend Application Engineer at Adaviv, you will be working with our engineering team as well as Product Lead, CTO, Frontend engineers and our UI/UX designers to advance our CI/CD pipeline and implement new data pipelines and APIs for our beta and production-level mobile and web apps towards supporting a growing pool of clients across the Americas and building game-changing products for sustainable Agriculture. You will work on building, maintaining and improving our cloud tech stack. You will also work with the software team to create and maintain an optimized data schema for these new features using google cloud and AWS infrastructure.
+
+You’ll have the opportunity to make a big impact on both the company and our customers. We bring design-to-value thinking to all dimensions of our product development and believe in designing highly intuitive experiences that make our end customer’s job easier. You'll be in charge of quickly improving performance and developing high-impact features, while also keeping one eye on scalability and security of backend services as we grow. At Adaviv, we value continuous learning and adaptability, encouraging you to explore new technologies and methodologies in our fast-paced environment.
+
+We thrive on cross-functional collaboration and communication, with our engineers working closely with product leads, designers, and front-end developers to deliver seamless solutions. For example, we involve engineers in customer workshops and are highly collaborative as we design and refine features like our AI-powered insight delivery.
+
+Who are we looking for?
+We are seeking a passionate individual with 3+ years of engineering experience in industrial production settings, a proven track record of consistently achieving engineering milestones and KPIs and a can-do-will-do mindset to build and grow with our company at a fast, but rewarding pace. One of your super powers is your ability to quickly turn business requirements into high quality implementations of backend application services that support our mobile and web-based apps, while collaborating and communicating effectively with our front-end engineers and UI/UX designer. It would be necessary for this role to have excellent communication skills.
+
+Agile software development is fundamental to your work and you possess a solid toolset for API and data pipeline/analytics development. You keep the end-user front of mind and will help us cultivate empathy for our customers and for fellow team members.
+
+Degree Requirement:
+
+B.Sc or M.Sc in Computer Science, Software Engineering or a relevant field (not a must but strongly preferred).
+
+Required Skills and Qualifications:
+
+5+ years experience in back-end/API software development in an industrial setting (production level contribution).
+5+ years industry experience developing, deploying, and maintaining APIs, relational databases and data pipelines is a must.
+Expertise in in one of the programming languages used to develop cloud tech stack for backend services, savvy in useful libraries, tools, platforms, and development environments that are widely used.
+Experience building and deploying APIs that are used commercially.
+Expertise in agile and continuous software development.
+Strong background in Test-Driven Development and ability to independently carry out all phases of a software development process.
+Demonstrated aptitude in current state-of-the-art developments of cloud applications and rapid development frameworks.
+
+Preferred but not Required Skills:
+
+Fluency in Python, Typescript
+Dual degrees in relevant fields of CS, Software Engineering, Design, math etc.
+Experience building software products for traditional industries like agriculture, manufacturing, supply chain, energy or adjacent fields.
+Familiarity with User-Centric Design (UI/UX theory) and first-hand experience surveying customer feedback.
+Full-stack development experience (Python, AWS ecosystem - data orchestration tools)
+Fundamental knowledge of data engineering and algorithm principles
+
+Additional Details:
+
+This role requires full-time engagement.
+Remote or hybrid remote-in-person flexible.
+Annual salary. We offer an opportunity for equity ownership, with a clear vesting schedule and the potential for significant growth as the company scales.
+
+Final Words. 
+Principles of sustainability are at our core. We value integrity, excellence, hard work, respect, and collaboration. You'll operate as a member of a fun, diverse team (6 nationalities!) and work both independently and collaboratively. We promote and foster diversity of people and ideas, while cultivating empathy for our customers and team members.
+
+We are committed to your professional growth, offering access to conferences, workshops, and continued education support. Adaviv also provides flexible remote or hybrid work options to help you balance your professional and personal life effectively.
+
+Want to be a part of our team? If Adaviv sounds like the type of company you’d like to be a part of and want to help us change how we grow food and medicines for the better, then please apply!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Machine Learning Engineer
+
+Sobre a vaga
+Building with the latest tools, our Machine Learning teams launch for Silicon Valley startups and Life Science giants alike.
+
+Join Loka to work remotely, ship projects you’re proud of and enjoy every other Friday off.
+
+The Role
+Understand business objectives and develop models that help achieve them, plus metrics to track their progress.
+Design and implement complex ML systems using classical ML, DL and Foundation Models and following best practices.
+Lead client communications by gathering requirements, managing expectations and communicating deliverables.
+Wrangle, explore and visualize data with a careful eye for issues that require data cleaning as well as differences in data distribution that may affect performance after deployment.
+Analyze model errors; design strategies to overcome them.
+Deploy, maintain and upgrade ML models and pipelines.
+Follow Loka’s career track for growth by demonstrating technical excellence, innovation, autonomy, ownership, communication and teamwork.
+
+The Benefits
+Every other Friday off (26 extra days off a year!)
+LokaLabs incubator
+Explore and Relocation programs (three months work abroad or full international relo)
+Remote and flexible
+Paid sick days and local holidays
+Fitness subscription
+
+The Required Hard Skills
+Bachelor’s degree in Computer Science or related
+Proficient in English
+Experience with Python, ML libraries and AI/ML frameworks (PyTorch, HuggingFace, TensorFlow, Keras, Scikit-learn, Spark etc.)
+Strong understanding of statistical, ML and deep learning algorithms (candidates with NLP experience preferred)
+Experience building GenAI solutions including prompt engineering (e.g: Langchain), fine-tuning and serving LLMs, search and embeddings, etc.
+Experience with MLOps, preferably in AWS (e.g: Sagemaker), as well as standards tools (e.g. MLFlow)
+Experience visualizing and manipulating big datasets
+Client-facing experience
+Clean criminal record
+
+The Required Soft Skills
+Curiosity—Ambition to learn and grow into different industries with a modern tech stack
+Autonomy and positivity—We’re a fully remote, globally distributed team
+Teamwork—Enjoy a collaborative approach
+Adaptability—Operate with a startup mindset and move at a startup pace
+
+
+Please submit your CV in English.
+-----------------------------------------------------------------------------------

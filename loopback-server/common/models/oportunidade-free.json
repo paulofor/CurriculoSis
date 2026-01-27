@@ -1,0 +1,53 @@
+{
+	"name": "OportunidadeFree",
+	"base": "PersistedModel",
+	"idInjection": true,
+	"options": {
+		"validateUpsert": true
+	},
+  	"mixins": {
+    	"Counts": true
+  	},
+	"properties": {
+		"descricao": {
+			"type": "string"
+		},
+		"titulo": {
+			"type": "string"
+		},
+		"data": {
+			"type": "date"
+		}
+	},
+	"validations": [],
+	"relations": {
+	},
+	"acls": [],
+	"methods": {
+		"RecebeItem": {
+			"accepts": [
+				{
+					"arg": "oportunidade",
+					"type": "object",
+   					"required": false,
+    				"description": ""
+				}
+			],
+			"returns": [
+ 				{
+     				"arg": "resultado",
+     				"type": "object",
+   					"root": true,
+    				"description": ""
+   				}
+			],
+			"description": "",
+			"http": [
+         		{
+          			"path": "/recebeItem",
+   					"verb": "post"
+ 				}
+ 			]
+		}
+	}
+}

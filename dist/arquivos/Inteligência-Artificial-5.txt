@@ -1,0 +1,174 @@
+[Oportunidade 1]
+Oportunidade: Cientista de dados
+
+Sobre a vaga
+ATIVIDADES:
+Criação de modelos preditivos e prescritivos utilizando o Azure ML e notebooks em Synapse em arquitetura Medallion (Bronze, Silver e Gold ou ainda Landing, Raw, Trusted e Refined), modelagem de dados, dimensionamento de clusters (Synapse), documentação do processo de modelagem, testes e retreinamentos do modelo, identificação de pontos de melhoria e otimização dos etl's. Processamento de arquivos estruturados, semi-estruturados e não estruturados, em batch, que serão utilizados em um cenário de manutenção preditiva/prescritiva.
+
+COMPETENCIAS: 
+Transformação de dados, Azure Synape, ADLS Gen2 (Azure Data Lake), PySpark, Azure Keyvault, Dimensionamento de Clusters, Azure Synapse Serverless Pools, External Tables, SQL (Views, Jobs, CTE’s, Procedures), Azure DevOps, esteiras CI/CD, Experiência com utilização criação e manutenção de datalakehouses (parquet + delta). Desejável conhecimento ligado a IoT, Azure ML, MLFlow, bem como conhecimento em processamento de imagens. Conhecimento em streaming de dados (Ex: Apache Kafka, Rabbit MQ, Apache Flink) seria um ótimo diferencial (provável arquitetura no médio prazo). Certificações como DP-100 (Azure Data Scientist Associate) ou AI-102 (Azure AI Engineer Associate)
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Machine Learning Engineer - IBP Build
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Partner with data engineers to ensure data access for discovery and proper data is prepared for model consumption.
+Partner with ML engineers working on industrialization.
+Coordinate work activities with Business teams, other IT services and as required.
+Drive the use of the Platform toolset and to also focus on 'the art of the possible' demonstrations to the business as needed.
+Communicate with business stakeholders in the process of service design, training and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Set KPIs and metrics to evaluate analytics solution given a particular use case.
+Refine requirements into modelling problems.
+Influence product teams through data-based recommendations.
+Research in state-of-the-art methodologies.
+Create documentation for learnings and knowledge transfer.
+Create reusable packages or libraries.
+
+Qualifications
+
+What you will need to succeed
+
+2+ years’ experience building solutions in the revenue management or in the supply chain space.
+2+ years working in a team to deliver production level analytic solutions. Fluent in git (version control). Understanding of Jenkins, Docker are a plus.
+3+ years’ experience in ETL and/or data wrangling techniques. Fluent in SQL syntaxis.
+3+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. Experiences with Deep Learning are a plus.
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or R development.
+Business storytelling and communicating data insights in business consumable format. Fluent in one Visualization tool.
+Strong communications and organizational skills with the ability to deal with ambiguity while juggling multiple priorities
+Experience with Agile methodology for team work and analytics ‘product’ creation.
+
+Additional qualifications that will make you stand out for this position
+
+Experience with Azure cloud services is a plus.
+Experience with distributed machine learning is a plus.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Performance marketer
+
+Sobre a vaga
+Company Description
+Applied Particle Technology Inc. specializes in reducing health and environmental risks by combining real-time dust sensors with intelligent air quality software. As a key player in the environmental technology sector, our innovative solutions contribute to a healthier and safer world. APT's founders are NASA award winning PhDs in air quality. APT is backed by the world's top Venture Capital Investors.
+
+Role Description
+This is a part-time role with a possibility of becoming a full-time remote role for a Performance Marketer at Applied Particle Technology Inc. The Performance Marketer will be responsible for planning and executing digital marketing campaigns, analyzing campaign performance, optimizing conversion rates, and driving lead generation through various online channels.
+
+Qualifications
+Digital Marketing, Marketing, and Performance Marketing skills
+Data analysis and interpretation skills
+Experience in optimizing conversion rates
+Lead generation expertise
+Excellent written and verbal communication skills
+Proficiency in analytics tools such as Google Analytics
+Ability to work independently and remotely
+Knowledge of environmental technology or related industry is a plus
+Bachelor's degree in Marketing, Business, or related field
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Pessoa Desenvolvedora Machine Learning III
+
+Sobre a vaga
+O Inatel está recrutando Especialista para atuar com pessoa desenvolvedora de Machine Learning Sênior, para atuar com projetos de ponta, no ICC - Inatel Competence Center.
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+Desenvolver modelos estatísticos e de aprendizado de máquina usando técnicas modernas de ciência de dados e machine learning;
+Desenvolver aplicações para plataformas que podem envolver IA/ML;
+Conceber soluções inovadoras para plataformas Network as a Service (NaaS);
+Realizar estudos e análises de estruturas, dados, plataformas e ferramentas de IA/ML;
+Elaborar documentação técnica sobre as soluções propostas/adotadas;
+Prover suporte ao time de QA;
+Revisar código desenvolvido conforme boas práticas da tecnologia;
+Elaborar documentação técnica;
+Atuar como agente multiplicador de conhecimentos, prestando suporte técnico a seus pares.
+
+REQUISITOS E QUALIFICAÇÕES
+
+Ensino Superior Completo, preferencialmente em cursos de Computação, Engenharia, Sistemas de Informação ou Ciência da Computação;
+
+Sólida experiência em: 
+Linguagem de programação Python ou Go;
+Métodos estatísticos para análise de dados;
+Desenvolvimento de algoritmos de Machine Learning/Deep Learning;
+Arquitetura em microserviços;
+Desenvolvimento de aplicações web modernas;
+Banco de dados de alto volume (relacional, não relacional, data lake ou data warehouse);
+Conhecimento em Keras, PyTorch e TensorFlow
+MLOps;
+Plataformas Cloud (AWS ou Azure);
+CI/CD;
+Melhores práticas de desenvolvimento;
+Metodologias ágeis.
+
+Seria interessante se você tivesse ou soubesse:
+
+Conhecimento em soluções SDN;
+Prática em projetos com equipes multidisciplinares;
+Conhecimento em: Big Data, Data Science, gRPC, banco de dados temporal e mock de dados;
+Inglês avançado para leitura e escrita e intermediário para conversação.
+
+INFORMAÇÕES ADICIONAIS
+
+Horário de trabalho: de segunda à sexta-feira, das 8h as 12h e das 13h30 as 17h30.
+Local de trabalho: as atividades serão realizadas em regime de Teletrabalho "Home Office".
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Gerente de projetos
+
+Sobre a vaga
+Estamos buscando profissional Gerente de Projetos SR, para alocação em novos projetos, junto a um dos nossos clientes do setor de Seguros.
+
+Atividades:
+Gerente de Projetos com experiência comprovada em Projetos Complexos / Multidisciplinares (8 anos).
+Experiência com SalesForce.
+Vivência em migração de soluções para SalesForce.
+Conhecimento no processo de Change Management de CRM.
+Background técnico para entender / discutir soluções de Projetos SalesForce.
+
+
+Competências e habilidades:
+Importante: Perfil Hands On, com grande capacidade de comunicação, especialista em lidar com conflitos / remover obstáculos.
+
+Formação: Ensino superior completo.
+
+Certificação PMP será um diferencial
+
+Onde? 100% Remoto.
+Projeto de 1 ano com possibilidade de continuação.
+
+Benefícios e Incentivos: Assistências Médica e Odontológica SulAmérica; Seguro de Vida Prudential; Vales Transporte e Refeição, Wellhub e Programa de Incentivo à Plataforma Alura, com mais de 1.200 cursos em tecnologia digital.
+Todas as nossas oportunidades são elegíveis a pessoas com deficiência. Candidate-se e decole na sua carreira!
+A Elumini é uma sólida consultoria no mercado de TI, com operações na América do Sul, América do Norte e Europa. É certificada e reconhecida pelo Instituto Great Place To Work® como uma das Melhores Empresas para Trabalhar graças a sua forma única de tratar os profissionais e ao seu ambiente diferenciado.
+-----------------------------------------------------------------------------------

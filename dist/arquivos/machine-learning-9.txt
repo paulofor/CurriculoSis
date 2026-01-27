@@ -1,0 +1,251 @@
+[Oportunidade 1]
+Oportunidade: Senior Machine Learning Engineer
+
+Sobre a vaga
+No software farms and no part-time jobs at the moment. We build our software in-house.
+
+Looking for a Machine Learning Engineer with interest in product. As we are an early-stage startup, the range of projects is quite broad, so fluency and willingness to go across the stack to solve problems are a big plus. Experience with system design is also a plus.
+
+Minimum qualifications:
+Fluency in Python
+Experience with System Design
+Fluency in English
+Experience building production machine learning systems
+Experience with Machine Learning Research
+Experience creating backend systems in Python
+
+Projects include:
+Developing and Serving Machine Learning models
+Optimizing ML models i.e. fine-tuning, prompt engineering
+Data preparation and cleaning
+Maintaining our Python backend
+
+At Findly, we created a culture where developers have complete ownership of the projects and tools they build, from prototyping to deploying it on prod.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados
+
+Sobre a vaga
+Quais serão suas responsabilidades?
+Desenvolver componentes para ingestão e processamentos de dados em cima de plataforma em GCP;
+Análise e throubleshooting dos ambientes que compreendem a plataforma de dados;
+Desenho e implantação de novas arquiteturas para disponibilização de dados;
+Atuar na frente da área de dados, apoiando, direcionando e capacitando a equipe atual, para desenhar e implementar as melhores soluções;
+ Desenvolver pipeline ingestão de dados dos sistemas origem para as camadas de entrada no data lake (raw/trusted);
+Desenvolver pipeline de transformação do dado para atender às necessidades de negócio;Desenvolvimento de pipelines em batch e streaming (NRT);
+Automatizar pipeline para execução automática de acordo com os requisitos de negócio;
+Criação de controles para reexecução/retomada do pipeline em casos de erro;
+Analisar os dados e ajudar nas propostas de solução para contribuir com as áreas solicitantes a termos um produto de Dados ainda melhor;
+
+O que é necessário para participar desse processo seletivo?
+Bancos de dados transacional (Oracle, Sybase, SQL Server, MySQL);
+Bancos de dados analítico (GCP Big Query);
+Integração de dados/sistemas;
+GCP Dataflow (Apache Beam);
+GCP Composer (Apache Airflow);
+Conhecimento em Cloud GCP;
+Conhecimento em Spark (Databricks);
+Armazenamento de dados (Google Cloud Storage);
+Modelagem de dados; -> Modelagem de dados(Modelagem Dimensional: star schema e snowflake)
+Conhecimento em GIT;
+Conhecimento em Python;
+
+Diferenciais:
+Conhecimento em cloud Azure(Data Factory e Azure Synapse Analytics);
+Conhecimento em Java (springboot).
+
+Por que fazer parte do time DBC Company?
+• Somos a 17ª melhor empresa para trabalhar do Brasil e a 4ª melhor empresa para trabalhar no Rio Grande do Sul, segundo o GPTW 2023;
+• Todos os profissionais que estão alocados em clientes e/ou projetos são acompanhados por Gestor da DBC e também por Líder de Smartsourcing;
+• A DBC oferece incentivo a certificações a todos os colaboradores.
+
+O que é importante saber?
+• Nosso time promove um ambiente seguro para todos os profissionais independente de sua etnia, crença religiosa, orientação sexual, identidade de gênero, deficiência, idade, etc.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Machine Learning Pleno
+
+Sobre a vaga
+Sobre o Picpay:
+
+Com mais de dez anos de história, o PicPay é uma empresa de tecnologia que oferece um portfólio completo de serviços financeiros para facilitar a relação com dinheiro e ser a principal conta do dia a dia de milhares de pessoas e empresas.
+
+Atuamos em cinco frentes de negócios: Serviços Financeiros para Pessoa Física, Serviços Financeiros para Pessoa Jurídica, Marketplace Financeiro, PicPay Shopce Investimentos. Fundada em Vitória (ES), a empresa tem mais de 30 milhões de usuários ativos e faz parte do grupo J&F, um dos maiores conglomerados empresariais do Brasil.
+
+Nossa cultura é nosso alicerce e nossa força. Conheça nossos valores: Atitude de Dono(a), Disciplina, Determinação, Disponibilidade, Simplicidade, Humildade e Franqueza.
+
+O respeito, a ética e a busca pela equidade são elementos inegociáveis e fazem parte da prática no nosso dia a dia aqui no PicPay. Por isso, esta vaga está aberta para todas as pessoas, independente de gênero, religião, etnia, deficiência, idade, orientação sexual ou qualquer outro fator.
+
+Conheça mais sobre a unidade de negócio de Serviços Financeiros PF:
+
+Nossa unidade de negócio de Serviços Financeiros para Pessoa Física é responsável pelo ecossistema que vai desde carteira digital, PIX, PicPay Card, até a contratação de seguros. Por aqui, você fará parte da construção e desenvolvimento de produtos e serviços que simplificam a vida de milhões de brasileiros e empresas.
+
+Sobre a vaga:
+
+Trabalhamos focados em criar uma cultura data-driven, onde todas as decisões sejam realmente fundamentadas em dados de alta qualidade. O papel de um Machine Learning Engineer no PicPay é escalar e produtizar o uso de Ciência de Dados por meio do desenvolvimento de uma plataforma de Machine Learning robusta, abstraída e escalável. Somos apaixonados por dados e incansáveis na busca por inovar e expandir nossos limites tecnológicos e de atuação.
+
+Responsabilidade e atribuições
+
+Participar da identificação e planejamento de implementação de modelos junto ao time de Cientistas de Dados
+Apoiar o time de Ciência de Dados na aplicação de melhores práticas no desenvolvimento de projetos de modelos de machine learning (qualidade de código, padronização, versionamento, documentação, monitoramento, etc)
+Participar da Implementação de ferramentas com o objetivo de abstrair e otimizar as diversas etapas do processo de desenvolvimento de um modelo (data prep pipelines, treinamento, versionamento, documentação, deployment, monitoramento)
+Apoiar time de Data Science em exploração de novas tecnologias (libs, frameworks, etc.)
+
+Requisitos e qualificações
+
+Conhecimentos em Engenharia de Software
+Experiência em programação (Python é essencial, Go, etc)
+Conhecimentos em cultura devops (infra as code, CI/CD, serverless, etc)
+Entendimento de projetos de Ciência de Dados e suas particularidades
+Alguma experiência com ferramentas e frameworks de dados (Airflow, Spark, Pandas, etc)
+Alguma experiência com ferramentas e frameworks de ML (MLFlow, Sagemaker, etc)
+Experiência com metodologias ágeis
+Boa comunicação verbal e escrita
+Inglês intermediário
+
+Diferenciais
+
+Track record de participação em projetos e times que utilizam as técnicas e tecnologias citadas acima (ou equivalentes)
+Experiência em arquitetura de software
+Participação em projetos open source
+Experiência com programação funcional 
+
+O que oferecemos:
+
+Saúde e Bem-estar: Além de Assistência Médica e Odontológica, oferecemos Seguro de Vida e o Lado a Lado, um programa que cuida de você e seus familiares, com apoio jurídico, social, psicológico e financeiro.
+
+E claro, não podemos esquecer da nossa parceria com a Totalpass.
+
+Alimentação/ Mobilidade ou Teletrabalho: Por meio do nosso cartão de crédito PicPay Benefícios, com ampla aceitação, você recebe seu saldo de Alimentação/Refeição e Mobilidade ou Teletrabalho (de acordo com o seu contrato de trabalho).
+
+Licença Paternidade e Maternidade: Sabemos que esse é um momento especial para uma família, e por isso oferecemos Licença Maternidade estendida de 6 meses, e de Paternidade também estendida de 20 dias. Além disso, nossas mamães PicPay Lovers são acompanhadas pelo programa "Novo Ser", durante toda a gestação e no retorno da licença. Falando nisso, ao retornar da licença maternidade, as mamães ainda contam com a ajuda do Auxílio Creche e também os papais que possuem guarda unilateral ou compartilhada.
+
+Reconhecemos resultados: PPR- Participação nos Resultados do PicPay.
+
+#VemserPicpayLover #Picpay
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados Sr.
+
+Sobre a vaga
+Estamos em busca de pessoas apaixonadas por educação e tecnologia!
+Queremos que você saiba atuar em um ambiente que exige a união de múltiplas competências e experiências e com foco no resultado para deixarmos nosso legado no mundo. 
+Se você, assim como nós, tem paixão por educação e tecnologia, o UOL EdTech é para você! 🧡
+ Confira essa oportunidade e vem ser #EdTecher!
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Manter, desenvolver e otimizar pipelines e transformações de dados. 
+Monitorar e melhorar a qualidade de dados. 
+Realizar modelagem analítica de dados. 
+Apoiar a disseminação da cultura data-driven. 
+Orientar pessoas a consumirem os produtos de dados. 
+
+REQUISITOS E QUALIFICAÇÕES
+Superior em Engenharia, Análise e Desenvolvimento de Sistemas, Ciência da Computação, Matemática ou áreas correlatas. 
+Experiência sólida em técnicas e processos de engenharia de dados: Data Lake, desenvolvimento de pipelines de dados (prefect ou airflow), modelagem de dados, ELT/ETL, Data Warehouse e monitoramento de qualidade de dados. 
+Experiência em SQL, Python, DBT, Big Query e Looker. 
+Conhecimento em serviço de cloud GCP relacionados a dados. 
+Conhecimento em banco de dados relacionais (Postgres, SQL Server) e não relacionais (MongoDB e Firestore). 
+Inglês intermediário. 
+ INFORMAÇÕES ADICIONAIS
+Experiência com serviços de cloud AWS e Azure. 
+Conhecimento em otimização de consultas e processos de transformação de dados. 
+Atuação em produtos de dados em mercado B2B.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Staff Data Engineer [Data Platform]
+
+Sobre a vaga
+Job Description
+
+Como é a nossa área de Plataforma de Dados? 
+
+Somos o Time Que Impulsiona a Tomada De Decisões No Will Por Meio Da Simplificação Da Construção e Consumo De Dados Através Da Nossa Plataforma. Nosso Time é Dividido Em
+
+Plataforma de Ingestão: Responsável por garantir a ingestão eficiente dos dados, desde suas fontes até a camada bronze do Data Lake. Nossos principais clientes são desenvolvedores ingerindo dados de seus microserviços e fornecedores;
+
+Plataforma de Processamento e Consumo: Encarregada de criar uma infraestrutura que permite a transformação e o acesso aos dados de forma ágil e intuitiva.
+
+Plataforma de MLOps: Proporciona um ambiente integrado para cientistas de dados, capacitando-os a entregar modelos em produção de forma autônoma.
+
+Estamos focados em desenvolver uma plataforma robusta que capacite os times multidisciplinares da empresa a executarem esses processos com facilidade. Se você está pronto para enfrentar o desafio de escalar uma plataforma de dados com mais de 500 usuários mensais e tem interesse em simplificar o dia a dia dos profissionais que lidam com dados, este é o lugar certo para você!
+
+Responsibilities and assignments
+
+ Quais serão os seus desafios?
+
+Projetar e desenvolver soluções para uma plataforma de dados escalável e robusta, com foco na otimização de custos, segurança, governança e observabilidade
+Promover a cultura de plataforma, compreendendo as necessidades dos times multidisciplinares, auxiliando na definição de prioridades e no desenho de soluções eficazes, visando à autonomia desses times
+Exercer liderança técnica de modo consistente, influenciando decisões e estratégias em nível organizacional nos assuntos relacionados a dados
+Participar ativamente do planejamento e decisões dentro e fora do círculo de influência, contribuindo para o direcionamento estratégico do will
+Identificar e liderar iniciativas de grande impacto, desenvolvendo estratégias e planos de ação para atingir objetivos organizacionais e de negócio
+Colaborar com outras áreas do willbank, promovendo a integração e a colaboração, impulsionando a adesão da plataforma e o evangelizando o uso de boas práticas
+Atuar como mentor técnico, desenvolvendo e capacitando outros líderes e membros do time
+Liderar processos de melhoria contínua, identificando oportunidades de otimização e promovendo mudanças positivas 
+
+Requirements And Qualifications
+
+ Para isso, você vai precisar ter:
+
+Vasta atuação em times de plataforma 
+Alta capacidade de resolução de problemas, utilizando tecnologia como meio para solucionar uma necessidade de negócio
+Experiência em liderança técnica, demonstrando habilidades para influenciar e inspirar outros além do próprio time
+Excelente habilidade de comunicação e negociação, com capacidade para construir relacionamentos sólidos e influenciar decisões em diferentes níveis hierárquicos
+Visão estratégica e capacidade analítica para identificar oportunidades de melhoria e desenvolver planos de ação eficazes
+Profundo entendimento do negócio e dos desafios organizacionais, com capacidade para alinhar as iniciativas técnicas aos objetivos de negócio do will 
+Experiência em liderar iniciativas de grande escala e alto impacto, com foco em resultados tangíveis e mensuráveis.
+
+Additional information
+
+Gostou? Isso porque você ainda não viu os benefícios de ser um willer:
+
+ Cartão Flash para seus gastos flexíveis: Com o valor total de R$ 1.346,00 reais/mês, sendo R$ 605,00 destinados a Vale Alimentação/Refeição, R$ 100,00 para despesas de home office, e o restante, R$ 641,00, é totalmente flexível para uso em aplicativos de mobilidade, farmácias, cultura, educação, alimentação e refeições.
+ Saúde de qualidade com a Amil: Tenha acesso a uma rede de saúde e odontológica de primeira linha através da Amil Saúde.
+ Benefícios que fazem a diferença: Oferecemos seguro de vida, auxílio creche, auxílio para dependentes com deficiência, um dia de folga especial no seu aniversário, além de descontos em farmácias e parcerias com o Sesc em todo o Brasil.
+ Bem-Estar é prioridade: Cuide da sua saúde mental e física com as parcerias que temos. Acesse serviços profissionais de psicologia com o C4life e Psicologia Viva, e tenha acesso a academias e aulas online através do Gympass e Totalpass.
+ Educação é essencial: Descontos em instituições de ensino, como SkillHub, Faculdade São Judas, Estácio de Sá, Ibemec, EnglishBay, LingoPass e muito mais.
+ Programa Distribuwill: Faça parte do nosso Programa de Participação nos Resultados, o Distribuwill!
+ Inclusão e diversidade: Oferecemos reembolso para a retificação de nomes para pessoas trans, e acreditamos em uma licença parental de 180 dias para um cuidado igualitário em todas as configurações familiares.
+ Clube will by coClub: Participe do Clube will, uma plataforma exclusiva que conecta nossa comunidade com interesses em comum, desafios, benefícios, experiências e celebrações!
+
+Confira nossas outras oportunidades :)
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: First Chat2First Chat
+Step 3: Coding Skills3Coding Skills
+Step 4: System Design4System Design
+Step 5: Papo com a Liderança 5Papo com a Liderança 
+Step 6: Papo com Talent 6Papo com Talent 
+Step 7: Proposta7Proposta
+Step 8: Hiring8Hiring
+
+olá,
+
+E aí, tudo bem?
+
+Primeiro eu vou me apresentar! Eu sou um banco digital, mas pode me chamar de will. Sou a segunda maior instituição de pagamento do Brasil com mais de cinco milhões de clientes! Nasci com um propósito muito claro: democratizar o mundo financeiro e mostrar que crédito é um voto de confiança que todos e todas merecem, e podem ter.
+
+Eu tenho como intenção dar a possibilidade de todas as pessoas nesse Brasil terem direito ao crédito. Você tem noção que a maioria das pessoas nem tem acesso a instituições financeiras? Eu tô aqui pra mudar isso! Quero tornar o mundo financeiro mais simples e mais acessível. 
+
+E para multiplicar o crédito e conquistar esse sonho, precisamos de pessoas que multipliquem o melhor delas. E para isso é preciso ter atitudes multiplicadoras. As pessoas que trabalham comigo são Willers. Já são mais de 1300 que estão espalhadas e espalhados pelos quatro cantos do Brasil. Isso mesmo, atuamos em regime de trabalho remoto e temos um pilar cultural focado em multiplicar o melhor das pessoas.
+
+Multiplicar o melhor de mim é multiplicar o will, multiplicar o will é multiplicar o melhor de mim. 
+
+Busco Atrair Pessoas Que Estão Dispostas a Crescer Comigo, Porque Aqui Não Existe Crescimento Do Negócio Sem o Crescimento Das Pessoas. E Para Isso Acredito Que Cinco Atitudes Podem Ajudar a Multiplicar o Seu Melhor Por Aqui
+
+Assumir a responsa
+
+Agir com empatia
+
+Jogar Junto
+
+Mexer o ponteiro
+
+Comunicar de forma assertiva
+
+Já são mais de 1300 que estão espalhadas e espalhados pelos quatro cantos do Brasil multiplicando o melhor deles e delas. E além disso, estamos caminhando para atingir os dados demográficos que representam a população brasileira, onde 57% da população se declara como negra. Hoje, +44% de willers que se autodeclaram pessoas não brancas e 51% são mulheres. Eu quero ser tão diverso como o Brasil, sei que é desafiador, mas eu não tô nessa sozinho, tem um monte de gente me ajudando a chegar lá.
+
+E aí, me curtiu? Corre pra ver as minhas vagas e fazer parte dessa história de democratizacão do crédito! #VemSerWill
+-----------------------------------------------------------------------------------

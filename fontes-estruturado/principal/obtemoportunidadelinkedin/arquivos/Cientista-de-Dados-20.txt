@@ -1,0 +1,326 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados SR - Databricks/AWS
+
+Sobre a vaga
+Código da vaga: 48788
+
+Sobre a BRQ Digital
+
+Há 31 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+Temos 3 mil funcionários e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+
+Vamos transformar juntos! Vem ser fera com a gente!
+
+- O que procuramos?
+
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+
+Migração de Projetos: Contribuir para a migração de um projeto Python de Databricks para AWS, garantindo a integridade e a performance do código.
+Trabalhar na otimização do desempenho do código e garantir a escalabilidade da nova arquitetura AWS.
+Processos de Orquestração: Desenvolver e manter pipelines de AirFlow para orquestração de dados.
+Sustentação e Manutenção: Fornecer suporte e manutenção contínua das soluções de dados implementadas.
+Rotinas de Homologação: Desenvolver rotinas e automações que acelerem a homologação da migração.
+Desenvolvimento de software utilizando Python.
+Databricks e AWS: Experiência prática com as plataformas Databricks e AWS.
+Conhecimentos sólidos em SQL/PL-SQL, especialmente com banco de dados Oracle.
+Diferenciais: Certificações: Certificações em AWS (AWS Certified Data Analytics, AWS Certified Solutions Architect, etc.)
+
+- O que temos pra te oferecer?
+
+Mais do que um plano de carreira!
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+
+- E os benefícios?
+
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+
+- Como é trabalhar na BRQ?
+
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+
+Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Data Engineer
+
+Sobre a vaga
+We are looking for a talented and driven Data Engineer to join our team.
+
+In this role, you will play a key part in maintaining and improving our data systems while ensuring they align with evolving business needs. You will work with complex datasets and collaborate on impactful projects to enhance our Data Platform, adapting to technological advancements along the way.
+
+Responsibilities
+
+
+Support and improve existing data infrastructure
+Build and implement updates to the current Data Platform
+Adapt systems to meet increasing data consumption and ingestion demands
+Handle complex datasets, including creating new datasets from the ground up
+Work closely with senior team members on key projects, particularly those involving large datasets
+Stay current with emerging tools and technologies to ensure continuous improvement
+
+
+Requirements
+
+
+At least 2 years of experience in Data Software Engineering
+Strong expertise in PySpark
+Hands-on experience with Azure Databricks, Azure DevOps, and Azure Event Hubs
+Solid understanding of the Azure cloud ecosystem
+Proven ability to work with large and complex datasets
+Strong teamwork and collaboration skills to engage with various stakeholders
+Familiarity with Databricks Unity Catalog and Terraform
+
+
+Nice to have
+
+
+Background in Azure Analytics Engineering
+Understanding of DevOps principles and practices
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Scientist, Analytics
+
+Sobre a vaga
+TRM Labs is a blockchain intelligence company committed to fighting crime and creating a safer world. By leveraging blockchain data, threat intelligence, and advanced analytics, our products empower governments, financial institutions, and crypto businesses to combat illicit activity and global security threats. At TRM, you'll join a mission-driven, fast-paced team made up of experts in law enforcement, data science, engineering, and financial intelligence, tackling complex global challenges daily. Whether analyzing blockchain data, developing cutting-edge tools, or collaborating with global organizations, you'll have the opportunity to make a meaningful and lasting impact.
+
+As a Data Scientist, you will have end-to-end ownership of generating insights, developing custom models and building critical analytics products. In collaboration with a highly skilled team of engineers, data scientists, and blockchain analysts, your goal will be to uncover valuable and defensible information that can be used to detect, prevent, and mitigate cryptocurrency fraud and financial crime.
+
+The impact you will have here:
+
+Perform exploratory data analysis to uncover insights hidden in very large datasets and build compelling data-driven stories to support critical blockchain reports for industry leaders and global policy makers.
+Lead the implementation of new advanced analytics products that allow our customers to explore and uncover hidden insights through complex blockchain data such as assessing the risk of DeFi services, stablecoins, global regulations and other crypto-trends.
+Use your high-level business acumen to collaborate with our go-to-market team and work directly with our customers to understand their challenges and pain points in order to creatively translate them into impactful models and products.
+Work closely with financial crime and threat analysts to identify suspicious activities, identify complex trends and generate impactful insights.
+Collaborate with engineers and research scientists to design algorithms to analyze complex data structures inherent to cryptocurrencies and blockchains. This will involve working with distributed ledger technologies, cryptographic protocols, and transactional data to uncover suspicious activities.
+You will collaborate closely with engineers, data scientists, and threats analysts to align on project goals, methodologies, and deliverables. You will communicate your findings and insights effectively to both technical and non-technical stakeholders.
+Develop your skills through exceptional training as well as frequent coaching and mentoring from colleagues
+Establish best practices and statistical rigor around data-driven decision-making
+
+What we’re looking for:
+
+Your academic background is in a quantitative field such as Computer Science, Statistics, Engineering, Economics or Physics. Advanced degree preferred.
+You have 5+ years of experience working in an analytical role.
+You have a strong knowledge of relational databases, (e.g. SQL)
+You think about data in terms of statistical distributions and have a big enough analytics toolbox to know how to find patterns in data and identify targets for performance
+You have experience exploring complex datasets to identify hidden insights and generate compelling stories
+You have customer facing experience and you enjoy sitting with the customers to understand their challenges.
+You have proven experience with at least one programming language (Python preferred) and are comfortable developing code in a team environment (e.g. git, notebooks, testing).
+You have a high tolerance for ambiguity. You find a way through. You anticipate. You connect and synthesize.
+You are delivery-oriented, able to lead and execute in a face-paced environment.
+You have excellent verbal and written communication skills and experience in influencing decisions with information.
+
+About the Team: 
+
+The team operates with a high level of collaboration and interdependence, fostering an inclusive culture where connections extend beyond work. We value diverse personalities and seek someone who is both results-driven and sociable, with strong communication, leadership, and teamwork skills, along with a positive, solutions-oriented mindset.
+As a globally distributed team, members may observe different timezones. However, most of the team will overlap between the hours of 7am-12pm PST for meetings and collaboration.
+All team members, regardless of location must have at least 4 hour overlap with PST business hours.
+The team is involved in 2 different on-calls
+Analytics on-call: only requires focus on working time (average of < 1 hour a day every month)
+Data Science on-call: full week on-call to ensure Data Science pipelines are running smoothly (average of 1-2 hours a day every 3 months)
+
+Learn about TRM Speed in this position:
+
+Deliver a last minute impactful project for a key customer
+Build complex products effectively with tight timeframes (1-2 sprints for MVP)
+Work on several projects in parallel with different priorities and stakeholders
+
+Life at TRM Labs
+
+What To Expect At TRM
+
+TRM moves fast—really fast. We know a lot of startups say that, but we mean it. We operate with urgency, ownership, and high standards. As a result, you’ll be joining a team that’s highly engaged, mission-driven, and constantly evolving.
+
+To support this intensity, we’re also intentional about rest and recharge. We offer generous benefits, including PTO, Holidays, and Parental Leave for full-time employees.
+
+That said, TRM may not be the right fit for everyone. If you're optimizing for work life balance, we encourage you to:
+
+Ask your interviewers how they personally approach balance within their teams, and
+Reflect on whether this is the right season in your life to join a high-velocity environment.
+Be honest with yourself about what energizes you—and what drains you
+
+We’re upfront about this because we want every new team member to thrive—not just survive.
+
+Leadership Principles
+
+Our LPs are foundational elements of our strategy, guiding how we make decisions, how we treat each other, and how we behave day-to-day.
+
+Impact-Oriented Trailblazer – We put customers first, driving for speed, focus, and adaptability.
+Master Craftsperson – We prioritize speed, high standards, and distributed ownership.
+Inspiring Colleague – We value humility, candor, and a one-team mindset.
+
+Accelerate your Career 
+
+Join a mission-driven team of industry leaders and make a real-world impact—disrupting terrorist networks, recovering stolen funds, and more. At TRM, you will:
+
+Work alongside top experts and learn every day.
+Embrace a growth mindset with development opportunities tailored to your role.
+Take on high-impact challenges in a fast-paced, collaborative environment.
+
+Thrive as a Global Team
+
+As a remote-first company, TRM Labs is built for global collaboration.
+
+We cultivate a strong remote culture through clear communication, thorough documentation, and meaningful relationships.
+We invest in offsites, regional meetups, virtual coffee chats, and onboarding buddies to foster collaboration.
+By prioritizing trust and belonging, we harness the strengths of a global team while staying aligned with our mission and values.
+
+Join our mission!
+
+We’re looking for team members who thrive in fast-paced, high-impact environments and love building from the ground up. TRM is remote-first, with an exceptionally talented global team. If you enjoy solving tough problems and seeing your work make a difference for billions of people, we want you here. Don’t worry if your experience doesn’t perfectly match a job description— we value passion, problem-solving, and unique career paths. If you’re excited about TRM’s mission, we want to hear from you.
+
+Recruitment agencies
+
+TRM Labs does not accept unsolicited agency resumes. Please do not forward resumes to TRM employees. TRM Labs is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company without a signed agreement.
+
+Privacy Policy
+
+By submitting your application, you are agreeing to allow TRM to process your personal information in accordance with the TRM Privacy Policy
+
+Learn More: Company Values | Interviewing | FAQs
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Code Reviewer for LLM Data Training (Java)
+
+Sobre a vaga
+About Company
+SME is a platform that bridges subject-matter experts with AI projects, enabling them to contribute their knowledge to improve AI models. It offers flexible opportunities to work on tasks like data labeling, quality assurance, and domain-specific problem-solving while earning competitive pay.
+About the Role
+We’re hiring a Code Reviewer with deep Java expertise to review evaluations completed by data annotators assessing AI-generated Java code responses. Your role is to ensure that annotators follow strict quality guidelines related to instruction-following, factual correctness, and code functionality.
+Responsibilities
+Review and audit annotator evaluations of AI-generated Java code.
+Assess if the Java code follows the prompt instructions, is functionally correct, and secure.
+Validate code snippets using proof-of-work methodology.
+Identify inaccuracies in annotator ratings or explanations.
+Provide constructive feedback to maintain high annotation standards.
+Work within Project Atlas guidelines for evaluation integrity and consistency.
+Required Qualifications
+5–7+ years of experience in Java development, QA, or code review.
+Strong knowledge of Java syntax, debugging, edge cases, and testing.
+Comfortable using code execution environments and testing tools.
+Excellent written communication and documentation skills.
+Experience working with structured QA or annotation workflows.
+English proficiency at B2, C1, C2, or Native level.
+Preferred Qualifications
+Experience in AI training, LLM evaluation, or model alignment.
+Familiarity with annotation platforms.
+Exposure to RLHF (Reinforcement Learning from Human Feedback) pipelines.
+Compensation:
+$40 Hourly
+
+
+Why Join Us?
+Join a high-impact team working at the intersection of AI and software development. Your Java expertise will directly influence the accuracy, safety, and clarity of AI-generated code. This role offers remote flexibility, milestone-based delivery, and competitive compensation.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Cientista de Dados Sr
+
+Sobre a vaga
+Impactar positivamente bilhões de vidas é nosso propósito e também pode ser o seu! 🚀
+
+Fundada em 2010, no Brasil, a Semantix é referência em Big Data, Analytics e Inteligência Artificial.
+
+Somos um time de apaixonados por inovação, com diversas origens e diferentes graus de experiência. O que nos une, é a motivação compartilhada de transformar a experiência de nossos clientes através da cultura data driven.
+
+Se você se identificou, a Semantix é seu lugar.
+
+Estamos ansiosos para ter você como parte do time.
+
+Afinal, o futuro se faz juntos. 💜
+
+Requisitos
+
+Responsabilidades e atribuições: 
+
+Atuar na área de Crédito, utilizando dados para desenvolver modelos preditivos e analíticos que suportem a tomada de decisão.
+Identificar e analisar as origens de dados necessárias para o desenvolvimento de modelos, garantindo a qualidade, integridade e governança das informações.
+Desenvolver, implementar e monitorar modelos estatísticos e de Machine Learning, otimizando sua performance e estabilidade ao longo do tempo.
+Realizar retreinamento de modelos antigos, ajustando parâmetros e reavaliando a necessidade de novas variáveis.
+Aplicar técnicas de AutoML (H2O, AutoML do Databricks) para otimizar o desenvolvimento de modelos e acelerar processos de experimentação.
+Avaliar a performance dos modelos desenvolvidos por meio de métricas estatísticas, testes A/B e validações robustas, garantindo eficácia e conformidade regulatória.
+Construir e documentar campos calculados, descrevendo e aplicando as regras necessárias para sua criação.
+Elaborar documentação técnica e relatórios analíticos detalhando o desenvolvimento, performance e impacto dos modelos implementados.
+Trabalhar em conjunto com equipes multidisciplinares (crédito, riscos, tecnologia e negócios) para alinhar soluções de dados com as necessidades estratégicas da empresa.
+Acompanhar tendências e inovações em ciência de dados, machine learning e análise de crédito para propor melhorias contínuas.
+
+Requisitos e Qualificações
+
+Sólida experiência em desenvolvimento, avaliação e monitoramento de modelos estatísticos e de Machine Learning.
+Domínio em linguagens de programação como Python e PySpark, com foco em análise de dados e modelagem preditiva.
+Experiência com plataformas de Big Data e Cloud Computing, especialmente Databricks.
+Conhecimento avançado em AutoML, incluindo ferramentas como H2O.ai e AutoML do Databricks.
+Experiência em banco de dados e manipulação de grandes volumes de dados (SQL, Spark, Delta Lake).
+Habilidade para criar pipelines de dados eficientes para ingestão, transformação e modelagem.
+Conhecimento de MLOps para automação e monitoramento de modelos em produção.
+Experiência na avaliação da performance e estabilidade dos modelos desenvolvidos, utilizando métricas como AUC-ROC, KS, Gini, RMSE, entre outras.
+Capacidade de interpretar modelos e justificar resultados para stakeholders técnicos e não técnicos.
+Experiência em análise e modelagem de risco de crédito, scorecards, modelos de propensão e segmentação.
+Familiaridade com frameworks regulatórios e boas práticas para desenvolvimento de modelos no setor bancário (ex.: Basileia, IFRS 9).
+Conhecimento sobre feature engineering, seleção de variáveis e técnicas para evitar overfitting.
+Vivência no setor financeiro, preferencialmente em crédito, será um diferencial.
+
+Perfil Esperado
+
+Perfil analítico com capacidade de estruturar problemas complexos, analisar grandes volumes de dados e extrair insights acionáveis para a tomada de decisão.
+Ser capaz de identificar oportunidades de melhoria, propor soluções inovadoras e conduzir projetos sem depender de microgestão.
+Habilidade para traduzir insights técnicos em informações compreensíveis para diferentes áreas da empresa, facilitando a tomada de decisão.
+Interesse por novas tecnologias e tendências em ciência de dados, além de capacidade de adaptação em um setor dinâmico como o financeiro.
+
+Benefícios
+
+💰 Salário compatível com o mercado;
+
+🍎 Caju (cartão flexível) com a recarga de R$ 1.060/mês;
+
+🚑 Plano de Saúde Bradesco;
+
+🦷 Plano Odontológico Bradesco;
+
+👩‍⚕️ Medicina preventiva com Dr. Alper;
+
+💜 Seguro de Vida;
+
+🏋🏽‍♂️ Gympass;
+
+🏞️ SESC;
+
+👶🏼 Auxílio Creche para mamães e papais;
+
+💰 PLR;
+
+🧠 Learning - área focada no desenvolvimento de hard e soft skills;
+
+📖 Parceria com instituições de ensino para formação técnica, MBA, pós-graduação, certificações, inglês e espanhol;
+
+🚀 Plano de Carreira;
+
+🛒 Desconto em produtos de um portal parceiro.
+
+Ressaltamos que todas as nossas vagas estão abertas a pessoas de todos os perfis e origens, valorizando a diversidade e promovendo um ambiente inclusivo e acolhedor para todos. 💎
+-----------------------------------------------------------------------------------

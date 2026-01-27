@@ -1,0 +1,289 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor de Software (IA Generativa) | IT Onboarding
+
+Sobre a vaga
+Sobre a Área
+
+IT Onboarding é a área responsável pela plataforma de onboarding do BTG. Trata-se de um ecossistema de serviços dedicado a resolver o ciclo de vida dos clientes com o banco, assim como suas contas. Garantir e manter qualidade de dados de cadastramento incluindo perfil de investidor, adotar processos de KYC e pesquisa reputacional, fazer o processamento e a guarda de documentos, seguir exigências de compliance e regras regulatórias do mercado financeiro são apenas algumas das responsabilidades da plataforma, mantendo sempre o foco em eficiência operacional e satisfação dos clientes. A plataforma é elemento central de todas as áreas de negócio do banco e funciona como um hub de informações sobre clientes e contas.
+
+Estamos em busca de um(a) Desenvolvedor(a) Sênior qualificado(a) para liderar o desenvolvimento de aplicações com Inteligência Artificial Generativa. Esta posição é voltada para quem tem experiência com LLMs (Large Language Models), RAG (Retrieval-Augmented Generation), Reasoning e Agentic AI e constrói soluções de infraestrutura escaláveis.
+
+No Seu Dia a Dia
+
+Projetar, construir e escalar aplicações inteligentes usando LangChain, LangGraph e AWS Bedrock, não limitado a estas soluções.
+Desenvolver APIs robustas e eficientes com Python e FastAPI.
+Criar protótipos interativos com Streamlit para validação rápida de ideias e apresentações aos stakeholders.
+Construir fluxos inteligentes com streaming de LLM, integração de ferramentas externas e raciocínio passo a passo.
+Desenvolver agentes com memória de curto e longo prazo, utilizando estratégias como Hierarchical Task Networks (HTN) e Coordinator-Worker-Delegator (CWD).
+Integrar sistemas com RabbitMQ e SNS/SQS.
+Garantir a qualidade de deploy e operação utilizando Kubernetes, incluindo estratégias de rollout, health checks, canary deployments, ingress e services.
+Monitorar aplicações e fluxos de LLM com ferramentas modernas de observabilidade.
+
+Esperamos De Você
+
+Graduação completa em Sistemas de Informação, Análise de Sistemas, Ciência da Computação, Engenharia da Computação ou áreas relacionadas.
+Experiência com desenvolvimento de software com metodologias ágeis.
+Experiência em design e desenvolvimento de aplicações de grande escala e alto tráfego.
+Conhecimento prático em soluções AWS, especialmente AWS Bedrock;
+Boa capacidade de comunicação e proatividade.
+
+Diferencial
+
+Streaming de LLM e controle de tokens em tempo real.
+Langfuse: rastreamento, análise e avaliação de interações com LLMs.
+Datadog: monitoramento de métricas, logs, dashboards e alertas em tempo real.
+Técnicas como Prompt Caching, Chain of Thought, Tool Calling e RAG (Retrieval-Augmented Generation).
+Experiência em tecnologia cloud AWS.
+Experiência na linguagem de programação C#.
+Experiência com banco de dados relacional (SQLServer, MySql, PostgreSQL).
+Boas práticas de programação e Design Patterns.
+Experiência com testes unitários (TDD).
+Experiência em mercado financeiro.
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+A VOLL nasceu para simplificar a mobilidade com uma solução única e global. É a tecnologia mais usada pelas maiores empresas do Brasil parar gerir o deslocamento e as viagens das suas equipes. 
+
+Que tal fazer parte disso tudo?
+
+Buscamos pessoas com vontade de revolucionar a maneira como os profissionais se movimentam pelo mundo!
+
+Responsabilidades e atribuições
+
+O que você irá fazer:
+
+Desempenhar, construir e estruturar modelos de dados escaláveis, visando atender as necessidades mapeadas;
+Construção de pipelines de dados de ponta-a-ponta, desde o mapeamento das fontes de dados de origem, processamento e transformações, até a entrega final;
+Correções e melhorias em pipelines de dados existentes;
+Automação de fluxos de processamento de dados, seja em batch ou streaming;
+Integração com provedores externos de dados, organização e disponibilização desses dados para consumo;
+Criação de rotinas para monitoramento contínuo de qualidade e confiabilidade dos dados;
+Contribuir com sugestões de melhorias, otimização e boas práticas dos pipelines de dados.
+
+
+Requisitos e qualificações
+
+Requisitos básicos:
+
+Experiência comprovada como engenheiro de dados em projetos de evolução e aplicações de grande complexidade.
+Formação técnica e experiência profissional com viés quantitativo/analítico.
+Desejável: ter liderado outros desenvolvedores.
+Experiência atuando em projetos de dados com métodos ágeis (Scrum, Kanban).
+
+
+Requisitos obrigatórios:
+
+Domínio em Python, PySpark e SQL.
+Conhecimentos e experiência na implementação e suporte de data lakes e/ou data warehouses no GCP.
+Conhecimentos e experiência atuando com serviços GCP como CloudStorage, BigQuery, DataProc, Data Fusion, Data Catalog;
+Conhecimento na orquestração de pipelines usando Airflow;
+Desejável: conhecimento prático com Terraform e CI/CD.
+
+
+Informações adicionais
+
+😍 Nosso pacote de benefícios:
+
+Vale-refeição/alimentação no cartão Flash;
+Plano Médico e Odontológico Sulamérica;
+Total Pass e Gympass;
+Auxílio home office no cartão Flash;
+Auxílio à saúde mental (VOLL Care);
+Auxílio educação através do (VOLL Education);
+Seguro de vida em grupo;
+Licença-maternidade de 6 meses;
+Licença-paternidade de 20 dias (Nossa política de licença parental é igualmente aplicável a casais homoafetivos).
+Férias a partir de 6 meses;
+Day off.
+
+
+Diversidade na Voll
+
+Aqui na VOLL valorizamos cada pessoa e sua singularidade e oferecemos um ambiente que respeita as, diversidades e individualidades. Aqui damos espaço para que você possa ser você mesmo #JuntosNoMesmoBarco. 🥰
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Mid Level AI Engineer (MLOps)
+
+Sobre a vaga
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+TELUS Digital seeks an AI Engineer with MLOps and LLMOps background to own projects’ pipelines and CI/CD infrastructure, supporting the turning business requirements into production-ready AI/GenAI features. You’ll build scalable MLOps frameworks, convert AI research into seamless integrations, and optimize models through prompt engineering and embeddings. Strong skills in Python or TypeScript, machine learning (including deep learning and NLP/LLMs), and the ability to explain complex concepts to all stakeholders are essential.
+
+Responsibilities
+
+Design, implement, and maintain scalable ML and LLM pipelines for training, validation, deployment, and monitoring.
+Apply your knowledge of software engineering and AI systems to develop AI solutions that directly address and resolve business problems.
+Take ownership of implementing and optimizing applied AI components, ensuring they meet project needs with high complexity and scale.
+Partner with other data and AI professionals to compile the team's work into comprehensive pipelines for continuous integration, deployment, and delivery
+Own end-to-end infrastructure for model CI/CD, including versioning, automated testing, and evaluations.
+Develop and incorporate AI and GenAI solutions and pipelines while adhering to industry best practices, including moderation, security, and compliance standards.
+Lead the charge in designing, measuring, and evaluating AI model outputs, developing standard and custom metrics to ensure alignment with business objectives.
+Translate AI research into production-ready features, delivering robust and scalable AI components that integrate seamlessly with larger systems.
+Drive the selection and application of appropriate evaluation metrics, ensuring that AI solutions are robust, unbiased, and meet all necessary performance standards.
+
+Qualifications
+
+Hands-on experience building and operating MLOps platforms (Docker, Kubernetes, Terraform) and LLMOps frameworks.
+Strong experience with CI/CD in the GCP environment, leveraging services and frameworks such as Vertex AI, Kubeflow, DataFlow, Cloud Build, Cloud Deploy, Artifact Registry, and Container Registry.
+Experience configuring and deploying LLM Guardrails, while ensuring security and compliance among AI-powered solutions.
+Expertise in tracking application execution with observability tools such as LangFuse, Phoenix, while leveraging Cloud Monitoring dashboards and alerts.
+Strong understanding of the trade-offs between Generative AI models, considering the balance of cost and performance, depending on the use case.
+Demonstrable experience in applied AI, with a foundation in machine learning, deep learning, NLP, LLMs, and statistical analysis.
+Experience with data embeddings and vector databases, understanding the trade-off between available options, and leveraging it to optimize data ingestion.
+Experience with software development in Python and/or TypeScript for API development and orchestration. 
+Skilled in creating and adjusting prompts for complex AI systems to meet diverse project requirements.
+Familiarity with testing and evaluating AI systems using state-of-the-art methods and best practices.
+Ability to communicate complex AI solutions and concepts effectively to technical and non-technical stakeholders.
+
+Bonus Points
+
+Withhold a GCP certification on AI/ML, Cloud, or Data segments. 
+Experience deploying and maintaining large-scale data-intensive solutions, maintaining high throughput, low latency, and data security.
+Experience with advanced Agentic AI architecture, performance optimization of machine learning models, and the integration of AI into larger software ecosystems.
+Contributions to AI thought leadership in the industry.
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Sobre a Empresa
+
+Há mais de 20 anos mercado, somos uma consultoria estratégica de Inovação e Transformação Digital. Nossa especialidade é impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance.
+
+Sobre o Cargo 
+Engenheiro de Dados
+
+Experiência em:
+Pentaho e ETL, Conhecimento da AWS, Glue Banco de dados Oracle, MongoDB e Postgree
+
+Responsabilidades:
+Desenvolver e otimizar pipelines de dados utilizando ETL e Pentaho
+Trabalhar com AWS Glue para transformação e processamento de dados
+Administrar e modelar bancos de dados Oracle, MongoDB e PostgreSQL
+Garantir a qualidade e governança dos dados
+Criar soluções eficientes para a análise e consumo de dados
+
+Atuação Remota
+
+Modelo de trabalho:
+CLT
+Benefícios:
+🍛 Vale Refeição - Cartão Swille
+🩺 Plano de saúde
+😁 Plano odontológico
+💻 Auxílio home office
+🎓 Alura
+🎂 Crédito Aniversário – Cartão Swille
+
+OU PJ
+Benefício: 30 dias de descanso remunerado.
+
+Todas as nossas oportunidades de trabalho estão abertas para pessoas com deficiência.
+Apoiamos a diversidade!
+#VemPraSIS #SomosSIS
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Arquiteta de Dados
+
+Sobre a vaga
+A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.
+
+Todas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟
+
+O DESAFIO
+
+Projetar e seguir a arquitetura de dados global do projeto, incluindo modelos conceituais, lógicos e físicos dos produtos.
+Definir padrões de modelagem de dados (especialmente modelagem dimensional) e garantir a integração de múltiplas fontes de dados (transacionais, históricos, semiestruturados).
+Assegurar a qualidade, segurança e governança dos dados, implementando políticas de acesso, controle de versões de dados e conformidade com LGPD ou outras normas relevantes.
+Avaliar e selecionar tecnologias de banco de dados, big data e integração de dados (por exemplo, ferramentas ETL/ELT, plataformas de streaming como Kafka, bancos de dados relacionais e NoSQL) adequadas aos requisitos de desempenho e escalabilidade do projeto.
+Colaborar com times de engenharia de dados, desenvolvimento e SRE para orientar a implementação da solução de acordo com a arquitetura definida, fornecendo diretrizes técnicas e revisando soluções propostas.
+Monitorar e validar a implementação da arquitetura ao longo do projeto, fazendo ajustes conforme necessário para atender às necessidades de relatórios operacionais (OLTP) e analíticos (OLAP), bem como preparar terreno para a fase de sustentação após a implantação.
+
+O QUE VOCÊ PRECISA
+
+Domínio de modelagem de dados dimensional e design de Data Warehouses, com experiência em bancos de dados relacionais (ex: SQL Server, Oracle, PostgreSQL) e tecnologias NoSQL (ex: MongoDB)
+Conhecimentos sólidos em ferramentas de integração de dados e ETL/ELT (por exemplo, Spark/Databricks, Kafka Stream, Talend, Informatica) e conceitos de Big Data.
+Experiência em garantir governança de dados (catálogo de dados, metadados, qualidade de dados) e segurança (mascaramento, criptografia, controle de acesso).
+
+VOCÊ VAI BRILHAR AINDA MAIS SE TIVER
+
+Experiência no mercado financeiro
+
+O QUE OFERECEMOS PARA VOCÊ
+
+🍴 Vale Alimentação: Para saborear deliciosas refeições
+＄ Previdência Privada: Planeje o futuro com segurança.
+✙ Assistência Médica e Odontológica: Cuidado completo para você e sua família.
+👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.
+‍👧‍👦 Auxílio Creche: Para ajudar nas despesas dos pequenos.
+ღ Seguro de Vida: Segurança para você e quem você ama.
+💪 Wellhub: Acesso a academias e atividades físicas para manter a saúde em dia.
+💰 Participação nos Lucros e Resultados (PLR): Sucesso compartilhado com todos.
+⚕ Einstein Conecta: Orientação médica online com os especialistas do Hospital Israelita Albert Einstein, totalmente gratuito.
+
+Por que escolher a Dimensa?
+
+Na Dimensa, você fará parte de um time que está revolucionando o mercado de operações financeiras, crédito e risco, e seguros, com inovação e tecnologia de ponta. Queremos conhecer você e ver como você pode contribuir para nossa missão!
+Junte-se a nós e faça a diferença, #VEMFAZERPARTEDAONDAVERDE! 💚
+-----------------------------------------------------------------------------------

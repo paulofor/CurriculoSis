@@ -1,0 +1,262 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor SR | Java
+
+Sobre a vaga
+Muito prazer, Somos a Evertec + Sinqia!
+
+Diariamente, processamos bilhões de transações através dos nossos produtos, impactando diretamente a vida de muitos brasileiros. Nossos colaboradores criam soluções relevantes, transmitem conhecimento com inteligência prezam pelo carisma ao agir e se comunicar.
+
+A área de Engenharia/Bancos responsável por todo atendimento de clientes de bancários, desde a sustentação até customização, busca um Desenvolvedor SR | Java para compor nosso time, na maior empresa de desenvolvimento de softwares e produtos para o mercado financeiro do Brasil, onde acreditamos que a inovação tecnológica inspira a evolução.
+
+Esse cargo é responsável por:
+• Codificação e Implementação: Escrever código-fonte limpo, eficiente e de alta qualidade para desenvolver novas funcionalidades e aprimorar sistemas existentes, alinhado às necessidades e requisitos do projeto;
+• Testes e Depuração: Realizar testes para garantir o bom funcionamento do software, identificando e corrigindo erros e problemas de desempenho, utilizando boas práticas de testes, como testes unitários e de integração;
+• Colaboração e Revisão de Código: Trabalhar em equipe multidisciplinar para garantir a entrega de soluções de alta qualidade, participando de reuniões de planejamento, revisões de código e garantindo aderência aos padrões de desenvolvimento da equipe;
+• Documentação Técnica: Elaborar documentação técnica para descrever funcionalidades, fluxos de trabalho, estruturas de dados e decisões arquiteturais, a fim de garantir que outras equipes possam entender e manter o código no futuro;
+• Análise de Requisitos e Planejamento de Tarefas: Participar de reuniões de levantamento de requisitos com analistas de negócios, stakeholders ou Product Owner para entender as necessidades do sistema e ajudar a planejar a implementação das funcionalidades;
+• Participação em Code Reviews: Realizar revisões de código (code reviews) para garantir que o código produzido siga as melhores práticas de desenvolvimento, esteja alinhado com os padrões da equipe e tenha boa qualidade;
+• Otimização de Performance: Identificar e melhorar pontos de gargalo no código, realizando otimizações de desempenho, seja em termos de tempo de execução, uso de memória ou escalabilidade do sistema;
+
+Para dar #match, essa vaga necessita que atenda alguns requisitos obrigatórios:
+• Experiência sólida em Java (v8, v11, v21);
+• Experiência com Spring e JavaFx;
+• Experiência com SQL Server (Procedures / Functions) para criação de consultas, manipulação de dados e otimização de performance;
+• Habilidades em Front-End (Angular JS);
+• Experiência com ferramentas de versionamento de código (Git);
+• Conhecimento em Ferramentas CI/CD: Familiaridade com integração contínua (CI) / entrega contínua (CD), como Jenkins, Azure DevOps ou GitLab CI, para garantir um fluxo de trabalho eficiente e contínuo;
+• Formação Superior completa;
+
+Caso possua o conhecimento ou atuação abaixo, será um diferencial:
+• Conhecimento no mercado financeiro, especificamente em crédito;
+• Vivência com Scrum e/ou Kanban;
+• Conhecimento em IA generativa;
+• Capacidade de escrever código limpo, eficiente e bem documentado;
+• Conhecimento prático em metodologias de desenvolvimento;
+• Experiência com testes unitários e de integração (JUnit, Mockito).
+
+📌IMPORTANTE: Essa oportunidade é para atuar na Sinqia com foco em atender um dos nossos clientes, modalidade REMOTO.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de software Java PL
+
+Sobre a vaga
+Muito prazer, Somos a Evertec + Sinqia!
+
+Diariamente, processamos bilhões de transações através dos nossos produtos, impactando diretamente a vida de muitos brasileiros. Estamos entre as 100 maiores Fintechs do mundo. Nossos(a) colaboradores(a) criam soluções relevantes, transmitem conhecimento com inteligência prezam pelo carisma ao agir e se comunicar.
+
+Responsabilidades e atribuições
+A área de Engenharia/Fundos também é responsável pela parte legal de fundos estruturados, reports para BACEN, CVM e atendimento a Previdências e cotas de renda fixa. busca um(a) Software Engineer | Java para compor nosso time, na maior empresa de desenvolvimento de softwares e produtos para o mercado financeiro do Brasil, onde acreditamos que a inovação tecnológica inspira a evolução.
+
+Esse cargo é responsável por:
+•Implementação (desenvolvimento e manutenção) de sistemas em Java no legado da empresa.
+•Desenvolvimento de scripts de banco de dados MS SQL Server, necessários para melhorias dos sistemas e realizar análise de performance e otimizações em consultas ao banco de dados.
+•Participar de reuniões, configurar o ambiente de desenvolvimento local, documentar, realizar testes das aplicações em ambiente de desenvolvimento.
+•Desenvolver código limpo, eficiente e de alta qualidade para atender aos requisitos do projeto.
+•Colaborar com a equipe de desenvolvimento para planejar e executar tarefas.
+•Realizar testes de unidade e integração para garantir a qualidade do software.
+•Participar de reuniões de equipe para discutir o progresso do projeto e identificar possíveis problemas.
+•Manter-se atualizado com as melhores práticas e tendências de desenvolvimento de software do time.
+•Documentar o código, as evidências de teste e os processos relevantes para facilitar a manutenção futura.
+•Escrever testes unitários e de integração para verificar se o código implementado está funcionando corretamente e atendendo aos critérios de aceitação.
+
+Requisitos e qualificações
+Para dar #match, essa vaga necessita que atenda alguns requisitos obrigatórios:
+•Superior Completo em Engenharia da Computação, Análise de Sistemas, Ciência da Computação ou áreas correlatas
+•Experiência em desenvolvimento de sistemas
+•Experiência no desenvolvimento de aplicações WEB em Java e banco de dados MS SQL Server.
+•Conhecimento em frameworks front-end modernos (Angular, React, etc.).
+•Noções básicas de testes automatizados (unitários, integração). - Interesse em IA e COP.
+ Caso possua o conhecimento ou atuação abaixo, será um diferencial:
+•Inglês desejável
+ 📌IMPORTANTE: Essa oportunidade é para atuação no escritório da Sinqia na região da Av.Paulista/SP, modalidade Híbrido⁠ ⁠
+
+Informações adicionais
+🏅 E ai, se identificou com o que leu até agora? Então, vou te contar o que você encontrará aqui, além de um ambiente dinâmico;
+• Vale refeição ou alimentação;
+• Assistência médica;
+• Assistência Odontológica
+• Auxílio creche;
+• Benefícios Flexíveis (Flash);
+• Vale transporte;
+• Gympass e TotalPass;
+• Horários flexíveis;
+• Seguro de vida;
+• Clube de parcerias;
+• Just dress no code (sem código de vestimenta!),
+• Day off no aniversário.
+
+♿️🌈🙋🏾👴🏻Na Sinqia valorizamos a diversidade e entendemos que o que acrescenta é justamente ideias e pontos de vistas variados. Por isso raça, cor, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência ou idade, não serão impeditivos de você fazer parte do nosso time.
+
+✔Saiba mais sobre a Sinqia em: www.sinqia.com.br e siga os nossos perfis nas redes sociais.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenharia de Software Sênior - Angular| AWS|JAVA
+
+Sobre a vaga
+O que você precisa para ser um Ituber?
+
+Estamos buscando pessoas que queiram se desenvolver e aprender constantemente, compartilhando, colaborando, inovando e entregando valor para todos os nossos clientes. Aqui a gente não sabe tudo, a gente vai de turma.
+
+Atuação no modelo hibrido - Metro Conceição 8 vezes por mês. 
+
+Como é o dia a dia de um Ituber nessa área?
+
+Atuará como ponto team member da squad de Pagamentos Internet em nossa comunidade.
+
+Além de ser nosso apoio em nossos projetos de modernização de plataforma saindo do on premises e indo para AWS, também apoiará o time com resolução de incidentes, desenhos de soluçao e atividades no dia a dia com a área de negocios.
+
+No que você precisa mandar bem?
+
+Conhecimentos técnicos, é obrigatório ter experiência comprovada em Angular, backend em Java / Kotlin e conhecimentos em plataformas cloud com preferência na AWS.
+
+Ao se tornar um Ituber você tem
+• Vale Transporte
+• Vale Refeição (Restaurantes) / Vale Alimentação (Supermercados)
+• Convênio médico e odontológico
+• Seguro de Vida
+• PLR – Participação nos Lucros e Resultados (Mediante resultados do banco)
+• Previdência privada
+• Descontos exclusivos em nossos produtos financeiros
+• Licença maternidade estendida & paternidade
+• Auxílio Creche / Babá (para papais e mamães)
+• Incentivo a estudos
+• GymPass ou TotalPass
+• Acesso aos Clubes Itaú (Guarapiranga / Itanhaém e São Sebastião)
+• + Algumas vantagens que você pode conhecer durante o processo
+
+*Estimulamos candidaturas de pessoas com deficiência em todas as nossas posições, sendo assim, sinta-se à vontade para se candidatar em vagas sinalizadas como exclusivas ou não para pessoas com deficiência. Somos comprometidos com a inclusão e valorizamos a diversidade.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Analista Desenvolvedor Java Sênior
+
+Sobre a vaga
+Job Description
+
+Nós movemos o mercado financeiro para o futuro, impulsionando negócios e potencializar a economia do país. Com o maior hub de dados e informações do cenário financeiro brasileiro, lideramos iniciativas que realmente importam: defendemos os interesses dos nossos parceiros e investidores, fornecemos ferramentas analíticas e dados, educamos investidores e certificamos profissionais, além de estabelecermos regras para as instituições do mercado financeiro e de capitais. 💛
+
+Você é apaixonado por desafios e inovação? Quer impactar diretamente o setor financeiro e desenvolver produtos que fazem a diferença no mercado? Então esta oportunidade é para você!
+
+Estamos em busca de um Desenvolvedor Java Sênior que queira impulsionar a transformação do setor financeiro, criando soluções robustas, escaláveis e inovadoras. Aqui, você trabalhará lado a lado com grandes talentos em SQUADs ágeis, utilizando desde tecnologias consolidadas até as mais disruptivas do mercado.
+
+Mas o que você vai encontrar quando se juntar a este time supercompetente? Na ANBIMA, o ambiente respira a cultura digital, colaboração, transparência e abertura são o ar que respiramos. Provocamos o desenvolvimento pessoal e profissional para enfrentar os desafios do mercado, com um propósito claro de transformação e impacto social.
+
+Responsibilities and assignments
+
+Desenvolver e evoluir sistemas de alta complexidade que impactam diretamente o mercado financeiro.
+Tomar decisões técnicas e estratégicas, avaliando os riscos e impactos das soluções (desempenho, escalabilidade, manutenibilidade, etc);
+Produzir documentação sobre soluções arquiteturais conforme necessário;
+Aconselhar e orientar o time para solucionar problemas;
+Realizar estimativas detalhadas e planejar o trabalho;
+Apoiar na melhoria contínua dos produtos, investigando novas tecnologias e padrões de design e apresentando descobertas para a liderança e chefia;
+Fornecer mentoria e orientação para membros mais juniores da equipe;
+Realizar revisões de design e código em artefatos;
+Realizar troubleshooting de aplicações.
+
+Por que esta oportunidade é única?
+
+💡 Desafios reais: Trabalhe com produtos que afetam diretamente o mercado financeiro.
+
+🚀 Inovação: Utilize tecnologias de ponta e contribua para soluções disruptivas.
+
+💼 Impacto na sua carreira: Cresça profissionalmente ao lado de grandes profissionais.
+
+Requirements And Qualifications
+
+Experiência mínima de 7 anos em análise e desenvolvimento Java
+Desenvolvimento WEB (javascript, HTML/CSS)
+Arquiteturas modernas baseadas em microserviços e APIs (REST)
+Framework Javascript Angular
+Framework Spring Boot
+Banco de Dados Relacional e SQL
+IDE Eclipse ou Intellij
+Versionamento de código GIT e workflows atuais
+Gerenciador de dependências Maven
+Solução de mensageria (AMQ ou IBM MQ)
+Metodologia ágil (SCRUM ou KANBAN)
+Pipelines de CI/CD
+
+Diferenciais De Conhecimento
+
+Pipelines de CI/CD com Jenkins e Maven
+Containers (Kubernetes/Docker)
+Sonar
+Nexus
+Testes de performance
+TDD e BDD (Cucumber)
+Troubleshooting com Dynatrace
+Criptografia em aplicações
+
+Additional information
+
+O Que Oferecemos
+
+Salário compatível com o mercado
+
+Plano de saúde e odontológico
+
+Auxílio Creche
+
+Vale refeição R$ 1.111,00 e alimentação R$ 875,29
+
+Vale transporte
+
+90 dias de trabalho remoto
+
+Bônus
+
+Previdência Privada
+
+Seguro de Vida
+
+Auxílio Internet
+
+Day Off
+
+Local de trabalho: Nosso escritório fica na região do centro do Rio de Janeiro. Estamos trabalhando de forma hibrida, escritório (3x por semana) e home-office (2x por semana).
+
+Quem somos
+
+Muito prazer, somos a ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais. Falamos em nome de instituições como bancos, gestoras, corretoras, distribuidoras e administradoras. Temos a missão de fortalecer a representação do setor e apoiar a evolução de um mercado de capitais capaz de financiar o desenvolvimento econômico e social do Brasil e influenciar o mercado global.
+
+Somos protagonistas da evolução da indústria de investimentos, trazendo impacto e legado positivos ao nosso país. Se você tem sede de aprender a impactar o desenvolvimento econômico e social do Brasil, a ANBIMA é para você!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Profissional Backend Java
+
+Sobre a vaga
+Sobre a BRQ Digital
+Há 32 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+Vamos transformar juntos! Vem ser fera com a gente.
+
+
+Ei Profissional, venha fazer parte de uma das maiores empresas de transformação digital do país!
+
+- O que procuramos?
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+Experiência sólida com Java e Spring Boot;
+Conhecimento prático em serviços AWS (EC2, S3, RDS, Lambda, etc.);
+Experiência com bancos de dados relacionais e/ou NoSQL;
+Conhecimento em Git, APIs REST
+3 x na semana presencial.
+
+
+- O que temos pra te oferecer?
+Mais do que um plano de carreira!
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+- E os benefícios?
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Home Office; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+- Como é trabalhar na BRQ?
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------

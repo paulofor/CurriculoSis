@@ -1,0 +1,140 @@
+[Oportunidade 1]
+Oportunidade: Data Engineer (Microsoft services & AWS)
+
+Sobre a vaga
+Job Description
+About you
+You are someone who wants to influence your own development. You’re looking for a company where you have the opportunity to pursue your interests and be able to grow professionally.
+
+You bring to Applaudo the following competencies:
+Skilled in quantitative research and statistical modeling for delivering insights.
+Proficient in complex SQL queries and stored procedures with attention to detail.
+Experienced in Client Relationship Management and multitasking in fast-paced environments.
+7-8 years' hands-on experience in Report Development and Data Analysis.
+Familiarity with GitHub and Visual Studios SSIS/SSRS for code management and reporting.
+Proficient in Python for data manipulation, with knowledge of PowerBI/Qlik.
+Expertise in entire quantitative research process and statistical methods.
+Ability to communicate data-driven stories effectively and achieve business outcomes.
+Understanding of software development best practices and cloud technologies.
+
+You will be accountable for the following responsibilities:
+Understand business requirements, determine relevant Key Performance Indicators (KPI) and prepare visualization reports
+Gathering data from various sources like databases, APIs, files, and streams, and ensuring its integration into a suitable format for analysis.
+Preparing the data for analysis by addressing inconsistencies, errors, and missing values to ensure its quality and reliability.
+Employing statistical techniques and machine learning algorithms to analyze data, identify patterns, trends, and insights, and develop predictive models for forecasting.
+Presenting data effectively using charts, graphs, and dashboards to enhance understanding and aid decision-making processes.
+Implementing and maintaining data governance policies and security measures to safeguard sensitive information and ensure compliance with regulations.
+Collaborating with cross-functional teams to understand business requirements and deliver actionable insights.
+Staying updated with the latest developments in data analytics, machine learning, and technology trends, and continuously improving skills and knowledge to enhance the effectiveness of data analytics solutions
+
+Qualifications
+Tableau, Power BI and Qlik
+
+Additional Information
+Here at Applaudo Studios values as trust, communication, respect, excellence and team work are our keys to success. We know we are working with the best and thus treat each other with respect and admiration without asking.
+Submit your application today, and don't miss this opportunity to join the Best Digital team in the Region!
+We truly appreciate all the hard and outstanding work our team makes every day at Applaudo Studios, and that's why the perks that we offer, are deeply thought and designed as a way to thank them for their commitment and excellence.
+Some of our perks and benefits:
+Work from home
+Flexible schedule
+Celebrations
+Special discounts
+Entertainment area
+Flexible work spaces
+Great work environment
+Private medical insurance
+*Benefits may vary according to your location and/or availability. Request further information when applying.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Python Developer - Remote Work
+
+Sobre a vaga
+At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.
+
+Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.
+
+When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.
+
+Python Developer at BairesDev
+
+Being a Python Senior Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a combination of experience, knowledge, and independence. Innovation is also at the heart of the BairesDev strategy. So, if you were willing to take on the most complex tasks and be a master of your tech stack, Phyton, then you are probably one of those unique we’re looking for.
+These developers will face numerous technical challenges, so they must use current technologies, get involved in the mobile world, web applications, devices, etc.
+
+What You Will Do:
+
+- Create automation systems and tools to configure, monitor, and orchestrate data infrastructure and pipelines.
+- Create data integration services to help onboard new customers as quickly as possible.
+- Maintain ongoing reliability, performance, and support of the data infrastructure, providing solutions based on application needs and anticipated growth.
+
+Here’s what we are looking for:
+
+- 5+ years of practical experience in Python and Django development.
+- Experience with SQL and NoSQL Databases.
+- Experience with Microservices and the Cloud.
+- Advanced algorithm knowledge.
+- Intermediate agile methodologies management.
+- Strong understanding of best practices, SOLID principles, CLEAN Code, and scalable solutions.
+- Design Patterns knowledge.
+- Experience developing entire applications from scratch.
+- Experience in automated tests, CI/CD pipelines.
+- Strong experience with Version control.
+- Strong experience with Unit testing, integration testing, and code coverage.
+
+How we do make your work (and your life) easier:
+
+- 100% remote work (from anywhere).
+- Excellent compensation in USD or your local currency if preferred
+- Hardware and software setup for you to work from home.
+- Flexible hours: create your own schedule.
+- Paid parental leaves, vacations, and national holidays.
+- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.
+- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.
+
+Apply now and become part of a global team where your unique talents can truly thrive!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Programador (a) de Robôs Pleno
+
+Sobre a vaga
+O Grupo Dürr é uma das empresas líderes mundiais em engenharia mecânica e de instalações, com ampla experiência em automação, digitalização e Indústria 4.0. Nossos produtos, sistemas e serviços permitem mais eficiência e sustentabilidade nos processos de fabricação em diferentes setores, como a indústria automotiva, engenharia mecânica, química, farmacêutica, refrigeração e moveleira.
+Possuímos mais de 18.000 colaboradores em 33 países, operando globalmente com nossas marcas:
+
+DÜRR: Líder de sistemas de pintura e montagem final, bem como tecnologia de máquinas e robôs para produção de veículos.
+
+RESPONSABILIDADES
+Realizar a programação de robôs Dürr; 
+Realizar o comissionamento, instalação e configuração do sistema em campo, realizando testes finais, verificando se está funcionando corretamente e realizando o treinamento dos usuários finais;
+Responsável pelo suporte técnico ao cliente para solução de problemas técnicos e/ou esclarecimento de dúvidas
+
+REQUISITOS
+Formação: Técnico/ Tecnólogo ou Engenharia em Automação Industrial, Eletrônica, Mecatrônica e áreas correlatas;
+Experiência em Programação de Robôs;
+Idioma: Inglês Básico (comunicação com os clientes);
+Disponibilidade para viagens nacionais e internacionais
+
+O que oferecemos...
+
+Assistência Médica
+Assistência Odontológica
+Vale Alimentação e Refeição
+Vale Transporte
+Wellhub (Gympass)
+Gratificação por resultados corporativos – PLR
+Seguro de Vida
+Licença maternidade estendida
+Auxílio creche
+Descontos em instituições de ensino (cursos)
+Programa de Reconhecimento
+Programa de Avaliação de Performance
+Programa de Bem-estar e Qualidade de Vida – Equilíbrio
+Plataforma de aprendizagem: LinkedIn Learning
+Programa de parcerias: serviços e educação
+Estacionamento gratuito
+Flexibilidade de Horário
+Vale presente de aniversário
+E tem muito mais! Mas, você tem que se candidatar para conhecer.
+
+*De acordo com a política de elegibilidade da empresa.
+
+E tem muito mais! Mas, você tem que se candidatar para saber...
+-----------------------------------------------------------------------------------

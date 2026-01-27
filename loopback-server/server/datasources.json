@@ -1,0 +1,18 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysqlDS": {
+    "host": "d555d.vps-kinghost.net",
+    "port": 3306,
+    "database": "curriculodb",
+    "password": "Curr!cu7o",
+    "name": "mysqlDS",
+    "user": "curriculo",
+    "connector": "mysql",
+    "connectTimeout": 30000,
+    "acquireTimeout": 30000,
+    "idleTimeout": 30000
+  }
+}

@@ -1,0 +1,337 @@
+[Oportunidade 1]
+Oportunidade: Senior Python Engineer - Money Flows
+
+Sobre a vaga
+Ebury is a hyper-growth FinTech firm, named in 2021 as one of the top 15 European Fintechs to work for by AltFi. We offer a range of products including FX risk management, trade finance, currency accounts, international payments and API integration.
+
+Senior Python Engineer - Money Flows 
+
+Sao Paulo Office - Hybrid: 4 days in the office, 1 day working from home
+
+The Role 
+
+The Money Flows Engineering team at Ebury is seeking a Python Engineer to play a crucial part in our team. As part of our diverse team spread across South America and Europe, the successful candidate will be entrusted with the development and optimisation of our multi-currency account systems, incoming funds, and outgoing payment processes. You'll be required to make significant contributions to our platform as we continually aim to bring it to the next level and deliver the best payment experience for our clients and operational teams.
+
+As a Python Engineer in our team, your technical knowledge and skills will be paramount to our innovation and growth. We value collaboration and commitment, operating within a distributed setup where effective working is key.
+
+This is a hybrid position requiring attendance at the office four times a week. 
+
+Responsibilities
+
+Contribute the development of the next iteration of our Money Flows platform, designed to streamline cross-border payments and the international collection of funds.
+Collaborate with your team members and engineering leaders to design new services and components using our Request For Comments (RFC) process.
+Coach and mentor less experienced team members, positively changing the trajectory of the team to increase the overall effectiveness and efficiency of the team.
+Lead product initiatives from discovery to delivery, working closely with the product and operational teams to ensure everyone is on the same page.
+
+Requirements
+
+You have extensive experience in developing complex software systems. 
+Experience with any of our current tech stack will be considered an advantage: Django, FastAPI, PostgreSQL, Kafka, AWS, Kubernetes, Prometheus, Kibana.
+Since you will work side by side with colleagues from different countries, you will be able to communicate clearly and concisely your ideas in English both written and spoken.
+As we work closely with Product members, you should be able to collaborate with stakeholders to gather and clarify requirements, ensuring that technical solutions align with business objectives and user needs.
+You are adept at both constructing and managing services. As such, you should have proficiency in establishing standard APIs, incorporating monitoring systems and alerting services, along with a strong expertise in integrating external systems.
+Quality is important to us, we expect your code to be testable and well covered with unit and integration tests. We use CI Jenkins pipelines and terraform for the deployment of services and infrastructure. From time to time, you might need to contribute to it.
+In line with our 'You build it, you own it' philosophy, we expect you to take full ownership of the products you build, embracing both their development and ongoing maintenance.
+
+About Us
+
+Ebury is a FinTech success story, positioned among the fastest-growing international companies in its sector.
+
+Founded in 2009, we are headquartered in London and have more than 1700 staff with a presence in more than 25 countries worldwide. Cultural diversity is part of what makes Ebury a special place to be. From Sao Paulo to Dubai, Bucharest to Toronto, we enjoy sharing team experiences and celebrating success across the Ebury family.
+
+Hard work pays off: in 2019, Ebury received a £350 million investment from Banco Santander and has won internationally recognised awards including Financial Times: 1000 Europe's Fastest-Growing Companies.
+
+None of this would have been possible without our proudest achievement: our great people. Enthusiastic, innovative and collaborative teams, always ready to disrupt and revolutionise the fast-paced FinTech sector.
+
+We believe in inclusion. We stand against discrimination in all forms and have no tolerance for the intolerance of differences that makes us a modern and successful organisation. At Ebury, you can be whoever you want to be and still feel a sense of belonging no matter your story because we want you and your uniqueness to help write our future.
+
+Please submit your application on the careers website directly, uploading your CV / resume in English.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Scientist
+
+Sobre a vaga
+ADP is hiring a Senior Data Scientist.
+
+Does the idea of working with one of the most comprehensive US employment data sets excite you?
+Are you inspired by transformation and making impact on the lives of millions of people every day?
+
+Well, this may be the role for you. Ready to design what's next?
+
+You'll work in a geographically distributed team developing processes and tools to analyze and proactivelly detect insights. You'll code with machine learning tools like Python and AWS to synthesize millions of data sets into patterns that support and enchance the process.
+
+To thrive in this career, you need to have some formal education in quantitative analytics and technical skills to leverage existing models or create new ones. The ever increasing scale of our data sets means uncountable challenges ahead. You will stay engaged with years of exciting projects ahead - all while growing your skills and progressing in a rewarding career.
+
+Availability to work in a hybrid work model, office located in Porto Alegre.
+
+What You'll Do
+
+Here's what you can expect on a typical day: 
+
+Advanced Analytics & Predictive Modeling. You bring prior experience to the role of formulating analytical problems, extracting & analyzing data from multiple systems, summarizing critical findings, and developing a compelling visual representation of analyses with actionable recommendations — this will set you up for success on Day 1.
+Own and Manage Projects. You will identify, design, develop, and implement advanced analytical projects.
+Limitless Possibilities. You will continue learning and discovering new ways to leverage ADP data to create new products and services and find more insights. You are passionate about learning and applying new techniques within Data Science that lead to innovations.
+Collaboration and Communication. You'll be part of a collaborative team, listening to needs, then finding and sharing solutions. You're comfortable and skilled at presenting your projects and findings to both peers and leadership.
+
+To Succeed In This Role
+
+Bachelor's degree in Computer Science, Statistics, Engineering or a related field.
+Advanced English skills (able to interact daily with a distributed team).
+Good understanding of Software Development Life Cycle (SDLC).
+Good working experience with an IDE and version control tools (Git + Github/Gitlab/Bitbucket).
+Strong knowledge of data structures, algorithms and methods used in Data Science.
+Experience with Machine Learning model development and deployment.
+
+Bonus Points
+
+Formal education and/or proven previous experience with statistical analysis.
+Experience with Time series analysis and forecasting.
+Experience with Anomaly detection.
+Fluency in Python and its popular Data Science packages.
+Exposure to (Python) Jupyter notebook and/or Databricks platform.
+
+You'll Love Working Here Because You Can
+
+ Have courageous team collaboration. Courage comes from how associates are willing to have difficult conversations, speak up, be an owner, and challenge one another's ideas to find the best solution.
+Deliver at epic scale. We deliver real user outcomes using strong judgment and good instincts. We're obsessed with the art of achieving simplicity with focus on client happiness and productivity.
+Be surrounded by curious learners. We align ourselves with other smart people in an environment where we grow and elevate one another to the next level. We encourage our associates to listen, stay agile, and learn from mistakes.
+Act like an owner & doer. Mission-driven and committed to leading change, you will be encouraged to take on any challenge and solve complex problems. No tasks are beneath or too great for us. We are hands-on and willing to master our craft.
+Give back to others. Always do the right thing for our clients and our community and humbly give back to the community where we live and work. Support our associates in times of need through ADP's Philanthropic Foundation.
+Join a company committed to equality and equity. Our goal is to impact lasting change through our actions.
+O modelo de trabalho adotado pela ADP é office based/presencial, com a possibilidade de trabalho em home-office por até duas vezes na semana.
+
+Considerando que as atividades desempenhadas pelos ocupantes deste cargo envolvem acesso a informações altamente confidenciais e sensíveis de clientes da ADP e de seus respectivos empregados, a ADP reserva-se o direito de conduzir checagem de histórico, de tempos em tempos, conforme autoriza o Incidente de Recurso de Revista Repetitivo nº 01 do Tribunal Superior do Trabalho, mediante consentimento do candidato/trabalhador.
+
+What are you waiting for? Apply today!
+
+Diversity, Equity, Inclusion & Equal Employment Opportunity at ADP: ADP is committed to an inclusive, diverse and equitable workplace, and is further committed to providing equal employment opportunities regardless of any protected characteristic including: race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, protected veteran status or disability. Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.
+
+Ethics at ADP: ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Machine Learning Engineer II
+
+Sobre a vaga
+The Company You’ll Join
+
+Carta is a platform that helps people manage equity, build businesses, and invest in the companies of tomorrow. Our mission is to unlock the power of equity ownership for more people in more places.
+
+Carta is trusted by more than 40,000 companies and over two million people in nearly 160 countries to manage cap tables, compensation, and valuations. Carta also supports nearly 7,000 funds and SPVs, and represents nearly $130B in assets under administration. Carta's tender offer solutions have returned $14B to shareholders in secondary transactions. Today, Carta’s platform manages nearly three trillion dollars in equity globally.
+
+For more information about our offices and culture, check out our Carta careers page.
+
+The Problems You'll Solve
+
+At Carta, our employees set out on a mission to unlock the power of equity ownership for more people in more places. We believe that the problems we solve today unlock the opportunities of tomorrow.
+
+Responsibilities
+
+As a Senior Machine Learning Engineer at Carta, you'll spend a third of your time partnering with domain experts across the company to analyze and explore Carta's proprietary document repository and data set. Another third will be dedicated to building machine learning models to power new products, automate complex document workflows, and accelerate Carta's business. The remaining third will involve developing Carta's machine learning infrastructure. Example responsibilities will include:
+
+Perform exploratory analyses to understand the dynamics of private markets and ownership from source-of-record documents and systems.
+Develop LLM-powered pipelines to classify complex legal documents and extract key information from these docs to automate onboarding to our suite of products.
+Develop machine learning models to power new financial products and to extract trends from performance of existing products.
+Build and deploy containerized prediction services and integrate them with our data pipelines.
+Partner with product managers, engineers, designers, and business teams to incorporate ML-generated estimates and benchmarks into products and user-flows.
+Own, coordinate, and solve complex, cross-functional problems that extend beyond the traditional boundaries of machine learning.
+
+The Team You'll Work With
+
+At Carta, our Machine Learning team is on a mission to power data products and automation through cutting-edge techniques. We work closely with Carta's core business units and product teams to develop estimation-based data products and large language model (LLM)-powered document intelligence capabilities. This role is foundational to our team, where you'll work with one of the world's most valuable datasets and document repositories. Our models directly enable revenue growth and operational efficiency for the company.
+
+Our team consists of specialized Machine Learning scientists and engineers, collaborating with product analytics and data engineering experts. We foster a culture of partnership, working closely with teams across Carta to solve impactful problems. We strongly believe that being helpful accelerates results, and we support one another to achieve success at Carta.
+
+The Impact You'll Have
+
+You will own significant projects that directly align with the company's strategic initiatives in document intelligence, data products, and data quality. Your contributions will empower leaders across the organization to deliver innovative products, optimize operational efficiency, and make well-informed product decisions. Additionally, you will have the opportunity to develop foundational infrastructure for our team and establish best practices for integrating our machine learning models into production environments. Your work will not only impact Carta's current machine learning capabilities but also pave the way for future engineers, enabling them to build upon your efforts seamlessly.
+
+About You
+
+Candidates must have a strong foundation in statistics and machine learning, be proficient in SQL and Python, and have an analytical mindset. You have a strong bias towards simplicity, are excited by “zero to one” projects, and can efficiently communicate findings to leadership. Example traits that we value:
+
+5+ years of industry experience solving complex data problems with descriptive and predictive statistical models
+Proficiency with modern programming languages (Python, R, SQL, etc.) and datastores (Redshift or similar)
+A deep understanding of modern statistical and machine learning models, when to apply them, and how to evaluate their performance
+Experience with large language models (LLMs) and their applications in document intelligence, information extraction, and text classification tasks.
+Strong written and verbal communication skills, with a particular emphasis on data visualization
+A collaborative attitude and a helpful personality
+Experience with containerizing ML models and integrating them into production workflows
+Experience with building simple ETL pipelines (Airflow or similar) to schedule model training / predictions
+
+We are an equal opportunity employer and are committed to providing a positive interview experience for every candidate. If accommodations due to a disability or medical condition are needed, please connect with the recruiter via email. As a company, we value fairness, helpfulness, transparency, leadership and build our teams around these values. Check out our careers page to get to know us better as you think about your next step at Carta.
+
+Important Security Notice for Candidates
+
+Our company has been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will come from an @carta.com domain. Be cautious of any requests for sensitive information or payments outside of our official channels. For more information about this type of scam, please review the guidelines provided by the Federal Trade Commission (FTC). If you encounter any suspicious activity, please report it immediately to recruiting-systems@carta.com.
+
+Awards and Acknowledgements
+
+Companies and funds like Tribe and Pipe build their businesses on Carta. The company has been included on the Forbes World’s Best Cloud Companies, Fast Company's Most Innovative list, and Inc.’s Fastest-Growing Private Companies. We’ve also been recognized as a 2023 Built In Best Place to Work in the U.S., a Muse VIBE Award winner in the Vacation and Time Off category and certified as a Great Place to Work.
+
+Interested in data privacy? Check out our policies on Privacy and CA Candidate Privacy.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Blockchain Data Engineer
+
+Sobre a vaga
+Building the Future of Crypto 
+
+Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.
+
+What makes us different?
+
+Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.
+
+Before you apply, please read the Kraken Culture page to learn more about our internal culture, values, and mission. We also expect candidates to familiarize themselves with the Kraken app. Learn how to create a Kraken account here.
+
+As a fully remote company, we have Krakenites in 70+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like Kraken Pro, Kraken NFT, and Kraken Futures.
+
+Become a Krakenite and build the future of crypto!
+
+Proof of work
+
+The team
+
+Join our Data Engineering team and play a crucial role in building and maintaining scalable solutions to drive fast and accurate data-driven decisions across terabytes of data. You'll be pivotal in managing our data warehouse and data lake, crafting pipelines to efficiently move and process vast amounts of data for different data products. Our team handles both batch and streaming data, with diverse responsibilities matching your interests and expertise.
+
+As Blockchain Data Engineer, you'll contribute to our Blockchain Data Platform in-house system enabling on-chain read and write capabilities for Kraken teams and beyond. This data is accessible through our data systems, supporting several projects from various engineering and business units . Our vision is to establish this platform as the premier source of blockchain data, serving all internal projects.
+
+The opportunity
+
+Work and master knowledge of blockchain data!
+Investigate notable cryptocurrency transactions and addresses for insights and detecting issues.
+Build scalable and reliable data pipelines that collects, transforms, loads and curates data from internal systems.
+Ensure high data quality for pipelines you build and make them auditable
+Support design and deployment of distributed data store that will be central source of truth across the organization
+Develop, customize, configure self service tools that help our data consumers to extract and analyze data from our massive internal data store
+Evaluate new technologies and build prototypes for continuous improvements in data engineering
+
+Skills You Should HODL
+
+Deep hands-on experience with at least one major blockchain, potentially more (i.e. UTXO, EVM chains, etc..)
+2+ years of work experience in relevant field (Analytics Engineer, Data Engineer, DWH Engineer, Software Engineer, etc)
+Excellent SQL and data manipulation skills using common frameworks like Spark/PySpark, Pandas, Polars, or similar.
+Experience with data warehouse technologies and relevant data modeling best practices.
+Experience building data pipelines/ETL (or ELT) and familiarity with design principles (Apache Airflow is a big plus)
+Experience with at least one of major programming languages (e.g. Python, Scala, Java,..) 
+Experience with business requirements gathering for data sourcing while working remotely and asynchronously
+
+Nices to have
+
+Experience with Dune Analytics, Nansen, Elliptic, Chainalysis or other blockchain data providers is a big plus
+Experience working with cloud services (e.g. AWS, GCP, ..) and/or Kubernetes
+Experience working in a highly regulated environment
+Experience in building and contributing to data-lakes.
+Working with petabytes of data while optimizing queries and processes.
+Enjoy Dockerizing services!
+
+ #USCANBRUKEU
+
+This job is accepting ongoing applications and there is no application deadline.
+
+Please note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance at or graduation from an educational institution.
+
+We consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+
+Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!
+
+As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.
+
+Stay in the know
+
+Follow us on Twitter
+
+Learn on the Kraken Blog
+
+Connect on LinkedIn
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: CIENTISTA DE DADOS PLENO- CRÉDITO (100% REMOTO) Trabalho Remoto Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+A Diretoria de Analytics da ClearSale assume uma posição fundamental e estratégica dentro da empresa, sendo a principal responsável pela construção e gestão das soluções antifraudes de nossos clientes. A capacidade analítica é uma das principais características da área, sendo fundamental para a entrega dos melhores indicadores de antifraude do mercado, além de auxiliar a empresa nas mais diversas decisões estratégicas.
+
+Prezamos por um time multidisciplinar para atingir estes indicadores. Contando com mais de 100 profissionais em atividade, somamos mais de 20 áreas de formações diferentes, tendo como ponto em comum a paixão por trabalhar com dados. Estamos sempre em busca de pessoas com muita energia, que tenham facilidade de lidar com números e estejam motivadas a resolver problemas.
+
+Na ClearSale você terá a oportunidade de trabalhar em ambiente descontraído e informal, junto a pessoas com forte domínio em estatística, tecnologia, analytics e programação. Além disso, você irá trabalhar com outras áreas internas da empresa (Soluções, Operações, Comercial, Produtos, TI), para auxiliar na melhoria e eficiência dos nossos produtos e ferramentas de gestão de risco.
+
+Venha fazer parte do nosso contexto de CRÉDITO
+
+Responsabilidades e atribuições
+
+Atividades
+
+Aliar a elaboração de modelos estatísticos complexos a problemas específicos de negócio, garantindo índices cada vez maiores de aprovações automáticas de baixíssimo risco; 
+Criação de modelos no contexto de crédito, utilizando conceitos estatísticos e de machine learning; 
+Analisar o cenário do problema a ser resolvido e criar variáveis em cima de insights; 
+Acompanhamento de performances e pontos de melhoria, aprimorando continuamente os modelos existentes para tornar o bom ainda melhor; 
+Aliar alta qualidade de projetos de modelos com rápida entrega, atendendo as demandas e especificidades de cada segmento; 
+Atualizar-se constantemente em relação a novas práticas do mercado de crédito e tecnologias de análise de dados. 
+
+Requisitos e qualificações
+
+Vem Com a Gente Se Você é Uma Pessoa Que
+
+É apaixonada por novas tecnologias e técnicas de modelagem para aplicar ao negócio; 
+Tem habilidade em manipular grandes volumes de dados e programação; 
+Gosta e possui elevada autonomia para condução de suas atividades; 
+Possui capacidade para trabalhar de forma colaborativa e sempre no espírito de equipe; 
+É curiosa e motivado a resolver novos problemas. 
+
+O Que Você Precisa Para Participar Do Processo Seletivo
+
+Perfil analítico; 
+Habilidade para trabalhar em equipe; 
+Ter experiência em desenvolvimento de algoritmos e modelagem de risco (com foco em crédito); 
+Forte domínio de conceitos estatísticos; 
+Conhecimento do fluxo ETL e implantação em cloud; 
+Conhecimentos avançados em SQL e Python; 
+Conhecimento em Databricks, AzureML e Devops serão considerados um diferencial; 
+Prática em otimização, padronização e versionamento de códigos GIT; 
+Alta capacidade de transmitir conceitos técnicos de forma didática; 
+Experiência no mercado financeiro será considerado um diferencial; 
+Superior completo 
+
+Informações adicionais
+
+Benefícios Oferecidos
+
+PLR (Participação nos Lucros e Resultados);
+Vale Refeição ou Vale Alimentação;
+Auxílio Creche para crianças até 4 anos e 11 meses;
+Seguro de Vida;
+Gympass;
+Sesc;
+Cartão Multibenefícios Alelo – (com desconto na compra de diversos itens na rede credenciada, incluindo medicamentos em diversas redes de farmácias);
+Assistência Médica e Odontológica Bradesco.
+
+Benefícios Adicionais Com Atividades Disponíveis Na Clearsale
+
+Aulas de teatro;
+Política Educacional para Graduação e Pós Graduação;
+Programa eu Saudável (Acompanhamento de saúde e bem estar);
+Programa Primeiros Laços (Acompanhamento Gestacional);
+Licenças Maternidade e Paternidade estendida;
+Palestras de desenvolvimento pessoal e profissional.
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 3: Fit Analítico3Fit Analítico
+Etapa 4: Bate Papo com Talent4Bate Papo com Talent
+Etapa 5: Bate Papo com Liderança5Bate Papo com Liderança
+Etapa 6: Teste Técnico6Teste Técnico
+Etapa 7: Carta Proposta7Carta Proposta
+Etapa 8: Contratação8Contratação
+
+Sobre a ClearSale_
+
+A ClearSale (CLSA3) é referência em inteligência de dados com múltiplas soluções para prevenção a riscos em diferentes mercados, como e-commerce, mercado financeiro, vendas diretas, telecomunicações, entre outros. Nós somos a empresa que mais conhece o comportamento do consumidor digital brasileiro, o que faz com que impulsionemos negócios em todo o ecossistema da economia digital.
+
+Com o nosso time de especialistas, geramos um efeito de rede de proteção no mercado digital, identificando padrões de ataques, protegendo os mais variados segmentos de negócio e promovendo impacto positivo, para garantir a melhor experiência ao usuário, com mínima fricção, do onboarding ao transacional.
+
+Se assim como a gente, você quer tornar a vida digital de todos mais simples, segura e justa, vem ser ClearLover!
+-----------------------------------------------------------------------------------

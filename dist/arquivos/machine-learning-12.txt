@@ -1,0 +1,396 @@
+[Oportunidade 1]
+Oportunidade: Grupo QuintoAndar | Machine Learning Engineer (Women Applicants Only)
+
+Sobre a vaga
+About QuintoAndar:
+
+QuintoAndar was born to do something very rewarding: open doors. We opened doors for technology to be part of living. And, through it, we simplify and reduce the bureaucracy of the experience of those looking for a new home. Thus, we became the most valuable proptech in Latin America, leading the real estate market in around six countries and more than 75 cities around the globe.
+
+The first steps in the international market have been taken since we acquired Grupo Navent, which is ranked number 1 in Mexico (Inmuebles24), Argentina (Zonaprop), Peru (Adondevivir & Urbania) and Ecuador (Plusvalia) - among others. And most recently, we launched Benvi, our international brand in Mexico, which comes with our residential rental product and service.
+
+We offer an end-to-end ecosystem to make life easier for those looking to rent or buy a home, sell a property and unlock a transaction. Think of zero paper or bureaucracy: everything happens on a single platform, with transparency and speed alongside incredible human support.
+
+We are currently valued at over $5.1 billion (August 2021) and continue to grow 4x year over year, breaking records.
+
+To make all this happen, we have more than 4,000 talented people, working with cutting-edge technology and best design practices to ensure a seamless experience throughout the sales and rental process, combined with smart financial products. Here you will work with the best professionals in the market, in an environment that breathes innovation, collaboration and high performance.
+
+To learn more about our history, visit https://quintoandar.group/en/.
+
+About Grupo QuintoAndar:
+
+We are Grupo QuintoAndar, the largest real estate ecosystem in Latin America. Guided by a shared purpose of helping people love where they live, we have a diverse portfolio of brands and solutions that cover all stages of the journey of living. We develop technologies and innovations that transform and leverage the whole living experience.
+
+About working at QuintoAndar:
+
+Possibility of learning;
+Opportunity to work in a team that seeks to use the best practices and tools in the market;
+Work in an informal environment with a horizontal structure;
+Being part of a team working on a high-impact project that affects the lives of thousands of people
+
+Location & Remote Work
+
+Our technology team works on the "remote-first" model, which means we are working from home with the possibility of living anywhere in Brazil.
+
+Language
+
+This job description is written in English because for that position you will need it for communications with coworkers and suppliers who are from worldwide, for tools and internal materials as well. // A descrição desta vaga está escrita em Inglês porque para esta posição é necessário para a comunicação com colegas e fornecedores, que são de diferentes países, além do uso de ferramentas e materiais internos.
+
+About our selection process:
+
+Our selection process currently lasts an average of 30-40 days, from application to completion of the assessment. Going through:
+
+Application
+Interview with Recruiter
+Tech Screening
+Interviews with Data Products Team
+Offer
+
+About The Area
+
+Responsabilities of a Machine Learning at Grupo QuintoAndar:
+
+Combine Software Engineering and Data Science disciplines to create production-ready Machine Learning models;
+Integrate other engineering services and systems (generally services written in java) with our ML services;
+Develop frameworks and platform to build, deploy, serve and monitor ML-based services;
+Collaborate with Software Engineers, Data Scientists, Data Engineers and Data Analysts along the way of the modeling pipeline:
+Features preparation
+Model training
+API development
+Service deployment
+Predictions and features monitoring
+Model retraining
+Assure health and quality of ML services;
+Foster best practices for infrastructure and coding regarding machine learning specific requirements;
+Contribute to vision and architecture to scale ML-solutions at QuintoAndar's business;
+Participate of problem contextualization, solution scope, product discovery, design and implementation of ML-based products and/or ML Platform;
+Manage technical debt regarding a strategic trade-off between delivering value in the short term and expanding ML capabilities in the long term;
+Bridge professionals and technical dependencies between non-ML services and ML services
+
+Responsibilities
+
+Architect, develop and deploy machine learning systems to production. The main use cases are related to chatbots and search
+Design and execute experiments
+Analyze a wide variety of data (structured and unstructured, observational and experimental) to improve current models or create new ones
+Participate actively in discussions and decisions regarding the whole Data Science chapter (Guilds, Design Reviews, Demos, etc.)
+
+Requirements
+
+What we are looking for:
+
+Solid software engineering skills;
+Strong background in Machine Learning
+Understanding of requirements and challenges for machine learning services;
+Understanding of a modeling pipeline;
+Good cloud-based infrastructure skills;
+Experience developing RESTful APIs;
+Passion about tough technical challenges;
+Humility, curiosity and avid interest in learning;
+Ability to handle with changes in a fast-paced environment;
+Good communication and teamwork skills;
+Orientation to business value
+
+You'll stand out if you have:
+
+Experience productionizing ML models;
+Strong python skills;
+It will be a plus if you have some Java experience
+Experience with Spark;
+Experience with MLOps tools and libraries (Ex: MLflow, Kubeflow, AWS SageMaker, Google AI Platform, etc);
+Experience in the Real Estate market
+MSc. or PhD in Computer Science, Engineering, Statistics, or other relevant technical fields
+
+Important:
+
+Our selection process starts with the application! If you are truly interested in joining our team, make sure to put in extra effort at this stage. We review all candidates individually and provide feedback even to those who do not proceed in the process;
+All communication is done via email, so be attentive to our messages and whitelist the @quintoandar.com.br domain to prevent our emails from going to spam
+
+Benefits
+
+Competitive salary package;
+Bonus;
+Meal allowance ("Flash Benefícios");
+Public transportation allowance*;
+Health plan;
+Dental plan (optional);
+Life insurance;
+Daycare subsidy;
+Subsidy to sports practicing (Gympass)
+Extended maternity and paternity leave;
+Reserved room for breast-feeding;
+Discount on our parking lot;
+Language learning support;
+Free transfer from Vila Madalena and Fradique Coutinho stations to the office;
+Free bike rack in our parking lot
+*Due to our new remote-work reality, that benefit may have changed. That will be informed to you throughout the hiring process. 
+
+Diversity & Inclusion at QuintoAndar
+
+At QuintoAndar, we believe diversity of perspectives and experiences guarantee a differentiated work environment, based on respect and valuing differences. Feel free to declare the information on the registration form. If you are not comfortable answering them, just choose the option "I prefer not to respond". This information helps us create an increasingly inclusive environment and it is used only for this purpose, it is confidential, and it will not impact your performance throughout the hiring process
+
+Data Protection Policy
+
+The data entered in the selection process form is confidential and stored in a secure environment. We take appropriate technical and administrative measures to protect your data.
+
+To exercise your rights over your personal data, such as access to data, treatment confirmation, data correction, anonymization, blocking or deletion, and other rights with QuintoAndar, contact us at quin.to/mensagem. To learn more about how we treat personal data at QuintoAndar access our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Machine Learning Engineer
+
+Sobre a vaga
+Descubra o impacto dos dados e da análise avançada em decisões de negócios, integrando-se ao nosso time de especialistas!
+
+Come join us
+
+Embarque na jornada de transformação de dados com a Avanade! No seu dia a dia, você irá traduzir requisitos de negócios em soluções técnicas inovadoras, analisar práticas atuais e identificar oportunidades futuras, além de projetar e construir soluções modernas de dados na nuvem. Seu papel é fundamental na cadeia de suprimentos de dados, garantindo que os stakeholders tenham acesso e possam manipular dados para análises rotineiras e ad hoc. Together we do what matters.
+
+Skills And Experiences
+
+Experiência comprovada na transformação de casos de uso de negócios em soluções técnicas
+Conhecimento em mapeamento de processos de negócios para soluções de dados e análises
+Habilidade para realizar perfilagem de dados, catalogação e mapeamento para design técnico
+Domínio de .NET C#, T-SQL e familiaridade com Python e Spark
+Conhecimento em Azure Data Factory, Azure Data Lake, Azure Databricks, Azure SQL DW, Azure SQL e Azure App Service
+
+About You
+
+Características que demonstram sucesso para este papel:
+
+Analítico, curioso e ágil
+Espírito de equipe e boa comunicação
+Solucionador de problemas, paciente e focado na qualidade
+Autodidata
+Mentalidade inovadora
+
+What You'll Do
+
+Traduzir requisitos de negócios em soluções técnicas com acurácia
+Analisar e mapear processos de negócios para soluções de dados e análises
+Contribuir no planejamento e implementação de serviços de design de dados
+Desenvolver e manter esquemas de data warehouse e bancos de dados para acesso a dados e análises avançadas
+Expor dados aos usuários finais utilizando plataformas modernas de visualização
+
+Learn more
+
+Para Saber Mais Sobre a Avanade, Confira Estes Links
+
+Blog do LinkedIn
+
+dentro da Avanade
+
+Carreira na Avanade
+
+Enjoy your career
+
+Algumas Das Melhores Coisas Para Trabalhar Na Avanade
+
+Oportunidade de trabalho para o Parceiro Global da Aliança da Microsoft do Ano (14 anos trabalhadores), com desenvolvimento e treinamento especial (mínimo de 80 horas por ano para treinamentos e certificações pagas)
+Acesso em tempo real a recursos técnicos e científicos globalmente
+Conselheiro de carreira dedicado para incentivo ao seu crescimento
+Colegas de trabalho engajadas e prestativas genuinamente específicas para você
+Saiba mais sobre alguns de nossos benefícios:
+Vale refeição ou alimentação; 
+Cartão Multibenefícios até Consultor Sênior; 
+Convênio médico e odontológico; 
+NAV: Plataforma online para cuidar da saúde; 
+Certificações e treinamentos; 
+Seguro de Vida; 
+Previdência Privada; 
+Avababy: acompanhamento da gestação e kit para os novos pais e mães Avanade; 
+Participação nos resultados da empresa;
+Gympass; Auxílio Creche; 
+Orientador de Carreira - Mentoria de carreira; 
+Política de Birthday Off em seu aniversário e de filhos até 12 anos; 
+Sessões de Bem-Estar; 
+Para função gerencial ou superior - Veículo corporativo, estacionamento e auxílio combustível.
+
+A great place to work
+
+Ao trazer suas habilidades e capacidades para a Avanade, você terá experiências específicas, aprendizado ilimitado e crescimento ambicioso em troca. À medida que continuamos a construir nossa cultura diversa e inclusiva, nos tornamos ainda mais inovadores e criativos, ajudando-nos a servir melhor nossos clientes e comunidades. Você se juntará a uma comunidade de colaboradores inteligentes e solidários para elevar, orientar e orientar você, e contar com sua expertise. Você terá uma empresa construída para soluções tecnológicas de ponta e críticas para os negócios, comprometida em melhorar a forma como os humanos trabalham, interagem e vivem. Está tudo aqui, então dê uma olhada mais de perto!
+
+Trabalhamos arduamente para proporcionar uma cultura inclusiva e diversificada, com um profundo senso de pertencimento para todos os nossos funcionários. Visite nossa página de Inclusão & Diversidade. 
+
+Crie um futuro para nossas pessoas que se concentram em:
+
+ Expandir seu pensamento
+ Experimentar intensamente
+ Aprender e girar
+
+Inspire Grandeza Em Nossas Pessoas Por
+
+ Empoderar cada voz
+ Encorajar a ousadia
+ Comemorar o progresso
+
+Acelere o Impacto De Nossas Pessoas Por
+
+ Surpreender o cliente
+ Priorizar o que importa
+ Agir como um só
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Engenheira de Dados Sênior
+
+Sobre a vaga
+Somos uma empresa global, líder em serviços de informação, conhecida no restante do mundo como Experian. Nos grandes momentos da vida, como a compra de um carro, a ida de um filho para a faculdade ou mesmo a abertura e expansão de um negócio, estamos presentes para empoderar consumidores e clientes a administrarem seus dados com confiança.
+Contamos com mais de 20.000 pessoas operando em mais de 44 países; e, ao investirmos nelas, em tecnologia e em inovação, podemos ajudar negócios a se transformar e comunidades a prosperar, permitindo que mais pessoas se sintam incluídas nas oportunidades disponíveis. É dessa forma que todos os dias entregamos o nosso propósito de criar um futuro melhor.
+Venha descobrir um mundo inesperado com a gente. 
+
+Job Description
+
+Já pensou em alavancar a plataforma de dados e MLOps do maior banco de dados da América Latina? Se você é movido por inovação e gosta de atuar em parceria contínua com todas as áreas da empresa, venha fazer parte do nosso time!
+ 
+Como será o seu dia a dia?
+ Atuação direta nas discussões de arquitetura da plataforma;
+Desenvolvimento dos produtos de dados;
+Interação com principais usuários da plataforma visando mapear e entender dores, traduzindo em backlog de desenvolvimento da plataforma;
+Identificação e resolução de problemas relacionados aos projetos em que está atuando;
+Identificação de oportunidades de ganho de eficiência operacional e financeira das plataforma em que está atuando.
+Você será responsável por:
+Desenvolvimento de plataforma de dados para consumo de diversas fontes, batch e real-time;
+Desenvolvimento APIs de acesso e consumo dos dados (data products);
+isseminação do conhecimento sobre as melhores práticas de uso de dados (data contracts, governança federada e engenharia de plataformas);
+Garantir que arquitetura comporte necessidades e requisitos técnicos do time de execução, trabalhando em conjunto com times de TI (Arquitetura, Segurança, Infraestrutura) e com áreas de negócio;
+Influnciar técnicamente o time direcionando boas práticas de dados e engenharia de software.
+
+Qualifications
+
+O que buscamos em você?
+Autonomia e iniciativa para atuação na resolução de problemas;
+Boa comunicação e perfil resolutivo;
+Spark (Batch & Streaming);
+Proficiência em pelo menos umas das linguagens de programação como Scala, Java e Python;
+Orquestração de pipelines de dados (Airflow);
+AWS Data Stack (DynamoDB , s3, Lambda, EMR, MSK, Glue, Athena, Lake Formation, RDS);
+Data lake/ Lakehouse (iceberg/delta);
+Arquitetura de dados;
+Melhores práticas de engenharia de software;
+Testes Automatizados;
+Conhecimento em CI/CD.
+
+Additional Information
+
+O que te oferecemos como diferencial! 
+Ambiente em plena transformação; 
+Atuação global. 
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+Não atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!
+Experian Careers - Creating a better tomorrow together
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados Sênior | Ads
+
+Sobre a vaga
+Sobre o Picpay:
+
+Com mais de dez anos de história, o PicPay é uma empresa de tecnologia que oferece um portfólio completo de serviços financeiros para facilitar a relação com dinheiro e ser a principal conta do dia a dia de milhares de pessoas e empresas.
+
+Fundada em Vitória (ES), a empresa tem mais de 30 milhões de usuários ativos e faz parte do grupo J&F, um dos maiores conglomerados empresariais do Brasil.
+
+Nossa cultura é nosso alicerce e nossa força. Conheça nossos valores: Atitude de Dono(a), Disciplina, Determinação, Disponibilidade, Simplicidade, Humildade e Franqueza.
+
+O respeito, a ética e a busca pela equidade são elementos inegociáveis e fazem parte da prática no nosso dia a dia aqui no PicPay. Por isso, esta vaga está aberta para todas as pessoas, independente de gênero, religião, etnia, deficiência, idade, orientação sexual ou qualquer outro fator.
+
+Sobre a vaga:
+
+Nosso crescimento acelerado atraiu milhões de usuários ativos no trimestre dentro do PicPay. A BU de Audiências e Ecossistema PJ surgiu para potencializar a monetização de audiências, os serviços financeiros para PJ e a integração entre os universos PF e PJ.
+
+O Time de Dados é um dos pilares fundamentais desse contexto. Assim, buscamos por uma pessoa Engenheira de Dados (Analytics Engineer) para integrar o time! Essa pessoa irá identificar como facilitar e otimizar processos de geração de informação para auxiliar as estratégias de negócios, promovendo a máxima autossuficiência e desempenho possível dos projetos, processos e incidentes. Procuramos alguém que busque crescer junto com o PicPay!
+
+Responsabilidade e atribuições:
+
+Construir pipelines de ingestão e transformação de dados robustos e escaláveis, que atendam as demandas de informação das equipes de negócios e dados;
+Contribuir para uma plataforma de dados resiliente que abranja todos os quesitos de qualidade de dados. A garantia desta qualidade deve ser aplicada desde a coleta dos dados de sistemas, fornecedores e clientes até processamento e disponibilização na camada curada para uso em análises;
+Estabelecer os stakeholders em todos os processos e contratos de modelagem de dados e governança;
+Analisar os ambientes de processamento para melhorias de estabilidade;
+Entender o uso das ferramentas disponibilizadas e as dores dos clientes para melhorar sua experiência.
+
+Requisitos e qualificações:
+
+Experiência prévia com engenharia de dados e Big Data;
+Experiência prévia com as linguagens Python e/ou Scala, SQL e Framework Spark;
+Arquitetura e Mapeamento/Modelagem de dados (relacional e/ou analítico);
+Ferramentas de ETL/Orquestração como Apache Airflow, Databricks, entre outros;
+Experiência em Cloud, de preferência AWS;
+Experiência com DevOps, como CI/CD e Github;
+Métricas de qualidade de dados analíticos;
+Testes unitários.
+
+Será um diferencial se você tiver:
+
+Formação acadêmica relevante em Ciência da Computação, Engenharia de Software ou área relacionada;
+Experiência em lidar com dados financeiros: Conhecimento e experiência em lidar com dados financeiros, incluindo processamento de transações, segurança de dados e privacidade;
+Participação em projetos open source.
+
+O que oferecemos:
+
+Saúde e Bem-estar: Além de Assistência Médica e Odontológica, oferecemos Seguro de Vida e o Lado a Lado, um programa que cuida de você e seus familiares, com apoio jurídico, social, psicológico e financeiro.
+
+E claro, não podemos esquecer da nossa parceria com a Totalpass.
+
+Alimentação/Teletrabalho: Por meio do nosso cartão de crédito PicPay Benefícios, com ampla aceitação, você recebe seu saldo de Alimentação/Refeição e Teletrabalho (de acordo com o seu contrato de trabalho).
+
+Licença Paternidade e Maternidade: Sabemos que esse é um momento especial para uma família, e por isso oferecemos Licença Maternidade estendida de 6 meses, e de Paternidade também estendida de 20 dias. Além disso, nossas mamães PicPay Lovers são acompanhadas pelo programa "Novo Ser", durante toda a gestação e no retorno da licença. Falando nisso, ao retornar da licença maternidade, as mamães ainda contam com a ajuda do Auxílio Creche e também os papais que possuem guarda unilateral ou compartilhada.
+
+Reconhecemos resultados: PPR- Participação nos Resultados do PicPay.
+
+#VemserPicpayLover #Picpay
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Machine Learning Engineer
+
+Sobre a vaga
+About us
+AB InBev is the leading global brewer and one of the world’s top 5 consumer product companies. With over 500 beer brands, we’re number one or two in many of the world’s top beer markets, including North America, Latin America, Europe, Asia, and Africa.
+
+
+About ABI Growth Grou
+pCreated in 2022, the Growth Group unifies our business-to-business (B2B), direct-to-consumer (DTC), Sales & Distribution, and Marketing teams. By bringing together global tech and commercial functions, the Growth Group allows us to fully leverage data and drive digital transformation and organic growth for AB InBev around the world
+.In addition to supporting well known global beer brands like Corona, Budweiser and Michelob Ultra, the Growth Group is home to a robust suite of digital products including our B2B digital commerce platform BEES, on-demand delivery services Ze Delivery and TaDa Delivery, and table top beer keg PerfectDraft
+.We are an exceptional team, focused on understanding and supporting consumer and customer needs, harnessing new technology, and scaling growth opportunities
+
+.
+What you'll d
+o:Architect and orchestrate the implementation of BEES Ai's Mission, Vision, and ML Strateg
+y.Own technical end-to-end delivery of ML pipelines from architecture to production scalin
+g.Create a culture of empathy and psychological safety that encourages those you collaborate with to be owners of the solutions you ow
+n.Spearheaded a diagram-based approach to articulating planned green-field and brown-field development to ensure unambiguous communication of your planned endeavor
+s.Manage product resourcing allocation to meet deadline
+
+s.
+What you'll ne
+ed:Bachelor's degree in computer science, engineering, mathematics, or any quantitative field. A master's degree is a pl
+us.Relevant experience with Machine Learning Platform Architect
+ureSystems Thinking and Software Design Patte
+rnsGitHub Workflows, Python, PySpark, DataDog, Terraform, API Management, Front End technology frameworks, Software Development Lifecycle, Bash, Docker, Software System Integration, Software Refactoring Techniques, Test Driven Developme
+nt.Solution runtime efficiency optimizati
+
+ons
+More about 
+you:You´re motivated by building up world-class solutions that impact millions of users all over the wo
+rld;You´re creative when solving problems and is continuously seeking improvements for processes and soluti
+ons;You can communicate clearly with your team and the company to identify issues and dema
+nds;You have the autonomy to recognize the current and new priorities, evaluating the impact of their outcomes in the final res
+
+ult.
+What We O
+ffer:Performance based b
+onus*Attendance B
+onus*Private pension
+ planMeal Allo
+wanceCasual office and dress
+ codeDays
+ off*Health, dental, and life insu
+ranceMedicines disc
+ountsWellHub partne
+rshipChildcare subs
+idiesDiscounts on Ambev prod
+ucts*Clube Ben partne
+rshipScholar
+ship*School materials assu
+ranceLanguage and training plat
+formsTransport allo
+
+wance
+-----------------------------------------------------------------------------------

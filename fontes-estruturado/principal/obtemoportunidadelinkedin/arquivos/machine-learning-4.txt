@@ -1,0 +1,270 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Pleno/Sênior
+
+Sobre a vaga
+NEORIS é uma acelerador Digital que ajuda empresas a entrar no futuro, temos mais de 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Somos mais de 4.000 profissionais em 11 países, temos uma cultura de startup multicultural onde cultivamos inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes.
+
+Procuramos Engenheiro de Dados Sênior – Vaga Híbrida – Rio de Janeiro
+
+Principais Responsabilidades
+
+Desenvolver e otimizar pipelines de dados utilizando Databricks e AWS;
+Implementar e gerenciar estruturas de governança de dados com Unity Catalog;
+Criar soluções escaláveis para ingestão, transformação e armazenamento de dados;
+Colaborar com times de negócio para entender requisitos funcionais e traduzi-los em soluções técnicas;
+Garantir a qualidade, segurança e integridade dos dados;
+Melhorar a eficiência dos processos de ETL/ELT e arquitetura de dados.
+
+Requisitos
+
+Experiência comprovada, minima de 4 años, como Engenheiro de Dados (requisito excluente), preferencialmente em projetos de grande escala e ambientes complexos.
+Conhecimento avançado em Databricks e Apache Spark, em SQL e Python para manipulação e processamento de dados;
+Experiência com Unity Catalog para governança de dados; Experiência na criação e otimização de pipelines de dados;
+Capacidade de entender as necessidades do negócio e traduzi-las em requisitos técnicos.
+Residir no Rio de Janeiro e ter disponibilidade para comparecer ao escritório a cada 15 dias.
+
+Oferecemos
+
+Vale Refeição e Vale Alimentação: Benefícios mensais para suas despesas com alimentação, dentro e fora de casa. 
+Previdência Privada: Planejamento de futuro com contribuição complementar à aposentadoria. 
+Plano de Saúde: Cobertura médica de alta qualidade para você e seu dependente legal. 
+Plano Odontológico: Cuidados odontológicos completos, com ampla rede de atendimento. 
+Seguro de Vida: Proteção e segurança para você e seus entes queridos. 
+Aulas de Inglês/Espanhol: Incentivo ao aprendizado de idiomas. 
+Wellhub: Benefícios e descontos em academias e programas de bem-estar. 
+Auxílio Creche: Suporte financeiro para despesas com educação infantil. 
+Neoris Global Campus: Plataforma de desenvolvimento com oportunidades contínuas de aprendizado e crescimento profissional. 
+
+Te convidamos a nos conhecer em http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Engenheira de Machine Learning Sênior
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+Estamos em busca de uma pessoa Engenheira de Machine Learning para integrar a nossa equipe no Data Platform & MLOps.
+
+Nossa missão é desenvolver ferramentas e processos que impulsionem a inovação e otimizem a operação de projetos de Machine Learning em toda a empresa.
+
+A squad de MLE desempenha um papel central na construção da plataforma MLOPs, focando na criação de novas funcionalidades que abrangem todo o ciclo de vida de desenvolvimento e entrega de modelos, desde a coleta de dados até o deployment em produção. Aqui, você terá a oportunidade de causar impacto direto em diferentes áreas da companhia, trabalhando com tecnologia de ponta e frameworks modernos. Oferecemos um ambiente colaborativo e dinâmico, onde você terá liberdade para explorar e inovar, com o suporte de uma equipe altamente qualificada e aberta a novas ideias.
+
+Você Será Responsável Por
+
+Colaborar com uma equipe multidisciplinar e ágil de Machine Learning Engineers, Data Engineers e Site Reliability Engineers para arquitetar e implementar soluções de ML, sejam ferramentas, serviços ou contribuindo para nossa plataforma de ML e Data;
+Desenvolver ferramentas que auxiliem nossos Data Scientists em suas funções diárias;
+Desenvolver arquiteturas robustas e escaláveis sempre tendo em foco os conceitos de MLOps.
+
+Qualifications
+
+O que estamos buscando em você?
+
+Experiência prévia atuando com Engenharia de Machine Learning;
+Conhecimento em Git;
+Experiência com cloud (AWS);
+Experiência com CI/CD (Jenkins, ArgoCD, Harness);
+Conhecimento em desenvolvimento de modelos de ML;
+Conhecimentos básicos de Engenharia de Software;
+Conhecimento sobre fundamentos de ML: Não apenas sobre algoritmos, mas como funcionam;
+Conhecimento avançado em Python;
+Conhecimento em ferramentas para manipulação de dados (spark, pandas, numpy);
+Conhecimento básico de tecnologias para conteinerização (Docker, Podman);
+Conhecimento com bibliotecas de ML (scikit-learn, tensorflow, pytorch);
+Conhecimento dos conceitos da cultura MLOps e sua importância;
+Curiosidade, adaptabilidade,colaboração, ownership e comunicação. 
+
+Desejável
+
+ Experiência com Kubernetes;
+Conhecimentos de ferramentas de workflow de projetos de ML (DVC, mlflow).
+
+Additional Information
+
+Na Serasa Experian, acreditamos que a diversidade é fundamental para um ambiente de trabalho mais saudável e inovador, onde todas as pessoas possam trocar experiências e expressar suas ideias. Por isso, contamos com diversas ações para promover um recrutamento inclusivo e apoiar no desenvolvimento profissional das nossas pessoas. Além disso, temos os nossos grupos de afinidade, criados para empoderar e acolher as pessoas de grupos sub-representados:ExperianPride (comunidade LGBTQIAPN+), Ubuntu (equidade racial), Women in Experian (equidade de gênero) e Aspire (pessoas com deficiência) e Connecting Generations (gerações). Venha fazer parte dessa transformação!
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Machine Learning Engineer
+
+Sobre a vaga
+Sonatafy Technology, headquartered in Scottsdale, Arizona, is an award-winning nearshore software development company with a strong reputation. They have a dedicated in-house team of engineers, offering end-to-end software solutions and supporting client development staff augmentation. Catering to companies of all sizes and industries, including some of the world's largest brands, Sonatafy Technology is a trusted provider of nearshore enterprise-level cloud and mobile application software development services.
+
+Responsibilities
+Design and build machine learning models from scratch using algorithms such as Decision Trees, K-Means, Neural Networks, and Random Forests.
+Deploy machine learning models manually using Python, ensuring scalability, reliability, and performance.
+Analyze data points such as IP addresses, locations, and user behavior to identify patterns related to spam detection and trust/safety.
+Perform feature engineering and selection to build effective machine-learning models.
+Set up and manage cloud infrastructure for deploying machine learning models without relying on managed services like Amazon SageMaker.
+Innovate and experiment with solutions independently, taking ownership of complex problems without constant supervision.
+
+Skills and Qualifications
+Strong understanding of machine learning algorithms, statistics, feature engineering, and optimization.
+Hands-on experience with building and deploying machine learning models using Python.
+Experience in trust and safety/spam detection, analyzing data for threat identification.
+Proficiency in setting up and managing cloud infrastructure for model deployment.
+Independent problem-solver with a creative and experimental mindset.
+
+Technical Tools:
+Machine Learning Libraries: Scikit-Learn, TensorFlow, PyTorch.
+Data Manipulation: Pandas, NumPy.
+Cloud Infrastructure: AWS and/or Azure, or similar cloud platforms.
+Web Frameworks for API Deployment: Django or Flask for building APIs to serve machine learning models in production.
+
+Sonatafy Technology offers a great career opportunity to work in a fast-paced, rapidly growing environment where you will be contributing to future innovations alongside our powerful client portfolio. If you have reached this point and feel you are our ideal candidate, it’s time for you to apply! To apply, please submit your resume in English.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro(a) de Dados Sênior
+
+Sobre a vaga
+Sobre o BS2 
+Somos um banco 100% digital e focado em empresas, com atendimento humanizado e soluções sob medida para cada cliente - afinal, nenhum negócio é igual ao outro. Essa lógica também se aplica à nossa cultura: temos um DNA inovador que instiga todo o nosso time a se reinventar constantemente. Por aqui, nossos colaboradores (os bessers) podem contar com um ambiente que impulsiona o crescimento da carreira e traz a oportunidade de lidar com os desafios do mercado financeiro com quem mais entende do assunto.
+
+Estamos em busca de um(a) Engenheiro(a) de Dados com boa base técnica, mas que esteja aberto(a) a explorar novas tecnologias, especialmente no universo de desenvolvimento de aplicações, APIs e backend.
+ Não buscamos um perfil que já domine todos os stacks, mas alguém curioso, proativo e com apetite para aprender — com suporte técnico do time e espaço para evolução contínua.
+Essa é uma ótima oportunidade para quem quer expandir sua atuação além de dados, explorando tópicos como arquitetura de aplicações, integração de serviços e boas práticas de desenvolvimento de software.
+
+Responsabilidades e atribuições
+Projetar, construir e manter pipelines de dados escaláveis utilizando PySpark.
+Orquestrar fluxos de dados com Cloud Composer (Airflow).
+Atuar na otimização de jobs e clusters no Dataproc, com foco em desempenho e custo-benefício.
+Escrever e otimizar transformações complexas em BigQuery (SQL avançado).
+Colaborar com times de engenharia e produto, explorando integrações com APIs e serviços de backend.
+Apoiar a construção de serviços simples de aplicação (APIs REST) e ferramentas auxiliares com Python.
+Contribuir para um ambiente de trabalho colaborativo e com aprendizado constante.
+
+Requisitos e qualificações:
+Experiência com engenharia de dados em ambientes produtivos.
+Domínio de PySpark, com uso prático de DataFrame API, particionamento e tuning.
+Experiência em BigQuery, com foco em performance e modelagem.
+Familiaridade com Airflow (Cloud Composer).
+Conhecimento dos principais recursos do Google Cloud Platform (GCP): Cloud Storage, IAM, Logging, Monitoring.
+Algum contato com Python estruturado para desenvolvimento (boas práticas, organização de projetos, uso de bibliotecas).
+Vontade real de aprender sobre desenvolvimento de aplicações e APIs.
+
+Desejável:
+Experiência com Flask.
+Experiência com Elixir
+Conhecimento em DBT Core, Dataform.
+Participação em projetos de APIs, serviços de backend ou arquitetura orientada a eventos.
+Interesse em boas práticas de engenharia de software: testes, CI/CD, versionamento, reusabilidade.
+
+Nossos benefícios:
+🍽️ Vale refeição no valor de R$ 1.003,48 ao mês;
+🛒 Vale alimentação no valore de R$ 797,99 ao mês;
+🍾 13º do vale alimentação;
+💰 PLR;
+👨🏻‍⚕️ Assistência médica;
+🦷 Assistência odontológica;
+🗣️ Programa + Saúde: Telemedicina;
+🚀 Previdência Privada;
+👶🏽 Auxílio Creche no valor de R$ 613,19 por filho até 6 anos;
+🤰🏼 Programa Maternar: Acompanhamento profissional da gestação e puerpério;
+🍼 Espaço Lactário, para o retorno das mamães;
+🏋🏻 Wellhub, o antigo Gympass;
+🏖️ Dayoff, um dia de folga no seu aniversário;
+🤓 Potencializa: Nossa plataforma de cursos internos;
+💵 Empréstimo para colaboradores;
+⏰ Jornada reduzida, 40 horas semanais;
+
+O modelo de trabalho dessa posição é híbrido 3x2 (três dias presenciais e 2 de home office) em Belo Horizonte, no bairro de Luxemburgo.
+
+No BS2, incentivamos candidaturas de diferentes etnias, gêneros, religiões, orientações sexuais e/ou nacionalidades. Consideramos pessoas com deficiência para todas as nossas oportunidades. Todas as pessoas são muito bem-vindas!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro(a) de Dados Pleno | Data Analytics
+
+Sobre a vaga
+Descrição da vaga
+
+Com uma trajetória de 95 anos, a Americanas S.A. está presente na vida de milhões de brasileiros.
+Nossas +1600 lojas físicas estão distribuídas por todos os estados do Brasil, em mais de 800 cidades, levando nossos produtos e serviços a mais de 40 milhões de clientes em todo o país.
+ Responsabilidades e atribuições
+
+Nesse time, você terá a oportunidade de:
+
+Desenvolver e dar manutenção em pipelines e processos de engenharia de dados seguindo as recomendações de governança e as melhores práticas de desenvolvimento;
+
+Utilizar e disseminar junto aos pares da área de dados os padrões de desenvolvimento, boas práticas e qualidade do time;
+
+Criar e manter documentação técnica dos fluxos desenvolvidos;
+
+Acompanhar os fluxos de monitoria dos processos, reportar e corrigir inconsistências encontradas.
+
+Requisitos e qualificações
+
+O que esperamos de você para essa vaga:
+
+Possuir graduação em área de exatas (Sistemas de informação, Engenharia, Estatística, Economia etc) ou experiência equivalente.;
+
+Possuir experiência com plataforma de dados em Clouds (Preferencialmente GCP);
+
+Possuir experiência com SQL e em alguma linguagem de programação Python/Scala/Java;
+
+Possuir experiência com ferramentas de versionamento de código e processo de CI/CD;
+
+Possuir experiência em aplicações de gerencialmente de cargas de trabalho como Airflow, workflows, etc;
+
+Possuir experiência com Docker ou similares;
+
+Possuir conhecimento com ferramentas de monitoria de métricas de aplicações e logs (Datadog, Grafana, Kibana, Cloud Logging/ Log base metrics, etc);
+
+Possuir conhecimento de métodos de trabalho ágil (Scrum, Kanban).
+
+Será um diferencial, caso você conheça:
+
+Possuir conhecimento em fluxos de data quality;
+
+Possuir conhecimento em manutenção de fluxos de CI/CD;
+
+Possuir conhecimento em fluxos de mensageria;
+
+Possuir conhecimento em DBT;
+
+Possuir conhecimento de fluxos Pub/Sub.
+
+
+OBS: Nossos processos seletivos estão sendo conduzidos totalmente online, portanto, fique atento nos emails e no spam.
+
+Informações adicionais
+
+Nossos benefícios:
+
+Somos adeptos ao regime e benefícios CLT, oferecemos:
+
+Vale Refeição;
+Plano de saúde Bradesco;
+Plano odontológico Amil;
+Wellhub;
+Seguro de vida;
+Fazemos nossa proposta salarial de acordo com o nosso plano de cargos e salários, sua pretensão salarial e avaliação técnica;
+Somos uma Empresa Cidadã: 180 dias de licença maternidade e 20 dias licença paternidade;
+Descontos em nossas lojas físicas, após o período de experiência;
+Allya: app que oferece descontos em quase 30 mil estabelecimentos por todo Brasil, ex: farmácia, restaurante, salão, academia, etc;
+Ambiente colaborativo: perfeito pra ensinar e aprender muito.
+
+Local de Trabalho: Remoto/ Brasil
+
+QUEM SOMOS
+Quem Somos:
+
+Somos a Americanas, uma das maiores varejistas do país, com mais de 95 anos de história. Nossa marca, amada pelos brasileiros, tem o propósito de resolver a vida das famílias de maneira simples e descomplicada. A integração das mais de 1.600 lojas, presentes em todos os estados, e um e-commerce que complementa a experiência do físico nos permitem a realização de uma estratégia de vendas multicanal e eficiente, com foco na geração de caixa e na rentabilidade. Venha construir o futuro com a gente!
+
+Nosso Jeito:
+Nossa cultura é centrada no cliente, e buscamos constantemente soluções para aprimorar sua experiência. Valorizamos um jeito de trabalhar simples e descomplicado, que realmente gera impacto positivo na vida das pessoas. Aqui, incentivamos o trabalho em equipe e a troca de ideias, pois acreditamos que é assim que crescemos juntos, tanto como profissionais quanto como pessoas.
+
+Valores e Propósito:
+Nosso propósito é resolver a vida das pessoas, de maneira simples e descomplicada, guiada por valores autênticos e que representem a nossa gente. Buscamos entregar resultados com integridade, sempre servindo o cliente da melhor forma; priorizamos a conveniência em cada experiência, seja nas lojas, no site ou no coração de milhões de famílias; valorizamos a pluralidade e a resiliência, além de reconhecer e cuidar das nossas pessoas. Acima de tudo, nos comprometemos a ter um impacto positivo em tudo o que fazemos.
+
+
+Diversidade e inclusão:
+A Americanas S.A. acredita que diferentes perspectivas enriquecem o ambiente de trabalho. Por isso, temos o objetivo de promover um lugar cada vez mais diverso, inclusivo e acolhedor. Estamos construindo a cada dia uma cultura com base no respeito e valorização das diferenças, encorajando as pessoas a serem quem elas são, independente de gênero, etnia, raça, orientação sexual, religião ou deficiência. Nós acreditamos na integração das diversas culturas e tradições do Brasil, e queremos refletir a riqueza e a pluralidade do nosso país. Todas as nossas oportunidades são trabalhadas com base nesse princípio.
+-----------------------------------------------------------------------------------

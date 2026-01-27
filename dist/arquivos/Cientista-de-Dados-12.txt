@@ -1,0 +1,331 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro(a) de Dados - Pleno e Senior
+
+Sobre a vaga
+Resumo do cargo:
+
+O(a) Engenheiro(a) de Dados deve ser capaz de criar, expandir e otimizar a arquitetura de pipelines de dados, bem como desenvolver e manter fluxos de dados de diversas áreas de nossos clientes.
+
+Este(a) profissional deve estar familiarizado(a) com conceitos e estratégias de DataOps, bem como execução de projetos gerenciados em modelo Ágil. O conhecimento de tecnologias de big data é imprescindível para esse cargo.
+
+É importante que se relacione bem com diferentes equipes - tecnologia e área de negócio principalmente - e que possa apontar oportunidades de melhoria na forma de estruturação dos dados para atingir o objetivo de análise do cliente.
+
+Responsabilidades:
+
+Estruturar e tratar o fluxo de dados para auxiliar o cliente com uma estrutura robusta e acessível
+Criar e realizar manutenção e melhoria de fluxos e dados de complexidade intermediária (ETL e ELT)
+Colher e tratar as informações para serem usadas e dar continuidade ao projeto, por meio de ligações
+Implementar ferramenta de tratamento de dados e realizar auditoria de dados
+Gerir fluxos de dados já existentes, realizando processos manuais para identificar surgimento de possíveis problemas
+Combinar bases de dados de menor complexidade para endereçar requisitos funcionais e não funcionais do negócio
+Apoiar o desenvolvimento de engenheiros(as) de outros níveis de responsabilidade, auxiliando no cotidiano ou dando treinamentos em módulos básicos
+Utilizar de ambientes Hadoop, Spark e estruturas Cloud (AWS, Azure, GCP) para construção e execução dos pipelines de dados
+Interagir com áreas de negócio para validação das entregas e realização de possíveis ajustes
+Participar de reuniões com equipe e clientes e das cerimônias propostas pela gestão de projetos ágeis
+Escrever artigos
+
+
+Requisitos:
+
+Experiência na construção de fluxos de dados utilizando ferramenta de big data
+Experiência na função
+Conhecimento do stack de dados GCP, Azure ou AWS
+Experiência com PySpark, SQL, Databricks, Talend e Qlik
+Visão de foco no cliente, habilidade para comunicar ideias de forma clara com as áreas de negócio
+Ensino Superior completo ou em andamento
+
+
+Jornada para se tornar Fiver:
+
+Para nos conhecermos e sabermos se poderemos criar soluções incríveis juntos(as), trilhamos um caminho, onde, a cada passo, compartilhamos uma parte de nossa história:
+
+Triagem de currículos;
+Bate-papo com equipe de Gestão Humana;
+Conversa com o cliente (alocação);
+Entrevista Técnica com gestor(a) da área.
+
+
+E agora, qual história você quer contar?
+
+Sobre nós, Fivers:
+
+Acreditamos que os dados são o combustível para a transformação das empresas e das pessoas. Com isso em mente, ajudamos nossos clientes a criar soluções analíticas que os inspiram a realizar transformações organizacionais com impacto direto nos seus modelos de negócio.
+
+Você acredita que ao contar boas histórias com os dados, podemos inspirar pessoas a transformarem o mundo a sua volta e, como consequência, melhorar a vida de outras pessoas? Se a resposta for sim, vamos nos conhecer!
+
+🏳‍🌈 Na Five Acts, valorizamos a diversidade, a equidade e a inclusão. Acreditamos que a diversidade é uma força impulsionadora da inovação e do crescimento. Portanto, não fazemos distinção por questões de gênero, orientação sexual, religião, idade, etnia, ou qualquer outra. Nossas oportunidades são abertas para todas as pessoas!
+
+O que oferecemos:
+
+Vales alimentação/refeição - no cartão de benefícios flexíveis Swile
+Cobertura de até 100% em Plano de Saúde e Odontológico
+Seguro de Vida em grupo
+Trabalho remoto ou híbrido
+Convênio Saúde Mental - psicoterapia online e presencial
+Incentivo a certificações e cursos
+Convênio para cursos de pós-graduação e MBA
+Parceria com escolas de idiomas
+Parceria com academias e estúdios fitness - Gympass
+Palestras e rodas de conversa internas
+Bônus por indicação
+Happy hours
+Mimos em datas comemorativas
+
+
+Confira a nossa Política de Privacidade.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de Dados Sr.
+
+Sobre a vaga
+Descrição da Vaga
+
+Nascemos para democratizar os serviços bancários e de pagamentos!
+
+Pioneirismo, tecnologia, inovação e resultados sustentáveis são constantes da nossa trajetória. Lançamos a primeira maquininha de cartão sem aluguel do Brasil e ao longo dos anos seguimos evoluindo para ampliar nosso ecossistema de soluções financeiras.
+
+Somos o 2º maior banco digital do país e a fintech mais rentável do segmento, resultado do trabalho de um time formado por pessoas talentosas e criativas, que atuam com dedicação, paixão e vontade de fazer acontecer.
+
+Se você ama tecnologia, curte um bom desafio e acredita no poder da colaboração para fazer grandes entregas, o Pags é pra você! Então, confira essa oportunidade e vem pintar o Brasil de amarelo com a gente💛!
+
+No PagBank todas as pessoas são bem-vindas 😊, sem distinção de gênero, orientação sexual, etnia, cultura, religião, deficiência etc. O importante é você gostar de desafios, trabalhar bem em equipe, vivenciar nossa cultura e nossa missão de transformar e democratizar os serviços bancários e de pagamentos no Brasil.
+
+#VemProPags
+
+Responsibilities and assignments
+
+Desenvolver e sustentar a plataforma para a gestão da governança de dados da organização.
+Participar da análise e definição de implementação de novas tecnologias.
+Participar na definição e implementação da arquitetura dos serviços mantidos pela equipe. 
+Atuar em equipes de desenvolvimento que utilizam métodos ágeis.
+Avaliar novas tecnologias e frameworks de mercado para melhoria contínua de produtos e processos, realizando provas de conceito.
+Manter e desenvolver funcionalidades da plataforma de dados especificamente em produto para a gestão de metadados da organização.
+Construir serviços, microsserviços e produtos que atendam às necessidades dos times de dados da organização, tanto do ponto de vista da governança dos dados quanto da engenharia dos dados.
+Construir mecanismos que garantam a gestão, descoberta e sensibilização das mais diferentes fontes de dados disponíveis nos times de engenharia da organização.
+
+
+Requirements And Qualifications
+
+Superior em Ciência da Computação, Engenharias, Sistemas de Informação ou áreas correlatas.
+Experiência com controle de versionamento com Git.
+Experiência com linguagens de desenvolvimento Java e Python.
+Experiência com desenvolvimento utilizando ambiente AWS.
+Experiência com análise e desenvolvimento de sistemas, definições de arquitetura e orientação a objetos. 
+Experiência com containerização de aplicações como Docker e Kubernetes.
+Experiência com soluções de observabilidade como New Relic, Grafana e Splunk. 
+Experiência em Linux, Shell Script, YAML e Terraform.
+Conhecimento em arquitetura de microsserviços.
+
+
+
+Informações Adicionais
+
+Desejável:
+
+Conhecimento em design patterns e paradigmas de programação.
+Conhecimento em técnicas de Clean Code.
+Conhecimento no uso de MongoDB, MySQL ou qualquer outra tecnologia de banco.
+Conhecimento em JavaScript, React, CSS e HTML.
+Conhecimento em arquitetura de microsserviços.
+Conhecimento em ferramentas de mensageria como Kafka.
+Experiência com configuração e customização de ambientes com integração contínua e delivery contínuo utilizando o Jenkins.
+Conhecimento em elaboração de testes unitários e funcionais.
+Conhecimento em bancos de dados relacionais e não relacionais.
+Vivência com métodos ágeis de desenvolvimento: XP (principalmente com práticas de pair programming e TDD), Scrum e Kanban ou variações Lean.
+Experiência na implementação de padrões de governança de dados em ambientes operacionais e analíticos de dados.
+Experiência com produtos de governança de dados do setor como Apache Atlas será um diferencial.
+Experiência trabalhando com tecnologias de Big-Data - por exemplo, Hadoop, Spark, DataLakes, Data Warehouses.
+
+
+SOBRE NÓS
+
+Nascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.
+
+Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.
+
+Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia.
+
+Hoje somos um dos maiores bancos digitais do país e uma das fintechs mais rentáveis do segmento, resultado do trabalho de um time de mais de 7 mil profissionais.
+
+Aqui no Pags, a pesquisa e a inovação fazem parte do nosso DNA. Compartilhamos experiências com profissionais talentosos e criativos em um ambiente colaborativo, onde o aprendizado é garantido.
+
+Quer fazer parte dessa história? Confira nossas vagas e #VemProPags, o banco completo.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Core Services Data Scientist
+
+Sobre a vaga
+About The Role
+
+We're looking for a data scientist to join our Core Services Data Science team to provide data expertise as we work to make this world a safer place to move around. This role will be highly cross-functional as the data scientist works closely with operations, product management, engineering, and our partner teams. You will build out and own metrics, conduct deep-dive analyses, identify new opportunities, conduct experiments, and present findings to add more value to our users and internal teams.
+
+What You'll Do
+
+ Refine ambiguous questions and generate new hypotheses about the business through a deep understanding of the data, our customers, and our business. 
+ Demystify, stabilize, standardize, and democratize nascent datasets. 
+ Define how we measure success, by developing Key Performance Indicators and other user/business metrics, in close partnership with Operations, Product, and other subject areas such as engineering. 
+ Collaborate with data scientists, junior analysts, and engineers to build and improve on the availability, integrity, accuracy, and reliability of data logging and data pipelines. 
+ Develop data-driven business insights and work with cross-functional partners to find opportunities and recommend prioritization of product, growth, and optimization initiatives 
+ Design experiments and interpret the results to draw detailed and impactful conclusions 
+ Strong storytelling: distill interesting and hard-to-find insights into a compelling, concise data story in both verbal and visual methods. 
+ Ability to communicate effectively and handle relationships with partners coming from both technical and non-technical backgrounds 
+
+ What You'll Need 
+
+ 2+ years of experience in a similar role 
+ 3+ years of SQL experience (Hive, Spark, and other big data tools a plus) 
+ Ability and experience in extracting insights from data and summarizing learnings / takeaways. 
+ Understanding of experimental design (such as A/B experiments) and statistical methods. 
+ Experience with dashboarding/data visualization (i.e. Tableau, Mixpanel, Looker, or similar) 
+ To be highly detailed-oriented. 
+ Excellent judgment, critical-thinking, and decision-making skills. 
+ Able to drive complex projects to successful completion 
+ Able to identify stakeholders, build relationships, and influence others to get work done 
+ Strong verbal and written communication, and presentation skills 
+ Ability to tell a story with data by visualizing datasets and kpi's in business-relevant ways. 
+ Strong ability to document research and analysis 
+ Be a self-propelled continuous learner who keeps up with new tools and methodologies and builds prototypes with concepts learned
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Lead Data Scientist - Astra Team (Ventures)
+
+Sobre a vaga
+ADP Ventures is hiring a Lead Data Scientist.
+
+Does the thought of working with one of the most comprehensive employment data sets in the US excite you? 
+Are you inspired by transformation and making an impact on the lives of millions of people every day? 
+
+Well, this may be the role for you. Ready to design what is next? 
+
+The ADP Ventures is a new business incubator, maturing ideas into new businesses and startups that will help our clients navigate the world of work. You will be working on a cross-functional team located in Porto Alegre, Brazil but with peers at our New York City office.
+
+As a member of the ASTRA team, you'll find that innovation is at the heart of everything we do. Embedded within the Ventures team, our mission is to leverage artificial intelligence to pioneer new pathways and solutions across a diverse range of products. With a commitment to excellence and a forward-thinking mindset, we are dedicated to pushing the boundaries of what is possible in AI, ensuring that we not only meet the needs of today but also anticipate and shape the future.
+
+Every day you will work on a global team with multiple stakeholders to identify, design, develop, and implement advanced analytics projects that assist our clients daily. You will work with your team to provide, interpret, and predict necessary metrics for decision-making. You will code with machine learning tools like Python, AWS, and ML (Machine Learning) techniques, to synthesize millions of data sets into patterns that answer ad hoc requests and generate valuable insights for our clients.
+
+Your work will focus on creating and refining state-of-the-art recommendation and conversation engines. Also, to research the latest developments in AI research and technology, actively incorporating new techniques and approaches to maintain our leadership in innovation.
+
+To thrive in this career, you should know how to identify errors and reactively fix them. You will need to have some formal education in quantitative analytics and know design patterns and data structures. You have the skills to leverage existing models or create new models using the technologies above. But given the scale of our data sets and the complex problems we give you to solve, you will stay challenged and engaged with years of exciting projects ahead—all while growing your skills and progressing in a rewarding career.
+
+Like what you see? Apply now!
+
+What You'll Do
+
+Learn more about ADP at tech.adp.com/careers
+
+Here is what you can expect on a typical day: 
+
+Innovative Recommendation & Language Solutions. Your journey begins by leveraging your expertise in Recommendation Systems, Natural Language Processing (NLP), and Conversation Engines, enriched by your solid background in Advanced Analytics & Predictive Modeling. You'll confront complex challenges through adept analytical questioning, data extraction and analysis from varied sources, leading to the distillation of crucial insights. 
+Advanced Analytics & Predictive Modeling. From the outset, your ability to synthesize insights into compelling narratives, complemented by visual representations and actionable recommendations, will be instrumental in pioneering innovative solutions in recommendation and language technologies. This expertise not only sets the foundation for success but also positions you as a key player in driving forward-thinking outcomes —this will set you up for success on Day 1. 
+Own and Manage Projects. You will identify, design, develop, and implement advanced analytical projects. 
+Limitless Possibilities. You will continue learning and discovering new ways to leverage ADP data to create new products and services and find more insights. You are passionate about learning and applying new techniques within data science that lead to innovations. 
+Collaboration and Communication. You will be part of a collaborative team, listening to needs, then finding and sharing solutions. You are comfortable and skilled at presenting to both peers and leadership on your projects and findings. 
+Experience. With at least 8 years of hands-on experience in Recommendation Engines, NLP, and/or Conversation Systems, you bring a wealth of knowledge and a track record of impactful contributions in similar roles. Your experience acts as a cornerstone for innovative problem-solving and thought leadership within our team. 
+
+To Succeed In This Role
+
+Bachelor's degree in computer science, Statistics, Engineering, or a related field;
+Strong experience in relevant skills gained and developed in the same or similar role;
+Advanced English skills (able to interact daily with a distributed team);
+Fluency in Python - including popular data science packages (pandas, sklearn, etc) and quality tests;
+Strong knowledge of data structures, algorithms and methods used in the data science field;
+Experience with Machine Learning model development and deployment;
+Knowledge of Natural Language Processing and Conversation Engines;
+Experience with Recommendation systems;
+Knowledge with Cloud solutions (AWS, GCP, Azure);
+Interest in LLMs, Generative AI and Retrieval-augmented generation (RAG); 
+Willing to work with ML Ops and Software Development activities as well. 
+
+Bonus Points For These
+
+Master's degree in Computer Science, Statistics, Engineering, or a related field, with a strong focus on AI and Machine Learning;
+Good understanding of Software Engineering;
+Exposure to Jupyter notebooks and/or Databricks platform;
+Experience with AWS cloud solutions (S3, Glue, Lambda, SageMaker);
+Experience with integrating data products (recommender systems, classifiers, chatbots, etc) into applications in production environments;
+Knowledge of Continuous Integration & Delivery methodologies;
+Experience with Vector Databases. 
+
+You'll Love Working Here Because You Can
+
+Have courageous team collaboration. Courage comes from how associates are willing to have difficult conversations, speak up, be an owner, and challenge one another's ideas to find the best solution. 
+Deliver at epic scale. We deliver real user outcomes using strong judgment and good instincts. We are obsessed with the art of achieving simplicity with a focus on client happiness and productivity. 
+Be surrounded by curious learners. We align ourselves with other smart people in an environment where we grow and elevate one another to the next level. We encourage our associates to listen, stay agile, and learn from their mistakes. 
+Act like an owner & doer. Mission-driven and committed to leading change, you will be encouraged to take on any challenge and solve complex problems. No tasks are beneath or too great for us. We are hands-on and willing to master our craft. 
+Give back to others. Always do the right thing for our clients and our community and humbly give back to the community where we live and work. Support our associates in times of need through ADP's Philanthropic Foundation. 
+Join a company committed to equality and equity. Our goal is to impact lasting change through our actions. 
+
+What are you waiting for? Apply today!
+
+Find out why people come to ADP and why they stay: https://youtu.be/ODb8lxBrxrY
+
+(ADA version: https://youtu.be/IQjUCA8SOoA )
+
+Diversity, Equity, Inclusion & Equal Employment Opportunity at ADP: ADP is committed to an inclusive, diverse and equitable workplace, and is further committed to providing equal employment opportunities regardless of any protected characteristic including: race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, protected veteran status or disability. Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.
+
+Ethics at ADP: ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Analytics Architect (Poatek - Brazil Applicants)
+
+Sobre a vaga
+Who We Are
+
+In 2021, Poatek was acquired by WillowTree, an award-winning digital product consultancy recognized as one of the fastest growing and best places to work in the United States. Now a TELUS International company , with offices across the globe, we continue to partner with the world’s leading brands, such as HBO, PepsiCo, Domino’s and more, to design, build, and transform their digital products and strategies. We’re looking to grow our Poatek offices in Brazil with top talent excited to collaborate with team members across the globe to deliver innovative solutions for our clients.
+
+Location and Flexibility
+
+This is a hybrid role that allows you to work from either our São Paulo or Porto Alegre office.
+
+In São Paulo, you can work for two days per week or eight days per month
+In Porto Alegre, you have the option to work for three days per week or 12 days per month. 
+
+This setup promotes in-person innovation, collaboration, and connection with both local and visiting team members from other offices. Our flexible approach ensures that you can work from different locations while still enjoying the benefits of office culture.
+
+The Opportunity
+
+As a Senior Analytics Architect, you’ll collaborate with clients and develop a robust analytics plan to track and measure progress. You’ll aggregate and surface product insights, such as user behaviors, to guide multidisciplinary teams throughout the product development lifecycle.
+
+We understand our responsibility to create a diverse, equitable, and inclusive place within the tech industry, while pushing to make our industry more representative. Because of this responsibility, we need candidates who value diversity and inclusion through their work, team collaboration, or mentorship. So in your cover letter, we encourage you to reflect on diversity, equity, and inclusion.
+
+Responsibilities
+
+ Lead outcomes workshops with clients to understand their business goals and translate them into trackable outcomes within products 
+ Audit, select, and recommend the best analytics tool to suit client needs (e.g. Adobe Analytics / Adobe CJA , Google Analytics, Mixpanel, Amplitude) 
+ Dive into technical documentation and collaborate closely with engineers to integrate analytics into the codebase 
+ Use storytelling to present complex data in ways that are meaningful and actionable for our clients and teams 
+ Construct user-friendly dashboards that illustrate the value of data 
+
+Qualifications
+
+ 5-7 years of experience developing and executing an analytics strategy for clients and/or products 
+ Created analytics tracking specifications for web and/or mobile products that are being used in production 
+ You’ve worked with clients’ business or marketing teams in an agency or have worked with stakeholders in a product setting using data and reporting to guide product decisions and roadmaps 
+ Strong business sensibilities and can effectively identify and translate high-level business objectives to reportable metrics 
+ You can effectively communicate and present complex data in meaningful and actionable ways to clients and multidisciplinary product teams (e.g. engineers and designers) to guide product-decisions 
+ Experience evaluating a breadth of tools and platforms, specifically Adobe Analytics / Adobe CJA (Amplitude, Mixpanel, and Google Analytics are a bonus!)— and can guide clients in selecting the ideal tool for their needs 
+ You're a data advocate and can both articulate and demonstrate the value of data to clients and project teams 
+
+Bonus Points
+
+ Experience working with marketing teams to implement growth-specific tools or platforms like Segment, Braze, or Branch 
+ Mobile analytics or e-commerce experience 
+ You’ve helped a client migrate from one analytics tool to another 
+
+Why Poatek?  What We Offer: 
+
+ Be part of an innovative consultancy with a human-centered and culture with opportunities for ownership and professional growth 
+ Competitive salary and benefits package (annual bonus) 
+ Opportunity to work on innovative agile projects with other high-performing, passionate team members from all over the globe 
+ Collaborative work environment that encourages continuous learning and professional development (including English classes and support in national and international courses) 
+ Flexible work hours and autonomy 
+ Voucher for health activities, food allowance, in-office snacks, drinks, and games 
+
+If you love IT as much as we do, we look forward to meeting you!
+
+Equality is a principle here at Poatek. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing those information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------

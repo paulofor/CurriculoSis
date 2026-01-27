@@ -1,0 +1,367 @@
+[Oportunidade 1]
+Oportunidade: Software Engineering Lead, Brazil - X Delivery
+
+Sobre a vaga
+Locations: São Paulo | Rio de Janeiro
+
+Who We Are
+
+Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact.
+
+To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive.
+
+We Are BCG X
+
+We’re a diverse team of more than 3,000 tech experts united by a drive to make a difference. Working across industries and disciplines, we combine our experience and expertise to tackle the biggest challenges faced by society today. We go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. Leveraging BCG’s global network and partnerships with leading organizations, BCG X provides a stable ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions.
+
+What You'll Do
+
+As a part of BCG's X Delivery team, you will play a pivotal role in bridging technology and strategy. You will collaborate with premier consulting teams around the world, applying your software development expertise across a variety of ambitious and ground-breaking international projects. You will be instrumental in advancing BCG's Consulting and BCG X teams by providing critical software development insights and speeding up project execution. As a Lead Software Engineer, you will be at the heart of action, from gathering initial requirements to designing, developing, and delivering high-quality software solutions that address our client's unique challenges. With a deep understanding of the latest tools and processes, you'll craft high-quality, efficient tech solutions. Your projects will span the spectrum, from swiftly driven Proof of Concepts and Minimum Viable Products to managing long-term, enterprise-grade software developments that are integral to our project successes. Each project offers a unique opportunity to showcase your skills and make a significant impact within BCG and its esteemed clientele.
+
+What You'll Bring
+
+We are seeking a technologically adept individual who brings strong experience and diverse skills to our dynamic team. This role is an outstanding opportunity for someone who is passionate about software development and eager to make an impact in a fast-paced, innovative environment.
+
+Technical Skills - Knowledge and Experience with:
+
+Strong coding skills and proficiency in programming languages such as Python, Java, Kotlin, Node.js, Go, Ruby, Rust, C#, etc. 
+Experience in web technologies, including proficiency in Typescript and modern JavaScript frameworks like React, Next.js, and Angular. 
+Capability in building APIs and services using REST or GraphQL. 
+Practical knowledge of cloud computing platforms (AWS, Azure, GCP). 
+Experience with relational and NoSQL databases. 
+
+Additional Skills:
+
+Knowledge of Spark or related systems (Hadoop, Pig, Hive). 
+Experience with containerization (Docker, Kubernetes). 
+Familiarity with CI/CD tools (CircleCI, Jenkins). 
+Exposure to emerging technologies like AR/VR, IoT, AI, and Blockchain. 
+Knowledge in mobile development with Objective-C and React Native
+
+Job Requirements:
+
+Bachelor's / Master's in Computer Science, a related field, or equivalent work experience
+Fluency in Portuguese and English
+Proven background in end-to-end application development, preferably in a commercial or consulting environment. 
+Active contributions to open-source projects or technical communities are highly valued. 
+
+Core attributes:
+
+Solid foundation in software development practices, with a track record of developing robust, maintainable software. 
+Involvement in the full software development lifecycle, from idea generation to deployment. 
+Expertise in optimizing software and algorithms for maximum efficiency and performance. 
+Adaptability in a dynamic, client-focused environment, with direct involvement in client interactions for feature development and product improvements. 
+Passion for collaborative work, actively sharing and refining software design and solutions in a team setting. 
+Intellectual curiosity and problem-solving skills across various industries and topics. 
+
+Additional info
+
+Please apply for the positions equivalent to your previous work experiences. The seniority will be evaluated according to your experience and career structure at BCG X during the process.
+
+Even if you don’t meet all these requirements, we encourage you to apply if this job description excites you.
+
+Note: For this position, we are considering applicants from São Paulo and Rio de Janeiro, including both the capital cities and the surrounding areas within a 150km radius of the capitals.
+
+#BCGXjob
+
+Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.
+
+BCG is an E - Verify Employer. Click here  for more information on E-Verify.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Digibee Integration Developer | Senior
+
+Sobre a vaga
+Descrição da Vaga
+
+Responsibilities and assignments
+
+Sustentar e desenvolver soluções na plataforma Digibee, garantindo a continuidade e a eficiência dos processos de integração;
+Realizar manutenções preventivas e corretivas, identificando e solucionando problemas em APIs com rapidez e precisão;
+Atender e resolver chamados técnicos, proporcionando suporte de alta qualidade aos usuários e clientes internos;
+Criar e ajustar pipelines, otimizando fluxos de trabalho para atender às demandas do negócio;
+Analisar o ambiente de integração, propondo melhorias contínuas e assegurando a conformidade com as melhores práticas;
+Colaborar com equipes multidisciplinares para apoiar demandas relacionadas ao desenvolvimento e implementação de novas funcionalidades;
+Elaborar e manter documentação técnica das integrações e APIs desenvolvidas, além de treinar usuários e equipe de suporte sobre as soluções implementadas;
+Monitorar o desempenho das integrações e APIs, garantindo que estejam operando conforme esperado e tomando medidas proativas para evitar problemas;
+Participar ativamente em projetos de integração, desde a fase de levantamento de requisitos até a implementação e entrega final, seguindo metodologias ágeis;
+Assegurar que todas as integrações e APIs estejam em conformidade com as políticas de segurança da empresa e as regulamentações aplicáveis;
+Pesquisar novas tecnologias e metodologias de integração para melhorar continuamente os processos e soluções existentes.
+
+Requirements And Qualifications
+
+Experiência comprovada em trabalhar com a plataforma Digibee, incluindo design, desenvolvimento, implementação e suporte de integrações usando a plataforma;
+Conhecimento com NodeJS;
+Sólida experiência em integração de sistemas, incluindo conhecimento de padrões e práticas de integração, como SOA (Service-Oriented Architecture), REST, SOAP, e APIs;
+Forte entendimento de arquiteturas de integração e capacidade de projetar soluções escaláveis e robustas;
+Experiência em gerenciamento de APIs, incluindo design, implementação, e manutenção de APIs seguras e escaláveis;
+Conhecimento de bancos de dados relacionais e não relacionais, e habilidades sólidas em SQL.
+Requisitos Desejáveis: React, desenvolvimento de novas integrações fazendo uso de tecnologia Intersystems e outras plataformas de integração (por exemplo, MuleSoft, Dell Boomi, Talend).
+
+Não possui todos os requisitos para a vaga?
+
+Está tudo bem! Na Compass UOL, estimulamos o desenvolvimento contínuo de novos talentos e transformamos desafios em oportunidades.
+
+
+Informações Adicionais
+
+#remote
+
+"remote"
+
+Nós somos a Compass.
+
+Projetamos e construímos plataformas nativas digitais usando tecnologias de ponta para ajudar empresas líderes globais a inovar, transformar seus negócios e prosperar em seus setores.
+
+Nosso Norte é criar coisas que ninguém jamais imaginou que seriam possíveis.
+
+E fazemos isso porque temos pessoas criativas e incríveis com a gente! 😊
+
+Se você quer fazer parte de um time com mais de 4.000 profissionais ao redor mundo, completamente apaixonados pelo que fazem, junte-se a nós e torne-se um Compasser!
+
+Aqui nós prezamos e valorizamos a diversidade em todos os âmbitos da nossa cultura e por isso todas as nossas vagas são também destinadas a Pessoas com Deficiência e/ou beneficiários reabilitados.
+
+Nós estamos esperando por você.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health
+
+.
+The positi
+
+on
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligen
+ce.It's a fully remote (of course!), full-time position for candidates in Latin America who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the differenc
+
+e).
+Responsibili
+
+ties
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform tog
+etherResponsible for end-to-end feature releases and platform enhance
+mentsActively support the technical design process, bringing your expertise and analysis to help make data-driven deci
+sionsContribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applica
+tionsSupport all parts of our client's platform from the database to the fro
+ntendContinuously discover, understand, and implement new technologies & services to maximize development effic
+iencyContribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test cov
+erageActively participate in ensuring our client maintains a disciplined approach to healthcare sec
+urityFoster a community of mentorship for junior engineers on your
+
+ team
+Your background & requir
+
+ements
+Bachelor’s degree in computer science, software engineering, or equivalent exp
+erienceExperience working on software development teams, building and deploying full-stack web appli
+cationsPassionate about building quality products and want to own product development end-to-end, with excellent design and development st
+andardsCollaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user exp
+erienceExperience with common software development practices such as version control, unit testing, an
+d CI/CDTeam player, interested in working in a fast-paced startup envi
+ronmentA minimum of 7 full years of experience in the software development li
+fecycleExperience with data pipelines or applications using Java, or Groovy, or
+ KotlinExperience building applications using React (mandatory) and TypeScript (nice t
+o have)Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or C
+ucumberHands-on experience building applications on either SQL or NoSQL techn
+ologiesIf you have experience with NoSQL technologies, then we would be looking for hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch o
+r KafkaIf you have experience with SQL technologies, we need you to have in-depth experience building and maintaining services with SQL dat
+abases.You can start as soon as p
+ossibleYou are located in Latin 
+AmericaYou can work EST (Eastern Time) offic
+
+e hours
+Nice 
+
+to haves
+Prior experience in healthcare and life
+ sciencesExperience with Amaz
+on AthenaFamiliarity with healthcare interoperability standards (H
+L7, FHIR)Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and trans
+formationExperience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub
+
+ Actions)
+Our recruitme
+
+nt process
+Recruiter intervi
+ew (30 min)Technical intervi
+ew (45 min)Take-home coding exam (30 to 45 minutes, onl
+ine, timed)(Client) Hiring Manager intervi
+ew (30 min)(Client) Design & development competency check interview (about 
+45 minutes)(Client) Final intervi
+
+ew (30 min)
+We strive to move efficiently from step to step so that the recruitment process can be as fast 
+
+as possible.
+
+What we offer
+Totally remote, full-t
+ime (40h/week)Monday to Friday, Eastern Standard Tim
+e office hoursLong-term, no end date independent contra
+ctor agreementPayment in USD, biweekly or monthly
+
+ - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates either in Latin America, Africa, or Eastern Europe who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+
+
+Responsibilities
+
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java or Groovy or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice-to-have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on NoSQL technologies
+Hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+You can start as soon as possible, ideally immediately
+You are located in either Latin America, Africa, or Eastern Europe
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+Hiring Manager (client) interview (30 min)
+Design & development competency check interview (client) (about 45 minutes)
+Final (client) interview (30 min)
+ 
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+
+ What we offer
+
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health
+
+.
+The positi
+
+on
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligen
+ce.It's a fully remote (of course!), full-time position for candidates in Latin America who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the differenc
+
+e).
+Responsibili
+
+ties
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform tog
+etherResponsible for end-to-end feature releases and platform enhance
+mentsActively support the technical design process, bringing your expertise and analysis to help make data-driven deci
+sionsContribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applica
+tionsSupport all parts of our client's platform from the database to the fro
+ntendContinuously discover, understand, and implement new technologies & services to maximize development effic
+iencyContribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test cov
+erageActively participate in ensuring our client maintains a disciplined approach to healthcare sec
+urityFoster a community of mentorship for junior engineers on your
+
+ team
+Your background & requir
+
+ements
+Bachelor’s degree in computer science, software engineering, or equivalent exp
+erienceExperience working on software development teams, building and deploying full-stack web appli
+cationsPassionate about building quality products and want to own product development end-to-end, with excellent design and development st
+andardsCollaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user exp
+erienceExperience with common software development practices such as version control, unit testing, an
+d CI/CDTeam player, interested in working in a fast-paced startup envi
+ronmentA minimum of 7 full years of experience in the software development li
+fecycleExperience with data pipelines or applications using Java, or Groovy, or
+ KotlinExperience building applications using React (mandatory) and TypeScript (nice t
+o have)Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or C
+ucumberHands-on experience building applications on either SQL or NoSQL techn
+ologiesIf you have experience with NoSQL technologies, then we would be looking for hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch o
+r KafkaIf you have experience with SQL technologies, we need you to have in-depth experience building and maintaining services with SQL dat
+abases.You can start as soon as p
+ossibleYou are located in Latin 
+AmericaYou can work EST (Eastern Time) offic
+
+e hours
+Nice 
+
+to haves
+Prior experience in healthcare and life
+ sciencesExperience with Amaz
+on AthenaFamiliarity with healthcare interoperability standards (H
+L7, FHIR)Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and trans
+formationExperience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub
+
+ Actions)
+Our recruitme
+
+nt process
+Recruiter intervi
+ew (30 min)Technical intervi
+ew (45 min)Take-home coding exam (30 to 45 minutes, onl
+ine, timed)(Client) Hiring Manager intervi
+ew (30 min)(Client) Design & development competency check interview (about 
+45 minutes)(Client) Final intervi
+
+ew (30 min)
+We strive to move efficiently from step to step so that the recruitment process can be as fast 
+
+as possible.
+
+What we offer
+Totally remote, full-t
+ime (40h/week)Monday to Friday, Eastern Standard Tim
+e office hoursLong-term, no end date independent contra
+ctor agreementPayment in USD, biweekly or monthly
+
+ - your choice
+-----------------------------------------------------------------------------------

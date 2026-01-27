@@ -1,0 +1,228 @@
+[Oportunidade 1]
+Oportunidade: Data Scientist
+
+Sobre a vaga
+Descartes Unites the People and Technology that Move the World
+
+The need for efficient, secure, and agile supply chains and logistics operations has become ever more critical and complex. By combining innovative technology, powerful trade intelligence and the reach of our network, Descartes helps get goods, information, transportation assets, and people where they’re needed, when they’re needed.
+
+We’re one of the most broadly deployed logistics and supply chain technology companies in the world. More than 22,000 customers around the globe use our cloud-based solutions to transform the way they move inventory and information to enhance productivity, better serve customers, thrive competitively, keep pace with evolving regulations, and respond to rapidly changing market conditions. Descartes is publicly traded (Nasdaq:DSGX, TSX:DSG) with headquarters in Waterloo, Ontario, Canada, and offices and partners around the world. With record financial performance for more than 16 years, we lead the industry in innovation investment. Every day, logistics service providers, manufacturers, retailers, distributors, and other logistics-intensive businesses of all sizes rely on our scale, stability, and comprehensive solution footprint to move what’s most important to them. Learn more at www.descartes.com.
+
+We’re growing fast and invite you to join our amazing team. 
+
+We are seeking a talented Data Scientist to complete our AI/ML team at Descartes Systems Group. As a Senior Data Scientist, you will play a pivotal role in driving the data science initiatives, leading the design and implementation of AI/ML solutions, and fostering innovation across the organization.
+
+Key Responsibilities
+
+ Develop, validate, and implement predictive models and machine learning algorithms. 
+ Collaborate with cross-functional teams to translate prototypes into production-ready solutions, working closely with software engineers and product managers. 
+ Use predictive modeling to increase and optimize customer experiences, revenue generation, and other business outcomes in logistics scenarios. 
+ Help the implementation of our data lake infrastructure, ensuring scalability, reliability, and performance. 
+ Conduct data preprocessing, including data cleaning, data transformation, and data integration. 
+ Keep up-to-date with the latest technology trends in AI/ML. 
+ Communicate results and ideas to key decision-makers. 
+
+Requirements
+
+ Minimum 2 years of experience in AI and ML, with a proven track record of building and deploying AI and ML models in real-world applications. 
+ Minimum 1 year of experience in Python programming for data analysis, modeling, and software development. 
+ Fluent in English, with excellent communication and presentation skills. 
+
+Nice To Have
+
+ Fluency in Spanish and Portuguese, enabling effective communication with our diverse customer base. 
+
+Our Benefits Are
+
+ Food allowance 
+ 100% medical assistance 
+ Participatory dental care 
+ Birthday off 
+ Life insurance 
+ Referral Bonus 
+ Annual performance bonus 
+ Flexible hours 
+
+Join Us 
+
+As we scale, we’re looking for new doers, collaborators and innovators to join Descartes in uniting the people and technology that move the world as the Global Leader in Logistics and Supply Chain Technology. We’re entrepreneurial, hardworking, geeky-in-a-good way problem solvers. Guided by our values, we nurture a TEAM focused culture that invests in people and creates opportunities for advancement across a broad spectrum of career paths. We prioritize work-life balance and foster an environment with the space to take ownership, to be heard, and to carve a path for your individual accomplishments to help drive our success. At Descartes, everyone has a voice and the best idea wins, regardless of who makes it. We offer competitive compensation, great benefits, remote and flexible work hours, and the opportunity to join a company on an awesome mission with a great existing team and trajectory.
+
+Descartes also has a deep sense of environmental responsibility. Learn more about how we helped our customers save over 552,000 metric tons of CO2 in 2020 by reducing fuel and paper consumption: https://www.descartes.com/who-we-are/social-responsibility-sustainability/environmental-impact .  Join a team that’s committed to working with customers to conserve resources and enhance sustainability.
+
+If you feel you have 70% of the qualifications we are looking for, and Descartes sounds like the team and the mission you want to be part of, apply now. We can't promise it will be a fit, but we do promise to consider your experience.
+
+Through COVID-19, we implemented a virtual hiring process and continue to interview and onboard candidates by video using Microsoft TEAMS. We record interviews and use them strictly for quality assurance, training and general record keeping purposes. Should you have any questions about this process, please connect with our hiring team in advance of scheduled interviews. We value the safety of each member of our community because we know we're all in this together.
+
+We are an Equal Employment employer. We do not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religious creed, national origin, physical or mental disability, protected status, or any other characteristic protected by federal, provincial, or local law. For more information about our commitment to equal employment opportunity, please review our Code of Business Conduct and Ethics at Descartes.com . 
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Data Science Specialist II
+
+Sobre a vaga
+Procuramos especialistas para desenvolver produtos de dados no contexto das frentes de negócios das áreas corporativas da Unico. Espera-se que esta pessoa aprenda rapidamente sobre nosso negócio/produtos e utilize sua experiência em análise de dados, estatística aplicada e machine learning para trazer à luz problemas estratégicos e identificar oportunidades de geração de insights com alto nível de impacto. Será ponto focal no esquadrão de dados corp, interagindo diretamente com profissionais das áreas de sistemas internos, operações, marketing, finanças e people, sendo protagonista na utilização de dados para orientar decisões de negócio.
+
+Colaborar com equipes multidisciplinares para identificar oportunidades de criação de produtos de dados para geração de insights e apoio na resolução de problemas estratégicos;
+Utilize estatística aplicada, mineração de dados e machine learning para modelar soluções para problemas, encontrar oportunidades e fornecer insights acionáveis;
+Projetar e desenvolver produtos de dados, incluindo criação de pipelines de dados, modelagem de bases e tabelas em data lake, desenvolvimento de análises exploratórias, EDAs e modelos de machine learning, criação de experimentos, testes A/B, testes de hipóteses e geração de métricas e visualizações de dados;
+Comunicar-se de forma eficaz, com bom nível de storytelling, apresentando conceitos técnicos para públicos técnicos e não técnicos;
+Envolva-se diretamente em projetos e resolução de problemas mais complexos, tentando garantir que a qualidade, abordagem técnica e padrões existentes sejam devidamente aplicados;
+Compartilhe conhecimento, melhores práticas e evite duplicação de estratégias. Oriente os colegas menos experientes em suas entregas.
+
+O que precisamos que você tenha:
+
+Formação em Ciência da Computação, Engenharia, Matemática, Estatística ou áreas afins;
+Experiência sólida em Analytics, incluindo principalmente o uso de estatística aplicada, criptografia de dados, criação de pipeline de dados e modelos preditivos;
+Proficiência em Python e SQL;
+Atitude proativa na identificação de oportunidades de criação e melhoria de soluções analíticas para alavancar as áreas de produto abrangidas;
+Facilidade em definir MVPs que garantem entregas incrementais, recorrentes e complementares, distribuindo com pensamento ágil;
+Pensamento analítico e estratégico sendo capaz de avaliar os impactos de novas soluções analíticas para o produto/negócio.
+
+Será um diferencial se você tiver:
+
+Conhecimento em Google Cloud Platform (GCP), BigQuery, Dataplex, Dataform e Vertex AI;
+Experiência na área acadêmica e de pesquisa;
+Inglês avançado/fluente.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de dados SR
+
+Sobre a vaga
+Engenheiro Consultor em Arquitetura e Análise de Dados de Observabilidade
+
+Você é apaixonado por dados e adora transformar informações em insights valiosos? Gosta de criar soluções inteligentes para integração e visualização de dados, esta vaga é para você!
+
+O que você fará:
+Estruturar Dados em Camadas: Criar uma estrutura eficiente e acessível para o consumo de dados, garantindo que a informação esteja disponível e organizada para as diferentes equipes.
+Trabalhar com SQL: Utilizar suas habilidades em SQL para consultar e manipular dados, ajudando a construir soluções baseadas em dados precisos e relevantes.
+Extrair Dados de APIs: Desenvolver e otimizar processos para a extração de dados de diversas APIs, integrando essas informações em nossos sistemas de forma eficaz.
+Automatizar Rotinas: Criar e manter automações que agilizem o fluxo de trabalho e reduzam a necessidade de intervenção manual.
+Construir Dataviz e Análise de Dados: Desenvolver visualizações de dados que proporcionem insights claros e úteis, permitindo que tomadores de decisão compreendam rapidamente o estado e o desempenho dos sistemas.
+Analisar GA4: Utilizar o Google Analytics 4 para monitorar e analisar o comportamento do usuário, gerando relatórios e insights que ajudem a otimizar nossas estratégias e desempenho digital.
+
+O que você precisa trazer:
+Conhecimento e experiência com GA4, incluindo configuração, monitoramento e análise de dados.
+Habilidade em SQL e em estruturação de dados em camadas.
+Experiência com a extração de dados via APIs e automação de processos.
+Conhecimento em construção de dashboards e visualizações que facilitem a análise de dados.
+Diferencial
+Experiência com ferramentas de observabilidade e conhecimento avançado em suas funcionalidades.
+Capacidade implementar soluções robustas para integração de dados provenientes de ferramentas como AppDynamics, Dynatrace, Firebase Crashlytics, CloudWatch, Grafana e GA4.
+
+Benefícios: 
+🍛 Vale Alimentação ou Vale Refeição;
+🏫 Auxílio Creche;
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+🗣 Mentoring;
+🛫 Clube de viagens;
+🐶 Convênio para Pet;
+💉 Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+🦷Assistência Odontológica;
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+👂🏾 Atendimento psicológico online ao colaborador e seus dependentes;
+e muito mais...
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Data Specialist
+
+Sobre a vaga
+Procuramos especialistas para desenvolver produtos de dados no contexto das frentes de produto da Unico. Espera-se que esta pessoa aprenda rapidamente sobre nosso negócio/produtos, e utilize sua experiência em análise de dados, estatística aplicada e aprendizado de máquina para trazer luz a problemas estratégicos e identificar oportunidades de geração de insights com alto nível de impacto. Será ponto focal de dados no esquadrão de produto, interagindo diretamente com profissionais de produto, engenharia e design, sendo protagonista na utilização de dados para orientar decisões de produto e negócio
+
+Você será responsável por:
+
+Colaborar com equipes multidisciplinares para identificar oportunidades de criação de produtos de dados para geração de insights e apoio na resolução de problemas estratégicos;
+Utilização estatística aplicada, mineração de dados e machine learning para modelar soluções para problemas, encontrar oportunidades e fornecer insights acionáveis;
+Projetar e desenvolver produtos de dados, incluindo a criação de pipelines de dados, modelagem de bases e tabelas no data lake, desenvolvimento de análises exploratórias, EDAs e modelos de machine learning, criação de experimentos, testes A/B, testes de hipóteses, e geração de medições e visualizações de dados;
+Comunicar-se de forma eficaz, com bom nível de storytelling, apresentando conceitos técnicos para públicos técnicos e não técnicos;
+Envolver-se diretamente em projetos e resolução de problemas mais complexos, procurando garantir que a qualidade, abordagem técnica e padrões existentes sejam devidamente aplicados;
+Compartilhe conhecimento, melhores práticas e evite a duplicação de esforços. Oriente colegas menos experientes em suas entregas.
+
+O que precisamos que você tenha:
+
+Formação em Ciência da Computação, Engenharia, Matemática, Estatística ou áreas afins;
+Experiência sólida em Analytics, incluindo principalmente uso de estatística aplicada, mineração de dados, criação de pipeline de dados e modelos preditivos;
+Proficiência em Python e SQL;
+Atitude proativa na identificação de oportunidades de criação e melhoria de soluções analíticas para alavancar as áreas de produtos atendidas;
+Facilidade em definir MVPs que garantam entregas incrementais, recorrentes e complementares, alinhadas com pensamento ágil;
+O pensamento analítico e estratégico é capaz de avaliar os resultados de novas soluções analíticas para o produto/negócio.
+
+Será um diferencial se você tiver:
+
+Conhecimento em Google Cloud Platform (GCP), BigQuery, Dataplex, Dataform e Vertex AI;
+Experiência na área acadêmica e de pesquisa;
+Inglês avançado/fluente.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Sênior
+
+Sobre a vaga
+Estamos à procura de um Engenheiro de Dados Sênior para se juntar ao time da Sankhya. Este profissional será responsável pelo design, implementação e manutenção de pipelines de dados robustos e escaláveis, além de colaborar com times multifuncionais para otimizar a infraestrutura de dados e apoiar nossas iniciativas de IA.
+
+Nosso #ProductTeam é um dos times chaves que fazem acontecer dentro da Sankhya. Nossa missão é oferecer diariamente uma solução completa, intuitiva e escalável que orienta nossos clientes com muita inovação e gestão inteligente!
+
+Na Sankhya, estamos atentos às novidades do mercado e buscamos aprimorar nossas soluções, tornando-as menos complexas e mais únicas. E, com isso, queremos alcançar lugares ainda mais altos!
+
+Se você deseja crescer e quer para sua carreira profissional novos desafios, seu lugar é aqui!
+
+Vem com a gente transformar a sociedade, e construir um ambiente diverso de crescimento acelerado.
+
+Topa o desafio?
+#VemserSankhya
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+Projetar, construir e manter pipelines de dados escaláveis e eficientes. 
+Desenvolver e implementar soluções para armazenamento e processamento de dados.
+Colaborar com cientistas de dados e analistas para garantir a integridade e qualidade dos dados. 
+Otimizar o desempenho das consultas e das operações de ETL. 
+Garantir a segurança e a privacidade dos dados conforme as melhores práticas e regulamentações. 
+Participar da definição de estratégias de dados e de arquitetura de dados. 
+Identificar e resolver problemas de desempenho de dados em tempo real.
+
+REQUISITOS E QUALIFICAÇÕES
+
+Bacharelado em Ciência da Computação, Engenharia, Matemática, ou área relacionada. 
+Experiência com plataformas de cloud computing (AWS, Azure, Google Cloud).
+Experiência significativa com bancos de dados relacionais e não relacionais (SQL, NoSQL). 
+Proficiência em linguagens de programação como Python, Java, ou Scala. Experiência com ferramentas de ETL e plataformas de processamento de dados (Apache Spark, Hadoop, etc.).
+ Conhecimento em design e otimização de sistemas de armazenamento de dados. 
+Experiência em trabalhar com grandes volumes de dados e sistemas distribuídos. 
+Forte entendimento de segurança de dados e privacidade. 
+ Familiaridade com práticas DevOps e ferramentas de CI/CD. 
+Experiência em implementar e gerenciar soluções de dados em tempo real. 
+Conhecimento em técnicas de aprendizado de máquina e inteligência artificial.
+
+INFORMAÇÕES ADICIONAIS
+
+Na Sankhya, nós prezamos muito pelo equilíbrio entre o lado profissional e pessoal. Sabemos que tudo hoje é interligado e, no fim das contas, é tudo sobre pessoas. Por isso, nossos benefícios são personalizados para Sankhers, confira!
+
+O que a Sankhya te oferece:
+
+🥗 Seu vale, vale: liberdade! Chega de escolher entre alimentação ou refeição, oferecemos um cartão bandeira ELO em parceria com o Ifood e eu #SóVejoBenefícios nessa parceria!
+🤩 Plano de saúde 100% grátis para colaborador(a)
+😁 Plano odontológico
+🏋️ Gympass
+💰 Programa de gamificação, participe e concorra a prêmios!
+💵 Participação nos Lucros e Resultados (PLR) mediante atingimento de metas e performance
+📚 Auxílio desenvolvimento
+🤰 Licença Maternidade/Paternidade estendida
+💻 Equipamentos fornecidos pela empresa
+🪑 Empréstimo consignado
+🎯 Pagamento por Indicação de profissionais assertivos
+🎉 DayOFF Sankhya O niver é seu, e para comemorar nada melhor que uma folguinha né?
+
+E MAIS IMPORTANTE AINDA:
+🧑‍🦽Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+
+Está esperando o que pra fazer parte de nosso time?
+
+#VemserSankhya!
+
+SOMOS A SANKHYA! 💚
+Fundada em 1989, somos líder no mercado brasileiro de soluções integradas de gestão corporativa (ERP). Com mais de 2000 colaboradores e atendendo cerca de 20 mil clientes em todos os 26 estados do país, oferecemos o ERP Sankhya, uma solução completa que permite acesso em tempo real aos detalhes do negócio, impulsionando eficiência e agilidade na gestão.
+
+Nosso propósito é claro: transformar a sociedade através da gestão, combinando excelência tecnológica com o poder transformador das pessoas. Nossa cultura é enraizada na base familiar e incentivadora do protagonismo e da inovação.
+
+Acreditamos firmemente que ter as pessoas certas ocupando as posições adequadas não só impulsiona a felicidade e o engajamento no ambiente de trabalho, mas também resulta em melhorias substanciais em nossos negócios e estimula a inovação.
+-----------------------------------------------------------------------------------

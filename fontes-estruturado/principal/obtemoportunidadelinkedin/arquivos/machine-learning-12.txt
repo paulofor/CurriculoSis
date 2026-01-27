@@ -1,0 +1,231 @@
+[Oportunidade 1]
+Oportunidade: Analista Phython / Engenheiro De Dados
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+A UBC está com vaga de Analista Phython / Engenheiro de Dados em nossa sede no Rio! Responsabilidades Principais: Experiência em desenvolvimento utilizando Python.Modelar e otimizar bancos relacionais (Oracle) e não relacionais (MongoDB, Solr).Criar e gerenciar contêineres Docker e clusters Kubernetes (dev, testes e produção).Configurar e executar jobs em Spark ou MapReduce; conhecimento em HDFS, YARN e Hive.Observabilidade: uso de Prometheus, Grafana ou ELK Stack (Elasticsearch/Logstash/Kibana).Documentar arquiteturas, fluxos de dados e procedimentos operacionais.Familiaridade com AWS ou Azure para ambientes em nuvem.Projetar e manter APIs backend em Python, aplicando padrões SOLID. Requisitos Desejáveis: Observabilidade: uso de Prometheus, Grafana ou ELK Stack (Elasticsearch/Logstash/Kibana).Metodologias Ágeis: vivência em Scrum/Kanban e ferramentas como Azure DevOps ou Jira. Se identificou?
+
+Envie seu currículo para ****** com o assunto 'Analista Phython / Engenheiro de Dados | UBC'.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Cientista de Dados Sênior / Híbrido - São Paulo
+
+Sobre a vaga
+REQUISITOS MANDATÓRIOS
+
+EXPERIÊNCIA
+
+5 anos de experiência como Cientista de Dados;
+Programação avançada em Python;
+Experiência prática na criação e avaliação de modelos de Machine Learning;
+Experiência com desenvolvimento Front-end (React, Vue.js ou similares);
+Domínio de bancos vetorizados (FAISS, Chroma, Pinecone, etc.);
+Experiência prática com RAG e integração com modelos de linguagem (LLMs);
+Capacidade de atuar no ciclo completo de produto: concepção, prototipagem e entrega;
+Experiência com ambientes em nuvem (AWS, GCP ou Azure),
+
+REQUISITOS DESEJÁVEIS
+
+Vivência com MLOps e ferramentas de CI/CD;
+Projetos com foco em IA generativa;
+Conhecimento em notas de avaliação de LLMs;
+Noções de UX/UI voltadas para a colaboração com o tempo de produto.
+
+ATRIBUIÇÕES
+
+Estamos em busca de um(a) Cientista de Dados Sênior, com forte base técnica e visão de produto, para atuar na construção de soluções de IA ponta a ponta, com foco em projetos estratégicos de alto impacto;
+Você fará parte de um tempo multidisciplinar, atuando em todo o ciclo — da concepção à entrega — com liberdade para criar, experimentar e gerar valor real para nossos clientes;
+Projetar e implementar pipelines de dados escaláveis e eficientes;
+Desenvolver e integrar modelos de machine learning, com foco em aplicações reais;
+Atuar na criação, treinamento e validação dos principais tipos de modelos:
+ Classificação
+ Regressão
+ Clusterização
+ Séries temporais;
+Aplicar técnicas de RAG (Retrieval-Augmented Generation) com bancos vetorizados;
+Contribuir no desenvolvimento de produtos com interface Front-end;
+Trabalhar em parceria com áreas de engenharia, produto e negócios.
+
+Sobre a CAPCO
+
+Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. 
+
+Pensamos, em conjunto, sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros.
+
+Nossas oportunidades são trabalhadas para todos(as)!!!
+
+
+
+Próximos Passos
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Artificial Intelligence Engineer
+
+Sobre a vaga
+About Us:
+At micro1, we’re all about connecting skilled remote professionals with some of the best companies in Silicon Valley. Our mission is to offer a stable, competitive income, along with access to top industry opportunities—all in a flexible work setting with a range of great benefits. We’re here to help you grow in your career. We're proud to work with trusted partners such as Deel, Immutable, O’Gara, and LegalSoft.
+
+What We Offer:
+Healthcare reimbursement
+Wi-Fi Reimbursement
+Unlimited Learning: Access to Udemy courses, books, and everything you need to keep growing
+And So Much More: We’re not just about work—we’re about creating an environment where you’ll love to be!
+
+Job Summary:
+We are seeking a dynamic and skilled AI Engineer to join our innovative team. This full-time hybrid role combines the flexibility of remote work with the collaboration of in-office experiences. The successful candidate will leverage their expertise in Cloud Platforms and Machine Learning to drive cutting-edge AI solutions for enterprise-level applications.
+
+Key Responsibilities:
+Design and develop scalable AI models and algorithms utilizing machine learning and NLP techniques.
+Collaborate with cross-functional teams to integrate AI solutions into existing infrastructure.
+Implement AI solutions on Cloud Platforms such as Azure, AWS, and Google Cloud Platform.
+Conduct research and development to advance AI capabilities within the organization.
+Maintain and optimize AI architectures and pipelines for performance and scalability.
+Provide technical guidance and mentorship to junior engineers and stakeholders.
+Document AI processes and solutions, ensuring clarity and accessibility for all team members.
+
+Required Skills and Qualifications:
+Strong proficiency in Python and experience with machine learning frameworks.
+Expertise in Cloud Platforms, particularly Azure, AWS, or Google Cloud Platform.
+Proven experience with Artificial Intelligence, NLP, and GenAI technologies.
+Excellent written and verbal communication skills.
+Working knowledge of Eclipse Java, C#, and .NET programming.
+Ability to work in a fast-paced, collaborative environment.
+
+Preferred Qualifications:
+Master’s degree in Computer Science, Engineering, or a related field.
+Previous experience in enterprise-level AI deployment.
+Certifications in Cloud Platforms or AI technologies are a plus.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Scientist / ML Engineer
+
+Sobre a vaga
+Data Scientist / ML Engineer (Senior)
+
+Who We Are
+
+Welcome to TELUS Digital, where innovation meets impact. As an award-winning digital product consultancy, we're shaping the future of digital experiences through cutting-edge technology, agile thinking, and a culture that puts people first.
+
+We are the global digital section of TELUS, one of Canada’s largest telecommunications providers. Our global teams deliver transformative digital solutions and customer experiences for industry leaders in consumer electronics, finance, telecommunications, and utilities. With robust multi-shore delivery capabilities, multi-language programs, and secure infrastructure, we ensure exceptional service backed by our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+As a Data Scientist / Machine Learning Engineer on our team, you'll design, develop, and deliver machine learning solutions, decipher loosely defined problems using complex datasets, and determine appropriate analytical and modeling techniques. You'll analyze structured and unstructured data, establish automated processes for large-scale modeling, perform exploratory analysis, and collaborate with peers on data acquisition and exploration, demonstrating a strong sense of ownership and urgency.
+
+Responsibilities
+
+Work on all aspects of the design, development and delivery of machine learning enabled solutions for our clients;
+Come up with solutions to loosely defined business problems by leveraging pattern detection over complex datasets across multiple platforms;
+Establish efficient, automated processes for large-scale modeling;
+Become part of a highly skilled and geographically distributed team;
+Collaborate with peers on problem definitions, data acquisition, data exploration, visualization as well as building the tools that support this process;
+Strong sense of ownership, urgency and drive.
+
+Qualifications
+
+Relevant experience in data science/ machine learning development
+Bachelor and/or Master degree in Statistics, Mathematics, Physics, Computer Science or other related subject.
+Proficiency in Python.
+Experience with machine learning frameworks (like Keras, TensorFlow, or PyTorch) and libraries (like scikit-learn).
+Strong understanding of machine learning algorithms, processes, tools and platforms.
+Ability to work on distributed cloud platforms
+Fluent English
+
+Bonus Points
+
+Experience with container management and machine learning deployment frameworks, such as Kubernetes, Kubeflow and MLFlow.
+Software development experience from scoping, requirements design, development, integration, testing, go live to PROD (vs internal research work)
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that Information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Staff Machine Learning Engineer
+
+Sobre a vaga
+About SecurityScorecard:
+
+SecurityScorecard is the global leader in cybersecurity ratings, with over 12 million companies continuously rated, operating in 64 countries. Founded in 2013 by security and risk experts Dr. Alex Yampolskiy and Sam Kassoumeh and funded by world-class investors, SecurityScorecard’s patented rating technology is used by over 25,000 organizations for self-monitoring, third-party risk management, board reporting, and cyber insurance underwriting; making all organizations more resilient by allowing them to easily find and fix cybersecurity risks across their digital footprint.
+
+Headquartered in New York City, our culture has been recognized by Inc Magazine as a "Best Workplace,” by Crain’s NY as a "Best Places to Work in NYC," and as one of the 10 hottest SaaS startups in New York for two years in a row. Most recently, SecurityScorecard was named to Fast Company’s annual list of the World’s Most Innovative Companies for 2023 and to the Achievers 50 Most Engaged Workplaces in 2023 award recognizing “forward-thinking employers for their unwavering commitment to employee engagement.” SecurityScorecard is proud to be funded by world-class investors including Silver Lake Waterman, Moody’s, Sequoia Capital, GV and Riverwood Capital.
+
+About the Team:
+
+At SecurityScorecard, the Data Science organization builds AI and ML products that empower our customers to manage cybersecurity risk. We leverage massive datasets sourced by our internal Threat Intelligence teams to create the core rating models that our customers use for assessing third-party risk and self-assessment. We also build LLM-powered systems for automating and accelerating cybersecurity risk assessment workflows.
+
+About the Role:
+
+As an ML Engineer, you will design and optimize machine learning algorithms, build scalable data pipelines, and deploy reliable models into production environments. You'll collaborate with cross-functional teams to integrate ML solutions into products, conduct research to stay ahead of emerging technologies, and ensure models perform optimally through ongoing monitoring and refinement. Your work will directly enhance cybersecurity resilience for organizations worldwide, making the world a safer place. If you’re passionate about solving complex problems and creating impactful solutions, this role offers the opportunity to make a significant impact while working in a dynamic, collaborative environment.
+
+Responsibilities:
+
+Technical Leadership: Establish best practices and share expertise through mentorship.
+Model Development: Design, train, and optimize machine learning models and algorithms.
+Data Pipeline Creation: Build and maintain scalable data pipelines to preprocess, clean, and transform raw data for analysis and model training.
+Model Deployment: Implement and manage models in production environments, ensuring scalability, reliability, and performance.
+Research and Experimentation: Stay updated on the latest machine learning techniques, tools, and frameworks to enhance model accuracy and efficiency.
+Collaboration: Work closely with data scientists, software engineers, and product teams to understand requirements and integrate ML solutions into products.
+Performance Monitoring: Continuously monitor, evaluate, and fine-tune models post-deployment to maintain accuracy and robustness.
+Documentation: Create clear and concise documentation for models, processes, and systems to support team collaboration and knowledge sharing.
+
+Required Qualifications:
+
+7+ years of experience or equivalent demonstrable skills in ML Engineering, Data Science or related discipline.
+Bachelor’s or Master’s degree in Computer Science, Engineering, Mathematics, Physics, or a related field.
+Strong programming skills in Python.
+Experience with machine learning frameworks such as PyTorch, TensorFlow, or Scikit-learn.
+Proficiency in data manipulation and analysis using tools such as Polars, Pandas, NumPy, or SQL.
+Solid understanding of algorithms, statistics, and data structures.
+Experience with cloud platforms (AWS, Azure, GCP) and containerization (Docker, Kubernetes).
+Knowledge of CI/CD pipelines and version control systems (e.g. Git).
+Familiarity with Linux/Unix command line tools.
+
+Preferred Qualifications:
+
+PhD degree in Computer Science, Engineering, Mathematics, Physics or a related field.
+Hands-on experience with LLMs, RAG, LangChain, or LlamaIndex.
+Experience with big data technologies such as Hadoop, Spark, or Kafka.
+
+Benefits:
+
+The estimated total compensation range for this position is $75,000 - $90,000 (USD base plus bonus). Actual compensation for the position is based on a variety of factors, including, but not limited to affordability, skills, qualifications and experience, and may vary from the range. In addition to base salary, employees may also be eligible for annual performance-based incentive compensation awards and equity, among other company benefits.
+
+SecurityScorecard is committed to Equal Employment Opportunity and embraces diversity. We believe that our team is strengthened through hiring and retaining employees with diverse backgrounds, skill sets, ideas, and perspectives. We make hiring decisions based on merit and do not discriminate based on race, color, religion, national origin, sex or gender (including pregnancy) gender identity or expression (including transgender status), sexual orientation, age, marital, veteran, disability status or any other protected category in accordance with applicable law. 
+
+We also consider qualified applicants regardless of criminal histories, in accordance with applicable law. We are committed to providing reasonable accommodations for qualified individuals with disabilities in our job application procedures. If you need assistance or accommodation due to a disability, please contact talentacquisitionoperations@securityscorecard.io.
+
+Any information you submit to SecurityScorecard as part of your application will be processed in accordance with the Company’s privacy policy and applicable law. 
+
+SecurityScorecard does not accept unsolicited resumes from employment agencies. Please note that we do not provide immigration sponsorship for this position.
+-----------------------------------------------------------------------------------

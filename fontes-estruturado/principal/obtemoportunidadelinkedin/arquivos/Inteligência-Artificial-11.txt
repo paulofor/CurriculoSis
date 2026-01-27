@@ -1,0 +1,249 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro(a) de Dados Sênior |Brasil
+
+Sobre a vaga
+Description
+
+Você na Deloitte
+
+Na Deloitte, buscamos pessoas que queiram gerar impactos positivos todos os dias. Impulsionamos talentos para que possam se desenvolver em um ambiente colaborativo, com times diversos e que tragam energia, empoderamento, interação e conexões. O nosso crescimento é exponencial porque os talentos que recrutamos possuem os nossos valores em suas essências. Liderar o caminho, fomentar a inclusão, colaborar para mensurar impactos, servir com integridade e cuidar uns dos outros são pontos essenciais e inegociáveis para fortalecer ainda mais o nosso propósito.
+
+Você terá a oportunidade de evoluir sua carreira na maior empresa de serviços profissionais do mundo como Consultor(a) de Dados no time de AI&DATA, aqui você terá a oportunidade de ser o protagonista de sua carreira, e de gerar impactos e transformações positivas em seu redor. Na sua rotina, você irá:
+
+Atuar em engenharia de dados para projetos de Modernização de Dados em diversas indústrias; Desenvolver e implementar pipeline de dados em diversas ferramentas e repositórios como: Spark/PySpark | Hadoop/Cloud | Talend | Informatica | Alteryx | MongoDB| SQL&PL/SQL |Phyton | CosmosDB| BigQuery |Git entre outras;
+Conectar e integrar sistemas legados com a Nuvem GCP. 
+Automatizar processos de ingestão, transformação e disponibilização de dados.
+Suportar projetos de Ciências de Dados e machine learning em ambiente GCP. 
+Possuir habilidade para trabalhar em multi plataformas e motivação para auto-aperfeiçoamento; Realizar estimativas de esforço de desenvolvimento e report ao gerente de projeto.
+
+Acordamos todos os dias para conectar pessoas, tecnologias e ideias, que vão construir e entregar soluções para os desafios das maiores empresas do Brasil e do planeta.
+
+Acreditamos na força dos talentos que preparamos. Eles transformam de fato, impactam organizações, impulsionam mais talentos e criam oportunidades. Que tal fazer parte da maior organização de serviços profissionais do mundo?
+
+Faz toda diferença contar com quem pode fazer dos sonhos, realidade.
+
+Escolha seu impacto!
+
+Requirements
+
+O que precisa para você se candidatar a vaga?
+
+Ter no mínimo curso superior completo da área de Exatas e afins;
+Inglês intermediário;
+Experiência em dados de forma quantitativa, manipulação de dados, modelagem de dados, Entender os conceitos de dados relacionais/não estruturados;
+Experiência em GCP (BiqQuery, Cloud Storage, Dataflow, Pub/Sub, etc);
+Familiaridade com as ferramentas de orquestração (Airflow/Cloud Composer);
+Experiências com integração de API´s, bancos relacionais e sistemas ERP.
+
+Será um diferencial se tiver:
+
+Experiência no setor elétrico;
+Conhecimento em DevOps (CI/CD).
+
+Benefits
+
+O que estará disponível para você?
+
+Desenvolvimento profissional 
+
+É claro que cuidaríamos do seu desenvolvimento aqui na Deloitte! Queremos que você alcance seus objetivos profissionais e pessoais e, por isso, contamos com Universidade Corporativa, acesso a plataformas online de aprendizado, plataforma de idiomas com mais de 7.500 conteúdos e cerca de 60 cursos divididos por nível, área de atuação, habilidades profissionais e interesses, e até uma plataforma que reúne diversas instituições de ensino, fornecendo descontos exclusivos para profissionais Deloitte e seus dependentes. 
+
+Além disso, oferecemos um plano de carreira estruturado, com mentoria de profissionais da Deloitte por meio de um(a) coach, que poderá ouvir seus desafios e apoiar para que consiga evoluir tanto com habilidades técnicas, quanto com habilidades comportamentais com base na própria experiência. É ótimo ter uma pessoa mentora, não é mesmo?
+
+Cuidados com o seu bem-estar 
+
+Aqui na Deloitte, acreditamos que saúde e bem-estar não são apenas projetos, e sim uma mudança de cultura. Queremos que você coloque em prática todo o seu talento e desenvolva uma carreira de sucesso com a gente, com equilíbrio entre Mente, Corpo e Propósito. Para isso, contamos com mais de 30 benefícios, como:
+
+Serviço de telemedicina para que você consiga fazer uma pré-avaliação sem precisar sair de casa! 
+Family Strategy: programa destinados à profissionais gestantes e futuros papais que terão todo apoio possível neste momento tão especial 
+Gympass para colocar os exercícios físicos em dia 
+Dia de folga no mês do seu aniversário, para celebrar uma das pessoas mais importantes de sua vida 
+Canal de apoio psicológico e Serviço Social 
+
+(Mais) Benefícios 
+
+Assistência médica e odontológica! Para que você faça check-ups e cuide de você, em primeiro lugar* 
+Participação nos lucros. Afinal, sem os nossos talentos, não poderíamos crescer exponencialmente 
+Auxílio-internet, para apoiar no trabalho em modelo híbrido 
+Seguro de vida* 
+Vale refeição / alimentação* 
+Pacote de benefícios flexíveis: você receberá pontos e poderá distribui-los entre as opções que melhor se adequam às suas necessidades de acordo com as regras do programa.
+
+Oportunidade de fazer parte de uma cultura inclusiva 
+
+Você pode ser quem realmente é com oportunidade igual de crescimento. Para reforçar esse compromisso, desenvolvemos a estratégia global ALL IN com os 8 pilares – Origens, Jovem Aprendiz, STEM, Delas, LGBT+, Inclui, No Borders e Geração 50+. Destacamos que todas as nossas vagas estão abertas ao público PcD.  
+
+Esperamos você neste time! 
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Consultor(a) de IA
+
+Sobre a vaga
+A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa.
+
+Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco.
+
+Papéis e Responsabilidades
+
+Avaliar processos e identificar oportunidades para aplicação de IA Generativa.
+
+Desenvolver estratégias de adoção e roadmaps alinhados ao negócio.
+
+Propor soluções conceituais e orientar a implementação de projetos de IA.
+
+Promover a capacitação das equipes e apoiar na gestão da mudança.
+
+Atuar como ponte entre áreas técnicas e de negócio.
+
+Aconselhar sobre governança, ética e melhores práticas em IA.
+
+Acompanhar tendências do mercado para recomendar soluções atualizadas.
+
+Qualificações Essenciais
+
+Formação superior em Ciência da Computação, Engenharia, Estatística, Matemática, Física, Administração com foco em tecnologia ou áreas relacionadas.
+Experiência prática na aplicação de IA/ML em contextos reais de negócio (tecnologia, produto ou consultoria).
+Conhecimento avançado em IA, Machine Learning, Deep Learning, Processamento de Linguagem Natural e/ou Visão Computacional.
+Familiaridade com as capacidades e limitações da IA Generativa (ex: LLMs).
+Habilidade para comunicar conceitos complexos de forma clara, com escuta ativa e adaptação ao público.
+Capacidade analítica, pensamento estratégico e orientação para resolução de problemas.
+Flexibilidade para entender rapidamente diferentes contextos e setores de atuação.
+
+Serão Considerados Diferenciais
+
+Familiaridade com ambientes de nuvem (AWS, Azure, GCP) e ferramentas de IA/ML.
+Conhecimento em gestão de projetos ou programas.
+Entendimento de práticas de governança, ética e regulamentações aplicadas à IA.
+Atuação em setores específicos como saúde, varejo, finanças, indústria ou educação.
+
+Nossa missão é Auxiliar as empresas a extrair todo o potencial de Dados e Digital objetivando aumentar seu desempenho, ajudando na transformação, gerando novas alavancas de crescimento e competitividade.
+
+Vem fazer parte do Time Keyrus!
+
+Se você quiser saber mais sobre nós, convidamos você a visitar nosso site: http://www.keyrus.com/br/
+
+Desejamos boa sorte! 😊🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Cientista de Dados Sênior / Híbrido - São Paulo
+
+Sobre a vaga
+REQUISITOS MANDATÓRIOS
+
+EXPERIÊNCIA
+
+5 anos de experiência como Cientista de Dados;
+Programação avançada em Python;
+Experiência prática na criação e avaliação de modelos de Machine Learning;
+Experiência com desenvolvimento Front-end (React, Vue.js ou similares);
+Domínio de bancos vetorizados (FAISS, Chroma, Pinecone, etc.);
+Experiência prática com RAG e integração com modelos de linguagem (LLMs);
+Capacidade de atuar no ciclo completo de produto: concepção, prototipagem e entrega;
+Experiência com ambientes em nuvem (AWS, GCP ou Azure),
+
+REQUISITOS DESEJÁVEIS
+
+Vivência com MLOps e ferramentas de CI/CD;
+Projetos com foco em IA generativa;
+Conhecimento em notas de avaliação de LLMs;
+Noções de UX/UI voltadas para a colaboração com o tempo de produto.
+
+ATRIBUIÇÕES
+
+Estamos em busca de um(a) Cientista de Dados Sênior, com forte base técnica e visão de produto, para atuar na construção de soluções de IA ponta a ponta, com foco em projetos estratégicos de alto impacto;
+Você fará parte de um tempo multidisciplinar, atuando em todo o ciclo — da concepção à entrega — com liberdade para criar, experimentar e gerar valor real para nossos clientes;
+Projetar e implementar pipelines de dados escaláveis e eficientes;
+Desenvolver e integrar modelos de machine learning, com foco em aplicações reais;
+Atuar na criação, treinamento e validação dos principais tipos de modelos:
+ Classificação
+ Regressão
+ Clusterização
+ Séries temporais;
+Aplicar técnicas de RAG (Retrieval-Augmented Generation) com bancos vetorizados;
+Contribuir no desenvolvimento de produtos com interface Front-end;
+Trabalhar em parceria com áreas de engenharia, produto e negócios.
+
+Sobre a CAPCO
+
+Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. 
+
+Pensamos, em conjunto, sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros.
+
+Nossas oportunidades são trabalhadas para todos(as)!!!
+
+
+
+Próximos Passos
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Especialista em Agentes de IA (Multiagentes)
+
+Sobre a vaga
+A Renova Invest é um conglomerado financeiro que atua como assessoria, consultoria, gestora e family office, com o propósito de entregar resultados superiores aos clientes e transformar o mercado financeiro. Somos referência em inovação, excelência e personalização, com um modelo de atendimento que coloca o cliente no centro de tudo.
+
+Estamos em buscando um(a) Especialista em Agentes de IA para liderar a criação e orquestração de agentes autônomos voltados à transformação do mercado financeiro.
+
+Atuação híbrida próximo ao metrô Faria Lima - São Paulo/SP
+Contratação: PJ
+
+RESPONSABILIDADES:
+• Criar e gerenciar agentes autônomos de IA com foco em atendimento ao cliente, produtividade interna, marketing e vendas.
+• Utilizar ferramentas como LangChain, CrewAI, AutoGen, Flowise, GPTs customizados, entre outras.
+• Integrar os agentes com sistemas como Salesforce, WhatsApp, e-mail, APIs financeiras, CRMs e ERPs.
+• Trabalhar com squads de tecnologia, CX e operações para automatizar fluxos e tomar decisões com base em dados.
+• Participar da estratégia de inovação da holding financeira, com liberdade criativa para propor soluções.
+
+REQUISITOS:
+• Experiência com orquestração de múltiplos agentes de IA.
+• Conhecimento prático em Python e bibliotecas como LangChain, AutoGen, ou equivalentes.
+• Domínio de ferramentas no-code/low-code como Zapier, Make ou n8n (diferencial).
+• Experiência com integrações via API.
+• Perfil hands-on, criativo e com espírito de startup.
+
+DIFERENCIAIS:
+• Ter montado bots/assistentes reais com uso de IA generativa.
+• Conhecimento do mercado financeiro ou fintechs.
+• Experiência com Salesforce + IA.
+• Portfólio de projetos (GitHub, vídeos, demos).
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+NEORIS é uma acelerador Digital que ajuda empresas a entrar no futuro, temos mais de 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Somos mais de 4.000 profissionais em 11 países, temos uma cultura de startup multicultural onde cultivamos inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes.
+
+Procuramos Cientista de Dados Sênior – Vaga Híbrida (Rio de Janeiro)
+
+Principais Responsabilidades
+
+Analisar grandes volumes de dados estruturados e não estruturados para gerar insights e apoiar decisões estratégicas.
+Desenvolver e implementar modelos preditivos e soluções de Machine Learning alinhadas aos desafios de negócio.
+Criar e manter pipelines de dados para análise, modelagem e disponibilização eficiente das informações.
+Comunicar descobertas, recomendações e resultados de forma clara e objetiva para diferentes públicos.
+Colaborar com equipes multidisciplinares para produtificar soluções de IA e garantir boas práticas de versionamento, testes e monitoramento de modelos em produção.
+
+Requisitos
+
+Proficiência em Python e SQL, com experiência em manipulação de grandes volumes de dados.
+Vivência com computação em nuvem (GCP e/ou AWS) e frameworks de Machine Learning (Scikit-learn, TensorFlow, PyTorch).
+Sólido conhecimento em estatística, testes de hipótese e técnicas de ML (classificação, regressão, séries temporais, etc.).
+Experiência em criação e manutenção de pipelines de dados e versionamento de código com Git.
+Capacidade de comunicação clara e assertiva de insights baseados em dados.
+Formação em Ciência de Dados, Estatística, Matemática, Computação, Engenharia ou áreas correlatas será considerada diferencial
+
+Oferecemos
+
+Vale Refeição e Vale Alimentação: Benefícios mensais para suas despesas com alimentação, dentro e fora de casa. 
+Previdência Privada: Planejamento de futuro com contribuição complementar à aposentadoria. 
+Plano de Saúde: Cobertura médica de alta qualidade para você e seu dependente legal. 
+Plano Odontológico: Cuidados odontológicos completos, com ampla rede de atendimento. 
+Seguro de Vida: Proteção e segurança para você e seus entes queridos. 
+Aulas de Inglês/Espanhol: Incentivo ao aprendizado de idiomas. 
+Wellhub: Benefícios e descontos em academias e programas de bem-estar. 
+Auxílio Creche: Suporte financeiro para despesas com educação infantil. 
+Neoris Global Campus: Plataforma de desenvolvimento com oportunidades contínuas de aprendizado e crescimento profissional. 
+
+Te convidamos a nos conhecer em http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+-----------------------------------------------------------------------------------

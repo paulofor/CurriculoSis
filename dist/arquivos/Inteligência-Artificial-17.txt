@@ -1,0 +1,273 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Machine Learning Pleno
+
+Sobre a vaga
+Sobre o Picpay:
+
+Com mais de dez anos de história, o PicPay é uma empresa de tecnologia que oferece um portfólio completo de serviços financeiros para facilitar a relação com dinheiro e ser a principal conta do dia a dia de milhares de pessoas e empresas.
+
+Atuamos em cinco frentes de negócios: Serviços Financeiros para Pessoa Física, Serviços Financeiros para Pessoa Jurídica, Marketplace Financeiro, PicPay Shopce Investimentos. Fundada em Vitória (ES), a empresa tem mais de 30 milhões de usuários ativos e faz parte do grupo J&F, um dos maiores conglomerados empresariais do Brasil.
+
+Nossa cultura é nosso alicerce e nossa força. Conheça nossos valores: Atitude de Dono(a), Disciplina, Determinação, Disponibilidade, Simplicidade, Humildade e Franqueza.
+
+O respeito, a ética e a busca pela equidade são elementos inegociáveis e fazem parte da prática no nosso dia a dia aqui no PicPay. Por isso, esta vaga está aberta para todas as pessoas, independente de gênero, religião, etnia, deficiência, idade, orientação sexual ou qualquer outro fator.
+
+Conheça mais sobre a unidade de negócio de Serviços Financeiros PF:
+
+Nossa unidade de negócio de Serviços Financeiros para Pessoa Física é responsável pelo ecossistema que vai desde carteira digital, PIX, PicPay Card, até a contratação de seguros. Por aqui, você fará parte da construção e desenvolvimento de produtos e serviços que simplificam a vida de milhões de brasileiros e empresas.
+
+Sobre a vaga:
+
+Trabalhamos focados em criar uma cultura data-driven, onde todas as decisões sejam realmente fundamentadas em dados de alta qualidade. O papel de um Machine Learning Engineer no PicPay é escalar e produtizar o uso de Ciência de Dados por meio do desenvolvimento de uma plataforma de Machine Learning robusta, abstraída e escalável. Somos apaixonados por dados e incansáveis na busca por inovar e expandir nossos limites tecnológicos e de atuação.
+
+Responsabilidade e atribuições
+
+Participar da identificação e planejamento de implementação de modelos junto ao time de Cientistas de Dados
+Apoiar o time de Ciência de Dados na aplicação de melhores práticas no desenvolvimento de projetos de modelos de machine learning (qualidade de código, padronização, versionamento, documentação, monitoramento, etc)
+Participar da Implementação de ferramentas com o objetivo de abstrair e otimizar as diversas etapas do processo de desenvolvimento de um modelo (data prep pipelines, treinamento, versionamento, documentação, deployment, monitoramento)
+Apoiar time de Data Science em exploração de novas tecnologias (libs, frameworks, etc.)
+
+Requisitos e qualificações
+
+Conhecimentos em Engenharia de Software
+Experiência em programação (Python é essencial, Go, etc)
+Conhecimentos em cultura devops (infra as code, CI/CD, serverless, etc)
+Entendimento de projetos de Ciência de Dados e suas particularidades
+Alguma experiência com ferramentas e frameworks de dados (Airflow, Spark, Pandas, etc)
+Alguma experiência com ferramentas e frameworks de ML (MLFlow, Sagemaker, etc)
+Experiência com metodologias ágeis
+Boa comunicação verbal e escrita
+Inglês intermediário
+
+Diferenciais
+
+Track record de participação em projetos e times que utilizam as técnicas e tecnologias citadas acima (ou equivalentes)
+Experiência em arquitetura de software
+Participação em projetos open source
+Experiência com programação funcional 
+
+O que oferecemos:
+
+Saúde e Bem-estar: Além de Assistência Médica e Odontológica, oferecemos Seguro de Vida e o Lado a Lado, um programa que cuida de você e seus familiares, com apoio jurídico, social, psicológico e financeiro.
+
+E claro, não podemos esquecer da nossa parceria com a Totalpass.
+
+Alimentação/ Mobilidade ou Teletrabalho: Por meio do nosso cartão de crédito PicPay Benefícios, com ampla aceitação, você recebe seu saldo de Alimentação/Refeição e Mobilidade ou Teletrabalho (de acordo com o seu contrato de trabalho).
+
+Licença Paternidade e Maternidade: Sabemos que esse é um momento especial para uma família, e por isso oferecemos Licença Maternidade estendida de 6 meses, e de Paternidade também estendida de 20 dias. Além disso, nossas mamães PicPay Lovers são acompanhadas pelo programa "Novo Ser", durante toda a gestação e no retorno da licença. Falando nisso, ao retornar da licença maternidade, as mamães ainda contam com a ajuda do Auxílio Creche e também os papais que possuem guarda unilateral ou compartilhada.
+
+Reconhecemos resultados: PPR- Participação nos Resultados do PicPay.
+
+#VemserPicpayLover #Picpay
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Data Base Admin & Analyst
+
+Sobre a vaga
+We seek a skilled database administrator to join our team at Forza Seguros.
+
+As a database administrator and analyst, you will be responsible for building and maintaining database systems and ensuring data security in our firm. Your role will also entail troubleshooting issues in our database management software and providing quick resolution. The ideal candidate will be highly skilled in all aspects of database management analytics, including mining, generation, and visualization. Additionally, this person should be committed to transforming data into readable, goal-oriented reports that drive innovation and growth.
+ You’ll be required to work individually as well as collaborate with developers, system admins and end-users to maintain databases. Thus, your ability to communicate fluently in one or more database management languages will be vital for project-related analyses.
+
+If you have a passion for data and technology, a strong analytical mindset and the ability to work in a fast-paced environment, we encourage you to apply.
+
+Join us at Forza Seguros if you want to reshape the technological environment with your ideas. We offer competitive remuneration, a friendly and encouraging atmosphere and support hybrid work. As an equal opportunity employer, we welcome candidates of all backgrounds to apply.
+ Objectives of this role
+· Design, install, configure and maintain database systems, including monitoring, tuning and troubleshooting issues.
+· Provide a seamless flow of information by keeping the database running smoothly.
+· Ensure data security and integrity, including implementation of access controls, backups and recovery plans.
+· Execute disaster recovery plans and procedures to ensure database availability during system outages or dysfunction.
+· Develop, implement, and maintain leading-edge analytics systems, taking complicated problems and building simple frameworks.
+· Identify trends and opportunities for growth through analysis of complex datasets.
+· Evaluate organizational methods and provide source-to-target mappings and information-model specification documents for datasets.
+· Create best-practice reports based on data mining, analysis, and visualization.
+· Evaluate internal systems for efficiency, problems, and inaccuracies, and develop and maintain protocols for handling, processing, and cleaning data.
+· Work directly with managers and users to gather requirements, provide status updates, and build relationships.
+ Responsibilities
+· Develop and maintain database documentation, including data standards, procedures and definitions for data elements and tables in the company.
+· Identify and implement database requirements for new or existing applications by working collaboratively with other teams.
+· Optimize database performance and efficiency by evaluating and recommending new database technologies.
+· Support users and developers by resolving data-related technical issues and troubleshooting queries by guiding them with best practices.
+· Execute regular database maintenance tasks, including database defragmentation, backups, and database replication.
+· Proactively analyze data to answer key questions for stakeholders or yourself, with an eye on what drives business performance, and investigate and communicate which areas need improvement in efficiency and productivity
+· Create and maintain rich interactive visualizations through data interpretation and analysis, with reporting components from multiple data sources
+· Define and implement data acquisition and integration logic, selecting an appropriate combination of methods and tools within the defined technology stack to ensure optimal scalability and performance of the solution.
+· Develop and maintain databases by acquiring data from primary and secondary sources, and build scripts that will make our data evaluation process more flexible or scalable across datasets.
+  Required skills and qualifications
+· Bachelor’s degree in Computer Science, Information Technology or a related field.
+· 3-5 years of experience in database administration and analytics or in a similar role.
+· Experience in database backup, disaster recovery planning, performance optimization and data security.
+· Knowledge of MySQL database management systems.
+· Strong analytical and problem-solving skills to provide quick solutions to issues.
+· Outstanding communication and collaboration skills to work in a team environment.
+· Design and implement innovative cloud database solutions on AWS, Azure, and traditional IaaS platforms.
+· Experience with database and model design and segmentation techniques.
+· Strong programming experience with frameworks, including XML, JavaScript, and ETL.
+· Practical experience in statistical analysis through the use of statistical packages, including Excel, SPSS, and SAS
+· Experience in cloud database technologies, like Amazon RDS or Microsoft Azure.
+· Knowledge of database automation tools such as Ansible, Puppet, Chef, etc.
+· Experienced with data visualization tools such as Tableau, Power BI or Metabase.
+ Preferred skills and qualifications
+· Ability to use a scripting language (like Python or Peri) to automate database administration tasks.
+· Experience with cloud services such as AWS and Azure.
+· Relevant database administration certificates, such as Oracle Certified Professional (OCP) or Microsoft Certified Database Administrator (MCDBA).
+· Fluent in English and Portuguese
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Revenue Operations
+
+Sobre a vaga
+Oláááááá, tudo bem?
+
+A gente sabe que é muuuuito chato ficar preenchendo estes formulários 😄, então pra deixar sua experiência um pouco melhor, a gente:
+- Não exige criação de cadastro/senha
+- Não tem provinha online
+- São só 3 perguntinhas mais demoradas, as outras perguntas são de resposta bem rápida
+
+Se você curte trabalhar com SaaS, trabalhar com muuuitos dados, empreender, quebrar a cabeça com problemas complexos, trabalhar com gente muito boa, se desenvolver extremamente rápido, com pessoas que realmente se importam qualidade do produto, curte muito SQL (beirando o Data Science) a SplitC é seu lugar.
+
+Somos um motor de cálculo que basicamente é muito bom em puxar dados de qualquer lugar e automatizar qualquer tipo de cálculo (sem precisar ficar criando código específico para clientes).
+
+Não é papo corporativão, aqui na SplitC você realmente tem oportunidade de crescer MUITO junto com a gente conforme você for puxando responsabilidades e resolvendo problemas maiores.
+
+Eu sei que não é Easy Apply mas topa preencher esse forms pra gente se conhecer melhor?
+https://tally.so/r/mYr46v?utm_campaign=linkedin-revops-2024-08-07
+
+
+- Full Remoto
+- Website: https://www.splitc.com.br/
+- Instagram: https://www.instagram.com/splitc.com.br
+- PJ ou CLT
+
+A Função
+Como RevOps focado em Growth Analytics, você será a referência principal em análises de receita e na plataforma HubSpot. Sua expertise em SQL será crucial para resolver desafios complexos e criar automações que aceleram processos. Diferente de muitos papéis, você não estará apenas executando tarefas rotineiras; você será fundamental para impulsionar o crescimento por meio de soluções criativas e eficientes.
+
+Mesmo que você não atenda a todos os requisitos listados, se você acredita que tem o que é necessário para fazer a diferença nessa função, gostaríamos muito de te conhecer mais.
+
+Requisitos
+- Conhecimento intermediário em SQL e CRM (HubSpot, RD, entre outros).
+- Habilidade para resolver problemas com criatividade e adaptar soluções conforme necessário.
+- Experiência com automações para otimizar processos.
+- Formação em Engenharia ou áreas afins.
+- Inglês intermediário para comunicação eficaz e desenvolvimento contínuo.
+
+O que você fará:
+- Atuar como a referência de analytics na área de Revenue, fornecendo insights valiosos e orientando decisões estratégicas.
+- Ser o especialista em HubSpot, otimizando o uso da plataforma para impulsionar o crescimento e a eficiência.
+- Aplicar suas habilidades em SQL para realizar análises profundas e resolver problemas complexos de dados.
+- Demonstrar sua habilidade em encontrar e implementar soluções criativas para desafios operacionais e analíticos.
+- Criar e gerenciar automações que aceleram processos e melhoram a agilidade da equipe.
+
+Diferenciais se tiver:
+- Experiência com SaaS B2B
+- Conhecimento em dados de marketing e vendas
+- Experiência com Ferramentas de BI
+
+We want YOU to build this from scratch with us!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Sr. Machine Learning Engineer - IBP
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Actively contribute to code development in projects and services, leading and coaching ML engineers and data scientists.
+Act as a contributor in innovation activities.
+Work with data scientists, IBP process leads, and BU subject matter experts to identify data clusters for optimal forecasting performance.
+Partner with data scientists on discovery, prototypes, and pilot projects, focusing on experiment tracking and translating business models to ML/statistical models.
+Collaborate with IBP market deploy and sustain teams to design, implement, and test pre-processing and post-processing modules for improved demand forecasts.
+Work with data engineers to ensure proper data access and preparation for model consumption.
+Partner with ML engineers and data scientists on industrialization efforts.
+Drive the use of the Platform toolset and demonstrate 'the art of the possible' to the business.
+Communicate with business stakeholders during service design, training, and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Research state-of-the-art methodologies and techniques for feature engineering and model data preprocessing.
+
+Qualifications
+
+What you will need to succeed
+
+4+ years working in a team to deliver production level analytic solutions - Fluent in git (version control) and with Docker.
+4+ years’ experience in ETL and/or data wrangling techniques - Fluent in SQL syntaxis.
+4+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. 
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or Scala development.
+Effective business storytelling and communicating data insights in business consumable format - Fluent in one Visualization tool.
+Experience with Agile methodology for team work and analytics ‘product’ creation - Fluent in Jira, Confluence.
+On-the-job experience with Azure cloud services is essential.
+
+Additional qualifications that will make you stand out for this position
+
+Experiences with Deep Learning are a plus.
+experience building solutions in the revenue management or in the supply chain space.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+DESCRIÇÃO DA VAGA
+Nosso time é formado por excelentes profissionais da área da tecnologia.
+
+Colaboração e comprometimento fazem parte do nosso dia-a-dia, quando desenvolvemos novas funcionalidades, construindo um produto robusto e escalável.
+
+Fazendo parte de nossa equipe, seu trabalho irá impactar em milhares de usuários que utilizam nossa solução diariamente.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atividades
+
+Atuar no download e aplicação de vacinas e correções no Anti-Malware em estações de trabalho;
+Administrar os recursos de infraestrutura de Segurança da Informação;
+atualizações Microsoft, Firewall, Anti-Spam, Anti-Malware, Privileged Access;
+Management (PAM) e filtros de conteúdo para acesso à Internet e Dashboards;
+ Monitorar a console de atualizações Microsoft, Anti-Malware e Anti-Spam e realizar os ajustes necessários.
+
+REQUISITOS E QUALIFICAÇÕES
+Formação:
+Nível superior na área de Ciência da Computação ou áreas afins.
+
+Conhecimento Técnico exigido: 
+Python, SQL, governança de dados, Json, web scrapping, ETL, Spark, Hadoop e Nifi, experiência com análise, preparo e modelagem de dados.
+
+Certificação:
+Não é exigida.
+
+INFORMAÇÕES ADICIONAIS
+Nossos benefícios:
+
+Plano de Saúde;
+Plano Odontológico;
+Seguro Prudential: é concedido ao colaborador, de forma gratuita o seguro de vida, auxílio funeral e cesta natalidade, conforme regras específicas da seguradora;
+Vale Refeição ou Vale Alimentação;
+Vale Transporte: é concedido ao colaborador, para uso no trajeto residência – trabalho – residência, e será descontado mensalmente o percentual de 6% sob o valor do salário, limitado ao valor do benefício (opcional);
+Day off: será concedido ao colaborador folga em virtude do dia do aniversário, devendo este ser usufruído na mesma data e/ou no mês do aniversário;
+Convênios e Parcerias (Instituições de Ensino, Academias, Cursos de Idiomas entre outros);
+Ginástica Laboral.
+-----------------------------------------------------------------------------------

@@ -1,0 +1,255 @@
+[Oportunidade 1]
+Oportunidade: Data Engineer | Senior
+
+Sobre a vaga
+Descrição da Vaga
+
+Responsibilities and assignments
+
+Desenvolver e otimizar pipelines de dados para ingestão, transformação e carga (ETL) de dados em ambientes distribuídos e em tempo real;
+Criar sistemas para coletar e armazenar dados;
+Construir processos de agregação e transformação de dados para fins analíticos.
+
+Requirements And Qualifications
+
+Experiência na criação/sustentação de pipelines de ETL para bases de dados analíticas;
+Domínio do Azure Databtricks, Pyspark e Spark SQL;
+Familiaridade com Azure Data Factory, Azure Dataflow e Sinapse Analytics;
+Domínio em SQL (DML, DDL, DQL);
+Habilidades no desenvolvimento de processos ETL e workflows;
+Conhecimentos avançados na linguagem Python;
+Domínio do Git Workflow (Git, Git Hub);
+Geração de scripts;
+Experiência com virtualização de dados de fontes diversas: SQL, NoSQL, ServiceNow, arquivos etc.);
+Habilidade para realizar análise de negócio e levantamento de requisitos e regras com o cliente; 
+Diferenciais: Familiaridade com banco de dados Oracle, SQL-Server, PostgreSQL, consumo de API¿s, arquivos CSV/JSON, metadados de arquivos binários etc; Experiência com leitura, processamento e manipulação de dados em arquivos, stored procedures, banco de dados Oracle/SQLServer; Experiência com ingestão e migração de bases de dados do legado para nuvem: Oracle/SQL-Server/PostgreSQL on Premise
+
+Não possui todos os requisitos para a vaga?
+
+Está tudo bem! Na Compass UOL, estimulamos o desenvolvimento contínuo de novos talentos e transformamos desafios em oportunidades.
+
+
+Informações Adicionais
+
+#remote
+
+"remote"
+
+Nós somos a Compass.
+
+Projetamos e construímos plataformas nativas digitais usando tecnologias de ponta para ajudar empresas líderes globais a inovar, transformar seus negócios e prosperar em seus setores.
+
+Nosso Norte é criar coisas que ninguém jamais imaginou que seriam possíveis.
+
+E fazemos isso porque temos pessoas criativas e incríveis com a gente! 😊
+
+Se você quer fazer parte de um time com mais de 4.000 profissionais ao redor mundo, completamente apaixonados pelo que fazem, junte-se a nós e torne-se um Compasser!
+
+Aqui nós prezamos e valorizamos a diversidade em todos os âmbitos da nossa cultura e por isso todas as nossas vagas são também destinadas a Pessoas com Deficiência e/ou beneficiários reabilitados.
+
+Nós estamos esperando por você.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor(a) Back-End
+
+Sobre a vaga
+Nossa missão é levar o cliente à sua melhor versão!
+
+Para isso, precisamos de você para atuar como Desenvolvedor(a) Back-End (Contratação PJ)
+
+Quem é a Bext?
+
+A Bext é uma fintech multibancos, especializada no mercado de crédito (empréstimos e financiamentos). Atendemos tanto o público B2C quanto o B2B. Além disso, contamos com um braço educacional (conteúdos e cursos) e oferecemos ferramentas (softwares para terceiros).
+
+Quer saber mais sobre nós?
+
+Instagram: @Bext.vc
+YouTube: BextPlay
+Site: www.bext.vc
+
+Responsabilidades e atribuições:
+
+Projetar e implementar a arquitetura de software de sistemas back-end;
+Desenvolver e manter aplicações utilizando Express.js, Nest.js, TypeScript e Node.js;
+Integrar e gerenciar serviços de backend com Firebase e MongoDB;
+Garantir a qualidade do código através de testes unitários e revisão de código;
+Implementar e manter práticas de versionamento de código utilizando Git;
+Colaborar com outras equipes para definir requisitos técnicos e funcionais;
+Fornecer orientação técnica e mentoria para desenvolvedores juniores.
+
+Requisitos e qualificações:
+
+Experiência comprovada como Desenvolvedor Back-End;
+Proficiência em Express.js e Nest.js;
+Sólidos conhecimentos em TypeScript e Node.js;
+Experiência com Firebase e MongoDB;
+Habilidade em escrever e manter testes unitários;
+Familiaridade com práticas de versionamento de código usando Git;
+Excelentes habilidades de resolução de problemas e capacidade de trabalhar em equipe;
+Capacidade de comunicar ideias técnicas complexas de forma clara e eficaz.
+
+O que esperamos que você conheça:
+
+Express.js;
+Nest.js;
+TypeScript;
+Node.js;
+Firebase;
+MongoDB;
+Testes unitários;
+Versionamento de código com Git.
+
+Diferenciais do Candidato:
+
+Experiência com outras tecnologias e frameworks de backend;
+Conhecimento em DevOps e práticas de CI/CD;
+Experiência em ambientes ágeis.
+
+O que oferecemos: 
+
+Todas as ferramentas necessárias para a função;
+Salário + variável por metas e projetos (PJ);
+Ambiente completo e Plano de Carreira.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Especialista em Inteligência Artificial
+
+Sobre a vaga
+BIREME/OPAS está iniciando um projeto para desenvolver uma biblioteca digital de ponta que aproveite os mais recentes avanços em transformação digital, Indústria 4.0 e inteligência artificial. A nova biblioteca digital visa fornecer uma plataforma intuitiva, envolvente e centrada no usuário que melhore o acesso à informação e apoie a aprendizagem ao longo da vida. Para alcançar isso, buscamos um desenvolvedor de carreira intermediária, com forte formação técnica e experiência na implementação de soluções digitais para sistemas de informação em larga escala.
+O objetivo principal desta posição é projetar, desenvolver e implementar soluções digitais que materializem a visão da nova biblioteca digital. O desenvolvedor trabalhará em estreita colaboração com equipes multifuncionais para garantir a entrega bem-sucedida de uma plataforma de biblioteca digital robusta, escalável e amigável.
+
+Responsabilidades:
+1. Projetar, desenvolver e manter a infraestrutura de software da biblioteca digital:
+Escrever código limpo, eficiente e bem documentado usando linguagens de programação como Python, Java, C++ e JavaScript.
+Utilizar frameworks e ferramentas de desenvolvimento de software como Django, React, Angular e Node.js.
+2. Gestão de Dados e Análise:
+Implementar soluções de análise de dados, mineração de dados e visualização de dados.
+Desenvolver e manter motores de busca alimentados por IA e sistemas de marcação de metadados.
+Utilizar análises de big data para obter insights sobre o comportamento do usuário e otimizar os serviços da biblioteca.
+3. Integração de Aprendizado de Máquina e IA:
+Integrar algoritmos de aprendizado de máquina, processamento de linguagem natural (NLP) e visão computacional na biblioteca digital - Desenvolver ferramentas impulsionadas por IA para recomendações de conteúdo personalizadas, caminhos de aprendizagem adaptativos e melhorias de acessibilidade. 
+4. Computação em Nuvem e Gestão de Infraestrutura:
+Implementar soluções de computação em nuvem escaláveis usando plataformas como AWS, Microsoft Azure e Google Cloud Platform.
+Gerenciar a infraestrutura em nuvem para garantir alta disponibilidade, desempenho e segurança.
+Otimizar o uso de recursos e melhorar o desempenho do sistema usando ferramentas de gestão de infraestrutura impulsionadas por IA.
+5. Design de Experiência do Usuário (UX) e Interface do Usuário (UI):
+Colaborar com designers de UX/UI para criar interfaces intuitivas e envolventes.
+Implementar princípios de design responsivo para garantir acesso contínuo em todos os dispositivos.
+Melhorar a navegação, funcionalidades de busca e a experiência geral do usuário. 
+6. Colaboração e Interoperabilidade:
+Desenvolver e integrar APIs para troca de dados sem interrupções com outras plataformas.
+Implementar ferramentas e plataformas colaborativas para apoiar atividades de pesquisa e aprendizagem.
+Garantir a interoperabilidade com sistemas existentes e a conformidade com os padrões da indústria.
+7. Preservação Digital e Sustentabilidade:
+Implementar técnicas automatizadas de preservação digital para proteger ativos digitais.
+Adotar práticas sustentáveis no armazenamento e gestão de dados.
+Garantir conformidade com regulamentos de proteção de dados e padrões éticos.
+
+Habilidades: 
+Proficiência em linguagens de programação como Python, Java, C++ e JavaScript.
+Fortes habilidades em análise de dados, aprendizado de máquina, processamento de linguagem natural e frameworks de IA.
+Experiência com plataformas de computação em nuvem e gestão de infraestrutura.
+Conhecimento de tecnologias de desenvolvimento web e gestão de banco de dados.
+
+Educação: Bacharelado ou mestrado em Ciência da Computação, Engenharia de Software, Ciência de Dados, Tecnologia da Informação ou área relacionada.
+
+Experiência: Mínimo de 5 anos de experiência em desenvolvimento de software, gestão de dados ou funções relacionadas. Experiência comprovada em desenvolver e implantar aplicações web em larga escala ou plataformas digitais. Desejável experiência anterior em sistemas de bibliotecas, repositórios digitais ou projetos de tecnologia educacional é uma vantagem.
+
+Idiomas: Conhecimentos de língua espanhola e inglesa
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Especialista Tecnologia ( IA Generativa para Criação de Prompt ) - Curitiba PR
+
+Sobre a vaga
+Que tal construir a sua carreira em uma das maiores companhias de alimentos do mundo?
+
+Venha trabalhar na BRF! Uma empresa que está presente na vida de milhares de famílias ao redor do mundo. Dos momentos mais simples até os mais especiais, nós ajudamos a deixar a vida de muita gente mais saborosa.
+
+Descrição do Cargo
+
+ Educação: 
+
+Graduação em áreas como Ciência da Computação, Linguística Computacional, Comunicação, Psicologia ou afins.
+
+Cursos e certificações específicos em IA, aprendizado de máquina, ou processamento de linguagem natural (NLP).
+
+ Experiência: 
+
+Experiência com modelos de linguagem de grande escala (LLMs), como GPT-3, GPT-4, ou outros modelos de NLP.
+
+Experiência prática em criação, teste e otimização de prompts para modelos de IA generativa.
+
+Histórico de trabalho em projetos que envolvem a interação entre humanos e IA, como chatbots ou assistentes virtuais.
+
+ Habilidades Técnicas: 
+
+Conhecimento profundo de técnicas de NLP e de como os modelos de linguagem processam e geram texto.
+
+Proficiência em Python e familiaridade com bibliotecas e frameworks de NLP, como Hugging Face Transformers.
+
+Experiência com ferramentas de anotação e análise de texto.
+
+Capacidade de experimentar e ajustar prompts para maximizar a eficácia e relevância das respostas geradas pelo modelo.
+
+ Outras Competências: 
+
+Excelentes habilidades de comunicação escrita e verbal.
+
+Capacidade de entender e capturar nuances e contextos linguísticos.
+
+Habilidades analíticas para avaliar a qualidade e a precisão das respostas geradas.
+
+Criatividade e pensamento crítico para desenvolver prompts que atendam a diversas necessidades e cenários.
+
+Inscreva-se agora e faça parte da BRF!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Desenvolvedora Sênior
+
+Sobre a vaga
+Quer fazer parte de um time alta performance?
+ A Neogrid é um ecossistema de tecnologia e inteligência de dados que ajuda a empresas a venderem mais, com mais margem.
+
+Estamos em busca de pessoas com foco em performance, operando por métricas de negócios reais e acionáveis, e que nos ajude a garantir o desenvolvimento ágil de produtos e tecnologias
+ Na Neogrid, temos o desafio de entregar os melhores resultados com dedicação e excelência, nos desafiando cada vez mais todos os dias!
+
+Aqui, você terá a oportunidade de entregar o seu valor, ajudando os maiores players do mercado nacional no desafio de vender mais, com mais margem!
+
+
+Se você se identificou, temos o desafio certo para você!
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Nesta oportunidade, você irá:
+
+Liderar projetos de desenvolvimento de software, desde a concepção até a implementação e entrega;
+Colaborar com equipes multidisciplinares para desenvolver e manutenir soluções inovadoras;
+Participar na arquitetura de sistemas e tomar decisões técnicas;
+Desenvolver e manter código de alta qualidade, garantindo a escalabilidade, segurança e desempenho;
+Solucionar problemas complexos, realizar revisões de código e fornecer orientação técnica a membros da equipe;
+Instruir e desenvolver pessoas do time de menor senioridade;
+Manter-se atualizado com as tendências tecnológicas e propor adoção de novas tecnologias e melhores práticas;
+Participar de processos de Code Review, visando garantir a qualidade do código e os padrões do time;
+Participar de refatoração de códigos e otimização de consultas SQL;
+Desenvolver e manter pipelines de CI/CD;
+Desenvolver testes.
+
+
+REQUISITOS E QUALIFICAÇÕES
+Para isso, é importante que você tenha>
+
+Experiência prévia em desenvolvimento de sistemas de alta complexidade;
+Sólido conhecimento em linguagens de programação;
+Habilidades em resolução de problemas e depuração;
+Excelentes habilidades de comunicação;
+Capacidade de liderar projetos.
+
+Será um Plus se você tiver:
+
+Experiência em desenvolvimento Python;
+Experiência em FastAPI;
+Conhecimentos em Kafka, Redis, Docker e Kubernetes;
+Conhecimentos em Testes Automatizados;
+Desejável experiência em design e arquitetura de sistemas;
+Conhecimento em metodologias de desenvolvimento ágil (Scrum,Kanban);
+Superior completo em Ciência da Computação, Engenharia de Software ou áreas relacionadas.
+-----------------------------------------------------------------------------------

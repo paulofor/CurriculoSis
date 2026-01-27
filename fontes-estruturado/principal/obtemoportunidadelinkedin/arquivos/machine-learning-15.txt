@@ -1,0 +1,374 @@
+[Oportunidade 1]
+Oportunidade: MOTIVA l CONSULTOR(A) INTELIGENCIA ARTIFICIAL
+
+Sobre a vaga
+Job Description
+
+Quer mover a sua carreira na Motiva?
+
+A Motiva é o lugar certo para o seu talento, onde você pode escolher o caminho que deseja seguir juntamente com uma empresa que melhora a vida das pessoas através da mobilidade. Nos comprometemos em construir uma cultura cada vez mais diversa e valorizamos a inclusão de todas as pessoas independente de cor, etnia, religião, idade, identidade de gênero, orientação sexual ou deficiência, promovendo um ambiente inclusivo e com equidade de oportunidades.
+
+Responsibilities and assignments
+
+O Consultor de Inteligência Artificial será responsável por assegurar a implementação e otimização de soluções baseadas em IA, trabalhando em estreita colaboração com equipes multidisciplinares para identificar oportunidades de inovação e melhorias nos processos. Este profissional será um facilitador no processo de transformação digital da empresa, aplicando tecnologias de IA para resolver desafios específicos de negócio;
+
+Assegura os produtos e serviços tecnológicos inerentes à IA e GenAI entregues para a organização, definindo padrões e provendo direcionamentos técnicos, por meio da atuação matricial com as demais estruturas de tecnologia, gerando eficiência, estabilidade e escalabilidade por meio da simplificação dos parques aplicacionais e tecnológicos;
+
+Identificar áreas prioritárias onde a IA pode agregar valor significativo;
+
+Desenvolver um roadmap para a implementação de soluções de IA;
+
+Assegurar a disseminação de práticas de Inovação, IA e GenAI, habilitando eficiência e geração de valor, respeitando as características e contexto de cada um;
+
+Participar e liderar ativamente o tema de IA e GenAI nas decisões de tecnologia;
+
+Garantir a implantação de ações necessárias para a Transformação Digital, sob sua responsabilidade, incluindo a elaboração de business cases;
+
+Garantir o cumprimento das questões contratuais exigidas pelos poderes concedente, bem como atendimento às fiscalizações, auditorias internas e externas no escopo de responsabilidade;
+
+Estimular e engajar as equipes na adoção de novos modelos de trabalho e organização que permitam maior produtividade e melhores resultados para os negócios alinhado às estratégias de Tecnologia e da Motiva.
+
+Requirements And Qualifications
+
+O que esperamos de você:
+
+✅Ensino Superior completo em Engenharia da Computação, Ciência da Computação, Analise de Sistemas, Sistemas de Informação, Gestão em Tecnologia da Informação, Superior Tecnólogo e Análise e Desenvolvimento de Sistemas, e outras formações em Ciências Exatas como Matemática, Estatística ou Engenharia.
+
+✅Domínio de mecanismos, conceitos e linguagem de acesso a bases de dados relacionais, hierárquicos ou multidimensionais, matemática e estatística avançados, linguagens de programação de alto e baixo nível como Python, R, Java, C, C++ e outros, método científico para construção de cenários e testes de hipóteses, metodologias de desenvolvimento ágil como Scrum ou eXtreme Programming, métodos, conceitos e ferramentas de IA (Inteligência Artificial) e Machine Learning, e metodologias e ferramentas para soluções de negócio como Design Thinking e Business Model Canvas;
+
+✅Conhecimento e experiência na aplicação de ferramentas e técnicas de Inteligência Artificial Generativa (GenAI);
+
+✅Conhecimentos em arquiteturas de dados e gerenciadores de bancos de dados como Oracle, SQL Server, MongoDB, MySQL e outros, DevSecOps (método e ferramentas), e trabalho com ambientes em nuvem, principalmente AWS e Azure;
+
+✅Inglês avançado.
+
+Você Se Destaca, Se Tiver
+
+✅Conhecimento e experiência em processos de Inovação e ciclos de Inovação;
+
+✅Orçamentação e modelagem econômico-financeira;
+
+✅Certificações e prática em metodologias para gestão de projetos;
+
+✅Experiência em desenvolvimento de estudos para M&A e lançamento de novos negócios ou produtos;
+
+✅Conhecimento profundo de negócios de infraestrutura com visão ampliada sobre modelos de concessões públicas, seus processos e sua dinâmica operacional, além da observância contratual e regulatória;
+
+✅Conhecimento e experiência em Gestão de Projetos, incluindo a condução e liderança de equipes multidisciplinares, tanto técnicas quanto de negócio, na implantação e execução de projetos complexos;
+
+✅Conhecimento e experiência de atuação nas áreas de Negócio da Motiva (Rodovias, Mobilidade e Aeroportos).
+
+Additional information
+
+Ao entrar para o nosso time integrado, você fará parte de uma empresa presente em 13 estados do país e que movimenta milhares de pessoas diariamente ao oferecer mobilidade de forma íntegra e que gera impacto positivo na sociedade. Aqui, você encontrará diversos benefícios para apoiar o seu desenvolvimento e dar mais movimento para a sua carreira.
+
+Confira Os Benefícios Que Oferecemos
+
+🩺 Assistência Médica-Hospitalar;
+
+🦷 Assistência Odontológica;
+
+🤝 Seguro de Vida;
+
+🍝 Vale Refeição ou Alimentação;
+
+🚇 Vale Transporte ou Estacionamento no local;
+
+☂️Previdência Privada;
+
+🫄Licença Estendida: maternidade 180 dias e paternidade 20 dias;
+
+👶 Auxílio Creche;
+
+💪 Wellhub (Gympass);
+
+🎂 Day off aniversário (Folga);
+
+📈 PLR (Participação nos lucros ou resultados);
+
+⏰ Política de flexibilidade na jornada de trabalho, e muito mais!
+
+Quer melhorar a vida das pessoas através da mobilidade e contribuir para chegarmos ainda mais longe? Então, traga o seu talento para a Motiva.
+
+SOBRE A MOTIVA
+
+A Motiva é feita de pessoas interessadas em contribuir para o nosso propósito: melhorar a vida das pessoas através da mobilidade.
+
+Somos referência em infraestrutura de mobilidade no Brasil, liderando o setor com foco na criação de valor sustentável e melhorando a vida das pessoas através da mobilidade. Atuamos em serviços de infraestrutura para mobilidade, focados nos segmentos de concessão de rodovias, trilhos e aeroportos.
+
+São mais de 17 mil colaboradores responsáveis pela gestão e manutenção de 3.906 quilômetros de rodovias, por onde circulam cerca de 2 milhões de veículos, diariamente. Nos trilhos, administramos serviços de transporte de passageiros de metrôs, trens e VLT, transportando diariamente, 3 milhões de passageiros. E no segmento de aeroportos, com 20 terminais sob nossa gestão, atendemos mais de 40 milhões de clientes anualmente.
+
+Para que os clientes possam chegar em segurança nos seus destinos, a Motiva investe em práticas que reforçam o compromisso com o meio ambiente, com o social e com a governança, construindo infraestrutura, implementando serviços e oferecendo oportunidades.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Staff Data Scientist / ML Engineer
+
+Sobre a vaga
+Data Scientist / ML Engineer (Staff)
+
+Who We Are
+
+Welcome to TELUS Digital, where innovation meets impact. As an award-winning digital product consultancy, we're shaping the future of digital experiences through cutting-edge technology, agile thinking, and a culture that puts people first.
+
+We are the global digital section of TELUS, one of Canada’s largest telecommunications providers. Our global teams deliver transformative digital solutions and customer experiences for industry leaders in consumer electronics, finance, telecommunications, and utilities. With robust multi-shore delivery capabilities, multi-language programs, and secure infrastructure, we ensure exceptional service backed by our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+As a Data Scientist / Machine Learning Engineer on our team, you'll design, develop, and deliver machine learning solutions, decipher loosely defined problems using complex datasets, and determine appropriate analytical and modeling techniques. You'll analyze structured and unstructured data, establish automated processes for large-scale modeling, perform exploratory analysis, and collaborate with peers on data acquisition and exploration, demonstrating a strong sense of ownership and urgency.
+
+Responsibilities
+
+Work on all aspects of the design, development and delivery of machine learning enabled solutions for our clients;
+Come up with solutions to loosely defined business problems by leveraging pattern detection over complex datasets across multiple platforms;
+Establish efficient, automated processes for large-scale modeling;
+Become part of a highly skilled and geographically distributed team;
+Collaborate with peers on problem definitions, data acquisition, data exploration, visualization as well as building the tools that support this process;
+Strong sense of ownership, urgency and drive.
+
+Qualifications
+
+Relevant experience in data science/ machine learning development
+Bachelor and/or Master degree in Statistics, Mathematics, Physics, Computer Science or other related subject.
+Proficiency in Python.
+Experience with machine learning frameworks (like Keras, TensorFlow, or PyTorch) and libraries (like scikit-learn).
+Strong understanding of machine learning algorithms, processes, tools and platforms.
+Ability to work on distributed cloud platforms
+Fluent English
+
+Bonus Points
+
+Experience with container management and machine learning deployment frameworks, such as Kubernetes, Kubeflow and MLFlow.
+Software development experience from scoping, requirements design, development, integration, testing, go live to PROD (vs internal research work)
+
+Why TELUS Digital?
+
+At TELUS Digital, you'll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that Information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Dados Sênior | Monee
+
+Sobre a vaga
+About The Team
+
+Sobre a Shô
+
+Aqui na Shô, acreditamos que cada membro de nossa equipe é fundamental para o nosso sucesso, e que diversidade de perspectivas e vivências são essenciais para movimentar nosso negócio e impulsionar o nosso propósito de mudar o mundo para melhor. Fazer parte do nosso time é a oportunidade de se desenvolver dentro de uma cultura de muita agilidade. Se você ama assumir grandes responsabilidades e fazer o que nunca foi feito, a Shô é seu lugar. Aqui você terá grandes desafios, trabalhará em colaboração com um time diverso e contribuirá para o futuro do e-commerce no Brasil, criamos impacto positivo na vida de milhões de pessoas.
+
+Modelo de Trabalho
+
+Adotamos um modelo de trabalho híbrido, esse modelo permite que as pessoas ajustem seu ambiente de trabalho de acordo com suas necessidades pessoais, ao mesmo tempo em que promove a colaboração e interação no escritório.
+
+Job Description
+
+Qual será a sua missão:
+
+Responsável por desenvolver e otimizar as camadas de coleta, integração e armazenamento de dados do Monee. O Engenheiro de Dados construirá pipelines de dados que transformam dados brutos em conjuntos de dados valiosos, facilitando a análise e atendendo aos requisitos de negócios e à geração de insights. Especializado em projetos de Big Data e Analytics, com baixa latência de consumo.
+
+Como Será o Seu Dia a Dia
+
+Aplicar conceitos e melhores práticas de engenharia de software, incluindo pensamento estruturado,
+
+reutilização e modularização;
+
+Criar pipelines de dados e rotinas de automação de processos, integrando diferentes camadas de dados, usando Python, Airflow, Kubernetes e SQL;
+Identificar oportunidades de aquisição de dados e realizar análises de dados;
+Analisar e organizar dados brutos, combinando informações de diferentes fontes;
+Interpretar tendências e padrões nos dados coletados;
+Explorar maneiras de melhorar a qualidade dos dados e prepará-los para modelagem prescritiva e preditiva;
+Realizar análises básicas de dados e gerar relatórios sobre os resultados dos processos de ELT;
+Aplicar as melhores práticas de engenharia de software ao desenvolver pipelines de dados;
+Avaliar as necessidades e metas do negócio e determinar como os dados da empresa podem ser usados para atingir os objetivos.
+
+Requirements
+
+O que você precisa para assumir o desafio:
+
+Bacharel em Ciência da Computação, Engenharia da Computação, TI ou áreas afins;
+Python, SQL, Shell Script;
+Versionamento de código e gerenciamento de mudanças usando Gitlab CI/CD;
+Manipulação de arquivos usando Python: CSV, Excel, Planilhas Google, Parquet;
+Estratégias de empacotamento Python usando ambiente virtual Linux;
+Desenvolver automação de processos e pipelines de dados (ELT) usando Airflow;
+Bancos de dados relacionais, modelagem ER;
+Kubernetes para gerenciamento de contêineres Docker;
+Comunicação com APIs de dados usando Python;
+Hadoop e Hive, conceitos e arquitetura do Spark;
+Conceitos de segurança de dados;
+Excelentes habilidades de comunicação verbal e escrita;
+Conhecimento avançado da língua inglesa.
+
+Benefícios
+
+Assistência médica e odontológica, estendendo-se aos dependentes;
+Parceira com Gympass e TotalPass;
+Vale Refeição/Alimentação flexível;
+Vale Transporte, Vale Mobilidade ou Estacionamento no local;
+Benefício flexível;
+Zenklub;
+Bônus anual discricionário, atrelado à performance.
+
+ VEM FAZER HISTÓRIA COM A GENTE. 
+
+O QUE TE FAZ ÚNICO, NOS FAZ MELHORES! 🧡
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Especialista em Engenharia de Dados I
+
+Sobre a vaga
+Company Description
+
+A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.
+
+Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.
+
+Job Description
+
+Liderar projetos de dados desde o mapeamento de requisitos, até a modelagem de arquitetura e disponibilização dos dados
+Contribuir para o design, documentação, manutenção, monitoramento e otimização de nossos códigos e ferramentas de dados
+Integração de dados em tempo real em streamming
+Identificar oportunidades de melhorias na nossa plataforma de ETL/ELT
+Construir pipeline de dados utilizando os frameworks Databricks - Spark (Python/ Scala)
+Traduzir as necessidades de negócios em soluções alinhadas com as ferramentas e estratégias da plataforma de dados
+
+Qualifications
+
+Ser capaz de escrever queries em SQL para resolver problemas de alta complexidade de forma otimizada
+Vivência em implementação e manutenção de pipelines de dados, principalmente desenvolvidos em PySpark
+Conhecimentos sobre diferentes técnicas de arquitetura e modelagem de Banco de Dados para fins analíticos (Ex. Data Mart, Data Lake, Data Warehouse, etc.)
+Conhecimento em frameworks de data quality
+Amazon AWS (EC2, S3, EMR, Lambda)
+Noções sobre boas práticas de engenharia de software (Ex. Documentação, testes automatizados, código limpo, etc)
+
+Additional Information
+
+A Serasa Experian é muito mais do que você imagina. Com o propósito de criar um futuro melhor, ampliando oportunidades para pessoas e empresas, no Brasil somos mais de 4 mil pessoas que atuam em diversos times e especialidades. Aqui, cada conhecimento e diversidade se complementa e você pode trabalhar no que mais ama, estamos comprometidos a construir uma cultura inclusiva e um ambiente no qual pessoas possam equilibrar a carreira com seus compromissos e interesses pessoais, prezando pelo bem-estar.
+
+A gente se dedica muito em ser uma das melhores e mais inovadoras empresas para se trabalhar do país, possibilitando experiências e carreiras incríveis para nossas pessoas. Nossa forte abordagem de pessoas em primeiro lugar é reconhecida externamente por meio de diversas certificações de mercado: fomos premiados pelo Great Place To Work™ em 24 países e pela certificação internacional Top Employers, além de sermos reconhecidos como uma das melhores empresas para jovens profissionais e contarmos com uma avaliação de 4,6 no Glassdoor. Cada reconhecimento nos indica que estamos no caminho certo, proporcionando um ambiente de trabalho cada vez melhor para nossos talentos.
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Associate - AI Engineer
+
+Sobre a vaga
+Description
+
+Um dos principais focos estratégicos da empresa, a prática de A&M Perfomance é um grupo em rápida expansão, com forte presença em transformações de grande escala em todos os setores. Os profissionais de AMP são indivíduos empreendedores, de mente aberta, de alto desempenho e colaborativos que vão além e entregam um trabalho de excelência para seus clientes. Forte confiança para abordar problemas complexos em universos dinâmicos.
+
+Alvarez & Marsal e A&M Perfomance orgulham-se em promover uma prática inclusiva e conectada que forma líderes e equipes em que os executivos confiam para avaliar e impulsionar a melhoria de desempenho sustentada e de alto risco.
+
+Estamos em busca de uma pessoa disposta a se tornar AI Engineer. Sabemos que esta posição é nova, com tecnologias novas sendo lançadas praticamente todos os dias. Vamos combinar assim, a gente não pede 5 anos de experiência em tuning de modelos de linguagem e você não tenta nos dizer que é Prompt Engineer Sênior!
+
+Estamos SIM procurando pessoas com curiosidade e versatilidade técnica, que gostem de programar em Python (mas conheçam outras linguagens), que gostem de experimentar tecnologias e frameworks novos (mas também possam nos contar como implementaram algo interessante do início ao fim) e que saibam colaborar bem com clientes e colegas com e sem perfil técnico (mas também saibam focar quando necessário e cumprir prazos).
+
+Atividades e Responsabilidades:
+
+O engenheiro (a) de IA terá a missão de desenvolver modelos de inteligência artificial que utilizem algoritmos avançados e soluções de inteligência generativa, visando resolver desafios de negócios, fornecer insights estratégicos e impulsionar a transformação digital. Principais Atividades:
+
+Desenvolvimento de Soluções e Modelos de IA: Criar e otimizar algoritmos e modelos de inteligência artificial, com foco em eficiência, escalabilidade e impacto nos objetivos organizacionais;
+Análise e Resolução de Problemas: Abordar desafios técnicos com uma abordagem analítica e estruturada, identificando e implementando soluções inovadoras e viáveis de maneira ágil;
+Compreensão de Regras de Negócio: Colaborar diretamente com stakeholders para entender profundamente as regras e requisitos do negócio, traduzindo essas demandas em soluções técnicas eficazes e alinhadas às necessidades organizacionais;
+Desenho de Arquiteturas de IA e Gen AI: Projetar arquiteturas modernas, escaláveis e eficientes, adequadas a projetos estratégicos e a requisitos empresariais complexos;
+Colaboração Multidisciplinar: Trabalhar de forma integrada com equipes de diversas áreas, garantindo a interoperabilidade dos sistemas e o alinhamento das soluções às estratégias organizacionais;
+
+
+Habilidades Técnicas e Atividades Complementares:
+
+Programação backend, com foco em desempenho e confiabilidade;
+Orquestração de processos para automação e integração de sistemas;
+Desenvolvimento e execução de testes automatizados para garantir qualidade e robustez;
+Experimentação com metodologias como testes A/B, assegurando decisões baseadas em dados.
+
+
+Qualificações:
+
+Experiência em projetos de IA, aprendizado de máquina e IA generativa;
+Sólido conhecimento em linguagens de programação como Python e bibliotecas como TensorFlow, PyTorch, Scikit-learn, Hugging Face, Keras e similares;
+Conhecimento pipelines de dados e frameworks de ML, incluindo MLflow ou equivalentes;
+Familiaridade com bancos de dados relacionais e não relacionais, bem como linguagens de consulta (SQL e NoSQL);
+Experiência em ambientes de nuvem (GCP, AWS, Azure);
+Compreensão sólida de estatística, probabilidade e matemática aplicada;
+Conhecimento de Modelos LLM via API;
+Implantação de modelos abertos;
+Avaliação de performance de modelos LLM;
+Tuning de modelos LLM;
+Arquitetura RAG, GraphRAG, KAG, etc;
+Arquitetura de agentes e sistemas multi-agente;
+Ferramentas RPA;
+Habilidades avançadas de Word, Power Point e Excel;
+Disponibilidade para viajar;
+Inglês avançado;
+
+
+Competências: 
+
+Forte capacidade de problem-solving, com abordagem analítica e criatividade para superar desafios;
+Habilidade de trabalhar de forma colaborativa em equipes multidisciplinares;
+Excelente comunicação escrita e oral, com capacidade de traduzir conceitos técnicos para públicos não técnicos;
+Capacidade de adaptação em ambientes dinâmicos e de ritmo acelerado;
+Orientação para resultados, com foco em inovação e geração de valor.
+
+
+Diferenciais:
+
+Experiência avançada com processamento de linguagem natural (NLP), visão computacional (CV) e modelos de geração de conteúdo;
+Conhecimento em aprendizado federado ou em técnicas de ajuste fino de grandes modelos pré-treinados (fine-tuning);
+Certificações em IA/ML nas principais plataformas de nuvem (AWS, GCP, Azure);
+Mestrado em areas correlatas;
+Contribuições para projetos de código aberto ou publicações acadêmicas na área de IA.
+
+
+Diversity & Inclusion
+
+A&M’s entrepreneurial culture celebrates independent thinkers and doers who can positively impact our clients and shape our industry. The collaborative environment and engaging work—guided by A&M’s core values of Integrity, Quality, Objectivity, Fun, Personal Reward, and Inclusive Diversity—are the main reasons our people love working at A&M. Inclusive Diversity means we embrace diversity, and we foster inclusiveness, encouraging everyone to bring their whole self to work each day. It runs through how we recruit, develop employees, conduct business, support clients, and partner with vendors. It is the A&M way.
+
+Equal Opportunity Employer
+
+It is Alvarez & Marsal’s practice to provide and promote equal opportunity in employment, compensation, and other terms and conditions of employment without discrimination because of race, color, creed, religion, national origin, ancestry, citizenship status, sex or gender, gender identity or gender expression (including transgender status), sexual orientation, marital status, military service and veteran status, physical or mental disability, family medical history, genetic information or other protected medical condition, political affiliation, or any other characteristic protected by and in accordance with applicable laws. Employees and Applicants can find A&M policy statements and additional information by region here.
+
+Unsolicited Resumes from Third-Party Recruiters
+
+Please note that as per A&M policy, we do not accept unsolicited resumes from third-party recruiters unless such recruiters are engaged to provide candidates for a specified opening and in alignment with our Inclusive Diversity values. Any employment agency, person or entity that submits an unsolicited resume does so with the understanding that A&M will have the right to hire that applicant at its discretion without any fee owed to the submitting employment agency, person or entity.
+
+Inclusive Diversity
+
+A&M’s entrepreneurial culture celebrates independent thinkers and doers who can positively impact our clients and shape our industry. The collaborative environment and engaging work—guided by A&M’s core values of Integrity, Quality, Objectivity, Fun, Personal Reward, and Inclusive Diversity—are the main reasons our people love working at A&M. Inclusive Diversity means we embrace diversity, and we foster inclusiveness, encouraging everyone to bring their whole self to work each day. It runs through how we recruit, develop employees, conduct business, support clients, and partner with vendors. It is the A&M way.
+
+Equal Opportunity Employer
+
+It is Alvarez & Marsal’s practice to provide and promote equal opportunity in employment, compensation, and other terms and conditions of employment without discrimination because of race, color, creed, religion, national origin, ancestry, citizenship status, sex or gender, gender identity or gender expression (including transgender status), sexual orientation, marital status, military service and veteran status, physical or mental disability, family medical history, genetic information or other protected medical condition, political affiliation, or any other characteristic protected by and in accordance with applicable laws. Employees and Applicants can find A&M policy statements and additional information by region here.
+
+Unsolicited Resumes from Third-Party Recruiters
+
+Please note that as per A&M policy, we do not accept unsolicited resumes from third-party recruiters unless such recruiters are engaged to provide candidates for a specified opening. Any employment agency, person or entity that submits an unsolicited resume does so with the understanding that A&M will have the right to hire that applicant at its discretion without any fee owed to the submitting employment agency, person or entity.
+-----------------------------------------------------------------------------------

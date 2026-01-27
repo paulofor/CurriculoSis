@@ -1,0 +1,329 @@
+[Oportunidade 1]
+Oportunidade: Engenharia de Dados AWS - Sênior
+
+Sobre a vaga
+Sobre a vaga
+
+Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil.
+Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos.
+Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital.
+
+O que estamos buscando?
+
+Requisitos:
+Experiência com integração e processamento de dados
+Experiência na construção de processos ETL e fluxos de dados
+Sólidos conhecimentos com SQL
+Conhecimento com modelagem de dados multidimensional
+Conhecimento em Cloud Computing (AWS)
+Experiênncia com Athena, Glue e QuickSight
+
+Atuação 100% remota
+
+Descrição comportamental: 
+Procuramos uma pessoa que:
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+Tenha habilidades de resolução de problemas;
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+
+O que oferecemos:
+
+Cartão multi-benefícios – você escolhe como e onde utilizar;
+Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas;
+Programas de incentivo à Certificações;
+Horário de trabalho flexível;
+Plano personalizado de carreira e possibilidade de carreira internacional;
+Salários competitivos;
+Avaliação de desempenho anual com possibilidade de bonificação;
+Gympass;
+Previdência Privada;
+Auxílio-Creche;
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+
+Big enough to deliver – small enough to care.
+#VempraGFT
+#VamosVoarJuntos
+#ProudToBeGFT
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Machine Learning Engineer - IBP Build
+
+Sobre a vaga
+Overview
+
+Are you passionate about shaping the future of IBP impacting all business functions at a global scale?
+
+Join our team to support global digital developments for PepsiCo, focusing on high-quality demand forecasts and new product forecasting within the Integrated Business Planning program. As part of an interdisciplinary team, you'll build and deploy statistical/machine learning models, collaborating with process owners, product owners, and business users, ensuring the criticality of your developments is understood. You will also serve as an internal ambassador, providing expertise and stewardship in data and analytics.
+
+Responsibilities
+
+Your day to day with us
+
+Partner with data engineers to ensure data access for discovery and proper data is prepared for model consumption.
+Partner with ML engineers working on industrialization.
+Coordinate work activities with Business teams, other IT services and as required.
+Drive the use of the Platform toolset and to also focus on 'the art of the possible' demonstrations to the business as needed.
+Communicate with business stakeholders in the process of service design, training and knowledge transfer.
+Support large-scale experimentation and build data-driven models.
+Set KPIs and metrics to evaluate analytics solution given a particular use case.
+Refine requirements into modelling problems.
+Influence product teams through data-based recommendations.
+Research in state-of-the-art methodologies.
+Create documentation for learnings and knowledge transfer.
+Create reusable packages or libraries.
+
+Qualifications
+
+What you will need to succeed
+
+2+ years’ experience building solutions in the revenue management or in the supply chain space.
+2+ years working in a team to deliver production level analytic solutions. Fluent in git (version control). Understanding of Jenkins, Docker are a plus.
+3+ years’ experience in ETL and/or data wrangling techniques. Fluent in SQL syntaxis.
+3+ years’ experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. Experiences with Deep Learning are a plus.
+3+ years’ experience in developing business problem related statistical/ML modeling with industry tools with primary focus on Python or R development.
+Business storytelling and communicating data insights in business consumable format. Fluent in one Visualization tool.
+Strong communications and organizational skills with the ability to deal with ambiguity while juggling multiple priorities
+Experience with Agile methodology for team work and analytics ‘product’ creation.
+
+Additional qualifications that will make you stand out for this position
+
+Experience with Azure cloud services is a plus.
+Experience with distributed machine learning is a plus.
+
+What makes us different? 
+
+Hybrid work model: combination of remote and collaborative office experience to enable innovation 
+Entrepreneurial environment in leading international company 
+Professional growth possibilities & learning opportunities 
+Variety of benefits to support your physical, emotional and financial wellbeing 
+Volunteering opportunities to help external communities 
+Diverse team with more than 30% of female representation & over 30 nationalities 
+Have a stake in D&I strategy and bring your whole self to work 
+
+About PepsiCo
+
+We believe that culture should be at the cornerstone of everything we do at PepsiCo. We are agile, innovative and not afraid of failure. We want our team to come to work every day excited to explore new ways to bring enjoyment, refreshment and fun to the world.
+
+PepsiCo Positive (pep+) is the future of our organization – a strategic end-to-end transformation, with sustainability at the center of how we will create growth and value by operating within planetary boundaries and inspiring positive change for the planet and people.
+
+So, if you’re ready to be a part of a playground for those who think big, we’d love to chat.
+
+*We encourage the diversity of applicants across gender, age, ethnicity, nationality, sexual orientation, social background, religion or belief and disability 
+
+#Locations: Barcelona, Spain; Vitoria-Gasteiz, Spain
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+About us 
+
+Startup - Experienced Data Engineer 
+Supply chain and logistics is going through a technological evolution and customer expectations around delivery have become more demanding. We are an AI startup solving the most complex problems in the $800bn trucking industry in the US. Our platform empowers trucking companies to operate efficiently and competitively in a rapidly changing marketplace. We are literally helping to move the world forward.
+
+Who we are seeking 
+As a Data Engineer, you will be responsible for designing, developing, and maintaining our data pipelines and ETL processes. You will work closely with cross-functional teams to ensure seamless data integration, transformation, and delivery. In addition to your ETL expertise, you will leverage your DevOps experience to optimize our data and software infrastructure, automate processes, and ensure scalability and reliability. You will be empowered to transform the technology stack to support the company growth plans. We are about building a strong organizational culture that values growth, learning, ownership, delivery, and collaboration. You'll be a critical part of a fast-growing startup with respect from day one.
+
+What you’ll do 
+Design, develop, and maintain scalable ETL processes to extract, transform, and load large volumes of data from various sources into our data warehouse
+Design, code, and execute on projects to improve the reliability and observability of the Everest overall software stack
+Collaborate with stakeholders to understand data requirements and translate them into efficient ETL workflows
+Collaborate with the engineering team to improve release and monitoring processes, automating whenever possible
+Implement and maintain data pipelines using technologies such as AWS Glue, Apache AirFlow, and custom Python scripts
+Build monitoring and alerting systems to proactively identify and resolve data pipeline and software issues
+Stay up-to-date with the latest industry trends and best practices in data engineering, reliability engineering, ETL processes, and cloud technologies
+
+The ideal candidate will have 
+Proficient in english is a must 
+5+ years of proven experience as a Data Engineer, working on complex ETL processes and data pipelines (or Master’s plus 2 year of relevant experience)
+Strong proficiency in SQL and database technologies (e.g., PostgreSQL, MySQL, Redshift)
+Hands-on experience with cloud platforms, particularly AWS (e.g., S3, DynamoDB, Glue, Lambda, EMR, Redshift, CloudWatch)
+Experience with workflow orchestration tools like Apache AirFlow
+Proficiency in at least one programming language (Python preferred) for scripting and automation
+Familiarity with DevOps practices and tools (e.g., Docker, Kubernetes, Jenkins) for building and managing data and software infrastructure
+Strong problem-solving and analytical skills with a focus on data quality and reliability
+Excellent communication and collaboration skills to work effectively with cross-functional teams
+
+Bonus points if you have 
+Experience with data streaming technologies (e.g., Kafka, Kinesis)
+Understanding of machine learning concepts and frameworks (e.g., TensorFlow, PyTorch)
+Domain expertise in logistics or supply chain 
+
+If you're really interested in this job, apply on Linkedin and send us an email with your resume to hello@useeverest.com.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Grupo QuintoAndar | Senior Data Platform Engineer
+
+Sobre a vaga
+About QuintoAndar
+
+QuintoAndar was born to do something very rewarding: open doors. We opened doors for technology to be part of living. And, through it, we simplify and reduce the bureaucracy of the experience of those looking for a new home. Thus, we became the most valuable proptech in Latin America, leading the real estate market in around six countries and more than 75 cities around the globe.
+
+The first steps in the international market have been taken since we acquired Grupo Navent, which is ranked number 1 in Mexico (Inmuebles24), Argentina (Zonaprop), Peru (Adondevivir & Urbania) and Ecuador (Plusvalia) - among others. And most recently, we launched Benvi, our international brand in Mexico, which comes with our residential rental product and service.
+
+We offer an end-to-end ecosystem to make life easier for those looking to rent or buy a home, sell a property and unlock a transaction. Think of zero paper or bureaucracy: everything happens on a single platform, with transparency and speed alongside incredible human support.
+
+We are currently valued at over $5.1 billion (August 2021) and continue to grow 4x year over year, breaking records.
+
+To make all this happen, we have more than 4,000 talented people, working with cutting-edge technology and best design practices to ensure a seamless experience throughout the sales and rental process, combined with smart financial products. Here you will work with the best professionals in the market, in an environment that breathes innovation, collaboration and high performance.
+
+To learn more about our history, visit https://quintoandar.group/en/.
+
+About Grupo QuintoAndar:
+
+We are Grupo QuintoAndar, the largest real estate ecosystem in Latin America. Guided by a shared purpose of helping people love where they live, we have a diverse portfolio of brands and solutions that cover all stages of the journey of living. We develop technologies and innovations that transform and leverage the whole living experience.
+
+About Working At QuintoAndar
+
+Possibility of learning;
+Opportunity to work in a team that seeks to use the best practices and tools in the market;
+Work in an informal environment with a horizontal structure;
+Being part of a team working on a high-impact project that affects the lives of thousands of people
+
+Location & Remote Work
+
+Our technology team works on the "remote-first" model, which means we are working from home with the possibility of living anywhere in Brazil. We also have the option of using QuintoAndar's offices in São Paulo and Campinas or using partner coworking spaces, both up to twice a week.
+
+Language
+
+This job description is written in English because for that position you will need it for communications with coworkers and suppliers who are from worldwide, for tools and internal materials as well. // A descrição desta vaga está escrita em Inglês porque para esta posição é necessário para a comunicação com colegas e fornecedores, que são de diferentes países, além do uso de ferramentas e materiais internos.
+
+Stages of the Selection Process
+
+Our selection process currently lasts an average of 30-40 days, from application to completion of the assessment. Going through:
+
+Application 
+Tech Screening 
+Technicals Interviews with DPE Team
+Interview with Recruiter
+Offer
+
+About The Position
+
+The main goal of the data engineering team is to build and maintain data pipelines and processes to create a high-performance, self-service platform for Analytics Engineers, Data Analysts, and Data Scientists. This platform will enable them to build excellent pipelines easily, with abstractions ready for reliability, scalability, performance, security, quality, profiling, documentation, lineage, and more.
+
+Responsibilities of a Data Platform Engineer at QuintoAndar:
+
+Build and maintain a high-performance data platform that meets the company's needs, connects with product solutions, and leads analytical innovation, enabling incredible architectures and efficient platforms;
+Responsible for the entire code development lifecycle (monitoring deployment, adding metrics and alarms, ensuring SLO budget compliance, and more);
+Align with stakeholders to understand their primary needs, while also having a holistic view of the problem and proposing extensible, scalable, and incremental solutions;
+Conduct PoCs and benchmarks to determine the best tool for a given problem, and decide whether to use an off-the-shelf solution or develop one in-house;
+Contribute to defining the strategic vision, crossing team and service boundaries to solve problems
+
+Here are some amazing projects we've worked on:
+
+We moved our entire legacy structure with transactional strategies to distributed processing environments, gaining more scale and flexibility;
+We designed an architecture capable of storing metadata and exposing a data catalog to the entire company, thereby increasing reliability and understanding;
+We also worked on LGPD compliance by connecting anonymization strategies, access control, and metadata management to ensure secure access and sharing;
+We centralized access to analytical data to separate data storage from its processing, retention, and discovery
+
+Requirements
+
+What we are looking for:
+
+Knowledge in Big Data technologies, solutions, and concepts (Spark, Hive, MapReduce) and multiple languages (YAML, Python);
+Proficiency in Python, or one of the main programming languages, and a passion for writing clean and maintainable code. You may even be a Software Engineer with a focus or passion for data-oriented solutions;
+Understanding of the data lifecycle and concepts such as lineage, governance, privacy, retention, anonymization, etc.;
+Excellent communication skills, proactively sharing and seeking context to collaborate with different teams
+
+You will stand out if:
+
+You have participated in building large-scale data platforms for big data sets and teams using Big Data technologies such as Spark, Trino, Hive, Atlas, Ranger, etc.;
+You have knowledge of AWS and GCP cloud resources;
+You have experience with Apache Airflow or other tools for data workflows;
+You have experience with columnar storage solutions and/or data lakehouse concepts;
+You have experience with Databricks Platform resources;
+You have knowledge in infrastructure areas such as containers and orchestration (Kubernetes, ECS), CI/CD strategies, infrastructure as code (Terraform), observability (Prometheus, Grafana), among others;
+You understand how optimization works in various scenarios and can be improved, such as query performance, service scalability, and cluster management;
+You are curious about rapidly evolving technologies in the data engineering domain and eager to learn and master them, bringing a significant impact to our team
+
+Important:
+
+Our selection process starts with the application! If you are truly interested in joining our team, make sure to put in extra effort at this stage. We review all candidates individually and provide feedback even to those who do not proceed in the process;
+All communication is done via email, so be attentive to our messages and whitelist the @quintoandar.com.br domain to prevent our emails from going to spam
+
+Benefits
+
+Competitive salary package;
+Bonus
+Meal allowance ("Flash benefícios");
+Health plan;
+Dental plan (optional);
+Life insurance;
+Daycare subsidy;
+Subsidy to sports practicing (Gympass)
+Extended maternity and paternity leave;
+Reserved room for breast-feeding*;
+Discount on our parking lot;*
+Language learning support;
+Free transfer from Vila Madalena and Fradique Coutinho stations to the office*;
+Free bike rack in our parking lot.*
+
+Diversity & Inclusion at QuintoAndar
+
+At QuintoAndar, we believe diversity of perspectives and experiences guarantee a differentiated work environment, based on respect and valuing differences. Feel free to declare the information on the registration form. If you are not comfortable answering them, just choose the option "I prefer not to respond". This information helps us create an increasingly inclusive environment and it is used only for this purpose, it is confidential, and it will not impact your performance throughout the hiring process.
+
+Privacy and Data Protection
+
+In order to apply for one of our jobs roles, we will need to collect some of your personal data necessary for us to review your application and to contact you. We believe that the diversity of perspectives and experiences guarantees a differentiated work environment, based on respect and appreciation of differences. For this reason, we have several affirmative jobs, and information regarding your gender, ethnicity/race, and disability may be collected in the process.
+
+All data processed is confidential and will be stored in a secure place for the time necessary to fulfill its purposes, with appropriate technical and administrative measures being adopted to protect your information.
+
+If you have any questions, please contact us via the following page.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Especialista de Engenharia de Dados
+
+Sobre a vaga
+Somos uma empresa global, líder em serviços de informação, conhecida no restante do mundo como Experian. Nos grandes momentos da vida, como a compra de um carro, a ida de um filho para a faculdade ou mesmo a abertura e expansão de um negócio, estamos presentes para empoderar consumidores e clientes a administrarem seus dados com confiança.
+Contamos com mais de 20.000 pessoas operando em mais de 44 países; e, ao investirmos nelas, em tecnologia e em inovação, podemos ajudar negócios a se transformar e comunidades a prosperar, permitindo que mais pessoas se sintam incluídas nas oportunidades disponíveis. É dessa forma que todos os dias entregamos o nosso propósito de criar um futuro melhor.
+Venha descobrir um mundo inesperado com a gente. 
+
+Job Description
+
+Já pensou em alavancar a plataforma de dados e MLOps do maior banco de dados da América Latina? Se você é movido por inovação e gosta de atuar em parceria contínua com todas as áreas da empresa, venha fazer parte do nosso time!
+ 
+Como será o seu dia a dia?
+ Atuação direta nas discussões de arquitetura da plataforma;
+Desenvolvimento dos produtos de dados;
+Interação com principais usuários da plataforma visando mapear e entender dores, traduzindo em backlog de desenvolvimento da plataforma;
+Identificação e resolução de problemas relacionados aos projetos em que está atuando;
+Identificação de oportunidades de ganho de eficiência operacional e financeira das plataforma em que está atuando.
+Você será responsável por:
+Desenvolvimento de plataforma de dados para consumo de diversas fontes, batch e real-time;
+Desenvolvimento APIs de acesso e consumo dos dados (data products);
+isseminação do conhecimento sobre as melhores práticas de uso de dados (data contracts, governança federada e engenharia de plataformas);
+Garantir que arquitetura comporte necessidades e requisitos técnicos do time de execução, trabalhando em conjunto com times de TI (Arquitetura, Segurança, Infraestrutura) e com áreas de negócio;
+Influnciar técnicamente o time direcionando boas práticas de dados e engenharia de software.
+
+Qualifications
+
+O que buscamos em você?
+Autonomia e iniciativa para atuação na resolução de problemas;
+Boa comunicação e perfil resolutivo;
+Spark (Batch & Streaming);
+Proficiência em pelo menos umas das linguagens de programação como Scala, Java e Python;
+Orquestração de pipelines de dados (Airflow);
+AWS Data Stack (DynamoDB , s3, Lambda, EMR, MSK, Glue, Athena, Lake Formation, RDS);
+Data lake/ Lakehouse (iceberg/delta);
+Arquitetura de dados;
+Melhores práticas de engenharia de software;
+Testes Automatizados;
+Conhecimento em CI/CD.
+
+Additional Information
+
+O que te oferecemos como diferencial! 
+Ambiente em plena transformação; 
+Atuação global. 
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+Não atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!
+Experian Careers - Creating a better tomorrow together
+Find out what its like to work for Experian by clicking here
+-----------------------------------------------------------------------------------

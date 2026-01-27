@@ -1,0 +1,340 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro(a) de IA Sênior (Java + LLMs)
+
+Sobre a vaga
+Um banco nacional, o 5º maior  banco privado do Brasil (ranking Banco Central). Estamos em constante evolução e construímos #parcerias  de sucesso para entregarmos nosso propósito de tornar mais tranquila a vida financeira de pessoas e empresas.  A nossa cultura é simples e ágil. Somos informais nas relações, valorizamos a inovação e atuamos em um ambiente descontraído, cada vez mais colaborativo e com intencionalidade no avanço da diversidade e inclusão. Se identificou? Então venha trabalhar com a gente!
+
+Se você tem interesse em conhecer e trabalhar para garantir que ele seja desdobrado nas diversas áreas do banco, nosso papo é com você!
+
+O BV atua intencionalmente em prol da aceleração da equidade e representatividade no mercado financeiro, respeitando e apoiando a diversidade em toda sua pluralidade e interseccionalidade, garantindo uma transformação social positiva. Por isso, convidamos pessoas negras, mulheres, profissionais com deficiência, comunidade LGBTQIA+ e pessoas de qualquer idade a conhecerem a gente um pouco mais e a se inscreverem nesta vaga.
+
+Buscamos um(a) Engenheiro(a) de IA Sênior hands-on para atuar no desenvolvimento de soluções inovadoras utilizando modelos de linguagem de última geração (LLMs), com foco especial em geração de código Java, automações inteligentes e integração com nossas aplicações bancárias.
+
+Você será responsável por construir, testar e escalar aplicações robustas, baseadas em IA generativa, com foco em eficiência, governança e inovação.
+
+ Venha construir o futuro da tecnologia bancária com a gente, aplicando o poder dos LLMs na prática. Seu código pode ser gerado por IA. Mas sua visão é única.  🚀
+
+Responsabilidades
+
+Desenvolver soluções inteligentes utilizando LLMs, com foco em automações e geração de código Java;
+Codificar, treinar, integrar e manter aplicações robustas com IA Generativa em diferentes cenários bancários;
+Construir pipelines e frameworks de automação para aceleração de tarefas repetitivas com apoio de GenAI;
+Utilizar frameworks e bibliotecas modernas para criação de microserviços, testes, observabilidade e integração contínua;
+Trabalhar em parceria com squads multidisciplinares (engenharia, dados, produto e negócio);
+Manter-se atualizado sobre tendências em LLMs, engenharia de prompts e novas práticas de desenvolvimento inteligente;
+Garantir qualidade, segurança, escalabilidade e rastreabilidade das soluções implantadas.
+
+Requisitos
+
+Experiência sólida em desenvolvimento com Java (Java 8 ou superior), incluindo Spring Boot, testes unitários, microserviços, RESTful APIs e padrões de mensageria (Kafka, RabbitMQ, PubSub ou similares);
+Experiência prática com LLMs e IA generativa (OpenAI, Gemini, Anthropic, open-source);
+Vivência em automações utilizando GenAI para geração de código, refatoração e suporte à engenharia de software;
+Domínio de frameworks de IA generativa como LangChain, Transformers, Hugging Face ou similares;
+Experiência com ferramentas de versionamento (Git), CI/CD, DevOps e observabilidade;
+Experiência com Google Cloud Platform (Vertex AI, GKE, Cloud Run, BigQuery);
+Conhecimento em integração de IA via APIs e orquestração de serviços em ambientes de nuvem;
+Habilidade para trabalhar em squads ágeis, colaborativos e orientados a entregas contínuas.
+
+Diferenciais Desejáveis
+
+Experiência anterior no setor financeiro;
+Certificações em Cloud (GCP, AWS ou Azure);
+Conhecimentos de Frontend (Angular, Flutter);
+Experiência com RAG (Retrieval-Augmented Generation);
+Familiaridade com práticas de GenAIOps.
+
+Perfil Esperado
+
+Autonomia e mentalidade construtora;
+Comunicação clara com áreas técnicas e não técnicas;
+Visão analítica e foco em solução de problemas reais com IA;
+Interesse genuíno por novas tecnologias e aprendizado contínuo.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: AI Python Engineer - Work from home
+
+Sobre a vaga
+Explore the Nearsure experience!
+
+🌐 Join our close-knit LATAM remote team: Connect through fun activities like coffee breaks, tech talks, and games with your team-mates and management.
+
+🍃 Say goodbye to micromanagement! We champion autonomy, open communication, and respect for diversity as our core values.
+
+⚖️Your well-being matters: Our People Care team is here from day one to support you with everything from time-off requests to wellness check-ins.
+
+Plus, our Accounts Management team ensures smooth, effective client relationships, so you can focus on what you do best.
+
+Ready to grow with us? 🚀 
+
+Here’s what we offer you by joining us!
+
+✨ Competitive USD salary 💲 – We value your skills and contributions!
+🌐 100% remote work 🏢 – While you can work from anywhere, you’re always welcome to connect with teammates and grow your network at our coworking spaces across LATAM!
+💼 Paid time off – Take the time you need according to your country’s regulations, all while receiving your full salary. Rest, recharge, and come back stronger!
+🎉 National Holidays celebrated 🌴 – Take time off to celebrate important events and traditions with loved ones, fully embracing your culture.
+😷 Sick leave – Focus on your health without the stress. Take the necessary time to recover and feel better.
+💸 Refundable Annual Credit – Spend it on the perks you love to enhance your work-life balance!
+🤝 Team-building activities – Join us for coffee breaks, tech talks, and after-work gatherings to bond with your Nearsure family and feel part of our vibrant community.
+🥳 Birthday day off 🎂 – Enjoy an extra day off during your birthday week to celebrate in style with friends and family!
+
+About the project:
+
+As a Senior AI Python Engineer, you will pioneer AI solutions to transform how we build and ship software, boosting developer productivity, accelerating delivery cycles, and scaling our platform capabilities. You will work at the intersection of research and engineering, embedding AI into the Software Development Lifecycle (SDLC) to help our teams ship faster, more reliably, and with greater autonomy.
+
+How your day-to-day work will look like
+
+✅ Build AI-powered tools to enhance each stage of the SDLC: from code generation and code reviews to testing, documentation, and deployment.
+✅ Develop internal assistants and copilots to reduce cognitive load and empower developers to move faster with fewer manual steps.
+✅ Automate repetitive development and operational tasks (e.g., writing IaC, generating release notes, updating documentation).
+✅ Investigate GenAI solutions (e.g., GitHub Copilot, CodeLlama, GPT-Engineer) to improve CI/CD workflows and eliminate friction in delivery pipelines.
+✅ Design, benchmark, and deploy AI-driven solutions that reduce lead time, increase deployment frequency, and enhance reliability.
+✅ Explore custom model fine-tuning and retrieval-augmented generation (RAG) approaches when needed.
+✅ Prototype features like AI-driven deployment optimizations, cost-aware autoscaling, or predictive incident resolution.
+✅ Embed AI into DevOps processes to identify bottlenecks, automate root cause analysis, and surface continuous delivery insights.
+✅ Collaborate with SRE and developer experience teams to evolve our Internal Developer Platform (IDP) with intelligent automation.
+✅ Partner with engineering, DevOps, and product teams to identify key pain points and deliver impactful AI interventions.
+✅ Share findings through workshops, whitepapers, and internal demos to scale learnings across the organization.
+
+This would make you the ideal candidate
+
+✨ Bachelor's Degree in Computer Science, Engineering, or a related field.
+✨ 5+ Years of experience working with the Python programming language, with the ability to work across AI, infrastructure, and tooling codebases.
+✨ 3+ Years of experience working in cloud environments (AWS or GCP).
+✨ 2+ Years of experience working with scripting languages (e.g., Bash, Go).
+✨ 1+ Years of experience working with containerization (Docker) and orchestration (Kubernetes), and with CI/CD systems and infrastructure automation tools (e.g., Terraform, Ansible).
+✨ 1+ Years of practical, hands-on experience with code-generation tools such as Codex, StarCoder, Claude, or GPT family.
+✨ Solid understanding of the full Software Development Lifecycle (planning, coding, testing, releasing, monitoring).
+✨ Practical, hands-on experience with large language models (LLMs).
+✨ Experience prototyping, benchmarking, and deploying AI solutions to improve developer workflows.
+✨ Strong understanding of software development automation and developer productivity enhancement techniques.
+✨ Familiarity with prompt engineering and retrieval-augmented generation (RAG) pipelines.
+✨ Ability to explain complex AI solutions and technical concepts to cross-functional and non-technical teams.
+✨ Research-driven mindset with curiosity for testing new AI ideas, tools, and approaches.
+✨ Strong problem-solving skills focused on identifying inefficiencies and applying AI to increase delivery velocity.
+✨ Advanced English Level is required for this role as you will work with US clients. Effective communication in English is essential to deliver the best solutions to our clients and expand your horizons.
+
+What to expect from our hiring process
+
+1. Let’s chat about your experience!
+2. Impress our recruiters, and you’ll move on to a technical interview with our top developers.
+3. Nail that, and you’ll meet our client - your final step to joining our amazing team!
+
+🎯 At Nearsure, we’re dedicated to solving complex business challenges through cutting-edge technology and we believe in the power of tailored solutions. Whether you are passionate about transforming businesses with Generative AI, building innovative software products, or implementing comprehensive enterprise platform solutions, we invite you to be part of our dynamic team!
+
+We would love to hear from you if you are eager to make an impact and join a collaborative team that values creativity and expertise.
+
+Let’s work together to shape the future of technology! 
+
+🧑‍💻 Apply now! 
+
+By applying to this position, you authorize Nearsure to collect, store, transfer, and process your personal data in accordance with our Privacy Policy. For more information, please review our Privacy Policy. (https://www.nearsure.com/privacy-policy)
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Scientist Consultant
+
+Sobre a vaga
+Queremos você para gerar ainda mais valor!
+
+A Núclea é uma empresa que acredita no futuro com ações no presente com transações financeiras feitas de forma rápida, segura e acessível. Somos especialistas em infraestrutura e soluções de pagamentos digitais, e trabalhamos para transformar o mercado financeiro, tornando-o mais eficiente e inclusivo.
+
+Nossos valores são a base de tudo o que fazemos.
+
+Apaixonados por clientes. Estamos sempre buscando entender suas necessidades e encontrar soluções que atendam às suas expectativas.
+Gente que gosta de gente. Investimos no desenvolvimento de nossos colaboradores e criamos um ambiente de trabalho que valoriza a diversidade e a inclusão.
+Integridade faz parte do nosso DNA. Agimos com ética e transparência em todos os nossos relacionamentos.
+Somos direcionados por dados. Análise e solução ágil fazem parte da empolgação em ter consistência no uso de inteligência de dados.
+Inovação na veia. Estamos sempre buscando novas soluções para atender às necessidades de nossos clientes e do mercado.
+Fanáticos por resultados. Nos movem e nos motivam a assertividade para nossos parceiros e clientes.
+
+Sobre a Núclea
+
+https://www.nuclea.com.br/
+
+A Núclea é uma empresa brasileira de tecnologia com sede em São Paulo. Fundada em 2010, a empresa oferece uma ampla gama de soluções de infraestrutura e pagamentos digitais para empresas de todos os portes.
+Uma empresa comprometida com a responsabilidade social e ambiental. A empresa acredita que a tecnologia pode ser usada para promover o desenvolvimento sustentável e a inclusão social.
+
+Para todas as posições consideramos DIVERSIDADE E INCLUSÃO!
+
+Se você é apaixonado(a) por tecnologia, quer fazer a diferença na vida das pessoas e acredita em um futuro mais eficiente e inclusivo, a Núclea é o Lugar certo para você.
+Essa é a chance para você mudar a sua vida, corra e se inscreva!
+
+Responsabilidades e atribuições
+Produzir, testar e experimentar modelos estatísticos aplicados as diferente áreas de negócio;
+Criar, manter e atualizar relatórios analíticos para a squad e para o negócio;
+Trazer insights e conduzir experimentos junto as áreas de negócios;
+Desenvolver modelos preditivos com técnicas de machine learning para resolução de problemas de negócio;
+Auxiliar o time de negócios e comercial em apresentações de produtos da empresa para potenciais clientes;
+Elaborar apresentações técnicas para discussão e demonstração de resultados de análises e modelos para stakeholders técnicos da companhia.
+
+Requisitos e qualificações
+Machine Learning;
+Modelagem Estatística;
+Análise de dados;
+Python;
+Pyspark (diferencial);
+Capacidade de aprender novas linguagens de programação e frameworks de modelagem e análise é indispensável;
+Capacidade e hábito em ler documentações técnicas de pacotes estatísticos e de Machine Learning é essencial;
+Versionamento de código em GIT;
+Pacote Office;
+Inglês – Avançado (especialmente leitura, para consultar documentação de linguagens de programação e algoritmos em inglês).
+
+Formação
+Ensino Superior Completo em uma ou mais destas áreas: ciência da computação, estatística, engenharias, economia, matemática ou áreas congêneres;
+Mestrado e/ou doutorado nestas áreas é um diferencial;
+MBA em Data Science é um diferencial.
+
+Informações adicionais
+Modelo de trabalho: híbrido (2x por semana no escritório).
+Salário compatível com o mercado - CLT.
+
+Benefícios:
+Convênio Médico e Odontológico;
+Vale Refeição - Caju;
+Seguro de Vida;
+Auxilio Home Office;
+PLR;
+Previdência Privada;
+Auxílio creche;
+Wellhub (Gympass).
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Tech Lead ou Coordenador(a) de Inteligência Artificial (IA)
+
+Sobre a vaga
+Descrição
+
+Liderar e desenvolver projetos de Inteligência Artificial, desde o diagnóstico até a entrega da solução final.
+Aplicar modelos de Machine Learning supervisionados e não supervisionados.
+Desenvolver e implementar soluções baseadas em IA Generativa (por exemplo, LLMs com RAG, fine-tuning, embeddings).
+Projetar e treinar modelos de Visão Computacional e OCR (como Tesseract, EasyOCR, Azure Form Recognizer e Amazon Textract).
+Propor arquiteturas para soluções de IA escaláveis, utilizando Cloud, containers e APIs.
+Trabalhar com dados estruturados e não estruturados, aplicando técnicas de NLP e Deep Learning.
+Elaborar documentação técnica e apoiar na capacitação de equipes parceiras ou clientes.
+Atuar como referência técnica em discussões com áreas de negócio e tecnologia.
+
+Requisitos
+
+O perfil que buscamos:
+
+Formação superior na área de Tecnologia ou correlatas.
+Experiência com N8n, Langflow, Crew AI e Langchain 
+Experiência comprovada com Agentes de IA
+Experiência prática na condução de projetos de IA/Data Science.
+Vivência com IA Generativa (ex.: GPT, LLaMA, Claude), incluindo integração via API, ajuste fino e pipelines de RAG.
+Domínio de modelos de Machine Learning (ex.: Regressão Logística, Random Forest, XGBoost, entre outros).
+Experiência em projetos com OCR, tanto com ferramentas open source quanto com serviços em nuvem.
+Proficiência em Python e principais bibliotecas: TensorFlow, PyTorch, Scikit-learn.
+Conhecimentos sólidos em Engenharia de Dados (pré-processamento e ETL para IA).
+Experiência com serviços em nuvem (Azure, AWS ou GCP).
+Familiaridade com versionamento de modelos (MLflow, DVC) e deploy via APIs (Flask, FastAPI, Docker).
+Experiência com Databricks.
+
+Benefícios
+
+ Cartão iFood Benefícios
+ CSP Vantagens
+ DAYOFF Aniversariante
+ Plano de Saude Sulamerica
+ PLANO ODONTO SULAMERICA
+ TotalPass
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Engenheira de Machine Learning Sênior - Data & AI
+
+Sobre a vaga
+Job Description
+
+O Hub Digital faz parte da área de Tecnologia da Globo e tem papel central na nossa transformação em uma empresa media tech e D2C. Aqui cuidamos da gestão de dados e do desenvolvimento dos produtos digitais — como Globoplay, Globo.com, G1, GE, Gshow e Cartola — com foco na melhor experiência de consumo, interação e relacionamento com os nossos usuários.
+
+Sobre a área de Data & AI
+
+Nossa frente de Data & AI desenvolve plataformas de dados, experimentação, machine learning, recomendação e segmentação de audiência para os produtos digitais da Globo. Também criamos e evoluímos modelos de predição de churn, prospecção, afinidade e anomalias; modelos de extração de metadados para publicidade contextual; otimização de inventário e cache; inferência de relações e sistemas de recomendação de conteúdo.
+
+Neste contexto, buscamos uma pessoa para atuar como Machine Learning Sênior na Home da Globo.com, com foco no aprimoramento dos modelos de recomendações da Home da Globo.com por meio de soluções baseadas em inteligência artificial.
+
+Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação.
+
+Modelo de trabalho: Híbrido (Rio de Janeiro, São Paulo ou Porto Alegre)
+
+Responsibilities and assignments
+
+Como será seu dia a dia:
+
+Atuar em um time multidisciplinar ao lado de cientistas de dados, engenheiros de ML, engenheiros de dados, desenvolvedores e POs, contribuindo para a formulação e validação de hipóteses baseadas em dados;
+Construir, produtizar, monitorar e manter modelos com foco em engajamento, retenção e personalização de conteúdo;
+Explorar e implementar ferramentas e frameworks para desenvolvimento de workflows de IA e sistemas de recomendação;
+Promover boas práticas de engenharia e infraestrutura para projetos de ML em produção;
+Contribuir com soluções escaláveis e sustentáveis em IA, antecipando impactos no negócio;
+Impactar positivamente a experiência de milhões de usuários da Home da Globo.com.
+
+
+Requirements And Qualifications
+
+Do que você precisa:
+
+Proficiência em Python e SQL para análise e modelagem de dados;
+Experiência com frameworks de ML como TensorFlow, Keras, Scikit-learn e PyTorch;
+Conhecimento de boas práticas de desenvolvimento de software e arquitetura de sistemas;
+Familiaridade com pipelines de ML e produtização de modelos;
+Experiência com cloud computing (preferencialmente GCP);
+Prática com ferramentas de versionamento (Git) e CI/CD;
+Proatividade na adoção de novas tecnologias;
+Interesse em arquiteturas envolvendo LLMs e IA Generativa.
+
+
+ Conhecimentos que te destacam:
+
+Experiência com sistemas de recomendação em larga escala;
+Familiaridade com arquiteturas de Deep Learning (Transformers, CNNs, RNNs, Autoencoders, LLMs);
+Vivência com pipelines baseados em RAG (Retrieval-Augmented Generation);
+Experiência com frameworks para agentes LLM;
+Conhecimento em bancos de dados vetoriais;
+Desenvolvimento de APIs de predição em tempo real;
+Manipulação de grandes volumes de dados (big data);
+Prática com MLOps: Docker, Kubernetes, Vertex AI Pipelines, monitoramento de modelos, Continuous Training.
+
+
+Additional information
+
+Por que vir para Globo:
+
+Vem e vamos criar histórias e tecnologias juntos.
+
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.
+
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.
+
+Aqui, cada um faz a transformação acontecer.
+
+Nossos processos seletivos estão acontecendo de forma 100% remota. #vempraglobo
+
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação. 
+
+Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes:
+
+https://www.linkedin.com/company/globo
+
+https://www.instagram.com/vempraglobo
+
+https://www.youtube.com/c/VemPraGlobo/
+
+Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://vempraglobo.g.globo/files/politica_de_privacidade.pdf
+
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos.
+
+✨somos globo✨
+
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação. 
+
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles. 
+
+Aqui, cada um faz a transformação acontecer. 
+
+Quer fazer parte dessa transformação também?
+
+#VemPraGlobo ;)
+-----------------------------------------------------------------------------------

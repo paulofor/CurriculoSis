@@ -1,0 +1,324 @@
+[Oportunidade 1]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates either in Latin America, Africa, or Eastern Europe who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+
+
+Responsibilities
+
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java or Groovy or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice-to-have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on NoSQL technologies
+Hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+You can start as soon as possible, ideally immediately
+You are located in either Latin America, Africa, or Eastern Europe
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+Hiring Manager (client) interview (30 min)
+Design & development competency check interview (client) (about 45 minutes)
+Final (client) interview (30 min)
+ 
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+
+ What we offer
+
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: AI Engineer / Software Engineer with AI
+
+Sobre a vaga
+AI Engineer Who We Are
+
+In 2021, Poatek was acquired by WillowTree, an award-winning digital product consultancy recognized as one of the fastest growing and best places to work in the United States. Now a TELUS International company , with offices across the globe, we continue to partner with the world’s leading brands, such as the FOX, Capital One, HBO, PepsiCo, Domino’s and more, to design, build, and transform their digital products and strategies. We’re looking to grow our Poatek offices in Brazil with top talent excited to collaborate with team members across the globe to deliver innovative solutions for our clients.
+
+Location and Flexibility
+
+This is a hybrid role. This model requires the ability to work in a hybrid mode from one of our offices in São Paulo (2 times/ week or 8 days/ month) or Porto Alegre (3 times/ week or 12 days/ month). Our WFN culture is designed to foster in-person innovation, collaboration, and connection with team members local and visiting from other global offices.
+
+The Opportunity
+
+We are seeking a proficient AI Engineer passionate about turning AI research into tangible, effective solutions within our long-term client projects. As an AI Engineer, you will be instrumental in applying and integrating generative AI models to enhance digital products, making AI accessible and valuable in a real-world context.
+
+Responsibilities
+
+Apply your knowledge of software engineering and AI systems to develop AI solutions that directly address and resolve business problems.
+Partner with Data Science professionals who specialize in machine learning and statistical modeling to address complex technical challenges, ensuring that the latest and most effective AI techniques are utilized.
+Take ownership of implementing and optimizing applied AI components, ensuring they meet project needs with high complexity and scale.
+Navigate and manipulate generative AI models, including large language models, to create prompts and solutions tailored to specific use cases.
+Develop and incorporate AI solutions while adhering to industry best practices, including moderation, security, and compliance standards.
+Lead the charge in designing, measuring, and evaluating AI model outputs, developing standard and custom metrics to ensure alignment with business objectives.
+Translate AI research into production-ready features, delivering robust and scalable AI components that integrate seamlessly with larger systems.
+Drive the selection and application of appropriate evaluation metrics, ensuring that AI solutions are robust, unbiased, and meet all necessary performance standards.
+
+Qualifications
+
+Demonstrable experience in applied AI, with a foundation in machine learning, deep learning, NLP, LLMs, and statistical analysis.
+Strong understanding of the trade-offs between various generative AI models and the ability to choose the right model for specific use cases.
+Experience with data embeddings and vector databases, understanding the trade-off between available options, and leveraging it to optimize data ingestion.
+Experience building and testing a major server-side platform (such as TypeScript/Express, Java/Spring, Python/Django, C#/.NET, Ruby/Rails, etc) for API development and orchestration. 
+Experience leveraging CI/CD tools such as AWS CodeDeploy, Azure Pipelines, GitHub Actions, or Jenkins.
+Hands-on experience deploying software on leading cloud platforms and utilizing AI tools like AWS Bedrock and Azure AI Services.
+Experience with performance optimization and observability platforms.
+Proficiency in conducting experiment tracking and implementing complex AI integrations with minimal oversight.
+Ability to communicate complex AI solutions and concepts effectively to technical and non-technical stakeholders.
+Skilled in creating and adjusting prompts for complex AI systems to meet diverse project requirements.
+Familiarity with testing and evaluating AI systems using state-of-the-art methods and best practices.
+Strong collaboration skills and ability to work alongside Data Science specialists, drawing on their expertise in AI model development and fine-tuning to deliver sophisticated AI solutions.
+
+Why Poatek?
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+Flexible hours and autonomy
+ Work with cutting edge technologies 
+ Partner with global and relevant brands in the market 
+ Collaborative team and learning ecosystem 
+ Career development plan & growth 
+ Internacional travel opportunities (optional) 
+
+Some Of Our Benefits
+
+ Health and dental plan 
+ Life insurance 
+ Monthly voucher for meals, culture, education, health and mobility 
+ Child care assistance and more! 
+
+Equality is a principle here at Poatek. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing those information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Sr Database Engineer (Sr SRE) | Engenheiro de Banco de Dados Sr (SRE Sr)
+
+Sobre a vaga
+O que você fará
+
+Avalara is the worldwide leader in sales and use tax calculation. We are the first to admit it - sales tax calculation is not great. But revolutionizing fundamental business processes - that's big time. And that is what we are doing every day, bringing technology to bear on arcane, tedious tasks that every business in the world must deal with
+
+Discover what it means to work with some of the smartest people in the industry, and help solve some of the most challenging customer /Tax problems. You will work in a fast paced environment where we are responsible for companies’ most critical systems. Customers count on us to keep their systems up and running and we are vital to the success of their business.
+
+Database Infrastructure Management: Oversee the design, implementation, and maintenance of database systems to ensure high availability, scalability, and performance.
+
+Automation Development: Develop and maintain automation scripts and tools to streamline database operations, including provisioning, configuration management, and monitoring.
+
+Monitoring and Alerting: Set up monitoring solutions to track database performance metrics, analyze trends, and proactively identify potential issues. Configure alerting systems to notify appropriate personnel in case of anomalies or failures.
+
+Incident Response and Troubleshooting: Respond to and resolve database-related incidents promptly, utilizing troubleshooting skills to identify root causes and implement corrective actions to prevent recurrence.
+
+Capacity Planning and Scaling: Collaborate with cross-functional teams to forecast resource requirements and plan for database capacity scaling based on growth projections and performance metrics.
+
+Security Management: Implement and maintain database security measures, including access controls, encryption, and compliance with relevant regulations (e.g., GDPR, HIPAA). Conduct regular security audits and remediate vulnerabilities.
+
+Disaster Recovery and Backup Management: Design and implement disaster recovery strategies to minimize data loss and downtime. Develop and maintain backup and restore procedures to ensure data integrity and availability.
+
+Performance Optimization: Optimize database configurations, queries, and indexing strategies to enhance performance and reduce latency. Conduct periodic performance tuning exercises to maintain optimal system efficiency.
+
+Documentation and Knowledge Sharing: Document database configurations, procedures, and troubleshooting steps. Share knowledge with team members and contribute to the development of best practices and standard operating procedures.
+
+Continuous Improvement: Stay updated on emerging technologies and industry trends related to database management and site reliability engineering. Identify opportunities for process improvement and automation to enhance efficiency and reliability.
+
+Collaboration and Communication: Collaborate with software engineers, DevOps engineers, and other stakeholders to align database infrastructure requirements with application needs. Communicate effectively with team members and stakeholders to ensure transparency and alignment of goals.
+
+On-Call Support: Participate in an on-call rotation to provide 24/7 support for database-related issues and emergencies. Respond to alerts and incidents outside of regular business hours as needed.
+
+O que precisa possuir para ser bem sucedido
+
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+Proven experience as a Database Administrator or Site Reliability Engineer, with a focus on managing large-scale distributed database systems.
+Strong proficiency in database technologies such as MySQL, PostgreSQL, MongoDB, or similar.
+Proficiency in scripting languages such as Python, Bash, or PowerShell for automation and tool development.
+Experience with configuration management tools Githut/Gitlab. 
+Familiarity with cloud platforms such as AWS, OCI and/or Google Cloud Platform.
+Solid understanding of networking concepts, storage systems, and security best practices.
+Excellent problem-solving skills and the ability to troubleshoot complex issues under pressure.
+Strong communication skills and the ability to work effectively in a collaborative team environment.
+Experience with containerization technologies such as Docker and orchestration tools like Kubernetes is a plus.
+
+
+Sobre a equipe
+
+As a part of DB SRE team, you will troubleshoot and resolve products issues related to DB and related platform availability and performance. You will develop relationships with development teams, comprehend and fulfill their needs, and maintain their satisfaction through regular communication and engagement with their environments. You will perform technical work that requires planning and scheduling to ensure the best possible solution is delivered on time. You will react on incidents and provide solutions aiming at maintained environments’ improvements.
+
+Sobre a Avalara
+
+We’re Avalara. We’re defining the relationship between tax and tech.
+
+We’ve already built an industry-leading cloud compliance platform, processing nearly 40 billion customer API calls and over 5 million tax returns a year.
+
+Last year, we became a billion-dollar business, and our tribe expanded by a cool thousand people - there’s nearly 5,000 of us now. Our growth is real, and we’re not slowing down - not until we’ve achieved our mission - to be part of every transaction in the world.
+
+We’re bright, innovative and disruptive, like the orange we love to wear. It captures our quirky spirit and optimistic mindset. It shows off the culture we’ve designed, that empowers our people to win. Ownership and achievement go hand in hand here. We instill passion in our people through the trust we place in them.
+
+We’ve been different from day one. Join us, and your career will be too.
+
+EEO Statement
+
+We’re an Equal Opportunity Employer. Supporting diversity and inclusion is a cornerstone of our company — we don’t want people to fit into our culture, but to enrich it. All qualified candidates will receive consideration for employment without regard to race, color, creed, religion, age, gender, national orientation, disability, sexual orientation, US Veteran status, or any other factor protected by law. If you require any reasonable adjustments during the recruitment process, please let us know.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados SR
+
+Sobre a vaga
+Vem ser Ituber & vem fazer Itaú_
+Venha fazer parte da Comunidade de Produtos de Dados do maior banco da América Latina. No Itaú valorizamos as pessoas de todos os gêneros, raça, idade, orientação sexual e com deficiência. A diversidade e a ética fazem parte do nosso DNA, e temos orgulho de ser a segunda melhor empresa para trabalhar segundo o ranking da Great Place to Work.
+Uma das marcas mais valiosa do Brasil, temos o desafio de trazer resultados financeiros com soluções de Engenharia de Dados e Analytics. Estamos buscando mulheres que queiram se desenvolver e aprender constantemente, compartilhando, colaborndo, inovando e entregando valor para todos os nossos clientes.
+Venha fazer parte desse time e transformar as comunidades do Itaú com uso de dados.
+
+O que você precisa para ser um Ituber?
+Venha fazer parte da Comunidade de Produtos de Dados do maior banco da América Latina. No Itaú valorizamos as pessoas de todos os gêneros, raça, idade, orientação sexual e com deficiência. A diversidade e a ética fazem parte do nosso DNA, e temos orgulho de ser a segunda melhor empresa para trabalhar segundo o ranking da Great Place to Work.
+Uma das marcas mais valiosa do Brasil, temos o desafio de trazer resultados financeiros com soluções de Engenharia de Dados e Analytics. Estamos buscando mulheres que queiram se desenvolver e aprender constantemente, compartilhando, colaborando, inovando e entregando valor para todos os nossos clientes.
+Venha fazer parte desse time e transformar as comunidades do Itaú com uso de dados.
+
+Como é o dia a dia de um Ituber nessa área?
+Tecnologia: AWS - Glue, Spark, Lake Formation, S3, Lambda, RDS, Athena.
+Experiência técnica nas linguagens de programação Python, PySpark HQL, SQL e Shell Scrip
+Experiência técnica no Hadoop, diferencial conhecimento no CDP.
+Experiência com Data Mesh, Big Data, Ingestão de Dados, ETL e ELT.
+Pipelines DevSecOps com uso do Github, JFrog Artifactory, Urban Code, AWS Code Deploy , AWS - EMR, Redshift, Quicksight, Kinesis.
+Experiência na área financeira
+Certificação: AWS Practitioner , AWS Solution Architect , AWS Data Engineer
+Metodologia de projetos ágeis , Gestão de projetos , Gestão de resultados , Planejamento , Elaboração de apresentações
+
+Ao se tornar um Ituber você tem
+Vale Transporte
+Vale Refeição (Restaurantes) / Vale Alimentação (Supermercados)
+Convênio médico e odontológico
+Seguro de Vida
+PLR – Participação nos Lucros e Resultados (Mediante resultados do banco)
+Previdência privada
+Descontos exclusivos em nossos produtos financeiros
+Licença maternidade estendida & paternidade
+Auxílio Creche / Babá (para papais e mamães)
+Incentivo a estudos
+GymPass ou TotalPass
+Acesso aos Clubes Itaú (Guarapiranga / Itanhaém e São Sebastião)
+Algumas vantagens que você pode conhecer durante o processo
+
+*Estimulamos candidaturas de pessoas com deficiência em todas as nossas posições, sendo assim, sinta-se à vontade para se candidatar em vagas sinalizadas como exclusivas ou não para pessoas com deficiência. Somos comprometidos com a inclusão e valorizamos a diversidade.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Sr.
+
+Sobre a vaga
+Descrição da Vaga
+
+Nascemos para democratizar os serviços bancários e de pagamentos!
+
+Pioneirismo, tecnologia, inovação e resultados sustentáveis são constantes da nossa trajetória. Lançamos a primeira maquininha de cartão sem aluguel do Brasil e ao longo dos anos seguimos evoluindo para ampliar nosso ecossistema de soluções financeiras.
+
+Somos o 2º maior banco digital do país e a fintech mais rentável do segmento, resultado do trabalho de um time formado por pessoas talentosas e criativas, que atuam com dedicação, paixão e vontade de fazer acontecer.
+
+Se você ama tecnologia, curte um bom desafio e acredita no poder da colaboração para fazer grandes entregas, o Pags é pra você! Então, confira essa oportunidade e vem pintar o Brasil de amarelo com a gente💛!
+
+No PagBank todas as pessoas são bem-vindas 😊, sem distinção de gênero, orientação sexual, etnia, cultura, religião, deficiência etc. O importante é você gostar de desafios, trabalhar bem em equipe, vivenciar nossa cultura e nossa missão de transformar e democratizar os serviços bancários e de pagamentos no Brasil.
+
+#VemProPags
+
+Responsibilities and assignments
+
+Desenvolver e sustentar a plataforma para a gestão da governança de dados da organização.
+Participar da análise e definição de implementação de novas tecnologias.
+Participar na definição e implementação da arquitetura dos serviços mantidos pela equipe. 
+Atuar em equipes de desenvolvimento que utilizam métodos ágeis.
+Avaliar novas tecnologias e frameworks de mercado para melhoria contínua de produtos e processos, realizando provas de conceito.
+Manter e desenvolver funcionalidades da plataforma de dados especificamente em produto para a gestão de metadados da organização.
+Construir serviços, microsserviços e produtos que atendam às necessidades dos times de dados da organização, tanto do ponto de vista da governança dos dados quanto da engenharia dos dados.
+Construir mecanismos que garantam a gestão, descoberta e sensibilização das mais diferentes fontes de dados disponíveis nos times de engenharia da organização.
+
+
+Requirements And Qualifications
+
+Superior em Ciência da Computação, Engenharias, Sistemas de Informação ou áreas correlatas.
+Experiência com controle de versionamento com Git.
+Experiência com linguagens de desenvolvimento Java e Python.
+Experiência com desenvolvimento utilizando ambiente AWS.
+Experiência com análise e desenvolvimento de sistemas, definições de arquitetura e orientação a objetos. 
+Experiência com containerização de aplicações como Docker e Kubernetes.
+Experiência com soluções de observabilidade como New Relic, Grafana e Splunk. 
+Experiência em Linux, Shell Script, YAML e Terraform.
+Conhecimento em arquitetura de microsserviços.
+
+
+
+Informações Adicionais
+
+Desejável:
+
+Conhecimento em design patterns e paradigmas de programação.
+Conhecimento em técnicas de Clean Code.
+Conhecimento no uso de MongoDB, MySQL ou qualquer outra tecnologia de banco.
+Conhecimento em JavaScript, React, CSS e HTML.
+Conhecimento em arquitetura de microsserviços.
+Conhecimento em ferramentas de mensageria como Kafka.
+Experiência com configuração e customização de ambientes com integração contínua e delivery contínuo utilizando o Jenkins.
+Conhecimento em elaboração de testes unitários e funcionais.
+Conhecimento em bancos de dados relacionais e não relacionais.
+Vivência com métodos ágeis de desenvolvimento: XP (principalmente com práticas de pair programming e TDD), Scrum e Kanban ou variações Lean.
+Experiência na implementação de padrões de governança de dados em ambientes operacionais e analíticos de dados.
+Experiência com produtos de governança de dados do setor como Apache Atlas será um diferencial.
+Experiência trabalhando com tecnologias de Big-Data - por exemplo, Hadoop, Spark, DataLakes, Data Warehouses.
+
+
+SOBRE NÓS
+
+Nascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.
+
+Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.
+
+Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia.
+
+Hoje somos um dos maiores bancos digitais do país e uma das fintechs mais rentáveis do segmento, resultado do trabalho de um time de mais de 7 mil profissionais.
+
+Aqui no Pags, a pesquisa e a inovação fazem parte do nosso DNA. Compartilhamos experiências com profissionais talentosos e criativos em um ambiente colaborativo, onde o aprendizado é garantido.
+
+Quer fazer parte dessa história? Confira nossas vagas e #VemProPags, o banco completo.
+-----------------------------------------------------------------------------------

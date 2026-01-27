@@ -1,0 +1,208 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Sr (3733)
+
+Sobre a vaga
+Hello,
+
+Você que busca novos desafios, temos uma oportunidade em uma empresa focada em soluções tecnológicas, que ajuda empresas a alcançarem seus objetivos.
+
+Tem interesse, então não perca tempo, é fácil e rápido.
+
+Responsabilidades e atribuições
+
+O profissional contribuirá para o projeto de implementação de sistemas escaláveis de ETL e definição/construção do novo Data Lake, contribuindo para evoluir o ambiente de Big Data;
+Aptidão para fazer levantamento de requisitos para entender os dashboards e relatórios a serem desenvolvidos bem como realizar o mapeamento de fontes de dados junto com as áreas de negócio;
+Responsável pelo direcionamento técnico para o projeto em questão, junto com as equipes de engenharia de dados, arquitetura de solução e infraestrutura, impulsionando as mudanças necessárias e fazendo escolhas tecnológicas adequadas;
+Definirá modelos de dados e desenvolvimento de rotinas de ETLs utilizando as melhores práticas de mercado; 
+Ficará encarregado de construir relatórios e dashboards.
+
+
+Requisitos e qualificações
+
+Conhecimento avançado em desenvolvimento de ETLs, prefencialmente Apache NiFi;
+Conhecimento avançado em base de dados, incluindo, arquitetura e modelagem (Tecnologias: Oracle, SQL Server e experiencia com NoSQL);
+Conhecimento em Data Visualization com Power BI;
+Conhecimento em modelagem de dados multidimensional;
+Conhecimento em ferramentas de Dados / Datalake em Cloud, preferencialmente Oracle Cloud ou Azure;
+Experiência em levantamento de requisitos e especificação técnica para o desenvolvimento de ETLs/ Relatórios;
+Conhecimento em CI/CD, Git e Agile.
+
+
+Informações adicionais
+
+Modelo de contratação:
+
+PJ
+
+
+Forma de Atuação:
+
+100% remoto
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Cientista de Dados Sênior
+
+Sobre a vaga
+Quais serão suas responsabilidades?
+
+Busca de insights de negócio intrínsecos dentro dos dados usando técnicas de advanced analytics e estatística;
+Construir e otimizar análises usando técnicas de ML e IA;
+Realizar mineração de dados usando métodos estatísticos;
+Aprimorar procedimentos de preparação de dados par incluir informações relevantes para a construção de sistemas analíticos;
+Realizar analises e apresentar resultados.
+
+O que é necessário para participar desse processo seletivo?
+
+Habilidade em análise quantitativa e gerenciamento de dados;
+Capaz de examinar dados relevantes e desenvolver rapidamente um plano de análise que responda às principais questões de negócio e crie valor para o cliente;
+Experiência com a plataforma cloud AWS;
+Domínio na linguagem Python, Desejável Spark, PySpark e R;
+Databricks;
+Conhecimento em estatística e matemática;
+Experiência com modelos de score para ciclo de crédito( concessão, manutenção, recuperação);
+Capacidade de interação com as áreas de negócio para conseguir traduzir às necessidades em modelos estáticos e insights.
+
+Por que fazer parte do time DBC Company?
+
+ Somos a 17ª melhor empresa para trabalhar do Brasil e a 4ª melhor empresa para trabalhar no Rio Grande do Sul, segundo o GPTW 2023;
+ Todos os profissionais que estão alocados em clientes e/ou projetos são acompanhados por Gestor da DBC e também por Líder de Smartsourcing;
+ A DBC oferece incentivo a certificações a todos os colaboradores.
+
+O que é importante saber?
+
+Nosso time promove um ambiente seguro para todas as pessoas profissionais independente de sua etnia, crença religiosa, orientação sexual, identidade de gênero, deficiência, idade etc.;
+Oportunidade 100% home office.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Machine Learning Engineer II
+
+Sobre a vaga
+The Company You’ll Join
+
+Carta is a platform that helps people manage equity, build businesses, and invest in the companies of tomorrow. Our mission is to unlock the power of equity ownership for more people in more places.
+
+Carta is trusted by more than 40,000 companies and over two million people in nearly 160 countries to manage cap tables, compensation, and valuations. Carta also supports nearly 7,000 funds and SPVs, and represents nearly $130B in assets under administration. Carta's tender offer solutions have returned $14B to shareholders in secondary transactions. Today, Carta’s platform manages nearly three trillion dollars in equity globally.
+
+For more information about our offices and culture, check out our Carta careers page.
+
+The Problems You'll Solve
+
+At Carta, our employees set out on a mission to unlock the power of equity ownership for more people in more places. We believe that the problems we solve today unlock the opportunities of tomorrow.
+
+Responsibilities
+
+As a Senior Machine Learning Engineer at Carta, you'll spend a third of your time partnering with domain experts across the company to analyze and explore Carta's proprietary document repository and data set. Another third will be dedicated to building machine learning models to power new products, automate complex document workflows, and accelerate Carta's business. The remaining third will involve developing Carta's machine learning infrastructure. Example responsibilities will include:
+
+Perform exploratory analyses to understand the dynamics of private markets and ownership from source-of-record documents and systems.
+Develop LLM-powered pipelines to classify complex legal documents and extract key information from these docs to automate onboarding to our suite of products.
+Develop machine learning models to power new financial products and to extract trends from performance of existing products.
+Build and deploy containerized prediction services and integrate them with our data pipelines.
+Partner with product managers, engineers, designers, and business teams to incorporate ML-generated estimates and benchmarks into products and user-flows.
+Own, coordinate, and solve complex, cross-functional problems that extend beyond the traditional boundaries of machine learning.
+
+The Team You'll Work With
+
+At Carta, our Machine Learning team is on a mission to power data products and automation through cutting-edge techniques. We work closely with Carta's core business units and product teams to develop estimation-based data products and large language model (LLM)-powered document intelligence capabilities. This role is foundational to our team, where you'll work with one of the world's most valuable datasets and document repositories. Our models directly enable revenue growth and operational efficiency for the company.
+
+Our team consists of specialized Machine Learning scientists and engineers, collaborating with product analytics and data engineering experts. We foster a culture of partnership, working closely with teams across Carta to solve impactful problems. We strongly believe that being helpful accelerates results, and we support one another to achieve success at Carta.
+
+The Impact You'll Have
+
+You will own significant projects that directly align with the company's strategic initiatives in document intelligence, data products, and data quality. Your contributions will empower leaders across the organization to deliver innovative products, optimize operational efficiency, and make well-informed product decisions. Additionally, you will have the opportunity to develop foundational infrastructure for our team and establish best practices for integrating our machine learning models into production environments. Your work will not only impact Carta's current machine learning capabilities but also pave the way for future engineers, enabling them to build upon your efforts seamlessly.
+
+About You
+
+Candidates must have a strong foundation in statistics and machine learning, be proficient in SQL and Python, and have an analytical mindset. You have a strong bias towards simplicity, are excited by “zero to one” projects, and can efficiently communicate findings to leadership. Example traits that we value:
+
+5+ years of industry experience solving complex data problems with descriptive and predictive statistical models
+Proficiency with modern programming languages (Python, R, SQL, etc.) and datastores (Redshift or similar)
+A deep understanding of modern statistical and machine learning models, when to apply them, and how to evaluate their performance
+Experience with large language models (LLMs) and their applications in document intelligence, information extraction, and text classification tasks.
+Strong written and verbal communication skills, with a particular emphasis on data visualization
+A collaborative attitude and a helpful personality
+Experience with containerizing ML models and integrating them into production workflows
+Experience with building simple ETL pipelines (Airflow or similar) to schedule model training / predictions
+
+We are an equal opportunity employer and are committed to providing a positive interview experience for every candidate. If accommodations due to a disability or medical condition are needed, please connect with the recruiter via email. As a company, we value fairness, helpfulness, transparency, leadership and build our teams around these values. Check out our careers page to get to know us better as you think about your next step at Carta.
+
+Important Security Notice for Candidates
+
+Our company has been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will come from an @carta.com domain. Be cautious of any requests for sensitive information or payments outside of our official channels. For more information about this type of scam, please review the guidelines provided by the Federal Trade Commission (FTC). If you encounter any suspicious activity, please report it immediately to recruiting-systems@carta.com.
+
+Awards and Acknowledgements
+
+Companies and funds like Tribe and Pipe build their businesses on Carta. The company has been included on the Forbes World’s Best Cloud Companies, Fast Company's Most Innovative list, and Inc.’s Fastest-Growing Private Companies. We’ve also been recognized as a 2023 Built In Best Place to Work in the U.S., a Muse VIBE Award winner in the Vacation and Time Off category and certified as a Great Place to Work.
+
+Interested in data privacy? Check out our policies on Privacy and CA Candidate Privacy.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Especialista em Ciência de Dados
+
+Sobre a vaga
+Acreditamos no poder transformador da tecnologia e na sua capacidade de contribuir para a construção de uma sociedade mais diversa e inclusiva. Como a maior empresa brasileira de tecnologia, temos o compromisso com uma política e programa de diversidade e inclusão para termos um ecossistema cada vez mais representativo, respeitoso e acolhedor.
+
+O QUE VOCÊ VAI FAZER:
+
+Desenvolvimento de produtos de dados para otimizar a tomada de decisão na cia;
+Identificar e desenvolver novas oportunidades para aplicação de modelagem estatística e algoritmos de otimização;
+Ser referência técnica em projetos de ciência de dados com atuação end-to-end;
+Explorar com criatividade os diversos conjuntos de dados disponíveis para desenvolver produtos de qualidade;
+Experiência prévia com modelos de crédito será considerado um diferencial.
+
+O QUE ESPERAMOS DE VOCÊ:
+
+Formação em cursos de exatas ou correlatas;
+Conhecimentos sólidos em SQL, Python;
+Conhecimento sobre técnicas de Machine Learning aplicadas na prática para solucionar problemas de negócio;
+Conhecimento das principais técnicas de estatística;
+Perfil analítico e crítico, com foco na resolução de problemas;
+Pragmático, equilibrando qualidade e simplicidade.
+
+INFORMAÇÕES ADICIONAIS
+TOTVS TECHFIN, a joint venture que nasceu da parceria entre TOTVS, maior empresa de tecnologia do Brasil, e Itaú, maior banco da América Latina, com a missão de aliar tecnologia e inovação para proporcionar as melhores soluções de crédito, pagamentos e serviços para ajudar as empresas a superar os desafios dos seus negócios.
+
+Você sabe qual a diferença entre uma “Fintech” e uma “Techfin”? A gente te explica!
+Fintechs são empresas financeiras que querem utilizar tecnologia para melhorar a distribuição e a experiência de uso dos seus produtos financeiros.
+
+Techfins são empresas de tecnologia que querem utilizar sua força de desenvolvimento para distribuir e democratizar o acesso aos melhores produtos financeiros.
+
+Nossa missão é ampliar, baratear e simplificar a contratação de serviços financeiros das empresas brasileiras para que elas possam comprar, pagar, vender e receber de forma ágil e sem complicações.
+
+#SOMOSTECHFINERS
+
+Dito isso, oferecemos:
+Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos;
+Programa +Saudáveis, com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;
+Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos;
+Plano de saúde e odontológico;
+Vale refeição/alimentação;
+Vale transporte;
+Seguro de vida;
+Auxílio creche;
+Previdência privada;
+Gympass;
+PLR.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro(a) de Dados Sênior
+
+Sobre a vaga
+Funções que serão desempenhadas: 
+
+ Atuar com engenharia de dados (coleta, armazenamento, tratamento e exposição); 
+ Impulsionar o design, a construção e o lançamento de novos modelos de dados e pipelines de dados em produção; 
+ Impulsionar a qualidade dos dados em todas as áreas de negócios relacionadas; 
+ Gerenciar a entrega de painéis e visualizações de dados de alto impacto; 
+ Facilitar e acelerar a movimentação dos principais ativos de dados de D&A para o GCP. 
+
+ Requisitos necessários: 
+
+ Ensino Superior em Ciência da Computação, Matemática, Física ou outros cursos relacionados à Tecnologia; 
+ Experiência em Engenharia de Dados, BI ou Data Warehousing; 
+ Experiência em criação de API's; 
+ Experiência em linguagem de programação Python; 
+ Experiência com ferramentas de visualização de dados (por exemplo, Tableau) e/ou sistemas de gerenciamento de banco de dados relacional; 
+ Experiência em cloud (GCP, Azure ou AWS). 
+
+#BVS
+-----------------------------------------------------------------------------------

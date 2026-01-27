@@ -1,0 +1,306 @@
+[Oportunidade 1]
+Oportunidade: Data Developer (Engenharia de Dados) Sênior/Especialista
+
+Sobre a vaga
+Estamos com uma oportunidade para um(a) Data Developer Sênior ou Especialista (Engenharia de Dados). Como parte do time de produtos de dados, sua missão é usar seus conhecimentos, habilidades para explorar problemas, desenhar, desenvolver produtos impactantes, entregar observando governança, segurança e performance, em um ambiente colaborativo e de inovação.
+
+Acreditamos que a engenharia de dados é uma disciplina essencial para este produto, sendo responsável pela arquitetura e tecnologias para movimentar e organizar grandes volumes de dados, observando governança, segurança e performance.
+
+🧑‍🦽Todas as nossas vagas estão disponíveis para pessoas com deficiência! Que tal se juntar ao nosso time e embarcar nessa jornada com a gente?
+
+Responsabilidades:
+Participar das conversas sobre o produto e parear com Group Product Manager e Product Managers, entendendo e garantindo a entrega de valor;
+Criar dashboards e visualizações de dados que apoiem a tomada de decisão;
+Desenhar a arquitetura e avaliar as tecnologias disponíveis para resolver o problema certo;
+Combinar a arquitetura e tecnologia para desenvolver e entregar componentes reutilizáveis como conectores, APIs, SDKs, CLIs;
+Testar e automatizar tudo que for possível;
+Validar e adaptar os componentes de acordo com os feedbacks dos usuários;
+Colaborar com a qualidade e inovação tecnológica do produto e ambiente de trabalho.
+Conhecimentos e Habilidades
+Facilidade para aprender novas tecnologias e se adaptar às mudanças;
+Git Workflows, CI/CD e automação de processos;
+Infra as a Code - OpenTofu/Terraform;
+Facilidade de comunicação e colaboração com outras pessoas;
+Conhecimento e habilidade em alguma linguagem de programação e consulta, preferencialmente Python e/ou Java e SQL;
+Conhecimento e habilidade em alguma tecnologia de processamento distribuído, preferencialmente Spark;
+Conhecimento e habilidade em alguma nuvem, incluindo serviços de computação, armazenamento, bancos de dados e Analytics em AWS;
+Conhecimento e habilidade em bancos de dados SQL, NoSQL e serviços de streaming distribuídos, por exemplo: PostgreSQL, Cassandra e Kafka;
+Conhecimento sobre arquiteturas de Big Data, por exemplo: Data Warehouse, Data Lake, Lambda, Kappa, Data Mesh;
+Conhecimento sobre modelagem e cargas de trabalho de dados, incluindo modelagem normalizada, multi-dimensional, e cargas de trabalho OLTP e OLAP;
+Vivência com grande volume de dados;
+
+Requisitos e Qualificações:
+Git Workflows, CI/CD e automação de processos;
+Infra as a Code - OpenTofu/Terraform;
+Conhecimento e habilidade em alguma linguagem de programação e consulta, preferencialmente Python e/ou Java e SQL;
+Conhecimento e habilidade em alguma tecnologia de processamento distribuído, preferencialmente Spark;
+Conhecimento e habilidade em alguma nuvem, incluindo serviços de computação, armazenamento, bancos de dados e Analytics em AWS;
+Conhecimento e habilidade em bancos de dados SQL, NoSQL e serviços de streaming distribuídos, por exemplo: PostgreSQL, Cassandra e Kafka;
+Conhecimento sobre arquiteturas de Big Data, por exemplo: Data Warehouse, Data Lake, Lambda, Kappa, Data Mesh;
+Conhecimento sobre modelagem e cargas de trabalho de dados, incluindo modelagem normalizada, multi-dimensional, e cargas de trabalho OLTP e OLAP;
+Vivência com grande volume de dados;
+
+O que te tornaria um especialista para essa vaga:
+Conhecimento avançado em alguma tecnologia de processamento distribuído, preferencialmente Spark, e/ou bancos de dados SQL e/ou NoSQL, preferencialmente Oracle, PostgreSQL e/ou DynamoDB;
+Experiência com ambientes de Big Data em produção, incluindo o desenho da arquitetura, provisionamento de infraestrutura, desenvolvimento de integração de dados (pipelines, workflows), monitoramento de performance e custos;
+
+O que seria muito legal se você tivesse:
+Experiência com produtos em especial ERP;
+Conhecimento em AWS: Athena, S3, Lambda, IAM;
+Conhecimento em Cloud em especial AWS;
+Conhecimento em em alguma plataforma como DataBricks, SnowFlake ou DataIku.
+Ter participado em construção de produtos de dados e inteligência artificial
+
+O modelo de trabalho varia conforme a localização: presencial para quem está em Uberlândia/MG, híbrido (3x por semana no escritório) para São Paulo/SP e remoto para as demais regiões.
+
+Se você deseja crescer, encarar novos desafios e fazer parte de um time que está construindo algo grande, seu lugar é aqui! Topa o desafio?
+
+Benefícios que vão além da Jornada Sankher
+Na Sankhya, valorizamos a individualidade e oferecemos benefícios que promovem liberdade, equilíbrio e bem-estar em todas as áreas da vida.
+
+💵 Participação nos Resultados (PPR)
+🥗 Vale Alimentação/Refeição iFood
+🤰 Licença Maternidade e Paternidade Estendida
+👶 Auxílio Creche
+🩺 Plano de saúde
+😁 Plano odontológico
+🎉 Day OFF no Aniversário
+💵 Empréstimo Consignado
+🏋️ Auxílio vida saudável
+💚 Seguro de Vida
+🚍 Vale Transporte
+💻 Equipamentos Fornecidos pela Empresa
+🌎 Auxílio Idiomas
+📜 Auxílio Graduação, Pós-Graduação, Auxílio Certificações, Universidade Corporativa Sankhya
+
+🔝 Na Sankhya, sua jornada de crescimento nunca para. 🚀💚
+
+🎯 Plano de Performance e Desenvolvimento Individual: Plano personalizado para seu crescimento profissional.
+📌 Touchpoints de Evolução com a Liderança: Encontros regulares com líderes para discutir seu progresso e desenvolvimento.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Cientista de Dados
+
+Sobre a vaga
+📢 VAGA ABERTA: Cientista de Dados Sênior – Híbrido (Barra da Tijuca/RJ)
+
+Em busca de uma carreira em uma empresa que valoriza a flexibilidade, desenvolvimento pessoal e sucesso da equipe? Com 28 anos de experiência e reconhecidos pelo GPTW pelo quinto ano consecutivo, estamos em busca de talentos para se juntarem a nós como Cientista de Dados. Com matriz no Brasil e filiais em território internacional, oferecemos oportunidades para crescimento e desenvolvimento. Candidate-se agora e faça parte de uma equipe que transforma negócios e realiza sonhos!
+
+Requisitos essenciais:
+
+Graduação em Engenharia, Estatística, Matemática, Computação ou áreas correlatas;
+Experiência mínima de 3 a 5 anos em projetos de Ciência de Dados;
+Proficiência em linguagens de programação como Python ou R;
+Vivência na implementação de soluções de machine learning e analytics em ambientes de cloud, preferencialmente Google Cloud Platform (GCP);
+Experiência em processamento e análise de dados em grande escala;
+Conhecimento em ferramentas de machine learning como TensorFlow e PyTorch para desenvolvimento e implantação de modelos preditivos avançados;
+Capacidade de criar, testar e implementar modelos preditivos complexos;
+Domínio de estatística, análise de dados e técnicas de machine learning;
+Experiência com plataformas de processamento de dados como SQL, NoSQL, Hadoop, Spark ou equivalentes;
+Atuação com grandes modelos de linguagem natural (LLMs);
+Experiência com modelos de deep learning aplicados à Visão Computacional e à previsão de séries temporais;
+Familiaridade com ferramentas de visualização de dados como Tableau, Looker ou Power BI;
+Boa comunicação e habilidade para atuar em ambientes dinâmicos e colaborativos;
+Inglês em nível intermediário ou avançado.
+
+Requisitos adicionais:
+
+Certificações reconhecidas em Ciência de Dados ou Machine Learning;
+Pós-graduação Lato Sensu em Ciência de Dados ou Machine Learning;
+Mestrado ou Doutorado em áreas relacionadas à Ciência de Dados ou Machine Learning;
+Vivência com ferramentas de inteligência artificial, como ChatGPT, GitHub Copilot, plataformas de geração de imagens ou automação de processos, aplicadas a: Automatização de tarefas, criação de relatórios e análise de dados, apoio à tomada de decisão e inovação contínua, melhoria da eficiência operacional e qualidade das entregas.
+
+Responsabilidades:
+
+Desenvolver e implementar soluções de IA com uso de LLMs, técnicas de NLP e modelos tradicionais de machine learning;
+Ajustar e otimizar modelos de linguagem e algoritmos para aprimorar desempenho e precisão;
+Colaborar com equipes multidisciplinares para integrar soluções de IA a produtos e serviços;
+Analisar e interpretar dados visando avaliar o desempenho de modelos e propor melhorias.
+
+Nossos cuidados com você:
+*Benefícios a variar de acordo com a modalidade de contrato
+
+🍛 Vale Alimentação ou Vale Refeição Ifood Empresas;
+💰 Benefício indireto (valor fixo para custeio parcial do plano de saúde ou somado ao vale alimentação);
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+📚 Academia Sys Manager - plataforma com cursos online, gratuitos, atualizados e com certificado;
+🏫 Auxílio Creche;
+🏥 Assistência Médica;
+🦷 Assistência Odontológica;
+🐶 Convênio para Pet;
+🏃‍♂️ TotalPass
+🏖 Day Off após 12 meses;
+🙎‍♂️ Seguro de vida e outros.
+
+Conheça mais sobre nós:
+
+Site: https://www.sysmanager.com.br/
+Facebook: https://www.facebook.com/sys.manager
+Youtube: https://www.youtube.com/channel/UCrwuUug_3uPgppslLG0dUPA
+Instagram: https://www.instagram.com/sys.manager/
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de Dados
+
+Sobre a vaga
+Sobre nós 
+
+A XP Inc. é uma das maiores instituições financeiras independente do Brasil, dona das marcas XP, Rico, Clear, XP Educação, InfoMoney, entre outras. Com mais de 4,6 milhões de clientes ativos e um valor superior a R$ 1,1 trilhão de ativos sob custódia, há 23 anos vem transformando o mercado financeiro para melhorar a vida das pessoas.
+
+Com uma cultura marcante guiada por quatro valores - Sonho Grande, Espírito Empreendedor, Foco no Cliente e Mente Aberta - a XP Inc. está sempre em busca dos melhores talentos que tem ambição de fazer o impossível.
+
+>> Sobre a vaga:
+
+Esta vaga é direcionada para todas as senioridades de pessoas que buscam atuar como Engenheiro de Dados  na XP Inc.
+
+Somos um lugar formado por pessoas que sonham grande, focamos em aprendizado constante em um ambiente com muita liberdade para que você possa criar e deixar a sua marca. Além disso, você trabalhará ao lado de pessoas diversas e talentosas que irão te ajudar a usar todo o seu potencial e gerar o maior impacto possível.
+
+Desafios Que Você Vai Encontrar Por Aqui
+
+Ambiente dinâmico e aberto para novas ideias;
+Liberdade para trilhar uma carreira protagonista.
+Espaço para desenvolvimento e aprendizado constantes.
+
+Para saber mais sobre nossas áreas e carreiras em Tecnologia, clique aqui.
+
+>> Para esta vaga é essencial:
+
+Ter nossa cultura;
+Paixão pelo mercado financeiro
+Implementar políticas, processos e ferramentas para definição, responsabilização e democratização dos dados; 
+Capacidade analítica para resolução de problemas (análise e correção de bugs);
+Experiência em linguagens de programação relevantes para engenharia de dados, como Apache Spark, Python, Pyspark ou SQL, para manipular, analisar e transformar dados. 
+Conhecimento de Arquitetura de Dados
+Ter conhecimento em ETL e Orquestração de Pipelines de Dados
+Experiência em Data Factory, Databricks, Data Lake
+Conhecimento de camadas do Lakehouse
+Conhecimento de modelagem de dados e Data Lakes
+Conhecimento prático em Cloud
+Fluxos de Ingestão de Dados em batch e streaming
+Apache Spark
+Kafka
+Lidar com várias prioridades concorrentes, assumindo responsabilidades e riscos em um ambiente de ritmo acelerado e constante mudança; 
+Residir em São Paulo e possuir disponibilidade para atuar no modelo híbrido (3x na semana)
+
+Se identificou com a XP Inc. e com a oportunidade?
+
+Inscreva-se e venha conquistar o impossível com a gente!
+
+Benefícios:  
+
+Saúde e Bem-estar
+
+Plano de saúde sem coparticipação (inclusive, para dependentes)
+Plano odontológico
+Wellhub (Gympass)
+Zenklub
+Seguro de Vida
+iFood Benefícios (VA e VR flexível)
+Vale Transporte
+New Value (clube de benefícios)
+Licença parental: maternidade de 6 meses e paternidade de 20 dias.
+Auxílio Creche
+
+Vida Financeira
+
+Fundos de Investimentos Exclusivos
+Assessoria de Investimentos 
+Cartão XP Visa Infinite sem anuidade 
+Crédito (consignado, home equity, CCB Imobiliário, etc.) 
+
+Modelo de Trabalho Presencial Flexível 
+
+O nosso modelo de trabalho varia de acordo com a função, podendo ser totalmente presencial para frentes de negócio e mais flexível para outras equipes.
+
+Seguimos um modelo com mais frequência presencial, mas sempre guiado por flexibilidade e autonomia com a responsabilidade da nossa cultura empreendedora.
+
+Aqui na XP Inc., valorizamos as interações pessoais e acreditamos no uso do escritório como uma ferramenta para potencializar nossas relações no trabalho.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: AI Engineer - Scraping
+
+Sobre a vaga
+Quorum is shaping the future of AI-powered public affairs. As we expand our efforts to harness AI in scraping, parsing, and structuring legislative, regulatory, and government data across federal, all 50 states, and local levels, we’re seeking an AI Engineer with a builder’s mindset and a drive to make an impact. In this role, you’ll help design and scale a cutting-edge pipeline that uses large language models (LLMs) to transform complex, unstructured government data into clean, actionable insights.
+
+As an AI Engineer, you’ll play a pivotal role in architecting and scaling GenAI systems that drive our AI-powered scraping infrastructure and its surrounding ecosystem. You will lead the design and implementation of a comprehensive data ingestion pipeline that spans federal, state, and local levels—leveraging LLMs (e.g., GPT-4) to extract structured information from legislative bills, regulatory documents, and procedural histories across diverse government websites.
+This is a hands-on engineering role where you will own the end-to-end AI workflow—from web scraping and data preprocessing to prompt engineering, evaluation, and QA integration. Success in this role requires deep experience with AI-first development practices, LLM APIs, and the practical challenges of ensuring high-quality structured data at scale.
+
+What You’ll Do
+Design, implement, and maintain a distributed scraping framework to ingest legislation and regulatory data across federal, all states, and local levels.
+Build and optimize LLM-powered pipelines to extract structured data (titles, sponsors, dates, history, status, etc.) from raw legislative content.
+Develop robust prompt engineering patterns and schema-driven output formats to achieve 95%+ accuracy.
+Build and maintain a schema drift monitoring framework, including weekly sampling and validation of outputs.
+Set up automatic validation, confidence scoring (e.g., via Confident.ai), and routing of low-confidence records to manual review pipelines.
+Make high-impact architectural decisions that balance performance, cost, scalability, and maintainability.
+Stay current with emerging frameworks and tools, and champion pragmatic adoption where appropriate.
+Influence best practices around AI-first development and clean service-oriented architecture.
+Debug and optimize AI-powered features to improve accuracy, latency, and user experience.
+
+You Should Have
+5+ years of engineering experience, including at least 1+ years shipping AI/LLM-based products in production.
+Strong experience with Python (3.7+) and data validation libraries (Pydantic, jsonschema).
+Proven ability to develop scalable ETL pipelines and web scrapers (Scrapy, Playwright, Selenium).
+Proven ability to lead complex technical initiatives and influence product direction.
+Experience with vector databases and semantic search systems (OpenSearch, Qdrant, etc).
+Strong understanding of embedding models, LLM-based systems, and RAG architectures.
+Familiarity with tools like LangChain, LlamaIndex, or Bedrock.
+Experience defining and iterating on LLM evaluation metrics, evaluation sets, production feedback loops, optimizing for precision, recall, and real-world accuracy.
+Excellent collaboration skills—you can work closely with product managers, UX designers, and cross-functional engineers.
+Strong written and verbal communication; able to influence through documentation and discussion.
+Experience in an AI-First engineering environment with tools like Github Copilot, Augment, or Cursor.
+
+Nice to Have
+Experience with Django or similar Python web frameworks.
+Frontend experience (TypeScript/React) with AI-first interfaces.
+Domain familiarity in civic tech, legal tech, or policy-driven environments.
+
+
+Why You’ll Love Working at Quorum
+Work on one of the most ambitious and impactful GenAI initiatives in civic tech.
+Lead the charge on greenfield systems and technical innovation—not just maintenance.
+Join a tight-knit, fast-moving, mission-driven engineering team.
+Generous benefits, flexible time off, and a deep culture of learning, collaboration, and support.
+
+Our Work Environment
+We are a remote-first team with flexible work options: work remotely, or you may choose to come into our office in Belo Horizonte.
+Do you want to learn what it's like to have a real impact at a fast-growing company that is changing the way the advocacy process works? If so, drop us a line. We'd love to talk to you!
+
+Benefits
+Flexible Paid Time Off
+Standard Brazil holidays plus additional company-wide days off for team members to rest and recharge
+Free Subscription to the Calm App
+Free Subscription to LinkedIn Learning to support professional development
+Invest in Yourself Days - one designated day per quarter is dedicated to your professional development!
+Monthly Work from Home Stipend
+Mental and Dental Care by SulAmérica
+Virtual and in-person team events
+Mental Health stipend
+Alelo Food Voucher
+In company English classes
+Inclusion & Diversity Affinity Groups to support belonging
+12 weeks of paid parental leave
+This is a CLT opportunity
+For any questions regarding any open roles on our team, please reach out to recruiting@quorum.us.
+We comply with all requirements for US government federal contractors issued by the OFCCP, IFR, and the terms of our government contracts.
+EEO/AA/F/M/Vet/Disabled
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: ANALISTA DE DADOS SR
+
+Sobre a vaga
+Buscamos um(a) profissional que irá atuar:
+
+Criação e sustentação de pipelines de dados, utilizando tecnologias como Python e ferramentas de ETL;
+Construção de relatórios executivos em ferramentas de visualização avançadas, como Qlik e Tableau;
+Apoio ao gestores no entendimento/definição de KPIs e regras de negócio;
+
+Para se candidatar, você precisará ter:
+
+Superior Completo em áreas correlatas;
+Experiência em Análise de Dados;
+
+Desejável:
+
+Conhecimento em Datalake;
+Experiência em saúde suplementar;
+-----------------------------------------------------------------------------------

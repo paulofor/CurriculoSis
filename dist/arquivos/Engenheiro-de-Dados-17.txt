@@ -1,0 +1,250 @@
+[Oportunidade 1]
+Oportunidade: Back End Senior Software Engineer (Bangkok based – Relocation provided)
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+ Get to Know our Team 
+
+In Agoda’s Back-End Engineering department, we build scalable, fault-tolerant systems and APIs that host our core business logic. Our systems cover all major areas of our business: inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, and more. We employ state-of-the-art CI/CD and testing techniques to ensure everything works without downtime. Our systems are self-healing, responding gracefully to extreme loads or unexpected input. We use modern languages like Kotlin and Scala, Data technologies Kafka, Spark, MLflow, Kubeflow, VastStorage, StarRocks and agile development practices. Most importantly, we hire great people from around the world and empower them to be successful.
+
+ The Opportunity 
+
+Agoda Platform team is looking for developers to work on mission-critical systems that serve millions of users daily. You will have the chance to work on innovative projects, using cutting-edge technologies, and make a significant impact on our business and the travel industry.
+
+What You’ll Need To Succeed
+
+ 5+ years of experience developing performance-critical applications in a production environment using Scala, Java, Kotlin, C#, Go or relevant modern programming languages. 
+ Strong RDBMS knowledge (SQL Server, Oracle, MySQL, or other). 
+ Ability to design and implement scalable architectures 
+ Deeply involved in hands-on coding, developing and maintaining high-quality software solutions on a daily basis 
+ Good command of the English language. 
+ Engages in cross-team collaborations to ensure cohesive solutions 
+ Implement advanced CI/CD pipelines and robust testing strategies to ensure seamless integration, deployment, and high code quality. 
+ Passion for software development and continuous improvement of your knowledge and skills. 
+
+ It’s Great if You Have 
+
+ Knowledge in NoSQL, Queueing systems (Kafka, RabbitMQ, ActiveMQ, MSMQ), and Play framework. 
+
+#newdelhi #Pune #Hyderabad #Bangalore #Mumbai #Bengaluru #Chennai #Kolkata #Lucknow #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #mexico #sydney #melbourne #toronto #vancouver #shanghai #beijing #shenzhen#estonia #paris #hongkong #budapest #jakarta #bali #kualalumpur #dublin #berlin #telaviv #milan #rome #tokyo #osaka #amsterdam #oslo #manila #warsaw #krakow #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #chiangmai #phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #hochimin #wroclaw #poznan #katowice #rio #salvador #dhaka #islamabad #IT #ENG #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Lead Software Engineering – SRE (Bangkok-based, Relocation Provided)
+
+Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know our Team: 
+
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+The Opportunity:
+
+Lead Software Engineer in SRE is a part of data team who developing solutions for analytic production incidents, we are working close with our DevOps engineers, NOC, QA, and service owners to improve system reliability with an emphasis on safe deployment and monitoring with anomaly detection technique.
+
+In this Role, you’ll get to:
+
+Help establish and apply SRE best practices, standards and policies in hybrid cloud environments with hybrid workloads where both VMs and containers are used
+Develop systems to prevent outages through automatic detection and remediation
+Increase observability of system health to improve availability and system uptime
+Providing guidance and expertise to the team
+Influence, design and create new architectures, standards and methods for large-scale enterprise systems
+Document and present methodologies to operations, engineering and executive teams
+Coach and develop software engineers, looks for opportunities to improve both technical and people through highly effective 1-1s and growth plans
+
+What You’ll Need to Succeed:
+
+Bachelor’s degree in Information Systems/Engineering/related field
+4+ years in a technical role supporting IT products
+Ability to multitask and pivot when necessary in a fast-paced environment
+Hands-on experience with the whole SDLC: Requirement, Design, Code, Test, Deploy
+Deep understanding of computer networks
+Proficient in at least one programming language (e.g. Ruby, JavaScript/NodeJS, Python)
+Understanding of VMs, docker/rkt containers and their applications, K8s, private cloud knowledge is plus
+Hands-on experience designing and implementing monitoring and alerting systems
+Experience in Data platforms like SQL or Hadoop
+Excellent verbal and written English communication skills
+Incident management process, analytical problem-solving capabilities & experience & can lead the incident
+Can do attitude (sometime we build news thing)
+Data driven & Data analyze skill, we move forward using data
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #budapest #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #osaka #malta #amsterdam #oslo #warsaw #krakow #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4 #bangalore #delhi #hyderabad #pune #singapore #beijing #shanghai #shenzhen #tokyo #seoul #hongkong #taipei #kualalumpur #jakarta #hochiminh #hochiminhcity #manila #instanbul #makati #dubai #riyadh #gurgaon #noida #india
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Visagio Talentos - Formados: Engenheiro(a) de Dados [Remoto / Híbrido] Trabalho Remoto Efetivo
+
+Sobre a vaga
+Descrição da vaga
+
+Destinado à graduados nos cursos de Ciência da Computação, Engenharias, Sistemas de Informação e afins, que desejam se desenvolver especificamente na área de Engenharia de Dados.
+
+Nossa equipe atua em contextos variados, sempre com o objetivo de aprimorar a tomada de decisões e a eficiência operacional através do uso inteligente e inovador dos dados.
+
+Responsabilidades e atribuições
+
+Atuar na modelagem, coleta, limpeza e transformação de dados provenientes de diversas fontes;
+Suportar a construção e manutenção de pipelines de dados utilizando ferramentas de ETL;
+Participar da modelagem de dados para soluções de GenAI, estruturando dados para algoritmos de aprendizado de máquina;
+Colaborar com equipes multidisciplinares para entender e atender às necessidades de dados do negócio;
+Participar da criação e otimização de bancos de dados, data lakes e data warehouses;
+Apoiar na definição e implementação de arquitetura de dados que suportem as necessidades dos clientes;
+Ajudar na implementação de políticas de governança de dados para garantir a qualidade, segurança e integridade dos dados;
+Contribuir para a documentação dos processos e fluxos de dados.
+
+Requisitos e qualificações
+
+Pessoas graduadas nos cursos de Ciência da Computação, Engenharias, Sistemas de Informação e afins;
+Estamos buscando pessoas com ou sem experiência, então fique tranquilo, nosso time está aqui para lhe ajudar na formação ;)
+Desejável conhecimento básico em metodologias ágeis, padrões de projeto e arquitetura de sistemas;
+Dado que atuamos em diferentes clientes e ambientes, não há nenhum requisito mínimo de conhecimento de stack, mas é desejável conhecimento básico em pelo menos uma linguagem de programação (ex: C#, Kotlin, Ruby, etc.) e framework (ex: .NET, SpringBoot, Rails, etc.)
+
+Etapas do processo
+
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Teste de Perfil2Teste de Perfil
+Etapa 3: Histórico Acadêmico e Webinar Institucional3Histórico Acadêmico e Webinar Institucional
+Etapa 4: Teste de Lógica4Teste de Lógica
+Etapa 5: Teste de Tecnologia5Teste de Tecnologia
+Etapa 6: Entrevista6Entrevista
+Etapa 7: Entrevista 27Entrevista 2
+Etapa 8: Teste Situacional8Teste Situacional
+Etapa 9: Contratação9Contratação
+
+DESCUBRA O SEU CAMINHO NA v(dev)!
+
+Somos uma empresa do Grupo Visagio focada em desenvolver soluções digitais de alto impacto que transformam e evoluem o negócio de nossos clientes. Através de um ambiente de alta dinamicidade e engajamento com propósito, missão e cultura genuínos, buscamos pessoas apaixonadas por resolver problemas complexos por meio de inovação e tecnologia.
+
+Aqui estamos comprometidos com a diversidade e inclusão em todas as áreas de nosso negócio. Valorizamos a diversidade de pensamento, perspectivas e experiências em nosso local de trabalho. Comprometemo-nos a criar um ambiente de trabalho inclusivo e justo para todos, independentemente de sua origem geográfica, raça, etnia, idade, gênero, orientação sexual, ou deficiência, para que possam contribuir com todo o seu potencial.
+
+Se você busca realizar feitos grandiosos em um ambiente colaborativo e de crescimento acelerado, seu lugar é aqui!
+
+Para nos conhecer um pouco mais, acesse o nosso site: http://www.v-dev.io
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Looking for a place where you, your skills, and your contribution are valued and recognized? Somewhere you can grow not just as a professional, but also as an individual? You've come to the right place. At IT Labs, we take care of our own - and we mean it. If you love to code, can easily prioritize and analyze work, and keep one eye on the bigger picture and business needs - then you're the Senior Data Engineer we're looking for.
+
+As a Senior Data Engineer, you will be at the forefront of maximizing the value of extensive data. The API platform processes billions in payments monthly for millions of users. You'll play a key role in helping our client make well-informed decisions using this data.
+
+Your responsibilities will include crafting and executing a technical vision for state-of-the-art AWS-based data pipelines. You'll also support new product developments and data science initiatives while ensuring systems maintain optimal performance levels. Proficiency in infrastructure-as-code and CI/CD systems (such as Terraform, Troposphere, CloudFormation, Jenkins), along with experience in administering Microsoft SQL Server (especially in high-availability setups), is highly desirable for this position, as these are key aspects of the role.
+
+You will spend around 50% of your time building and enhancing data lakes and data pipelines, and about 20% on defining and implementing DataOps methodologies. Additionally, 20% of your time will be dedicated to writing and optimizing queries and reports. Finally, you'll spend roughly 10% of your time supporting and monitoring existing databases.
+
+Requirements
+
+At least 7 years in a Data Engineering position,
+Expert knowledge in .Python
+Proven experience with AWS technologies for building and managing data pipelines and performing ETL processes
+Proficient in using AWS warehousing and analysis tools like Redshift, Quicksight, and Athena
+Skilled in utilizing infrastructure-as-code practices, including CloudFormation, CDK, and Serverless frameworks
+Expertise in designing and reviewing complex Python programs, ensuring compliance with style and security standards
+Demonstrated ability to optimize SQL queries for maximum performance
+Hands-on experience with AWS RDS
+Ability to empathize with end-users to inform and guide decision-making processes
+Excellent analytical thinking and problem-solving capabilities
+Superior written and verbal communication skills
+Fluent English both spoken and written
+
+
+Practical Details:
+
+This is a contractor position for 12 months initially
+The position is 100% remote with US working hours
+Being LATAM based is a must
+
+
+Benefits
+
+We are a collaborative, supportive, and diverse bunch of people, who enjoy working together and treat each other with the utmost respect. Here everyone has the opportunity to share their experience, learn, and grow.
+
+List of benefits:
+
+Get your salary in USD,
+Choose your contract: Contract or B2B,
+Long-term engagement,
+Unlimited working-from-anywhere policy,
+PTO,
+Referral Bonuses,
+Working on international projects,
+Virtual Knowledge Sharing Sessions, Events and team hangouts
+
+
+Our values
+
+We are a company that seeks the best for both our employees and clients, reaching beyond expectations in turning dreams into reality. Our way of working is rooted in our core values (Integrity, Excellence, Proactivity, Innovation, and People), with an expectation that our future colleagues will make these their second nature in their everyday work and life. We don't ask for perfection, but we do appreciate people motivated to better themselves in every conceivable aspect.
+
+About IT Labs
+
+Founded in 2005, IT Labs is an international software tech company, specializing in purpose and process-driven teams for high-performance, innovation, transformation, and efficiency. Our HQ is in Palm Beach Gardens, Florida, and we have teams and offices around the world - the UK, the Netherlands, Belarus, Serbia, and North Macedonia. We are constantly growing, and we would love for you to become part of our team!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados SR
+
+Sobre a vaga
+Para esta posição buscamos profissionais capacitados além das qualificações técnicas. Procuramos pessoas determinadas, colaborativas e orientadas aos objetivos dos projetos. Candidatos comprometidos, com forte empatia com os colegas de trabalho e senso de equipe apurado estarão aptos a participar de nosso processo.
+
+O Engenheiro de Dados é o profissional responsável por permitir insights significativos por meio do ciclo de vida de dados (de ponta a ponta), incluindo data warehouse, modelagem e integração de dados, ETL e análise completa de dados. Para esta posição você precisa ter:
+
+Qualificações e Experiências
+
+Conhecimento avançado em SQL;
+Conhecimento básico em Big Query; 
+Inglês avançado.
+
+
+Será legal se você também tiver
+
+Experiência com Teradata;
+Conhecimento em Python;
+Conhecimento em BI;
+Conhecimento em soluções de ETL.
+
+
+Atuação
+
+Híbrido (presencial 1x por semana)
+
+
+Aqui na ESS você vai
+
+Vivenciar um ambiente descomplicado, informal e colaborativo com um time que te escuta e entende suas necessidades e se preocupa em facilitar seu dia a dia junto aos clientes;
+Terá oportunidade de participar da nossa comunidade Data & Insight e trocar experiências com um time de alto nível;
+Desenvolver sua carreira com os treinamentos, workshops e certificações da ESS Empowerment e seus parceiros;
+Ter pessoas que se preocupam com seu bem-estar, sua família, seus sonhos e objetivos de vida e carreira;
+Vem ser parte do time de #ESSer, aqui a gente aprende, troca, soma e cresce junto!
+-----------------------------------------------------------------------------------

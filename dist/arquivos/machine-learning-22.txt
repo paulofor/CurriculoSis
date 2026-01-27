@@ -1,0 +1,92 @@
+[Oportunidade 1]
+Oportunidade: Data Scientist Pl/Sr
+
+Sobre a vaga
+Olá 👋
+
+Esta é uma oportunidade para fazer parte da equipe de Dados da T10, compartilhar conhecimentos (e ideias) & colaborar em projetos desafiadores e que fazem a diferença para nossos Parceiros!
+
+Seu momento profissional combina com o desafio de compartilhar ideias e comprometer-se com a equipe? Então a vaga é pra você! Na T10, você trabalhará ao lado de pessoas apaixonadas pelo que fazem, motivadas por transformar o cotidiano do trabalho e sagazes por conhecimento. Esses diferenciais acompanham nosso foco: criar oportunidades reais de crescimento em sua carreira.
+
+Essa vaga é pra você que:
+
+É uma pessoa motivada por desafios e em busca de crescimento.
+Entende e lida bem com responsabilidade e comprometimento com entregas.
+Comunica-se com clareza e objetividade ao expressar ideias.
+Flui bem em interações com a equipe e com clientes externos.
+Avalia e pondera riscos técnicos e de negócio durante a implementação do projeto.
+Pensa de forma crítica e curiosa.
+
+
+Curtiu? O Reino te espera 🚀
+
+Responsabilidades e atribuições
+
+O que será esperado de você?
+
+📌 Você deve sentir-se confortável em realizar as seguintes atividades 📌
+
+Propor e realizar análises relevantes alinhadas com objetivo do negócio:
+Identificação e diagnóstico de problemas e oportunidades
+Levantamento, proposição e refinamento de hipóteses junto ao negócio.
+Implementar modelos de aprendizado de máquina utilizando técnicas de aprendizado supervisionado e não supervisionado.
+Elaborar relatórios claros e objetivos para otimizar tomadas de decisão estratégicas:
+Higienizar e avaliar conjuntos de dados.
+Realizar transformações necessárias em conjunto de dados "crus" para viabilizar análises.
+Comunicar efetivamente as motivações e insights das análises para os stakeholders.
+Criar pipelines.
+Traduzir o entendimento do negócio em ações/soluções.
+Aprimorar a performance de análises e modelos utilizando técnicas de feature engineering e feature selection.
+Documentação de discoveries e modelos desenvolvidos.
+
+
+Requisitos e qualificações
+
+Experiências necessárias
+
+📌 Espera-se experiência participativa em projetos de sucesso que lidaram com: 📌
+
+Técnicas e métodos de aprendizado supervisionado e não supervisionado — conhecimento intermediário+.
+Python para análise de dados utilizando, preferencialmente, os frameworks scikit-learn, pandas, etc — conhecimento intermediário+.
+Técnicas, métodos e boas práticas para visualização de dados — conhecimento intermediário+.
+Experiência ou conhecimento sólido em testes de hipótese.
+Experiência ou conhecimento lidando com valores nulos.
+Experiência ou conhecimento das implicações que cada tipo de dado pode ter sobre um modelo.
+Desenvolvimento de relatórios utilizando jupyter notebook.
+Experiência com Agile Process.
+Boas práticas de desenvolvimento de software (e.g. clean code, unit testing).
+
+
+Conhecimento em:
+
+Conhecimento em séries temporais e técnicas relacionadas (e.g. ARIMA, LSTM, RNN).
+Conhecimento em técnicas para lidar com desbalanceamento de dados.
+Técnicas para explicação de modelos.
+Noções de Cloud Development.
+Conhecimento em Cross-validation.
+Conhecimento em modelagem de ML (e.g. clustering, decision tree learning) e quando podem ser aplicados.
+Conhecimento em Partial Plots.
+Data Storytelling.
+Estatística Intermediária (e.g. regressão, bayesiana).
+
+
+Bônus:
+
+Experiência com projetos de aprendizado não supervisionado que utilizaram segmentação de clientes:
+Purchase behavior segmentation, channel segmentation, demographics segmentation, occasion segmentation, needs-based segmentation
+Projetos na área financeira (e.g. LTV, RFM, CAC, Churn).
+Conhecimento em pipeline de dados (e.g. Big Query, Spark, Airflow).
+Uso de ferramentas de experimentação e gestão de modelos —mlflow, etc.
+Criação de modelos de forecasting para diferentes cenários financeiros.
+Saber identificar data leakage.
+Experiência com TDD/BDD.
+Experiência com GitHub.
+Experiência com Docker.
+
+
+Informações adicionais
+
+Está é uma posição 100% remota. 
+Remuneração competitiva. Nosso objetivo maior é realizar um trabalho de alta qualidade e com impactos reais; e entendemos que isso tem um custo.
+Diferenciais: Ambiente plural, criativo, transparente e livre ✨
+-----------------------------------------------------------------------------------

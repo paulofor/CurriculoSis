@@ -1,0 +1,322 @@
+[Oportunidade 1]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates in Latin America who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+
+
+Responsibilities
+
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java, or Groovy, or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice to have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on either SQL or NoSQL technologies
+ If you have experience with NoSQL technologies, then we would be looking for hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+If you have experience with SQL technologies, we need you to have in-depth experience building and maintaining services with SQL databases.
+You can start as soon as possible
+You are located in Latin America
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Experience with Amazon Athena
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+(Client) Hiring Manager interview (30 min)
+(Client) Design & development competency check interview (about 45 minutes)
+(Client) Final interview (30 min)
+
+
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+ 
+What we offer
+
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Data Engineer
+
+Sobre a vaga
+If you are looking for a meaningful job where people work and act with passion, rethink the existing and always strive to find the best solution - you have come to the right place. We develop future technologies to conquer supply chain complexity, together.
+
+Overview
+
+Körber Supply Chain is a global provider of a unique blend of supply chain management software solutions. As a high-growth international corporation, Körber Supply Chain serves the evolving and increasingly complex requirements of supply chain operations of all sizes. Through a culture of innovation, Körber Supply Chain strikes the perfect balance amongst client satisfaction, employee fulfillment, and shareholder value through our accelerated services. Joining the Körber Supply Chain team means joining a network of diverse individuals all committed to helping our clients achieve improved productivity and customer satisfaction.
+
+The role is part of a strategic growing initiative to support the business with the integration of innovative products and features utilizing Artificial Intelligence, Operations Research, Advanced Analytics and other data oriented fields.
+
+We are looking for an experienced and ambitious Data Developer with Python & SQL/NoSQL skills to join our growing global and distributed Data Platform team. As a tech savvy software craftsman, you must have a deep understanding of coding principles, understand object-oriented programming and appreciate the agile development way of working. All developers are encouraged to consistently assist in innovation of the software development in terms of agility, DevOps and modern development technologies.
+
+Key Responsibilities
+
+Design, develop, and maintain data pipelines using Python and open-source tools and frameworks.
+Parse and process spreadsheets for data mappings from a product data model to a unified common data model.
+Write and optimize Spark jobs to aggregate and transform large datasets.
+Implement ETL processes to integrate data from various sources into our data warehouse.
+Collaborate with data scientists, analysts, and other team members to understand data needs and deliver high-quality data solutions.
+Ensure data quality, integrity, and security throughout the data lifecycle.
+Monitor and troubleshoot data pipeline performance and reliability issues.
+Stay current with industry trends and best practices in data engineering and big data technologies.
+
+Qualifications
+
+Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent work experience).
+Proven experience (atleast 3 years) as a Data Engineer or in a similar role.
+Experience with Data Lake / Delta Lake / Lakehouse technologies
+Strong proficiency in Python and experience with open-source data processing frameworks.
+Hands-on experience with Apache Spark and other big data technologies.
+Experience with ETL processes and tools such as Apache Airflow, Luigi, or similar.
+Familiarity with data modeling and data mapping techniques.
+Experience working with various data formats (CSV, JSON, Parquet, etc.) and databases (SQL and NoSQL).
+Familiarity with data security, regional segregation and large data sets
+Strong problem-solving skills and attention to detail.
+Excellent communication and collaboration skills.
+
+Preferred Qualifications
+
+Knowledge of supply chain and how data engineering principles apply to various areas in the domain is an advantage.
+Experience with cloud platforms such as AWS, Azure, GCP or OCI.
+Experience with cloud services for data engineering for example Azure Data Factory, Data Bricks, etc.
+Familiarity with containerization and orchestration tools like Docker and Kubernetes.
+Knowledge of widely known data platforms (like Snowflake) and how data engineering principles are applied and managed in those data platforms.
+
+What We Offer
+
+Competitive salary and benefits package.
+Opportunity to work with cutting-edge technologies in a dynamic and innovative environment.
+Collaborative and inclusive company culture.
+Professional development opportunities.
+Numerous further training opportunities, including in our ACADEMY.
+
+Please submit your resume in English. 
+
+If a candidate from Brazil is hired, the job title will be registered as "Developer" in the CLT (Brazilian labor card).
+
+Help enable those who move goods to do good by contributing your skills and individual viewpoints in a highly collaborative, caring team environment.
+
+Körber Supply Chain Software better enables those who move goods to do good when we prioritize diversity, equity, and inclusion. It’s better for our people, better for our business, and better for the world. That’s why at Körber we cultivate and celebrate our colleagues’ experiences and perspectives, whether they look, think, move, believe, or love differently than us. We are committed to fostering a diverse and inclusive work environment and pride ourselves on being an equal opportunity employer. We encourage people from diverse backgrounds to apply and all qualified applicants will receive equal consideration for employment without regard to gender and identity, age, race, religion, ethnicity, ancestry, sexual orientation or expression, disability, or veteran status.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Application Security Engineer
+
+Sobre a vaga
+Muito prazer, somos a Zallpy! 
+Somos muito mais que uma empresa de tecnologia; somos uma comunidade diversa, plural e talentosa. Nosso propósito é liderar a transformação digital, com excelência e agilidade, promovendo crescimento mútuo e genuíno em relações éticas e duradouras. Flexibilidade é uma de nossas marcas registradas, atuamos em diferentes modelos e formatos de equipe, mantendo nossa cultura leve, colaborativa e integrada, proporcionando equidade de oportunidades em um espaço onde todos se sintam seguros e ouvidos.
+A gente tá procurando por uma pessoa que seja facilitadora e solucionadora de problemas em tempo integral. E encontramos você!
+
+O que você vai fazer:
+Configurações de políticas, incluindo trabalhos investigativos e controles preventivos para proteger clusters Kubernetes, incluindo Hosts e imagens de containers;
+Triagem e remediação de descobertas de ferramentas de segurança na nuvem, incluindo descobertas de diferentes Serviços AWS, Kubernetes e imagens de contêineres;
+Avaliação de guardrails e políticas do AWS IAM, configuração de controles preventivos e investigativos, familiaridade com ferramentas como AWS Access Analyzer e Policy Simulator.
+
+O que estamos buscando:
+Inglês avançado ou fluente;
+Experiencia com processos de Gerenciamento de Vulnerabilidades desde o rastreamento, triagem, remediação e verificação de implementação;
+Experiencia com o serviço AWS Config e seus pacotes de conformidade;
+Experiencia com AWS CLI.(Autenticacao atraves de OIDC, criacao de polices e roles com CLI);
+Experiencia com Infraestrutura como Código (IaC), Terraform.(Remote State, Lock em Tabela, Autenticacao com Provider via cofre ou segredo.)
+Experiencia com pipelines CI/CD (Segredos para informacoes sensiveis, autenticacao com AWS atraves OIDC, gerenciamento de pacotes com Artifacts), ferramentas de segurança (Snyk, SonarQube, WAF, Shield), Kubernetes (RBAC, Role Based Identity, Acesso ao cluster em rede privada, comunicacao entre PODs em rede privada), imagens de contêineres (Identificacao de vulnerabilidades em pacotes de Deploy, Dockerfile com dados sensiveis protegidos atraves de segredos) ambiente Linux ( Conexao SSH somente atraves de origem autorizada, permissionamento de arquivos de acordo com o escopo da aplicacao);
+Experiência vasta com Javascript e Typscript;
+Experiência vasta com .NET.
+
+Será um diferencial se você:
+Certificações Kubernets (CKA);
+Certificações AWS Security Specialty ou AWS Advanced Networking Specialty;
+Experiência com Angular.
+
+Onde você vai trabalhar: 
+Posição 100% remota.
+
+Modalidade de contratação: 
+CLT;
+Cooperado.
+
+O que oferecemos: 
+Jornada de trabalho 100% remota;
+Vale Alimentação e/ou refeição no modelo flexível (cartão EVA);
+Assistência médica Unimed ou Bradesco para colaboradores e dependentes;
+Assistência odontológica Uniodonto, para colaboradores e dependentes;
+Convênios com Instituições de Ensino para desconto em Graduação, Pós e cursos livres;
+Totalpass para cuidar da saúde física;
+Zenklub para cuidar da saúde mental;
+Seguro de vida;
+Auxílio creche para zallpers com filhos(as) de 4 meses até 6 anos, que recebem até três pisos salariais da categoria;
+Baby Zallpy: um presente para celebrar o nascimento de bebês dos zallpers;
+Comunidades: apoiamos a atuação de três comunidades voluntárias de zallpers: Diversidade, Equidade & Inclusão, Esporte & Movimento e Tecnologia.
+
+* Beneficios válidos para modalidade CLT
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Software Engineer, Developer Experience
+
+Sobre a vaga
+The Company You’ll Join
+
+Carta is a platform that helps people manage equity, build businesses, and invest in the companies of tomorrow. Our mission is to unlock the power of equity ownership for more people in more places.
+
+Carta is trusted by more than 40,000 companies and over two million people in nearly 160 countries to manage cap tables, compensation, and valuations. Carta also supports nearly 7,000 funds and SPVs, and represents nearly $130B in assets under administration. Carta's tender offer solutions have returned $14B to shareholders in secondary transactions. Today, Carta’s platform manages nearly three trillion dollars in equity globally.
+
+For more information about our offices and culture, check out our Carta careers page.
+
+The Problems You'll Solve
+
+At Carta, Our Employees Set Out On a Mission To Unlock The Power Of Equity Ownership For More People In More Places. We Believe That The Problems We Solve Today Unlock The Opportunities Of Tomorrow. As a Senior Software Engineer, You’ll Work To
+
+Here are some problems we need you to help us solve:
+
+Carta’s developers work in distinct codebases that have their own architecture and logic: how do we build impactful solutions across these repos while maintaining consistency and efficiency?
+If we think about the software development lifecycle as a continuous transaction, where are the optimal starting points to introduce standardized processes and supported workflows to reduce complexity and friction in development?
+How can we proactively remove customer toil ahead of it being a blocker for developers? 
+
+In This Role You Will
+
+Architect, design and code highly available, secure, and scalable managed solutions like PaaS and IaaS
+Drive the implementation of continuous integration and continuous deployment (CI/CD) pipelines, automating build, test, and deployment processes to accelerate software delivery 
+Direct developers on how to leverage monitoring, alerting, and logging of the Platform to improve observability
+Continuously evaluate and improve the developer experience by gathering feedback, measuring key metrics, and iterating on solutions to address emerging needs and challenges.
+Mentor and grow junior software engineers
+
+The Team You'll Work With
+
+You will join our Developer Experience (DevEx) team of software engineers and infrastructure gurus within our Platform organization. Our North Star is to remove friction and toil during the software development lifecycle for our internal developers so that they can do the best work of their career.
+
+We deliver an end-to-end developer experience that is customer-focused, data-driven, and predictable. We do this by increasing development velocity through automation, eliminating friction via paved roads, providing customized recommendations across the organization, and allowing product engineers to specify intent declaratively, decoupled from implementation details.
+
+We work backwards from our customer’s needs and iterate quickly based on their feedback. Sitting at the nexus between our developers and our backend systems, DevEx is in a unique position to collect customer feedback and help shape strategy and direction for Platform teams as a whole.
+
+About You
+
+At Carta, you’re not just an employee. You’re a builder who is creating the infrastructure and tooling that accelerates innovation and empowers more ownership. Cartans are helpful, relentless, unconventional and kind; representing Carta’s Identity Traits. They work collaboratively and cross functionally to challenge the status quo; working towards a common goal of creating more owners in the private markets.
+
+4+ years of relevant industry experience recommended
+Years of experience - refer to Carta’s global leveling guidelines
+Strong engineering practices (e.g. coding, unit testing, code reviews, design documentation)
+Customer-centric. You’ll be working to simplify solutions and communicate them with your internal stakeholders regularly
+Experience developing backend services
+Experience with Python or Java
+Experience leading, growing and mentoring other engineers
+
+We are an equal opportunity employer and are committed to providing a positive interview experience for every candidate. If accommodations due to a disability or medical condition are needed, please connect with the recruiter via email. As a company, we value fairness, helpfulness, transparency, leadership and build our teams around these values. Check out our careers page to get to know us better as you think about your next step at Carta.
+
+Important Security Notice for Candidates
+
+Our company has been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will come from an @carta.com domain. Be cautious of any requests for sensitive information or payments outside of our official channels. For more information about this type of scam, please review the guidelines provided by the Federal Trade Commission (FTC). If you encounter any suspicious activity, please report it immediately to recruiting-systems@carta.com.
+
+Awards and Acknowledgements
+
+Companies and funds like Tribe and Pipe build their businesses on Carta. The company has been included on the Forbes World’s Best Cloud Companies, Fast Company's Most Innovative list, and Inc.’s Fastest-Growing Private Companies. We’ve also been recognized as a 2023 Built In Best Place to Work in the U.S., a Muse VIBE Award winner in the Vacation and Time Off category and certified as a Great Place to Work.
+
+Interested in data privacy? Check out our policies on Privacy and CA Candidate Privacy.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Full Stack Engineer
+
+Sobre a vaga
+Virtasant is a leading cloud consulting services provider. We heavily focus on lift & shift, cloud-native development, cloud cost optimization, and migration services. As a consulting company, we often face the challenge of creating an engineering team in a matter of a week or two. To do that, we have created a secondary support business that runs a talent network and provides staffing services.
+
+Our client is a healthcare-focused company that builds software designed to make the process of expediting healthcare plans and approving procedures in record time so that both patients and doctors can focus on what's more important - health.
+
+
+The position
+
+This is a fantastic opportunity to join a high-caliber software engineering team that is growing quickly. You will build impactful healthcare technology on a modern technology stack, by excelling in building new functionalities that support our client's teams to evolve product offerings and clinical intelligence.
+It's a fully remote (of course!), full-time position for candidates either in Latin America, Africa, or Eastern Europe who can work on USA Eastern Time office hours (check what time it is in New York, for instance, and compare to your own to see what's the difference).
+
+
+Responsibilities
+
+Work on fast-paced, collaborative, agile teams to build and enhance a growing software platform together
+Responsible for end-to-end feature releases and platform enhancements
+Actively support the technical design process, bringing your expertise and analysis to help make data-driven decisions
+Contribute heavily to feature design, development, testing, and delivery of our client's cloud platform and web applications
+Support all parts of our client's platform from the database to the frontend
+Continuously discover, understand, and implement new technologies & services to maximize development efficiency
+Contribute to a culture committed to testing, quality, and attention to detail by supporting best practices such as writing and maintaining comprehensive test coverage
+Actively participate in ensuring our client maintains a disciplined approach to healthcare security
+Foster a community of mentorship for junior engineers on your team
+ 
+Your background & requirements
+
+Bachelor’s degree in computer science, software engineering, or equivalent experience
+Experience working on software development teams, building and deploying full-stack web applications
+Passionate about building quality products and want to own product development end-to-end, with excellent design and development standards
+Collaborate closely with teammates in product and design to build applications providing healthcare practitioners with the highest quality user experience
+Experience with common software development practices such as version control, unit testing, and CI/CD
+Team player, interested in working in a fast-paced startup environment
+A minimum of 7 full years of experience in the software development lifecycle
+Experience with data pipelines or applications using Java or Groovy or Kotlin
+Experience building applications using React (mandatory) and TypeScript (nice-to-have)
+Hands-on experience leveraging test frameworks such as Cypress, Jest, Mocha, JUnit, or Cucumber
+Hands-on experience building applications on NoSQL technologies
+Hands-on in-depth experience building and maintaining services using either MongoDB or Elasticsearch or Kafka
+You can start as soon as possible, ideally immediately
+You are located in either Latin America, Africa, or Eastern Europe
+You can work EST (Eastern Time) office hours
+
+
+Nice to haves
+
+Prior experience in healthcare and life sciences
+Familiarity with healthcare interoperability standards (HL7, FHIR)
+Experience with integration engines (like Mirth Connect, Mulesoft, etc.) for healthcare data exchange and transformation
+Experience with common software development practices such as version control, unit testing, and CI/CD (the team uses GitHub Actions)
+
+
+Our recruitment process
+
+Recruiter interview (30 min)
+Technical interview (45 min)
+Take-home coding exam (30 to 45 minutes, online, timed)
+Hiring Manager (client) interview (30 min)
+Design & development competency check interview (client) (about 45 minutes)
+Final (client) interview (30 min)
+ 
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+
+ What we offer
+
+Totally remote, full-time (40h/week)
+Monday to Friday, Eastern Standard Time office hours
+Long-term, no end date independent contractor agreement
+Payment in USD, biweekly or monthly - your choice
+-----------------------------------------------------------------------------------

@@ -1,0 +1,338 @@
+[Oportunidade 1]
+Oportunidade: Data Developer (Engenharia de Dados) Sênior/Especialista
+
+Sobre a vaga
+Estamos com uma oportunidade para um(a) Data Developer Sênior ou Especialista (Engenharia de Dados). Como parte do time de produtos de dados, sua missão é usar seus conhecimentos, habilidades para explorar problemas, desenhar, desenvolver produtos impactantes, entregar observando governança, segurança e performance, em um ambiente colaborativo e de inovação.
+
+Acreditamos que a engenharia de dados é uma disciplina essencial para este produto, sendo responsável pela arquitetura e tecnologias para movimentar e organizar grandes volumes de dados, observando governança, segurança e performance.
+
+🧑‍🦽Todas as nossas vagas estão disponíveis para pessoas com deficiência! Que tal se juntar ao nosso time e embarcar nessa jornada com a gente?
+
+Responsabilidades:
+Participar das conversas sobre o produto e parear com Group Product Manager e Product Managers, entendendo e garantindo a entrega de valor;
+Criar dashboards e visualizações de dados que apoiem a tomada de decisão;
+Desenhar a arquitetura e avaliar as tecnologias disponíveis para resolver o problema certo;
+Combinar a arquitetura e tecnologia para desenvolver e entregar componentes reutilizáveis como conectores, APIs, SDKs, CLIs;
+Testar e automatizar tudo que for possível;
+Validar e adaptar os componentes de acordo com os feedbacks dos usuários;
+Colaborar com a qualidade e inovação tecnológica do produto e ambiente de trabalho.
+Conhecimentos e Habilidades
+Facilidade para aprender novas tecnologias e se adaptar às mudanças;
+Git Workflows, CI/CD e automação de processos;
+Infra as a Code - OpenTofu/Terraform;
+Facilidade de comunicação e colaboração com outras pessoas;
+Conhecimento e habilidade em alguma linguagem de programação e consulta, preferencialmente Python e/ou Java e SQL;
+Conhecimento e habilidade em alguma tecnologia de processamento distribuído, preferencialmente Spark;
+Conhecimento e habilidade em alguma nuvem, incluindo serviços de computação, armazenamento, bancos de dados e Analytics em AWS;
+Conhecimento e habilidade em bancos de dados SQL, NoSQL e serviços de streaming distribuídos, por exemplo: PostgreSQL, Cassandra e Kafka;
+Conhecimento sobre arquiteturas de Big Data, por exemplo: Data Warehouse, Data Lake, Lambda, Kappa, Data Mesh;
+Conhecimento sobre modelagem e cargas de trabalho de dados, incluindo modelagem normalizada, multi-dimensional, e cargas de trabalho OLTP e OLAP;
+Vivência com grande volume de dados;
+
+Requisitos e Qualificações:
+Git Workflows, CI/CD e automação de processos;
+Infra as a Code - OpenTofu/Terraform;
+Conhecimento e habilidade em alguma linguagem de programação e consulta, preferencialmente Python e/ou Java e SQL;
+Conhecimento e habilidade em alguma tecnologia de processamento distribuído, preferencialmente Spark;
+Conhecimento e habilidade em alguma nuvem, incluindo serviços de computação, armazenamento, bancos de dados e Analytics em AWS;
+Conhecimento e habilidade em bancos de dados SQL, NoSQL e serviços de streaming distribuídos, por exemplo: PostgreSQL, Cassandra e Kafka;
+Conhecimento sobre arquiteturas de Big Data, por exemplo: Data Warehouse, Data Lake, Lambda, Kappa, Data Mesh;
+Conhecimento sobre modelagem e cargas de trabalho de dados, incluindo modelagem normalizada, multi-dimensional, e cargas de trabalho OLTP e OLAP;
+Vivência com grande volume de dados;
+
+O que te tornaria um especialista para essa vaga:
+Conhecimento avançado em alguma tecnologia de processamento distribuído, preferencialmente Spark, e/ou bancos de dados SQL e/ou NoSQL, preferencialmente Oracle, PostgreSQL e/ou DynamoDB;
+Experiência com ambientes de Big Data em produção, incluindo o desenho da arquitetura, provisionamento de infraestrutura, desenvolvimento de integração de dados (pipelines, workflows), monitoramento de performance e custos;
+
+O que seria muito legal se você tivesse:
+Experiência com produtos em especial ERP;
+Conhecimento em AWS: Athena, S3, Lambda, IAM;
+Conhecimento em Cloud em especial AWS;
+Conhecimento em em alguma plataforma como DataBricks, SnowFlake ou DataIku.
+Ter participado em construção de produtos de dados e inteligência artificial
+
+O modelo de trabalho varia conforme a localização: presencial para quem está em Uberlândia/MG, híbrido (3x por semana no escritório) para São Paulo/SP e remoto para as demais regiões.
+
+Se você deseja crescer, encarar novos desafios e fazer parte de um time que está construindo algo grande, seu lugar é aqui! Topa o desafio?
+
+Benefícios que vão além da Jornada Sankher
+Na Sankhya, valorizamos a individualidade e oferecemos benefícios que promovem liberdade, equilíbrio e bem-estar em todas as áreas da vida.
+
+💵 Participação nos Resultados (PPR)
+🥗 Vale Alimentação/Refeição iFood
+🤰 Licença Maternidade e Paternidade Estendida
+👶 Auxílio Creche
+🩺 Plano de saúde
+😁 Plano odontológico
+🎉 Day OFF no Aniversário
+💵 Empréstimo Consignado
+🏋️ Auxílio vida saudável
+💚 Seguro de Vida
+🚍 Vale Transporte
+💻 Equipamentos Fornecidos pela Empresa
+🌎 Auxílio Idiomas
+📜 Auxílio Graduação, Pós-Graduação, Auxílio Certificações, Universidade Corporativa Sankhya
+
+🔝 Na Sankhya, sua jornada de crescimento nunca para. 🚀💚
+
+🎯 Plano de Performance e Desenvolvimento Individual: Plano personalizado para seu crescimento profissional.
+📌 Touchpoints de Evolução com a Liderança: Encontros regulares com líderes para discutir seu progresso e desenvolvimento.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+
+Junte-se a nós e seja parte da mudança!
+
+Buscamos um Engenheiro de dados Sênior com sólida experiência em Python para liderar o desenvolvimento e implementação de um Master Data Management (MDM) de Pacientes. O profissional irá trabalhar na modelagem de dados, especificação de regras de negócios e implementação dessas regras e tabelas no ambiente Databricks, unificando dados de pacientes provenientes de múltiplos sistemas de origem.
+
+
+Responsabilidades e atribuições
+Desenvolver e implementar a arquitetura de modelagem de dados do MDM de Pacientes
+Especificar e documentar regras de negócios para unificação e tratamento de dados de pacientes
+Implementar pipelines de processamento de dados no Databricks
+Desenvolver lógicas para matching, deduplicate e golden record de pacientes
+Estabelecer fluxos de qualidade de dados e validação
+Criar e manter tabelas integradas seguindo as regras de negócios estabelecidas
+Implementar rotinas de atualização e sincronização de dados
+Participar de code reviews e mentoria técnica da equipe
+Colaborar com stakeholders de negócios para refinar regras e requisitos
+
+Requisitos essenciais:
+Experiência avançada com Python
+Sólidos conhecimentos em:
+Databricks e Delta Lake
+PySpark para processamento de dados em larga escala
+SQL e modelagem de dados
+ETL/ELT e pipelines de dados
+
+Experiência com Master Data Management (MDM) ou projetos similares de integração de dados
+Conhecimento em técnicas de matching, fuzzy matching e deduplicação de registros
+Experiência com implementação de regras de negócios complexas em código
+Domínio de versionamento Git e metodologias ágeis
+Experiência com boas práticas de desenvolvimento (testes unitários, documentação)
+
+Diferenciais:
+Experiência prévia com MDM na área de saúde
+Conhecimento em FHIR ou outros padrões de dados de saúde
+Experiência com Great Expectations para qualidade de dados
+Conhecimento em frameworks de governança de dados
+Experiência com mensageria (Kafka, Event Hubs)
+Familiaridade com ferramentas de CDC (Change Data Capture)
+Conhecimento em observabilidade (Databricks SQL Analytics, Grafana)
+Experiência com APIs RESTful para exposição de dados
+
+
+Benefícios:
+
+🍛 Vale Alimentação ou Vale Refeição;
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+🗣 Mentoring;
+🏫 Auxílio Creche;
+💉 Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+🦷Assistência Odontológica;
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+🛫 Clube de viagens;
+🐶 Convênio para Pet;
+e muito mais...
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de Dados | Remoto
+
+Sobre a vaga
+SOBRE A CAPCO 
+
+A Capco é uma consultoria global de tecnologia e gestão especializada na transformação digital, oferecendo soluções inovadoras e orientadas por dados para um portfólio crescente de mais de 100 clientes globais, entre eles bancos, pagamentos, mercados de capitais, gestão de patrimônio e ativos, seguros e setor de energia.
+
+Nos destacamos pela abordagem personalizada, focada na construção de parcerias estratégicas de longo prazo e na aceleração de iniciativas digitais. Nossa expertise ganha vida por meio dos Innovation Labs e da cultura premiada #BeYourselfAtWork, que valoriza a diversidade e o talento.
+
+Temos oportunidades em formato presencial, híbrido e remoto, com vagas disponíveis em diversas localidades no Brasil. Com presença global nos principais centros financeiros - temos 33 escritórios nas Américas, Europa e Ásia-Pacífico - estamos comprometidos em oferecer soluções práticas e integradas, promovendo colaboração e confiança em cada projeto. Se criatividade e inovação são sua paixão, a Capco é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira!
+
+Sobre a Posição
+
+Estamos em busca de um(a) Engenheiro(a) de Dados com experiência em ambientes on-premise e cloud, para atuar na migração e modernização da camada de dados . A atuação envolve o desenvolvimento de pipelines, transformação de dados e integração com plataformas modernas como Azure Data Factory e Databricks, além de sólidos conhecimentos de ETL e Informatica Power Center.
+
+Responsabilidades
+
+Desenvolver pipelines de ingestão e transformação de dados para migração de sistemas legados (Oracle, DB2, PowerCenter) para o ambiente em nuvem (Azure). 
+Mapear estruturas de dados, tabelas e processos existentes, implementando regras de negócio na nova arquitetura.
+Criar e manter estruturas eficientes de armazenamento em Delta Lake.
+Assegurar qualidade, integridade e rastreabilidade dos dados com aplicação de regras de validação e controle.
+Trabalhar em conjunto com arquitetos e analistas de negócio para garantir entregas alinhadas às necessidades funcionais.
+Documentar fluxos, processos e lógicas de transformação de dados.
+Monitorar e otimizar performance de pipelines e jobs em produção.
+
+Requisitos Essenciais
+
+Experiência com ferramentas de integração de dados (Azure Data Factory, Databricks, PowerCenter).
+Sólidos conhecimentos de SQL avançado e linguagem Python.
+Experiência com bancos de dados relacionais (Oracle e DB2).
+Familiaridade com arquitetura de dados moderna: Delta Lake, medallion architecture (bronze, silver, gold).
+Experiência em projetos de migração e integração de dados corporativos.
+Conhecimento em controles de qualidade de dados e versionamento de pipelines.
+
+Requisitos Desejáveis
+
+Experiência com dados no segmento Seguros e Saúde.
+Noções de Machine Learning com Databricks MLLib.
+Familiaridade com ferramentas de orquestração e observabilidade.
+Conhecimentos de modelagem dimensional e boas práticas de DW/BI.
+
+Por Que Capco
+
+Na Capco, promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. Pensamos, em conjunto, sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros. Juntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente! 
+
+Juntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente!
+
+Próximos Passos
+
+O objetivo da Capco é conduzir um processo flexível e alinhado às necessidades de cada oportunidade e talento.
+
+Etapa 1: Entrevista comportamental.
+Etapa 2: Entrevista técnica.
+Etapa 3: Conversa com time de Projeto/ Delivery.
+Etapa 4: Conversa com cliente.
+Etapa 5: Proposta ou feedback.
+
+As etapas do nosso processo seletivo descritas são essenciais para garantir uma avaliação completa e assertiva. Contudo, elas podem ser ajustadas dependendo da senioridade do(a) candidato(a), da área de atuação e do formato do projeto.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados Pleno
+
+Sobre a vaga
+Sobre nós 
+
+A XP Inc. é uma das maiores instituições financeiras independente do Brasil, dona das marcas XP, Rico, Clear, XP Educação, InfoMoney, entre outras. Com mais de 4,6 milhões de clientes ativos e um valor superior a R$ 1,1 trilhão de ativos sob custódia, há 23 anos vem transformando o mercado financeiro para melhorar a vida das pessoas.
+
+Com uma cultura marcante guiada por quatro valores - Sonho Grande, Espírito Empreendedor, Foco no Cliente e Mente Aberta - a XP Inc. está sempre em busca dos melhores talentos que tem ambição de fazer o impossível.
+
+🚀 Sobre a Oportunidade
+
+Essa oportunidade é para a área de Dados e Analytics em Prevenção a Fraudes e Atendimento, que tem a missão de criar do começo ao fim, produtos de dados que gerem valor e suportem decisões de negócio. Esse é um time apaixonado por dados, você pode se dar muito bem se gostar de Modelagem e Engenharia de Dados, SQL e Python.
+
+Saiba mais sobre nosso dia a dia no Instagram e no LinkedIn.
+
+Confira nossas avaliações no Glassdoor.
+
+🔍 O Que Procuramos
+
+Pré-requisitos Essenciais
+
+Conhecimento avançado em SQL; 
+Conhecimento avançado em Python; 
+Experiência com modelagem de dados e construção de pipelines de ETL; 
+Conhecimento em ferramentas de Data Viz; 
+Raciocínio lógico e perfil analítico; 
+Residir em São Paulo 
+
+Diferenciais
+
+Tiver conhecimento em PySpark; 
+Tiver experiência com Databricks; 
+Tiver conhecimento em Power BI e DAX; 
+Experiência com uso de IA generativa. 
+
+🎯 Desafios e Impacto
+
+Modelagem e Engenharia de Dados para criação de DAGs de ETL, utilizando SQL e Python dentro da plataforma Databricks; 
+Estudos para embasar decisões de negócio; 
+Criação de Dashboards utilizando o Power BI; 
+Interação com Stakeholders. 
+
+⏳ Etapas do Processo
+
+Triagem inicial: Análise do currículo para verificar a adequação às qualificações e requisitos da vaga. 
+Teste cognitivo: Teste de raciocínio lógico da Predictive Index.
+Entrevista com a equipe de Recrutamento: Discussão sobre as expectativas em relação à vaga e aos objetivos profissionais. 
+Entrevista com a liderança: Uma conversa para discutir sua visão e como você pode contribuir para a equipe e a empresa. 
+Entrevista com colegas de trabalho: Interação com futuros pares para avaliar a sinergia e o trabalho em equipe. 
+Entrevista focada em cultura: Exploração dos valores e princípios da empresa para garantir um bom encaixe cultural. 
+Oferta: Apresentação da proposta de trabalho, incluindo detalhes sobre remuneração e benefícios. 
+
+Benefícios:  
+
+Saúde e Bem-estar
+
+Plano de saúde sem coparticipação (inclusive, para dependentes)
+Plano odontológico
+Wellhub (Gympass)
+Zenklub
+Seguro de Vida
+iFood Benefícios (VA e VR flexível)
+Vale Transporte
+New Value (clube de benefícios)
+Licença parental: maternidade de 6 meses e paternidade de 20 dias.
+Auxílio Creche
+
+Vida Financeira
+
+Fundos de Investimentos Exclusivos
+Assessoria de Investimentos 
+Cartão XP Visa Infinite sem anuidade 
+Crédito (consignado, home equity, CCB Imobiliário, etc.) 
+
+Modelo de Trabalho Presencial Flexível 
+
+O nosso modelo de trabalho varia de acordo com a função, podendo ser totalmente presencial para frentes de negócio e mais flexível para outras equipes.
+
+Seguimos um modelo com mais frequência presencial, mas sempre guiado por flexibilidade e autonomia com a responsabilidade da nossa cultura empreendedora.
+
+Aqui na XP Inc., valorizamos as interações pessoais e acreditamos no uso do escritório como uma ferramenta para potencializar nossas relações no trabalho.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Cientista de Dados / Híbrido - Rio de Janeiro/RJ
+
+Sobre a vaga
+REQUISITOS MANDATÓRIOS
+
+EXPERIÊNCIA
+
+Experiência com análise e modelagem de dados aplicadas à indústria de óleo e gás Atuação prévia em empresas do setor energético ou projetos envolvendo engenharia de dados e analytics Vivência em projetos de otimização operacional, manutenção preditiva e monitoramento de ativos;
+Habilidade com Linguagens de Programação: Python, R, SQL Machine Learning & Estatística: Modelagem preditiva, séries temporais, aprendizado de máquina Banco de Dados: PostgreSQL, SQL Server, NoSQL (MongoDB, Cassandra) Processamento;
+Conhecimento com Engenharia de Dados: ETL, Apache Spark, Databricks;
+Habilidade com Power BI
+Habilidade com Cloud Computing: AWS, Azure, Google Cloud (foco na infraestrutura utilizada pela Petrobras) e Big Data: Hadoop, Kafka;
+Conhecimento em ferramentas de DevOps e MLOps: Docker, Kubernetes, Git, CI/CD;
+Capacidade analítica e visão estratégica para transformar dados em insights acionáveis Comunicação clara para interagir com equipes multidisciplinares (engenharia, TI, negócios) Proatividade na resoluço de problemas operacionais e suporte à tomada de decisão Adaptação a ambientes regulados e metodologias ágeis.
+
+ESCOLARIDADE
+
+Graduação: Superior em Engenharia, Ciência da Computação, Estatística, Matemática, Física, ou áreas correlatas. 
+Pós-graduação: Pós-graduação ou MBA em Ciência de Dados, Inteligência Artificial ou Big Data (desejável).
+Certificação: Ao menos uma das certificações a seguir (Certificação PMI-ACP, CBPP, BPM ou Lean 6-Sigma (Black Belt) ou Certificação PMP ou PMI-ACP, Professional Scrum Master (PSM), Team Kanban Practitioner (TKP), Lean 6-Sigma (Black Belt) ou Ceritificação Oficial SAFe®
+Certificações (Desejáveis)
+
+Microsoft Certified: Azure Data Scientist Associate AWS Certified Machine Learning – Specialty Google Professional Data Engineer Certificações em Big Data, Machine Learning e Analytics Visualização de Dados: Tableau, Grafana
+
+ATRIBUIÇÕES
+
+Atuar nos subeixos de conformidade, desenvolvimento de habilidades e competências, negócios, processos, projetos, cadeia de suprimentos e transformação digital, realizando a coordenação técnica, análises críticas, apoio estratégico, otimizações, estudos técnicos, condução de trabalhos técnicos especializados, desenvolvimento de soluções, melhoria dos processos e atividades, consultorias, identificação de riscos e oportunidades. 
+
+REQUISITOS DESEJÁVEIS
+
+Certificações em Microsoft Power Platform, Azure Solutions Architect e Automation Anywhere;
+Experiência em Inteligência Artificial e Machine Learning para análise avançada de dados;
+Soft Skills: Habilidade para interpretar e explorar dados de forma estratégica;
+Boa comunicação para interagir com equipes técnicas e de negócios;
+Capacidade de trabalhar em ambientes dinâmicos e de rápida transformação.
+
+Sobre a CAPCO
+
+Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. 
+
+Pensamos, em conjunto, sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros.
+
+Nossas oportunidades são trabalhadas para todos(as)!!!
+
+
+
+Próximos Passos
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+-----------------------------------------------------------------------------------

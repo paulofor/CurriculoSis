@@ -1,0 +1,340 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvimento Java (Phyton) - Pleno
+
+Sobre a vaga
+Quais serão suas responsabilidades?
+
+Atuar como desenvolvedor backend em equipe que desenvolve soluções para gestão de frotas e mobilidade.
+
+O que é necessário para participar desse processo seletivo?
+
+Sólido conhecimento em desenvolvimento de Software com as tecnologias Java e Python;
+Sólido conhecimento em APIs Restfull;
+Lógica de automação;
+Conhecer plataforma em Cloud, para o ambiente IBM;
+Conhecimento em chamadas de serviços externos com OAUth2, tokens e APIs Rest/Soap;
+Capacidade de treinar modelos;
+Perfil analítico é imprescindível;
+Excelência na comunicação verbal e escrita.
+
+Diferencial:
+
+Conhecimento de WatsonX ou Cloud Pack.
+
+Por que fazer parte do time DBC Company?
+
+ Somos a 18ª melhor empresa para trabalhar do Brasil e a 4ª melhor empresa para trabalhar no Rio Grande do Sul, segundo o GPTW 2024;
+ Todos os profissionais que estão alocados em clientes e/ou projetos são acompanhados por Gestor da DBC e também por Líder de Smartsourcing;
+ A DBC incentiva seus colaboradores a obterem certificações relacionadas à sua área de atuação e alinhadas com sua Gestão DBC.
+
+O que é importante saber?
+
+ Nosso time promove um ambiente seguro para todos os profissionais independente de sua etnia, crença religiosa, orientação sexual, identidade de gênero, deficiência, idade, etc.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Data Engineer, Brazil - X Delivery
+
+Sobre a vaga
+Locations: São Paulo | Rio de Janeiro
+
+Who We Are
+
+Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact.
+
+To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive.
+
+We Are BCG X
+
+We’re a diverse team of more than 3,000 tech experts united by a drive to make a difference. Working across industries and disciplines, we combine our experience and expertise to tackle the biggest challenges faced by society today. We go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. Leveraging BCG’s global network and partnerships with leading organizations, BCG X provides a stable ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions.
+
+What You'll Do
+
+Join the BCG X Delivery team and immerse yourself in cutting-edge projects alongside our consulting units. Your role will be pivotal in employing data engineering methodologies to enhance the capabilities of both BCG Consulting and BCG X teams, across various domains. You'll be the go-to expert for data engineering, offering accelerated execution support to bring visions to life. Your collaboration will be key in understanding project requirements, leading the design, development, delivery, and support of solutions tailored to client needs. Expect to dive deep into tools and processes, ensuring the delivery of high-quality and efficient technology solutions. Whether it's short-term prototypes or long-term enterprise-grade developments, your contribution will significantly impact our project outcomes and organizational goals.
+
+What You'll Bring
+
+Technical Skills - Knowledge And Experience With
+
+Unix-based command line & development tools
+Version control (e.g. Git)
+Python
+Charting libraries (e.g. HighCharts, D3.js, Recharts, Plotly, Altair)
+Cloud computing platforms (e.g. AWS, Azure, Google Cloud, etc.)
+Containerization (Docker, Kubernetes, etc.)
+Relational databases (e.g. PostgreSQL, MariaDB, MySQL, etc.)
+NoSQL databases (e.g. MongoDB, Neo4j, Redis, etc)
+Spark or other distributed big data systems (e.g. Hadoop, Pig, Hive, etc.)
+Stream-processing frameworks (e.g. Kafka)
+Data pipeline orchestration tools (e.g. Airflow, Prefect, Dagster, etc.)
+
+Job Requirements
+
+Bachelor's / Master's in Computer Science, a related field, or equivalent work experience 
+Fluency in Portuguese and English
+Experience in Data Engineering across various industries, demonstrating a track record of delivering analytics solutions in commercial environments
+
+Core Attributes
+
+Harness Big Data tools and frameworks to fulfill specific requirements.
+Implement ETL processes across diverse architectures, ensuring optimal performance and advising on infrastructure enhancements.
+Collaborate with case and proposal teams to define analytics outcomes, select methodologies, and deliver unique insights.
+Lead analytics modules, establishing trust through expertise in analytics and effective communication of findings.
+Integrate learnings into new best practices, manage content confidentiality, and maintain stakeholder relationships for project security.
+Guide junior team members, contribute to intellectual property, and conduct technical training.
+Exhibit strong communication skills, both written and verbal, for clear message delivery.
+Utilize analytical skills throughout the analytics lifecycle, providing advice and expanding knowledge in advanced analytics.
+
+Additional info
+
+Please apply for the positions equivalent to your previous work experiences. The seniority will be evaluated according to your experience and career structure at BCG X during the process.
+
+Even if you don't meet all these requirements, we encourage you to apply if this job description excites you.
+
+Note: For this position, we are considering applicants from São Paulo and Rio de Janeiro, including both the capital cities and the surrounding areas within a 150km radius of the capitals.
+
+#BCGXjob
+
+Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.
+
+BCG is an E - Verify Employer. Click here  for more information on E-Verify.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Engineer – Industrial IoT & Real-Time Analytics
+
+Sobre a vaga
+Job Description
+
+We are looking for a Data Engineer to design and implement large-scale, real-time data architectures that power AI, predictive maintenance, and industrial automation in mission-critical environments. This role will ensure high availability, accuracy, and efficiency in processing real-time industrial data.
+
+How You Will Contribute And What You Will Learn
+
+Design and implement real-time data pipelines for ingesting, processing, and visualizing industrial sensor data.
+Develop low-latency, high-throughput streaming architectures using Kafka, Apache Flink, or Spark Streaming.
+Build and optimize secure, scalable data lakes and ETL pipelines for mining, oil & gas, and heavy industry applications.
+Implement event-driven architectures and data transformation workflows for AI-powered automation.
+Ensure data governance, security, and compliance with industrial cybersecurity standards (IEC 62443, ISO 27001, GDPR).
+Work with AI engineers, cloud architects, and automation teams to enable real-time AI decision-making.
+Optimize time-series data processing using TimescaleDB, InfluxDB, or OpenTSDB.
+Deploy cloud-based data solutions with AWS Kinesis, Google Pub/Sub, Snowflake, or Grafana.
+Monitor data pipeline performance with moden observability frameworks (e.g. Prometheus), ensuring fault tolerance, scalability, versioning, and efficiency.
+Collaborate with industrial automation and IoT teams to integrate edge-to-cloud data flows.
+
+Key Skills And Experience
+
+Bachelor’s or Master’s degree in Computer Science, Data Engineering, or a related field.
+5+ years of experience in real-time data engineering, cloud computing, or industrial IoT.
+Strong expertise in data streaming, event-driven processing, and distributed computing frameworks.
+Hands-on experience with best practices with Big Data using Kafka, Apache Flink, Spark Streaming, or similar technologies.
+Deep knowledge of ETL design, data warehousing, and real-time analytics.
+Experience with SQL and NoSQL databases, including TimescaleDB, InfluxDB, Cassandra, or MongoDB.
+Proficiency in Python, Scala, or Java for data processing and automation.
+Understanding of IoT protocols (MQTT, OPC-UA, Modbus) and industrial data standards.
+Familiarity with DevOps and MLOps best practices, including CI/CD pipelines for data workflows.
+Knowledge of cloud-native data solutions (AWS Kinesis, Google Pub/Sub, Azure Event Hub).
+Familiarity with workflow orchestration platforms like Apache Airflow
+
+Preferred Qualifications:
+
+Experience in mining, oil & gas, or large-scale industrial automation projects.
+Knowledge of machine learning model deployment in real-time production environments.
+Understanding of GIS data processing, geospatial analytics, and digital twin integrations.
+Experience with cybersecurity frameworks for industrial data environments.
+
+Soft Skills:
+
+Strong problem-solving mindset, capable of optimizing large-scale data architectures.
+Ability to collaborate across teams, including AI, cloud, and industrial operations.
+Effective communication skills for translating technical data insights into actionable business strategies.
+Passion for real-time data processing, AI-driven automation, and industrial innovation.
+
+About Us
+
+ Come create the technology that helps the world act together
+
+Nokia is committed to innovation and technology leadership across mobile, fixed and cloud networks. Your career here will have a positive impact on people’s lives and will help us build the capabilities needed for a more productive, sustainable, and inclusive world.
+
+We challenge ourselves to create an inclusive way of working where we are open to new ideas, empowered to take risks and fearless to bring our authentic selves to work
+
+What we offer
+
+Nokia offers continuous learning opportunities, well-being programs to support you mentally and physically, opportunities to join and get supported by employee resource groups, mentoring programs and highly diverse teams with an inclusive culture where people thrive and are empowered.
+
+Nokia is committed to inclusion and is an equal opportunity employer
+
+Nokia has received the following recognitions for its commitment to inclusion & equality:
+
+ One of the World’s Most Ethical Companies by Ethisphere 
+ Gender-Equality Index by Bloomberg 
+ Workplace Pride Global Benchmark 
+
+At Nokia, we act inclusively and respect the uniqueness of people. Nokia’s employment decisions are made regardless of race, color, national or ethnic origin, religion, gender, sexual orientation, gender identity or expression, age, marital status, disability, protected veteran status or other characteristics protected by law.
+
+We are committed to a culture of inclusion built upon our core value of respect.
+
+Join us and be part of a company where you will feel included and empowered to succeed.
+
+About The Team
+
+Strategy and Technology lays the path for Nokia’s future technology innovation and identifies the most promising areas for Nokia to create new value. We set the company’s strategy and technology vision, offer an unparalleled research foundation for innovation, and provide critical support infrastructure for Nokia.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Machine Learning Engineer III (Diretoria de Dados)
+
+Sobre a vaga
+Job Description
+
+Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.
+
+Responsibilities and assignments
+
+A pessoa Engenheira de Machine Learning que ocupará essa vaga atuará com o tema de saúde de portfólio do Grupo Boticário. Temos uma cultura dinâmica em que mudanças acontecem e continuarão acontecendo, e por isso é importante que a pessoa se sinta confortável em um ambiente em constante transformação, atuando em demandas com pessoas dos mais diferentes perfis e níveis de senioridade.
+
+Entre suas principais responsabilidades estão:
+
+
+Desenvolvimento do processo de MLOps, atuando na construção de pipelines de Machine Learning de ponta a ponta, incluindo preparação de dados, otimização de código, automatização de rotinas de treino e predict de modelos, e monitoramento de métricas;
+Desenvolvimento de arquiteturas para soluções de Machine Learning;
+Preparação de dados não estruturados para estruturados;
+Desenvolvimento de pilotos junto à área para prototipação de conceitos;
+Desenvolvimento de engenharia de features;
+Exploração de dados/data mining.
+
+
+Requirements And Qualifications
+
+
+Conhecimentos sólidos em Programação e Machine Learning (modelagem supervisionada e não supervisionada);
+Fluente em Python e SQL;
+Sólidos conhecimentos do ciclo de vida de modelos de machine learning, além de experiência com arquiteturas e workflows de desenvolvimento de soluções de machine learning em batch;
+Conhecimento desejável em soluções de streaming e em real-time;
+Experiência profissional com serviços de cloud, bem como com o uso de contêineres/Docker;
+Construção de pipelines de CI/CD e de pipelines de dados/ML com ferramentas de mercado (ex.: Airflow, Kubeflow, Vertex AI), bem como conhecimento na criação de APIs;
+Conhecimento desejável em frameworks de processamento de dados distribuídos, como Apache Spark e Apache Beam;
+Formação ou conhecimentos nas áreas de machine learning, big data ou sistemas computacionais;
+Facilidade para aprender novas ferramentas e tecnologias e conforto em desenvolver novas maneiras de resolver problemas por meio de machine learning.
+
+
+Additional information
+
+NOSSOS BENEFÍCIOS
+
+Já falamos que o Grupo Boticário é o melhor e maior ecossistema de beleza, né?
+
+E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios* que permite uma vida mais equilibrada e completa:
+
+
+Aqui, sua Saúde é prioridade
+ Plano médico e odontológico
+ Auxílio medicamentos
+ Vale saúde para familiares
+ Sessões de psicoterapia gratuitas
+ Telemedicina e 2ª opinião médica
+ Vacina da gripe e HPV gratuitas
+ Programas de cuidado com a saúde
+Para cuidar da sua Alimentação
+ Vale refeição ou restaurante local (conforme modelo de trabalho)
+ Vale alimentação
+ Vale alimentação de Natal
+Garantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vida
+ Plano de academias e estúdios de atividade física
+ Auxílio home office (modelos de trabalho híbrido e remoto)
+ Plano de saúde para pets
+ Day off de aniversário
+ Desconto de até 40% em nossos produtos
+ Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+ Programa de viagens e hospedagens
+Para a Família, nosso bem mais precioso
+ Auxílio educação infantil
+ Crédito nutrição infantil
+ Auxílio babá
+ Auxílio material escolar
+ Orientação jurídica, psicológica e social
+ Apoio para pais atípicos
+ Licença parental estendida (180 dias para mães e 120 dias para pais)
+Mobilidade para sua jornada presencial
+ Vale Transporte e Estacionamento (modelos híbrido e presencial)
+Seguridade para proteção e tranquilidade financeira
+ Seguro de Vida
+ Apoio ao falecimento de pais
+ Previdência Privada
+ Empréstimos consignados
+Os pacotes de benefícios são configurados conforme regras de elegibilidade.
+
+
+Grupo Boticário
+
+De uma pequena farmácia de manipulação a maior franquia de cosméticos do planeta.
+
+Somos um Grupo com 15 marcas que está presente em mais de 40 países, com mais de 4.000 lojas físicas, líder de e-commerce de beleza no Brasil e mais de 19.000 colaboradores diretos.
+
+Temos um ecossistema próprio de beleza, que vai da indústria ao ponto de venda, da logística ao varejo, do laboratório ao coração das consumidoras e das nossas inovações até a palma da sua mão.
+
+Acreditamos que o futuro mais bonito é aquele que construímos juntos, por isso, até 2030 temos compromissos ambiciosos voltados para o impacto positivo em dimensões humanas, ambientais e em nossos processos produtivos.
+
+Reinventamos a beleza por meio da tecnologia, inovação diversidade e sustentabilidade com: O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuarmos com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers.
+
+Vem fazer beleza com a gente!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Especialista de Dados - São Paulo/SP
+
+Sobre a vaga
+Job Description
+
+Sobre a Shô
+
+Aqui na Shô, acreditamos que cada membro de nossa equipe é fundamental para o nosso sucesso, e que diversidade de perspectivas e vivências são essenciais para movimentar nosso negócio e impulsionar o nosso propósito de mudar o mundo para melhor.
+
+Fazer parte do nosso time é a oportunidade de se desenvolver dentro de uma cultura de muita agilidade. Se você ama assumir grandes responsabilidades e fazer o que nunca foi feito, a Shô é seu lugar. Aqui você terá grandes desafios, trabalhará em colaboração com um time diverso e contribuirá para o futuro do e-commerce no Brasil, criamos impacto positivo na vida de milhões de pessoas.
+
+Modelo de Trabalho
+
+Adotamos um modelo de trabalho híbrido, esse modelo permite que as pessoas ajustem seu ambiente de trabalho de acordo com suas necessidades pessoais, ao mesmo tempo em que promove a colaboração e interação no escritório.
+
+Qual será a sua missão
+
+A equipe de Dados e Análise transforma dados em insights acionáveis que geram valor para o negócio, utilizando tecnologias e metodologias avançadas para coletar, processar e analisar dados grandes e complexos.
+
+Como será o seu dia a dia
+
+Atuar como referência técnica e estratégica para o time de dados e áreas parceiras, compreendendo profundamente os problemas, objetivos e contexto das partes interessadas, antecipando necessidades futuras com base em tendências e padrões identificados nos dados;
+Liderar a definição de prioridades e direcionamentos técnicos, delegando, orientando e desenvolvendo profissionais menos experientes, promovendo excelência operacional e técnica em todo o time;
+Liderar análises de alta complexidade e impacto, influenciando decisões críticas e contribuindo diretamente para a definição dos rumos estratégicos do negócio;
+Estabelecer e cultivar relações de confiança com stakeholders de diferentes níveis hierárquicos, promovendo inclusão, alinhamento e participação ativa na definição de iniciativas de dados e tecnologia;
+Ser autoridade em métricas de saúde (health metrics) e suas implicações no desempenho do negócio, estabelecendo padrões de análise e orientando decisões baseadas em inferências sólidas conectadas a metas estratégicas;
+Traduzir dados complexos em recomendações práticas, orientando a liderança com insights acionáveis que evidenciem riscos e oportunidades de forma clara e objetiva;
+Ter visão sistêmica da operação e do negócio, conectando dados a objetivos táticos e estratégicos, atuando como consultor interno e influenciando diretamente a definição de caminhos e prioridades da companhia;
+Propor e desenhar soluções robustas para problemas de negócio, indo além da resolução imediata ao antecipar causas raiz e estruturar medidas preventivas e escaláveis;
+Guiar a priorização de soluções com base em impacto no negócio, esforço técnico e alinhamento estratégico, garantindo foco em entregas de maior valor;
+Criar narrativas avançadas com storytelling e visualizações de dados sofisticadas, moldando discussões e decisões de alto nível;
+Desenhar, estruturar e automatizar pipelines de dados complexos, com foco em desempenho, escalabilidade e manutenção de longo prazo, promovendo excelência técnica;
+Liderar a definição, documentação e disseminação de padrões e boas práticas de dados, atuando como agente de transformação e referência em governança e qualidade;
+Desenvolver soluções técnicas de alto desempenho, escrevendo código limpo, eficiente e escalável, com atenção à arquitetura de dados e às necessidades futuras da organização.
+
+Requirements
+
+O que você precisa para assumir o desafio
+
+Graduação completa em Estatística, Matemática, Ciência da Computação, Engenharia, Economia, Administração e/ou áreas correlatas;
+Inglês avançado (a nível de conversação);
+Conhecimento em linguagens de análise de dados (por exemplo: SQL, Python);
+Confortável para trabalhar com grandes volumes de dados e ambientes de big data;
+Conhecimento em modelagem, preparação e manipulação de dados;
+Experiência com ferramentas de visualização de dados para criação de relatórios;
+Experiência no relacionamento com stakeholders de negócios e nos desafios do negócio;
+Experiência com métricas da área de Marketing.
+
+Benefícios
+
+Assistência médica e odontológica, estendendo-se aos dependentes;
+Parceria com Wellhub e TotalPass;
+Vale Refeição/Alimentação flexível;
+Vale Transporte, Vale Mobilidade ou Estacionamento no local;
+Benefício flexível;
+Zenklub;
+Bônus anual discricionário, atrelado à performance. 
+
+VEM FAZER HISTÓRIA COM A GENTE.
+
+O QUE TE FAZ ÚNICO, NOS FAZ MELHORES! 🧡
+-----------------------------------------------------------------------------------

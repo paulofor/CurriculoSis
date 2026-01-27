@@ -1,0 +1,254 @@
+[Oportunidade 1]
+Oportunidade: Machine Learning Engineer
+
+Sobre a vaga
+Company overview:
+ Our Clients across the board are accelerating their impact with data, tech, and data science and game-changer products and services. We are looking for a GenAI Engineer to support the development of an AI platform and product in financial services and other industries.
+ Our team is tackling key questions, like - How can we ensure successful adoption, integration, and utilization of our ML/AI solutions by our clients and internal teams? How can we increase the rigor and scalability of our products to unlock maximum value for our business? This opportunity is with a multi-client consulting data firm in a growing team, with a start-up mentality operating in an organization who values speed, agility, and impact while transforming the culture of the larger organizations around us.
+ Blue Orange Digital is a cloud-based data transformation and predictive analytics development firm with offices in NYC and Washington, DC. From startups to Fortune 500’s, we help companies make sense of their business challenges by applying modern data analytics techniques, visualizations, and AI/ML. Founded by engineers, we love passionate technologists and data analysts. Our startup DNA means everyone on the team makes a direct contribution to the growth of the company.
+Position overview:
+ Blue Orange is seeking to expand our Team of expert consultants with an experienced Machine Learning Engineer to address a set of expanding opportunities in the next several months. The ideal candidate will possess a deep passion for machine learning, AI tech and innovative data solutions with proficiency in advanced machine learning techniques, strong skills in programming languages such as Python, expertise around data analytics and feature engineering, experience working with some of the main ML and D frameworks, a proven track record of working with cloud-native solutions in at least 1 of the main clouds (AWS, GCP, Azure, or Snowflake, etc.), MLOps and LLMs, and strong proficiency in the end-to-end ML/AI cycle, from ideation to production. The candidate will play a crucial role in driving our machine-learning initiatives forward.
+ The candidate will have excellent communication skills to collaborate with technical and non-technical stakeholders effectively.
+ At Blue Orange, you'll have the opportunity to work on cutting-edge projects, leveraging modern machine-learning and AI techniques to deliver tangible business outcomes and drive innovation in our data-driven solutions.
+Note: Please submit your resume in English, as all application materials must be in English for review and consideration.
+Responsibilities:
+Collaborate with cross-functional teams to understand business requirements and design to productionize Gen AI solutions into practical product driven applications.
+Design and implement application integrations to leverage newly build GenAI Products.
+Build solutions that improve delivery speed and scalability of product pipelines.
+Leverage managed and serverless cloud offerings to create performant and scalable cloud native application solutions and data pipelines.
+Experiment with retrieval-augmented generation (RAG) approaches to improve the relevance and coherence of AI-generated outputs.
+Work closely with GenAI engineers and researchers to integrate prompt engineering and RAG components into production systems and ensure seamless deployment.
+Stay up to date with the latest advancements in prompt engineering, RAG, data science, machine learning, and AI technologies, and explore innovative approaches to enhance Gen AI capabilities.
+Requirements:
+Experience with NLP and LLM-based technologies and frameworks.
+Proficiency in programming languages such as Python and JavaScript preferred.
+Proven track record of successful delivery of software engineering projects.
+Ability to think and learn on your feet and the ability to quickly become proficient with new technologies in a fast-paced environment.
+Understanding and passion for Test Driven Design.
+Familiarity with ETL concepts and best practices.
+Experience with prompt engineering and RAG techniques preferred.
+Excellent problem-solving skills, critical thinking abilities, and attention to detail.
+Effective communication skills and the ability to collaborate effectively in a team environment.
+Passion for AI and a desire to contribute to the advancement of Gen AI technologies.
+Strong problem-solving and analytical skills.
+Self-driven and autonomous.
+Excellent verbal and written communication skills.
+Team player.
+Eagerness to learn and adapt in a fast-paced environment.
+5+ years of industry experience as a hands-on practitioner of software engineering and proven experience with cloud offerings.
+3+ years of experience with cloud platforms such as AWS.
+Experience with Docker preferred.
+Bachelor's degree or higher in Computer Science or a related field.
+Preferred qualifications:
+Advanced degree in a relevant field.
+Publications in relevant AI/ML communities and journals.
+Experience fine-tuning OpenSource LLMs and deploying them.
+MLFlow, etc. a plus.
+Benefits:
+Fully remote
+Flexible Schedule
+Unlimited Paid Time Off (PTO)
+Paid parental/bereavement leave
+Worldwide recognized clients to build skills for an excellent resume
+Top-notch team to learn and grow with
+Salary: USD $7,454 - $9,486 (monthly salary range)
+Background checks may be required for certain positions/projects.
+Blue Orange Digital is an equal opportunity employer.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: SOFTWARE DEVELOPER JAVA - INVESTMENTS
+
+Sobre a vaga
+Vem ser Inter com a gente!!! 
+
+Conta digital gratuita, plataforma de investimentos, shopping e o que mais a vida precisar. O Inter é isso, e é muito mais. A gente acredita que tudo pode ser mais simples, e que cada dia é mais uma oportunidade de fazer diferente. Se você também é assim, vem ser #sanguelaranja.
+
+Join us in Inter&Co!!! 
+
+Free digital account, investment platform, shopping and whatever else life needs. Inter is that, and much more. We believe that everything can be simpler, and that every day is another opportunity to do something different. If you're like this too, come be #sanguelaranja.
+
+O que você irá fazer?
+
+Implementar software e soluções utilizando tecnologias de mercado para alavancar e suportar os negócios do Inter na área de Investimentos do App;
+Garantir a identificação de ações para melhoria contínua, buscando soluções criativas para proporcionar alta disponibilidade e segurança nas evoluções e sustentações dos sistemas;
+Atuar no desenvolvimento e aplicação de novos projetos e processos, assegurando sua devida implantação.
+
+O que oferecemos?
+
+Vale Alimentação/Vale Refeição
+Plano de saúde e odontológico
+Seguro de vida
+Vale Transporte
+Duo Gourmet,
+Wellhub
+....e muito mais!
+
+O que buscamos??
+
+Formação superior completa em sistemas de informação ou áreas afins;
+Experiencia com programação orientada a objetos;
+Experiência com Java;
+Experiência com banco de dados relacionais;
+Conhecimento em testes unitários;
+Experiência com Git;
+Experiência com a criação e manutenção de sistemas distribuídos (principalmente microserviços);
+Conhecimento de tecnologias de CI/CD;
+Conhecimento em banco de dados não relacionais;
+Conhecimento com containers Docker e Kubernetes;
+Conhecimento do padrão REST;
+Conhecimento em Kafka;
+Conhecimento de ferramentas de observabilidade;
+Conhecimento em Micronaut ou Spring Boot.
+
+#VemproInter!!!
+
+O Nosso time de Talent é focado em contratar pessoas protagonistas, atuando com paixão e mentalidade inclusiva, respeitando a singularidade de cada pessoa e oferecendo a todos os colaboradores meios para que possam desenvolver o seu potencial e protagonismo.
+
+O Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a pessoas com deficiências.
+
+#ComeToInter!!
+
+Our Talent team is focused on hiring leading people, acting with passion and an inclusive mindset, respecting the uniqueness of each person and offering all employees the means to develop their potential and protagonism. Inter is a partner and is aware of inclusive projects, all of our vacancies are aimed at people with disabilities.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro de Software / Eletronic Trading
+
+Sobre a vaga
+Sobre a Área
+
+Somos uma equipe de tecnologia de alta performance voltada para negócios, construindo produtos eletrônicos de alta qualidade e agregando valor ao usuário final. Estamos inseridos em um cotidiano dinâmico e exigente, onde nosso ambiente colaborativo e agradável proporciona crescimento profissional.
+
+Nosso time é responsável por todo o ecossistema de trading eletrônico do BTG, interagindo com diversos players do mercado, tanto nacionais quanto internacionais.
+
+No Seu Dia a Dia
+
+Desenvolvimento de sistemas de trading sistemático;
+Automações de processos diversos e negociações eletrônicas em ambiente de bolsa de valores;
+Desenvolvimento de backtests;
+
+Esperamos De Você
+
+Obrigatório graduação completa em Computação / Engenharia / Matemática / Estatística;
+Sólidos conhecimentos em desenvolvimento de sistemas;
+Experiência em C#, Java, C++ ou similar;
+Conhecimentos em bancos de dados, AWS, Git;
+Boa base em matemática e estatística.
+
+Benefícios
+
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Vale Transporte;
+WellHub;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenharia de Dados AWS Pleno - 122371
+
+Sobre a vaga
+Sobre a vaga
+
+Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil.
+Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos.
+Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital.
+
+O que estamos buscando?
+
+Engenharia de Dados Pleno
+
+Requisitos:
+Experiência avançada em AWS e seus principais serviços para engenharia de dados (S3, Glue, Lambda, Redshift, DynamoDB, Athena, etc.). Domínio de linguagens de programação como Python para manipulação e processamento de dados. Conhecimento de ferramentas de orquestração de dados, como Apache Airflow ou AWS Step Functions. 
+Experiência em banco de dados relacional e não relacional (PostgreSQL, MongoDB, DynamoDB). 
+Familiaridade com boas práticas de segurança em ambientes AWS (IAM, KMS, criptografia de dados). Experiência em soluções de streaming de dados (Kafka, Kinesis). 
+Conhecimento em controle de versão e pipelines de CI/CD utilizando ferramentas como GitHub, Jenkins, ou CodePipeline. 
+
+Descrição comportamental: 
+Procuramos uma pessoa que:
+Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+Tenha habilidades de resolução de problemas;
+Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+
+O que oferecemos:
+
+Cartão multi-benefícios – você escolhe como e onde utilizar;
+Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas;
+Programas de incentivo à Certificações;
+Horário de trabalho flexível;
+Plano personalizado de carreira e possibilidade de carreira internacional;
+Salários competitivos;
+Avaliação de desempenho anual com possibilidade de bonificação;
+Gympass;
+Previdência Privada;
+Auxílio-Creche;
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+
+Big enough to deliver – small enough to care.
+#VempraGFT
+#VamosVoarJuntos
+#ProudToBeGFT
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Pessoa Desenvolvedora Backend Sênior| CRM Engineering
+
+Sobre a vaga
+Nossa área de CRM Engineering
+
+Responsável por implementar e suportar todas as soluções de atendimento e mensageria que façam uso direto e indireto do Salesforce, Marketing Cloud, Velocity, Bot e Ura. Também responsável por integrações, configurações do APP e ajustes necessários para implementação dos RPAs.
+
+Suas atividades como CSixer
+
+Implantar End-to-End (Homologação, Produção e Deploy) ;
+Conhecer os detalhes de arquitetura e design dos componentes do seu produto, sabendo os motivos que levaram a cada escolha;
+Garantir desenvolvimento de códigos com qualidade e cobertura de testes automatizados.
+
+
+Requisitos e experiência
+
+Experiência com Kotlin, Java, SpringBoot e Microserviços;
+Experiência em automação de testes unitário e integração;
+Conhecimento em banco de dados PostgreSQL, Banco de dados não relacional como MongoDB e Cassandra;
+Expertise em agilidade e com boas práticas de melhoria contínua.
+
+
+Nossos benefícios
+
+Vale-Refeição;
+Vale-Alimentação;
+Plano e saúde e odontológico;
+Auxílio-Creche;
+Seguro de Vida;
+Wellhub;
+Psicologia Viva;
+Cartão de Crédito C6 Bank Carbon;
+Carbon Spa;
+Sala de amamentação;
+Bicicletário;
+Vestiário;
+Espaço de convivência;
+Empresa Cidadã - Prorrogação do prazo da licença-maternidade e licença-paternidade.
+
+
+C6 BANK
+
+O BANCO DA SUA VIDA
+
+Atendemos pessoas físicas, MEIs e PMEs em todos os estados do Brasil. Sem agências físicas para te prender, oferecemos mais de 90 produtos e serviços financeiros feitos para todos os perfis de clientes.
+
+Estamos localizados em São Paulo-SP e contamos com mais de 3.000 CSixers que estão sempre a mil por hora. Em pouco mais de cinco anos, conquistamos muitos prêmios e reconhecimentos.
+
+Confira o vídeo para conhecer mais sobre nós:
+-----------------------------------------------------------------------------------

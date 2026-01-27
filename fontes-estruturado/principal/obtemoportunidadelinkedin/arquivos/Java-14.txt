@@ -1,0 +1,253 @@
+[Oportunidade 1]
+Oportunidade: Desenvolvedor de Software SR
+
+Sobre a vaga
+Trabalhamos para que a vida possa avançar e estamos sempre à procura de pessoas inovadoras que possam contribuir com a nossa missão. Que tal fazer parte do nosso time?
+
+Local Principal: Brasil (BR) - São Paulo - Indaiatuba
+
+Função: Technology (CA)
+
+Título: Desenvolvedor de Software SR - 111526
+
+As an SAP ABAP Analyst, part of the SAP agile delivery team at John Deere, located in the Indaiatuba/SP unit, you will identify, analyze, select and apply new IT infrastructure components in manufacturing, engineering and shop floor environments with SAP, using proven IT processes within a diverse SAP environment to support strategic business plans and processes. The role requires knowledge of complex designs for significant parts of the SAP infrastructure, and the ability to work within a complete infrastructure with a broad scope and solve well-defined problems with guidance and a lot of autonomy.
+
+Principais Responsabilidades
+
+Design, develop, test, and implement software solutions within an SAP/Non-SAP environment, utilizing relevant and cutting-edge technologies and programming languages;
+Tailor and configure modules and functionalities of the SAP system to address specific customer requirements;
+Integrate SAP systems with internal and external systems, ensuring interoperability and efficient data exchange; 
+Perform maintenance on existing software, address bugs, apply patches, and offer technical support to end users; 
+Identify and implement performance enhancements in the software to ensure system efficiency and scalability;
+Document code, processes, and solutions developed, and provide training and guidance to end users and team members; 
+Collaborate closely with team members, including product managers, developers, business analysts, and solution architects, to accomplish project goals; 
+Stay abreast of emerging trends and technologies in the SAP domain, tech stack and contribute innovative ideas to enhance existing products and processes; 
+Responsible for articulating and elucidating our solutions to global teams and architects in English.
+
+Habilidades Que Você Precisa
+
+Bachelor’s degree in computer engineering, Computer Science, or related technology field; 
+Proficiency in English for daily interactions with global teams; 
+Excellent knowledge on ABAP OO and Fiori; 
+Strong problem-solving and communication skills; 
+Ability to work collaboratively in a team environment with IT teams and business partners.
+
+O Que Faz Destacar
+
+Familiarity with SAP S/4 Hana, SAP BTP, SAP Ui5, Fiori, React; 
+Understanding of business processes related to manufacturing and preferably multi module knowledge. 
+Experience with Unit Test Frameworks; 
+Proficiency in developing microservices, APIs and system integrations; 
+Experience with Python, Flow Engineering and LLMs.
+
+Nossos principais benefícios
+
+Remuneração variável; 
+Plano de Saúde;
+Plano Odontológico;
+Seguro de Vida;
+Previdência Privada;
+Benefício Ótica; 
+Reembolso vacina; 
+Universidade Corporativa; 
+Wellhub (Gympass);
+Dependendo da unidade, você terá restaurante no local, vale refeição ou alimentação;
+Auxílio farmácia;
+Entre outros
+
+Nosso Processo Seletivo
+
+A seleção começa com a sua inscrição, para algumas vagas, existem alguns testes adicionais. Você terá a possibilidade de conhecer pessoas do time nas entrevistas! Nosso processo seletivo é flexível em termos de tempo, então não se preocupe! Nossa equipe de Talent Acquisition está comprometida em proporcionar a melhor experiência para você. Analisamos todas as candidaturas cuidadosamente e fornecemos feedback em todas as etapas do processo. Além disso, todas as orientações serão enviadas por e-mail!
+
+Sobre a John Deere
+
+A John Deere é líder global no fornecimento de produtos, tecnologia e serviços avançados para clientes que desempenham um papel essencial na agricultura, construção, florestal entre outros setores. Nosso objetivo é atender à crescente necessidade mundial de alimentos, combustível, abrigo e infraestrutura, enquanto promove a sustentabilidade e a preservação do planeta que chamamos de lar.
+
+Inovamos para impulsionar a produtividade e proteger nosso planeta e convidamos você a fazer parte dessa história. Trabalharemos juntos para criar, testar, superar para que para que a vida possa avançar. 💚🚜
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor/Desenvolvedora Back-end Java Sênior
+
+Sobre a vaga
+Nossa Oportunidade
+Estamos em busca de um/uma Desenvolvedor/ Desenvolvedora Backend com sólida experiência em desenvolvimento de aplicações em nuvem. Se você é apaixonado por tecnologia, tem espírito colaborativo e busca constantemente inovação, essa vaga é para você!
+
+ Contrato CLT + Benefícios. Modalidade de atuação Hibrida em São Paulo
+
+O perfil que buscamos:
+Desenvolver e manter aplicações backend escaláveis e seguras em ambientes de nuvem (Azure ou AWS).
+Criar e consumir APIs RESTful seguindo especificações OpenAPI/Swagger.
+Escrever testes unitários, de integração e ponta a ponta.
+Trabalhar com bancos de dados relacionais e não relacionais (PostgreSQL, MongoDB, etc.).
+Participar de cerimônias ágeis (Scrum) e colaborar com times multidisciplinares.
+Contribuir com boas práticas de arquitetura de software (SOLID, Clean Architecture, Hexagonal).
+Atuar com práticas de CI/CD e integração com pipelines automatizados.
+Monitorar e garantir a confiabilidade das aplicações com foco em SRE, APM e logging.
+ Requisitos:
+Experiência com Java Spring Framework.
+Proficiência em APIs RESTful e OpenAPI/Swagger.
+Experiência prática com testes automatizados (unitários, integração e E2E).
+Conhecimento em bancos de dados relacionais e não relacionais.
+Versionamento de código com Git.
+Familiaridade com metodologias ágeis (Scrum), Jira e processos DevOps.
+Experiência com computação em nuvem (Azure ou AWS).
+Compreensão de conceitos de Site Reliability Engineering.
+Conhecimento sólido em design patterns, SOLID, arquitetura hexagonal e clean architecture.
+Experiência com pipelines de CI/CD.
+
+ Requisitos desejáveis:
+Certificações em Java e/ou Cloud.
+Conhecimento em Kubernetes (AKS ou EKS).
+Experiência com Spring Batch.
+Noções de desenvolvimento frontend com Angular e Progressive Web Apps (PWA).
+Conhecimento em arquitetura orientada a eventos (Kafka, RabbitMQ, Event Hub).
+Experiência com autenticação/autorização (OAuth 2.0, OpenID) e criptografia.
+Participação em projetos de inovação tecnológica.
+
+ Get the future you want 
+ Por meio de uma força de trabalho diversificada que representa nossa sociedade promovemos uma cultura inclusiva, construindo um lugar onde nossos talentos são acompanhados por líderes transformacionais e equipes altamente engajadas. Através do SejaVocê@Capgemini expressamos o nosso compromisso em compreender continuamente as características e interesses que tornam cada uma das nossas pessoas únicas. Nos orgulhamos da nossa diversidade e estamos empenhados em promover um ambiente inclusivo e com equidade de oportunidades. Nossas vagas, são para todas as pessoas independente de cor, etnia, religião, idade, identidade de gênero, orientação sexual ou deficiência. 
+ Somos reconhecidos pela GPTW como um ótimo lugar para trabalhar e uma das 10 melhores empresas para mulheres trabalharem no Brasil. Nosso compromisso com Equidade de Gênero também foi reconhecido pela Bloomberg pelo segundo ano consecutivo e somos certificados pela Edge e Edge Plus também focada em equidade de gênero. Além de estarmos no 11º ano consecutivo pelo Instituto Ethispere como uma das Empresas Mais Éticas do Mundo. 
+ Aqui você pode ser quem você é: Protagonista do seu desenvolvimento com oportunidades de aprendizagem, crescimento e atuação em projetos desafiadores. 
+ Além disso temos a preocupação em oferecer pacote de remuneração e benefícios competitivos no segmento, reconhecendo as competências, performance individual e de equipe. Voltados para o seu Bem-estar Físico, Emocional, Financeiro e Familiar. 
+  Pacote de Benefícios: Assistência Médica, Telemedicina Einstein Conecta, Plano Odontológico, Convênio Farmácia, Acesso a plataformas de saúde física e mental (Gympass e Equilibrium), Vale Refeição, Seguro de Vida, Previdência Privada, Auxílio Home Office, Empréstimo consignado, Plano de Participação Acionária, Clube de benefícios e muito mais! 
+  Plano de carreira que incentiva sua jornada e desenvolvimento, proporcionando visibilidade de forma clara sobre as oportunidades de carreira e os requisitos necessários para o seu próximo nível. 
+  Universidade Corporativa e Learning Hub: Aqui você constrói a sua própria trilha de desenvolvimento com uma formação dinâmica e acelerada. Terá acesso gratuitamente a cursos disponíveis parceiros de alto nível para aprimorar suas habilidades técnicas e comportamentais. Além de contar com plataformas de ensino reconhecidas como Harvard Manage Mentor, Coursera, Udemy e Pluralsight. 
+  Acesso a certificações oficiais com nossos parceiros como: AI Breakthrough award, AWS, Avasant, CDP “A” list, Ecovadis, Everest, Ethisphere, Gartner, IDC Google, Microsoft, SAP, Salesforce, ServiceNow e muito mais. 
+  Através da EF Education First (English Live Brasil): Você terá acesso a plataforma on line, com aulas adaptadas ao seu nível para se desenvolver nos idiomas: Inglês, Espanhol, Francês e Alemão. 
+ Sobre a Capgemini 
+ A Capgemini é líder global em parceria com empresas para transformar e gerenciar negócios, aproveitando o poder da tecnologia, desde estratégia e design até operações, alimentadas pelo mundo inovador e em rápida evolução da nuvem, dados, IA, conectividade, software, engenharia digital e plataformas 
+ Contamos com mais de 360.000 profissionais presentes em mais de 50 países, em 2023 o Grupo reportou receitas globais de € 22,5 bilhões. 
+ Somos guiados diariamente pelo propósito de liberar a energia humana por meio da tecnologia para um futuro inclusivo e sustentável e por nossos sete valores: Honestidade, Audácia, Confiança, Liberdade, Espírito de equipe, Modéstia e Fun. Se você compartilha dos mesmos valores, aqui é o seu lugar!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Desenvolvedora Backend Sr
+
+Sobre a vaga
+Sobre a empresa
+Se você é uma pessoa que é gente boa, gosta de aprender e é apaixonada por resultados, você está no lugar certo! Como maior empresa de tecnologia do Brasil, queremos construir um ecossistema cada vez mais forte, com pessoas que gostem de inovar e acreditem na colaboração para fazer a diferença! 
+
+Aqui temos um ambiente dinâmico, que celebra a diversidade, promove a inclusão e está sempre em busca dos melhores resultados! Acreditamos no poder transformador da tecnologia e na sua capacidade de contribuir para a construção de uma sociedade mais diversa e inclusiva. Por isso, temos compromisso com nossa política e programa de diversidade e inclusão para garantirmos um ecossistema cada vez mais representativo, respeitoso e acolhedor.
+
+#ouseetransforme #sejaTOTVER
+
+O QUE VOCÊ VAI FAZER:
+
+Desenvolvimento de aplicações corporativas Web ou Scripts, utilizando linguagem Python; 
+Definição de arquitetura escalável e de alta disponibilidade em providers públicos de Cloud, preferencialmente AWS; 
+Atuação DevOps realizando realease e deploys automatizados (CI/CD); 
+Utilização da stack serverless da AWS incluindo - Lambda, Step Function, API Gateway e Dynamodb; 
+Conhecimentos em sistema operacional Linux, fundamentos de rede e protocolos (TCP/IP, HTTP, Websocket e DNS).
+
+O QUE ESPERAMOS DE VOCÊ:
+
+Framework Serverless e plataformas de automação, preferencialmente Ansible; 
+Conhecimentos com implantação e arquitetura de produtos TOTVS (RM, Protheus ou Fluig); Certificações AWS (AWS Cloud Practitioner ou superior); 
+Inglês – nível intermediário.”
+Formação Acadêmica: Superior Completo
+
+Benefícios
+
+Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada TOTVER;
+Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;
+Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para TOTVERS;
+Programa + Cuidado, programa de apoio pessoal para TOTVERS e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...
+Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;
+Plano de saúde e odontológico;
+Vale refeição e / ou alimentação;
+Vale transporte e fretados em algumas estações do metrô;
+Licença maternidade e paternidade estendida;
+Espaço de lactário;
+Bicicletário;
+Vestiário;
+Seguro de vida;
+Auxílio creche;
+Previdência privada;
+Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;
+Gympass.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Desenvolvedor Java - Fullstack
+
+Sobre a vaga
+DESENVOLVEDOR JAVA PLENO
+
+Requisitos para Vaga:
+Formação de nível superior na área de informática ou pós-graduação em TI com duração mínima de 360 horas;
+Experiência atuando como desenvolvedor;
+Experiência nas seguintes tecnologias e processos:
+Java EE (EJB E JPA); 
+Angular (versões de 10 e 17);
+AngularJS
+REST;
+Hibernate;
+SGBD Oracle;
+JBoss AMQ;
+Testes unitários;
+Jenkins (Geração/Automatização de builds);
+Sonar (Validação de builds);
+Controle de versões com GIT;
+
+Desejável conhecimentos:
+Liquibase;
+OpenShift;
+Elasticsearch;
+Quarkus;
+Prompts - Inteligência Artificial.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: SOFTWARE DEVELOPER SPECIALIST JAVA | Platform Engineering
+
+Sobre a vaga
+Vem ser Inter com a gente!!! 
+
+Conta digital gratuita, plataforma de investimentos, shopping e o que mais a vida precisar. O Inter é isso, e é muito mais. A gente acredita que tudo pode ser mais simples, e que cada dia é mais uma oportunidade de fazer diferente. Se você também é assim, vem ser #sanguelaranja.
+
+Join us in Inter&Co!!! 
+
+Free digital account, investment platform, shopping and whatever else life needs. Inter is that, and much more. We believe that everything can be simpler, and that every day is another opportunity to do something different. If you're like this too, come be #sanguelaranja.
+
+O que você irá fazer?
+
+Desenvolver soluções de software robustas e escaláveis utilizando Java, GO e tecnologias relacionadas;
+Implementar e manter microsserviços para suportar os produtos e serviços digitais do Inter;
+Colaborar na concepção e implementação de arquiteturas de sistemas distribuídos;
+Garantir a qualidade do código através de testes unitários e práticas de revisão de código;
+Fornecer suporte a outros desenvolvedores no uso adequado das ferramentas criadas pela equipe;
+Contribuir para a melhoria contínua dos processos de desenvolvimento e práticas de engenharia.
+
+O que buscamos?
+
+Formação superior completa em sistemas de informação ou áreas afins;
+Experiencia com programação orientada a objetos;
+Experiência com Java;
+Experiência com banco de dados relacionais;
+Conhecimento em testes unitários;
+Experiência com Git;
+Experiência com a criação e manutenção de sistemas distribuídos (principalmente microserviços);
+Conhecimento de tecnologias de mensageira;
+Conhecimento do padrão REST;
+Conhecimento em Kafka;
+Conhecimento de ferramentas de observabilidade;
+Desejável conhecimento em GO.
+
+O que oferecemos?
+
+Vale Alimentação/Vale Refeição;
+Plano de saúde e odontológico;
+Seguro de vida;
+Vale Transporte;
+Auxílio Creche;
+Duo Gourmet;
+Wellhub;
+....e muito mais! 
+
+#VemproInter!!!
+
+O Nosso time de Talent é focado em contratar pessoas protagonistas, atuando com paixão e mentalidade inclusiva, respeitando a singularidade de cada pessoa e oferecendo a todos os colaboradores meios para que possam desenvolver o seu potencial e protagonismo.
+
+O Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a pessoas com deficiências.
+
+#ComeToInter!!
+
+Our Talent team is focused on hiring leading people, acting with passion and an inclusive mindset, respecting the uniqueness of each person and offering all employees the means to develop their potential and protagonism. Inter is a partner and is aware of inclusive projects, all of our vacancies are aimed at people with disabilities.
+-----------------------------------------------------------------------------------

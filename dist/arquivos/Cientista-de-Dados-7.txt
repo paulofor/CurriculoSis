@@ -1,0 +1,319 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados Sênior | Ads
+
+Sobre a vaga
+Sobre o Picpay:
+
+Com mais de dez anos de história, o PicPay é uma empresa de tecnologia que oferece um portfólio completo de serviços financeiros para facilitar a relação com dinheiro e ser a principal conta do dia a dia de milhares de pessoas e empresas.
+
+Fundada em Vitória (ES), a empresa tem mais de 30 milhões de usuários ativos e faz parte do grupo J&F, um dos maiores conglomerados empresariais do Brasil.
+
+Nossa cultura é nosso alicerce e nossa força. Conheça nossos valores: Atitude de Dono(a), Disciplina, Determinação, Disponibilidade, Simplicidade, Humildade e Franqueza.
+
+O respeito, a ética e a busca pela equidade são elementos inegociáveis e fazem parte da prática no nosso dia a dia aqui no PicPay. Por isso, esta vaga está aberta para todas as pessoas, independente de gênero, religião, etnia, deficiência, idade, orientação sexual ou qualquer outro fator.
+
+Sobre a vaga:
+
+Nosso crescimento acelerado atraiu milhões de usuários ativos no trimestre dentro do PicPay. A BU de Audiências e Ecossistema PJ surgiu para potencializar a monetização de audiências, os serviços financeiros para PJ e a integração entre os universos PF e PJ.
+
+O Time de Dados é um dos pilares fundamentais desse contexto. Assim, buscamos por uma pessoa Engenheira de Dados (Analytics Engineer) para integrar o time! Essa pessoa irá identificar como facilitar e otimizar processos de geração de informação para auxiliar as estratégias de negócios, promovendo a máxima autossuficiência e desempenho possível dos projetos, processos e incidentes. Procuramos alguém que busque crescer junto com o PicPay!
+
+Responsabilidade e atribuições:
+
+Construir pipelines de ingestão e transformação de dados robustos e escaláveis, que atendam as demandas de informação das equipes de negócios e dados;
+Contribuir para uma plataforma de dados resiliente que abranja todos os quesitos de qualidade de dados. A garantia desta qualidade deve ser aplicada desde a coleta dos dados de sistemas, fornecedores e clientes até processamento e disponibilização na camada curada para uso em análises;
+Estabelecer os stakeholders em todos os processos e contratos de modelagem de dados e governança;
+Analisar os ambientes de processamento para melhorias de estabilidade;
+Entender o uso das ferramentas disponibilizadas e as dores dos clientes para melhorar sua experiência.
+
+Requisitos e qualificações:
+
+Experiência prévia com engenharia de dados e Big Data;
+Experiência prévia com as linguagens Python e/ou Scala, SQL e Framework Spark;
+Arquitetura e Mapeamento/Modelagem de dados (relacional e/ou analítico);
+Ferramentas de ETL/Orquestração como Apache Airflow, Databricks, entre outros;
+Experiência em Cloud, de preferência AWS;
+Experiência com DevOps, como CI/CD e Github;
+Métricas de qualidade de dados analíticos;
+Testes unitários.
+
+Será um diferencial se você tiver:
+
+Formação acadêmica relevante em Ciência da Computação, Engenharia de Software ou área relacionada;
+Experiência em lidar com dados financeiros: Conhecimento e experiência em lidar com dados financeiros, incluindo processamento de transações, segurança de dados e privacidade;
+Participação em projetos open source.
+
+O que oferecemos:
+
+Saúde e Bem-estar: Além de Assistência Médica e Odontológica, oferecemos Seguro de Vida e o Lado a Lado, um programa que cuida de você e seus familiares, com apoio jurídico, social, psicológico e financeiro.
+
+E claro, não podemos esquecer da nossa parceria com a Totalpass.
+
+Alimentação/Teletrabalho: Por meio do nosso cartão de crédito PicPay Benefícios, com ampla aceitação, você recebe seu saldo de Alimentação/Refeição e Teletrabalho (de acordo com o seu contrato de trabalho).
+
+Licença Paternidade e Maternidade: Sabemos que esse é um momento especial para uma família, e por isso oferecemos Licença Maternidade estendida de 6 meses, e de Paternidade também estendida de 20 dias. Além disso, nossas mamães PicPay Lovers são acompanhadas pelo programa "Novo Ser", durante toda a gestação e no retorno da licença. Falando nisso, ao retornar da licença maternidade, as mamães ainda contam com a ajuda do Auxílio Creche e também os papais que possuem guarda unilateral ou compartilhada.
+
+Reconhecemos resultados: PPR- Participação nos Resultados do PicPay.
+
+#VemserPicpayLover #Picpay
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Data Engineer (Mid/Senior Level)
+
+Sobre a vaga
+Data Engineer
+
+ São Paulo-SP, Brazil or Porto Alegre-RS, Brazil 
+
+Who We Are
+
+In 2021, Poatek was acquired by WillowTree, an award-winning digital product consultancy recognized as one of the fastest growing and best places to work in the United States. Now a TELUS International company , with offices across the globe, we continue to partner with the world’s leading brands, such as HBO, PepsiCo, Domino’s and more, to design, build, and transform their digital products and strategies. We’re looking to grow our Poatek offices in Brazil with top talent excited to collaborate with team members across the globe to deliver innovative solutions for our clients.
+
+Location and Flexibility
+
+You’ll work on-site from either our São Paulo or Porto Alegre office at least three days a week and have the flexibility to work remotely for two days a week. Our office culture is designed to foster in-person innovation, collaboration, and connection with team members local and visiting from other global offices.
+
+The Opportunity
+
+As a Data Engineer part of our growing Data Science team, you will be responsible for designing, implementing, and maintaining robust and scalable data pipelines, enabling efficient data integration, storage, and processing across our various data sources. You will collaborate with cross-functional teams, including Data Scientists, Software Engineers, and other technical stakeholders, to ensure data quality and support data-driven decision-making.
+
+Responsibilities
+
+Develop and optimize scalable, high-performing, secure, and reliable data pipelines that address diverse business needs and considerations
+Identify opportunities to enhance internal processes, implement automation to streamline manual tasks, and contribute to infrastructure redesign 
+Act as a guide and mentor to junior engineers, supporting their professional growth and fostering an inclusive working environment
+Collaborate with cross-functional teams to ensure data quality and support data-driven decision-making to strive for greater functionality in our data systems
+Collaborate with project managers and product owners to assist in prioritizing, estimating, and planning development tasks
+Provide constructive feedback, and share expertise with fellow team members, fostering mutual growth and learning
+Engage in ongoing research and adoption of new technologies, libraries, frameworks, and best practices to enhance the capabilities of the data team
+Demonstrate a commitment to accessibility and ensure that your work considers and positively impacts others
+
+Qualifications
+
+BSc, MSc, and/or PhD in Statistics, Mathematics, Physics, CS, or another related subject
+Experience in technology-related fields, which can be industry and/or academic research (e.g. BI, Software, Data Science, Data Engineering)
+At least 2 years of experience as Data Engineer
+Have actively participated in the design and development of data architectures
+Hands-on experience in developing and optimizing data pipelines
+Experience working with databases and data modeling projects, as well as practical experience utilizing SQL
+Effective English communication - able to explain technical and non-technical concepts to different audiences
+Experience with a general-purpose programming language such as Python or Scala
+Ability to work well in teams and interact effectively with others
+Ability to work independently and manage multiple tasks simultaneously while meeting deadlines
+
+Bonus Points
+
+Cloud platforms and services, such as AWS, GCP, or Azure
+Big data tools such as Hadoop, Spark or Kafka
+Orchestration tools such as Airflow
+NoSQL databases
+Containerization technologies such as Docker and Kubernetes
+Agile development environment and familiarity with Agile methodologies
+
+Why Poatek / WillowTree?
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+Flexible hours and autonomy
+ Work with cutting edge technologies 
+ Partner with global and relevant brands in the market 
+ Collaborative team and learning ecosystem 
+ Career development plan & growth 
+ Internacional travel opportunities (optional) 
+
+Some Of Our Benefits
+
+ Health and dental plan 
+ Life insurance 
+ Monthly voucher for meals, culture, education, health and mobility 
+ Child care assistance and more! 
+
+Equality is a principle here at Poatek. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing those information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Nós somos a DP6!
+Otimizamos a eficiência do Marketing através de Ciência de Dados, Tecnologia e Inovação.
+Somos uma consultoria de Analytics para Marketing. Por meio de tecnologias de exploração de dados (negócios, marketing, analytics, big data), acompanhamos e analisamos todos os pontos de contato entre consumidor e marcas. Com mais de 14 anos de experiência no mercado, somos líder de mercado em Martech na América Latina (categoria Analytics and Intelligence) e desde 2012 estamos no ranking do Great Place to Work, sendo considerada a 11ª das melhores empresas para trabalhar no Brasil. Fazemos parte da Brandtech Group, grupo de empresas de tecnologia e marketing, sediado em Nova York, possui escritórios em 40 países.
+Na DP6 nós valorizamos a diversidade. Todas as nossas vagas são abertas para profissionais de todos os gêneros, orientações sexuais, crenças, etnias e condições físicas e mentais. Se você é uma pessoa trans ou uma pessoa com deficiência, não deixe de se candidatar!
+
+Detalhes da vaga
+Estamos buscando um profissional para fazer parte da nossa equipe de Engenharia de Dados.
+Na DP6, a pessoa Engenheira de dados é responsável por organizar e controlar os dados de marketing digital durante todo o seu ciclo de vida, atuando na implantação e manutenção das arquiteturas de coleta de dados de consumidor, organização de pipelines para extração, estruturação e tratamento dos dados e, por fim, na sua disponibilização.
+Partindo disso, faz parte das atribuições da engenharia de dados trabalhar com as fontes de dados e desenvolver os fluxos de coleta para ferramentas de marketing e publicidade digital.
+
+Perfil
+Procuramos uma pessoa acostumada a trabalhar de forma autônoma e consultiva, focando na resolução de problemas e disseminação de conhecimento, treinando a equipe e compartilhando inovações entre os projetos e clientes.
+A interação direta com os clientes será constante, desde o entendimento dos desafios até a tradução dos aspectos técnicos para stakeholders de outras áreas.
+
+Principais responsabilidades
+Extrair dados das ferramentas de MarTech e AdTech que giram em torno dos dados do consumidor, arquitetando soluções de engenharia de dados que contribuam com os objetivos de nossos clientes.
+Desenhar a melhor e mais adequada resolução para cada tipo de problema identificado, atuando com grandes volumes, variedade e velocidade de informações que giram em torno dos dados do consumidor;
+Garantir e melhorar a confiabilidade e a qualidade de dados;
+Atuar como protagonista na identificação das dores de negócio e do cliente;
+Atuar com modelos e regras do negócio para garantir a evolução da governança de dados e informação;
+Ajudar na expansão da plataforma analítica, com foco em Self-Service Analytics relacionados a dados do consumidor;
+Desenvolver e multiplicar conhecimento sobre engenharia de dados internamente e, para clientes e mercado;
+Definir requisitos e coordenar itens de trabalho com as equipes.
+
+Pré-Requisitos
+Sólida experiência com tecnologias para dados (engenharia ou ciência de dados, DBA, etc) ou com desenvolvimento e arquitetura de software voltados para o mercado de dados
+Experiência em JavaScript, Python e SQL;
+Experiência com ferramentas de ETL e integração de dados utilizando ecossistemas em nuvem, como GCP, AWS ou Microsoft Azure.
+Experiência em liderança de times técnicos;
+Inglês avançado para leitura e escrita, desejável para conversação.
+
+Diferenciais
+Já ter atuado em consultoria;
+Conhecimento em Google Analytics (ou Adobe Analytics) e Google Tag Manager (ou Adobe Launch);
+Conhecimento em Google Optimize e outras ferramentas de Testes A/B e personalização;
+Conhecimento em desenvolvimento front-end e requisições HTTP;
+Conhecimento em Git e Github;
+Já ter trabalhado com Terraform ou outra ferramenta de IaC (Chef/Puppet/Ansible/etc);
+Certificação(ões) em provedores de Cloud Computing;
+Experiência com dados e tecnologias para marketing, como Salesforce, Facebook/Meta Business Manager, Google Ads, Google Campaign Manager etc
+Experiência em projetos internacionais, estar confortável para falar em inglês.
+
+Nossos Benefícios
+Vale Refeição ou Alimentação;
+Auxílio Home Office;
+PLR;
+Plano de Saúde;
+Plano Odontológico;
+Seguro de Vida;
+Plano de saúde para seu pet;
+Auxílio creche.
+
+Saúde e Bem Estar:
+Parceria com a Vittude - plataforma de saúde mental;
+Parceria com o Total Pass - Plataforma de Atividades físicas e esportivas
+DP6 Care - apoio jurídico, financeiro e social;
+Licença Maternidade de 6 meses;
+Licença paternidade de 20 dias, podendo emendar com férias.
+
+Desenvolvimento Profissional:
+Programa de Educação Continuada (15% do salário anual para ser utilizado como subsídio em cursos, eventos, palestras, workshops, etc), elegível após 3 meses de contratação;
+Subsídio para cursos de Inglês e Espanhol;
+Custeio das certificações das ferramentas mais relevantes do mercado (ex: Google, Facebook, Adobe Analytics, Salesforce, etc);
+Centro de Inovações. 10% do tempo de trabalho dedicado para estudos e inovação;
+Plano de carreira estruturado;
+Avaliação de desempenho anual;
+Programa de Tutoria de Carreira, desde o início para todos os níveis.
+
+Venha fazer parte do nosso time!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Arquiteta(o) de Dados
+
+Sobre a vaga
+Job Description
+
+Estamos a procura de um perfil para Arquitetura de Dados para nosso time de DataOps, BI e Analytics da TI Corporativa. O perfil será responsável por propor e implementar soluções de operação e evolução da estratégia de dados corporativo, harmonizando aspectos técnicos de negócio a arquitetura existente.
+
+Responsibilities and assignments
+
+Suportar a definição e condução da estratégia de dados corporativa alinhado às prioridades de negócio. A estratégia inclui a implementação e gerenciamento de data lake, data warehouses e plataformas de analytics;
+Definir a estrutura de arquitetura de dados e integração para ambiente de dados on-premises e em nuvem, assim como definição de padrões, modelagem, metadados, segurança e governança de dados; Manter roadmap de evolução tecnológica e processos do ecossistema de dados corporativo;
+Gerenciar a arquitetura de dados na definição e gerenciamento do fluxo de dados e disseminação de informações, assim como modelo operacional entre múltiplas áreas;
+Suportar a implementação de frameworks e processos de governança de dados para uso efetivo e ágil dos dados corporativos.
+
+Requirements And Qualifications
+
+Superior completo;
+Inglês fluente/avançado para leitura, escrita e conversação;
+Experiência em design e arquitetura de software e de dados;
+Experiência na construção e manutenção de Data Lake e Data Warehouse (Hadoop e Spark, OLAP e OLTP);
+Experiência com análise avançada de SQL e experiência prática no desenvolvimento em ETL/ELT;
+Experiência em de CI/CD como Azure DevOps e Gitlab;
+Experiência com tecnologias WEB, REST API e SOA.
+
+Você Se Destaca Se Tiver
+
+Conhecimento de plataformas de nuvem como GCP ou AWS;
+Conhecimento em linguagens Python;
+Conhecimento sólido de banco de dados relacionais (Oracle, MySQL) e NoSQL;
+Conhecimento em ferramentas de ALM (como Jira, Confluence e Sonar).
+
+Additional information
+
+Modelo híbrido (com foco em São José dos Campos/SP) ou 100% remoto (com disponibilidade para viagens).
+
+Benefícios
+
+Seguro de Vida
+Convênio Médico 
+Convênio Odontológico
+Benefício Vacina
+Benefício Farmácia 
+Gympass
+Cartão Multibenefícios (para modelo de trabalho Híbrido ou 100% remoto)
+Refeitório na empresa
+Auxílio Home Office (para modelo de trabalho Híbrido ou 100% remoto)
+PLR (Participação de Lucros e Resultados)
+Previdência Privada
+Cooperativa
+EMpower (plataforma interna de treinamento e desenvolvimento)
+
+Precisa de suporte com a plataforma Gupy? Acesse o link abaixo:
+
+Página Central de Suporte ao Candidato
+
+Site dedicado a guiar e orientar a pessoa candidata sobre todas as ferramentas: https://support-candidates.gupy.io/hc/pt-br
+
+Process stages
+
+Step 1: Registration1Registration
+Step 2: Screening2Screening
+Step 3: Profile Analysis3Profile Analysis
+Step 4: Team Interview4Team Interview
+Step 5: Finalists5Finalists
+Step 6: Hiring6Hiring
+
+QUEREMOS QUE VOCÊ VOE CADA VEZ MAIS ALTO
+
+Somos uma das maiores empresas aeroespaciais do mundo graças à dedicação de pessoas que possuem uma paixão genuína por superar o impossível. Foi assim desde o início e seguimos norteados pelo desejo de encontrar pessoas que vivem pelo desafio.
+
+Nascemos do sonho de transformar o Brasil em um país com a mais alta tecnologia. Quando tudo parecia impossível, sonhamos alto e nossos profissionais fizeram a companhia alcançar novas altitudes. Não há outra maneira de descrever o que nos impulsiona: Desafiar, Criar e Superar.
+
+O nosso sonho continua e acreditamos que todo mundo tem potencial para fazer a diferença. Por isso, cada vez mais, buscamos construir times diversos, que sejam representativos e valorizem a história e as singularidades de todas as pessoas, para que elas possam viver os seus sonhos junto com a gente.
+
+Aqui, todos têm oportunidade para crescer, se desenvolver e voar alto. Estamos atentos às etapas da vida profissional e aos diferentes momentos de carreira de todas as pessoas, oferecendo programas educacionais e projetos especiais. Além disso, temos frequente oportunidade de integração cultural em âmbito global e desenvolvimento pessoal para a evolução de carreira.
+
+Conheça nossos programas e as vagas abertas no Brasil e no mundo. Todas as posições estão disponíveis para pessoas que desejam desafiar o impossível, independentemente de orientação afetivo-sexual, identidade de gênero, raça, etnia e idade, sejam elas pessoas com ou sem deficiência. Aqui o foco está na parceria para trabalharmos em busca dos resultados como um só time, no desenvolvimento das pessoas com conversas abertas e honestas e na possibilidade de aprender a resolver problemas complexos de forma simples, sempre com paixão em fazer a diferença.
+
+Venha fazer parte da Embraer!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Dados Sr.
+
+Sobre a vaga
+Estamos em busca de pessoas apaixonadas por educação e tecnologia!
+Queremos que você saiba atuar em um ambiente que exige a união de múltiplas competências e experiências e com foco no resultado para deixarmos nosso legado no mundo. 
+Se você, assim como nós, tem paixão por educação e tecnologia, o UOL EdTech é para você! 🧡
+ Confira essa oportunidade e vem ser #EdTecher!
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Manter, desenvolver e otimizar pipelines e transformações de dados. 
+Monitorar e melhorar a qualidade de dados. 
+Realizar modelagem analítica de dados. 
+Apoiar a disseminação da cultura data-driven. 
+Orientar pessoas a consumirem os produtos de dados. 
+
+REQUISITOS E QUALIFICAÇÕES
+Superior em Engenharia, Análise e Desenvolvimento de Sistemas, Ciência da Computação, Matemática ou áreas correlatas. 
+Experiência sólida em técnicas e processos de engenharia de dados: Data Lake, desenvolvimento de pipelines de dados (prefect ou airflow), modelagem de dados, ELT/ETL, Data Warehouse e monitoramento de qualidade de dados. 
+Experiência em SQL, Python, DBT, Big Query e Looker. 
+Conhecimento em serviço de cloud GCP relacionados a dados. 
+Conhecimento em banco de dados relacionais (Postgres, SQL Server) e não relacionais (MongoDB e Firestore). 
+Inglês intermediário. 
+ INFORMAÇÕES ADICIONAIS
+Experiência com serviços de cloud AWS e Azure. 
+Conhecimento em otimização de consultas e processos de transformação de dados. 
+Atuação em produtos de dados em mercado B2B.
+-----------------------------------------------------------------------------------

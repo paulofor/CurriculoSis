@@ -1,0 +1,269 @@
+[Oportunidade 1]
+Oportunidade: Pessoa Engenheira de Dados
+
+Sobre a vaga
+About The Team
+
+Sobre a Shô 
+
+Aqui na Shô, acreditamos que cada membro de nossa equipe é fundamental para o nosso sucesso, e que diversidade de perspectivas e vivências são essenciais para movimentar nosso negócio e impulsionar o nosso propósito de mudar o mundo para melhor. Fazer parte do nosso time é a oportunidade de se desenvolver dentro de uma cultura de muita agilidade. Se você ama assumir grandes responsabilidades e fazer o que nunca foi feito, a Shô é seu lugar. Aqui você terá grandes desafios, trabalhará em colaboração com um time diverso e contribuirá para o futuro do e-commerce no Brasil, criamos impacto positivo na vida de milhões de pessoas.
+
+Qual será a sua missão
+
+Estamos em busca de um(a) Engenheiro(a) de Dados para se juntar à nossa equipe de Produtos Locais e nos ajudar a expandir e otimizar a modelagem e os pipelines de dados. Procuramos alguém com experiência, que goste de construir e melhorar sistemas do zero, apoiando desenvolvedores, analistas e cientistas de dados, garantindo que a arquitetura de dados funcione bem em todos os projetos. É importante ser proativo(a), saber lidar com demandas de diferentes equipes e ter entusiasmo para repensar e aprimorar as estruturas de dados que darão suporte à próxima geração de produtos e iniciativas da empresa.
+
+Job Description
+
+Como será o seu dia a dia
+
+Criar e manter uma arquitetura de pipeline de dados ideal;
+Montar conjuntos de dados complexos que atendam aos requisitos funcionais e não funcionais do negócio;
+Identificar, projetar e implementar melhorias em processos internos, como automação de tarefas manuais, otimização da entrega de dados e reestruturação da infraestrutura para maior escalabilidade;
+Construir a infraestrutura necessária para extração, transformação e carregamento (ETL) de dados a partir de diversas fontes, utilizando SQL e tecnologias da nuvem GCP;
+Desenvolver ferramentas analíticas que aproveitem o pipeline de dados para gerar insights acionáveis sobre aquisição de clientes, eficiência operacional e outros indicadores-chave de desempenho;
+Colaborar com stakeholders das equipes Executiva, de Produto, Dados e Design para resolver questões técnicas relacionadas a dados e apoiar suas necessidades de infraestrutura;
+Garantir que os dados permaneçam separados e seguros em diferentes regiões e data centers, respeitando fronteiras nacionais;
+Criar ferramentas de dados para a equipe de análise e cientistas de dados, ajudando-os a desenvolver e otimizar nossos produtos rumo à liderança no setor;
+Trabalhar com especialistas em dados e analytics para ampliar a funcionalidade dos nossos sistemas de dados.
+
+Requirements
+
+O que você precisa para assumir o desafio 
+
+Conhecimento avançado em SQL e experiência com bancos de dados relacionais, incluindo criação de queries e familiaridade com diversos tipos de bancos de dados;
+Experiência na construção e otimização de pipelines de dados, arquiteturas e conjuntos de dados;
+Vivência na análise de causa raiz em dados e processos internos e externos, com foco em responder perguntas de negócio e identificar oportunidades de melhoria;
+Sólidas habilidades analíticas para trabalhar com conjuntos de dados não estruturados;
+Capacidade de construir processos que apoiem a transformação de dados, definição de estruturas, metadados, gerenciamento de dependências e de carga de trabalho;
+Experiência com manipulação, processamento e extração de valor a partir de grandes conjuntos de dados desconectados;
+Conhecimento em filas de mensagens e processamento de dados em tempo real (streaming) é desejável
+Experiência com bancos de dados relacionais e NoSQL, como Postgres, MySQL e MongoDB (incluindo técnicas de sharding e replica sets);
+Vivência com escalabilidade e alta disponibilidade de bancos de dados;
+Experiência com recursos da Google Cloud Platform (GCP);
+Conhecimento em linguagens de script orientadas a objetos ou funcionais, como Python, Golang ou Shell Script, é um diferencial.
+
+Benefícios
+
+Assistência médica e odontológica, estendendo-se aos dependentes;
+Parceira com Wellhub (Gympass) e TotalPass;
+Vale Refeição/Alimentação flexível;
+Vale Transporte ou, Vale Mobilidade;
+Benefício flexível;
+Parceria com o app Zenklub;
+Bônus anual discricionário, atrelado à performance.
+
+VEM FAZER HISTÓRIA COM A GENTE.
+
+O QUE TE FAZ ÚNICO, NOS FAZ MELHORES!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Engenheira de Dados SR (Databricks e MongoDB)
+
+Sobre a vaga
+A Dimensa está no topo do jogo quando o assunto é tecnologia e infraestrutura para operações financeiras, crédito e risco, e seguros. Nossos sistemas são super escaláveis e adaptáveis, perfeitos para negócios de todos os tamanhos. Nossa equipe de experts vive e respira o setor financeiro, atualizando nossas soluções constantemente para tornar suas operações mais digitais, melhorar a performance, inovar no atendimento aos clientes e garantir que todas as exigências regulatórias sejam 100% cumpridas.
+
+Todas as nossas oportunidades são inclusivas e abertas para pessoas com deficiência. 🌟
+
+O DESAFIO
+● Implementar processos de ingestão e transformação de dados no Databricks, desenvolvendo código otimizado em Apache Spark (PySpark/Scala) para processar grandes volumes de dados provenientes de sistemas transacionais e logs.
+● Projetar e manter estruturas de dados no MongoDB para armazenar e consultar dados semi-estruturados ou não relacionais, definindo modelos de documentos adequados e índices para garantir desempenho nas consultas.
+● Integrar o MongoDB ao ecossistema da plataforma de dados, implementando pipelines que migrem ou sincronizem dados entre o MongoDB e outros repositórios (por exemplo, Data Lake ou PostgreSQL), conforme necessário para o projeto.
+● Otimizar a performance de jobs e consultas, ajustando configurações de cluster Databricks/Spark (particionamento, paralelismo) e realizando otimizações no MongoDB (por meio de gestão de índices, sharding ou replicação, se aplicável).
+● Colaborar com o Tech Lead e Arquiteto de Dados para garantir que as soluções implementadas em Databricks e MongoDB estejam alinhadas à arquitetura global e atendam aos padrões de qualidade e segurança.
+● Identificar gargalos ou problemas de dados (ex: inconformidades, atrasos no pipeline, falhas de integração) e propor soluções eficazes, implementando melhorias de forma proativa.
+● Documentar os processos desenvolvidos (notebooks, scripts, configurações do cluster, estruturas do MongoDB) para facilitar a manutenção futura e a transição para a fase de sustentação após o projeto.
+
+O QUE VOCÊ PRECISA
+
+● Atuação em projetos de Big Data e processamento distribuído.
+● Domínio da plataforma Databricks e do ecossistema Apache Spark (incluindo escrita
+de jobs em PySpark e/ou Scala), com experiência em otimização de jobs, gerenciamento de clusters e uso de Delta Lake.
+● Experiência avançada com MongoDB, incluindo design de coleções, consultas complexas (Aggregation Framework), índices e boas práticas de desempenho e replicação.
+● Familiaridade com linguagens de programação e scripts para manipulação de dados (Python, Scala e SQL), assim como uso de APIs e conectores para integração entre Spark, MongoDB e outros sistemas.
+● Conhecimentos de sistemas de mensageria/streaming de dados (ex: Kafka) para trabalhar com integrações em tempo real, caso parte dos dados seja recebida via streams.
+
+VOCÊ VAI BRILHAR AINDA MAIS SE TIVER
+
+Experiência no mercado financeiro
+
+O QUE OFERECEMOS PARA VOCÊ
+
+🍴 Vale Alimentação: Para saborear deliciosas refeições
+＄ Previdência Privada: Planeje o futuro com segurança.
+✙ Assistência Médica e Odontológica: Cuidado completo para você e sua família.
+👶 Licença Maternidade e Paternidade Estendida: Mais tempo para aproveitar os momentos especiais.
+‍👧‍👦 Auxílio Creche: Para ajudar nas despesas dos pequenos.
+ღ Seguro de Vida: Segurança para você e quem você ama.
+💪 Wellhub: Acesso a academias e atividades físicas para manter a saúde em dia.
+💰 Participação nos Lucros e Resultados (PLR): Sucesso compartilhado com todos.
+⚕ Einstein Conecta: Orientação médica online com os especialistas do Hospital Israelita Albert Einstein, totalmente gratuito.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: DATA ENGINEER III
+
+Sobre a vaga
+Vem ser Inter com a gente!!! 
+
+Conta digital gratuita, plataforma de investimentos, shopping e o que mais a vida precisar. O Inter é isso, e é muito mais. A gente acredita que tudo pode ser mais simples, e que cada dia é mais uma oportunidade de fazer diferente. Se você também é assim, vem ser #sanguelaranja.
+
+Join us in Inter&Co!!! 
+
+Free digital account, investment platform, shopping and whatever else life needs. Inter is that, and much more. We believe that everything can be simpler, and that every day is another opportunity to do something different. If you're like this too, come be #sanguelaranja.
+
+O Que Você Irá Fazer
+
+Gerenciamento de Infraestrutura BIG Data e Anaytics: Desenvolver, implementar e manter a infraestrutura de TI, principalmente na AWS, garantindo alta disponibilidade, escalabilidade e desempenho;
+Monitoramento e Observabilidade: Utilizar ferramentas de monitoramento como Datadog, Grafana e New Relic para monitorar a saúde dos sistemas, identificar e resolver problemas de desempenho e garantir a estabilidade da infraestrutura;
+Automação e Scripting: Criar scripts e automações para otimizar processos operacionais, implementar pipelines de CI/CD e gerenciar a infraestrutura como código;
+Gestão de Incidentes: Responder rapidamente a incidentes, identificar causas raiz e implementar correções para prevenir recorrências;
+Melhoria Contínua: Identificar oportunidades para melhorar a eficiência operacional e a confiabilidade dos sistemas, propondo e implementando soluções inovadoras.
+
+O Que Buscamos
+
+Graduação em Engenharia, Computação, Sistemas de Informação e afins;
+Atitude empreendedora e protagonismo na comunicação e relacionamento com áreas de interface;
+Experiência em engenharia de infraestrutura e operações, preferencialmente como SRE em ambientes Linux;
+Experiência em nuvem AWS
+Experiência em k8s
+Habilidade em automação e scripting (por exemplo, Python, Bash) e experiência com ferramentas de infraestrutura como código (IaC) como Terraform ou CloudFormation;
+Excelentes habilidades de resolução de problemas e capacidade de diagnosticar e corrigir problemas complexos de infraestrutura.
+
+O que buscamos como desejáveis?
+
+Aws Certified cloud practitioner;
+AWS Certified Solutions Architect;
+AZ-900 | Certificação Microsoft Azure Fundamentals;
+Experiência com Datadog e New Relic para monitoramento e análise de desempenho;
+Habilidade com Infraestrutura do Tableau, Quicksight ou Trino.
+Inglês intermediário ou avançado.
+
+O que oferecemos?
+
+Vale Alimentação/Vale Refeição;
+Plano de saúde e odontológico;
+Seguro de vida;
+Vale Transporte;
+Auxílio Creche;
+Duo Gourmet;
+Wellhub;
+....e muito mais! 
+
+O Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a PCDs.
+
+#VemproInter!!!
+
+O Nosso time de Talent é focado em contratar pessoas protagonistas, atuando com paixão e mentalidade inclusiva, respeitando a singularidade de cada pessoa e oferecendo a todos os colaboradores meios para que possam desenvolver o seu potencial e protagonismo.
+
+O Inter é parceiro e está por dentro de projetos inclusivos, todas as nossas vagas são direcionadas a pessoas com deficiências.
+
+#ComeToInter!!
+
+Our Talent team is focused on hiring leading people, acting with passion and an inclusive mindset, respecting the uniqueness of each person and offering all employees the means to develop their potential and protagonism. Inter is a partner and is aware of inclusive projects, all of our vacancies are aimed at people with disabilities.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenharia de Software Pleno -AWS/ Jav
+
+Sobre a vaga
+Vem ser Ituber & vem fazer Itaú
+
+O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 60 milhões de clientes em 18 países. Somos feitos de pessoas e acreditamos que ter um quadro com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das diferenças. Não queremos você apenas por achar que tem a nossa cara. Queremos ter um pouco da sua também! 
+
+Modelo de trabalho Hibrido 8 vezes por mês -Metro Conceição zona sul de São Paulo
+
+O que você precisa para ser um Ituber?
+
+Estamos buscando pessoas que queiram se desenvolver e aprender constantemente, compartilhando, colaborando, inovando e entregando valor para todos os nossos clientes. Aqui a gente não sabe tudo, a gente vai de turma.
+
+Como é o dia a dia de um Ituber nessa área?
+
+Atuar na comunidade de Cash Management Recebimentos e Pagamentos PJ, como engenheiro de software.
+Desenvolvemos soluções de pagamentos para clientes PJ, utilizando tecnologias modernas, em um ambiente desafiador, colaborativo e em constante evolução.
+Buscamos uma pessoa para nos apoiar na construção, evolução e inovação das nossas soluções técnicas com o objetivo de oferecer as melhores experiências aos nossos clientes.
+O profissional irá atuar em todo o ciclo de desenvolvimento de software, desde a concepção até a sustentação, apoiando em refinamentos técnicos, desenvolvimento de novas funcionalidades, correção de bugs e melhorias de performance.
+
+Atuar em times ágeis e multidisciplinares
+Desenvolvimento de aplicações backend
+Apoiar em refinamentos técnicos e definição de soluções
+Noções sobre design patterns e boas práticas
+Implementar estratégias de qualidade (testes unitários, integrados, performance)
+Realizar code review garantindo a aplicação de boas práticas
+Implementar observability e monitoração do ambiente
+Garantir escalabilidade, resiliência e alta disponibilidade da plataforma
+Atuar no Build e Run dos produtos
+
+Venha conosco construir o melhor banco de Cash Management do Brasil!
+
+No que você precisa mandar bem?
+
+Tecnologia: Java , AWS , Terraform , Spring Boot , ECS/EKS , Kafka , Observability , DynamoDb , RDS , Python
+
+Stack de tecnologias:
+- Java 11+ / Spring Boot
+- Python
+- AWS (ECS, EKS, Lambda, CloudWatch, SQS, SNS, Api Gateway, etc)
+- Kafka
+- Banco de Dados SQL (RDS) e NoSQL (DynamoDb)
+- Terraform
+- Datadog
+
+
+Ao se tornar um Ituber você tem
+• Vale Transporte
+• Vale Refeição (Restaurantes) / Vale Alimentação (Supermercados)
+• Convênio médico e odontológico
+• Seguro de Vida
+• PLR – Participação nos Lucros e Resultados (Mediante resultados do banco)
+• Previdência privada
+• Descontos exclusivos em nossos produtos financeiros
+• Licença maternidade estendida & paternidade
+• Auxílio Creche / Babá (para papais e mamães)
+• Incentivo a estudos
+• GymPass ou TotalPass
+• Acesso aos Clubes Itaú (Guarapiranga / Itanhaém e São Sebastião)
+• + Algumas vantagens que você pode conhecer durante o processo
+
+*Estimulamos candidaturas de pessoas com deficiência em todas as nossas posições, sendo assim, sinta-se à vontade para se candidatar em vagas sinalizadas como exclusivas ou não para pessoas com deficiência. Somos comprometidos com a inclusão e valorizamos a diversidade.
+
+
+#VemProItaú #VemSerItuber
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Analista de Machine Learning Sênior
+
+Sobre a vaga
+A Minerva Foods é líder em exportação de carne bovina na América do Sul e atua também no segmento de industrializados, comercializando seus produtos para mais de 100 países. Além do Brasil, a Minerva Foods está presente no Paraguai, na Argentina, no Uruguai, na Colômbia, e possui plantas especializadas em ovinos na Austrália.
+Com nossas 46 unidades industriais, oferecemos produtos saudáveis e nutritivos, que são comercializados para clientes do mundo todo por meio de nossos 23 centros de distribuição e 17 escritórios internacionais.
+
+A área de Business Analytics tem como propósito resolver problemas de negócio complexos; em outras palavras, a equipe de Business Analytics utiliza técnicas de estatística, algoritmos, e métodos estocásticos para modelar dados internos e externos para gerar informações valiosas que possam conduzir ações de melhoria de negócios.
+O machine learning engineer sênior atuará na equipe de business analytics e será responsável por produtizar soluções de modelagens, aprendizado de máquina e modelos matemáticos em ambientes de nuvem ou interno, além de monitorar a qualidade dos modelos em produção. Garantir o funcionamento dos modelos em produção é imprescindível para o momento da empresa pois os modelos tomam decisão no negócio.
+
+As soluções deverão ser organizadas e disciplinadas a ponto de gerar insight, retroalimentando novos modelos para melhor performance. O acompanhamento do desempenho dos modelos assim como a estabilidade das variáveis envolvidas é de grande importância e devem ser mantidas atualizadas de acordo com a frequência definida.
+
+Responsabilidades e atribuições
+Principais Atividades e Experiências:
+Ser responsável por configurar a infraestrutura de projetos escaláveis de aprendizado de máquina e modelos estatísticos;
+Implementar pipelines de MLOps de acordo com as melhores práticas de mercado, garantindo versionamento e funcionalidade robusta da solução;
+Trabalhar em conjunto com Cientista de Dados para projetar soluções end-to-end em projetos de IA;
+Colaborar com demais machine learning engineer com menos experiência;
+Experiência com ferramentas e abordagens de MLOps como MLFlow, Spark, Git, entre outros;
+Domínio de técnicas em conteinerização via Docker;
+Habilidades de desenvolvimento de software. Diferencial se tiver experiência com arquiteturas de microserviços;
+Familiaridade com ambientes Cloud, preferencialmente AWS / Azure;
+Experiência em processos de Devops, especialmente conceitos de CI/CD.
+
+Requisitos e qualificações
+Pré-requisitos:
+Superior completo em áreas correlatas a computação e/ou exatas;
+Experiência comprovada de 4 anos na área de MLOPs;
+Conhecimento de Cloud em AWS/Azure - Experiência com tecnologia de containers em cloud (AWS ECS/EKS, ECR, e/ou Azure AKS), Arquitetura Serverless (AWS Api Gateway, AWS Lambda e/ou Azure Functions);
+Conhecimento avançado em Python;
+Desejável: Experiência com o desenvolvimento e implementação de API’s (Flask, FastAPI);
+Desejável: Inglês - Nível Intermediário;
+Desejável: Mestrado ou pós-graduação em ciência da computação;
+Capacidade de comunicação com stakeholders não-técnicos;
+Habilidade para traduzir requisitos de negócio em soluções técnicas.
+
+Diferencial
+Conhecimento em Kubernets;
+Conhecimento em Terraform.
+-----------------------------------------------------------------------------------

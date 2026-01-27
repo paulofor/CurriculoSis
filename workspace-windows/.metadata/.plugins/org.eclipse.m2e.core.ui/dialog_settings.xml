@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\paulo\CurriculoSis\fontes-estruturado\principal"/>
+			<item value="C:\paulo\CurriculoSis\fontes-estruturado\principal\obtemoportunidadefree"/>
+			<item value="C:\paulo\CurriculoSis\fontes-estruturado\principal\loopback"/>
+			<item value="C:\paulo\CurriculoSis\fontes-estruturado\principal\daobase"/>
+			<item value="C:\paulo\CurriculoSis\fontes-estruturado\principal\obtemoportunidadelinkedin"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

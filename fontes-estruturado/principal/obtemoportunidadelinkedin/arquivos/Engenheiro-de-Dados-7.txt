@@ -1,0 +1,272 @@
+[Oportunidade 1]
+Oportunidade: Analista Phython / Engenheiro De Dados
+
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos. Saiba mais
+A UBC está com vaga de Analista Phython / Engenheiro de Dados em nossa sede no Rio! Responsabilidades Principais: Experiência em desenvolvimento utilizando Python.Modelar e otimizar bancos relacionais (Oracle) e não relacionais (MongoDB, Solr).Criar e gerenciar contêineres Docker e clusters Kubernetes (dev, testes e produção).Configurar e executar jobs em Spark ou MapReduce; conhecimento em HDFS, YARN e Hive.Observabilidade: uso de Prometheus, Grafana ou ELK Stack (Elasticsearch/Logstash/Kibana).Documentar arquiteturas, fluxos de dados e procedimentos operacionais.Familiaridade com AWS ou Azure para ambientes em nuvem.Projetar e manter APIs backend em Python, aplicando padrões SOLID. Requisitos Desejáveis: Observabilidade: uso de Prometheus, Grafana ou ELK Stack (Elasticsearch/Logstash/Kibana).Metodologias Ágeis: vivência em Scrum/Kanban e ferramentas como Azure DevOps ou Jira. Se identificou?
+
+Envie seu currículo para ****** com o assunto 'Analista Phython / Engenheiro de Dados | UBC'.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Data Engineer – Industrial IoT & Real-Time Analytics
+
+Sobre a vaga
+Job Description
+
+We are looking for a Data Engineer to design and implement large-scale, real-time data architectures that power AI, predictive maintenance, and industrial automation in mission-critical environments. This role will ensure high availability, accuracy, and efficiency in processing real-time industrial data.
+
+How You Will Contribute And What You Will Learn
+
+Design and implement real-time data pipelines for ingesting, processing, and visualizing industrial sensor data.
+Develop low-latency, high-throughput streaming architectures using Kafka, Apache Flink, or Spark Streaming.
+Build and optimize secure, scalable data lakes and ETL pipelines for mining, oil & gas, and heavy industry applications.
+Implement event-driven architectures and data transformation workflows for AI-powered automation.
+Ensure data governance, security, and compliance with industrial cybersecurity standards (IEC 62443, ISO 27001, GDPR).
+Work with AI engineers, cloud architects, and automation teams to enable real-time AI decision-making.
+Optimize time-series data processing using TimescaleDB, InfluxDB, or OpenTSDB.
+Deploy cloud-based data solutions with AWS Kinesis, Google Pub/Sub, Snowflake, or Grafana.
+Monitor data pipeline performance with moden observability frameworks (e.g. Prometheus), ensuring fault tolerance, scalability, versioning, and efficiency.
+Collaborate with industrial automation and IoT teams to integrate edge-to-cloud data flows.
+
+Key Skills And Experience
+
+Bachelor’s or Master’s degree in Computer Science, Data Engineering, or a related field.
+5+ years of experience in real-time data engineering, cloud computing, or industrial IoT.
+Strong expertise in data streaming, event-driven processing, and distributed computing frameworks.
+Hands-on experience with best practices with Big Data using Kafka, Apache Flink, Spark Streaming, or similar technologies.
+Deep knowledge of ETL design, data warehousing, and real-time analytics.
+Experience with SQL and NoSQL databases, including TimescaleDB, InfluxDB, Cassandra, or MongoDB.
+Proficiency in Python, Scala, or Java for data processing and automation.
+Understanding of IoT protocols (MQTT, OPC-UA, Modbus) and industrial data standards.
+Familiarity with DevOps and MLOps best practices, including CI/CD pipelines for data workflows.
+Knowledge of cloud-native data solutions (AWS Kinesis, Google Pub/Sub, Azure Event Hub).
+Familiarity with workflow orchestration platforms like Apache Airflow
+
+Preferred Qualifications:
+
+Experience in mining, oil & gas, or large-scale industrial automation projects.
+Knowledge of machine learning model deployment in real-time production environments.
+Understanding of GIS data processing, geospatial analytics, and digital twin integrations.
+Experience with cybersecurity frameworks for industrial data environments.
+
+Soft Skills:
+
+Strong problem-solving mindset, capable of optimizing large-scale data architectures.
+Ability to collaborate across teams, including AI, cloud, and industrial operations.
+Effective communication skills for translating technical data insights into actionable business strategies.
+Passion for real-time data processing, AI-driven automation, and industrial innovation.
+
+About Us
+
+ Come create the technology that helps the world act together
+
+Nokia is committed to innovation and technology leadership across mobile, fixed and cloud networks. Your career here will have a positive impact on people’s lives and will help us build the capabilities needed for a more productive, sustainable, and inclusive world.
+
+We challenge ourselves to create an inclusive way of working where we are open to new ideas, empowered to take risks and fearless to bring our authentic selves to work
+
+What we offer
+
+Nokia offers continuous learning opportunities, well-being programs to support you mentally and physically, opportunities to join and get supported by employee resource groups, mentoring programs and highly diverse teams with an inclusive culture where people thrive and are empowered.
+
+Nokia is committed to inclusion and is an equal opportunity employer
+
+Nokia has received the following recognitions for its commitment to inclusion & equality:
+
+ One of the World’s Most Ethical Companies by Ethisphere 
+ Gender-Equality Index by Bloomberg 
+ Workplace Pride Global Benchmark 
+
+At Nokia, we act inclusively and respect the uniqueness of people. Nokia’s employment decisions are made regardless of race, color, national or ethnic origin, religion, gender, sexual orientation, gender identity or expression, age, marital status, disability, protected veteran status or other characteristics protected by law.
+
+We are committed to a culture of inclusion built upon our core value of respect.
+
+Join us and be part of a company where you will feel included and empowered to succeed.
+
+About The Team
+
+Strategy and Technology lays the path for Nokia’s future technology innovation and identifies the most promising areas for Nokia to create new value. We set the company’s strategy and technology vision, offer an unparalleled research foundation for innovation, and provide critical support infrastructure for Nokia.
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+Who We Are
+
+Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+Location and Flexibility
+
+This role can be fully remote for candidates based in the states of São Paulo and Rio Grande do Sul as well as in the cities of Rio de Janeiro, and Belo Horizonte, due to team distribution and occasional in-person opportunities. If you are based in São Paulo or Porto Alegre, you are welcome to work from one of our offices on a flexible schedule.
+
+The Opportunity
+
+As a Data Engineer part of our growing Data Science team, you will be responsible for designing, implementing, and maintaining robust and scalable data pipelines, enabling efficient data integration, storage, and processing across our various data sources. You will collaborate with cross-functional teams, including Data Scientists, Software Engineers, and other technical stakeholders, to ensure data quality and support data-driven decision-making.
+
+Responsibilities
+
+Develop and optimize scalable, high-performing, secure, and reliable data pipelines that address diverse business needs and considerations
+Identify opportunities to enhance internal processes, implement automation to streamline manual tasks, and contribute to infrastructure redesign 
+Act as a guide and mentor to junior engineers, supporting their professional growth and fostering an inclusive working environment
+Collaborate with cross-functional teams to ensure data quality and support data-driven decision-making to strive for greater functionality in our data systems
+Collaborate with project managers and product owners to assist in prioritizing, estimating, and planning development tasks
+Provide constructive feedback, and share expertise with fellow team members, fostering mutual growth and learning
+Engage in ongoing research and adoption of new technologies, libraries, frameworks, and best practices to enhance the capabilities of the data team
+Demonstrate a commitment to accessibility and ensure that your work considers and positively impacts others
+
+Qualifications
+
+BSc, MSc, and/or PhD in Statistics, Mathematics, Physics, CS, or another related subject
+Experience in technology-related fields, which can be industry and/or academic research (e.g. BI, Software, Data Science, Data Engineering)
+At least 3 years of experience as Data Engineer
+Have actively participated in the design and development of data architectures
+Hands-on experience in developing and optimizing data pipelines
+Experience working with databases and data modeling projects, as well as practical experience utilizing SQL
+Effective English communication - able to explain technical and non-technical concepts to different audiences
+Experience with a general-purpose programming language such as Python or Scala
+Ability to work well in teams and interact effectively with others
+Ability to work independently and manage multiple tasks simultaneously while meeting deadlines
+
+Bonus Points
+
+Cloud platforms and services, such as AWS, GCP, or Azure
+Big data tools such as Hadoop, Spark or Kafka
+Orchestration tools such as Airflow
+NoSQL databases
+Containerization technologies such as Docker and Kubernetes
+Agile development environment and familiarity with Agile methodologies
+
+Why TELUS Digital?
+
+At TELUS Digital, you’ll work with world-class brands like FOX, HBO, PepsiCo, and Domino's, building transformative digital products that impact millions. Our global reach allows you to collaborate with diverse, international teams, solving complex problems and delivering tech-driven solutions that matter.
+
+We thrive on engineering excellence, using the latest technologies in cloud computing, AI, machine learning, DevOps, microservices architecture, and data engineering. Our teams embrace Agile methodologies, continuous integration and deployment (CI/CD) pipelines, and a DevOps-first mindset to deliver solutions at scale.
+
+In addition to being part of an international and innovative consultancy company, you will have:
+
+A Global Innovation Hub: Be part of an international consultancy at the forefront of technology
+Work-Life Harmony: Enjoy flexible hours and autonomy to balance your professional and personal life
+Cutting-Edge Tech Playground: Dive into the latest technologies and shape the future of digital solutions
+Prestigious Partnerships: Collaborate with world-renowned brands, making a real impact in the market
+Growth-Centric Environment: Thrive in our collaborative ecosystem with a clear career development path
+Global Exposure: Embrace optional international travel opportunities to broaden your horizons
+
+Some Of Our Benefits
+
+Health and dental plan
+Life insurance
+Monthly voucher for meals, culture, education, health and mobility
+Child care assistance and more!
+
+Equal Opportunity Employer 
+
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.
+
+For more information on how we use your information, see our Privacy Policy.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Senior Data Developer, Brazil
+
+Sobre a vaga
+Somos especialistas em transformação tecnológica, unindo expertise humana à IA para criar soluções tech escaláveis. Com mais de 7.400 CI&Ters ao redor do mundo, já formamos parcerias com mais de 1.000 clientes durante nossos 30 anos de história. Inteligência Artificial é nossa realidade.
+
+Importante: posições localizadas na Região Metropolitana de Campinas, sua presença nos escritórios da cidade será obrigatória, conforme a política de frequência vigente.
+
+Estamos em busca de uma pessoa Senior Data Developer para integrar nossa equipe de desenvolvimento de um produto de dados e atuar em um cliente do ramo de Entretenimento. 
+
+Responsabilidades:
+- Projetar, construir, operacionalizar e monitorar pipeline de dados, utilizando a Google Cloud Platform;
+- Desenvolver processos de ETL;
+- Liderar pequenos esforços, coordenando com outros membros do seu time, atuar com autonomia circunstancial e sob orientação moderada.
+- Ter boa comunicação e trabalhar em equipe, colaborar com o time em discussões técnicas ou apoiar nas demandas, ter proatividade, engajamento, comprometimento e ownership.
+
+Você precisa ter prática com:
+- Stack GCP (Dataflow, Cloud Monitoring, Cloud Logging, Cloud Storage, BigQuery, etc.);
+- Linguagem Python e SQL;
+- Banco de dados Oracle, SQL Server;
+- Bom relacionamento com negócio: entendimento de necessidades, demandas e oportunidade de uso de dados. - Suporte às equipes de negócio;
+- Conhecer os conceitos de scheduling/orquestração;
+- Experiência com mapeamento e modelagem de dados;
+- Conhecimento em devops: CI/CD;
+
+Você irá se destacar se tiver conhecimento e vivências em: 
+- Informática Power Center;
+
+Conhecimentos Desejáveis:
+- Consultas MDX;
+- Trabalhado com metodologias ágeis;
+- Entusiasta e utilizador de GenAI.
+
+
+
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Licença parental estendida;
+- Parceria com academias e profissionais de saúde e bem-estar via Wellhub (Gympass) TotalPass;
+- Participação nos Lucros e Resultados (PLR);
+- Seguro de Vida;
+- Plataforma de aprendizagem contínua (CI&T University);
+- Clube de descontos;
+- Plataforma online gratuita dedicada à promoção da saúde física, mental e bem-estar;
+- Curso gestante e parentalidade responsável;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros
+
+Mais detalhes sobre os nossos benefícios aqui: https://ciandt.com/br/pt-br/carreiras
+
+Na CI&T, a inclusão começa no primeiro contato. Se você é pessoa com deficiência, é importante apresentar o seu laudo durante o processo seletivo. Assim, podemos garantir o suporte e as adaptações que você merece. Se ainda não tem o laudo caracterizador, não se preocupe: podemos te apoiar para obtê-lo.
+
+Temos um time dedicado de Saúde e Bem-estar, especialistas em inclusão e grupos de afinidade que estarão com você em todas as etapas. Conte com a gente para fazer essa jornada lado a lado.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Desenvolvedor ETL - Trabalho Remoto
+
+Sobre a vaga
+Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício.
+
+Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global.
+
+Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional.
+
+Desenvolvedor ETL na BairesDev
+
+Procuramos um Desenvolvedor ETL para se juntar a nossa equipe de Desenvolvimento e participar de diferentes projetos formados por equipes multiculturais distribuídas em todo o mundo. Estamos à procura de pessoas pró-ativas e jogadores de equipe apaixonados por programação nesta linguagem e orientados a fornecer a melhor experiência ao usuário final. Esta é uma excelente oportunidade para aqueles profissionais que procuram se desenvolver em uma das empresas que mais crescem no setor!
+
+Estes desenvolvedores enfrentarão inúmeros desafios técnicos, portanto, devem usar as tecnologias atuais e se envolver no mundo móvel, aplicações web, dispositivos, etc.
+
+O que você vai fazer:
+
+- Projetar e desenvolver novas soluções ETL além de melhorias e manutenções.
+- Melhorar os trabalhos de execução lenta com a ajuda de redesenho e melhores processos ETL para atender às necessidades comerciais.
+- Apoiar a equipe para projetar, modelar, desenvolver e manter objetos de banco de dados SQL existentes e novos, necessários para todas as soluções de negócios.
+
+Esperamos que você tenha:
+
+- 5+ anos de experiência no desenvolvimento de soluções ETL e experiência no projeto e implementação de modelos de bancos de dados relacionais por necessidade comercial.
+- Experiência em desenvolvimento, projeto, análise e suporte em ambientes de desenvolvimento, testes e produção de bancos de dados com vários domínios comerciais.
+- Experiência com Python é uma grande vantagem.
+- Bacharelado em Ciência da Computação ou equivalente é altamente desejável.
+- Nível avançado de inglês.
+
+Como tornamos seu trabalho (e sua vida) mais fácil:
+
+- Modalidade 100% remota - trabalhe de qualquer lugar.
+- Excelente remuneração em USD ou na sua moeda local, como preferir.
+- Hardware para você trabalhar de casa.
+- Horários flexíveis - faça seu próprio horário.
+- Licença parental remunerada, férias, e feriados nacionais.
+- Ambiente de trabalho inovador e multicultural.
+- Colabore e aprenda com o Top 1% global dos talentos de cada área.
+- Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento.
+
+Junte-se a uma equipe global onde seus talentos excepcionais podem se destacar!
+-----------------------------------------------------------------------------------

@@ -1,0 +1,283 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de dados foco cloud AWS
+
+Sobre a vaga
+Introduction
+
+Uma carreira em Consultoria IBM é baseada em relacionamentos de longo prazo e colaboração próxima com clientes em todo o mundo.
+
+Você trabalhará com visionários de diversos setores para aprimorar a jornada de nuvem híbrida e IA para as empresas mais inovadoras e valiosas do mundo. Sua capacidade de acelerar o impacto e promover mudanças significativas para seus clientes é possibilitada pelo nosso ecossistema de parceiros estratégicos e nossas robustas plataformas tecnológicas em todo o portfólio da IBM, incluindo Software e Red Hat.
+
+A curiosidade e a busca constante por conhecimento são a base para o sucesso na Consultoria IBM. Em sua função, você será incentivado a desafiar os padrões, investigar ideias fora da sua área de atuação e apresentar soluções criativas que resultem em impacto inovador para uma ampla rede de clientes. Nossa cultura de evolução e empatia se concentra em oportunidades de crescimento e desenvolvimento profissional a longo prazo, em um ambiente que acolhe suas habilidades e experiências únicas.
+
+Your Role And Responsibilities
+
+As Data Engineer at IBM you will harness the power of data to unveil captivating stories and intricate patterns. You'll contribute to data gathering, storage, and both batch and real-time processing.
+
+Collaborating closely with diverse teams, you'll play an important role in deciding the most suitable data management systems and identifying the crucial data required for insightful analysis. As a Data Engineer, you'll tackle obstacles related to database integration and untangle complex, unstructured data sets.
+
+In This Role, Your Responsibilities May Include
+
+Implementing and validating predictive models as well as creating and maintain statistical models with a focus on big data, incorporating a variety of statistical and machine learning techniques 
+Designing and implementing various enterprise seach applications such as Elasticsearch and Splunk for client requirements
+Work in an Agile, collaborative environment, partnering with other scientists, engineers, consultants and database administrators of all backgrounds and disciplines to bring analytical rigor and statistical methods to the challenges of predicting behaviors.
+Build teams or writing programs to cleanse and integrate data in an efficient and reusable manner, developing predictive or prescriptive models, and evaluating modeling results
+
+Preferred Education
+
+Bachelor's Degree
+
+Required Technical And Professional Expertise
+
+Buscamos profissionais com experiência com Data engineer esteira de AWS com o conhecimento técnico de:
+
+Plataformas de dados - AWS
+Projetar e desenvolver pipelines de dados: criar pipelines robustos para processar, transformar dados e ingerir dados derivados da origem ao destino. 
+Implementar processos ETL/ELT 
+Desenvolvimento de funções Lambda para desenvolvimento de APP
+CI/CD, IaC
+Proficiência com ferramentas AWS: experiência demonstrável em AWS Glue, AWS Lambda, Amazon Athena, Amazon DynamoDB, Amazon Cloudwatch, Amazon SNS e AWS Step Functions. 
+Grande experiência com linguagens de programação como Python, Pyspark. 
+Conhecimento profundo de tecnologias de banco de dados e tecnologias de ecossistema de Big Data: AWS RDS. 
+Experiência com AWS Data Lakes 
+Grande conhecimento em pipeline de implantação usando AWS Cloud Formation
+ Grande conhecimento em Git.
+Grande conhecimento em SQL.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Senior Data Engineer Brazil
+
+Sobre a vaga
+Who We Are
+
+At Artefact LatAm, we believe in and live a culture based on empathy!
+
+A healthy work environment is a place where all voices are heard, respected, and valued.
+
+Our commitment is to build a more diverse and inclusive environment, because empathy is for everyone, regardless of ethnicity, color, gender, sexual orientation, gender identity, disability, or religious belief.
+
+We want incredible minds and hearts to join us! Come be Artefact!
+
+What You Will Be Doing
+
+We’re looking for a skilled Data Engineer with hands-on experience in Apache Airflow to join our data team. In this role, you’ll be responsible for designing, building, and maintaining scalable data pipelines and workflows that support our analytics and data-driven products.
+
+Develop, schedule, and monitor data pipelines using Apache Airflow.
+Collaborate with data analysts, scientists, and engineering teams to ensure reliable data delivery.
+Optimize ETL processes for performance, reliability, and scalability.
+Maintain and improve data architecture, ensuring data integrity and security.
+Troubleshoot and resolve pipeline failures and performance bottlenecks.
+Provide technical leadership and guidance in the implementation of technical solutions, ensuring alignment with industry standards and compliance requirements.
+Document architectural decisions, strategies, and implementation guidelines for future reference.
+Lead by example, promoting engineering excellence and a culture of continuous improvement.
+Coach and upskill team members by providing technical guidance, pair programming, design reviews, and knowledge sharing.
+
+What We Are Looking For
+
+A degree in Computer Science, Statistics, Engineering, Economics, or a related field.
+Strong communication and interpersonal skills, with the ability to collaborate across multiple teams and levels of the organization.
+Demonstrated ability to balance hands-on technical delivery with mentoring and team enablement.
+Excellent problem-solving skills, with the ability to troubleshoot complex technical issues.
+Curiosity: You are always looking for innovative solutions for your clients. You get involved in the entire value chain, which can include front-end, back-end, big data infrastructure, ML models.
+Collaboration: Knowledge sharing is essential to you, and you actively contribute to spreading information within Artefact.
+Entrepreneurship: You bring solutions, new ideas, and innovations.
+Fluent English: You are comfortable communicating in English, as it is essential for working in our international environment.
+
+What We Offer
+
+Meal/Transportation Allowance (VR/VT)
+Free Office (work from home or anywhere you want!)
+Gympass
+Insurance: Life, Health, and Dental
+Bi-monthly Meetings (our “Get Together” where we meet to be together, with workshops, lectures, training, and a happy hour!)
+Woba (you can book coworking spaces anywhere you want!)
+Semi-annual evaluations (with opportunities for promotion)
+
+Why you should join us
+
+Artefact is the place to be: come and build the future of marketing
+Progress: every day offers new challenges and new opportunities to learn
+Culture: join the best team you could ever imagine
+Entrepreneurship: you will be joining a team of driven entrepreneurs. We won’t give up until we make a huge dent in this industry!
+
+Come join us!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Pessoa Engenheira de Dados Sênior
+
+Sobre a vaga
+Conheça nossa cultura:
+
+Somos movidos pela inovação. Nossas soluções tecnológicas estão transformando a vida de milhões de pessoas.
+
+Aqui, respeito e diversidade não são apenas palavras; são pilares que sustentam nossa jornada. Valorizamos as diferentes vozes e perspectivas da nossa equipe, pois acreditamos que a escuta ativa à pluralidade é a chave para a verdadeira inovação.
+
+Como aprendizes eternos, estamos em busca de crescimento e evolução e, para isso, a colaboração é essencial. Juntos, construímos um ambiente em que o feedback é usado como uma ferramenta para o desenvolvimento mútuo e contínuo.
+
+Com planejamento, agilidade e adaptabilidade, estamos prontos para mudar de direção sempre que necessário, sem perder o foco em fazer o nosso melhor.
+
+E, claro, não podemos esquecer do nosso objetivo final: resultados excepcionais. Miramos alto e trabalhamos incansavelmente para alcançar o topo, celebrando cada conquista ao longo do caminho.
+
+Sobre o time:
+
+Nosso principal objetivo é empoderar a Acerto com dados para que todos na organização possam tomar decisões. Então coletamos e recebemos dados de diversas fontes e também armazenamos, processamos e disponibilizamos dados em nosso Data Lake.
+
+Trabalhamos com dados de Diversas complexidades, com Esquemas variado, dados sem esquema com volumes muito grandes e quando necessário fluxos em tempo real. Portanto, visamos sempre trabalhar com uma arquitetura robusta, utilizando processamento e armazenamento distribuído.
+
+Quais serão as responsabilidades:
+
+Desenvolver e otimizar pipelines de dados, garantindo a escalabilidade e eficiência. 
+Trabalhar com grandes volumes de dados, transformando-os em informações valiosas para a tomada de decisões. 
+Colaborar com as equipes de produto e ciência de dados para garantir a integração e acessibilidade dos dados. 
+Garantir a qualidade, segurança e integridade dos dados ao longo de todo o ciclo de vida. 
+
+O que esperamos de você:
+
+No mínimo 5 anos de experiência com Engenharia de Dados; 
+Sólidos conhecimentos em ferramentas de engenharia de dados, como SQL, Python e Apache Airflow; 
+Experiência prática com sistemas de armazenamento de dados; 
+Habilidade para lidar com problemas complexos e criar soluções eficientes; 
+Experiência com integração e manutenção de pipelines de dados em ambientes de produção. 
+
+É um diferencial se você tiver:
+
+Experiência com plataforma Google Cloud. 
+Experiência com DBT ou ferramentas similares. 
+Experiência com alguma ferramenta de Catálogo de Dados. 
+Conhecimento em metodologias de DevOps e automação de processos. 
+Familiaridade com técnicas de modelagem de dados e Data Warehousing. 
+Conhecimento em ferramentas de visualização de dados e monitoramento de pipelines. 
+
+Benefícios:
+
+Caju alimentação (R$1.090,00/mês); 
+Caju flexível (R$700,00/mês); 
+Plano de saúde nacional (sem mensalidade para o colaborador, direito à isenção da mensalidade de uma pessoa dependente, e com coparticipação); 
+Plano odontológico; 
+Licença parentalidade estendida (45 dias para pessoas não gestantes e 180 dias para pessoas gestantes); 
+Programa de Participação de Resultados (anual); 
+Gympass; 
+Desconto em cursos de inglês; 
+Duo Gourmet; 
+Cartão Inter Black (com 1% de cashback na fatura). 
+Horário flexível; 
+Folga de aniversário; 
+
+Aqui vai uma dica:
+
+Procuramos por alguém que tenha o protagonismo na veia, que adore debater e buscar maneiras de ajudar a empresa a evoluir sempre. Que seja capaz de tomar decisões baseadas em análises, que esteja sempre de braços abertos para compartilhar o que sabe e para aprender com todo mundo. Você se enxergou aqui? Então vem trabalhar com a gente! :)
+
+Para saber mais sobre a Acerto, acesse nossa página de carreiras: https://acerto.com.br/sobre-nos/carreiras
+
+About The Company
+
+Prazer, somos a Acerto.
+
+Nascemos com o propósito de transformar a vida financeira dos brasileiros, ajudando milhões de pessoas a conquistarem o bem-estar financeiro de forma simples e acessível. Com uma solução inovadora e digital de negociação de dívidas, colocamos o consumidor no centro de tudo o que fazemos.
+
+Se você busca trabalhar em uma fintech em crescimento acelerado, que valoriza o desenvolvimento contínuo, incentiva a colaboração ativa e promove flexibilidade e alta performance, aqui é o seu lugar.
+
+Na Acerto, cultivamos uma cultura de transparência, onde o feedback é uma ferramenta poderosa para impulsionar o aprendizado e a evolução. Valorizamos o talento, reconhecemos as conquistas e criamos um ambiente onde o seu impacto é percebido e celebrado.
+
+Além disso, oferecemos benefícios competitivos e a oportunidade de fazer parte de algo maior: contribuir para um futuro onde a tecnologia e o propósito andam lado a lado para impactar vidas de forma positiva.
+
+Estamos em constante evolução e sempre em busca de novos talentos. Uma das nossas vagas pode ser perfeita para você.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Sobre a vaga
+ Código da vaga: 47815
+ Sobre a BRQ Digital
+ Há 32 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+ Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+ BRQ WAY
+ No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia!
+ É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+ Vamos transformar juntos! Vem ser fera com a gente.
+  Ei #fera .NET, chegou o momento de encarar um novo desafio em sua carreira! Venha ser um #ferabrq
+ - O que procuramos?
+ Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+ - O que você deve ter?
+ Profissional com experiência em ambientes Microsoft Azure, atuando com serviços como Data Factory, VMs, BlobStorage, Databricks, AKS e CosmosDB. Vivência em processamento de dados em lote e streaming, com uso de Kubernetes e mensageria.
+Sólido conhecimento em Databricks e Apache Spark, além de programação em Python, PySpark e Kedro. Desejável experiência com ambientes on-premises como Cloudera (Hadoop, HBase, Hive).
+Familiaridade com práticas de DevOps (Jenkins, CI/CD), versionamento com Git e metodologias ágeis (Scrum, Kanban). Desejável conhecimento em orientação a objetos (Java para leitura) e ferramentas de orquestração como Control-M.
+ - Será um diferencial:
+  Experiência com Azure e DataBricks.
+ *vaga híbrida 3x por semana em São Paulo*
+ - O que temos pra te oferecer?
+ Mais do que um plano de carreira!
+ A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+ Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+ Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+ Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+ Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+ - E os benefícios?
+ Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+ - Como é trabalhar na BRQ?
+ Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+ Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente! 🚀
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Senior Data Engineer
+
+Sobre a vaga
+We are seeking a Senior Data Engineer to join our team.
+
+This role involves a blend of engineering and analytical responsibilities. You will develop and maintain data infrastructure while also analyzing cost data, identifying trends, and working closely with teams to optimize cloud spend. With a heavy focus on AWS, this position requires a strong understanding of AWS services and cost structures. You will leverage tools like Python, Databricks, Snowflake, Airflow, and Looker to deliver impactful insights and solutions that drive cost optimizations and decision-making.
+
+Responsibilities
+
+
+Design, build, and maintain scalable ETL pipelines to process and transform large volumes of cloud cost and usage data
+Integrate data from multiple sources, including AWS, into centralized data lakes or warehouses like Snowflake
+Develop and maintain data models to support cost analysis and reporting needs
+Optimize query performance and storage efficiency for large-scale datasets
+Automate recurring data processing tasks and implement robust monitoring for data pipelines
+Ensure data accuracy and reliability through validation processes
+Analyze cloud cost data to identify trends, anomalies, and optimization opportunities
+Work closely with teams to investigate spending changes and resolve cost anomalies
+Collaborate with stakeholders to understand cost drivers and provide actionable insights
+Support teams in building dashboards and visualizations to track key cost metrics
+Create reports and presentations to communicate findings and recommendations to leadership
+Partner with teams to develop strategies for cost reduction and operational efficiency
+
+
+Requirements
+
+
+Bachelor’s degree in Computer Science, Data Engineering, Data Analytics, or a related field
+3+ years of experience in a data engineering, data analysis, or hybrid role
+Knowledge of AWS services (e.g., EC2, S3, RDS, Lambda) and their cost structures
+Proficiency in SQL and experience with relational databases like Snowflake or Redshift
+Familiarity with Databricks and Spark for large-scale data processing
+Hands-on experience with ETL tools and frameworks (e.g., Databricks, Apache Airflow)
+Programming experience in Python for data analysis and pipeline development
+Experience with BI tools like Looker or Tableau for creating dashboards and visualizations
+Excellent problem-solving skills and the ability to interpret and analyze large datasets
+
+
+Nice to have
+
+
+Experience with Kubernetes, Docker, or containerization technologies
+Understanding of cloud cost management tools and strategies
+Strong communication skills for presenting insights to stakeholders and leadership
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+-----------------------------------------------------------------------------------

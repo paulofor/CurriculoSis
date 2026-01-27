@@ -1,0 +1,253 @@
+[Oportunidade 1]
+Oportunidade: Profissional Back end- Java ou Python - Pleno
+
+Sobre a vaga
+Código da vaga: 48832
+
+Sobre a BRQ Digital
+Há 32 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior.
+Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor.
+
+BRQ WAY
+No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia! É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são.
+Vamos transformar juntos! Vem ser fera com a gente.
+
+
+Ei, profissional desenvolvedor back end , venha fazer parte de uma das maiores empresas de transformação digital do país!
+
+O que procuramos?
+Buscamos um #fera com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação!
+
+- O que você deve ter?
+Experiência desenvolvedor Pleno em Java ou Python
+Desejável conhecimento em AWS (Amazon Web Services)
+Boas práticas de desenvolvimento, versionamento e integração contínua
+Capacidade de trabalhar em equipe e colaborar com diferentes áreas
+
+
+Principais Responsabilidades
+ Projeto Jornada de Quitação de Horas Extras
+Objetivo: Desenvolver uma solução para formalização e assinatura digital do banco de horas
+
+
+Modelo hibrido ate 3x ao cliente- Santo Amaro- SP
+CLT pela BRQ + Pacote de benefícios
+
+- O que temos pra te oferecer?
+Mais do que um plano de carreira!
+
+A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares:
+
+Carreira técnica: Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos!
+Carreira de Liderança: Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos.
+Experiência internacional: Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede.
+Empreendedorismo: De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio.
+
+- E os benefícios?
+Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Home Office; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais!
+
+- Como é trabalhar na BRQ?
+Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Desenvolvedor Full Stack
+
+Sobre a vaga
+Estamos em busca de um(a) Desenvolvedor(a) para atuar na fila de bugs e contribuir com a evolução das soluções da Sankhya. Procuramos alguém com resiliência, foco em resolução de problemas e paixão por entregar resultados de forma colaborativa.
+
+💼 Responsabilidades:
+Atuar diretamente na fila de correções e bugs da plataforma;
+Desenvolver Extensions (front-end da plataforma SankhyaOm);
+Implementar e manter personalizações e customizações;
+Realizar manutenção do código-fonte, gerenciar branches, tags e integrações via GitLab;
+Integrar sistemas e trabalhar com CI/CD (com Docker) na esteira de delivery;
+Colaborar em equipe utilizando metodologias ágeis (Kanban);
+Realizar testes, debugar, manter e atualizar código legado;
+Contribuir para a convergência de módulos em versões coesas e distribuíveis.
+🧠 Requisitos Técnicos:
+Indispensável:PL/SQL
+Java
+JavaScript (com foco em AngularJS)
+Desejável:Experiência com integrações entre sistemas
+Conhecimento em Docker e pipelines de CI/CD
+Vivência com GitLab
+🔍 O que esperamos de você:
+Habilidade analítica e pensamento lógico;
+Proatividade para resolver problemas de forma autônoma;
+Atenção aos detalhes e zelo pelo código;
+Curiosidade e sede por aprendizado constante;
+Boa comunicação e colaboração em equipe;
+Organização e gestão do tempo;
+Persistência e resiliência, especialmente ao lidar com cenários complexos.
+Se você gosta de desafios técnicos, melhorar continuamente sistemas e deseja atuar em uma plataforma robusta como a Sankhya, essa vaga é para você!
+
+Informações adicionais
+
+Sankhya: Liberdade para você ser, viver e evoluir
+
+Benefícios que vão além da Jornada Sankher
+Na Sankhya, valorizamos a individualidade e acreditamos em proporcionar benefícios que vão além do básico, promovendo a liberdade e o equilíbrio entre vida pessoal e profissional. Nosso objetivo é oferecer todo o apoio necessário para que você se sinta bem e satisfeito em todas as áreas da sua vida.
+
+🕦 Horário Flexível: Adapte sua rotina de trabalho para equilibrar melhor suas responsabilidades pessoais e profissionais.
+🤰 Licença Maternidade e Paternidade Estendida: Mais tempo para estar presente nos primeiros momentos da vida do seu bebê.
+🧸 Kit Baby Sankher: Um kit especial para dar as boas-vindas ao novo membro da família.
+⚖️ Assistência Jurídica: Apoio jurídico para questões pessoais e profissionais.
+👶 Auxílio Creche: Contribuição para despesas com creche.
+🩺 Cuidados com a Saúde: Plano de saúde com ampla cobertura, telemedicina gratuita e acesso a apps especialistas para cuidar do que mais importa – você.
+😁 Plano Odontológico: Cobertura odontológica para você e sua família.
+🎉 Day OFF no Aniversário: Um dia de folga para celebrar seu aniversário.
+💵 Empréstimo Consignado: Empréstimos com condições especiais.
+🏋️ Auxílio vida saudável: Parceria com apps de saúde com acesso a academias e bem estar.
+💰 Indicação de Talentos e Clientes Premiadas: Recompensas por indicações bem-sucedidas.
+🤩 Massoterapia no Escritório: Sessões de massagem para relaxar e aliviar o estresse.
+💵 Participação nos Lucros e Resultados (PLR): Participação nos resultados financeiros da empresa.
+💚 Seguro de Vida: Proteção financeira para você e sua família.
+🥗 Vale Alimentação/Refeição iFood: Opções de alimentação flexíveis.
+🚍 Vale Transporte: Auxílio para deslocamento.
+💻 Equipamentos Fornecidos pela Empresa: Ferramentas de trabalho de qualidade.
+
+Desenvolvimento e Evolução
+
+Um dos nossos valores fundamentais é o desenvolvimento contínuo. Queremos que todos os nossos colaboradores estejam sempre aprendendo, crescendo e se desenvolvendo, pois nossa empresa está em constante evolução.
+
+📚 Universidade Corporativa Sankhya: Acesso a uma vasta gama de cursos e treinamentos.
+🎯 Plano de Performance e Desenvolvimento Individual: Plano personalizado para seu crescimento profissional.
+📌 Touchpoints de Evolução com a Liderança: Encontros regulares com líderes para discutir seu progresso e desenvolvimento.
+🎧 Cursos Online 100% Custeados pela Empresa: Aprendizado contínuo sem custo para você.
+🌎 Auxílio Idiomas: Suporte para aprendizado de novas línguas.
+📜 Auxílio Graduação e Pós-Graduação: Incentivo para avançar em sua formação acadêmica.
+✅ Auxílio Certificações: Apoio para obtenção de certificações profissionais.
+🚀 Workshops de Evolução: Sessões de desenvolvimento intensivo.
+💆‍♀️ Palestras Relacionadas à Qualidade de Vida: Encontros sobre saúde e bem-estar.
+🧩 Plataforma de Gamificação: Pontuações e recompensas para incentivar seu desenvolvimento.
+💡 Squads e Tribos de Trabalho para Inovações: Equipes focadas em inovação e melhorias contínuas.
+
+Junte-se a nós na Sankhya e seja protagonista da sua própria evolução. Aqui, seu crescimento é nossa prioridade.
+
+E MAIS IMPORTANTE AINDA:
+🧑‍🦽Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+
+Está esperando o que para fazer parte de nosso time?
+#VemserSankhya!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Senior Java Developer (Remote - Brasil or Portugal )
+
+Sobre a vaga
+We are looking for a Senior Java Developer to join our team, working with robust enterprise systems in a remote and collaborative environment. The ideal candidate has strong experience with Java technologies and a solid understanding of backend and frontend integration.
+
+Tasks
+
+Design, develop, and maintain applications using Java Core and Spring Framework 
+ Work with Hibernate or JPA for data persistence 
+ Develop and consume RESTful and SOAP web services 
+ Write and execute unit tests using JUnit 
+ Collaborate on front-end integration using JavaScript 
+ Work with Oracle databases, writing and optimizing queries 
+ Participate in Agile ceremonies and contribute to continuous improvement processes 
+ Use GIT for source control and code collaboration
+
+
+Requirements
+
+Proven experience with Java Core, Spring Framework, and Hibernate or JPA 
+ Solid understanding of JavaScript and integration with backend services 
+ Experience with Oracle databases 
+ Knowledge of RESTful and SOAP APIs 
+ Strong testing skills with JUnit 
+ Familiarity with GIT and Agile methodologies 
+ Fluent in Portuguese 
+ French B2 level (spoken and written) required
+
+
+Benefits
+
+At DBSPT you will find:
+
+Collaborative Environment: We value a sense of community where ideas are shared, and achievements are celebrated as a team.
+Work from Anywhere: Enjoy the freedom and flexibility to work from wherever you feel most productive and comfortable.
+Global Connection: An opportunity to interact with people from different countries and cultures, expanding your network and worldview.
+Physical Health Support: Through Wellhub (Gympass), we offer resources and programs focused on your physical well-being.
+Mental Health Care: Team Care provides initiatives and actions to support your emotional and mental balance in daily life.
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Especialista Java
+
+Sobre a vaga
+🚀 Oportunidade para Especialista Java
+Você é apaixonado por tecnologia e domina Java, microsserviços, Kafka e cloud? Chegou a hora de fazer parte de um time que valoriza inovação, colaboração e talento técnico!
+💼 Cargo: Desenvolvedor Java Sênior / Especialista
+📍 Local: Zona Sul – São Paulo (modelo híbrido – 3 dias presenciais por semana)
+💰 Contratação: CLT
+🔍 Requisitos:
+Experiência sólida com Java 11+
+Forte atuação com arquitetura de microsserviços
+Domínio de Spring Boot e Apache Kafka
+Vivência em ambientes de nuvem (AWS, Azure ou GCP)
+Boas práticas de clean code, testes automatizados e APIs RESTful
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: DESENVOLVEDOR FULL STACK SENIOR
+
+Sobre a vaga
+A G4F é uma empresa com uma trajetória sólida de 15 anos, dedicada a conectar pessoas, ideias e tecnologia para oferecer soluções inovadoras. #SomosGreaters #Tech
+
+Desenvolvedor Full Stack Senior
+
+Formação
+
+Em qualquer área da tecnologia da informação
+
+Requisitos Técnicos Obrigatórios
+
+Conhecimento em linguagem de programação Python ou treinamento
+Conhecimento em tecnologia Angular para frontend e linguagem Python para backend
+Metodologias e PráticasÁgil, Scrum, Extreme Programming (XP) e Kanban
+Análise de requisitos funcionais e não-funcionais
+Padrões de projeto (enterprise integration patterns, design patterns, microservices patterns)
+Modelagem de dados relacional
+Arquitetura e Desenvolvimento
+Arquitetura de aplicações para ambiente web Arquitetura em três camadas, modelo MVC Domain-driven design (DDD)
+Integração entre sistemas: Mensageria, Web services, REST, Apache Camel
+Javascript e Typescript
+NodeJS e Express
+Testes e Qualidade
+Integração contínua (continuous integration) Test-driven development (TDD)
+Acceptance test-driven development (ATDD)
+Especificação por exemplo
+Refactoring Entrega contínua (continuous delivery)
+Testes de software: unidade, integração, sistema/funcional, aceitação/estória, carga, desempenho, vulnerabilidade, usabilidade, acessibilidade
+Automatização de testes funcionais, de unidade e de carga com ferramentas de software
+Banco de Dados e Controle de Versão
+Construção de consultas a bancos de dados em linguagem SQL Conceitos de controle de versão de código-fonte e uso da GIT 2 ou superior
+
+Informações Adicionais
+
+🏡Atuação presencial
+
+🚀Oportunidades de desenvolvimento profissional
+
+🍔Vale Alimentação/Refeição | Wiipo Flex
+
+🚌Vale transporte (Opcional)
+
+🏋️‍♀️TotalPass | Bem-estar para todos os colaboradores, todos os
+
+dias
+
+👓 Parceria SESC | Saúde, Lazer, Turismo & Esportes,
+
+Assistência Social e Alimentação
+
+📕 Parcerias Educacionais
+
+🤍Seguro de vida
+
+#Tech
+
+#VemSerGreater
+
+ Junte-se à nossa equipe e contribua para o crescimento sustentável da G4F!💙
+
+Valorizamos a diversidade, equidade e a inclusão, independentemente de gênero, raça, etnia, orientação sexual, deficiência ou religião, portanto, todas as nossas vagas são afirmativas.
+-----------------------------------------------------------------------------------

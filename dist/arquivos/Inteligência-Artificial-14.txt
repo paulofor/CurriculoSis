@@ -1,0 +1,263 @@
+[Oportunidade 1]
+Oportunidade: Senior Data Scientist
+
+Sobre a vaga
+As a Data Scientist on our team, you'll design, develop, and deliver machine learning solutions, decipher loosely defined problems using complex datasets, and determine appropriate analytical and modeling techniques. You'll analyze structured and unstructured data, establish automated processes for large-scale modeling, perform exploratory analysis, and collaborate with peers on data acquisition and exploration, demonstrating a strong sense of ownership and urgency.
+
+Responsibilities
+
+ Work on all aspects of the design, development and delivery of machine learning 
+
+
+enabled solutions for our clients;
+
+ Come up with solutions to loosely defined business problems by leveraging pattern 
+
+
+detection over complex datasets across multiple platforms;
+
+ Determine analytical approaches and modeling techniques to evaluate scenarios and 
+
+
+potential future outcomes;
+
+ Analyze and interprets data from structured and unstructured data sources in both batch and streaming modes; 
+ Establish efficient, automated processes for large-scale modeling. 
+ Perform ad-hoc exploratory and explanatory analysis. 
+ Become part of a highly skilled and geographically distributed team. 
+ Collaborate with peers on problem definitions, data acquisition, data exploration, visualization as well as building the tools that support this process. 
+ Strong sense of ownership, urgency and drive. 
+
+
+Qualifications
+
+ A Bachelor and/or Master degree in Statistics, Mathematics, Physics, Computer Science or other related subject 
+ Strong command of statistical programming languages (especially R and Python) 
+ Model development in Python (machine learning, recommendation engines) 
+ Big Data Hadoop work experience (either integration the models with the tools in Hadoop or other) 
+ Software development experience from scoping, requirements design, development, integration, testing, go live to PROD (vs internal research work) 
+ Experience working with Bank raw data (credit card, customer, product, real-time and batch) 
+ Other programming experience (Spark, SAS, Scala, Java, etc.) is a huge plus 
+ Experience in working with large datasets and relational databases is highly desirable (SQL) 
+ Ability to work on distributed cloud platforms 
+ Exceptional written and verbal communication as well as presentation skill 
+ Curiosity and an investigative profile: you’re a data-driven problem solver! 
+
+
+What’s in it for you:
+
+ Private medical and life insurance from day one 
+ Employee Stock purchase plan ESPP 
+ Budget for professional growth (certifications) 
+ Schedule flexibility. 
+ Extra bonus based on performance.
+
+
+Additional Job Description
+
+As a Data Scientist on our team, you'll design, develop, and deliver machine learning solutions, decipher loosely defined problems using complex datasets, and determine appropriate analytical and modeling techniques. You'll analyze structured and unstructured data, establish automated processes for large-scale modeling, perform exploratory analysis, and collaborate with peers on data acquisition and exploration, demonstrating a strong sense of ownership and urgency.
+
+EEO Statement
+
+At TELUS International, we enable customer experience innovation through spirited teamwork, agile thinking, and a caring culture that puts customers first. TELUS International is the global arm of TELUS Corporation, one of the largest telecommunications service providers in Canada. We deliver contact center and business process outsourcing (BPO) solutions to some of the world's largest corporations in the consumer electronics, finance, telecommunications and utilities sectors. With global call center delivery capabilities, our multi-shore, multi-language programs offer safe, secure infrastructure, value-based pricing, skills-based resources and exceptional customer service - all backed by TELUS, our multi-billion dollar telecommunications parent.
+
+Equal Opportunity Employer
+
+At TELUS International, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Pessoa Engenheira de Dados Sênior
+
+Sobre a vaga
+Paixão por tecnologia, diversidade e pessoas em primeiro lugar!
+
+Somos motivados por promover transformações no mundo digital de forma inovadora! Nossa equipe traz no seu #DNARaro valores como diversidade, liberdade e confiança. Isso significa que as nossas Pessoas Raras respeitam e abraçam qualquer forma de expressão!
+
+Somos um time cheio de energia, prontos para simplificar a vida dos nossos clientes e integrar pessoas e soluções. Combinamos profundo conhecimento técnico, e somos especialistas em enxergar a verdadeira necessidade do cliente, e transformá-la em uma nova oportunidade ;)
+
+Se identificou com o nosso jeito Raro de ser? Então bora se juntar ao nosso time?
+
+Estamos buscando Pessoas Engenheiras de Dados com nível pleno e sênior de experiência.
+
+Atividades do Cargo
+
+Engenharia de Dados.
+
+Processo de ETL;
+
+Construção de pipelines de interação de dados ;
+
+Construção de data pipelines com Airflow;
+
+Construção e administração de data lakes
+
+Requisitos
+
+Experiência com Engenharia de Dados
+
+Domínio de linguagem de SQL;
+
+Conhecimento em diferentes sistemas de banco de dados;
+
+Experiência em desenvolvimento com PySpark;
+
+Experiência em linguagens de programação Python
+
+Conhecimento em cloud AWS ou GCP
+
+Experiência em desenvolvimento de esteira para todas as camadas de data lakes;
+
+Experiência com pipelines de dados para consumos de Machine Learning
+
+Perfil analítico.
+
+Gostar de resolver problemas e propor soluções
+
+O que você ganha por ser uma de nossas raridades?
+
+🥙 Vale-refeição no cartão Caju: R$ 47,11/dia útil;
+
+🩺 Plano de Saúde: Unimed (com co-part) ou Bradesco (sem co-part);
+
+🦷 Plano Odontológico
+
+🏋‍♀ Wellhub (Gympass);
+
+💰 Incentivo à poupança ou investimento;
+
+🏊 Parceria SESC;
+
+🎉 Day off no seu aniversário;
+
+💵 Participação nos Lucros conforme sindicato;
+
+🌸 Assistência Funerária do Grupo Zelo;
+
+🚗 Auxílio híbrido sem desconto na folha;
+
+👨🏽 Licença paternidade de 15 dias corridos;
+
+📚 Acesso aos cursos da Alura;
+
+📖 Desconto em cursos da FIAP.
+
+Curtiu? Então vem transformar e inovar com a gente sendo uma Pessoa Rara!
+
+Todas as vagas abertas na Raro Labs são elegíveis para candidaturas de: PCDs, Pessoas Pretas e LGBTQIA+. Aqui valorizamos a Diversidade e acreditamos que é muito importante compartilhar ideias e diferentes pontos de vista para trazer a representatividade que todos precisam!
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Data Analytics Lead
+
+Sobre a vaga
+Sobre a Vaga:
+Estamos em busca de uma pessoa organizada, com mindset analítico e orientada a resultados, que será responsável por direcionar operações de captura, ativação e análise de dados para Marketing Digital dos nossos clientes. Se você tem experiência técnica com análise e/ou gestão de dados para Marketing e já passou por posições em áreas de negócios (ou tem boa visão de negócio), essa vaga é para você!
+
+Responsabilidades:
+Ser o ponto focal de relacionamento com a equipe do dia a dia do cliente.
+Reportar resultados e entregas interna e externamente.
+Monitorar, analisar e se comunicar com o cliente sobre o andamento operacional do projeto (dia a dia).
+Ser a referência para o cliente e para o time interno na solução de problemas.
+Dar visibilidade de priorizações e demandas entregues, conectando com os objetivos do projeto e do cliente, e desafios.
+Conduzir/Viabilizar os ritos internos e externos com os clientes para garantir a visibilidade nos diferentes níveis de informação e acompanhamento dos pontos relevantes do projeto.
+Conduzir status e acompanhamento das atividades da equipe, monitoramento e endereçamento (quando necessário) em relação ao desempenho no projeto, comunicação e visibilidade sobre feedbacks e evoluções do projeto/cliente.
+Apoiar na construção de propostas de renovação e expansão: identificando escopo, equipe, necessidades e oportunidades e toda visão tática-operacional da proposta.
+Identificar aumento de escopo e/ou novas oportunidades de atuação junto aos clientes atuais.
+Desenvolver profissionais da equipe, atribuindo responsabilidades compatíveis com o potencial de cada um e conectando com desafios de carreira para desenvolver dentro do projeto.
+Oferecer feedbacks construtivos ativamente para o time liderado: orientar e explicitar os pontos de desenvolvimento de cada um.
+Ser referência técnica para a equipe.
+
+Pré-Requisitos:
+Boa organização de tarefas e técnicas de priorização.
+Profundo conhecimento em Digital Analytics e Marketing Digital.
+Experiência em gerenciamento de projetos de comunicação digital e análises de campanhas e negócio - campanhas de mídia digital e offline, analytics, funcionamento técnico de ferramentas de marketing, social media, CRM, etc.
+Raciocínio lógico e matemático estruturado, conhecimento de estatística.
+
+Diferenciais:
+Inglês avançado/fluente.
+Conhecimento de Ferramentas Google: Google Analytics, Google AdWords, GTM.
+Conhecimento de Ferramentas Adobe: Adobe Analytics, Adobe Audience Manager, Adobe Campaign.
+Experiência com operação de Tag Managers e instalação de tags de mídia, analytics e ferramentas para marketing digital.
+Conhecimento em tecnologias web, como programação JavaScript.
+Conhecimento em projetos de Big Data.
+Conhecimento em banco de dados com experiência em SQL e DataWarehouse, como Google BigQuery e outros.
+Conhecimento Avançado em Testes A/B, Multivariáveis e Personalização de Conteúdo.
+Conhecimento Avançado sobre Análises Multicanal e Atribuição de mídia on e offline.
+Conhecimento em Data Visualization e Ferramentas de Dashboards como LookerStudio, Power BI, Tableau, Qlik Sense e outras.
+Conhecimento conceitual e ferramental sobre DMPs (Data Management Platforms) e CDPs (Customer Data Platforms).
+Experiência em gestão de pessoas.
+Se você se identificou com essa oportunidade e quer fazer parte do nosso time, envie seu currículo para time@aunica.com. 
+ Estamos ansiosos para conhecer você!
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: ENGENHEIRO DE MACHINE LEARNING
+
+Sobre a vaga
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+ Levantar requisitos e propor soluções para projetos de IA;
+ Desenvolver soluções de ponta a ponta (Captura/Estruturação de Dados, Treinamento/Avaliação de modelos, Encapsulamento e Disponibilização);
+ Avaliar/Monitorar modelos treinados;
+ Aplicar conhecimentos e técnicas para processamento de dados estruturados/não-estruturados;
+ Aplicar conhecimentos e técnicas de Machine Learning, Deep learning e Visão Computacional;
+ Aplicar conhecimentos e técnicas de processamento de linguagem natural.
+
+
+REQUISITOS 
+
+ Inglês Intermediário;
+ Experiência com prototipação de modelos de Machine Learning e Deep Learning;
+ Conhecimento em Python;
+ Conhecimento em Orientação a Objeto;
+ Conhecimento em recursos de Cloud;
+ Conhecimento em Gitflow;
+ Conhecimento em API's REST;
+ Conhecimento em Estatística;
+ Mente analítica e focada em resolver problemas.
+
+
+ Diferencial:
+
+ Experiência em Google Cloud Platform - GCP;
+ Conhecimento em BigData;
+ Conhecimento nos Pacotes / Frameworks Scikit-Learn, NLTK, Pandas, Spacy, Flask, Fastapi, Gunicorn.
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Engenheiro de Aplicação
+
+Sobre a vaga
+Objetivo do Cargo:
+
+Engenharia de desenvolvimento de produto, sistemas e aplicações, nas áreas de servossistemas eletrohidráulicos e eletromecânicos.
+
+Atribuições / Responsabilidades:
+- Desenvolvimento de softwares aplicativos para controle em máquinas e sistemas;
+- Elaboração e gerenciamento de documentação para o cliente, e interna de engenharia, inclusive documentos da ISO9001 – BMDL 12 – 2876 (Projeto e Desenvolvimento de Produto ou Serviço);
+- Desenvolvimento de sistemas de automação baseados em componentes eletro-hidraúlico e eletro-mecânicos;
+- Serviços de acompanhamento de partida de sistemas de automação em campo.
+- Desenvolvimento de projeto de painéis elétricos;
+- Suporte técnico e atendimento técnico ao cliente interno e externo;
+- Ministrar treinamentos de produtos para clientes e distribuidores.
+- Elaborar projetos mecânicos com auxílio de software Solidworks, com ênfase em sistemas hidráulicos (atuadores e manifolds) e dispositivos mecânicos.
+
+Formação: Engenharia Elétrica/Eletrônica/Mecatrônica, preferível Mecânica ou tecnólogo
+Pré – Requisitos: 
+- Pacote Office
+- Inglês Intermediário. Avançado ou fluente seria um diferencial.
+- Disponibilidade para viagens no Brasil e América Latina.
+- Projetar e desenvolver desenhos mecânicos e hidráulicos no AUTOCAD/SOLIDWORKS/DRAFTSIGHT (2D e 3D)/ Hydrosyn.
+- Programar CLPs
+Conhecimentos:
+- Programação de CLP, C++ ou Pascal ou CODESYS, conhecer protocolos de comunicação fieldbus seria um diferencial (EtherCAT/CANopen/PROFINET/LABVIEW/POWERLINK)
+- Circuitos elétricos, circuitos eletrônicos analógicos e digitais
+- Mecânica geral
+- Projetos de sistemas óleo-hidráulicos
+- Desenvolvimento de projetos, conhecimento de máquinas sopradoras ou injetoras de plásticos.
+
+Habilidades: Proatividade, comunicação, trabalho em equipe, qualidade do trabalho, liderar projetos junto ao cliente (comissionamentos), ministrar treinamentos internos e externos.
+
+Diferenciais: 
+- Conhecimento no SAP – ECM ou GTS.
+- Espanhol
+- NRs 10, 12, 33 e 35
+Experiência Preferível: Superior a 4 anos na indústria.
+-----------------------------------------------------------------------------------

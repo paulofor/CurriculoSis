@@ -1,0 +1,219 @@
+[Oportunidade 1]
+Oportunidade: Engenheiro de Dados - Trabalho Remoto
+
+Sobre a vaga
+Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício.
+
+Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global.
+
+Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional.
+
+Engenheiro de Dados na BairesDev
+
+Buscamos um Engenheiro de Dados para se juntar à nossa equipe de Desenvolvimento e participar de diferentes projetos compostos por equipes multiculturais distribuídas em todo o mundo.
+
+Responsabilidades:
+
+- Entrevistar outros cientistas de dados e engenheiros de dados para verificar suas habilidades técnicas.
+- Inserir dados dessas entrevistas no produto e ajudar a desenvolver uma solução preditiva, justa e agradável.
+- Trabalhar em conjunto com desenvolvedores, líderes tecnológicos e arquitetos de soluções para construir aplicações.
+- Melhorar as estruturas existentes adicionando novas funcionalidades ou propondo atualizações tecnológicas para que, como resultado, o impacto de sua contribuição seja significativo no núcleo de cada negócio.
+- Melhorar a experiência do usuário em plataformas escaláveis e de alta disponibilidade, contribuindo para o diferencial chave de cada negócio.
+
+Esperamos que você tenha:
+
+- 5+ anos de experiência trabalhando como desenvolvedor.
+- Mais de 3 anos de experiência trabalhando como Cientista de Dados/ Engenheiro de Dados.
+- Proficiente com análise, solução de problemas e resolução de problemas.
+- Experiência prática no gerenciamento de cargas de dados e qualidade de dados.
+- Nível avançado de inglês.
+
+Como tornamos seu trabalho (e sua vida) mais fácil:
+
+- Modalidade 100% remota - trabalhe de qualquer lugar.
+- Excelente remuneração em USD ou na sua moeda local, como preferir.
+- Hardware para você trabalhar de casa.
+- Horários flexíveis - faça seu próprio horário.
+- Licença parental remunerada, férias, e feriados nacionais.
+- Ambiente de trabalho inovador e multicultural.
+- Colabore e aprenda com o Top 1% global dos talentos de cada área.
+- Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento.
+
+Junte-se a uma equipe global onde seus talentos excepcionais podem se destacar!
+-----------------------------------------------------------------------------------
+[Oportunidade 2]
+Oportunidade: Engenheiro de dados
+
+Sobre a vaga
+Quem Somos
+ A Dexian, lançada em 2023, tem presença global e traz consigo quase 30 anos de experiência através de suas companhias legadas, principalmente da combinação da DISYS e Signature Consultants.
+ Iniciamos no Brasil 2007 como DISYS e, de lá para cá, conquistamos mais de 60 clientes de diferentes setores da economia. Como Dexian, passamos a ser uma das maiores empresas de soluções de staffing, soluções de TI e complementação de força de trabalho. Estamos liderando a indústria por meio de entrega de serviços exclusivos que combina escala global, projetos de serviço completo e agilidade tática para modernizar modelos de contratação. Apoiamos nossos clientes para encontrar a melhor maneira que seu gap de talentos seja endereçado, de maneira a suportar seu porcesso de transformação digital. Contamos com escritórios estrategicamente localizados em quatro grandes capitais: Curitiba (PR), Porto Alegre (RS), Rio de Janeiro (RJ) e São Paulo (SP). Assim, conseguimos nos manter próximos dos nossos clientes e consultores. Também somos uma Minority Owner Company e nos sentimos orgulhosos de termos nascido na diversidade.
+  O que esperar de nós
+ Pessoas estão no centro de nossa estratégia e compõem o nosso maior capital. Temos compromisso de atrair, reter os melhores talentos e construir conexões reais para a vida. Por isso, atuamos como ponte entre profissionais altamente qualificados e oportunidades consistentes e prósperas. Acreditamos que, trazer o talento, a tecnologia e as organizações certas juntos, ajuda a desbloquear resultados transformadores e alcançar novos níveis de sucessos para os clientes que atendemos e os consultores que contratamos. E para isso, cinco valores fundamentais nos guiam: Integridade, Transparência, Autenticidade, Engenhosidade e Empatia. A Dexian está comprometida com a responsabilidade social corporativa e, investe em programas que apoiam a diversidade e inclusão.
+ Se você compartilha dos mesmos valores, aqui é seu lugar!
+  O que você precisa ter
+  Airflow
+Snowflake
+Ingles Avançado, será preciso para conversação.
+ Plus: Oportunidade de trabalho com equipes globais
+ Onde você vai trabalhar?
+No conforto da sua casa. Regime 100% Home Office
+-----------------------------------------------------------------------------------
+[Oportunidade 3]
+Oportunidade: Engenheiro(a) de Dados Pleno
+
+Sobre a vaga
+Olá, somos a SuperFrete :) 
+
+Queremos ser a maior e mais amada rede de logística digital, quer fazer parte disso?
+
+Somos uma startup que atua no segmento do varejo e logística, apoiando os pequenos e médios empreendedores a se tornarem mais competitivos no mercado e a alavancarem suas vendas. Por isso, buscamos um Super Engenheiro(a) de Dados Pleno, que se identifique com o nosso propósito, que tenha muita energia para somar no time de Produtos e que queria crescer (muito!) com a gente.
+
+Responsabilidades:
+Definir e gerenciar a arquitetura de dados;
+Desenvolver e manter estratégias de gerenciamento de metadados;
+Definir e implementar pipelines de dados tendo em foco escalabilidade, confiabilidade e mantenabilidade, considerando dados estruturados e não estruturados;
+Acompanhamento de processamentos de pipelines e de solução de problemas dos mesmos;
+Atuação colaborativa com demais membros da equipe de dados, compartilhando boas práticas e conhecimento técnico;
+Produzir a documentação de soluções e processos relacionados a dados;
+Implementar e reforçar políticas relacionadas a governança e melhores práticas relacionadas a dados.
+
+Requisitos:
+Experiência sólida com linguagens Python e SQL;
+Experiência com projetos envolvendo bancos de dados relacionais e não relacionais (SQL e NoSQL), considerando dados estruturados e semiestruturados;
+Experiência sólida em modelagem dimensional (Star Schema, Snow Flake), preferencialmente Star Schema;
+Experiência sólida em arquiteturas de dados, incluindo Data Warehouse e Data Lake;
+Experiência sólida com serviços voltados para dados em plataformas cloud como AWS, GCP, e Azure, preferencialmente GCP;
+Experiência em soluções de ETL/ELT e desenvolvimento e manutenção de pipelines de dados, preferencialmente em Airflow;
+Experiência em gestão de metadados (Glossário de Negócio, Dicionário de Dados, Catálogo de Dados);
+Conhecimento em segurança de dados (criptografia, LGPD e mascaramento de dados);
+Conhecimento nos padrões de integração de sistemas e conceitos de governança de dados (DMBoK);
+Conhecimento em PowerBI;
+Familiaridade com metodologias ágeis (Scrum ou Kanban).
+
+Será legal se você tiver:
+Formação na área de Tecnologia ou Ciências Exatas;
+Conhecimento e/ou experiência em Cloud Composer;
+Conhecimento e/ou experiência com Spark(PySpark);
+Conhecimento em IaC (Infrastructure as Code)
+Certificações Cloud.
+
+O que você pode esperar dos Supers?
+Uma cultura de muita confiança, colaboração, focada em resultados, com muita autonomia e transparência;
+Buscamos excelência em tudo o que fazemos, por isso estamos sempre aprendendo;
+Temos vontade de construir junto, fazer a diferença e gerar impacto.
+
+O que oferecemos:
+🧾Modelo de contratação: PJ;
+👩‍💻Modelo de trabalho 100% remoto: uma oportunidade de crescimento acessível para talentos em todo o Brasil;
+⚕ Plano de Saúde: mantenha-se saudável com nosso abrangente plano de saúde nacional com consultas online e presenciais;
+🏋‍♀️GymPass/Wellhub: bem-estar completo para você cuidar da sua saúde física e mental com os aplicativos integrados;
+💹Voucher Kit Escritório: receba um voucher para turbinar o seu espaço de trabalho e garantir seu conforto, comodidade e produtividade;
+🌴Férias remuneradas: desfrute de 30 dias de férias remuneradas por ano para recarregar suas energias e relaxar;
+💱Programa Super-Get-Super: indique um talento e receba um bônus;
+😊Cultura colaborativa: nossa cultura é baseada na confiança, parceria e foco em resultados. Oferecemos um ambiente com autonomia e transparência;
+🎯Incentivo ao desenvolvimento: estamos comprometidos com a excelência e o aprendizado contínuo. Oferecemos avaliações semestrais, conversas de one-on-one, feedbacks construtivos, e muito mais;
+🚀Programa de Stock Option: possibilidade de se tornar sócio da empresa que foi reconhecida como uma das Startups mais promissoras do Brasil na lista 100 Startups to Watch. Se você está determinado a avançar em sua carreira, este é o lugar certo para você!
+
+
+E aí, vamos juntos nesse SuperFoguete? 🚀💚
+-----------------------------------------------------------------------------------
+[Oportunidade 4]
+Oportunidade: Engenheiro de Dados
+
+Sobre a vaga
+Se você busca atuar em uma empresa dinâmica e em crescimento acelerado, então venha fazer parte do time que está transformando o ambiente de crédito do País!
+
+Estamos em busca de um Engenheiro de Dados para atuar no nosso time!
+
+O que você vai fazer:
+
+Coletar dados de diversas fontes: bancos de dados, APIs, websites, arquivos de log, etc.
+Limpar e organizar os dados: remover erros, inconsistências e duplicações.
+Transformar os dados: formatar os dados para que possam ser utilizados em ferramentas de análise.
+Carregar os dados em data warehouses e data lakes: armazenar os dados de forma organizada e eficiente.
+Criar pipelines de dados: automatizar o processo de coleta, transformação e carregamento de dados.
+Monitorar a qualidade dos dados: garantir que os dados estejam precisos e atualizados.
+Segurança e governança de dados: proteger os dados contra acesso não autorizado e garantir o uso adequado dos dados.
+Colaborar com Analistas de Negócios: fornece aos usuários os dados necessários para realizar análises e tomar decisões.
+Documentação: manter registros detalhados das infraestruturas e processos de dados.
+Coordenar as atividades das empresas terceiras envolvidas nos projetos
+Garantir a qualidade das entregas e cumprimento dos prazos das empresas terceiras
+Traduzir a necessidade interna as empresas terceiras e ouvir as áreas de negócio sobre suas necessidades e gargalos
+
+Formação e conhecimento técnico:
+
+Graduação em áreas relacionadas.
+Programação em Python, Java, SQL, etc.
+Experiência com bancos de dados relacionais e não relacionais (NoSQL).
+Experiência com ferramentas de Big Data (Hadoop, Spark, Kafka, etc.).
+Conhecimento de cloud computing - AWS
+Habilidades e Experiências Necessárias
+Entender e interpretar dados complexos.
+Identificar padrões e tendências nos dados.
+Habilidade em comunicação de dados: comunicar os resultados das análises de forma clara e concisa.
+Capacidade de trabalhar em equipe.
+Habilidade em comunicação: comunicar-se de forma eficaz com técnicos e não técnicos.
+Capacidade de resolver problemas.
+Bom relacionamento interpessoal
+
+Sobre a oportunidade:
+
+Contrato CLT, remuneração a negociar
+Vale refeição de R$ 30,00/dia.
+Vale alimentação de R$ 500,00/mês.
+Day off de aniversário
+Assistência médica Porto Seguro Prata com coparticipação (não contempla dependentes)
+Assistência odontológica (opcional)
+Seguro de Vida
+Vale transporte
+Escritório localizado no bairro do Paraíso em SP
+Modelo de Trabalho: a negociar.
+
+Gostou da oportunidade?
+Se inscreva e venha fazer parte da nossa equipe!
+-----------------------------------------------------------------------------------
+[Oportunidade 5]
+Oportunidade: Head of Data & Analytics
+
+Sobre a vaga
+About D3 Growth Partners
+D3 Growth Partners excels in building businesses by adapting advanced tactics and best practices from leading companies to empower smaller businesses with a competitive edge. While others are stuck in the past, we harness the power of data warehouses, automation, and cutting-edge marketing technology.
+
+Position Overview: Head of Analytics
+We’re looking for a Head of Analytics to establish and lead the data function for one of our affiliated companies. If building a data-centric culture from scratch excites you, continue reading.
+
+Build Something from the Ground Up: You'll be responsible for building the data function from scratch in this role. We already have a clean foundation (all data in a warehouse & basic views set up), but you will have complete ownership of building the data function.
+
+Opportunities for Growth: The company assigned to this role is growing 300% per year - a super fast pace. With company growth comes new challenges and the opportunity for personal growth.
+
+A Leadership Team that Embraces Data: The leaders you will work with are super data literate, so you'll be working with a team that embraces data-driven decision-making.
+
+No Shortage of Challenging Problems to Solve: We have a TON of fun, challenging problems to solve with data.
+
+
+Core Responsibilities:
+Business Problem-Solving: Translate complex data into clear, actionable insights. Proactively seek opportunities and ask the right questions to drive business value.
+
+Advanced SQL & Data Skills: Excel in SQL, including complex joins and window functions. Clean and transform data to extract meaningful insights.
+
+Foundational Engineering Skills: Use tools like DBT to build and document reusable tables. Focus on creating scalable data solutions.
+
+Data Visualization Expertise: Leverage data visualization tools to create interactive and insightful dashboards, enabling end users to explore data effectively.
+
+Ensuring Data Integrity: Maintain high standards of data accuracy by performing rigorous checks and validating data transfers between sources.
+
+
+Data Engineering & Dictionary: You can use tools like DBT to create tables that we can maintain and reuse, and you’re able to document everything for scalability’s sake.
+
+Tableau / Data Visualization: You’re familiar with the power of data visualization and how to present data in a way that end users can cut, filter, manipulate, and solve problems.
+
+Strong Data Integrity Intuition: We do our best to keep the data clean, but as we all know, no data is perfect. You know how to look at a set of tables and make sense of them. You can test your assumptions, and do gut checks on ‘does this make sense’? When we create data pipelines, you’ll be the one making sure that data is transferred from one source to another properly.
+
+Job Type: Full-time
+Pay: $90,000.00 - $110,000.00 per year
+Benefits: Work from home
+Experience level: 3-5 years
+Schedule: 8 hour shift
+Work Location: Remote
+-----------------------------------------------------------------------------------
