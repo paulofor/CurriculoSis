@@ -33,7 +33,11 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 	
 	@Override
 	protected boolean executaCustom(PalavraRaiz palavraPesquisaCorrente) {
-		System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver.exe");
+		String chromeDriverPath = System.getenv("CHROMEDRIVER_PATH");
+		if (chromeDriverPath == null || chromeDriverPath.trim().isEmpty()) {
+			chromeDriverPath = "/usr/bin/chromedriver";
+		}
+		System.setProperty("webdriver.chrome.driver", chromeDriverPath);
 
         // Inicializar o navegador
         driver = new ChromeDriver();
@@ -44,10 +48,18 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 
             // Fazer login
             WebElement emailField = driver.findElement(By.id("username"));
-            emailField.sendKeys("paulofore@gmail.com");
+            String linkedinUser = System.getenv("LINKEDIN_USER");
+            if (linkedinUser == null || linkedinUser.trim().isEmpty()) {
+            	linkedinUser = "paulofore@gmail.com";
+            }
+            emailField.sendKeys(linkedinUser);
 
             WebElement passwordField = driver.findElement(By.id("password"));
-            passwordField.sendKeys("xi5*4NDGrb^+Z6T");
+            String linkedinPassword = System.getenv("LINKEDIN_PASSWORD");
+            if (linkedinPassword == null || linkedinPassword.trim().isEmpty()) {
+            	linkedinPassword = "xi5*4NDGrb^+Z6T";
+            }
+            passwordField.sendKeys(linkedinPassword);
             passwordField.sendKeys(Keys.RETURN);
 
             // Esperar até que a página principal seja carregada

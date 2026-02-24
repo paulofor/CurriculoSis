@@ -1,0 +1,11 @@
+services:
+  linkedin-bot:
+    image: ${LINKEDIN_BOT_IMAGE}
+    container_name: curriculosis-linkedin-bot
+    restart: unless-stopped
+    environment:
+      LOOPBACK_URL: ${LOOPBACK_URL}
+      LINKEDIN_USER: ${LINKEDIN_USER}
+      LINKEDIN_PASSWORD: ${LINKEDIN_PASSWORD}
+      CHROMEDRIVER_PATH: ${CHROMEDRIVER_PATH:-/usr/bin/chromedriver}
+      JAVA_OPTS: ${JAVA_OPTS:-}

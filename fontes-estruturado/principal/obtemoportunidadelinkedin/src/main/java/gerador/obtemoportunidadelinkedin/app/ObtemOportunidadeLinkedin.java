@@ -47,12 +47,12 @@ public class ObtemOportunidadeLinkedin {
 	}
 
 	private static void carregaProp() throws IOException {
-		//System.out.println("Dir:" + System.getProperty("user.dir"));
-		//InputStream input = new FileInputStream("CriaPythonTreinoRede.config");
-		//Properties prop = new Properties();
-		//prop.load(input);
-		//UrlLoopback = prop.getProperty("loopback.url");
-		UrlLoopback = "http://vps-40d69db1.vps.ovh.ca:25012/api";
+		String loopbackEnv = System.getenv("LOOPBACK_URL");
+		if (loopbackEnv != null && !loopbackEnv.trim().isEmpty()) {
+			UrlLoopback = loopbackEnv;
+		} else {
+			UrlLoopback = "http://vps-40d69db1.vps.ovh.ca:25012/api";
+		}
 		DaoBaseComum.setUrl(UrlLoopback);
 	}
 
