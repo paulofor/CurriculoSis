@@ -3,7 +3,7 @@ WORKDIR /build
 
 COPY fontes-estruturado/principal /build/principal
 
-RUN mvn -f /build/principal/pom.xml -pl obtemoportunidadelinkedin -am -DskipTests clean package \
+RUN mvn -f /build/principal/pom.xml -pl obtemoportunidadelinkedin -am -DskipTests clean install \
  && mvn -f /build/principal/obtemoportunidadelinkedin/pom.xml -DskipTests dependency:copy-dependencies -DincludeScope=runtime
 
 FROM eclipse-temurin:8-jre

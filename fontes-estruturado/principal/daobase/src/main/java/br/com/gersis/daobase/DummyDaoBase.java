@@ -32,6 +32,13 @@ public class DummyDaoBase extends DaoBase {
 
 
 
+
+	@Override
+	protected int getNumPasso() {
+		return 0;
+	}
+
+
 	@Override
 	protected long getTempo() {
 		return 2000;
