@@ -1,0 +1,109 @@
+name: Deploy LinkedIn Bot
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/deploy-linkedin-bot.yml'
+      - 'deploy/linkedin-bot/**'
+      - 'fontes-estruturado/principal/**'
+  workflow_dispatch:
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: curriculosis-linkedin-bot
+  DEPLOY_HOST: 191.252.102.54
+  DEPLOY_PATH: /opt/curriculosis/linkedin-bot
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    outputs:
+      image_tag: ${{ steps.meta.outputs.image_tag }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare image metadata
+        id: meta
+        run: |
+          IMAGE_REPO="${{ env.REGISTRY }}/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}"
+          IMAGE_TAG="${IMAGE_REPO}:${GITHUB_SHA}"
+          echo "image_tag=${IMAGE_TAG}" >> "$GITHUB_OUTPUT"
+          echo "image_repo=${IMAGE_REPO}" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Login to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: deploy/linkedin-bot/Dockerfile
+          push: true
+          tags: |
+            ${{ steps.meta.outputs.image_tag }}
+            ${{ steps.meta.outputs.image_repo }}:latest
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build-and-push
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Upload deploy assets
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ env.DEPLOY_HOST }}
+          username: ${{ secrets.DEPLOY_SSH_USER }}
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
+          source: deploy/linkedin-bot/docker-compose.yml
+          target: ${{ env.DEPLOY_PATH }}
+          strip_components: 2
+
+      - name: Deploy on host
+        uses: appleboy/ssh-action@v1.0.3
+        env:
+          IMAGE_TAG: ${{ needs.build-and-push.outputs.image_tag }}
+          LOOPBACK_URL: ${{ secrets.LOOPBACK_URL }}
+          LINKEDIN_USER: ${{ secrets.LINKEDIN_USER }}
+          LINKEDIN_PASSWORD: ${{ secrets.LINKEDIN_PASSWORD }}
+          DEPLOY_PATH: ${{ env.DEPLOY_PATH }}
+          GHCR_USER: ${{ github.actor }}
+          GHCR_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          host: ${{ env.DEPLOY_HOST }}
+          username: ${{ secrets.DEPLOY_SSH_USER }}
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
+          envs: IMAGE_TAG,LOOPBACK_URL,LINKEDIN_USER,LINKEDIN_PASSWORD,DEPLOY_PATH,GHCR_USER,GHCR_TOKEN
+          script: |
+            set -e
+            mkdir -p "$DEPLOY_PATH"
+
+            cat > "$DEPLOY_PATH/.env" <<ENVFILE
+            LINKEDIN_BOT_IMAGE=$IMAGE_TAG
+            LOOPBACK_URL=$LOOPBACK_URL
+            LINKEDIN_USER=$LINKEDIN_USER
+            LINKEDIN_PASSWORD=$LINKEDIN_PASSWORD
+            ENVFILE
+
+            echo "$GHCR_TOKEN" | docker login ghcr.io -u "$GHCR_USER" --password-stdin
+            docker compose --env-file "$DEPLOY_PATH/.env" -f "$DEPLOY_PATH/docker-compose.yml" pull
+            docker compose --env-file "$DEPLOY_PATH/.env" -f "$DEPLOY_PATH/docker-compose.yml" up -d --remove-orphans
+            docker image prune -f
