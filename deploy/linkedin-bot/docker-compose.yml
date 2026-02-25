@@ -1,6 +1,9 @@
 services:
   linkedin-bot:
-    image: ${LINKEDIN_BOT_IMAGE}
+    image: ${LINKEDIN_BOT_IMAGE:-curriculosis-linkedin-bot:local}
+    build:
+      context: ../..
+      dockerfile: deploy/linkedin-bot/Dockerfile
     container_name: curriculosis-linkedin-bot
     restart: unless-stopped
     environment:
