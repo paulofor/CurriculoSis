@@ -4,6 +4,7 @@ package gerador.obtemoportunidadelinkedin.passo.impl;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
+import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -15,8 +16,10 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.remote.RemoteWebDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -41,16 +44,6 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 	
 	@Override
 	protected boolean executaCustom(PalavraRaiz palavraPesquisaCorrente) {
-		String chromeDriverPath = obtemChromeDriverPath();
-		if (chromeDriverPath != null && !chromeDriverPath.trim().isEmpty()) {
-			System.setProperty("webdriver.chrome.driver", chromeDriverPath);
-			System.out.println("[INFO] Usando chromedriver local: " + chromeDriverPath);
-		} else {
-			System.clearProperty("webdriver.chrome.driver");
-			System.out.println("[INFO] Chromedriver local nao encontrado. Tentando download automatico via WebDriverManager.");
-			WebDriverManager.chromedriver().setup();
-		}
-
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--headless");
 		options.addArguments("--no-sandbox");
@@ -60,8 +53,8 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 			options.setBinary(chromeBinaryPath);
 		}
 
-        // Inicializar o navegador
-        driver = new ChromeDriver(options);
+		// Inicializar o navegador
+		driver = criaWebDriver(options);
 
         try {
             // Acessar a página de login do LinkedIn
@@ -128,6 +121,42 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             driver.quit();
         }
         
+	}
+
+	private WebDriver criaWebDriver(ChromeOptions options) {
+		String remoteUrl = System.getenv("SELENIUM_REMOTE_URL");
+		if (remoteUrl != null && !remoteUrl.trim().isEmpty()) {
+			try {
+				System.out.println("[INFO] Usando Selenium remoto em: " + remoteUrl);
+				return new RemoteWebDriver(new URL(remoteUrl), options);
+			} catch (Exception e) {
+				throw new RuntimeException("Nao foi possivel conectar ao Selenium remoto em '" + remoteUrl + "'.", e);
+			}
+		}
+
+		String chromeDriverPath = obtemChromeDriverPath();
+		if (chromeDriverPath != null && !chromeDriverPath.trim().isEmpty()) {
+			System.setProperty("webdriver.chrome.driver", chromeDriverPath);
+			System.out.println("[INFO] Usando chromedriver local: " + chromeDriverPath);
+		} else {
+			System.clearProperty("webdriver.chrome.driver");
+			System.out.println("[INFO] Chromedriver local nao encontrado. Tentando download automatico via WebDriverManager.");
+			WebDriverManager.chromedriver().setup();
+		}
+
+		try {
+			return new ChromeDriver(options);
+		} catch (WebDriverException e) {
+			String mensagem = e.getMessage() == null ? "" : e.getMessage().toLowerCase();
+			if (mensagem.contains("timed out waiting for driver server to start") || mensagem.contains("localhost")) {
+				throw new RuntimeException(
+					"Falha ao subir ChromeDriver local. O endereco localhost exibido no stacktrace e interno do processo do driver "
+					+ "(nao e a sua API Loopback). Em container, prefira instalar as libs do Chrome/Chromedriver "
+					+ "(ex.: libglib2.0-0) ou configurar SELENIUM_REMOTE_URL para usar um Selenium remoto.",
+					e);
+			}
+			throw e;
+		}
 	}
 
 	private String obtemChromeDriverPath() {
