@@ -4,6 +4,9 @@ package gerador.obtemoportunidadelinkedin.passo.impl;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -11,6 +14,7 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 import br.com.gersis.loopback.modelo.OportunidadeLinkedin;
 import br.com.gersis.loopback.modelo.PalavraRaiz;
@@ -33,14 +37,23 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 	
 	@Override
 	protected boolean executaCustom(PalavraRaiz palavraPesquisaCorrente) {
-		String chromeDriverPath = System.getenv("CHROMEDRIVER_PATH");
+		String chromeDriverPath = obtemChromeDriverPath();
 		if (chromeDriverPath == null || chromeDriverPath.trim().isEmpty()) {
-			chromeDriverPath = "/usr/bin/chromedriver";
+			throw new RuntimeException("Nao encontrou chromedriver valido. Defina CHROMEDRIVER_PATH apontando para um binario real.");
 		}
 		System.setProperty("webdriver.chrome.driver", chromeDriverPath);
 
+		ChromeOptions options = new ChromeOptions();
+		options.addArguments("--headless");
+		options.addArguments("--no-sandbox");
+		options.addArguments("--disable-dev-shm-usage");
+		String chromeBinaryPath = obtemChromeBinaryPath();
+		if (chromeBinaryPath != null) {
+			options.setBinary(chromeBinaryPath);
+		}
+
         // Inicializar o navegador
-        driver = new ChromeDriver();
+        driver = new ChromeDriver(options);
 
         try {
             // Acessar a página de login do LinkedIn
@@ -107,6 +120,72 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             driver.quit();
         }
         
+	}
+
+	private String obtemChromeDriverPath() {
+		String envPath = System.getenv("CHROMEDRIVER_PATH");
+		if (arquivoExecutavelValido(envPath)) {
+			return envPath;
+		}
+
+		String[] candidatos = {
+			"/usr/local/bin/chromedriver",
+			"/usr/bin/chromedriver",
+			"/usr/lib/chromium-browser/chromedriver",
+			"/usr/lib/chromium/chromedriver",
+			"/opt/chromedriver/chromedriver"
+		};
+		for (String caminho : candidatos) {
+			if (arquivoExecutavelValido(caminho)) {
+				return caminho;
+			}
+		}
+		return null;
+	}
+
+	private String obtemChromeBinaryPath() {
+		String envPath = System.getenv("CHROME_BINARY");
+		if (arquivoExecutavelSimples(envPath)) {
+			return envPath;
+		}
+		String[] candidatos = {
+			"/usr/bin/google-chrome",
+			"/usr/bin/chromium",
+			"/usr/bin/chromium-browser"
+		};
+		for (String caminho : candidatos) {
+			if (arquivoExecutavelSimples(caminho)) {
+				return caminho;
+			}
+		}
+		return null;
+	}
+
+	private boolean arquivoExecutavelValido(String caminho) {
+		if (!arquivoExecutavelSimples(caminho)) {
+			return false;
+		}
+		if (isSnapWrapper(caminho)) {
+			return false;
+		}
+		return true;
+	}
+
+	private boolean arquivoExecutavelSimples(String caminho) {
+		if (caminho == null || caminho.trim().isEmpty()) {
+			return false;
+		}
+		return Files.isRegularFile(Paths.get(caminho)) && Files.isExecutable(Paths.get(caminho));
+	}
+
+	private boolean isSnapWrapper(String caminho) {
+		try {
+			byte[] conteudo = Files.readAllBytes(Paths.get(caminho));
+			String texto = new String(conteudo, StandardCharsets.UTF_8);
+			return texto.contains("snap install chromium") || texto.contains("requires the chromium snap");
+		} catch (Exception e) {
+			return false;
+		}
 	}
 
 	
@@ -187,4 +266,3 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 
 
 }
-
