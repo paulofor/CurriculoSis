@@ -40,10 +40,14 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 	@Override
 	protected boolean executaCustom(PalavraRaiz palavraPesquisaCorrente) {
 		String chromeDriverPath = obtemChromeDriverPath();
-		if (chromeDriverPath == null || chromeDriverPath.trim().isEmpty()) {
-			throw new RuntimeException("Nao encontrou chromedriver valido. Defina CHROMEDRIVER_PATH ou garanta chromedriver no PATH do container.");
+		if (chromeDriverPath != null && !chromeDriverPath.trim().isEmpty()) {
+			System.setProperty("webdriver.chrome.driver", chromeDriverPath);
+		} else {
+			// Em Selenium 4, o Selenium Manager consegue baixar/descobrir automaticamente.
+			// Mantemos fallback sem forcar erro para facilitar execucao em diferentes containers.
+			System.clearProperty("webdriver.chrome.driver");
+			System.err.println("[WARN] Chromedriver nao encontrado via CHROMEDRIVER_PATH/PATH. Tentando Selenium Manager automaticamente.");
 		}
-		System.setProperty("webdriver.chrome.driver", chromeDriverPath);
 
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--headless");
@@ -125,6 +129,11 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 	}
 
 	private String obtemChromeDriverPath() {
+		String envSkip = System.getenv("SKIP_CHROMEDRIVER_DISCOVERY");
+		if ("true".equalsIgnoreCase(envSkip)) {
+			return null;
+		}
+
 		String envPath = System.getenv("CHROMEDRIVER_PATH");
 		if (arquivoExecutavelValido(envPath)) {
 			return envPath;
