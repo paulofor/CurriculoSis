@@ -7,6 +7,8 @@ import java.util.concurrent.TimeUnit;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -39,7 +41,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 	protected boolean executaCustom(PalavraRaiz palavraPesquisaCorrente) {
 		String chromeDriverPath = obtemChromeDriverPath();
 		if (chromeDriverPath == null || chromeDriverPath.trim().isEmpty()) {
-			throw new RuntimeException("Nao encontrou chromedriver valido. Defina CHROMEDRIVER_PATH apontando para um binario real.");
+			throw new RuntimeException("Nao encontrou chromedriver valido. Defina CHROMEDRIVER_PATH ou garanta chromedriver no PATH do container.");
 		}
 		System.setProperty("webdriver.chrome.driver", chromeDriverPath);
 
@@ -128,6 +130,11 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 			return envPath;
 		}
 
+		String pathExecutavel = obtemExecutavelNoPath("chromedriver");
+		if (arquivoExecutavelValido(pathExecutavel)) {
+			return pathExecutavel;
+		}
+
 		String[] candidatos = {
 			"/usr/local/bin/chromedriver",
 			"/usr/bin/chromedriver",
@@ -141,6 +148,21 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 			}
 		}
 		return null;
+	}
+
+	private String obtemExecutavelNoPath(String comando) {
+		try {
+			Process processo = new ProcessBuilder("/bin/sh", "-lc", "command -v " + comando).start();
+			BufferedReader leitor = new BufferedReader(new InputStreamReader(processo.getInputStream(), StandardCharsets.UTF_8));
+			String linha = leitor.readLine();
+			processo.waitFor(2, TimeUnit.SECONDS);
+			if (linha == null) {
+				return null;
+			}
+			return linha.trim();
+		} catch (Exception e) {
+			return null;
+		}
 	}
 
 	private String obtemChromeBinaryPath() {
@@ -175,7 +197,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		if (caminho == null || caminho.trim().isEmpty()) {
 			return false;
 		}
-		return Files.isRegularFile(Paths.get(caminho)) && Files.isExecutable(Paths.get(caminho));
+		return Files.exists(Paths.get(caminho)) && Files.isExecutable(Paths.get(caminho));
 	}
 
 	private boolean isSnapWrapper(String caminho) {
