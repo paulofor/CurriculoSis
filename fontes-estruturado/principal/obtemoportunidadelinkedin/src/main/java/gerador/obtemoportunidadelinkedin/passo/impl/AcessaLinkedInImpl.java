@@ -18,6 +18,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 import br.com.gersis.loopback.modelo.OportunidadeLinkedin;
 import br.com.gersis.loopback.modelo.PalavraRaiz;
 import gerador.obtemoportunidadelinkedin.passo.AcessaLinkedIn;
@@ -42,11 +44,11 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		String chromeDriverPath = obtemChromeDriverPath();
 		if (chromeDriverPath != null && !chromeDriverPath.trim().isEmpty()) {
 			System.setProperty("webdriver.chrome.driver", chromeDriverPath);
+			System.out.println("[INFO] Usando chromedriver local: " + chromeDriverPath);
 		} else {
-			// Em Selenium 4, o Selenium Manager consegue baixar/descobrir automaticamente.
-			// Mantemos fallback sem forcar erro para facilitar execucao em diferentes containers.
 			System.clearProperty("webdriver.chrome.driver");
-			System.err.println("[WARN] Chromedriver nao encontrado via CHROMEDRIVER_PATH/PATH. Tentando Selenium Manager automaticamente.");
+			System.out.println("[INFO] Chromedriver local nao encontrado. Tentando download automatico via WebDriverManager.");
+			WebDriverManager.chromedriver().setup();
 		}
 
 		ChromeOptions options = new ChromeOptions();
@@ -199,9 +201,41 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		if (isSnapWrapper(caminho)) {
 			return false;
 		}
+		if (!comandoDriverValido(caminho)) {
+			return false;
+		}
 		return true;
 	}
 
+
+	private boolean comandoDriverValido(String caminho) {
+		try {
+			Process processo = new ProcessBuilder(caminho, "--version").start();
+			String saida = leTexto(processo.getInputStream());
+			String erro = leTexto(processo.getErrorStream());
+			processo.waitFor(3, TimeUnit.SECONDS);
+			if (processo.exitValue() != 0) {
+				return false;
+			}
+			String texto = (saida + "\n" + erro).toLowerCase();
+			return texto.contains("chromedriver") && !texto.contains("snap install chromium") && !texto.contains("requires the chromium snap");
+		} catch (Exception e) {
+			return false;
+		}
+	}
+
+	private String leTexto(java.io.InputStream in) {
+		try (BufferedReader leitor = new BufferedReader(new InputStreamReader(in, StandardCharsets.UTF_8))) {
+			StringBuilder sb = new StringBuilder();
+			String linha;
+			while ((linha = leitor.readLine()) != null) {
+				sb.append(linha).append('\n');
+			}
+			return sb.toString();
+		} catch (Exception e) {
+			return "";
+		}
+	}
 	private boolean arquivoExecutavelSimples(String caminho) {
 		if (caminho == null || caminho.trim().isEmpty()) {
 			return false;
