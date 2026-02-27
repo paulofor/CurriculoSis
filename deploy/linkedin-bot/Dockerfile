@@ -11,11 +11,13 @@ WORKDIR /app
 
 RUN apt-get update \
  && CHROMIUM_PACKAGE=chromium \
+ && ASOUND_PACKAGE=libasound2 \
  && if ! apt-cache show chromium >/dev/null 2>&1; then CHROMIUM_PACKAGE=chromium-browser; fi \
+ && if ! apt-cache show "$ASOUND_PACKAGE" >/dev/null 2>&1; then ASOUND_PACKAGE=libasound2t64; fi \
  && apt-get install -y --no-install-recommends \
     "$CHROMIUM_PACKAGE" \
     fonts-liberation \
-    libasound2 \
+    "$ASOUND_PACKAGE" \
     libatk-bridge2.0-0 \
     libatk1.0-0 \
     libatspi2.0-0 \
