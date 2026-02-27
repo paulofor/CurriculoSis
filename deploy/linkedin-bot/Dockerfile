@@ -6,45 +6,12 @@ COPY fontes-estruturado/principal /build/principal
 RUN mvn -f /build/principal/pom.xml -pl obtemoportunidadelinkedin -am -DskipTests clean install \
  && mvn -f /build/principal/obtemoportunidadelinkedin/pom.xml -DskipTests dependency:copy-dependencies -DincludeScope=runtime
 
-FROM eclipse-temurin:8-jre
+FROM mcr.microsoft.com/playwright/java:v1.55.0-noble
 WORKDIR /app
-
-RUN apt-get update \
- && CHROMIUM_PACKAGE=chromium \
- && ASOUND_PACKAGE=libasound2 \
- && if ! apt-cache show chromium >/dev/null 2>&1; then CHROMIUM_PACKAGE=chromium-browser; fi \
- && if ! apt-cache show "$ASOUND_PACKAGE" >/dev/null 2>&1; then ASOUND_PACKAGE=libasound2t64; fi \
- && apt-get install -y --no-install-recommends \
-    "$CHROMIUM_PACKAGE" \
-    fonts-liberation \
-    "$ASOUND_PACKAGE" \
-    libatk-bridge2.0-0 \
-    libatk1.0-0 \
-    libatspi2.0-0 \
-    libcups2 \
-    libdrm2 \
-    libgbm1 \
-    libglib2.0-0 \
-    libnss3 \
-    libpango-1.0-0 \
-    libpangocairo-1.0-0 \
-    libu2f-udev \
-    libx11-xcb1 \
-    libxcomposite1 \
-    libxdamage1 \
-    libxfixes3 \
-    libxkbcommon0 \
-    libxrandr2 \
-    xdg-utils \
- && if apt-cache show chromium-driver >/dev/null 2>&1; then \
-      apt-get install -y --no-install-recommends chromium-driver; \
-    fi \
- && rm -rf /var/lib/apt/lists/*
 
 COPY --from=builder /build/principal/obtemoportunidadelinkedin/target/classes /app/classes
 COPY --from=builder /build/principal/obtemoportunidadelinkedin/target/dependency /app/libs
 
-ENV CHROMEDRIVER_PATH=/usr/bin/chromedriver
 ENV JAVA_OPTS=""
 
-CMD ["/bin/sh", "-c", "java $JAVA_OPTS -cp '/app/classes:/app/libs/*' gerador.obtemoportunidadelinkedin.app.ObtemOportunidadeLinkedin"]
+CMD ["/bin/sh", "-c", "if [ -z \"$CHROME_BINARY\" ]; then CHROME_BINARY=$(find /ms-playwright -type f -path '*/chrome-linux/chrome' | head -n 1); export CHROME_BINARY; fi; java $JAVA_OPTS -cp '/app/classes:/app/libs/*' gerador.obtemoportunidadelinkedin.app.ObtemOportunidadeLinkedin"]

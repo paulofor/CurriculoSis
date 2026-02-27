@@ -4,7 +4,7 @@ Esta pasta contém os arquivos de container e deploy contínuo do módulo `obtem
 
 ## O que foi configurado
 
-- `Dockerfile`: build do módulo Maven e imagem de runtime com Chromium/ChromeDriver.
+- `Dockerfile`: build do módulo Maven e imagem de runtime baseada em Playwright (browser já incluído).
 - `docker-compose.yml`: sobe o container `curriculosis-linkedin-bot` usando variáveis de ambiente.
 - Workflow `.github/workflows/deploy-linkedin-bot.yml`: builda imagem no GHCR e faz deploy via SSH no host `191.252.102.54`.
 
