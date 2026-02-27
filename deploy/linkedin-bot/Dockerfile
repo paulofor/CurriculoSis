@@ -10,9 +10,10 @@ FROM eclipse-temurin:8-jre
 WORKDIR /app
 
 RUN apt-get update \
+ && CHROMIUM_PACKAGE=chromium \
+ && if ! apt-cache show chromium >/dev/null 2>&1; then CHROMIUM_PACKAGE=chromium-browser; fi \
  && apt-get install -y --no-install-recommends \
-    chromium \
-    chromium-driver \
+    "$CHROMIUM_PACKAGE" \
     fonts-liberation \
     libasound2 \
     libatk-bridge2.0-0 \
@@ -33,6 +34,9 @@ RUN apt-get update \
     libxkbcommon0 \
     libxrandr2 \
     xdg-utils \
+ && if apt-cache show chromium-driver >/dev/null 2>&1; then \
+      apt-get install -y --no-install-recommends chromium-driver; \
+    fi \
  && rm -rf /var/lib/apt/lists/*
 
 COPY --from=builder /build/principal/obtemoportunidadelinkedin/target/classes /app/classes
