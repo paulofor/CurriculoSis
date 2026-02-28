@@ -4,6 +4,8 @@ package gerador.obtemoportunidadelinkedin.passo.impl;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -17,6 +19,7 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.WebDriverException;
+import org.openqa.selenium.SessionNotCreatedException;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -141,11 +144,20 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		} else {
 			System.clearProperty("webdriver.chrome.driver");
 			System.out.println("[INFO] Chromedriver local nao encontrado. Tentando download automatico via WebDriverManager.");
-			WebDriverManager.chromedriver().setup();
+			configuraWebDriverManagerComVersaoDoNavegador(options);
 		}
 
 		try {
 			return new ChromeDriver(options);
+		} catch (SessionNotCreatedException e) {
+			String majorVersaoBrowser = extraiMajorVersaoBrowser(e.getMessage());
+			if (majorVersaoBrowser != null && !majorVersaoBrowser.isEmpty()) {
+				System.out.println("[WARN] Incompatibilidade de versao entre Chrome e ChromeDriver detectada. Tentando ChromeDriver " + majorVersaoBrowser + ".x");
+				System.clearProperty("webdriver.chrome.driver");
+				WebDriverManager.chromedriver().driverVersion(majorVersaoBrowser).setup();
+				return new ChromeDriver(options);
+			}
+			throw e;
 		} catch (WebDriverException e) {
 			String mensagem = e.getMessage() == null ? "" : e.getMessage().toLowerCase();
 			if (mensagem.contains("timed out waiting for driver server to start") || mensagem.contains("localhost")) {
@@ -157,6 +169,48 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 			}
 			throw e;
 		}
+	}
+
+	private void configuraWebDriverManagerComVersaoDoNavegador(ChromeOptions options) {
+		String chromeBinaryPath = options.getBinary();
+		String major = obtemMajorVersaoChrome(chromeBinaryPath);
+		if (major != null && !major.isEmpty()) {
+			System.out.println("[INFO] Browser detectado na major version " + major + ". Baixando ChromeDriver compativel.");
+			WebDriverManager.chromedriver().driverVersion(major).setup();
+			return;
+		}
+		WebDriverManager.chromedriver().setup();
+	}
+
+	private String obtemMajorVersaoChrome(String chromeBinaryPath) {
+		if (chromeBinaryPath == null || chromeBinaryPath.trim().isEmpty()) {
+			return null;
+		}
+		try {
+			Process processo = new ProcessBuilder(chromeBinaryPath, "--version").start();
+			String saida = leTexto(processo.getInputStream());
+			String erro = leTexto(processo.getErrorStream());
+			processo.waitFor(3, TimeUnit.SECONDS);
+			String texto = (saida + "\n" + erro);
+			Matcher matcher = Pattern.compile("(\\d+)\\.").matcher(texto);
+			if (matcher.find()) {
+				return matcher.group(1);
+			}
+			return null;
+		} catch (Exception e) {
+			return null;
+		}
+	}
+
+	private String extraiMajorVersaoBrowser(String mensagemErro) {
+		if (mensagemErro == null || mensagemErro.trim().isEmpty()) {
+			return null;
+		}
+		Matcher matcher = Pattern.compile("Current browser version is (\\d+)\\.").matcher(mensagemErro);
+		if (matcher.find()) {
+			return matcher.group(1);
+		}
+		return null;
 	}
 
 	private String obtemChromeDriverPath() {
