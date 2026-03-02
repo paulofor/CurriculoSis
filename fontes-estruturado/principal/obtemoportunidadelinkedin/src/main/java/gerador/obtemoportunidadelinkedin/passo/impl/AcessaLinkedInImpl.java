@@ -150,8 +150,15 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		try {
 			return new ChromeDriver(options);
 		} catch (SessionNotCreatedException e) {
+			String versaoCompletaBrowser = extraiVersaoCompletaBrowser(e.getMessage());
 			String majorVersaoBrowser = extraiMajorVersaoBrowser(e.getMessage());
-			if (majorVersaoBrowser != null && !majorVersaoBrowser.isEmpty()) {
+			if (versaoCompletaBrowser != null && !versaoCompletaBrowser.isEmpty()) {
+				String versaoLog = majorVersaoBrowser != null ? majorVersaoBrowser + ".x" : versaoCompletaBrowser;
+				System.out.println("[WARN] Incompatibilidade de versao entre Chrome e ChromeDriver detectada. Tentando ChromeDriver " + versaoLog + " (browser " + versaoCompletaBrowser + ")");
+				System.clearProperty("webdriver.chrome.driver");
+				WebDriverManager.chromedriver().browserVersion(versaoCompletaBrowser).setup();
+				return new ChromeDriver(options);
+			} else if (majorVersaoBrowser != null && !majorVersaoBrowser.isEmpty()) {
 				System.out.println("[WARN] Incompatibilidade de versao entre Chrome e ChromeDriver detectada. Tentando ChromeDriver " + majorVersaoBrowser + ".x");
 				System.clearProperty("webdriver.chrome.driver");
 				WebDriverManager.chromedriver().driverVersion(majorVersaoBrowser).setup();
@@ -173,16 +180,17 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 
 	private void configuraWebDriverManagerComVersaoDoNavegador(ChromeOptions options) {
 		String chromeBinaryPath = options.getBinary();
-		String major = obtemMajorVersaoChrome(chromeBinaryPath);
-		if (major != null && !major.isEmpty()) {
-			System.out.println("[INFO] Browser detectado na major version " + major + ". Baixando ChromeDriver compativel.");
-			WebDriverManager.chromedriver().driverVersion(major).setup();
+		String versaoCompleta = obtemVersaoCompletaChrome(chromeBinaryPath);
+		if (versaoCompleta != null && !versaoCompleta.isEmpty()) {
+			String major = versaoCompleta.split("\\.")[0];
+			System.out.println("[INFO] Browser detectado na versao " + versaoCompleta + " (major " + major + "). Baixando ChromeDriver compativel.");
+			WebDriverManager.chromedriver().browserVersion(versaoCompleta).setup();
 			return;
 		}
 		WebDriverManager.chromedriver().setup();
 	}
 
-	private String obtemMajorVersaoChrome(String chromeBinaryPath) {
+	private String obtemVersaoCompletaChrome(String chromeBinaryPath) {
 		if (chromeBinaryPath == null || chromeBinaryPath.trim().isEmpty()) {
 			return null;
 		}
@@ -191,8 +199,17 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 			String saida = leTexto(processo.getInputStream());
 			String erro = leTexto(processo.getErrorStream());
 			processo.waitFor(3, TimeUnit.SECONDS);
-			String texto = (saida + "\n" + erro);
-			Matcher matcher = Pattern.compile("(\\d+)\\.").matcher(texto);
+			String texto = (saida + "
+" + erro);
+			Matcher matcher = Pattern.compile("(\d+\.\d+\.\d+\.\d+)").matcher(texto);
+			if (matcher.find()) {
+				return matcher.group(1);
+			}
+			matcher = Pattern.compile("(\d+\.\d+\.\d+)").matcher(texto);
+			if (matcher.find()) {
+				return matcher.group(1);
+			}
+			matcher = Pattern.compile("(\d+)\.").matcher(texto);
 			if (matcher.find()) {
 				return matcher.group(1);
 			}
@@ -202,15 +219,31 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		}
 	}
 
-	private String extraiMajorVersaoBrowser(String mensagemErro) {
+	private String obtemMajorVersaoChrome(String chromeBinaryPath) {
+		String versaoCompleta = obtemVersaoCompletaChrome(chromeBinaryPath);
+		if (versaoCompleta == null || versaoCompleta.trim().isEmpty()) {
+			return null;
+		}
+		return versaoCompleta.split("\.")[0];
+	}
+
+	private String extraiVersaoCompletaBrowser(String mensagemErro) {
 		if (mensagemErro == null || mensagemErro.trim().isEmpty()) {
 			return null;
 		}
-		Matcher matcher = Pattern.compile("Current browser version is (\\d+)\\.").matcher(mensagemErro);
+		Matcher matcher = Pattern.compile("Current browser version is ([0-9.]+)").matcher(mensagemErro);
 		if (matcher.find()) {
 			return matcher.group(1);
 		}
 		return null;
+	}
+
+	private String extraiMajorVersaoBrowser(String mensagemErro) {
+		String versaoCompleta = extraiVersaoCompletaBrowser(mensagemErro);
+		if (versaoCompleta == null || versaoCompleta.trim().isEmpty()) {
+			return null;
+		}
+		return versaoCompleta.split("\.")[0];
 	}
 
 	private String obtemChromeDriverPath() {
