@@ -13,6 +13,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.Locale;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -68,6 +69,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
         try {
             // Acessar a página de login do LinkedIn
             driver.get("https://www.linkedin.com/login");
+            logEstadoPagina("apos abrir login");
 
             // Fazer login
             WebElement emailField = driver.findElement(By.id("username"));
@@ -84,12 +86,14 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             }
             passwordField.sendKeys(linkedinPassword);
             passwordField.sendKeys(Keys.RETURN);
+            logEstadoPagina("apos enviar credenciais");
 
             // Esperar até que a página principal seja carregada
             driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
             // Navegar para a página de busca de vagas
             driver.get("https://www.linkedin.com/jobs");
+            logEstadoPagina("apos abrir pagina de vagas");
 
             // Inserir termo de pesquisa e buscar
             WebElement searchBox = aguardaCampoBuscaPalavraChave();
@@ -161,16 +165,68 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		for (By seletor : seletores) {
 			seletoresTestados.add(seletor.toString());
 			try {
+				System.out.println("[DEBUG] Tentando localizar campo de busca com seletor: " + seletor);
 				WebElement elemento = wait.until(ExpectedConditions.visibilityOfElementLocated(seletor));
 				if (elemento != null) {
+					System.out.println("[DEBUG] Campo de busca localizado com seletor: " + seletor);
+					System.out.println("[DEBUG] Estado do elemento: displayed=" + elemento.isDisplayed() + ", enabled=" + elemento.isEnabled());
 					return elemento;
 				}
 			} catch (TimeoutException | NoSuchElementException e) {
+				System.out.println("[DEBUG] Seletor nao encontrou elemento visivel: " + seletor + " -> " + e.getClass().getSimpleName());
 				// tenta o proximo seletor
 			}
 		}
 
+		logDiagnosticoCampoBusca();
+
 		throw new NoSuchElementException("Nao foi possivel localizar o campo de busca de vagas do LinkedIn. Seletores testados: " + String.join(" | ", seletoresTestados));
+	}
+
+	private void logDiagnosticoCampoBusca() {
+		try {
+			logEstadoPagina("falha ao localizar campo de busca");
+			List<WebElement> todosInputs = driver.findElements(By.cssSelector("input"));
+			System.out.println("[DEBUG] Total de inputs encontrados na pagina: " + todosInputs.size());
+			int limite = Math.min(10, todosInputs.size());
+			for (int i = 0; i < limite; i++) {
+				WebElement input = todosInputs.get(i);
+				String id = valorSeguro(input.getAttribute("id"));
+				String name = valorSeguro(input.getAttribute("name"));
+				String ariaLabel = valorSeguro(input.getAttribute("aria-label"));
+				String placeholder = valorSeguro(input.getAttribute("placeholder"));
+				String clazz = valorSeguro(input.getAttribute("class"));
+				System.out.println("[DEBUG] Input[" + i + "] id='" + id + "' name='" + name + "' aria-label='" + ariaLabel + "' placeholder='" + placeholder + "' class='" + clazz + "'");
+			}
+
+			String pageSource = driver.getPageSource();
+			String pageSourceNormalizada = pageSource == null ? "" : pageSource.toLowerCase(Locale.ROOT);
+			if (pageSourceNormalizada.contains("captcha") || pageSourceNormalizada.contains("challenge")) {
+				System.out.println("[WARN] Possivel bloqueio/captcha detectado no HTML da pagina.");
+			}
+			if (pageSourceNormalizada.contains("checkpoint") || pageSourceNormalizada.contains("security verification")) {
+				System.out.println("[WARN] Possivel checkpoint/verificacao de seguranca detectado no HTML da pagina.");
+			}
+		} catch (Exception e) {
+			System.out.println("[WARN] Falha ao coletar diagnostico do campo de busca: " + e.getMessage());
+		}
+	}
+
+	private void logEstadoPagina(String contexto) {
+		try {
+			String currentUrl = valorSeguro(driver.getCurrentUrl());
+			String title = valorSeguro(driver.getTitle());
+			System.out.println("[DEBUG] Estado da pagina (" + contexto + "): url='" + currentUrl + "' title='" + title + "'");
+		} catch (Exception e) {
+			System.out.println("[WARN] Nao foi possivel capturar URL/titulo da pagina em '" + contexto + "': " + e.getMessage());
+		}
+	}
+
+	private String valorSeguro(String valor) {
+		if (valor == null) {
+			return "";
+		}
+		return valor.replace("\n", " ").replace("\r", " ").trim();
 	}
 
 	private WebDriver criaWebDriver(ChromeOptions options) {
