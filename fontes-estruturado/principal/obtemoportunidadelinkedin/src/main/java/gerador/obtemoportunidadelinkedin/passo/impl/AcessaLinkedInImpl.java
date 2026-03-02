@@ -87,6 +87,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             passwordField.sendKeys(linkedinPassword);
             passwordField.sendKeys(Keys.RETURN);
             logEstadoPagina("apos enviar credenciais");
+			garanteLoginSemCheckpoint();
 
             // Esperar até que a página principal seja carregada
             driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -209,6 +210,59 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 			}
 		} catch (Exception e) {
 			System.out.println("[WARN] Falha ao coletar diagnostico do campo de busca: " + e.getMessage());
+		}
+	}
+
+	private void garanteLoginSemCheckpoint() throws InterruptedException {
+		int timeoutSegundos = obtemInteiroEnv("LINKEDIN_CHECKPOINT_TIMEOUT_SECONDS", 120);
+		long fimEspera = System.currentTimeMillis() + TimeUnit.SECONDS.toMillis(timeoutSegundos);
+		while (System.currentTimeMillis() <= fimEspera) {
+			if (!paginaEmCheckpointOuBloqueio()) {
+				return;
+			}
+
+			long faltam = Math.max(0, (fimEspera - System.currentTimeMillis()) / 1000);
+			System.out.println("[WARN] Login com desafio de seguranca/captcha detectado. "
+					+ "Conclua manualmente no navegador. Aguardando liberacao da sessao por ate " + faltam + "s.");
+			TimeUnit.SECONDS.sleep(5);
+			logEstadoPagina("aguardando liberacao de checkpoint");
+		}
+
+		throw new IllegalStateException("LinkedIn bloqueou o login em checkpoint/captcha e a sessao nao foi liberada em "
+				+ timeoutSegundos + "s. Resolva manualmente a verificacao de seguranca, reduza a frequencia de automacao "
+				+ "ou reutilize cookies/sessao previamente validada.");
+	}
+
+	private boolean paginaEmCheckpointOuBloqueio() {
+		String currentUrl = "";
+		String title = "";
+		String pageSource = "";
+		try {
+			currentUrl = valorSeguro(driver.getCurrentUrl()).toLowerCase(Locale.ROOT);
+			title = valorSeguro(driver.getTitle()).toLowerCase(Locale.ROOT);
+			pageSource = valorSeguro(driver.getPageSource()).toLowerCase(Locale.ROOT);
+		} catch (Exception e) {
+			return true;
+		}
+
+		return currentUrl.contains("checkpoint")
+				|| currentUrl.contains("challenge")
+				|| title.contains("security verification")
+				|| pageSource.contains("captcha")
+				|| pageSource.contains("checkpoint")
+				|| pageSource.contains("challenge");
+	}
+
+	private int obtemInteiroEnv(String nomeVariavel, int valorPadrao) {
+		String valor = System.getenv(nomeVariavel);
+		if (valor == null || valor.trim().isEmpty()) {
+			return valorPadrao;
+		}
+		try {
+			return Integer.parseInt(valor.trim());
+		} catch (NumberFormatException e) {
+			System.out.println("[WARN] Valor invalido para " + nomeVariavel + "='" + valor + "'. Usando padrao " + valorPadrao + "s.");
+			return valorPadrao;
 		}
 	}
 
