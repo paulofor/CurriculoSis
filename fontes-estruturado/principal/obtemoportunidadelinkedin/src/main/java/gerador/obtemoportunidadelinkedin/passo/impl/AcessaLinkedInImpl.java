@@ -2,6 +2,7 @@ package gerador.obtemoportunidadelinkedin.passo.impl;
 
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
@@ -16,6 +17,7 @@ import java.io.InputStreamReader;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.WebDriverException;
@@ -23,6 +25,8 @@ import org.openqa.selenium.SessionNotCreatedException;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -88,7 +92,12 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             driver.get("https://www.linkedin.com/jobs");
 
             // Inserir termo de pesquisa e buscar
-            WebElement searchBox = driver.findElement(By.className("jobs-search-box__text-input"));
+            WebElement searchBox = aguardaCampoBuscaPalavraChave();
+            try {
+            	searchBox.clear();
+            } catch (WebDriverException e) {
+            	// Alguns campos do LinkedIn nao permitem clear, entao seguimos com o sendKeys direto
+            }
             searchBox.sendKeys(palavraPesquisaCorrente.getPalavra());
             searchBox.sendKeys(Keys.RETURN);
 
@@ -126,6 +135,42 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             driver.quit();
         }
         
+	}
+
+	private WebElement aguardaCampoBuscaPalavraChave() {
+		List<By> seletores = Arrays.asList(
+			By.name("keywords"),
+			By.id("job-search-bar-keywords"),
+			By.cssSelector("input[id^='jobs-search-box-keyword-id']"),
+			By.cssSelector("input[data-tracking-control-name*='keywords']"),
+			By.cssSelector("input[aria-label*='palavra-chave']"),
+			By.cssSelector("input[aria-label*='palavras-chave']"),
+			By.cssSelector("input[aria-label*='palavra chave']"),
+			By.cssSelector("input[aria-label*='job titles']"),
+			By.cssSelector("input[aria-label*='keywords']"),
+			By.cssSelector("input[placeholder*='palavra-chave']"),
+			By.cssSelector("input[placeholder*='palavras-chave']"),
+			By.cssSelector("input[placeholder*='palavra chave']"),
+			By.cssSelector("input[placeholder*='job titles']"),
+			By.cssSelector("input[placeholder*='keyword']"),
+			By.className("jobs-search-box__text-input")
+		);
+
+		WebDriverWait wait = new WebDriverWait(driver, 20);
+		List<String> seletoresTestados = new ArrayList<String>();
+		for (By seletor : seletores) {
+			seletoresTestados.add(seletor.toString());
+			try {
+				WebElement elemento = wait.until(ExpectedConditions.visibilityOfElementLocated(seletor));
+				if (elemento != null) {
+					return elemento;
+				}
+			} catch (TimeoutException | NoSuchElementException e) {
+				// tenta o proximo seletor
+			}
+		}
+
+		throw new NoSuchElementException("Nao foi possivel localizar o campo de busca de vagas do LinkedIn. Seletores testados: " + String.join(" | ", seletoresTestados));
 	}
 
 	private WebDriver criaWebDriver(ChromeOptions options) {
