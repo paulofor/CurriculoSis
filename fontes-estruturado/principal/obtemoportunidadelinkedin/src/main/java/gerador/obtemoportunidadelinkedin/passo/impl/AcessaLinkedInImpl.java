@@ -35,6 +35,7 @@ import gerador.obtemoportunidadelinkedin.passo.AcessaLinkedIn;
 public class AcessaLinkedInImpl extends AcessaLinkedIn {
 
 	WebDriver driver = null;
+	String chromeBinaryUtilizado = null;
 	
 	/*
 	 * Trocar o Driver do Chrome:
@@ -52,6 +53,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		options.addArguments("--no-sandbox");
 		options.addArguments("--disable-dev-shm-usage");
 		String chromeBinaryPath = obtemChromeBinaryPath();
+		this.chromeBinaryUtilizado = chromeBinaryPath;
 		if (chromeBinaryPath != null) {
 			options.setBinary(chromeBinaryPath);
 		}
@@ -144,7 +146,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		} else {
 			System.clearProperty("webdriver.chrome.driver");
 			System.out.println("[INFO] Chromedriver local nao encontrado. Tentando download automatico via WebDriverManager.");
-			configuraWebDriverManagerComVersaoDoNavegador(options);
+			configuraWebDriverManagerComVersaoDoNavegador();
 		}
 
 		try {
@@ -178,9 +180,8 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		}
 	}
 
-	private void configuraWebDriverManagerComVersaoDoNavegador(ChromeOptions options) {
-		String chromeBinaryPath = options.getBinary();
-		String versaoCompleta = obtemVersaoCompletaChrome(chromeBinaryPath);
+	private void configuraWebDriverManagerComVersaoDoNavegador() {
+		String versaoCompleta = obtemVersaoCompletaChrome(this.chromeBinaryUtilizado);
 		if (versaoCompleta != null && !versaoCompleta.isEmpty()) {
 			String major = versaoCompleta.split("\\.")[0];
 			System.out.println("[INFO] Browser detectado na versao " + versaoCompleta + " (major " + major + "). Baixando ChromeDriver compativel.");
@@ -199,17 +200,16 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 			String saida = leTexto(processo.getInputStream());
 			String erro = leTexto(processo.getErrorStream());
 			processo.waitFor(3, TimeUnit.SECONDS);
-			String texto = (saida + "
-" + erro);
-			Matcher matcher = Pattern.compile("(\d+\.\d+\.\d+\.\d+)").matcher(texto);
+			String texto = (saida + "\n" + erro);
+			Matcher matcher = Pattern.compile("(\\d+\\.\\d+\\.\\d+\\.\\d+)").matcher(texto);
 			if (matcher.find()) {
 				return matcher.group(1);
 			}
-			matcher = Pattern.compile("(\d+\.\d+\.\d+)").matcher(texto);
+			matcher = Pattern.compile("(\\d+\\.\\d+\\.\\d+)").matcher(texto);
 			if (matcher.find()) {
 				return matcher.group(1);
 			}
-			matcher = Pattern.compile("(\d+)\.").matcher(texto);
+			matcher = Pattern.compile("(\\d+)\\.").matcher(texto);
 			if (matcher.find()) {
 				return matcher.group(1);
 			}
@@ -224,7 +224,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		if (versaoCompleta == null || versaoCompleta.trim().isEmpty()) {
 			return null;
 		}
-		return versaoCompleta.split("\.")[0];
+		return versaoCompleta.split("\\.")[0];
 	}
 
 	private String extraiVersaoCompletaBrowser(String mensagemErro) {
@@ -243,7 +243,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		if (versaoCompleta == null || versaoCompleta.trim().isEmpty()) {
 			return null;
 		}
-		return versaoCompleta.split("\.")[0];
+		return versaoCompleta.split("\\.")[0];
 	}
 
 	private String obtemChromeDriverPath() {
