@@ -19,7 +19,7 @@ Configure no repositório (`Settings` → `Secrets and variables` → `Actions`)
 - `LINKEDIN_USER`: login do LinkedIn.
 - `LINKEDIN_PASSWORD`: senha do LinkedIn.
 - `LINKEDIN_HEADLESS`: executa navegador em headless (`true` padrão). Para primeiro login/manual, use `false`.
-- `LINKEDIN_CHROME_USER_DATA_DIR`: diretório de perfil do Chrome para persistir sessão/cookies (padrão no compose: `/data/chrome-profile`).
+- `LINKEDIN_CHROME_USER_DATA_DIR`: diretório de perfil do Chrome para persistir sessão/cookies (padrão no compose: `/home/seluser/chrome-profile`).
 - `LINKEDIN_CHROME_PROFILE`: nome do profile dentro do `user-data-dir` (padrão: `Default`).
 - `LINKEDIN_CHECKPOINT_TIMEOUT_SECONDS`: tempo máximo aguardando liberação manual de checkpoint/captcha (padrão recomendado: `300`).
 - `SELENIUM_REMOTE_URL`: URL do Selenium remoto (ex.: `http://selenium:4444/wd/hub`) quando quiser login manual com VNC.
@@ -39,7 +39,7 @@ Para ficar operacional de verdade, use o serviço `selenium` com noVNC (tela no 
 
 ```env
 LINKEDIN_HEADLESS=false
-LINKEDIN_CHROME_USER_DATA_DIR=/data/chrome-profile
+LINKEDIN_CHROME_USER_DATA_DIR=/home/seluser/chrome-profile
 LINKEDIN_CHROME_PROFILE=Default
 LINKEDIN_CHECKPOINT_TIMEOUT_SECONDS=300
 SELENIUM_REMOTE_URL=http://selenium:4444/wd/hub
