@@ -64,6 +64,54 @@ docker compose up -d linkedin-bot
 
 Como o `user-data-dir` fica em volume (`linkedin_chrome_profile`), os cookies/sessão validados continuam para as próximas execuções.
 
+### Se a tela do noVNC ficar preta (apenas logo do Selenium)
+
+Isso normalmente significa que **não existe sessão de navegador ativa** no Selenium (o container está de pé, mas nenhum teste abriu o Chrome ainda).
+
+Checklist rápido:
+
+1. Garanta que o bot está apontando para o Selenium e sem headless durante o login manual:
+
+```bash
+LINKEDIN_HEADLESS=false \
+SELENIUM_REMOTE_URL=http://selenium:4444/wd/hub \
+docker compose --profile manual-login up -d selenium linkedin-bot
+```
+
+2. Confira se as variáveis entraram no container do bot:
+
+```bash
+docker compose exec linkedin-bot env | grep -E 'LINKEDIN_HEADLESS|SELENIUM_REMOTE_URL'
+```
+
+Saída esperada:
+
+```text
+LINKEDIN_HEADLESS=false
+SELENIUM_REMOTE_URL=http://selenium:4444/wd/hub
+```
+
+3. Verifique se existe sessão ativa no Selenium:
+
+```bash
+curl -s http://localhost:4444/status
+```
+
+No JSON, confirme `"ready": true`. Se não houver sessão após iniciar o bot, veja logs:
+
+```bash
+docker compose logs -f linkedin-bot selenium
+```
+
+4. Se ainda ficar preto, reinicie apenas os serviços de login manual:
+
+```bash
+docker compose --profile manual-login down
+docker compose --profile manual-login up -d selenium linkedin-bot
+```
+
+> Dica: abra o noVNC **depois** que o `linkedin-bot` iniciar. Sem sessão ativa, a tela permanece preta mesmo com o Selenium saudável.
+
 > Importante: isso **não faz bypass** de segurança do LinkedIn. Apenas habilita intervenção manual quando exigida e reaproveita a sessão autenticada.
 
 ## Onde executar os comandos de Git e PR
