@@ -54,14 +54,28 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 	@Override
 	protected boolean executaCustom(PalavraRaiz palavraPesquisaCorrente) {
 		ChromeOptions options = new ChromeOptions();
-		options.addArguments("--headless");
+		boolean headless = obtemBooleanEnv("LINKEDIN_HEADLESS", true);
+		if (headless) {
+			options.addArguments("--headless");
+		}
 		options.addArguments("--no-sandbox");
 		options.addArguments("--disable-dev-shm-usage");
+		String userDataDir = obtemTextoEnv("LINKEDIN_CHROME_USER_DATA_DIR");
+		if (userDataDir != null) {
+			options.addArguments("--user-data-dir=" + userDataDir);
+		}
+		String profileDirectory = obtemTextoEnv("LINKEDIN_CHROME_PROFILE");
+		if (profileDirectory != null) {
+			options.addArguments("--profile-directory=" + profileDirectory);
+		}
 		String chromeBinaryPath = obtemChromeBinaryPath();
 		this.chromeBinaryUtilizado = chromeBinaryPath;
 		if (chromeBinaryPath != null) {
 			options.setBinary(chromeBinaryPath);
 		}
+		System.out.println("[INFO] LinkedIn login config: headless=" + headless
+				+ ", userDataDir=" + (userDataDir != null ? "definido" : "nao definido")
+				+ ", profile=" + (profileDirectory != null ? profileDirectory : "default") + ".");
 
 		// Inicializar o navegador
 		driver = criaWebDriver(options);
@@ -73,17 +87,11 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 
             // Fazer login
             WebElement emailField = driver.findElement(By.id("username"));
-            String linkedinUser = System.getenv("LINKEDIN_USER");
-            if (linkedinUser == null || linkedinUser.trim().isEmpty()) {
-            	linkedinUser = "paulofore@gmail.com";
-            }
+            String linkedinUser = obtemTextoEnvObrigatorio("LINKEDIN_USER");
             emailField.sendKeys(linkedinUser);
 
             WebElement passwordField = driver.findElement(By.id("password"));
-            String linkedinPassword = System.getenv("LINKEDIN_PASSWORD");
-            if (linkedinPassword == null || linkedinPassword.trim().isEmpty()) {
-            	linkedinPassword = "xi5*4NDGrb^+Z6T";
-            }
+            String linkedinPassword = obtemTextoEnvObrigatorio("LINKEDIN_PASSWORD");
             passwordField.sendKeys(linkedinPassword);
             passwordField.sendKeys(Keys.RETURN);
             logEstadoPagina("apos enviar credenciais");
@@ -264,6 +272,39 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 			System.out.println("[WARN] Valor invalido para " + nomeVariavel + "='" + valor + "'. Usando padrao " + valorPadrao + "s.");
 			return valorPadrao;
 		}
+	}
+
+	private boolean obtemBooleanEnv(String nomeVariavel, boolean valorPadrao) {
+		String valor = System.getenv(nomeVariavel);
+		if (valor == null || valor.trim().isEmpty()) {
+			return valorPadrao;
+		}
+		if ("true".equalsIgnoreCase(valor.trim()) || "1".equals(valor.trim()) || "yes".equalsIgnoreCase(valor.trim())) {
+			return true;
+		}
+		if ("false".equalsIgnoreCase(valor.trim()) || "0".equals(valor.trim()) || "no".equalsIgnoreCase(valor.trim())) {
+			return false;
+		}
+		System.out.println("[WARN] Valor invalido para " + nomeVariavel + "='" + valor + "'. Usando padrao=" + valorPadrao + ".");
+		return valorPadrao;
+	}
+
+	private String obtemTextoEnv(String nomeVariavel) {
+		String valor = System.getenv(nomeVariavel);
+		if (valor == null) {
+			return null;
+		}
+		String trimmed = valor.trim();
+		return trimmed.isEmpty() ? null : trimmed;
+	}
+
+	private String obtemTextoEnvObrigatorio(String nomeVariavel) {
+		String valor = obtemTextoEnv(nomeVariavel);
+		if (valor == null) {
+			throw new IllegalStateException("Variavel de ambiente obrigatoria ausente: " + nomeVariavel
+					+ ". Configure os secrets/envs antes de executar o robô.");
+		}
+		return valor;
 	}
 
 	private void logEstadoPagina(String contexto) {

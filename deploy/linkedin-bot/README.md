@@ -18,6 +18,11 @@ Configure no repositório (`Settings` → `Secrets and variables` → `Actions`)
 - `LOOPBACK_URL`: URL da API Loopback usada pelo robô.
 - `LINKEDIN_USER`: login do LinkedIn.
 - `LINKEDIN_PASSWORD`: senha do LinkedIn.
+- `LINKEDIN_HEADLESS`: executa navegador em headless (`true` padrão). Para primeiro login/manual, use `false`.
+- `LINKEDIN_CHROME_USER_DATA_DIR`: diretório de perfil do Chrome para persistir sessão/cookies (padrão no compose: `/data/chrome-profile`).
+- `LINKEDIN_CHROME_PROFILE`: nome do profile dentro do `user-data-dir` (padrão: `Default`).
+- `LINKEDIN_CHECKPOINT_TIMEOUT_SECONDS`: tempo máximo aguardando liberação manual de checkpoint/captcha (padrão recomendado: `300`).
+- `SELENIUM_REMOTE_URL`: URL do Selenium remoto (ex.: `http://selenium:4444/wd/hub`) quando quiser login manual com VNC.
 
 ## Fluxo de deploy
 
@@ -25,6 +30,41 @@ Configure no repositório (`Settings` → `Secrets and variables` → `Actions`)
 2. Action gera e publica imagem `ghcr.io/<owner>/curriculosis-linkedin-bot:<sha>`.
 3. Action copia `docker-compose.yml` para `/opt/curriculosis/linkedin-bot` no host.
 4. Action cria/atualiza `.env` no host e executa `docker compose pull && docker compose up -d`.
+
+## Como o usuário faz o login manual na prática
+
+Para ficar operacional de verdade, use o serviço `selenium` com noVNC (tela no navegador):
+
+1. Configure o `.env` com:
+
+```env
+LINKEDIN_HEADLESS=false
+LINKEDIN_CHROME_USER_DATA_DIR=/data/chrome-profile
+LINKEDIN_CHROME_PROFILE=Default
+LINKEDIN_CHECKPOINT_TIMEOUT_SECONDS=300
+SELENIUM_REMOTE_URL=http://selenium:4444/wd/hub
+```
+
+2. Suba os containers com perfil de login manual:
+
+```bash
+docker compose --profile manual-login up -d
+```
+
+3. Abra a tela do navegador remoto em `http://SEU_HOST:7900` (senha padrão do container Selenium: `secret`).
+4. Na tela noVNC, conclua login + 2FA + captcha/checkpoint do LinkedIn até cair em Home/Jobs.
+5. Pare o bot e ligue novamente em modo automático:
+
+```bash
+# opcional: voltar ao headless depois de validar sessão
+export LINKEDIN_HEADLESS=true
+
+docker compose up -d linkedin-bot
+```
+
+Como o `user-data-dir` fica em volume (`linkedin_chrome_profile`), os cookies/sessão validados continuam para as próximas execuções.
+
+> Importante: isso **não faz bypass** de segurança do LinkedIn. Apenas habilita intervenção manual quando exigida e reaproveita a sessão autenticada.
 
 ## Onde executar os comandos de Git e PR
 
