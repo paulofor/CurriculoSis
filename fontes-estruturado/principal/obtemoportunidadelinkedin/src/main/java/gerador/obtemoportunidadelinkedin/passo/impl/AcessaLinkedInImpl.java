@@ -54,6 +54,8 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 	@Override
 	protected boolean executaCustom(PalavraRaiz palavraPesquisaCorrente) {
 		ChromeOptions options = new ChromeOptions();
+		String remoteUrl = obtemTextoEnv("SELENIUM_REMOTE_URL");
+		boolean usandoSeleniumRemoto = remoteUrl != null && !remoteUrl.trim().isEmpty();
 		boolean headless = obtemBooleanEnv("LINKEDIN_HEADLESS", true);
 		if (headless) {
 			options.addArguments("--headless");
@@ -68,17 +70,23 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		if (profileDirectory != null) {
 			options.addArguments("--profile-directory=" + profileDirectory);
 		}
-		String chromeBinaryPath = obtemChromeBinaryPath();
-		this.chromeBinaryUtilizado = chromeBinaryPath;
-		if (chromeBinaryPath != null) {
-			options.setBinary(chromeBinaryPath);
+		String chromeBinaryPath = null;
+		if (!usandoSeleniumRemoto) {
+			chromeBinaryPath = obtemChromeBinaryPath();
+			this.chromeBinaryUtilizado = chromeBinaryPath;
+			if (chromeBinaryPath != null) {
+				options.setBinary(chromeBinaryPath);
+			}
+		} else {
+			this.chromeBinaryUtilizado = null;
 		}
 		System.out.println("[INFO] LinkedIn login config: headless=" + headless
 				+ ", userDataDir=" + (userDataDir != null ? "definido" : "nao definido")
-				+ ", profile=" + (profileDirectory != null ? profileDirectory : "default") + ".");
+				+ ", profile=" + (profileDirectory != null ? profileDirectory : "default")
+				+ ", seleniumRemoto=" + (usandoSeleniumRemoto ? remoteUrl : "nao") + ".");
 
 		// Inicializar o navegador
-		driver = criaWebDriver(options);
+		driver = criaWebDriver(options, remoteUrl);
 
         try {
             // Acessar a página de login do LinkedIn
@@ -324,8 +332,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		return valor.replace("\n", " ").replace("\r", " ").trim();
 	}
 
-	private WebDriver criaWebDriver(ChromeOptions options) {
-		String remoteUrl = System.getenv("SELENIUM_REMOTE_URL");
+	private WebDriver criaWebDriver(ChromeOptions options, String remoteUrl) {
 		if (remoteUrl != null && !remoteUrl.trim().isEmpty()) {
 			try {
 				System.out.println("[INFO] Usando Selenium remoto em: " + remoteUrl);
