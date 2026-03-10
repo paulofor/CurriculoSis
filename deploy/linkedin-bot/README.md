@@ -62,9 +62,9 @@ export LINKEDIN_HEADLESS=true
 docker compose up -d linkedin-bot
 ```
 
-Como o `user-data-dir` fica em volume (`linkedin_chrome_profile`), os cookies/sessão validados continuam para as próximas execuções.
+Como o `user-data-dir` fica na pasta local `./linkedin_chrome_profile` (bind mount), os cookies/sessão validados continuam para as próximas execuções.
 
-> Observação: no modo com `SELENIUM_REMOTE_URL`, use um caminho gravável do container Selenium (ex.: `/home/seluser/chrome-profile`). Evite caminhos como `/data/...`, pois podem gerar erro `cannot create default profile directory` ao iniciar a sessão.
+> Observação: antes de subir os containers, garanta que a pasta `./linkedin_chrome_profile` exista e esteja gravável (ex.: `mkdir -p linkedin_chrome_profile && chmod 777 linkedin_chrome_profile`). No modo com `SELENIUM_REMOTE_URL`, mantenha o caminho interno como `/home/seluser/chrome-profile`; evite caminhos como `/data/...`, que podem gerar erro `cannot create default profile directory` ao iniciar a sessão.
 
 ### Se a tela do noVNC ficar preta (apenas logo do Selenium)
 
