@@ -31,6 +31,10 @@ Configure no repositório (`Settings` → `Secrets and variables` → `Actions`)
 3. Action copia `docker-compose.yml` para `/opt/curriculosis/linkedin-bot` no host.
 4. Action cria/atualiza `.env` no host e executa `docker compose pull && docker compose up -d`.
 
+## Manual enxuto para login manual + retomada automática
+
+Se você quer apenas o passo a passo direto (sem contexto extra), veja: `deploy/linkedin-bot/MANUAL_LOGIN_LINKEDIN.md`.
+
 ## Como o usuário faz o login manual na prática
 
 Para ficar operacional de verdade, use o serviço `selenium` com noVNC (tela no navegador):
