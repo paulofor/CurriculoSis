@@ -1,10 +1,33 @@
-# Manual rápido: login manual no LinkedIn e continuação automática do robô
+# Manual do LinkedInBot: login manual via Selenium e execução automática
 
-Este guia é para o cenário em que o LinkedIn pede intervenção humana (senha, 2FA, captcha ou checkpoint) e, após isso, o robô deve seguir sozinho usando a sessão já salva.
+Este manual explica como usar o **LinkedInBot** quando o LinkedIn exige interação humana (login, 2FA, captcha ou checkpoint).
 
-## 1) Preparar ambiente
+A ideia é simples:
 
-Na pasta `deploy/linkedin-bot`, crie/edite o `.env` com estes valores:
+1. abrir o navegador remoto pelo Selenium (com tela),
+2. fazer o login manualmente,
+3. salvar a sessão no perfil do Chrome,
+4. voltar o bot para modo automático.
+
+## 1) Pré-requisitos
+
+Na pasta `deploy/linkedin-bot`:
+
+- tenha Docker + Docker Compose funcionando;
+- garanta que o arquivo `.env` exista;
+- garanta uma pasta para persistir a sessão do navegador.
+
+```bash
+cd deploy/linkedin-bot
+mkdir -p linkedin_chrome_profile
+chmod 777 linkedin_chrome_profile
+```
+
+> Sem essa pasta, a sessão/cookies não persistem e o bot pode pedir login novamente toda vez.
+
+## 2) Configurar o `.env` para login manual
+
+Use os valores abaixo:
 
 ```env
 LINKEDIN_HEADLESS=false
@@ -14,81 +37,74 @@ LINKEDIN_CHECKPOINT_TIMEOUT_SECONDS=300
 SELENIUM_REMOTE_URL=http://selenium:4444/wd/hub
 ```
 
-Crie a pasta que guarda a sessão do navegador:
-
-```bash
-mkdir -p linkedin_chrome_profile
-chmod 777 linkedin_chrome_profile
-```
-
-> Essa pasta é essencial: nela ficam cookies e sessão do LinkedIn para as próximas execuções.
-
-## 2) Subir modo de login manual
+## 3) Subir os containers em modo manual
 
 ```bash
 docker compose --profile manual-login up -d
 ```
 
-Abra no navegador:
+Abra a tela do Selenium no navegador:
 
 - `http://SEU_HOST:7900`
-- Senha padrão do noVNC (Selenium): `secret`
+- senha padrão do noVNC: `secret`
 
-## 3) Fazer login humano no LinkedIn
+## 4) Fazer o login manual no LinkedIn
 
-Dentro da tela noVNC:
+Na tela do noVNC:
 
-1. Faça login com usuário e senha.
-2. Resolva 2FA, captcha e checkpoint (se aparecer).
-3. Aguarde até chegar na Home/Jobs do LinkedIn.
+1. Faça login com usuário/senha;
+2. Conclua 2FA, captcha e checkpoint (se aparecer);
+3. Aguarde chegar na Home/Jobs do LinkedIn.
 
-Quando chegar nessa tela, a sessão já deve ter sido persistida em `linkedin_chrome_profile`.
+Quando chegar nessa tela, a sessão deve estar salva no diretório `linkedin_chrome_profile`.
 
-## 4) Voltar para execução automática do robô
+## 5) Voltar para execução automática do LinkedInBot
 
-Depois do login manual concluído, rode o bot normalmente (de preferência em headless):
+Depois do login manual, rode o bot em modo automático (headless):
 
 ```bash
 LINKEDIN_HEADLESS=true docker compose up -d linkedin-bot
 ```
 
-Pronto: o robô volta a rodar sozinho usando a sessão autenticada.
+Pronto: o bot continua sozinho usando a sessão já autenticada.
 
-## 5) Conferência rápida (opcional)
+## 6) Validação rápida (opcional)
 
-Ver logs para confirmar inicialização sem bloqueio:
+Ver logs do bot:
 
 ```bash
 docker compose logs -f linkedin-bot
 ```
 
-Se precisar validar que o Selenium está disponível:
+Ver status do Selenium:
 
 ```bash
 curl -s http://localhost:4444/status
 ```
 
-Procure por `"ready": true`.
+No retorno JSON, valide `"ready": true`.
 
 ## Solução de problemas
 
 ### Tela preta no noVNC
 
-Normalmente significa falta de sessão de navegador ativa.
+Geralmente significa que ainda não existe sessão de navegador ativa.
 
 ```bash
 docker compose --profile manual-login down
 docker compose --profile manual-login up -d selenium linkedin-bot
 ```
 
-Depois, reabra `http://SEU_HOST:7900`.
+Depois reabra `http://SEU_HOST:7900`.
 
-### Robô pediu login de novo
+### Bot pediu login de novo
 
-- Verifique se `LINKEDIN_CHROME_USER_DATA_DIR` continua como `/home/seluser/chrome-profile`.
-- Verifique se o volume `./linkedin_chrome_profile:/home/seluser/chrome-profile` está ativo no compose.
-- Repita o fluxo manual quando o LinkedIn invalidar a sessão.
+Confira:
+
+- `LINKEDIN_CHROME_USER_DATA_DIR=/home/seluser/chrome-profile`;
+- volume ativo no compose: `./linkedin_chrome_profile:/home/seluser/chrome-profile`;
+- se o LinkedIn invalidou a sessão, repita o fluxo manual.
 
 ---
 
-**Importante:** este processo não contorna segurança do LinkedIn; ele apenas permite completar manualmente as etapas exigidas e reaproveitar a sessão autenticada.
+**Importante:** este fluxo não contorna segurança do LinkedIn. Ele apenas permite concluir manualmente as etapas obrigatórias e depois reaproveitar a sessão autenticada.
