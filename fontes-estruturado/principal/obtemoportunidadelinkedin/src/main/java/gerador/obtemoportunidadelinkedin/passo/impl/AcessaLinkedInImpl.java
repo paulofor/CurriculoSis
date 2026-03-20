@@ -7,6 +7,8 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.LinkedHashSet;
+import java.util.Set;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -575,78 +577,206 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 	
 	
 	private void adicionaItens(PalavraRaiz palavraRaiz) throws InterruptedException {
-    	List<WebElement> jobs = driver.findElements(By.className("job-card-container__link"));
-    	 for (WebElement job : jobs) {
-         	OportunidadeLinkedin novo = new OportunidadeLinkedin();
-             job.click();
-             TimeUnit.SECONDS.sleep(2);
+		List<WebElement> jobs = obtemListaCardsVagas();
+		for (WebElement job : jobs) {
+			OportunidadeLinkedin novo = new OportunidadeLinkedin();
+			if (!clicaCardVaga(job)) {
+				continue;
+			}
+			TimeUnit.SECONDS.sleep(2);
 
-             try {
-                 WebElement description = driver.findElement(By.id("job-details"));
-                 //System.out.println("Descrição da Vaga:");
-                 System.out.println(description.getText());
-                 novo.setDescricao(description.getText());
-                 //System.out.println("----");
-                 System.out.println();
-                 
-                 // Localiza o elemento <a> pela posição no DOM
-                 WebElement jobLinkElement = driver.findElement(By.xpath("//div[contains(@class, 'job-details-jobs-unified-top-card__job-title')]//h1[@class='t-24 t-bold inline']/a"));
-                 // Extrai o valor do atributo href
-                 String jobLinkUrl = jobLinkElement.getAttribute("href");
-                 String baseUrl = jobLinkUrl.split("\\?")[0];
-                 System.out.println("Job Link URL: " + baseUrl);
-                 
-                 WebElement jobTitleElement = driver.findElement(By.xpath("//div[contains(@class, 'job-details-jobs-unified-top-card__job-title')]//h1[@class='t-24 t-bold inline']/a"));
-                 String jobTitleText = jobTitleElement.getText();
-                 System.out.println("Job Title: " + jobTitleText);
-                 
-                 // Localiza o elemento que contém "Capco" pela posição no DOM
-                 WebElement companyNameElement = driver.findElement(By.xpath("//div[contains(@class, 'job-details-jobs-unified-top-card__company-name')]//a"));
-                 String companyNameText = companyNameElement.getText();
-                 System.out.println("Company Name: " + companyNameText);
-                 
-                 // Localiza o elemento que contém "há 3 dias" pela posição no DOM
-                 WebElement diasElement = driver.findElement(By.xpath("(//div[contains(@class, 'job-details-jobs-unified-top-card__primary-description-container')]//span[@class='tvm__text tvm__text--low-emphasis'])[3]"));
-                 String diasText = diasElement.getText();
-                 System.out.println("Tempo: " + diasText);
+			try {
+				String descricao = obtemDescricaoVaga();
+				String jobTitleText = obtemTextoPrimeiroSeletor(Arrays.asList(
+					By.cssSelector(".job-details-jobs-unified-top-card__job-title h1"),
+					By.cssSelector(".jobs-unified-top-card__job-title h1"),
+					By.cssSelector(".jobs-details-top-card__job-title h1"),
+					By.cssSelector("h1.t-24.t-bold.inline"),
+					By.cssSelector("h1[data-test-job-title]"),
+					By.cssSelector(".job-card-list__title")
+				));
 
-                 // Localiza o elemento que contém "68 candidaturas" pela posição no DOM
-                 String candidaturasText = "0";
-                 try {
-                	 WebElement candidaturasElement = driver.findElement(By.xpath("(//div[contains(@class, 'job-details-jobs-unified-top-card__primary-description-container')]//span[@class='tvm__text tvm__text--low-emphasis'])[5]"));
-                	 candidaturasText = candidaturasElement.getText();
-                 } catch (NoSuchElementException err) {
-                	 System.out.println("Sem candidatoras");
-                 }
-                 
-                 String modelo = "";
-                 try {
-                     WebElement remotoElement = driver.findElement(By.xpath("//li[contains(@class, 'job-details-jobs-unified-top-card__job-insight--highlight')]//span[@aria-hidden='true']"));
-                     modelo = remotoElement.getText();
-                 } catch (NoSuchElementException err) {
-                	 System.out.println("Sem remoto");
-                 }
-                 
-                 System.out.println("Candidaturas: " + candidaturasText);
-                 System.out.println("Modelo: " + modelo);
-                 
-                 novo.setDescricao(description.getText());
-                 novo.setVolume(candidaturasText);
-                 novo.setTempo(diasText);
-                 novo.setTitulo(jobTitleText);
-                 novo.setUrl(baseUrl);
-                 novo.setEmpresa(companyNameText);
-                 novo.setPalavraRaizId("" + palavraRaiz.getIdInteger());
-                 novo.setModelo(modelo);
-                 
-                 
-                 saidaListaOportunidade.add(novo);
-             } catch (Exception e) {
-            	 e.printStackTrace();
-                 System.out.println("Não foi possível extrair a descrição da vaga.");
-             }
-         }
-    }
+				String companyNameText = obtemTextoPrimeiroSeletor(Arrays.asList(
+					By.cssSelector(".job-details-jobs-unified-top-card__company-name a"),
+					By.cssSelector(".jobs-unified-top-card__company-name a"),
+					By.cssSelector(".jobs-details-top-card__company-url"),
+					By.cssSelector(".job-details-jobs-unified-top-card__company-name"),
+					By.cssSelector(".jobs-unified-top-card__company-name"),
+					By.cssSelector(".job-card-container__primary-description")
+				));
+
+				String baseUrl = obtemUrlVagaAtual();
+				List<String> insights = obtemInsightsVaga();
+				String diasText = escolheInsight(insights, Arrays.asList("há ", " ha ", "ago", "dia", "dias", "week", "weeks", "month", "months"));
+				String candidaturasText = escolheInsight(insights, Arrays.asList("candid", "applicant", "candidate"));
+				String modelo = escolheInsight(insights, Arrays.asList("remoto", "remote", "híbrido", "hibrido", "hybrid", "presencial", "on-site", "onsite"));
+
+				if (candidaturasText.isEmpty()) {
+					candidaturasText = "0";
+				}
+
+				System.out.println("Job Link URL: " + baseUrl);
+				System.out.println("Job Title: " + jobTitleText);
+				System.out.println("Company Name: " + companyNameText);
+				System.out.println("Tempo: " + diasText);
+				System.out.println("Candidaturas: " + candidaturasText);
+				System.out.println("Modelo: " + modelo);
+
+				novo.setDescricao(descricao);
+				novo.setVolume(candidaturasText);
+				novo.setTempo(diasText);
+				novo.setTitulo(jobTitleText);
+				novo.setUrl(baseUrl);
+				novo.setEmpresa(companyNameText);
+				novo.setPalavraRaizId("" + palavraRaiz.getIdInteger());
+				novo.setModelo(modelo);
+
+				saidaListaOportunidade.add(novo);
+			} catch (Exception e) {
+				e.printStackTrace();
+				System.out.println("Não foi possível extrair a descrição da vaga.");
+			}
+		}
+	}
+
+	private List<WebElement> obtemListaCardsVagas() {
+		List<By> seletoresCards = Arrays.asList(
+			By.cssSelector(".job-card-container"),
+			By.cssSelector(".jobs-search-results-list__list-item"),
+			By.cssSelector("li.scaffold-layout__list-item")
+		);
+		Set<WebElement> resultado = new LinkedHashSet<WebElement>();
+		for (By seletor : seletoresCards) {
+			try {
+				resultado.addAll(driver.findElements(seletor));
+			} catch (Exception e) {
+				// ignora seletor inválido no layout atual
+			}
+		}
+		return new ArrayList<WebElement>(resultado);
+	}
+
+	private boolean clicaCardVaga(WebElement job) {
+		try {
+			WebElement clicavel = null;
+			List<By> seletoresInternos = Arrays.asList(
+				By.cssSelector("a.job-card-container__link"),
+				By.cssSelector("a.job-card-list__title"),
+				By.cssSelector("a[href*='/jobs/view/']"),
+				By.cssSelector("button")
+			);
+			for (By seletor : seletoresInternos) {
+				try {
+					clicavel = job.findElement(seletor);
+					if (clicavel != null) {
+						break;
+					}
+				} catch (NoSuchElementException e) {
+					// tenta o próximo
+				}
+			}
+			if (clicavel != null) {
+				clicavel.click();
+			} else {
+				job.click();
+			}
+			return true;
+		} catch (Exception e) {
+			System.out.println("[WARN] Não foi possível clicar no card da vaga: " + e.getMessage());
+			return false;
+		}
+	}
+
+	private String obtemDescricaoVaga() {
+		String descricao = obtemTextoPrimeiroSeletor(Arrays.asList(
+			By.id("job-details"),
+			By.cssSelector(".jobs-description__content"),
+			By.cssSelector(".jobs-description-content__text"),
+			By.cssSelector(".jobs-box__html-content"),
+			By.cssSelector(".jobs-description")
+		));
+		System.out.println(descricao);
+		System.out.println();
+		return descricao;
+	}
+
+	private String obtemUrlVagaAtual() {
+		List<By> seletoresLink = Arrays.asList(
+			By.cssSelector(".job-details-jobs-unified-top-card__job-title a"),
+			By.cssSelector(".jobs-unified-top-card__job-title a"),
+			By.cssSelector(".jobs-details-top-card__job-title a"),
+			By.cssSelector("a[data-test-job-title]"),
+			By.cssSelector("a[href*='/jobs/view/']")
+		);
+		for (By seletor : seletoresLink) {
+			try {
+				WebElement jobLinkElement = driver.findElement(seletor);
+				String jobLinkUrl = valorSeguro(jobLinkElement.getAttribute("href"));
+				if (!jobLinkUrl.isEmpty()) {
+					return jobLinkUrl.split("\\?")[0];
+				}
+			} catch (NoSuchElementException e) {
+				// tenta próximo seletor
+			}
+		}
+		String currentUrl = valorSeguro(driver.getCurrentUrl());
+		Matcher matcher = Pattern.compile("/jobs/view/(\\d+)").matcher(currentUrl);
+		if (matcher.find()) {
+			return "https://www.linkedin.com/jobs/view/" + matcher.group(1);
+		}
+		return currentUrl;
+	}
+
+	private List<String> obtemInsightsVaga() {
+		List<String> insights = new ArrayList<String>();
+		List<By> seletoresInsights = Arrays.asList(
+			By.cssSelector(".job-details-jobs-unified-top-card__primary-description-container .tvm__text"),
+			By.cssSelector(".jobs-unified-top-card__primary-description-container .tvm__text"),
+			By.cssSelector(".jobs-details-top-card__primary-description-container .tvm__text"),
+			By.cssSelector(".job-details-jobs-unified-top-card__job-insight"),
+			By.cssSelector(".jobs-unified-top-card__job-insight")
+		);
+		for (By seletor : seletoresInsights) {
+			try {
+				for (WebElement item : driver.findElements(seletor)) {
+					String texto = valorSeguro(item.getText());
+					if (!texto.isEmpty() && !insights.contains(texto)) {
+						insights.add(texto);
+					}
+				}
+			} catch (Exception e) {
+				// ignora e segue com os demais seletores
+			}
+		}
+		return insights;
+	}
+
+	private String escolheInsight(List<String> insights, List<String> termos) {
+		for (String item : insights) {
+			String normalized = item.toLowerCase(Locale.ROOT);
+			for (String termo : termos) {
+				if (normalized.contains(termo)) {
+					return item;
+				}
+			}
+		}
+		return "";
+	}
+
+	private String obtemTextoPrimeiroSeletor(List<By> seletores) {
+		for (By seletor : seletores) {
+			try {
+				WebElement elemento = driver.findElement(seletor);
+				String texto = valorSeguro(elemento.getText());
+				if (!texto.isEmpty()) {
+					return texto;
+				}
+			} catch (NoSuchElementException e) {
+				// tenta próximo seletor
+			}
+		}
+		return "";
+	}
 
 
 }
