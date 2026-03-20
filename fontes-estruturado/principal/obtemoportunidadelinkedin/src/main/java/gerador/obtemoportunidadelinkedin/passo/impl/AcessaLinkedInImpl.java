@@ -443,15 +443,6 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		if (options == null) {
 			return false;
 		}
-		List<String> argumentos = options.getArguments();
-		if (argumentos == null || argumentos.isEmpty()) {
-			return false;
-		}
-		for (String argumento : argumentos) {
-			if (argumento != null && argumento.startsWith("--user-data-dir=")) {
-				return true;
-			}
-		}
 		Object googOptions = options.asMap().get("goog:chromeOptions");
 		if (!(googOptions instanceof Map<?, ?>)) {
 			return false;
