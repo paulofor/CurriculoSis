@@ -8,6 +8,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.LinkedHashSet;
+import java.util.Map;
 import java.util.Set;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
@@ -16,6 +17,7 @@ import java.nio.file.Paths;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Locale;
+import java.time.Instant;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -369,12 +371,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 
 	private WebDriver criaWebDriver(ChromeOptions options, String remoteUrl) {
 		if (remoteUrl != null && !remoteUrl.trim().isEmpty()) {
-			try {
-				System.out.println("[INFO] Usando Selenium remoto em: " + remoteUrl);
-				return new RemoteWebDriver(new URL(remoteUrl), options);
-			} catch (Exception e) {
-				throw new RuntimeException("Nao foi possivel conectar ao Selenium remoto em '" + remoteUrl + "'.", e);
-			}
+			return criaWebDriverRemotoComFallback(options, remoteUrl);
 		}
 
 		String chromeDriverPath = obtemChromeDriverPath();
@@ -416,6 +413,59 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 			}
 			throw e;
 		}
+	}
+
+	private WebDriver criaWebDriverRemotoComFallback(ChromeOptions options, String remoteUrl) {
+		try {
+			System.out.println("[INFO] Usando Selenium remoto em: " + remoteUrl);
+			return new RemoteWebDriver(new URL(remoteUrl), options);
+		} catch (Exception primeiraFalha) {
+			if (!deveTentarFallbackPerfilRemoto(options)) {
+				throw new RuntimeException("Nao foi possivel conectar ao Selenium remoto em '" + remoteUrl + "'.", primeiraFalha);
+			}
+			String perfilTemporario = "/tmp/linkedin-profile-" + Instant.now().toEpochMilli();
+			ChromeOptions fallbackOptions = new ChromeOptions();
+			fallbackOptions.merge(options);
+			fallbackOptions.addArguments("--user-data-dir=" + perfilTemporario);
+			fallbackOptions.addArguments("--profile-directory=Default");
+			System.out.println("[WARN] Falha ao iniciar sessao remota com perfil persistente. "
+					+ "Tentando profile temporario para evitar lock de sessao: " + perfilTemporario);
+			try {
+				return new RemoteWebDriver(new URL(remoteUrl), fallbackOptions);
+			} catch (Exception fallbackFalha) {
+				throw new RuntimeException("Nao foi possivel conectar ao Selenium remoto em '" + remoteUrl
+						+ "' nem com fallback de profile temporario.", fallbackFalha);
+			}
+		}
+	}
+
+	private boolean deveTentarFallbackPerfilRemoto(ChromeOptions options) {
+		if (options == null) {
+			return false;
+		}
+		List<String> argumentos = options.getArguments();
+		if (argumentos == null || argumentos.isEmpty()) {
+			return false;
+		}
+		for (String argumento : argumentos) {
+			if (argumento != null && argumento.startsWith("--user-data-dir=")) {
+				return true;
+			}
+		}
+		Object googOptions = options.asMap().get("goog:chromeOptions");
+		if (!(googOptions instanceof Map<?, ?>)) {
+			return false;
+		}
+		Object args = ((Map<?, ?>) googOptions).get("args");
+		if (!(args instanceof List<?>)) {
+			return false;
+		}
+		for (Object item : (List<?>) args) {
+			if (item instanceof String && ((String) item).startsWith("--user-data-dir=")) {
+				return true;
+			}
+		}
+		return false;
 	}
 
 	private void configuraWebDriverManagerComVersaoDoNavegador() {
