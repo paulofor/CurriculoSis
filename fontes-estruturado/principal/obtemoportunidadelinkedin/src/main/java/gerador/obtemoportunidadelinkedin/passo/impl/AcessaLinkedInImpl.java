@@ -95,16 +95,21 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             driver.get("https://www.linkedin.com/login");
             logEstadoPagina("apos abrir login");
 
-            // Fazer login
-            WebElement emailField = driver.findElement(By.id("username"));
-            String linkedinUser = obtemTextoEnvObrigatorio("LINKEDIN_USER");
-            emailField.sendKeys(linkedinUser);
+			boolean loginManual = obtemBooleanEnv("LINKEDIN_MANUAL_LOGIN", false);
+			if (loginManual) {
+				aguardaLoginManual();
+			} else {
+				// Fazer login por credenciais
+				WebElement emailField = driver.findElement(By.id("username"));
+				String linkedinUser = obtemTextoEnvObrigatorio("LINKEDIN_USER");
+				emailField.sendKeys(linkedinUser);
 
-            WebElement passwordField = driver.findElement(By.id("password"));
-            String linkedinPassword = obtemTextoEnvObrigatorio("LINKEDIN_PASSWORD");
-            passwordField.sendKeys(linkedinPassword);
-            passwordField.sendKeys(Keys.RETURN);
-            logEstadoPagina("apos enviar credenciais");
+				WebElement passwordField = driver.findElement(By.id("password"));
+				String linkedinPassword = obtemTextoEnvObrigatorio("LINKEDIN_PASSWORD");
+				passwordField.sendKeys(linkedinPassword);
+				passwordField.sendKeys(Keys.RETURN);
+				logEstadoPagina("apos enviar credenciais");
+			}
 			garanteLoginSemCheckpoint();
 
             // Esperar até que a página principal seja carregada
@@ -158,6 +163,34 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             driver.quit();
         }
         
+	}
+
+	private void aguardaLoginManual() throws InterruptedException {
+		int timeoutSegundos = obtemInteiroEnv("LINKEDIN_MANUAL_LOGIN_TIMEOUT_SECONDS", 240);
+		long fimEspera = System.currentTimeMillis() + TimeUnit.SECONDS.toMillis(timeoutSegundos);
+		System.out.println("[INFO] LINKEDIN_MANUAL_LOGIN=true. Realize o login manualmente na janela do Selenium.");
+		while (System.currentTimeMillis() <= fimEspera) {
+			if (loginConcluido()) {
+				logEstadoPagina("login manual concluido");
+				return;
+			}
+			long faltam = Math.max(0, (fimEspera - System.currentTimeMillis()) / 1000);
+			System.out.println("[INFO] Aguardando login manual. Tempo restante: " + faltam + "s.");
+			TimeUnit.SECONDS.sleep(5);
+		}
+		throw new IllegalStateException("Tempo esgotado aguardando login manual no LinkedIn. Aumente LINKEDIN_MANUAL_LOGIN_TIMEOUT_SECONDS ou conclua o login mais rapido.");
+	}
+
+	private boolean loginConcluido() {
+		try {
+			String currentUrl = valorSeguro(driver.getCurrentUrl()).toLowerCase(Locale.ROOT);
+			if (currentUrl.contains("/feed") || currentUrl.contains("/jobs") || currentUrl.contains("/mynetwork")) {
+				return true;
+			}
+			return !driver.findElements(By.id("username")).isEmpty() ? false : true;
+		} catch (Exception e) {
+			return false;
+		}
 	}
 
 	private WebElement aguardaCampoBuscaPalavraChave() {
