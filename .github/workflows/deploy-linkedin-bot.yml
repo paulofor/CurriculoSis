@@ -105,6 +105,7 @@ jobs:
           username: ${{ secrets.DEPLOY_SSH_USER }}
           key: ${{ secrets.DEPLOY_SSH_KEY }}
           port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
+          timeout: 5m
           command_timeout: 90m
           envs: IMAGE_TAG,LOOPBACK_URL,LINKEDIN_USER,LINKEDIN_PASSWORD,DEPLOY_PATH,GHCR_USER,GHCR_TOKEN
           script: |
@@ -130,6 +131,23 @@ jobs:
             echo "$GHCR_TOKEN" | docker login ghcr.io -u "$GHCR_USER" --password-stdin
             # Avoid full prune before deploy: it removes cached Selenium layers (~1GB+) and causes slow re-pulls.
             docker image prune -f || true
-            docker compose --env-file .env -f docker-compose.yml --profile manual-login pull linkedin-bot
-            docker compose --env-file .env -f docker-compose.yml --profile manual-login up -d --remove-orphans selenium linkedin-bot
+            docker compose --env-file .env -f docker-compose.yml --profile manual-login pull -q linkedin-bot
+
+            if ! docker image inspect selenium/standalone-chrome:latest >/dev/null 2>&1; then
+              echo "Selenium image not found locally; pulling once with retry..."
+              for attempt in 1 2 3; do
+                if docker pull -q selenium/standalone-chrome:latest; then
+                  break
+                fi
+                if [ "$attempt" -eq 3 ]; then
+                  echo "Failed to pull selenium/standalone-chrome:latest after 3 attempts" >&2
+                  exit 1
+                fi
+                sleep 10
+              done
+            else
+              echo "Using cached selenium/standalone-chrome:latest image"
+            fi
+
+            docker compose --env-file .env -f docker-compose.yml --profile manual-login up -d --remove-orphans --pull never selenium linkedin-bot
             docker image prune -f
