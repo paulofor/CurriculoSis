@@ -128,6 +128,6 @@ jobs:
             cd "$DEPLOY_PATH"
             echo "$GHCR_TOKEN" | docker login ghcr.io -u "$GHCR_USER" --password-stdin
             docker system prune -af || true
-            docker compose --env-file .env -f docker-compose.yml pull
-            docker compose --env-file .env -f docker-compose.yml up -d --remove-orphans
+            docker compose --env-file .env -f docker-compose.yml --profile manual-login pull
+            docker compose --env-file .env -f docker-compose.yml --profile manual-login up -d --remove-orphans selenium linkedin-bot
             docker image prune -f
