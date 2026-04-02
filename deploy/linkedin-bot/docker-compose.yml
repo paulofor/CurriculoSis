@@ -21,7 +21,7 @@ services:
       - ./linkedin_chrome_profile:/home/seluser/chrome-profile
 
   selenium:
-    image: selenium/standalone-chrome:latest
+    image: ${SELENIUM_IMAGE:-selenium/standalone-chrome:4.21.0}
     container_name: curriculosis-selenium
     restart: unless-stopped
     profiles:

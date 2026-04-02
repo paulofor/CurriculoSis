@@ -105,7 +105,8 @@ jobs:
           username: ${{ secrets.DEPLOY_SSH_USER }}
           key: ${{ secrets.DEPLOY_SSH_KEY }}
           port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
-          command_timeout: 90m
+          timeout: 5m
+          command_timeout: 120m
           envs: IMAGE_TAG,LOOPBACK_URL,LINKEDIN_USER,LINKEDIN_PASSWORD,DEPLOY_PATH,GHCR_USER,GHCR_TOKEN
           script: |
             set -e
@@ -120,6 +121,7 @@ jobs:
             LINKEDIN_CHROME_USER_DATA_DIR=/home/seluser/chrome-profile
             LINKEDIN_CHROME_PROFILE=Default
             LINKEDIN_CHECKPOINT_TIMEOUT_SECONDS=300
+            SELENIUM_IMAGE=selenium/standalone-chrome:4.21.0
             SELENIUM_REMOTE_URL=http://selenium:4444/wd/hub
             ENVFILE
 
@@ -128,8 +130,29 @@ jobs:
 
             cd "$DEPLOY_PATH"
             echo "$GHCR_TOKEN" | docker login ghcr.io -u "$GHCR_USER" --password-stdin
-            # Avoid full prune before deploy: it removes cached Selenium layers (~1GB+) and causes slow re-pulls.
+            retry() {
+              local attempt=1
+              local max_attempts=3
+              local wait_seconds=15
+              until "$@"; do
+                if [ "$attempt" -ge "$max_attempts" ]; then
+                  echo "Command failed after $max_attempts attempts: $*"
+                  return 1
+                fi
+                echo "Attempt $attempt failed for: $*"
+                attempt=$((attempt + 1))
+                sleep "$wait_seconds"
+              done
+            }
+
+            # Keep cached layers to avoid pulling large Selenium images on each deploy.
             docker image prune -f || true
-            docker compose --env-file .env -f docker-compose.yml --profile manual-login pull linkedin-bot
-            docker compose --env-file .env -f docker-compose.yml --profile manual-login up -d --remove-orphans selenium linkedin-bot
+
+            retry docker compose --env-file .env -f docker-compose.yml --profile manual-login pull -q linkedin-bot
+
+            if ! docker image inspect "${SELENIUM_IMAGE}" >/dev/null 2>&1; then
+              retry docker pull -q "${SELENIUM_IMAGE}"
+            fi
+
+            docker compose --env-file .env -f docker-compose.yml --profile manual-login up -d --remove-orphans --pull never selenium linkedin-bot
             docker image prune -f
