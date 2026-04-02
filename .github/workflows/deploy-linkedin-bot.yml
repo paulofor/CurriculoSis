@@ -129,6 +129,10 @@ jobs:
             chmod 777 "$DEPLOY_PATH/linkedin_chrome_profile"
 
             cd "$DEPLOY_PATH"
+            set -a
+            . ./.env
+            set +a
+
             echo "$GHCR_TOKEN" | docker login ghcr.io -u "$GHCR_USER" --password-stdin
             retry() {
               local attempt=1
