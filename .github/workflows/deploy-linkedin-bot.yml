@@ -105,7 +105,7 @@ jobs:
           username: ${{ secrets.DEPLOY_SSH_USER }}
           key: ${{ secrets.DEPLOY_SSH_KEY }}
           port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
-          command_timeout: 30m
+          command_timeout: 90m
           envs: IMAGE_TAG,LOOPBACK_URL,LINKEDIN_USER,LINKEDIN_PASSWORD,DEPLOY_PATH,GHCR_USER,GHCR_TOKEN
           script: |
             set -e
@@ -128,7 +128,8 @@ jobs:
 
             cd "$DEPLOY_PATH"
             echo "$GHCR_TOKEN" | docker login ghcr.io -u "$GHCR_USER" --password-stdin
-            docker system prune -af || true
-            docker compose --env-file .env -f docker-compose.yml --profile manual-login pull
+            # Avoid full prune before deploy: it removes cached Selenium layers (~1GB+) and causes slow re-pulls.
+            docker image prune -f || true
+            docker compose --env-file .env -f docker-compose.yml --profile manual-login pull linkedin-bot
             docker compose --env-file .env -f docker-compose.yml --profile manual-login up -d --remove-orphans selenium linkedin-bot
             docker image prune -f
