@@ -103,7 +103,6 @@ jobs:
           port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
           source: dist/linkedin-bot/linkedin-bot.jar
           target: ${{ env.DEPLOY_PATH }}
-          strip_components: 3
 
       - name: Deploy on host
         uses: appleboy/ssh-action@v1.0.3
@@ -129,12 +128,27 @@ jobs:
             ENVFILE
 
             cd "$DEPLOY_PATH"
-            JAR_PATH="$(find "$DEPLOY_PATH" -maxdepth 5 -type f -name 'linkedin-bot.jar' | head -n 1)"
+
+            JAR_PATH=""
+            for candidate in \
+              "$DEPLOY_PATH/linkedin-bot.jar" \
+              "$DEPLOY_PATH/dist/linkedin-bot/linkedin-bot.jar" \
+              "$DEPLOY_PATH/linkedin-bot/linkedin-bot.jar"; do
+              if [ -f "$candidate" ]; then
+                JAR_PATH="$candidate"
+                break
+              fi
+            done
+
             if [ -z "$JAR_PATH" ]; then
               echo "Arquivo linkedin-bot.jar não encontrado em $DEPLOY_PATH"
-              find "$DEPLOY_PATH" -maxdepth 5 -type f | sed "s|^| - |"
+              echo "Arquivos de topo em $DEPLOY_PATH para diagnóstico rápido:"
+              find "$DEPLOY_PATH" -maxdepth 2 -type f | sed "s|^| - |"
               exit 1
             fi
 
-            cp "$JAR_PATH" "$DEPLOY_PATH/linkedin-bot.jar"
+            if [ "$JAR_PATH" != "$DEPLOY_PATH/linkedin-bot.jar" ]; then
+              cp "$JAR_PATH" "$DEPLOY_PATH/linkedin-bot.jar"
+            fi
+
             echo "JAR implantado em $DEPLOY_PATH/linkedin-bot.jar. Execução automática desativada."
