@@ -79,6 +79,27 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Validate SSH authentication
+        env:
+          SSH_HOST: ${{ env.DEPLOY_HOST }}
+          SSH_USER: ${{ secrets.DEPLOY_SSH_USER }}
+          SSH_PORT: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
+          SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+        run: |
+          set -euo pipefail
+
+          mkdir -p ~/.ssh
+          printf "%s\n" "$SSH_KEY" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+
+          ssh-keyscan -p "$SSH_PORT" -H "$SSH_HOST" >> ~/.ssh/known_hosts
+          ssh -i ~/.ssh/deploy_key \
+            -o BatchMode=yes \
+            -o StrictHostKeyChecking=yes \
+            -p "$SSH_PORT" \
+            "$SSH_USER@$SSH_HOST" \
+            "echo 'SSH authentication succeeded'"
+
       - name: Upload deploy assets
         uses: appleboy/scp-action@v0.1.7
         with:
