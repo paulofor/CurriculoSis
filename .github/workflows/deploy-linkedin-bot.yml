@@ -44,22 +44,19 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: Build LinkedIn bot artifacts
+      - name: Build LinkedIn bot JAR
         run: |
           set -euo pipefail
-          mvn -f fontes-estruturado/principal/pom.xml -pl obtemoportunidadelinkedin -am -DskipTests clean install
-          mvn -f fontes-estruturado/principal/obtemoportunidadelinkedin/pom.xml -DskipTests dependency:copy-dependencies -DincludeScope=runtime
+          mvn -f fontes-estruturado/principal/pom.xml -pl obtemoportunidadelinkedin -am -DskipTests clean package
 
-          mkdir -p dist/linkedin-bot/libs
-          cp fontes-estruturado/principal/obtemoportunidadelinkedin/target/obtemoportunidadelinkedin-1.0.0.jar dist/linkedin-bot/app.jar
-          cp -r fontes-estruturado/principal/obtemoportunidadelinkedin/target/dependency/. dist/linkedin-bot/libs/
-          tar -C dist/linkedin-bot -czf dist/linkedin-bot/linkedin-bot-bundle.tar.gz app.jar libs
+          mkdir -p dist/linkedin-bot
+          cp fontes-estruturado/principal/obtemoportunidadelinkedin/target/linkedin-bot.jar dist/linkedin-bot/linkedin-bot.jar
 
-      - name: Upload deploy bundle
+      - name: Upload JAR for deploy
         uses: actions/upload-artifact@v4
         with:
-          name: linkedin-bot-bundle
-          path: dist/linkedin-bot/linkedin-bot-bundle.tar.gz
+          name: linkedin-bot-jar
+          path: dist/linkedin-bot/linkedin-bot.jar
           if-no-files-found: error
 
   deploy:
@@ -70,10 +67,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download deploy bundle
+      - name: Download JAR
         uses: actions/download-artifact@v4
         with:
-          name: linkedin-bot-bundle
+          name: linkedin-bot-jar
           path: dist/linkedin-bot
 
       - name: Validate SSH authentication
@@ -104,7 +101,7 @@ jobs:
           username: ${{ secrets.DEPLOY_SSH_USER }}
           key: ${{ secrets.DEPLOY_SSH_KEY }}
           port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
-          source: dist/linkedin-bot/linkedin-bot-bundle.tar.gz
+          source: dist/linkedin-bot/linkedin-bot.jar
           target: ${{ env.DEPLOY_PATH }}
           strip_components: 3
 
@@ -132,13 +129,12 @@ jobs:
             ENVFILE
 
             cd "$DEPLOY_PATH"
-            BUNDLE_PATH="$(find "$DEPLOY_PATH" -maxdepth 5 -type f -name 'linkedin-bot-bundle.tar.gz' | head -n 1)"
-            if [ -z "$BUNDLE_PATH" ]; then
-              echo "Arquivo linkedin-bot-bundle.tar.gz não encontrado em $DEPLOY_PATH"
+            JAR_PATH="$(find "$DEPLOY_PATH" -maxdepth 5 -type f -name 'linkedin-bot.jar' | head -n 1)"
+            if [ -z "$JAR_PATH" ]; then
+              echo "Arquivo linkedin-bot.jar não encontrado em $DEPLOY_PATH"
               find "$DEPLOY_PATH" -maxdepth 5 -type f | sed "s|^| - |"
               exit 1
             fi
 
-            tar -xzf "$BUNDLE_PATH" -C "$DEPLOY_PATH"
-            rm -f "$BUNDLE_PATH"
-            echo "Bundle implantado em $DEPLOY_PATH. Execução automática do JAR desativada."
+            cp "$JAR_PATH" "$DEPLOY_PATH/linkedin-bot.jar"
+            echo "JAR implantado em $DEPLOY_PATH/linkedin-bot.jar. Execução automática desativada."
