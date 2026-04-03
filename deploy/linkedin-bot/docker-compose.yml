@@ -7,9 +7,9 @@ services:
     container_name: curriculosis-linkedin-bot
     restart: unless-stopped
     environment:
-      LOOPBACK_URL: ${LOOPBACK_URL}
-      LINKEDIN_USER: ${LINKEDIN_USER}
-      LINKEDIN_PASSWORD: ${LINKEDIN_PASSWORD}
+      LOOPBACK_URL: ${LOOPBACK_URL:-}
+      LINKEDIN_USER: ${LINKEDIN_USER:-}
+      LINKEDIN_PASSWORD: ${LINKEDIN_PASSWORD:-}
       LINKEDIN_HEADLESS: ${LINKEDIN_HEADLESS:-true}
       LINKEDIN_CHROME_USER_DATA_DIR: ${LINKEDIN_CHROME_USER_DATA_DIR:-/home/seluser/chrome-profile}
       LINKEDIN_CHROME_PROFILE: ${LINKEDIN_CHROME_PROFILE:-Default}

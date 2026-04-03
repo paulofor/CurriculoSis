@@ -46,6 +46,8 @@ LINKEDIN_PASSWORD=sua_senha
 /opt/curriculosis/linkedin-bot/start-linkedin-bot.sh
 ```
 
+> O script já tenta usar `sudo docker` automaticamente quando necessário e cria um `.env` padrão caso ele não exista.
+
 ## 4) Validar execução
 
 ```bash
