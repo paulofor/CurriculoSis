@@ -13,7 +13,7 @@ on:
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: curriculosis-linkedin-bot
-  DEPLOY_HOST: 191.252.210.83
+  DEPLOY_HOST: interface4g.vps-kinghost.net
   DEPLOY_PATH: curriculosis/linkedin-bot
 
 jobs:
