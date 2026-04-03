@@ -4,7 +4,7 @@
     "connector": "memory"
   },
   "mysqlDS": {
-    "host": "d555d.vps-kinghost.net",
+    "host": "interface4g.vps-kinghost.net",
     "port": 3306,
     "database": "curriculodb",
     "password": "Curr!cu7o",
