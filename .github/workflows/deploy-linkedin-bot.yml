@@ -128,23 +128,10 @@ jobs:
 
             cat > "$DEPLOY_PATH/.env" <<ENVFILE
             LOOPBACK_URL=$LOOPBACK_URL
-            JAVA_OPTS=${JAVA_OPTS:--Xms256m -Xmx1024m}
+            JAVA_OPTS="${JAVA_OPTS:--Xms256m -Xmx1024m}"
             ENVFILE
 
             cd "$DEPLOY_PATH"
-            set -a
-            . ./.env
-            set +a
-
             tar -xzf linkedin-bot-bundle.tar.gz
             rm -f linkedin-bot-bundle.tar.gz
-
-            mkdir -p logs run
-            if [ -f run/linkedin-bot.pid ] && ps -p "$(cat run/linkedin-bot.pid)" >/dev/null 2>&1; then
-              kill "$(cat run/linkedin-bot.pid)" || true
-              sleep 2
-            fi
-
-            nohup java $JAVA_OPTS -cp "app.jar:libs/*" gerador.obtemoportunidadelinkedin.app.ObtemOportunidadeLinkedin >> logs/linkedin-bot.log 2>&1 &
-            echo $! > run/linkedin-bot.pid
-            echo "LinkedIn bot iniciado com PID $(cat run/linkedin-bot.pid)"
+            echo "Bundle implantado em $DEPLOY_PATH. Execução automática do JAR desativada."
