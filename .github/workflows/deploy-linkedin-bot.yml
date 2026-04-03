@@ -11,19 +11,14 @@ on:
   workflow_dispatch:
 
 env:
-  REGISTRY: ghcr.io
-  IMAGE_NAME: curriculosis-linkedin-bot
   DEPLOY_HOST: interface4g.vps-kinghost.net
   DEPLOY_PATH: /opt/curriculosis/linkedin-bot
 
 jobs:
-  build-and-push:
+  build-and-publish-jar:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      packages: write
-    outputs:
-      image_tag: ${{ steps.meta.outputs.image_tag }}
 
     steps:
       - name: Checkout
@@ -43,41 +38,43 @@ jobs:
           echo "Disk after cleanup"
           df -h
 
-      - name: Prepare image metadata
-        id: meta
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Build LinkedIn bot artifacts
         run: |
-          IMAGE_REPO="${{ env.REGISTRY }}/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}"
-          IMAGE_TAG="${IMAGE_REPO}:${GITHUB_SHA}"
-          echo "image_tag=${IMAGE_TAG}" >> "$GITHUB_OUTPUT"
-          echo "image_repo=${IMAGE_REPO}" >> "$GITHUB_OUTPUT"
+          set -euo pipefail
+          mvn -f fontes-estruturado/principal/pom.xml -pl obtemoportunidadelinkedin -am -DskipTests clean install
+          mvn -f fontes-estruturado/principal/obtemoportunidadelinkedin/pom.xml -DskipTests dependency:copy-dependencies -DincludeScope=runtime
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
+          mkdir -p dist/linkedin-bot/libs
+          cp fontes-estruturado/principal/obtemoportunidadelinkedin/target/obtemoportunidadelinkedin-1.0.0.jar dist/linkedin-bot/app.jar
+          cp -r fontes-estruturado/principal/obtemoportunidadelinkedin/target/dependency/. dist/linkedin-bot/libs/
+          tar -C dist/linkedin-bot -czf dist/linkedin-bot/linkedin-bot-bundle.tar.gz app.jar libs
 
-      - name: Login to GHCR
-        uses: docker/login-action@v3
+      - name: Upload deploy bundle
+        uses: actions/upload-artifact@v4
         with:
-          registry: ${{ env.REGISTRY }}
-          username: ${{ github.actor }}
-          password: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Build and push image
-        uses: docker/build-push-action@v6
-        with:
-          context: .
-          file: deploy/linkedin-bot/Dockerfile
-          push: true
-          tags: |
-            ${{ steps.meta.outputs.image_tag }}
-            ${{ steps.meta.outputs.image_repo }}:latest
+          name: linkedin-bot-bundle
+          path: dist/linkedin-bot/linkedin-bot-bundle.tar.gz
+          if-no-files-found: error
 
   deploy:
     runs-on: ubuntu-latest
-    needs: build-and-push
+    needs: build-and-publish-jar
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Download deploy bundle
+        uses: actions/download-artifact@v4
+        with:
+          name: linkedin-bot-bundle
+          path: dist/linkedin-bot
 
       - name: Validate SSH authentication
         env:
@@ -107,18 +104,16 @@ jobs:
           username: ${{ secrets.DEPLOY_SSH_USER }}
           key: ${{ secrets.DEPLOY_SSH_KEY }}
           port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
-          source: deploy/linkedin-bot/docker-compose.yml,deploy/linkedin-bot/start-linkedin-bot.sh
+          source: dist/linkedin-bot/linkedin-bot-bundle.tar.gz
           target: ${{ env.DEPLOY_PATH }}
-          strip_components: 2
+          strip_components: 3
 
       - name: Deploy on host
         uses: appleboy/ssh-action@v1.0.3
         env:
-          IMAGE_TAG: ${{ needs.build-and-push.outputs.image_tag }}
           LOOPBACK_URL: ${{ secrets.LOOPBACK_URL }}
           DEPLOY_PATH: ${{ env.DEPLOY_PATH }}
-          GHCR_USER: ${{ github.actor }}
-          GHCR_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          JAVA_OPTS: ${{ secrets.LINKEDIN_BOT_JAVA_OPTS }}
         with:
           host: ${{ env.DEPLOY_HOST }}
           username: ${{ secrets.DEPLOY_SSH_USER }}
@@ -126,47 +121,30 @@ jobs:
           port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
           timeout: 5m
           command_timeout: 120m
-          envs: IMAGE_TAG,LOOPBACK_URL,DEPLOY_PATH,GHCR_USER,GHCR_TOKEN
+          envs: LOOPBACK_URL,DEPLOY_PATH,JAVA_OPTS
           script: |
             set -e
             mkdir -p "$DEPLOY_PATH"
-            chmod +x "$DEPLOY_PATH/start-linkedin-bot.sh" || true
 
             cat > "$DEPLOY_PATH/.env" <<ENVFILE
-            LINKEDIN_BOT_IMAGE=$IMAGE_TAG
             LOOPBACK_URL=$LOOPBACK_URL
-            LINKEDIN_HEADLESS=true
-            LINKEDIN_CHROME_USER_DATA_DIR=/home/seluser/chrome-profile
-            LINKEDIN_CHROME_PROFILE=Default
-            LINKEDIN_CHECKPOINT_TIMEOUT_SECONDS=300
+            JAVA_OPTS=${JAVA_OPTS:--Xms256m -Xmx1024m}
             ENVFILE
-
-            mkdir -p "$DEPLOY_PATH/linkedin_chrome_profile"
-            chmod 777 "$DEPLOY_PATH/linkedin_chrome_profile"
 
             cd "$DEPLOY_PATH"
             set -a
             . ./.env
             set +a
 
-            echo "$GHCR_TOKEN" | docker login ghcr.io -u "$GHCR_USER" --password-stdin
-            retry() {
-              local attempt=1
-              local max_attempts=3
-              local wait_seconds=15
-              until "$@"; do
-                if [ "$attempt" -ge "$max_attempts" ]; then
-                  echo "Command failed after $max_attempts attempts: $*"
-                  return 1
-                fi
-                echo "Attempt $attempt failed for: $*"
-                attempt=$((attempt + 1))
-                sleep "$wait_seconds"
-              done
-            }
+            tar -xzf linkedin-bot-bundle.tar.gz
+            rm -f linkedin-bot-bundle.tar.gz
 
-            docker image prune -f || true
+            mkdir -p logs run
+            if [ -f run/linkedin-bot.pid ] && ps -p "$(cat run/linkedin-bot.pid)" >/dev/null 2>&1; then
+              kill "$(cat run/linkedin-bot.pid)" || true
+              sleep 2
+            fi
 
-            retry docker compose --env-file .env -f docker-compose.yml pull -q linkedin-bot
-            docker compose --env-file .env -f docker-compose.yml up -d --remove-orphans --pull never linkedin-bot
-            docker image prune -f
+            nohup java $JAVA_OPTS -cp "app.jar:libs/*" gerador.obtemoportunidadelinkedin.app.ObtemOportunidadeLinkedin >> logs/linkedin-bot.log 2>&1 &
+            echo $! > run/linkedin-bot.pid
+            echo "LinkedIn bot iniciado com PID $(cat run/linkedin-bot.pid)"
