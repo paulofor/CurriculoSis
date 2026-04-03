@@ -132,6 +132,13 @@ jobs:
             ENVFILE
 
             cd "$DEPLOY_PATH"
-            tar -xzf linkedin-bot-bundle.tar.gz
-            rm -f linkedin-bot-bundle.tar.gz
+            BUNDLE_PATH="$(find "$DEPLOY_PATH" -maxdepth 5 -type f -name 'linkedin-bot-bundle.tar.gz' | head -n 1)"
+            if [ -z "$BUNDLE_PATH" ]; then
+              echo "Arquivo linkedin-bot-bundle.tar.gz não encontrado em $DEPLOY_PATH"
+              find "$DEPLOY_PATH" -maxdepth 5 -type f | sed "s|^| - |"
+              exit 1
+            fi
+
+            tar -xzf "$BUNDLE_PATH" -C "$DEPLOY_PATH"
+            rm -f "$BUNDLE_PATH"
             echo "Bundle implantado em $DEPLOY_PATH. Execução automática do JAR desativada."
