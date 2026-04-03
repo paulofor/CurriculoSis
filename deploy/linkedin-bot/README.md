@@ -161,3 +161,27 @@ git push -u origin work
 
 Se o teste `ssh -T git@github.com` funcionar mas o push ainda falhar com `403`, sua conta não tem permissão no repo.
 Nesse caso, peça acesso de escrita ao repositório `paulofor/CurriculoSis` ou trabalhe via fork.
+
+## Execução local (sem Docker) com correção automática de ChromeDriver
+
+Para ambientes Linux em que o bot roda direto com `java -jar`, use:
+
+```bash
+/opt/curriculosis/linkedin-bot/run-linkedin-bot-local.sh
+```
+
+Esse script:
+
+- detecta a versão do `google-chrome` instalada;
+- baixa o `chromedriver` da **mesma versão exata**;
+- limpa cache antigo do WebDriverManager;
+- inicia o JAR com `-Dwdm.chromeDriverVersion` e `-Dwebdriver.chrome.driver` já configurados.
+
+Você pode sobrescrever caminhos, se precisar:
+
+```bash
+JAR_PATH=/opt/curriculosis/linkedin-bot/ObtemOportunidadeLinkedin.jar \
+CHROME_BIN=/usr/bin/google-chrome \
+DRIVER_PATH=/usr/local/bin/chromedriver \
+/opt/curriculosis/linkedin-bot/run-linkedin-bot-local.sh
+```
