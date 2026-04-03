@@ -13,7 +13,7 @@ on:
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: curriculosis-linkedin-bot
-  DEPLOY_HOST: 64.23.136.252
+  DEPLOY_HOST: 191.252.210.83
   DEPLOY_PATH: curriculosis/linkedin-bot
 
 jobs:
@@ -86,7 +86,7 @@ jobs:
           username: ${{ secrets.DEPLOY_SSH_USER }}
           key: ${{ secrets.DEPLOY_SSH_KEY }}
           port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
-          source: deploy/linkedin-bot/docker-compose.yml
+          source: deploy/linkedin-bot/docker-compose.yml,deploy/linkedin-bot/start-linkedin-bot.sh
           target: ${{ env.DEPLOY_PATH }}
           strip_components: 2
 
@@ -95,8 +95,6 @@ jobs:
         env:
           IMAGE_TAG: ${{ needs.build-and-push.outputs.image_tag }}
           LOOPBACK_URL: ${{ secrets.LOOPBACK_URL }}
-          LINKEDIN_USER: ${{ secrets.LINKEDIN_USER }}
-          LINKEDIN_PASSWORD: ${{ secrets.LINKEDIN_PASSWORD }}
           DEPLOY_PATH: ${{ env.DEPLOY_PATH }}
           GHCR_USER: ${{ github.actor }}
           GHCR_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -107,22 +105,19 @@ jobs:
           port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
           timeout: 5m
           command_timeout: 120m
-          envs: IMAGE_TAG,LOOPBACK_URL,LINKEDIN_USER,LINKEDIN_PASSWORD,DEPLOY_PATH,GHCR_USER,GHCR_TOKEN
+          envs: IMAGE_TAG,LOOPBACK_URL,DEPLOY_PATH,GHCR_USER,GHCR_TOKEN
           script: |
             set -e
             mkdir -p "$DEPLOY_PATH"
+            chmod +x "$DEPLOY_PATH/start-linkedin-bot.sh" || true
 
             cat > "$DEPLOY_PATH/.env" <<ENVFILE
             LINKEDIN_BOT_IMAGE=$IMAGE_TAG
             LOOPBACK_URL=$LOOPBACK_URL
-            LINKEDIN_USER=$LINKEDIN_USER
-            LINKEDIN_PASSWORD=$LINKEDIN_PASSWORD
-            LINKEDIN_HEADLESS=false
+            LINKEDIN_HEADLESS=true
             LINKEDIN_CHROME_USER_DATA_DIR=/home/seluser/chrome-profile
             LINKEDIN_CHROME_PROFILE=Default
             LINKEDIN_CHECKPOINT_TIMEOUT_SECONDS=300
-            SELENIUM_IMAGE=selenium/standalone-chrome:4.21.0
-            SELENIUM_REMOTE_URL=http://selenium:4444/wd/hub
             ENVFILE
 
             mkdir -p "$DEPLOY_PATH/linkedin_chrome_profile"
@@ -149,14 +144,8 @@ jobs:
               done
             }
 
-            # Keep cached layers to avoid pulling large Selenium images on each deploy.
             docker image prune -f || true
 
-            retry docker compose --env-file .env -f docker-compose.yml --profile manual-login pull -q linkedin-bot
-
-            if ! docker image inspect "${SELENIUM_IMAGE}" >/dev/null 2>&1; then
-              retry docker pull -q "${SELENIUM_IMAGE}"
-            fi
-
-            docker compose --env-file .env -f docker-compose.yml --profile manual-login up -d --remove-orphans --pull never selenium linkedin-bot
+            retry docker compose --env-file .env -f docker-compose.yml pull -q linkedin-bot
+            docker compose --env-file .env -f docker-compose.yml up -d --remove-orphans --pull never linkedin-bot
             docker image prune -f

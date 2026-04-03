@@ -93,31 +93,23 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		driver = criaWebDriver(options, remoteUrl);
 
         try {
-            // Acessar a página de login do LinkedIn
-            driver.get("https://www.linkedin.com/login");
-            logEstadoPagina("apos abrir login");
+            // Primeiro tenta usar sessão já autenticada no profile do Chrome.
+            driver.get("https://www.linkedin.com/jobs");
+            logEstadoPagina("apos abrir jobs");
 
-			boolean loginManual = obtemBooleanEnv("LINKEDIN_MANUAL_LOGIN", false);
-			if (loginManual) {
-				aguardaLoginManual();
+			if (!loginConcluido()) {
+				driver.get("https://www.linkedin.com/login");
+				logEstadoPagina("apos abrir login");
+				realizaLoginSeNecessario();
+				garanteLoginSemCheckpoint();
 			} else {
-				// Fazer login por credenciais
-				WebElement emailField = driver.findElement(By.id("username"));
-				String linkedinUser = obtemTextoEnvObrigatorio("LINKEDIN_USER");
-				emailField.sendKeys(linkedinUser);
-
-				WebElement passwordField = driver.findElement(By.id("password"));
-				String linkedinPassword = obtemTextoEnvObrigatorio("LINKEDIN_PASSWORD");
-				passwordField.sendKeys(linkedinPassword);
-				passwordField.sendKeys(Keys.RETURN);
-				logEstadoPagina("apos enviar credenciais");
+				System.out.println("[INFO] Sessao LinkedIn ativa detectada. Prosseguindo sem preencher credenciais.");
 			}
-			garanteLoginSemCheckpoint();
 
             // Esperar até que a página principal seja carregada
             driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-            // Navegar para a página de busca de vagas
+            // Garantir navegação para a página de busca de vagas
             driver.get("https://www.linkedin.com/jobs");
             logEstadoPagina("apos abrir pagina de vagas");
 
@@ -165,6 +157,31 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             driver.quit();
         }
         
+	}
+
+	private void realizaLoginSeNecessario() throws InterruptedException {
+		boolean loginManual = obtemBooleanEnv("LINKEDIN_MANUAL_LOGIN", false);
+		if (loginManual) {
+			aguardaLoginManual();
+			return;
+		}
+
+		String linkedinUser = obtemTextoEnv("LINKEDIN_USER");
+		String linkedinPassword = obtemTextoEnv("LINKEDIN_PASSWORD");
+		boolean temCredenciais = linkedinUser != null && !linkedinUser.trim().isEmpty()
+				&& linkedinPassword != null && !linkedinPassword.trim().isEmpty();
+
+		if (!temCredenciais) {
+			throw new IllegalStateException("Nao foi possivel autenticar no LinkedIn: sessao nao encontrada no profile e LINKEDIN_USER/LINKEDIN_PASSWORD nao foram informados.");
+		}
+
+		WebElement emailField = driver.findElement(By.id("username"));
+		emailField.sendKeys(linkedinUser);
+
+		WebElement passwordField = driver.findElement(By.id("password"));
+		passwordField.sendKeys(linkedinPassword);
+		passwordField.sendKeys(Keys.RETURN);
+		logEstadoPagina("apos enviar credenciais");
 	}
 
 	private void aguardaLoginManual() throws InterruptedException {
