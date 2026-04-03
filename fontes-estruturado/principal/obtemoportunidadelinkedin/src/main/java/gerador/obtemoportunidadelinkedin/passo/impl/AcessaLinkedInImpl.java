@@ -406,16 +406,15 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		} catch (SessionNotCreatedException e) {
 			String versaoCompletaBrowser = extraiVersaoCompletaBrowser(e.getMessage());
 			String majorVersaoBrowser = extraiMajorVersaoBrowser(e.getMessage());
-			if (versaoCompletaBrowser != null && !versaoCompletaBrowser.isEmpty()) {
-				String versaoLog = majorVersaoBrowser != null ? majorVersaoBrowser + ".x" : versaoCompletaBrowser;
-				System.out.println("[WARN] Incompatibilidade de versao entre Chrome e ChromeDriver detectada. Tentando ChromeDriver " + versaoLog + " (browser " + versaoCompletaBrowser + ")");
-				System.clearProperty("webdriver.chrome.driver");
-				WebDriverManager.chromedriver().browserVersion(versaoCompletaBrowser).setup();
-				return new ChromeDriver(options);
-			} else if (majorVersaoBrowser != null && !majorVersaoBrowser.isEmpty()) {
+			if (majorVersaoBrowser != null && !majorVersaoBrowser.isEmpty()) {
 				System.out.println("[WARN] Incompatibilidade de versao entre Chrome e ChromeDriver detectada. Tentando ChromeDriver " + majorVersaoBrowser + ".x");
 				System.clearProperty("webdriver.chrome.driver");
 				WebDriverManager.chromedriver().driverVersion(majorVersaoBrowser).setup();
+				return new ChromeDriver(options);
+			} else if (versaoCompletaBrowser != null && !versaoCompletaBrowser.isEmpty()) {
+				System.out.println("[WARN] Incompatibilidade de versao entre Chrome e ChromeDriver detectada. Tentando ChromeDriver para browser " + versaoCompletaBrowser);
+				System.clearProperty("webdriver.chrome.driver");
+				WebDriverManager.chromedriver().browserVersion(versaoCompletaBrowser).setup();
 				return new ChromeDriver(options);
 			}
 			throw e;
@@ -481,7 +480,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		if (versaoCompleta != null && !versaoCompleta.isEmpty()) {
 			String major = versaoCompleta.split("\\.")[0];
 			System.out.println("[INFO] Browser detectado na versao " + versaoCompleta + " (major " + major + "). Baixando ChromeDriver compativel.");
-			WebDriverManager.chromedriver().browserVersion(versaoCompleta).setup();
+			WebDriverManager.chromedriver().driverVersion(major).setup();
 			return;
 		}
 		WebDriverManager.chromedriver().setup();
