@@ -59,9 +59,22 @@ mkdir -p linkedin_chrome_profile && chmod 777 linkedin_chrome_profile
 /opt/curriculosis/linkedin-bot/start-linkedin-bot.sh
 ```
 
+O script já tenta usar Docker direto e, se necessário, faz fallback automático para `sudo docker`.
+
 Pronto. O robô tentará primeiro reutilizar a sessão existente. Só tentará login por usuário/senha se você tiver definido `LINKEDIN_USER` e `LINKEDIN_PASSWORD`.
 
 > Observação: mantenha o caminho interno como `/home/seluser/chrome-profile`; evite caminhos como `/data/...`, que podem gerar erro `cannot create default profile directory`.
+
+### Se aparecer erro de permissão no Docker (`/var/run/docker.sock`)
+
+O script `start-linkedin-bot.sh` tenta automaticamente `sudo docker`.
+Se o host exigir senha de sudo ou o usuário ainda não estiver no grupo `docker`, rode:
+
+```bash
+sudo usermod -aG docker "$USER"
+```
+
+Depois feche e abra um novo terminal da sessão remota e execute novamente o comando único do bot.
 
 ### Se o bot cair na tela de login
 

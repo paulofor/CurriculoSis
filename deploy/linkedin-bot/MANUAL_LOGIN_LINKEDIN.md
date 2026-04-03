@@ -56,6 +56,22 @@ docker compose --env-file /opt/curriculosis/linkedin-bot/.env -f /opt/curriculos
 
 ## Solução de problemas
 
+### Erro `permission denied` no Docker socket
+
+Se aparecer erro ao conectar em `/var/run/docker.sock`, use:
+
+```bash
+sudo usermod -aG docker "$USER"
+```
+
+Depois abra um novo terminal da sessão RDP e rode novamente:
+
+```bash
+/opt/curriculosis/linkedin-bot/start-linkedin-bot.sh
+```
+
+> O `start-linkedin-bot.sh` já tenta fallback automático para `sudo docker` quando não há acesso direto ao Docker.
+
 ### Bot abriu login mesmo com VPS já autenticado
 
 Checklist:
