@@ -51,12 +51,14 @@ jobs:
 
           mkdir -p dist/linkedin-bot
           cp fontes-estruturado/principal/obtemoportunidadelinkedin/target/linkedin-bot.jar dist/linkedin-bot/linkedin-bot.jar
+          cp deploy/linkedin-bot/run-linkedin-bot-local.sh dist/linkedin-bot/run-linkedin-bot-local.sh
+          chmod +x dist/linkedin-bot/run-linkedin-bot-local.sh
 
       - name: Upload JAR for deploy
         uses: actions/upload-artifact@v4
         with:
           name: linkedin-bot-jar
-          path: dist/linkedin-bot/linkedin-bot.jar
+          path: dist/linkedin-bot/
           if-no-files-found: error
 
   deploy:
@@ -67,7 +69,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download JAR
+      - name: Download deploy assets
         uses: actions/download-artifact@v4
         with:
           name: linkedin-bot-jar
@@ -101,7 +103,7 @@ jobs:
           username: ${{ secrets.DEPLOY_SSH_USER }}
           key: ${{ secrets.DEPLOY_SSH_KEY }}
           port: ${{ secrets.DEPLOY_SSH_PORT || 22 }}
-          source: dist/linkedin-bot/linkedin-bot.jar
+          source: dist/linkedin-bot/linkedin-bot.jar,dist/linkedin-bot/run-linkedin-bot-local.sh
           target: ${{ env.DEPLOY_PATH }}
 
       - name: Deploy on host
@@ -151,4 +153,9 @@ jobs:
               cp "$JAR_PATH" "$DEPLOY_PATH/linkedin-bot.jar"
             fi
 
-            echo "JAR implantado em $DEPLOY_PATH/linkedin-bot.jar. Execução automática desativada."
+            if [ -f "$DEPLOY_PATH/dist/linkedin-bot/run-linkedin-bot-local.sh" ]; then
+              cp "$DEPLOY_PATH/dist/linkedin-bot/run-linkedin-bot-local.sh" "$DEPLOY_PATH/run-linkedin-bot-local.sh"
+            fi
+            chmod +x "$DEPLOY_PATH/run-linkedin-bot-local.sh" || true
+
+            echo "JAR implantado em $DEPLOY_PATH/linkedin-bot.jar e script em $DEPLOY_PATH/run-linkedin-bot-local.sh. Execução automática desativada."
