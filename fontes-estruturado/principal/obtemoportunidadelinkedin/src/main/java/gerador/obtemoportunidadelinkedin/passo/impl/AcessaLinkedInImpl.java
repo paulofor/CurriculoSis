@@ -114,14 +114,26 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             logEstadoPagina("apos abrir pagina de vagas");
 
             // Inserir termo de pesquisa e buscar
-            WebElement searchBox = aguardaCampoBuscaPalavraChave();
+            boolean buscaExecutada = false;
             try {
-            	searchBox.clear();
-            } catch (WebDriverException e) {
-            	// Alguns campos do LinkedIn nao permitem clear, entao seguimos com o sendKeys direto
+            	WebElement searchBox = aguardaCampoBuscaPalavraChave();
+            	try {
+            		searchBox.clear();
+            	} catch (WebDriverException e) {
+            		// Alguns campos do LinkedIn nao permitem clear, entao seguimos com o sendKeys direto
+            	}
+            	searchBox.sendKeys(palavraPesquisaCorrente.getPalavra());
+            	searchBox.sendKeys(Keys.RETURN);
+            	buscaExecutada = true;
+            } catch (NoSuchElementException e) {
+            	System.out.println("[WARN] Campo de busca nao localizado na interface atual. Aplicando fallback por URL direta de busca.");
+            	acessaBuscaPorUrlDireta(palavraPesquisaCorrente.getPalavra());
+            	buscaExecutada = true;
             }
-            searchBox.sendKeys(palavraPesquisaCorrente.getPalavra());
-            searchBox.sendKeys(Keys.RETURN);
+
+            if (!buscaExecutada) {
+            	throw new IllegalStateException("Nao foi possivel executar a busca de vagas no LinkedIn.");
+            }
 
             // Esperar resultados de pesquisa
             TimeUnit.SECONDS.sleep(5);
@@ -157,6 +169,18 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             driver.quit();
         }
         
+	}
+
+	private void acessaBuscaPorUrlDireta(String palavra) {
+		try {
+			String termo = palavra == null ? "" : palavra.trim();
+			String termoCodificado = java.net.URLEncoder.encode(termo, StandardCharsets.UTF_8.toString());
+			String url = "https://www.linkedin.com/jobs/search/?keywords=" + termoCodificado;
+			driver.get(url);
+			logEstadoPagina("apos fallback de busca por URL direta");
+		} catch (Exception e) {
+			throw new RuntimeException("Falha ao executar fallback de busca por URL direta do LinkedIn.", e);
+		}
 	}
 
 	private void realizaLoginSeNecessario() throws InterruptedException {
