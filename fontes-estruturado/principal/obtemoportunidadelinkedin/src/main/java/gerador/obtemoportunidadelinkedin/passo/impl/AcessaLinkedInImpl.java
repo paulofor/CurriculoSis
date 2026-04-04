@@ -109,31 +109,8 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             // Esperar até que a página principal seja carregada
             driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-            // Garantir navegação para a página de busca de vagas
-            driver.get("https://www.linkedin.com/jobs");
-            logEstadoPagina("apos abrir pagina de vagas");
-
-            // Inserir termo de pesquisa e buscar
-            boolean buscaExecutada = false;
-            try {
-            	WebElement searchBox = aguardaCampoBuscaPalavraChave();
-            	try {
-            		searchBox.clear();
-            	} catch (WebDriverException e) {
-            		// Alguns campos do LinkedIn nao permitem clear, entao seguimos com o sendKeys direto
-            	}
-            	searchBox.sendKeys(palavraPesquisaCorrente.getPalavra());
-            	searchBox.sendKeys(Keys.RETURN);
-            	buscaExecutada = true;
-            } catch (NoSuchElementException e) {
-            	System.out.println("[WARN] Campo de busca nao localizado na interface atual. Aplicando fallback por URL direta de busca.");
-            	acessaBuscaPorUrlDireta(palavraPesquisaCorrente.getPalavra());
-            	buscaExecutada = true;
-            }
-
-            if (!buscaExecutada) {
-            	throw new IllegalStateException("Nao foi possivel executar a busca de vagas no LinkedIn.");
-            }
+            // Navegar direto para a busca de vagas, evitando depender da caixa de pesquisa da interface.
+            acessaBuscaPorUrlDireta(palavraPesquisaCorrente.getPalavra());
 
             // Esperar resultados de pesquisa
             TimeUnit.SECONDS.sleep(5);
