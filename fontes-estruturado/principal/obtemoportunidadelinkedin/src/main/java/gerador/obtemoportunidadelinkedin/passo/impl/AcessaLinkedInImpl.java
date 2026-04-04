@@ -45,6 +45,7 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 
 	WebDriver driver = null;
 	String chromeBinaryUtilizado = null;
+	boolean usandoDebugAddress = false;
 	
 	/*
 	 * Trocar o Driver do Chrome:
@@ -60,9 +61,18 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		ChromeOptions options = new ChromeOptions();
 		String remoteUrl = obtemTextoEnv("SELENIUM_REMOTE_URL");
 		boolean usandoSeleniumRemoto = remoteUrl != null && !remoteUrl.trim().isEmpty();
+		String debuggerAddress = obtemTextoEnv("LINKEDIN_CHROME_DEBUGGER_ADDRESS");
+		this.usandoDebugAddress = debuggerAddress != null && !debuggerAddress.trim().isEmpty();
+		if (this.usandoDebugAddress && usandoSeleniumRemoto) {
+			System.out.println("[WARN] SELENIUM_REMOTE_URL e LINKEDIN_CHROME_DEBUGGER_ADDRESS informados. Prioridade para debuggerAddress (browser ja aberto).");
+			remoteUrl = null;
+			usandoSeleniumRemoto = false;
+		}
 		boolean headless = obtemBooleanEnv("LINKEDIN_HEADLESS", true);
-		if (headless) {
+		if (headless && !this.usandoDebugAddress) {
 			options.addArguments("--headless");
+		} else if (headless) {
+			System.out.println("[WARN] LINKEDIN_HEADLESS=true ignorado porque LINKEDIN_CHROME_DEBUGGER_ADDRESS foi configurado.");
 		}
 		options.addArguments("--no-sandbox");
 		options.addArguments("--disable-dev-shm-usage");
@@ -74,8 +84,11 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		if (profileDirectory != null) {
 			options.addArguments("--profile-directory=" + profileDirectory);
 		}
+		if (this.usandoDebugAddress) {
+			options.setExperimentalOption("debuggerAddress", debuggerAddress);
+		}
 		String chromeBinaryPath = null;
-		if (!usandoSeleniumRemoto) {
+		if (!usandoSeleniumRemoto && !this.usandoDebugAddress) {
 			chromeBinaryPath = obtemChromeBinaryPath();
 			this.chromeBinaryUtilizado = chromeBinaryPath;
 			if (chromeBinaryPath != null) {
@@ -87,7 +100,8 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		System.out.println("[INFO] LinkedIn login config: headless=" + headless
 				+ ", userDataDir=" + (userDataDir != null ? "definido" : "nao definido")
 				+ ", profile=" + (profileDirectory != null ? profileDirectory : "default")
-				+ ", seleniumRemoto=" + (usandoSeleniumRemoto ? remoteUrl : "nao") + ".");
+				+ ", seleniumRemoto=" + (usandoSeleniumRemoto ? remoteUrl : "nao")
+				+ ", debuggerAddress=" + (this.usandoDebugAddress ? debuggerAddress : "nao") + ".");
 
 		// Inicializar o navegador
 		driver = criaWebDriver(options, remoteUrl);
@@ -149,9 +163,21 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
             return false;
         } finally {
             // Fechar o navegador
-            driver.quit();
+			if (deveFecharNavegadorNoFinal()) {
+	            driver.quit();
+			} else {
+				System.out.println("[INFO] Sessao do navegador mantida aberta (modo attach/debugger ou LINKEDIN_KEEP_BROWSER_OPEN=true).");
+			}
         }
         
+	}
+
+	private boolean deveFecharNavegadorNoFinal() {
+		if (this.usandoDebugAddress) {
+			return false;
+		}
+		boolean manterAberto = obtemBooleanEnv("LINKEDIN_KEEP_BROWSER_OPEN", false);
+		return !manterAberto;
 	}
 
 	private void acessaBuscaPorUrlDireta(String palavra) {

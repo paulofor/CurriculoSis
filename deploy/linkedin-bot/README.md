@@ -26,6 +26,8 @@ Configure no repositório (`Settings` → `Secrets and variables` → `Actions`)
 - `LINKEDIN_HEADLESS`: executa navegador em headless (`true` padrão).
 - `LINKEDIN_CHROME_USER_DATA_DIR`: diretório de perfil do Chrome para persistir sessão/cookies (padrão no compose: `/home/seluser/chrome-profile`).
 - `LINKEDIN_CHROME_PROFILE`: nome do profile dentro do `user-data-dir` (padrão: `Default`).
+- `LINKEDIN_CHROME_DEBUGGER_ADDRESS`: conecta o Selenium em um Chrome **já aberto** com `--remote-debugging-port` (ex.: `127.0.0.1:9222`).
+- `LINKEDIN_KEEP_BROWSER_OPEN`: quando `true`, não fecha o navegador ao final da execução (útil para diagnóstico local).
 - `LINKEDIN_CHECKPOINT_TIMEOUT_SECONDS`: timeout para checkpoint/captcha (padrão recomendado: `300`).
 - `LINKEDIN_USER` e `LINKEDIN_PASSWORD` são **opcionais** e usados apenas como fallback se não houver sessão já logada no profile.
 
@@ -66,6 +68,24 @@ mkdir -p linkedin_chrome_profile && chmod 777 linkedin_chrome_profile
 ```
 
 Pronto. O robô tentará primeiro reutilizar a sessão existente. Só tentará login por usuário/senha se você tiver definido `LINKEDIN_USER` e `LINKEDIN_PASSWORD`.
+
+## Como anexar no browser que já está aberto (Selenium direto na janela atual)
+
+1. Abra o Chrome manualmente com porta de depuração:
+
+```bash
+google-chrome --remote-debugging-port=9222 --user-data-dir=/tmp/chrome-debug
+```
+
+2. Configure:
+
+```env
+LINKEDIN_CHROME_DEBUGGER_ADDRESS=127.0.0.1:9222
+LINKEDIN_HEADLESS=false
+LINKEDIN_KEEP_BROWSER_OPEN=true
+```
+
+3. Execute o robô normalmente. Nesse modo, ele se conecta na instância aberta e não cria uma nova janela do Chrome.
 
 > Observação: mantenha o caminho interno como `/home/seluser/chrome-profile`; evite caminhos como `/data/...`, que podem gerar erro `cannot create default profile directory`.
 
