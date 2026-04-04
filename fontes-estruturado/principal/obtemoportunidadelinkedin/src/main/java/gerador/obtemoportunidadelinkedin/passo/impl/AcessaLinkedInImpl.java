@@ -152,8 +152,22 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 		try {
 			String termo = palavra == null ? "" : palavra.trim();
 			String termoCodificado = java.net.URLEncoder.encode(termo, StandardCharsets.UTF_8.toString());
-			String url = "https://www.linkedin.com/jobs/search/?keywords=" + termoCodificado;
-			driver.get(url);
+			String localBusca = obtemTextoEnv("LINKEDIN_JOB_LOCATION");
+			if (localBusca == null || localBusca.trim().isEmpty()) {
+				localBusca = "Brazil";
+			}
+			String localCodificado = java.net.URLEncoder.encode(localBusca.trim(), StandardCharsets.UTF_8.toString());
+			boolean somenteRemoto = obtemBooleanEnv("LINKEDIN_REMOTE_ONLY", true);
+
+			StringBuilder url = new StringBuilder("https://www.linkedin.com/jobs/search/?keywords=")
+					.append(termoCodificado)
+					.append("&location=")
+					.append(localCodificado);
+			if (somenteRemoto) {
+				url.append("&f_WT=2");
+			}
+
+			driver.get(url.toString());
 			logEstadoPagina("apos fallback de busca por URL direta");
 		} catch (Exception e) {
 			throw new RuntimeException("Falha ao executar fallback de busca por URL direta do LinkedIn.", e);
