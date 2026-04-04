@@ -114,24 +114,30 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 
             // Esperar resultados de pesquisa
             TimeUnit.SECONDS.sleep(5);
+            logDiagnosticoResultadoBusca("apos abrir resultado por URL");
 
             // Coletar descrições de vagas
             
 
             this.saidaListaOportunidade = new ArrayList<OportunidadeLinkedin>();
             adicionaItens(palavraPesquisaCorrente);
+            System.out.println("[INFO] Total acumulado de oportunidades apos pagina 1: " + this.saidaListaOportunidade.size());
 
 			for (int pagina = 2; pagina <= 15; pagina++) {
 				// Localiza o botão pelo atributo aria-label usando XPath
 				try {
 					WebElement button = driver.findElement(By.xpath("//button[@aria-label='Página " + pagina + "']"));
 					if (button != null) {
+						System.out.println("[DEBUG] Botao de paginacao encontrado para pagina " + pagina + ". Realizando clique.");
 						button.click();
 						TimeUnit.SECONDS.sleep(5);
+						logDiagnosticoResultadoBusca("apos navegar para pagina " + pagina);
 						adicionaItens(palavraPesquisaCorrente);
+						System.out.println("[INFO] Total acumulado de oportunidades apos pagina " + pagina + ": " + this.saidaListaOportunidade.size());
 					}
 				} catch (NoSuchElementException e) {
-
+					System.out.println("[DEBUG] Pagina " + pagina + " nao encontrada na paginacao atual. Encerrando varredura de paginas.");
+					break;
 				}
 
 			}
@@ -683,9 +689,18 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 	
 	private void adicionaItens(PalavraRaiz palavraRaiz) throws InterruptedException {
 		List<WebElement> jobs = obtemListaCardsVagas();
+		System.out.println("[DEBUG] Cards de vaga localizados na pagina atual: " + jobs.size());
+		if (jobs.isEmpty()) {
+			logDiagnosticoResultadoBusca("nenhum card encontrado");
+		}
+		int adicionadasNaPagina = 0;
+		int errosNaPagina = 0;
+		int indiceCard = 0;
 		for (WebElement job : jobs) {
+			indiceCard++;
 			OportunidadeLinkedin novo = new OportunidadeLinkedin();
 			if (!clicaCardVaga(job)) {
+				System.out.println("[WARN] Card " + indiceCard + " ignorado por falha no clique.");
 				continue;
 			}
 			TimeUnit.SECONDS.sleep(2);
@@ -737,11 +752,14 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 				novo.setModelo(modelo);
 
 				saidaListaOportunidade.add(novo);
+				adicionadasNaPagina++;
 			} catch (Exception e) {
+				errosNaPagina++;
 				e.printStackTrace();
 				System.out.println("Não foi possível extrair a descrição da vaga.");
 			}
 		}
+		System.out.println("[INFO] Resumo da pagina: cards=" + jobs.size() + ", oportunidadesAdicionadas=" + adicionadasNaPagina + ", falhasExtracao=" + errosNaPagina + ".");
 	}
 
 	private List<WebElement> obtemListaCardsVagas() {
@@ -881,6 +899,25 @@ public class AcessaLinkedInImpl extends AcessaLinkedIn {
 			}
 		}
 		return "";
+	}
+
+	private void logDiagnosticoResultadoBusca(String contexto) {
+		try {
+			logEstadoPagina(contexto);
+			List<WebElement> cards = obtemListaCardsVagas();
+			System.out.println("[DEBUG] Diagnostico de resultados (" + contexto + "): cardsDetectados=" + cards.size());
+			if (cards.isEmpty()) {
+				String pageSource = valorSeguro(driver.getPageSource()).toLowerCase(Locale.ROOT);
+				if (pageSource.contains("no matching jobs") || pageSource.contains("nenhum resultado")) {
+					System.out.println("[WARN] Busca retornou indicio de zero resultados no HTML.");
+				}
+				if (pageSource.contains("captcha") || pageSource.contains("challenge") || pageSource.contains("checkpoint")) {
+					System.out.println("[WARN] Possivel bloqueio/captcha/checkpoint detectado na pagina de resultados.");
+				}
+			}
+		} catch (Exception e) {
+			System.out.println("[WARN] Falha ao gerar diagnostico de resultados (" + contexto + "): " + e.getMessage());
+		}
 	}
 
 
